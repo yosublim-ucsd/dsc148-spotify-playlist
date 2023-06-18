@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-478 songs - 22 hr 11 min
+479 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [I'm the Bag](https://open.spotify.com/track/5hLTaD7ZuEtDOkfETWkhlD) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [I'm the Bag](https://open.spotify.com/album/1m2gjLVruReTBQgtFAYrFR) | 1:56 | 2023-02-03 | 2023-03-11 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-04-01 | 2022-05-07 |
 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 | 2022-08-19 | 2022-10-29 |
-| [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/0nUIKgmubmF43zb7eL0Tpi) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4XBBw9vxjoiFyB1BEUZ156) | 3:00 | 2023-06-16 |  |
+| [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/0nUIKgmubmF43zb7eL0Tpi) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4XBBw9vxjoiFyB1BEUZ156) | 3:00 | 2023-06-16 | 2023-06-18 |
 | [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 | 2022-08-26 | 2022-10-01 |
 | [If It's War](https://open.spotify.com/track/3PP5CxbgT2IGuyivgFkgDk) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [If It's War](https://open.spotify.com/album/2tiObud4z6erxYWvtus0xH) | 1:51 | 2021-10-15 | 2022-02-12 |
 | [If You Know You Know](https://open.spotify.com/track/73hjVsSxAk9ia713WUnF8v) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Black Heart](https://open.spotify.com/album/2csQIiTU3v9xEQKsKIfv1z) | 3:06 | 2022-09-09 | 2022-12-17 |
@@ -238,6 +238,7 @@
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 |  |
 | [Lemme See](https://open.spotify.com/track/0mgdeH7RVvSY0Lz3xcSioz) | [Damedot](https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0) | [The Umbrella Again](https://open.spotify.com/album/00BaHwuJcEWlsKGYQ65qYl) | 2:24 | 2022-03-18 | 2022-06-25 |
 | [let it fly](https://open.spotify.com/track/6EMJKZxejykO2nGfOxggEF) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [let it fly](https://open.spotify.com/album/1pMtm1ezZsrxNVFtVZ22EL) | 2:06 | 2022-04-15 | 2022-05-14 |
+| [Let Me Know](https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Brandon Myster](https://open.spotify.com/artist/7f6THh0kajO6OEeEF2U9jp) | [Let Me Know](https://open.spotify.com/album/7KeBQrOrDItquy091vuho3) | 3:17 | 2023-06-17 |  |
 | [Likka Sto](https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH) | [Likka Sto](https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72) | 2:10 | 2023-04-07 | 2023-06-10 |
 | [Lion Eyes](https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lion Eyes](https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3) | 1:52 | 2021-11-12 | 2022-03-05 |
 | [Live From The Gutta!](https://open.spotify.com/track/06ggsSBGgmgCGhrOrvZcFJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [My Own Worst Enemy](https://open.spotify.com/album/70BdCPM4u4MAJmZHAy1dGx) | 2:53 | 2022-03-04 | 2022-03-19 |

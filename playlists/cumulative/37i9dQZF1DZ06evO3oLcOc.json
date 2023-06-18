@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "PLATINUM",
+        "url": "https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "PLATINUM",
+      "url": "https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu"
+    },
+    {
+      "album": {
         "name": "Careless World: Rise Of The Last King",
         "url": "https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob"
       },

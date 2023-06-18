@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,905 likes - 203 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,957 likes - 203 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 202 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 |
 | 203 | [Waves of Bliss](https://open.spotify.com/track/4ujz8hsDEAURnqFSyH0wGt) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:00 |
 
-Snapshot ID: `MCwwZGY0ZmY5MjM4YmI0YTU3YmU5MGNiNzgxNjIyZTI2ZTJiZGJlNjFi`
+Snapshot ID: `MCw1MTgzZDI0NjM0ZGI2YmEzNzFlZDFjZTVkYjNlMDE5ZWU4NGY2MDJk`

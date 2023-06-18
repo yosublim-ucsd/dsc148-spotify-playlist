@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Blonda",
+        "url": "https://open.spotify.com/album/2HqA5drhy5KIX187mwQVRw"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153406,
+      "name": "Blonda",
+      "url": "https://open.spotify.com/track/6hScg8gWUWo26CMq51Payc"
+    },
+    {
+      "album": {
         "name": "The Best Of BTS (Korea Edition)",
         "url": "https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh"
       },
@@ -4780,7 +4798,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -9782,7 +9800,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 166264,
       "name": "IN LIPSA TA 2",
       "url": "https://open.spotify.com/track/3T2mWZe3ArDpKwFcdSS3iF"
@@ -10574,7 +10592,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -12016,7 +12034,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 166788,
       "name": "Lumea asta",
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
@@ -12410,7 +12428,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"

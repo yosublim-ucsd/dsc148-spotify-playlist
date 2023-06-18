@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Trippie Redd",
-  "num_followers": 108420,
+  "num_followers": 108488,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDRjNGI4YzdmMGJjOWYzNGM4NzY1OTYwZjM3ZWZhM2JlMWIzZmU1",
+  "snapshot_id": "MCw2OTJhZDM3N2EzNTlmM2M3YTBlYzIzYjAyMjM0ZGJmN2M2MzNkOTY3",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -155,30 +155,6 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4XBBw9vxjoiFyB1BEUZ156"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/0nUIKgmubmF43zb7eL0Tpi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -551,6 +527,26 @@
       "duration_ms": 226056,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/0rpk9iskAE63lLA8haPyIj"
+    },
+    {
+      "added_at": "2023-06-17 21:56:25",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/7KeBQrOrDItquy091vuho3"
+      },
+      "artists": [
+        {
+          "name": "Black Milk",
+          "url": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+        },
+        {
+          "name": "Brandon Myster",
+          "url": "https://open.spotify.com/artist/7f6THh0kajO6OEeEF2U9jp"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW"
     },
     {
       "added_at": "2023-05-19 04:00:00",

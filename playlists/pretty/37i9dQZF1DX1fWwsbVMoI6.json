@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 98634,
+  "num_followers": 98687,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzE3MGU2OTk3YjY1NzI2MjAyNzc0ZTRjMWZhNDUxNjJlZTRmMzFl",
+  "snapshot_id": "MCwwOTFkMGYzOWVmN2NmMzM0YjRhNmU3ZmIwNmUzNDJkMjllOTMxZWQ2",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Goza Tu Cumbia: Peruvian Cumbia",
-        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "No Te Creas Tan Importante",
         "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 246048,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -595,6 +595,30 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Amor a Primera Vista",
+        "url": "https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        },
+        {
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Jota Benz",
+          "url": "https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv"
+        }
+      ],
+      "duration_ms": 215344,
+      "name": "Amor a Primera Vista",
+      "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
       },
@@ -643,26 +667,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Amor a Primera Vista",
-        "url": "https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN"
+        "name": "Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
       },
       "artists": [
         {
-          "name": "Deyvis Orosco",
-          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
-        },
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Jota Benz",
-          "url": "https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv"
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
         }
       ],
-      "duration_ms": 215344,
-      "name": "Amor a Primera Vista",
-      "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
+      "duration_ms": 219951,
+      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -679,22 +695,6 @@
       "duration_ms": 213826,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Teatro Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        }
-      ],
-      "duration_ms": 219951,
-      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
     },
     {
       "added_at": "2023-03-31 05:01:00",

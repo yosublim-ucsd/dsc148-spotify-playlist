@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Asake \(pictured\), Doja Cat, Tom Grennan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,189 likes - 144 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,241 likes - 144 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 46 | [NIGHT IN LA’CASA](https://open.spotify.com/track/2bzFpyotgxBkaunykIogzq) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [NIGHT IN LA’CASA](https://open.spotify.com/album/7hJRiT3yyMaOSCVXpki5Jp) | 2:35 |
 | 47 | [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 |
 | 48 | [So It Seems](https://open.spotify.com/track/02JtLq9HxIjrrE5f0ctt5J) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [So It Seems](https://open.spotify.com/album/6jWuqADWdgOURc1MHt0GR4) | 3:23 |
-| 49 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/5yo8ZMnJhBOiFf39eMNvEm) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 |
+| 49 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 |
 | 50 | [Dubai To Ibiza](https://open.spotify.com/track/45Ro9mIppw0u9mvN0Jhf00) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Dubai To Ibiza](https://open.spotify.com/album/2vkWRqaVcDCmKs8Xn8LRI2) | 2:09 |
 | 51 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 |
 | 52 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 |
-| 53 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:57 |
+| 53 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 |
 | 54 | [TYSON](https://open.spotify.com/track/341gRwF2amC0B8Ow2K2ION) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [TYSON](https://open.spotify.com/album/4Ragvg69LTa0M0uhvhxb9J) | 3:17 |
 | 55 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 |
 | 56 | [Break In](https://open.spotify.com/track/5eRjEIaNVUL3Ahua8uy4B0) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Break In](https://open.spotify.com/album/7JkZY7aFLeIMjjIjydgw13) | 3:42 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 107 | [Lost \(ft\. Fredwave\)](https://open.spotify.com/track/6peyQ2hg01ve0DWaJysSEm) | [J Rick](https://open.spotify.com/artist/3b0OO3bmtd9oXo3EOW8KHZ), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Lost \(ft\. Fredwave\)](https://open.spotify.com/album/7aX2LrsK5lT6QfSOw3Cbg9) | 2:43 |
 | 108 | [Falling](https://open.spotify.com/track/2Px6ovf0vMZsH5SPPfgM1N) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj) | [Falling](https://open.spotify.com/album/4wnlN2WYU4NeYV6IQ5hJNi) | 2:46 |
 | 109 | [Glastonbury](https://open.spotify.com/track/3bOZlwqkyzEJLVieXorDtZ) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [Cinematic Baby](https://open.spotify.com/album/3zR3tVqYP1dAL6uxGOaJUg) | 3:48 |
-| 110 | [Don't Stop \- Radio Edit](https://open.spotify.com/track/0JIpWZTSPZvCjohDcqVHty) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Tomorrow's Warriors](https://open.spotify.com/artist/1rrPmxNBuw7CYJw3zOZ7PZ), [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Don't Stop](https://open.spotify.com/album/0R3dAgEySTkCUFAWMsGqsH) | 2:38 |
+| 110 | [Don't Stop \- Radio Edit](https://open.spotify.com/track/0JIpWZTSPZvCjohDcqVHty) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Tomorrow's Warriors](https://open.spotify.com/artist/1rrPmxNBuw7CYJw3zOZ7PZ) | [Don't Stop](https://open.spotify.com/album/0R3dAgEySTkCUFAWMsGqsH) | 2:38 |
 | 111 | [id pick up flowers](https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [id pick up flowers](https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe) | 3:47 |
 | 112 | [Top Body](https://open.spotify.com/track/3htgpwW1hscfN9EBZZUZRt) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Top Body](https://open.spotify.com/album/4AQW0HTs3AcHUKMOtCXFtg) | 2:37 |
 | 113 | [Wasting My Time \(With You\)](https://open.spotify.com/track/3gcIxK8Mv6pK2O2JbJUVfA) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Jero](https://open.spotify.com/artist/0URco8G7iEzorUVuigcddQ), [Honka](https://open.spotify.com/artist/7r2sgTuPg0tuQvNPG4oNox) | [Wasting My Time \(With You\)](https://open.spotify.com/album/0NxFpIR0PDGeIczAFk7xZG) | 2:11 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [Other Side](https://open.spotify.com/track/0XQCSeMewgwRdAUiZlMdFB) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Other Side](https://open.spotify.com/album/6stbeO8ul2jP9PZwxUSaoL) | 2:08 |
 | 144 | [Runaway](https://open.spotify.com/track/2LeuPP8lfPi5YtqK2jv8VH) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Runaway](https://open.spotify.com/album/0nHYvEBLnYbIApQLBIS4f3) | 3:04 |
 
-Snapshot ID: `MCxlNGFmMWViN2FiMzZlY2Y5NmM3NjQ1NzQwYTIwNGE4MDU0NTBjMDll`
+Snapshot ID: `MCw1MWJkZDBiMWQwMjNlNGQyMzQyNDc3NDc1ZGRjN2EzN2QzOWJmYWM0`

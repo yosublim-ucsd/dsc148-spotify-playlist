@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-214 songs - 9 hr 40 min
+215 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,11 +34,12 @@
 | [Bombay Lemon](https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [LOVE?](https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm) | 2:56 | 2023-02-23 |  |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 | 2023-02-25 |
 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 | 2022-12-05 | 2023-01-13 |
-| [Bullshit](https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Bullshit](https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI) | 2:10 | 2023-06-14 |  |
+| [Bullshit](https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Bullshit](https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI) | 2:10 | 2023-06-14 | 2023-06-18 |
 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 | 2023-01-20 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 | 2022-12-09 |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-08 |  |
 | [Cerimonia](https://open.spotify.com/track/4q2F8Q94gIY3yFwIliTnRZ) | [GARA2](https://open.spotify.com/artist/7LJbgyipJ45jT8NwUWq8sc) | [Cerimonia](https://open.spotify.com/album/36L6taiEL3lwHnYyEnjABL) | 3:15 | 2022-12-15 | 2023-01-13 |
+| [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 | 2023-06-15 |  |
 | [Cicatrici](https://open.spotify.com/track/3M7tOqC4TBFlZKcUwWkEjo) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Cicatrici](https://open.spotify.com/album/6Qdg8tGzw265EafPwrrtKT) | 3:11 | 2022-10-06 | 2022-12-09 |
 | [Cicatrici](https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d) | [piccoli brividi](https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r), [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Kuiper](https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG) | [Cicatrici](https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT) | 3:50 | 2022-07-28 | 2023-01-13 |
 | [Cicatrici](https://open.spotify.com/track/18xRjW5ARD2ivfMkA807fw) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/1ONUeIv6IR6ECQB00q3gLL) | 2:28 | 2022-11-10 | 2022-11-13 |

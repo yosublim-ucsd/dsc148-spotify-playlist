@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Angel White\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,252 songs - 9 day 16 hr 25 min
+4,253 songs - 9 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Agastopia](https://open.spotify.com/track/2Ol9ugKyufcSuNq4PTyZy9) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Dark Fire Heresy](https://open.spotify.com/album/1juzyJJABHEPYu14gSkPGj) | 3:57 | 2023-05-10 | 2023-05-18 |
 | [Age Carry](https://open.spotify.com/track/4NvtXz0bIWCMP33FOP0sCW) | [Jane Lai](https://open.spotify.com/artist/6UdWXal82m8FV736R59CsV) | [Age Carry](https://open.spotify.com/album/1QgRX3fuZiewPQ5TyTT2Z9) | 2:22 | 2022-03-16 | 2022-03-24 |
 | [Age of Anxious](https://open.spotify.com/track/5DA27g2tzcNKDpeH2rulzS) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Age Of Anxious](https://open.spotify.com/album/7bcmNxE5eyC3qZQg837s60) | 3:55 | 2022-06-15 | 2022-06-30 |
-| [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-14 |  |
+| [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-14 |  |
+| [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-14 | 2023-06-18 |
 | [Agenda](https://open.spotify.com/track/2S0YH4sawK9y1k7p1v8iZn) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Freelance: Charlie](https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt) | 3:44 | 2022-08-03 | 2022-08-11 |
 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 | 2023-03-22 | 2023-03-30 |
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-01-26 | 2022-02-03 |

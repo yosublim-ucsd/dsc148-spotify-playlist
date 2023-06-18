@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 406067,
+  "num_followers": 406338,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjZiZmI3MTRiY2VmMDc5MTI5MWMwYTk1ZjQxZDc0YzNlZWVmYzE5",
+  "snapshot_id": "MCw5ZDk1YjBkZTNjODMzZTAyNjFkNmZkNDgyYzFjMzdlYTY5MzIwMjIx",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Do It Now Remember It Later",
-      "url": "https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Do It Now Remember It Later",
+      "url": "https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Lead Sails Paper Anchor",
-        "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Becoming the Bull",
-      "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 262573,
       "name": "Reinventing Your Exit",
       "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Lead Sails Paper Anchor",
+        "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Becoming the Bull",
+      "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "When Broken Is Easily Fixed",
-        "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Smashed Into Pieces",
-      "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "When Broken Is Easily Fixed",
+        "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Smashed Into Pieces",
+      "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
     },
     {
       "added_at": "2023-03-28 16:00:32",

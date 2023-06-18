@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 430561,
+  "num_followers": 430731,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBiZDU0NDE5YzUwMDRmOTk5NGFlMzYzMGQ0NTNjY2I4OGQyNWI2",
+  "snapshot_id": "MCxhOTk5MmUyM2NkYjVhNDJkNjFlNmUwNDE4ZDk0NzNiNzkzMmNkYThm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "What It Is (2.0)",
-        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
-      },
-      "artists": [
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 336025,
-      "name": "The Body Move",
-      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -631,6 +615,22 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "What It Is (2.0)",
+        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "duration_ms": 336025,
+      "name": "The Body Move",
+      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "I Knew It",
-        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
       "artists": [
         {
-          "name": "Yambow",
-          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
-        },
-        {
-          "name": "Latas",
-          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
         }
       ],
-      "duration_ms": 224390,
-      "name": "I Knew It",
-      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -767,18 +747,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Lazybones",
-        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
+        "name": "I Knew It",
+        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
       },
       "artists": [
         {
-          "name": "Gene On Earth",
-          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
+          "name": "Yambow",
+          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
+        },
+        {
+          "name": "Latas",
+          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
         }
       ],
-      "duration_ms": 347408,
-      "name": "Pulse Mode",
-      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
+      "duration_ms": 224390,
+      "name": "I Knew It",
+      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -815,26 +799,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Hyperspace (feat. Teza Sumendra)",
-        "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Teza Sumendra",
-          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
-        }
-      ],
-      "duration_ms": 204445,
-      "name": "Hyperspace (feat. Teza Sumendra)",
-      "url": "https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
       },
@@ -859,6 +823,42 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Hyperspace (feat. Teza Sumendra)",
+        "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "Hyperspace (feat. Teza Sumendra)",
+      "url": "https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Lazybones",
+        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
+      },
+      "artists": [
+        {
+          "name": "Gene On Earth",
+          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
+        }
+      ],
+      "duration_ms": 347408,
+      "name": "Pulse Mode",
+      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "SETRA",
         "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 128571,
       "name": "Setra",
       "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2023-06-09 09:00:00",

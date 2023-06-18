@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Don Omar.
 
-1,166 songs - 2 day 21 hr 19 min
+1,166 songs - 2 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Inocente](https://open.spotify.com/track/2X1Ga7VVXsMIJfuamFuU59) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Inocente](https://open.spotify.com/album/3TARqX543y1jPmXx6SJOfZ) | 2:49 | 2022-10-28 | 2022-11-05 |
 | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/track/6qM2i722HNgqvpNBwYzKIk) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/album/2HsF8RzCLIH8Mz5dt1mSrf) | 5:37 | 2022-12-23 | 2023-04-09 |
 | [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES \- EN VIVO](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 9:14 | 2023-01-13 | 2023-01-21 |
+| [Intro Homenaje al Cuarteto \- La Gaita de la Cenicienta \- En Vivo](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 2:36 | 2023-06-16 |  |
 | [Jamás Podré Olvidar](https://open.spotify.com/track/7fjXrlYpZkwBc7fiQ8jaGE) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Jamás Podré Olvidar](https://open.spotify.com/album/6xia6WF9XWuKUEkHYzB1Is) | 2:13 | 2022-10-28 | 2022-12-10 |
 | [Juan Mecánico](https://open.spotify.com/track/39ajNFfqmnkpgXRfbMEjv3) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbia Popular](https://open.spotify.com/album/59A0m78pbCoSZU46pKJOMl) | 2:42 | 2022-05-27 | 2022-06-18 |
 | [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \- Enganchaditos en vivo 3](https://open.spotify.com/track/3an2GneYCpU1qh9q7fcS2K) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \(Enganchaditos en vivo 3\)](https://open.spotify.com/album/2jM5kmlcSblZkM0C8pdde7) | 6:24 | 2023-04-07 | 2023-04-15 |
@@ -500,7 +501,6 @@
 | [La Equivocada / Agua Ardiente](https://open.spotify.com/track/7BDWsdRXEPGIw48Zj8l91J) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [La Equivocada / Agua Ardiente](https://open.spotify.com/album/4GpHuDCncPvL2vG3j5RG4G) | 3:22 | 2022-07-01 | 2022-07-09 |
 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 | 2023-06-02 |  |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 | 2023-03-11 |
-| [La Gaita de la Cenicienta](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 5:11 | 2023-06-16 |  |
 | [La Historia de Amor](https://open.spotify.com/track/7DirVnIy9Lae6QsZX5pT8j) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [La Historia de Amor](https://open.spotify.com/album/76bCfC7R5KzwrtNx1SjdkP) | 3:27 | 2023-05-19 | 2023-06-03 |
 | [La Llamada](https://open.spotify.com/track/2CPXNiBLtEqrk0C8POsnW5) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [La Llamada](https://open.spotify.com/album/2KfaELlsmIPx2oQka4ZMZY) | 3:42 | 2023-02-03 | 2023-02-25 |
 | [La Luna](https://open.spotify.com/track/0HI0sNILJr8YawFrjTK0u6) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [La Luna](https://open.spotify.com/album/4LIOp0KnsVWjN9r9aIpV1n) | 4:20 | 2022-05-27 | 2022-08-06 |

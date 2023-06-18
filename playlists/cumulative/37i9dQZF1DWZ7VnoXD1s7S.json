@@ -406,6 +406,24 @@
     {
       "album": {
         "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
+    },
+    {
+      "album": {
+        "name": "Comfort Chain",
         "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
       },
       "artists": [
@@ -416,7 +434,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
@@ -578,10 +596,28 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 119744,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2bMMN4CiUYRa1PVBY7KyZq"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3PQQmgHwmrt6Eta9eI8zjt"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119744,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5tG9KCkEnWc75cREtb4ffB"
     },
     {
       "album": {
@@ -827,6 +863,24 @@
     },
     {
       "album": {
+        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e",
+        "url": "https://open.spotify.com/album/4kL7UqpdcxyO3L2iKtRU3T"
+      },
+      "artists": [
+        {
+          "name": "leydown n chill",
+          "url": "https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80875,
+      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e",
+      "url": "https://open.spotify.com/track/3HCvs4xIilim8FJeIGyqwb"
+    },
+    {
+      "album": {
         "name": "I Just Want to Be the One You Love",
         "url": "https://open.spotify.com/album/4Mb3qekcMKwfRNSnEioyRO"
       },
@@ -976,7 +1030,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 80875,
       "name": "ijustwanttobetheoneyoulove",
       "url": "https://open.spotify.com/track/26mmry6960F1Eir2TIh4RY"

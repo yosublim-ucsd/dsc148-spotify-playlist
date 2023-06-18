@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-254 songs - 20 hr 36 min
+255 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Crescent](https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:51 | 2023-01-27 |  |
 | [Crescent](https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Crescent](https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc) | 5:51 | 2022-08-17 | 2023-02-18 |
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 | 2023-01-21 |
+| [Dear](https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 5:36 | 2023-06-09 |  |
 | [Dear \- Amulets Rework](https://open.spotify.com/track/6vzo1YkZADgaP8WzTLld2D) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Dear \(Amulets Rework\)](https://open.spotify.com/album/21iHYe4bks6r9xxmbvYJbj) | 5:28 | 2022-12-20 |  |
 | [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-11 |  |
 | [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2023-05-16 |
@@ -189,7 +190,7 @@
 | [shiho](https://open.spotify.com/track/1s1DRtaKu9iIfTqT24R0Gx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-16 |  |
 | [Silence \- Instrumental](https://open.spotify.com/track/2YJ2nrHpwfxhAwH8Fkf9uA) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 8:21 | 2023-05-19 | 2023-06-06 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
-| [Sleep Cycle](https://open.spotify.com/track/0I3dIMAX86mepOPGEOJpQC) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [Sleep Cycle](https://open.spotify.com/album/0yazt3WhxjNeM6cTmMmcAl) | 4:32 | 2023-01-27 |  |
+| [Sleep Cycle](https://open.spotify.com/track/0I3dIMAX86mepOPGEOJpQC) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [Sleep Cycle](https://open.spotify.com/album/0yazt3WhxjNeM6cTmMmcAl) | 4:32 | 2023-01-27 | 2023-06-18 |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |
 | [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 |  |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 | 2023-03-18 |

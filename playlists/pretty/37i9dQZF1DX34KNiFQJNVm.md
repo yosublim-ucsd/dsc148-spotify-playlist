@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima, Rebecca, Pabllo Vittar e Vivi, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,934 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,881,375 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 48 | [Surra De Hãn](https://open.spotify.com/track/31r961ztHOxUU2vAoF0iiv) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Surra De Hãn](https://open.spotify.com/album/7xTky1RYQJvtei1CbQ8O3h) | 2:43 |
 | 49 | [Xote Bom](https://open.spotify.com/track/4iNga9suxHVsrprZHbtXqM) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Xote Bom](https://open.spotify.com/album/0ebE164OQHopmDfJ2KX0ML) | 2:54 |
 | 50 | [Chance Boa](https://open.spotify.com/track/7zme2HMHGmCuaiSTGuBAUn) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Chance Boa](https://open.spotify.com/album/0lyrmwVpiDJiSC6RNusLfb) | 2:38 |
-| 51 | [Seu Lugar](https://open.spotify.com/track/3GYXw8Sb5PALxSIZV66eoe) | [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj) | [Seu Lugar](https://open.spotify.com/album/1118xizTevybmLFA81g2Ot) | 2:18 |
+| 51 | [Não Vai Ter Fim](https://open.spotify.com/track/3GYXw8Sb5PALxSIZV66eoe) | [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj) | [Não Vai Ter Fim](https://open.spotify.com/album/1118xizTevybmLFA81g2Ot) | 2:18 |
 | 52 | [Trem Louco](https://open.spotify.com/track/38EuACX6FLuST6mDRKZ0jx) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Trem Louco](https://open.spotify.com/album/0VsDzTN9UElh9WMgkCCoAM) | 3:00 |
 | 53 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 |
 | 54 | [Primavera \- Ao Vivo](https://open.spotify.com/track/07HRE5TcopANqwmZWH4XOI) | [Emílio & Eduardo](https://open.spotify.com/artist/0rlTeq5Mamduy8suAxsWuO), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Primavera \(Ao Vivo\)](https://open.spotify.com/album/5kiqPzdJhNBa5fN60lbFZv) | 2:57 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
 | 97 | [Jerry](https://open.spotify.com/track/2cg8aiFDLOPis3XaczNIVq) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Jerry](https://open.spotify.com/album/76QkizQNGfiXYBpSSl2COz) | 3:10 |
 
-Snapshot ID: `MCw0MjVhYmJmYTIzOTBjMmI1ZDlmNWRhZWYwYmNkMThkMDBiMjhhOWEw`
+Snapshot ID: `MCxiNDhmYzM3MDE1OTFlMzAwZTkyODYwMDg5YWVjM2JjYWUxMTAzODUz`

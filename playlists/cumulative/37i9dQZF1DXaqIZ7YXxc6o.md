@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Tseba
 
-866 songs - 2 day 0 hr 3 min
+867 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,7 +681,8 @@
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-02 | 2023-03-03 |
 | [Solitude](https://open.spotify.com/track/30jIqtrAeb22eSq1irM77n) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Solitude](https://open.spotify.com/album/2ydVQPnrBFF6jJhlz8nDnM) | 3:21 | 2023-05-11 | 2023-06-02 |
 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 | 2022-12-08 | 2023-01-13 |
-| [Solteiro Sou Um Perigo](https://open.spotify.com/track/5VUkNfVb58kUWyWoWdbvha) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou Um Perigo](https://open.spotify.com/album/3B6QqQI2gmHsqddUrKkSZT) | 2:48 | 2023-06-16 |  |
+| [Solteiro Sou Um Perigo](https://open.spotify.com/track/5VUkNfVb58kUWyWoWdbvha) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou Um Perigo](https://open.spotify.com/album/3B6QqQI2gmHsqddUrKkSZT) | 2:48 | 2023-06-16 | 2023-06-18 |
+| [Solteiro Sou um Perigo](https://open.spotify.com/track/4faZxf6Jp2DRwlcb8wZBhx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou um Perigo](https://open.spotify.com/album/2223agbx14JdDzzjiPUh3N) | 2:49 | 2023-06-16 |  |
 | [Someone To Love](https://open.spotify.com/track/2YDB9htVN0yLpD7wfkRfZE) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Someone To Love](https://open.spotify.com/album/6U1UlByIQq2Z7HAn0Fn2vU) | 3:39 | 2022-12-08 | 2022-12-16 |
 | [Something I Can't Live Without](https://open.spotify.com/track/4Z79PGlzY7oVZug5cqT9xU) | [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN) | [Something I Can't Live Without](https://open.spotify.com/album/7v7OuWvDEiGnx6z2NHv4Xm) | 3:30 | 2023-03-31 | 2023-04-21 |
 | [Something I Can't Live Without \- Mason Flint Remix](https://open.spotify.com/track/2iqmqg7Bg9Jj4oIptbJSkn) | [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Something I Can't Live Without \(Mason Flint Remix\)](https://open.spotify.com/album/5y5TZ0ej9lhId7Y0nWmOUK) | 3:06 | 2023-04-13 | 2023-05-05 |

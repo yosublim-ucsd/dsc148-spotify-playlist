@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Don Omar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,853 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,903 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 7 | [Sentir X2](https://open.spotify.com/track/53aX5ExI71sDKQdKfjcX41) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Sentir X2](https://open.spotify.com/album/1CMbhmxlrmxHa43KPERtAJ) | 2:39 |
 | 8 | [Ciencia Ficción](https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Ciencia Ficción](https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x) | 3:34 |
 | 9 | [ONCE:ONCE \- Versión Norteña](https://open.spotify.com/track/1kzu8CDw8BUQKCIfQTi18k) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ONCE:ONCE \- Versión Norteña](https://open.spotify.com/album/0JCGZFswEblQdqXjsHADKN) | 2:16 |
-| 10 | [La Gaita de la Cenicienta](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 5:11 |
+| 10 | [Intro Homenaje al Cuarteto \- La Gaita de la Cenicienta \- En Vivo](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 2:36 |
 | 11 | [Bonita](https://open.spotify.com/track/2y9jpKqroOKjkqM6170sMj) | [AmaurisWill](https://open.spotify.com/artist/69R4JbTQyVl3bG7EFAUWFP), [Jason Hayes](https://open.spotify.com/artist/1RGNzkIbAdJlqJooCykfG8) | [Bonita](https://open.spotify.com/album/5ud94jb64qWHsCDIo4zswP) | 1:06 |
 | 12 | [El Merengue \- Bachata Version](https://open.spotify.com/track/51eutINA7q6oJPlyXaedq2) | [DJ Tronky](https://open.spotify.com/artist/5G3p1Ju6ZzScqAropTMkJG), [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [El Merengue \(Bachata Version\)](https://open.spotify.com/album/69NQhUo4dWZLhgrMND2rl5) | 3:09 |
 | 13 | [Hay Una Mujer](https://open.spotify.com/track/67KBa4Dn6I8EQMEuxVEpPh) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Hay Una Mujer](https://open.spotify.com/album/2zQpOfuCCXWaKnXe0R6PeO) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Un x100to](https://open.spotify.com/track/6as0zKfMVwEgo7anl9yMd9) | [La Pleyer](https://open.spotify.com/artist/2aNUpJ7j735QzVplzYdlRJ), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Un x100to](https://open.spotify.com/album/4RyQuErXmhHcW3YZyT1yPN) | 3:28 |
 | 50 | [Hoy Te Vas](https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Hoy Te Vas](https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7) | 3:08 |
 
-Snapshot ID: `MCxmY2YzODM0OTY4MGIyM2UyOGRlYzFjYTVhMWJjODY2Y2M0MDBiNzAy`
+Snapshot ID: `MCwyNGU4ODU1YzUzYzA0MzlmZWFiZmI5ZGU0N2Q4MWRiMjlhNzIxZDI2`

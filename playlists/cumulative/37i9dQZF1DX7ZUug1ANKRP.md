@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Old Jim, Enny\-Mae, Niklas Dee
 
-375 songs - 17 hr 35 min
+376 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 | 2022-08-17 | 2022-12-15 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-23 | 2022-07-14 |
 | [Heart Swipe](https://open.spotify.com/track/7FqvWKsTvL7r570vVcgRK0) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heart Swipe](https://open.spotify.com/album/0C80olGjoYEU8hJ82wwuHA) | 2:26 | 2022-12-21 | 2023-03-16 |
-| [Heaven in Your Eyes](https://open.spotify.com/track/4vPo8XnazRw1fWyIEcG77z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr) | [Heaven in Your Eyes](https://open.spotify.com/album/6lUM7cLqtA0YP3xfPUH1FT) | 2:32 | 2023-06-07 |  |
+| [Heaven in Your Eyes](https://open.spotify.com/track/4vPo8XnazRw1fWyIEcG77z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr) | [Heaven in Your Eyes](https://open.spotify.com/album/6lUM7cLqtA0YP3xfPUH1FT) | 2:32 | 2023-06-07 | 2023-06-18 |
+| [Heaven In Your Eyes](https://open.spotify.com/track/6AFR0k7cT0rHF1qexupne0) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr) | [Heaven In Your Eyes](https://open.spotify.com/album/4YX4sW1BKGJBuCXM5PXEas) | 2:32 | 2023-06-07 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-04-20 | 2022-10-20 |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2022-07-13 | 2022-09-29 |
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-08 | 2023-05-04 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 111912,
+  "num_followers": 111969,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGZmMjQxNWZmNjg2NDYzMTYyZjgzZmIyMWZiMDMzMjlhZTMxMzY5",
+  "snapshot_id": "MCxmOTRkMmE2NWFlNDQyYjFmNGJkY2Q1MmQzNzY2NWEzNTQ3MmU1NGI3",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 229087,
-      "name": "Gravy",
-      "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Values",
         "url": "https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 190511,
       "name": "Dios Nunca Falla",
       "url": "https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 229087,
+      "name": "Gravy",
+      "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Contigo Todo Es Posible",
-        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
-      },
-      "artists": [
-        {
-          "name": "Redimidos",
-          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Vivo por Cristo",
-      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Contigo Todo Es Posible",
+        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
+      },
+      "artists": [
+        {
+          "name": "Redimidos",
+          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Vivo por Cristo",
+      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
     },
     {
       "added_at": "2020-09-18 05:02:00",

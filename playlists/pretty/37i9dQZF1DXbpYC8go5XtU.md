@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,309 likes - 138 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,365 likes - 138 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 50 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 |
 | 51 | [Destiny](https://open.spotify.com/track/1crOmVyAzM4rNDc6uMHW5l) | [Strolle](https://open.spotify.com/artist/18Ow08CDayCv7wzb6jATnr) | [Destiny](https://open.spotify.com/album/69tdHQnMuEn3JELYRGhFRi) | 2:51 |
 | 52 | [Culmination \- Spa](https://open.spotify.com/track/0VhT7d3UP1ugfYD8vWD522) | [Imaginary Landscapes](https://open.spotify.com/artist/6HvFu85LrPSSlGAbSSJfJr) | [Culmination](https://open.spotify.com/album/45aJHzBQc5YjbalyM2gX7J) | 3:40 |
-| 53 | [Painted Canvas](https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ) | 5:52 |
+| 53 | [Painted Canvas](https://open.spotify.com/track/09o61SRXowRt773HgBT0hb) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/62f7NQjcUks8pAaqV2X7yf) | 5:52 |
 | 54 | [Sosnovka Voices](https://open.spotify.com/track/02MybcEfJAHajXL37Jz0DA) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 5:20 |
 | 55 | [Ballad of a Sleepless Traveler](https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ballad of a Sleepless Traveler](https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT) | 3:37 |
 | 56 | [Normal](https://open.spotify.com/track/1MTjrxeDOoN5aGebwy32JP) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [With](https://open.spotify.com/album/7mses8TR62sA7JMJjWSDAT) | 2:52 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 137 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 |
 | 138 | [Faint Light](https://open.spotify.com/track/1gmQkUuVVE7mIyU4PDnnge) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:20 |
 
-Snapshot ID: `MCw0ZTQyOTJmMjExNjVlOTBiZjA5ODlhOTY0ODE1Yzk4NmFhMzgzOGQw`
+Snapshot ID: `MCw3N2I3NjFjMmYxMzgyYTk3NTY2MTU4NzA1OTVhYmFiZmMwMmMxMzcx`

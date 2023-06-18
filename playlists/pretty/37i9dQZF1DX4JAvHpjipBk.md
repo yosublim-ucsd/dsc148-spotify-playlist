@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Black artists across the globe in celebration of Juneteenth\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,122,351 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,122,613 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 80 | [Thinking About You](https://open.spotify.com/track/3PARwjWtDcHivLn4CMDtLc) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Thinking About You](https://open.spotify.com/album/4NelTCJY28m6T3AVPXWJ5G) | 3:30 |
 | 81 | [Loners Club](https://open.spotify.com/track/2IjgDtjJrnh3yCS8RuPlNF) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Loners Club](https://open.spotify.com/album/5sMBVP7vvUn6V6AD2sciqq) | 3:39 |
 | 82 | [Why Can't I .](https://open.spotify.com/track/0QYRYJfHIDbRUiJE5R1X41) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.two](https://open.spotify.com/album/6JMCMfH2YGYMphPt3jUxEt) | 2:47 |
-| 83 | [Darkside Of The Moon](https://open.spotify.com/track/3XphWkVwFqoA6ZAiitKQ4b) | [Owenn](https://open.spotify.com/artist/3OBSOHlmPjy77DRRrRubFs) | [Dark Side Of The Moon](https://open.spotify.com/album/017izS9xAfzFgKf1GYm4GL) | 3:01 |
+| 83 | [Dark Side Of The Moon](https://open.spotify.com/track/3XphWkVwFqoA6ZAiitKQ4b) | [Owenn](https://open.spotify.com/artist/3OBSOHlmPjy77DRRrRubFs) | [Dark Side Of The Moon](https://open.spotify.com/album/017izS9xAfzFgKf1GYm4GL) | 3:01 |
 | 84 | [Sin Tabú](https://open.spotify.com/track/3XBoKsUcft4IFc3y10SDeW) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Sin Tabú](https://open.spotify.com/album/14kqcnvO0wPiYy8qngCHtb) | 2:32 |
 | 85 | [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH) | 2:36 |
 | 86 | [FRESHY](https://open.spotify.com/track/3iSvHwo6kmlTVRodHr29nF) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [FRESHY](https://open.spotify.com/album/5CoH7SxAGnQe9DO3iM3l21) | 3:00 |
-| 87 | [Orthodox](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
+| 87 | [Orthodox \(feat\. BabyTron\)](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
 | 88 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 |
 | 89 | [Bad Dog](https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Bad Dog](https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7) | 3:29 |
 | 90 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
-| 91 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:57 |
+| 91 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 |
 | 92 | [Fearless](https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc) | 5:13 |
 | 93 | [dead\_leaves](https://open.spotify.com/track/5Q3GM8q7lLCIcMuUluDf4W) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [MC\_1.1](https://open.spotify.com/album/60SkFH6DCDJOfRofCke8ES) | 3:13 |
 | 94 | [Too Gone \(ft\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2isEZrfcQCpPsW97VJWwpk) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [YOU'RE THE PROBLEM](https://open.spotify.com/album/49EeerD9g11QOcsueBGR4H) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [I Wish](https://open.spotify.com/track/6B9CHx53Xn4NIJ2hzrXrkB) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [I Wish](https://open.spotify.com/album/1vX4HacHiiH4cyrikTq36f) | 3:00 |
 | 100 | [Don't Call Back](https://open.spotify.com/track/0j68W2w3iMmeQPoIDiTJlK) | [Tiko](https://open.spotify.com/artist/0iv7RfSxMSAvCzCVnxys6g), [Jayden](https://open.spotify.com/artist/6zMVJe4pAghL7FKN1QNO0h) | [Don't Call Back](https://open.spotify.com/album/3dHoX7xDQeNxpYw8xZEn8C) | 2:35 |
 
-Snapshot ID: `MCw2OTk0ZDQ1M2ViZGVmNDdlNWExYTc2ODYxZTU5NTNmZDAyZWRjNzEz`
+Snapshot ID: `MCxhNmFiYTY3OGY3Y2VlODY4NmFjZWJkMjFiZDNjYjE0ZGEwYTI3NGZj`

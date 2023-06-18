@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,743 likes - 68 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,776 likes - 68 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 4 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 5 | [Magia](https://open.spotify.com/track/3VrY5AUgxJJsmw9HMP4w6W) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 5:13 |
 | 6 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
-| 7 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 |
+| 7 | [Kimi wa Boku ni Niteiru](https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Kimi wa Boku ni Niteiru](https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S) | 4:45 |
 | 8 | [to the beginning](https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:16 |
 | 9 | [君が見た夢の物語](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [君が見た夢の物語](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 |
 | 10 | [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 |
 | 11 | [a small pearl](https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn) | [Yuki Kajiura](https://open.spotify.com/artist/4HwQcrNsBSSFAonHpzhVRU) | [Fena: Pirate Princess ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr) | 1:47 |
 | 12 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 |
 | 13 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 |
-| 14 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 |
+| 14 | [焔の扉](https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:52 |
 | 15 | [from the edge](https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 4:40 |
 | 16 | [春はゆく](https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:05 |
 | 17 | [the route of the sun](https://open.spotify.com/track/2z4VRUyZDQI2IYXtzSZZwf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:10 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 19 | [a song of storm and fire](https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 4:02 |
 | 20 | [約束](https://open.spotify.com/track/1o6JCEJZOjBieOaaGMTPkC) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 5:34 |
 | 21 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 |
-| 22 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 |
+| 22 | [Life Goes On](https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ) | 4:02 |
 | 23 | [to the next era](https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [The Age of Dragon Knights](https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye) | 2:33 |
 | 24 | [oblivious](https://open.spotify.com/track/3OGhAh9RuI0BcC1oBhiTnz) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Seventh Heaven](https://open.spotify.com/album/3aVvDhw45d2J7xTLHx4Jyh) | 4:22 |
 | 25 | [砂塵の彼方へ…](https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag) | [Revo & 梶浦由記](https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw) | [Dream Port](https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz) | 7:23 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 30 | [雲雀](https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2) | 4:38 |
 | 31 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 |
 | 32 | [花の唄](https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 6:11 |
-| 33 | [Mizu no Akashi](https://open.spotify.com/track/2dLyZnpDvOoCgwAj133ZFQ) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [MOBILE SUIT GUNDAM SEED \~ SEED DESTINY THE BRIDGE Across the Songs from GUNDUM SEED & SEED DESTINY](https://open.spotify.com/album/4EdzQNwgsjmEjERczqZOVG) | 4:25 |
+| 33 | [Mizu no Akashi](https://open.spotify.com/track/1WeJz5HHT6duRoUgYEo7t2) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Mizu no Akashi](https://open.spotify.com/album/0shB8lOdBi934o9yQJxNvl) | 4:27 |
 | 34 | [ひかりふる](https://open.spotify.com/track/2Bc9VKcoyaYbpnnjKacdKJ) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:53 |
 | 35 | [fake wings](https://open.spotify.com/track/57TCwW3DTmdgcmZJ2kI4S8) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION](https://open.spotify.com/album/2w1GcYScuH5MSCFtAjalbS) | 2:35 |
 | 36 | [瞳の欠片](https://open.spotify.com/track/6lXw65lNf1in1SmMB4OwjW) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『MADLAX』オープニングテーマ「瞳の欠片」](https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5) | 4:02 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 47 | [edge](https://open.spotify.com/track/7jyqWifqQ5iqhVIR1q2Lqp) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 3:28 |
 | 48 | [romanesque](https://open.spotify.com/track/3aO4zQR7NDnJqbJ1WIDr0T) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 4:23 |
 | 49 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 |
-| 50 | [深海の孤独](https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [深海の孤独](https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv) | 4:00 |
+| 50 | [Shinkai no Kodoku](https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I) | [Houko Kuwashima](https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP) | [Junshoku brilliant](https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6) | 4:00 |
 | 51 | [君の銀の庭](https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:06 |
-| 52 | [Shizukana Yoru ni](https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt) | 4:53 |
+| 52 | [Shizukana Yoruni](https://open.spotify.com/track/71qfrdlJLBfPusYA4RheiH) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Shizukana Yoruni](https://open.spotify.com/album/37Nw2Q4Wlhei7xl4iUWQGk) | 4:53 |
 | 53 | [優しい夜明け](https://open.spotify.com/track/2stcUXRo0jPS1R7SStG2DI) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Obsession / 優しい夜明け](https://open.spotify.com/album/4BV3lvnKXgvyuDIgo6I06z) | 5:08 |
 | 54 | [angel gate](https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 5:28 |
 | 55 | [maybe tomorrow \(Xenosaga III ending theme\)](https://open.spotify.com/track/2GpTrdhtoXWP96cKqxjCkt) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION II](https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX) | 5:51 |
-| 56 | [Fields of hope](https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [Fields of hope](https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC) | 5:09 |
+| 56 | [Fields of hope](https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Fields of hope](https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E) | 5:09 |
 | 57 | [輝く空の静寂には](https://open.spotify.com/track/3n4MLZyy29Cqpa2SNxGSWv) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [After Eden](https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e) | 4:14 |
 | 58 | [open your heart\~reprise](https://open.spotify.com/track/1RZlGWYqsmESn0XmKdMUkW) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 4:37 |
 | 59 | [君がいた物語](https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:07 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 67 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 68 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `MCxiZTRkZjk3NzZjMzgyMjg3MzY3N2Y4MjgzOWRhMGUzYjJlYmMyZjJi`
+Snapshot ID: `MCwyNzg3YmM5MzgwZmVkNGM4NTU4NzAwOTZlZWQ5OGZlNzJkZTU2YzNi`

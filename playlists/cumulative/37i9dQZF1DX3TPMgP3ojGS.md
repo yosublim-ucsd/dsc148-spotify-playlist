@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,707 songs - 3 day 4 hr 38 min
+1,708 songs - 3 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [La Fille d’en Face](https://open.spotify.com/track/7wx4Pn5bcMQhZxZeplFOiF) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 3:14 | 2021-03-14 | 2021-03-15 |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2021-03-20 | 2022-07-29 |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2021-09-25 | 2021-09-26 |
+| [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-30 |  |
 | [La luce nel cuore](https://open.spotify.com/track/2WJGRRRZ35beKytyV9h476) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/0mSXDUjoKeXdbGYGMe3emC) | 2:57 | 2021-05-24 | 2021-05-25 |
 | [La Madonna](https://open.spotify.com/track/1nGVbaoELgntPagNcfx7RX) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [La Madonna](https://open.spotify.com/album/5aOlMWhVHnVnpMF9WaNvEI) | 3:20 | 2021-04-26 | 2022-04-19 |
 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 | 2021-04-22 | 2022-04-19 |
@@ -1061,7 +1062,7 @@
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-15 | 2022-04-21 |
 | [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 | 2022-11-15 | 2023-04-16 |
 | [Otis](https://open.spotify.com/track/2diCZXC0Cjyv4xqByCHkmK) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [True](https://open.spotify.com/album/6U2xxftHI11KUGHckT6LE5) | 2:17 | 2021-03-07 | 2021-05-14 |
-| [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-12-22 |  |
+| [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-12-22 | 2023-06-18 |
 | [Oudewater](https://open.spotify.com/track/6TALCf7YPCllCDhe7f2Vqz) | [Darrell Boxman](https://open.spotify.com/artist/7aAV3VOC8LXfsig7tWf47g) | [Oudewater](https://open.spotify.com/album/2mF29dw6e1JZTS6ziKU4Nn) | 1:42 | 2021-03-11 | 2021-03-15 |
 | [Our Distant Past](https://open.spotify.com/track/3JSaZg0IaJ5OPXzoxu8qNi) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Our Distant Past](https://open.spotify.com/album/5PswxzPZDA2yjrY28yDkXW) | 2:42 | 2021-03-07 | 2022-04-03 |
 | [Ours](https://open.spotify.com/track/5CCZ8wTUbpTI0tTyxEVEy3) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Ours](https://open.spotify.com/album/1Jev1LFCSZwDUn9T837ThU) | 2:19 | 2021-06-22 | 2022-07-12 |

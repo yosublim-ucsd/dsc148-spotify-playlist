@@ -73857,6 +73857,24 @@
     },
     {
       "album": {
+        "name": "Pie Jesu (From \"Requiem\")",
+        "url": "https://open.spotify.com/album/3zcS3L7Pnc7PCWipf9FTyy"
+      },
+      "artists": [
+        {
+          "name": "Scott Price",
+          "url": "https://open.spotify.com/artist/1yelTSQ5WprlaSMzDPxXF4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Pie Jesu (From \"Requiem\")",
+      "url": "https://open.spotify.com/track/2zfb8U8NoFoqpopU4dAKmo"
+    },
+    {
+      "album": {
         "name": "Piece in D Minor, WK 205. Arpeggio (No. 20 from \"27 Pieces for Bass Viol - The Drexel Manuscript 5871\")",
         "url": "https://open.spotify.com/album/0ohtVhHBgezMO0iAmHdQLz"
       },
@@ -79772,40 +79790,6 @@
       "duration_ms": 213360,
       "name": "Requiem: IIe. Rex tremendae (orchestrated for two pianos, organ & percussion by Richard Blackford)",
       "url": "https://open.spotify.com/track/2MkfoKCO7vkRsymu5Tfqd7"
-    },
-    {
-      "album": {
-        "name": "Lloyd Webber: Requiem: Pie Jesu (Arr. Langley for Treble, Choir and Orchestra)",
-        "url": "https://open.spotify.com/album/3zcS3L7Pnc7PCWipf9FTyy"
-      },
-      "artists": [
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Malakai",
-          "url": "https://open.spotify.com/artist/6syr1CICrK0V6odRh14sG9"
-        },
-        {
-          "name": "Schola Cantorum of The Cardinal Vaughan Memorial School",
-          "url": "https://open.spotify.com/artist/32heIXm019SwLGoRMQ6Mte"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
-        },
-        {
-          "name": "Scott Price",
-          "url": "https://open.spotify.com/artist/1yelTSQ5WprlaSMzDPxXF4"
-        }
-      ],
-      "date_added": "2023-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213000,
-      "name": "Requiem: Pie Jesu (Arr. Langley for Treble, Choir and Orchestra)",
-      "url": "https://open.spotify.com/track/2zfb8U8NoFoqpopU4dAKmo"
     },
     {
       "album": {

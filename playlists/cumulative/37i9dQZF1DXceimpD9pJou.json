@@ -14696,6 +14696,24 @@
     {
       "album": {
         "name": "Profundamente Te Amo",
+        "url": "https://open.spotify.com/album/0cOBlJW5B33Bl2QdrFLXPP"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259674,
+      "name": "Profundamente Te Amo",
+      "url": "https://open.spotify.com/track/42jaF0GiT31qAfbOQo3KUJ"
+    },
+    {
+      "album": {
+        "name": "Profundamente Te Amo",
         "url": "https://open.spotify.com/album/6olZVnNByogcKYLYfPvt2N"
       },
       "artists": [
@@ -14706,7 +14724,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 259674,
       "name": "Profundamente Te Amo",
       "url": "https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D"

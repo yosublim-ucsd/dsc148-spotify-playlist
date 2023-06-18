@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,655 likes - 50 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 50 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [Don't Take Your Spirit from Me \(feat\. J.J Hairston\)](https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 19:43 |
 | 50 | [My Hiding Place](https://open.spotify.com/track/237xqnL0TqbNUTcgaW5UKs) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 2:58 |
 
-Snapshot ID: `MjgxMTUzMjMsMDAwMDAwMDA4YTdkMTQzMzIyMTQwNTlkZmMzN2E0NWZlYjM0ZGUyNQ==`
+Snapshot ID: `MjgxMTY3NjgsMDAwMDAwMDA2NTZlNmE3MjU3YjkwNmIzNWFiZDk2ODU5YmI2NmYyOA==`

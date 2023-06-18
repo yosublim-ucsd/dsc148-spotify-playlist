@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: Jean Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,559 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,507 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 | 125 | [mutual\-fren\*](https://open.spotify.com/track/4zI2ttmEwmvotQcphBaNTE) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [mutual\-fren\*](https://open.spotify.com/album/39bSqPRq6f7lSNl0dC1IYE) | 3:39 |
 
-Snapshot ID: `MCxkYzlhMmEzNmRkYjk3YzA0ZmI0MmZlY2RkYjE3ZGI3YzBlNzZiZmQ3`
+Snapshot ID: `MCxmZGY0MDcwNzQ1YjU2Mjg0MGYxY2RkNGM2YTBhNWM0Y2E1ZTVkNzQ4`

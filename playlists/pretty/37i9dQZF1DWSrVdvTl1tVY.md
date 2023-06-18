@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: SILK, Paige Cavell
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,414 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,477 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 41 | [Bubblin \- Edit](https://open.spotify.com/track/6N4coRX9YCY9ukbWgjzrOb) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Bubblin](https://open.spotify.com/album/49ivLg7YgNFucuL3ZWJyZi) | 3:05 |
 | 42 | [Give Me All Your Love](https://open.spotify.com/track/6USdIZ3lJQ6R0sYVLZYKBA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Give Me All Your Love](https://open.spotify.com/album/0EjJJumyfg5wGLZ4ZMvVf0) | 3:08 |
 | 43 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 |
-| 44 | [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 |
+| 44 | [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 |
 | 45 | [Colours Of Love](https://open.spotify.com/track/0y4LbOxZEpwmfVHxB4HQ19) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Colours Of Love](https://open.spotify.com/album/4TYQZTD8qDGlrHMfg5aYsO) | 3:18 |
 | 46 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 |
 | 47 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 79 | [Follow The Call](https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Follow The Call](https://open.spotify.com/album/72HtpLoORiq7jd9SoG3lk9) | 3:03 |
 | 80 | [Sleepwalking](https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Sleepwalking](https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY) | 2:31 |
 
-Snapshot ID: `MCwyYTBhOGUwOTYxN2MxOTIyYmJlNDc4ZDgzNmI0YzM0ZTVhNmIwZmJl`
+Snapshot ID: `MCwyOTM4YjdiMmNkN2ZlOTI1MDkwMjBiMzgzZjI3OTQxNjUwZTczYTNl`

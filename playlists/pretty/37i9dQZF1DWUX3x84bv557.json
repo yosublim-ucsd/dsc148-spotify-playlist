@@ -1,12 +1,12 @@
 {
   "description": "Pjotr & Melissa Lopes op de cover van d\u00e9 Nederlandse pop playlist!",
-  "num_followers": 154050,
+  "num_followers": 154084,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDZiZDViYjlmODJkMjFhMzgzOWZkNjYzMTU3M2E5NmUyNTNhMTZl",
+  "snapshot_id": "MCwwYjMwYmM2Nzk3MzNlMDIyOGI3NDM3OTRjMzg0M2Y4MjJiMmU3ZGY4",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Hou Me Vast",
+        "url": "https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj"
+      },
+      "artists": [
+        {
+          "name": "Sem van Dijk",
+          "url": "https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V"
+        },
+        {
+          "name": "Xander de Buisonj\u00e9",
+          "url": "https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Laat Die Hoodie Maar Hangen",
         "url": "https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5"
       },
@@ -167,26 +187,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Hou Me Vast",
-        "url": "https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj"
-      },
-      "artists": [
-        {
-          "name": "Sem van Dijk",
-          "url": "https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V"
-        },
-        {
-          "name": "Xander de Buisonj\u00e9",
-          "url": "https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "Hou Me Vast",
-      "url": "https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Ruggengraat",
         "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
@@ -207,7 +207,7 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Glaasje Of 2",
+        "name": "Glaasje of 2",
         "url": "https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j"
       },
       "artists": [
@@ -217,7 +217,7 @@
         }
       ],
       "duration_ms": 123281,
-      "name": "Glaasje Of 2",
+      "name": "Glaasje of 2",
       "url": "https://open.spotify.com/track/608bP3vB7pwjatfREMItX6"
     },
     {

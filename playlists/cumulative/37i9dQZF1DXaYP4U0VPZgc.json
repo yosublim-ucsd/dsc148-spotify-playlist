@@ -298,6 +298,24 @@
     {
       "album": {
         "name": "Fields of hope",
+        "url": "https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309933,
+      "name": "Fields of hope",
+      "url": "https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1"
+    },
+    {
+      "album": {
+        "name": "Fields of hope",
         "url": "https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC"
       },
       "artists": [
@@ -308,7 +326,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 309933,
       "name": "Fields of hope",
       "url": "https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8"
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Kimi wa Boku ni Niteiru",
+        "url": "https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Kimi wa Boku ni Niteiru",
+      "url": "https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA"
+    },
+    {
+      "album": {
         "name": "Red Moon",
         "url": "https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM"
       },
@@ -580,6 +616,24 @@
     {
       "album": {
         "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ"
+      },
+      "artists": [
+        {
+          "name": "Mika Arisaka",
+          "url": "https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
         "url": "https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy"
       },
       "artists": [
@@ -590,7 +644,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 242733,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi"
@@ -644,10 +698,28 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 265080,
       "name": "Mizu no Akashi",
       "url": "https://open.spotify.com/track/2dLyZnpDvOoCgwAj133ZFQ"
+    },
+    {
+      "album": {
+        "name": "Mizu no Akashi",
+        "url": "https://open.spotify.com/album/0shB8lOdBi934o9yQJxNvl"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "Mizu no Akashi",
+      "url": "https://open.spotify.com/track/1WeJz5HHT6duRoUgYEo7t2"
     },
     {
       "album": {
@@ -849,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Junshoku brilliant",
+        "url": "https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6"
+      },
+      "artists": [
+        {
+          "name": "Houko Kuwashima",
+          "url": "https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Shinkai no Kodoku",
+      "url": "https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I"
+    },
+    {
+      "album": {
         "name": "\u300c\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Future Soundscape I",
         "url": "https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy"
       },
@@ -882,10 +972,28 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 293560,
       "name": "Shizukana Yoru ni",
       "url": "https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT"
+    },
+    {
+      "album": {
+        "name": "Shizukana Yoruni",
+        "url": "https://open.spotify.com/album/37Nw2Q4Wlhei7xl4iUWQGk"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293666,
+      "name": "Shizukana Yoruni",
+      "url": "https://open.spotify.com/track/71qfrdlJLBfPusYA4RheiH"
     },
     {
       "album": {
@@ -1440,7 +1548,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 285600,
       "name": "\u541b\u306f\u50d5\u306b\u4f3c\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv"
@@ -1660,7 +1768,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 240866,
       "name": "\u6df1\u6d77\u306e\u5b64\u72ec",
       "url": "https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK"
@@ -1696,10 +1804,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 292200,
       "name": "\u7114\u306e\u6249",
       "url": "https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY"
+    },
+    {
+      "album": {
+        "name": "circus",
+        "url": "https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292619,
+      "name": "\u7114\u306e\u6249",
+      "url": "https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov"
     },
     {
       "album": {

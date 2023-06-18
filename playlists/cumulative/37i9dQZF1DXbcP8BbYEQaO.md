@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-540 songs - 1 day 6 hr 29 min
+541 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [April](https://open.spotify.com/track/254lj5GscJvXZpmaTp99rd) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L), [Richard X](https://open.spotify.com/artist/2Oz5BD9D2OhEyXSfmxIHi4) | [Neon Nights](https://open.spotify.com/album/1nxRfDOzBcLefK67kB6zw7) | 4:29 | 2021-09-11 | 2022-05-12 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-10-22 |
 | [Arrow](https://open.spotify.com/track/5ZyFBrGopVIe1W0twXTTsN) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Maiden No More](https://open.spotify.com/album/4dM01pC3MJAYktjOW71XZA) | 4:03 | 2022-03-18 | 2022-04-01 |
+| [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 |  |
 | [AWOOO!](https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [AWOOO!](https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl) | 3:41 | 2021-08-29 | 2022-03-18 |
 | [BAD PREMONITION](https://open.spotify.com/track/2vLCGWwDttQOzBFozJh6mU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/4kR1D6YxzWtVCeAbL6vp7r) | 3:03 | 2022-10-07 | 2022-10-22 |
 | [Bahia](https://open.spotify.com/track/55FpqPnk2xVXxskdORHJkt) | [Prince Rama](https://open.spotify.com/artist/0nJir6Ire2tWPnUSaKtSYT) | [Bahia \- Single](https://open.spotify.com/album/2CYToEyKziA2A5padKjiUX) | 2:56 | 2022-04-16 | 2022-04-21 |
@@ -243,7 +244,7 @@
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2021-08-29 |  |
 | [I Don't Know You Anymore \- demo](https://open.spotify.com/track/6QSH5lHbiKxOTqc9WSdi09) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I Don't Know You Anymore \(demo\)](https://open.spotify.com/album/0oEcktTBdE01o80o1ZSFsO) | 2:57 | 2020-10-13\* | 2021-10-14 |
 | [i don't miss u](https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [i don't miss u](https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX) | 2:58 | 2020-10-13\* | 2021-12-04 |
-| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 |  |
+| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 | 2023-06-18 |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-09-17 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-11-18 | 2021-07-04 |

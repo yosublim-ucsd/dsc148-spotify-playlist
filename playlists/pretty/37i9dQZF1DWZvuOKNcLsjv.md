@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: ジャネール・モネイ\(Janelle Monáe\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,247 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,267 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Refrain in the rain \- feat\. うぐ \[ないしょのRemix\]](https://open.spotify.com/track/1VCygeiT51BgcypfMoxNFB) | [YOU](https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH), [FUTUREmode](https://open.spotify.com/artist/6Vd60p0nesFh1BT0cSJERo), [うぐ](https://open.spotify.com/artist/4X9R0TSoyCPiBINJ9hCpNr) | [Refrain in the rain \(feat\. うぐ \[ないしょのRemix\]\)](https://open.spotify.com/album/5Egro2oFFgB1w7I7EQpbjP) | 3:26 |
 | 100 | [My Jinji](https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN) | 6:40 |
 
-Snapshot ID: `MCwwNWJmOWU4MzBmYjA3YzYwZmQyODk0ZDk5M2RkNGVmYTdlYTM4NjQ5`
+Snapshot ID: `MCw1Mjk2MTFkOTdhMTM5MTdiNjk0MWQzYWQ5ZTgwNDYyMjI3ZWEyMjJh`

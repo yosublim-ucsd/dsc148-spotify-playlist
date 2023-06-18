@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Yannick N\u00e9zet-S\u00e9guin",
-  "num_followers": 686646,
+  "num_followers": 686693,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzcwNmZmYzcyMTA0NjFkYTA5NjY3ZmJmOGJjNmMwOWE3YjIwMWRl",
+  "snapshot_id": "MCxhNzc2ZDA5NTc5NzM1NDk2MDAwNjhmZTZlYTA3ZGUwYWNkMzJjZTRl",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -135,33 +135,17 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Lloyd Webber: Requiem: Pie Jesu (Arr. Langley for Treble, Choir and Orchestra)",
+        "name": "Pie Jesu (From \"Requiem\")",
         "url": "https://open.spotify.com/album/3zcS3L7Pnc7PCWipf9FTyy"
       },
       "artists": [
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Malakai",
-          "url": "https://open.spotify.com/artist/6syr1CICrK0V6odRh14sG9"
-        },
-        {
-          "name": "Schola Cantorum of The Cardinal Vaughan Memorial School",
-          "url": "https://open.spotify.com/artist/32heIXm019SwLGoRMQ6Mte"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
-        },
         {
           "name": "Scott Price",
           "url": "https://open.spotify.com/artist/1yelTSQ5WprlaSMzDPxXF4"
         }
       ],
       "duration_ms": 213000,
-      "name": "Requiem: Pie Jesu (Arr. Langley for Treble, Choir and Orchestra)",
+      "name": "Pie Jesu (From \"Requiem\")",
       "url": "https://open.spotify.com/track/2zfb8U8NoFoqpopU4dAKmo"
     },
     {

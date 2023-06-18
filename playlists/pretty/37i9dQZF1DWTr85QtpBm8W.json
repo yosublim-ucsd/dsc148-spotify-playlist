@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 8612,
+  "num_followers": 8685,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTA3YTA3NDI0NmE0MzU4ODMyOGFhMzUzNTdlZmM4OWI4MjgyODQy",
+  "snapshot_id": "MCxhMDUzNzU3NjU0Nzg5ODUwOWIyNDQ2OGM1ZmRlNDU2MjFjNWE4ZDIw",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Pop 1",
-      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Riceboy Sleeps",
         "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 560653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "Pop 1",
+      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "The Six Million Dollar Sandwich",
-      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "The Six Million Dollar Sandwich",
+      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Wind and Snow",
-      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 158133,
       "name": "Sheets Two",
       "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Wind and Snow",
+      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 102239,
       "name": "Jesus / Pop",
       "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
         }
       ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
-      },
-      "artists": [
-        {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        }
-      ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Telegraphs in Negative / Mouths Trapped in Static",
         "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 135293,
       "name": "Your Guts Are Like Mine",
       "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "October Language",
         "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 314676,
       "name": "Blind Contour Drawing for Piano",
       "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 550626,
-      "name": "Add Infinity",
-      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Utop\u00eda",
         "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 550626,
+      "name": "Add Infinity",
+      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
         }
       ],
-      "duration_ms": 187960,
-      "name": "The Orchardist",
-      "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
+      "duration_ms": 197280,
+      "name": "Ripple and Fade",
+      "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
     },
     {
       "added_at": "2023-06-07 15:22:01",

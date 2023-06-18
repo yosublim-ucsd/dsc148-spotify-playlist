@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,655 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,812 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 17 | [stalemate](https://open.spotify.com/track/2VxcmtI9Pni94K3wBeJkDJ) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [stalemate](https://open.spotify.com/album/5LOMbBrt4rGcnA817IOR02) | 2:43 |
 | 18 | [mindurnonsense](https://open.spotify.com/track/6AV7XQHCgbHWVtCrKl91dF) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [dygytaldysmorphya \(expanded\)](https://open.spotify.com/album/6hAfuRW7hQnRgBUM1sTDIF) | 2:19 |
 | 19 | [dr34m3r](https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dr34m3r](https://open.spotify.com/album/4HhUofefLyV0WO4Aa9gh9Y) | 2:38 |
-| 20 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 |
+| 20 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 |
 | 21 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
 | 22 | [run.](https://open.spotify.com/track/1X79enT3K3iwV07pijn836) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck\. run.](https://open.spotify.com/album/29rgPdffcUCuKzL8Lr2kqL) | 2:01 |
 | 23 | [Highland Cow Plushies](https://open.spotify.com/track/3eUwn1MamssECHjvZYOw7C) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Highland Cow Plushies](https://open.spotify.com/album/2ytjY6Nfmr62q5RUTpFZWs) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [ᎶᏗᏒᎴᏋᏁ ᎧᎦ ᏰᏝᎥᏕᏕ](https://open.spotify.com/track/5kRpkWrH6lqTRVaJ5cuNXv) | [saikyo](https://open.spotify.com/artist/4iO68o0utKje9nNaTxKRgy) | [ᎶᏗᏒᎴᏋᏁ ᎧᎦ ᏰᏝᎥᏕᏕ](https://open.spotify.com/album/0it6cShh9tf8YKcneq7OJM) | 1:07 |
 | 100 | [with my eyes](https://open.spotify.com/track/50MNRG3QscZOkJcOApElDe) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [with my eyes](https://open.spotify.com/album/1bEZAzce2li8Kiwh5uqyCO) | 2:15 |
 
-Snapshot ID: `MCw2MjVlOGQ3NTE2ZWE4MTcyNGY1N2MxOTA4MTFjNTRiYjcxOWJhN2Yz`
+Snapshot ID: `MCw1MGVjZWYxNzNjYjFmMThmMjAyMmZmNTk2NjEwNjk2YjBjNzJhYWI5`

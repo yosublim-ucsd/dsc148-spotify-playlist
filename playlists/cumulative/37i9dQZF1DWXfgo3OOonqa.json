@@ -12075,6 +12075,28 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2Q0PRojnW0cbNXH5GixiFW"
+      },
+      "artists": [
+        {
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        },
+        {
+          "name": "Kayen",
+          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134526,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo"
+    },
+    {
+      "album": {
         "name": "Makine",
         "url": "https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk"
       },

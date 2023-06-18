@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 57433,
+  "num_followers": 57493,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDMxOGI0NGM2ZGIwZDhiYjYyNTg2MGE1MjVmYzIxODE5OGQwNTU1",
+  "snapshot_id": "MCxhMjk2ZTU2ZGQ3NjM1ODVkMjIxMTEzMmUyOWQ4NGMwYWUwNzM4MDM1",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
-        }
-      ],
-      "duration_ms": 233032,
-      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
         "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 295593,
       "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
+        }
+      ],
+      "duration_ms": 233032,
+      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Dear Gleam",
-      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "ERA",
         "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 230500,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Dear Gleam",
+      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Anfang",
-        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "BLACK SHOUT",
-      "url": "https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
         "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 315400,
       "name": "Sing Alive",
       "url": "https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "Anfang",
+        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "BLACK SHOUT",
+      "url": "https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L"
     },
     {
       "added_at": "2023-05-30 15:00:00",

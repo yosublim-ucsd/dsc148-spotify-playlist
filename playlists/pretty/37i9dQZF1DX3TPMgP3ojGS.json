@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 356697,
+  "num_followers": 356851,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODNiOGQ1NmY5Njg2M2YwNzg5ZGFmYTc2NzI1ZWExNTJlNWMyZmI4",
+  "snapshot_id": "MCw3ZjBlNzA5ZTQ2Nzk4ZWI5OGM0Njk5NmMwNDI4YjRhNWM2MDAwY2Qy",
   "tracks": [
     {
       "added_at": "2023-05-30 05:41:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Lyrides",
-        "url": "https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Lyrides",
-      "url": "https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Emerald Enlightenment",
         "url": "https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 99567,
       "name": "Emerald Enlightenment",
       "url": "https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Lyrides",
+        "url": "https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Lyrides",
+      "url": "https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 135105,
       "name": "A Time Long Ago",
       "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Petites danses et r\u00eaveries",
-        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
-      },
-      "artists": [
-        {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Un sourire et une larme (valse)",
-      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Petites danses et r\u00eaveries",
+        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Un sourire et une larme (valse)",
+      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Holding Hands",
         "url": "https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
       },
       "artists": [
         {
-          "name": "Remi Sinclair",
-          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -699,22 +715,6 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
-      },
-      "artists": [
-        {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Lydian Fairytale",
-        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
-      },
-      "artists": [
-        {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
-        }
-      ],
-      "duration_ms": 105786,
-      "name": "Lydian Fairytale",
-      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
+      },
+      "artists": [
+        {
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Lydian Fairytale",
+        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "duration_ms": 105786,
+      "name": "Lydian Fairytale",
+      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Spring Thaw",
-        "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
-      },
-      "artists": [
-        {
-          "name": "Josh Jacobson",
-          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
-        }
-      ],
-      "duration_ms": 180371,
-      "name": "Spring Thaw",
-      "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 133375,
       "name": "Muse",
       "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Spring Thaw",
+        "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "duration_ms": 180371,
+      "name": "Spring Thaw",
+      "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 221702,
-      "name": "fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "fields of forever (sleep rework)",
+        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "duration_ms": 221702,
+      "name": "fields of forever - sleep rework",
+      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+      },
+      "artists": [
+        {
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+        }
+      ],
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "If You Should Go",
         "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
       "artists": [
         {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
         }
       ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+      "duration_ms": 143000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1195,22 +1211,6 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
-      },
-      "artists": [
-        {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "The stars are listening",
         "url": "https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 111500,
       "name": "The stars are listening",
       "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "L\u00e9opoldine",
         "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+        "name": "Fallen Flowers",
+        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
       },
       "artists": [
         {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+      "duration_ms": 189940,
+      "name": "Fallen Flowers",
+      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Fallen Flowers",
-        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
         }
       ],
-      "duration_ms": 189940,
-      "name": "Fallen Flowers",
-      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
       "artists": [
         {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
+          "name": "Igulfrid",
+          "url": "https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
+      "duration_ms": 148906,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1531,22 +1547,6 @@
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
-      },
-      "artists": [
-        {
-          "name": "Igulfrid",
-          "url": "https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "La grande Nue",
+        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "La grande Nue",
+      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 151750,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Ottilia",
-        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
-      },
-      "artists": [
-        {
-          "name": "Yana Couto",
-          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ottilia",
-      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Ghouljaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,900 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,910 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Normal \(Como todo el mundo\)](https://open.spotify.com/track/128uIlyIUCKwI8w0A91Zyd) | [Pablomora](https://open.spotify.com/artist/2LxkwydUNBhXwwSb3fFA9x) | [Normal \(Como todo el mundo\)](https://open.spotify.com/album/0Fd0vjx4fg6urBDHjiTyfC) | 2:49 |
 | 17 | [Matadora](https://open.spotify.com/track/7hlpSspU0tjU1vgBLHc4So) | [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [Matadora](https://open.spotify.com/album/5eH0XbndcOuvczVGWX08hX) | 1:44 |
 | 18 | [Repetir El Plan](https://open.spotify.com/track/6yOXAz0AgapJN9YaHeBtNQ) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Repetir El Plan](https://open.spotify.com/album/2hbctIpiqxmeKCwMU3Qamu) | 2:23 |
-| 19 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:58 |
+| 19 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
 | 20 | [Hell0 K1tty](https://open.spotify.com/track/1olrrUdvcKPvBYB4RsitSM) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Hell0 K1tty](https://open.spotify.com/album/6JrvLHmvC7cQ2WBbcs7b4T) | 2:53 |
 | 21 | [Injusto](https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [Injusto](https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd) | 3:33 |
 | 22 | [Admiración](https://open.spotify.com/track/1u2ynu6W6dTlHXUdTdrwzV) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Admiración](https://open.spotify.com/album/2Q9k7iuX832oPOLUorm0Bl) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Quién Lo Diría?](https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD) | 3:38 |
 | 50 | [Nadie Duerma](https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc) | 4:46 |
 
-Snapshot ID: `MCwxODI5ZjQ1OWQ4N2ZlMDQ3ZWNlZmEzYWU0ZmJlZWE3ODA0ZjM0NmUx`
+Snapshot ID: `MCxjOGVkYzQzOGExMzFhNGNlYjcxNGYxOTZkZWFjNjY1MmUwNjZhNDcz`

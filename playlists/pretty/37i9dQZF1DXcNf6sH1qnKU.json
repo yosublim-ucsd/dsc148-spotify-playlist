@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 437745,
+  "num_followers": 438031,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWU2OWJmN2QzMTAwMzgyYjE0M2NhMzE2MGRhNDA4YmQ0N2JjZmVi",
+  "snapshot_id": "MCwwYzU3ODZhNjNhODU3OTFhM2RmYmRjYmU4ZWUxNTcyM2EwZmZmZGFj",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Comforts of Madness",
         "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Melody of Certain Damaged Lemons",
-        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 365533,
-      "name": "In Particular",
-      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Melody of Certain Damaged Lemons",
+        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 365533,
+      "name": "In Particular",
+      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 317093,
       "name": "Sweetness and Light",
       "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
-    },
-    {
-      "added_at": "2022-03-18 05:40:30",
-      "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     },
     {
       "added_at": "2022-02-18 20:00:47",
@@ -731,6 +715,22 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+    },
+    {
+      "added_at": "2022-03-18 05:40:30",
+      "album": {
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Blood (Remastered)",
-        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "You And Your Sister - Remastered",
-      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 265373,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Blood (Remastered)",
+        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "You And Your Sister - Remastered",
+      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
       "added_at": "2021-10-01 10:38:06",

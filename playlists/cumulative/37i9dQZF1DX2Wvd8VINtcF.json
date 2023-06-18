@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Easy Water",
+        "url": "https://open.spotify.com/album/7xWN9UqfwENUakkXrhudhD"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/6pLczwiw7MRvvstnzGrp7A"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144279,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/7GtZ2ht8C9DsSaliEEHyQL"
+    },
+    {
+      "album": {
         "name": "Y5",
         "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
       },

@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=LMyz910ATeW2\-vfCbmM0OA">Anke Richards</a>
 
-356 songs - 20 hr 42 min
+357 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Onderkant Die Berg](https://open.spotify.com/track/2DfP2InwiwLTFZNM9fEebw) | [Augusta Zietsman](https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO) | [Onderkant Die Berg](https://open.spotify.com/album/3pUrPNVkwFXS37ZUm4Ph1l) | 1:04 | 2023-06-15 |  |
 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 | 2023-05-25 |  |
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-04-27 |  |
-| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 |  |
+| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-01 |  |
 | [Otherlife](https://open.spotify.com/track/5T8w9j0O1F2uwxUde65PC3) | [Rowan Stuart](https://open.spotify.com/artist/2Vh3ok1AQZa05LZInly68a) | [Otherlife](https://open.spotify.com/album/6xLV395ycMaeT33LQhNPN5) | 3:22 | 2023-04-21 |  |
 | [Out My Tree](https://open.spotify.com/track/1kkCSGbDteC8mGdhYqtG1E) | [Meridian Quake](https://open.spotify.com/artist/78gOv67PJExDFUm8TGgSo7), [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Out My Tree](https://open.spotify.com/album/1muV8NmIvOXPnfenq1cmio) | 3:10 | 2022-08-04 | 2022-11-04 |
 | [Outside](https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Outside](https://open.spotify.com/album/773Dc2aCKe3fhZ4QrOxqwA) | 4:16 | 2022-12-15 | 2023-02-24 |

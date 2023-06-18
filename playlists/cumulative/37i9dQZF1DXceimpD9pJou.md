@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=0ZdN5\-a\_QWmSP6i1m7mklA">Majo y Dan</a>
 
-1,017 songs - 3 day 0 hr 43 min
+1,018 songs - 3 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,8 @@
 | [Proclamaré](https://open.spotify.com/track/7dmN0thy16SmX0f1plMXyq) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [No Hay Duda](https://open.spotify.com/album/1NCF5XC8HapipoUXYp1Y6j) | 4:23 | 2022-04-29 | 2022-06-18 |
 | [Proclamaré](https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [Proclamaré](https://open.spotify.com/album/4sBbudlj26HZyrnYA1OZAY) | 4:23 | 2022-02-25 | 2022-04-09 |
 | [Proclamaré](https://open.spotify.com/track/4tkwy3THJwN6Rbs9Kyg9Vy) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Proclamaré](https://open.spotify.com/album/03QvJ92RNKRHXRvBjid26E) | 5:28 | 2023-04-21 | 2023-06-10 |
-| [Profundamente Te Amo](https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/6olZVnNByogcKYLYfPvt2N) | 4:19 | 2023-05-19 |  |
+| [Profundamente Te Amo](https://open.spotify.com/track/42jaF0GiT31qAfbOQo3KUJ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/0cOBlJW5B33Bl2QdrFLXPP) | 4:19 | 2023-06-16 |  |
+| [Profundamente Te Amo](https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/6olZVnNByogcKYLYfPvt2N) | 4:19 | 2023-05-19 | 2023-06-18 |
 | [Profundo II](https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Leonardo vera](https://open.spotify.com/artist/11aljheqgUQuTC2spSpATw) | [Profundo II](https://open.spotify.com/album/6RauIJjotwBlwiFwUrY8JP) | 3:23 | 2023-03-17 | 2023-04-22 |
 | [Promesas](https://open.spotify.com/track/4MWz8Hp4KXKRYqm6myF2Ya) | [Luminos](https://open.spotify.com/artist/1bpVquMOxfsMTepTdGC8lb) | [Promesas](https://open.spotify.com/album/2rbHqLa2dzr0Dc7dzVsQwa) | 3:51 | 2022-10-07 | 2022-12-10 |
 | [Proverbios](https://open.spotify.com/track/2EygBwrAFmPyo49yEGvLL0) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Proverbios](https://open.spotify.com/album/1GPqz1hWLzBM4RYlOaAaiw) | 2:05 | 2022-09-16 | 2022-10-29 |

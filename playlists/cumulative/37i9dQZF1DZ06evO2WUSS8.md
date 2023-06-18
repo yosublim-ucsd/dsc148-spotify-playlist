@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adouma](https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:28 | 2021-12-28 |  |
+| [Adouma](https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:28 | 2021-12-28 | 2023-06-18 |
 | [Afirika](https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:14 | 2021-12-28 | 2023-05-05 |
 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 | 2022-10-16 |  |
 | [Afro Bolero](https://open.spotify.com/track/45u9j7yYusneijsns98g12) | [Philippe Cohen Solal](https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mo Laudi](https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW) | [Afro Bolero](https://open.spotify.com/album/6eyUDhcGyhx68IZXaVERl7) | 3:10 | 2023-03-12 | 2023-03-14 |
@@ -119,6 +119,6 @@
 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 | 2022-01-22 |  |
 | [Wombo Lombo \- Uncle Disco Club Edit](https://open.spotify.com/track/02O5f0MCuFRPTxzU2Jkw0B) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Uncle Disco](https://open.spotify.com/artist/4wY9pgwhfyfTSVZIufTlMe) | [Wombo Lombo \(Uncle Disco Club Mix\)](https://open.spotify.com/album/0v65VGJGnhlx3uPv0tUeb6) | 4:21 | 2021-12-28 | 2022-01-23 |
 | [Yaki Yaki](https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 3:42 | 2021-12-28 | 2022-10-13 |
-| [Yemaya](https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 1:37 | 2022-04-29 | 2023-04-02 |
+| [Yemaya](https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 1:37 | 2022-04-29 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 130000,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
@@ -612,6 +612,28 @@
       "duration_ms": 195246,
       "name": "Cerimonia",
       "url": "https://open.spotify.com/track/4q2F8Q94gIY3yFwIliTnRZ"
+    },
+    {
+      "album": {
+        "name": "Ci penser\u00f2 domani",
+        "url": "https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137964,
+      "name": "Ci penser\u00f2 domani",
+      "url": "https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT"
     },
     {
       "album": {

@@ -149,6 +149,36 @@
     },
     {
       "album": {
+        "name": "Dave Koz And Friends Summer Horns",
+        "url": "https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        },
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        },
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Always There",
+      "url": "https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2"
+    },
+    {
+      "album": {
         "name": "Dave Koz and Friends Summer Horns (feat. Gerald Albright, Mindi Abair, Richard Elliot)",
         "url": "https://open.spotify.com/album/5vVBeULlTQWuesZgpILgy0"
       },
@@ -3832,7 +3862,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 279516,
       "name": "Wrapped up in Your Smile",
       "url": "https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ"

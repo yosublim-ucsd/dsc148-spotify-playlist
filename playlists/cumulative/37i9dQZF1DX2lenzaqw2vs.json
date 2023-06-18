@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Encontr\u00e1ndome",
+        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
+      },
+      "artists": [
+        {
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
+        },
+        {
+          "name": "Gamay",
+          "url": "https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175796,
+      "name": "Encontr\u00e1ndome",
+      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -4330,7 +4352,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 163648,
       "name": "Que S\u00ed Que No",
       "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"

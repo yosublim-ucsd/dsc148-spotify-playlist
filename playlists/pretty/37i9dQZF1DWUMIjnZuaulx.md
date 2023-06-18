@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK?si=yb\-eper7R3u5zqUir9aARg">Melvin Crispell III</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,219 likes - 102 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,325 likes - 102 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 5 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 |
 | 6 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 7 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 |
-| 8 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as), [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
+| 8 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
 | 9 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
 | 10 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 11 | [Ransom](https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/5IlQakSgyg5MaLlyUlTieh) | 4:35 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 101 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 102 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCwxZDc0MjBiZDgwYjcwNzc2OTIxZDVlYjgxNmQ4NzQxMmNmMmEwZjBk`
+Snapshot ID: `MCw4MmVkZWUwYWRjNjAwZjE2YWRmM2UxYzQ4MjhjZjNiMGMxNDU1NjU3`

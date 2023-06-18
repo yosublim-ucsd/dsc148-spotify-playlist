@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=0ZdN5\-a\_QWmSP6i1m7mklA">Majo y Dan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,304 likes - 99 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,366 likes - 99 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 55 | [No Fue Un Tiro De Suerte](https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [VIDA](https://open.spotify.com/album/3ocvapzDsPJrziwnlD7I82) | 4:21 |
 | 56 | [Tú Eres Mi Lugar](https://open.spotify.com/track/3l5HRtAg1alGWZKhyOrGFQ) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Tú Eres Mi Lugar](https://open.spotify.com/album/2we1MKPjCeV2U182IIoeZu) | 3:29 |
 | 57 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
-| 58 | [Profundamente Te Amo](https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/6olZVnNByogcKYLYfPvt2N) | 4:19 |
+| 58 | [Profundamente Te Amo](https://open.spotify.com/track/42jaF0GiT31qAfbOQo3KUJ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/0cOBlJW5B33Bl2QdrFLXPP) | 4:19 |
 | 59 | [Hermoso Dios](https://open.spotify.com/track/0wFQSfzlcqszUHyMSvI3TM) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [Hermoso Dios](https://open.spotify.com/album/0ADgip6GPNW6pLZQv07DIZ) | 8:12 |
 | 60 | [Autor de la Vida](https://open.spotify.com/track/02fmpDq2GyqhbPwbIR0AMX) | [Juanitta](https://open.spotify.com/artist/5Y3zg9KZRD81IZYeKCPLnW), [Sara Borraez](https://open.spotify.com/artist/5GsoiNOyYerVge1J6FHH3u) | [Autor de la Vida](https://open.spotify.com/album/5a5cT41VKF25jgO02ArTIG) | 4:25 |
 | 61 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Mi Canción](https://open.spotify.com/track/7HMpPEVwcDEj8nXwG1biJm) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Mi Canción](https://open.spotify.com/album/0G17piKF5CGpQQjktnrOKW) | 2:50 |
 | 99 | [Solo el Comienzo](https://open.spotify.com/track/0VWScpRL87kkjW2ySjNFP2) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Bruno Santos](https://open.spotify.com/artist/0gtcSbUROCB555vyBFYoe6) | [Solo el Comienzo](https://open.spotify.com/album/5HmEJQP323KBCHp2yeGF7t) | 5:30 |
 
-Snapshot ID: `MCw3Y2MwYzQ1YWMxYWI5YWMxYjBiYWY4YzU1ZDNjNzVmODE5NTQ0M2Y0`
+Snapshot ID: `MCw3MjE2MjUyZTVkMTEwYjA3YTVkNmQ0MGViOWFkOTZhZWYwYjEyNGE3`

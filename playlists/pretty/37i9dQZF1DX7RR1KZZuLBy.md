@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,934 likes - 75 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,946 likes - 75 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 74 | [Prelude / The King on the Cross \- Live](https://open.spotify.com/track/1GefA6yajI6Wr26r6D4VUj) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 3:55 |
 | 75 | [Speak A Word \- Live At The Ticketpro Dome](https://open.spotify.com/track/5hbkEA5dWKNO866NGdUJ0W) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The Gathering Of Worshippers \- Speak A Word \(Live At The Ticketpro Dome\)](https://open.spotify.com/album/18CBMyTv69P8hDRLxYwd6V) | 8:54 |
 
-Snapshot ID: `MCwzMjlhNmIwN2NkOTQxYWMzNmIzMmFjYTJkNjZkZjU0NGFkMTNlY2Vk`
+Snapshot ID: `MCxiNmFhMGVhZGQ5NWIwNDg4YWIxYmJjMzNjYzBlNGJjM2MwZWY0MWI0`

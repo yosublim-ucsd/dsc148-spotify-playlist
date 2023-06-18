@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-732 songs - 1 day 17 hr 14 min
+734 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [אין מאושר ממני](https://open.spotify.com/track/0XQ39JCh0I9tsKEmwMEH5F) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [מסע](https://open.spotify.com/album/088zTAQ5eV3aBrBgesvNSJ) | 2:52 | 2021-12-29 | 2022-01-23 |
 | [אין מאושר ממני](https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [אין מאושר ממני](https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT) | 2:52 | 2021-12-09 | 2021-12-30 |
 | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW) | 2:32 | 2022-07-25 | 2023-03-26 |
+| [אינטלקטוערסית](https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערסית](https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af) | 2:08 | 2023-06-17 |  |
 | [אל תגלי](https://open.spotify.com/track/0BPsxP81ujKwoZzcVpOLRZ) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Metro the Savage](https://open.spotify.com/artist/3UN7UwFvKMNNEuqePbkmPJ) | [אל תגלי](https://open.spotify.com/album/2upHjoUUOPZuuXjJFJIqeU) | 3:06 | 2021-07-15 | 2021-09-26 |
 | [אל תדליק אותי סתם](https://open.spotify.com/track/4clp4Z645yz3nxar58iae3) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לכאורה](https://open.spotify.com/album/4nBBtn70xb1a8aED9BAPIf) | 2:46 | 2022-03-08 | 2022-03-10 |
 | [אל תעזבי ידיים](https://open.spotify.com/track/0x9UM4GuxnMJUjyuipowmo) | [Akiva](https://open.spotify.com/artist/308QpS53hDcYGZseJlXtma) | [אל תעזבי ידיים](https://open.spotify.com/album/1d1x0Jsc6Zro6duUzrGrCv) | 3:28 | 2022-11-12 | 2022-11-14 |
@@ -431,6 +432,7 @@
 | [בעולם הזה](https://open.spotify.com/track/3htwhiORrRIXx4LxZRa7S5) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [בעולם הזה](https://open.spotify.com/album/5aSe8YD2EVpaBt3hGBPZRA) | 3:08 | 2022-12-12 | 2022-12-14 |
 | [בעולם הזה](https://open.spotify.com/track/725hyNaW6DtJIrUtkk5K8o) | [אליאן כהן](https://open.spotify.com/artist/39rKFi0P0m8hewgJtUZyqT) | [בעולם הזה](https://open.spotify.com/album/2Jwa3mBFVeya486fZ4UYPc) | 2:41 | 2023-05-19 | 2023-06-07 |
 | [בראש השנה](https://open.spotify.com/track/336bQZpuJyMAYOxeXDGZy7) | [Naomi Shemer](https://open.spotify.com/artist/4V6wf2ynZAUYlG8WnyQrIz) | [כיצד שוברים חמסין](https://open.spotify.com/album/0vz5XZBx8h8MaLOFaGHkNQ) | 2:15 | 2021-09-08 | 2022-09-28 |
+| [ברולטה](https://open.spotify.com/track/75sIATEdqHxN7jfNsRCwGl) | [שגב](https://open.spotify.com/artist/7mCLcLNpZqIX9z7Tyt0vjC), [ערן יוסף](https://open.spotify.com/artist/1FMTbixqfYNircymRohUZR), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [ברולטה](https://open.spotify.com/album/5KOoBIg1wdNsM0t9UUGzt0) | 3:04 | 2023-06-17 |  |
 | [ברחובות של תל אביב](https://open.spotify.com/track/4JSUFLR3Uo7FPCfNDRxIrx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:01 | 2021-05-21 | 2021-11-25 |
 | [ברקים ורעמים](https://open.spotify.com/track/6zu28NOvkZEhkB7vMM88Go) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [המיטב \(לעכשיו\)](https://open.spotify.com/album/4YEgGMuzfPb7iuPjfDXqNl) | 3:14 | 2023-04-22 | 2023-04-25 |
 | [בשורות טובות](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [בשורות טובות](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) | 2:54 | 2022-06-07 | 2022-10-14 |
@@ -510,7 +512,7 @@
 | [יום חדש](https://open.spotify.com/track/3z2xDkd4Bz0y3Teh4RZOWz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/1egE5NfiejbJB9tUclCEdN) | 3:28 | 2021-05-15 | 2021-05-21 |
 | [יום חדש](https://open.spotify.com/track/4mRreSUqP7waa2jT5ul41T) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/3lg5JGBlIiGeMbRwSh53hS) | 3:28 | 2023-05-20 | 2023-06-10 |
 | [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 | 2022-10-02 |
-| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 |  |
+| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 | 2023-06-18 |
 | [ים הרחמים](https://open.spotify.com/track/5OLFgqtdjdZJVByMwUEZfg) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [בא מן השתיקה](https://open.spotify.com/album/5KsNUKsnSKIrYH8X23Ykgi) | 3:59 | 2023-04-26 | 2023-04-28 |
 | [יצאה שבת](https://open.spotify.com/track/4f15d7Qc81qw4LKMAQhfYz) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:08 | 2023-06-02 |  |
 | [כאב של לוחמים](https://open.spotify.com/track/2X8mBXrZ6HJPCgKAzC87k5) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg) | 3:18 | 2022-05-04 | 2023-04-28 |
@@ -732,7 +734,7 @@
 | [תל אביב זה אני ואת](https://open.spotify.com/track/6ssR8XxeSyPytTMkSaJn9e) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [תל אביב זה אני ואת](https://open.spotify.com/album/1KyVY1Ich1xiE8CWTYnuIY) | 3:41 | 2021-05-03 | 2021-06-03 |
 | [תמיד עולה המנגינה](https://open.spotify.com/track/5LcJmCO4h3UPAOIuI1FbVX) | [Lehakat Heil Ha'avir](https://open.spotify.com/artist/5Pb2wwzEYyMV1e3ieKq3Ze) | [מוכרחים להמשיך לנגן](https://open.spotify.com/album/6Y5fwvVTHecdPJzRGp2fOh) | 3:44 | 2023-04-27 | 2023-04-29 |
 | [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 | 2023-01-22 |
-| [תראי אהובתי](https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:16 | 2023-02-10 |  |
+| [תראי אהובתי](https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:16 | 2023-02-10 | 2023-06-18 |
 | [‏בלדה לביישן](https://open.spotify.com/track/78OGIZvj4bxG0lFis2cndH) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Soul J](https://open.spotify.com/artist/485QOZYo6QKTExsIOB1NZD) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:33 | 2021-09-26 | 2021-10-16 |
 | [‏גיבור](https://open.spotify.com/track/76Iqn87We9vQlpQo7ql5g2) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:56 | 2021-09-26 | 2021-10-09 |
 | [‏ערב טוב טרוריסטים](https://open.spotify.com/track/54XUp0MTopZmtHpqcpJnMp) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:18 | 2021-09-26 | 2021-10-10 |

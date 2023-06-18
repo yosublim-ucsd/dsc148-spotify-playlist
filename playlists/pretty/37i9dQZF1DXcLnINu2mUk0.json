@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 34632,
+  "num_followers": 34666,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2YwMDNjMTI1OWI1NzNjNzE5NTYyOTdlOTUwNTk5MTVjMTlmNDlk",
+  "snapshot_id": "MCw0NmQ1MmE0ZDVjNTRmM2M4MmJiOTIzNTRlYzBjZjAzZTBkOTM4ZmZm",
   "tracks": [
     {
       "added_at": "2023-06-15 23:00:00",
@@ -311,26 +311,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "3,14",
-        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         },
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 324763,
-      "name": "3,14",
-      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -439,22 +435,26 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+        "name": "3,14",
+        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         },
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
         }
       ],
-      "duration_ms": 185684,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "+ do Mesmo - Parte 1",
         "url": "https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
-      },
-      "artists": [
-        {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Ser Tua",
-        "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
       },
       "artists": [
         {
-          "name": "Mia Rose",
-          "url": "https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2"
-        },
-        {
-          "name": "Chyna",
-          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
         }
       ],
-      "duration_ms": 176747,
-      "name": "Ser Tua",
-      "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
+      "duration_ms": 183529,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -911,6 +891,26 @@
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Ser Tua",
+        "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
+      },
+      "artists": [
+        {
+          "name": "Mia Rose",
+          "url": "https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2"
+        },
+        {
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Ser Tua",
+      "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Leves a Mal",
-        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 240763,
-      "name": "N\u00e3o Me Leves a Mal",
-      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Estic\u00e3o",
         "url": "https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
-      },
-      "artists": [
-        {
-          "name": "Rita Laranjeira",
-          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
       },
       "artists": [
         {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+          "name": "Rita Laranjeira",
+          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+      "duration_ms": 217714,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 176000,
       "name": "N\u00e3o Me Faz Bem",
       "url": "https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
+        "name": "O Brilho de Viver",
+        "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
+      },
+      "artists": [
+        {
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM"
+        }
+      ],
+      "duration_ms": 255652,
+      "name": "O Brilho de Viver",
+      "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
         "name": "Sou Eu",
         "url": "https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb"
       },
@@ -1339,22 +1359,6 @@
       "duration_ms": 214641,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     }
   ],
   "unique_name": "Seda",

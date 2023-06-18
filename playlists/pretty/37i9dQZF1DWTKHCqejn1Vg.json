@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 22966,
+  "num_followers": 23013,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5NGJiMzczOTlhMjVkNTI3ZDkyMzc3YjZmMjRiMTlmMDg5ZDY2",
+  "snapshot_id": "MCw3MTg1MTQ3N2JkZTM0YmQzMWQxMTg4ODUwOTk2ZWQ0ZjM2MTA1MDk5",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:08",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Come In",
-      "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 221834,
       "name": "woo ah",
       "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
+        "name": "TIME DIFFERENCE",
+        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+      },
+      "artists": [
+        {
+          "name": "AARON",
+          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+        }
+      ],
+      "duration_ms": 197552,
+      "name": "TIME DIFFERENCE",
+      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
         "name": "S.O.S (Sink or Swim)",
         "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 180720,
       "name": "Wet The Bed",
       "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
-        "name": "TIME DIFFERENCE",
-        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
-      },
-      "artists": [
-        {
-          "name": "AARON",
-          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
-        }
-      ],
-      "duration_ms": 197552,
-      "name": "TIME DIFFERENCE",
-      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
+        "name": "EMO #1",
+        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 217489,
+      "name": "Justin Bieber (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
         "name": "RESONANCE",
         "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 163163,
       "name": "24K (feat. Kvsh, DUT2)",
       "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
-        "name": "EMO #1",
-        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 217489,
-      "name": "Justin Bieber (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 5)",
         "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 196000,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "company",
-        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "company",
-      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 160443,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
     },
     {
       "added_at": "2023-06-13 08:58:08",

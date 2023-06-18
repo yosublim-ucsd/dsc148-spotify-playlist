@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Chris Janson, Carly Pearce, Willie Jones and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,863 likes - 61 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,055 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [Hair Down](https://open.spotify.com/track/0ruHqph0i9np2PCQpMBrgO) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out...Again \- EP](https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz) | 3:03 |
 | 61 | [Cut You Loose](https://open.spotify.com/track/1tiMAzTwt2YApgudqWP57v) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Cut You Loose](https://open.spotify.com/album/2c7pOsfyu1mhcsDenlhX9x) | 3:05 |
 
-Snapshot ID: `MCw0YzhlY2QxNmI1YTIzMWViOWQzODAyOGMyNjVjZDUxNzNmMDMyMTYy`
+Snapshot ID: `MCw5NzBhZjJkZTA4NzQyODBmM2VmNzEzZTJiYjUzNGVmMmU0NzEwOGI2`

@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-145 songs - 11 hr 14 min
+146 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Akhasmak Ah](https://open.spotify.com/track/2Dl6xEOmTWxi633TuZITw5) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:58 | 2021-12-06 |  |
 | [Akhbarak Eyh](https://open.spotify.com/track/1xwsERjO35E4aU0hAOAkq3) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Akhbarak Eyh](https://open.spotify.com/album/2i3OKjgg3aItLX6rm6L2kf) | 4:30 | 2021-12-06 | 2022-07-29 |
 | [Akhbarak Eyh](https://open.spotify.com/track/4Dq7rFnrKlSuKYj3N6lmTP) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Café Arabia Volume 2](https://open.spotify.com/album/4oo2Tda8r34cVT3CQH9gyb) | 4:30 | 2021-12-06 | 2022-11-13 |
-| [Akhbarak Eyh](https://open.spotify.com/track/5XeFvcqKyGgKxdjETm5cRq) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Arabianights](https://open.spotify.com/album/6oWnZmQOkPQ1Ds17a4suf2) | 4:30 | 2021-12-06 |  |
+| [Akhbarak Eyh](https://open.spotify.com/track/5XeFvcqKyGgKxdjETm5cRq) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Arabianights](https://open.spotify.com/album/6oWnZmQOkPQ1Ds17a4suf2) | 4:30 | 2021-12-06 | 2023-06-18 |
+| [Akhbarak Eyh](https://open.spotify.com/track/7s1t4TOGuxME0Yx5ocQt2X) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [أروع أغاني مايا نصري](https://open.spotify.com/album/5iagy7BmTcvWOAGooSldBf) | 4:30 | 2023-04-28 |  |
 | [Aktar Wahed](https://open.spotify.com/track/5d0PC29PLRZqem6ZvjXkg2) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Aktar Wahed Beihebak](https://open.spotify.com/album/3QDQnBiAmCcBndBaswQBk6) | 4:30 | 2021-12-06 | 2023-04-12 |
 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 | 2021-12-06 |  |
 | [Ana Ayesh](https://open.spotify.com/track/6mfIxe4u5I0y7IdFHMdlxJ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 3:44 | 2023-04-11 |  |

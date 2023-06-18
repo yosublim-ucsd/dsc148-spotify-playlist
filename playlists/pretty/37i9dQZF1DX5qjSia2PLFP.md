@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM?si=eENozeDUSaypJbFm0KOf1Q">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,272 likes - 82 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,291 likes - 82 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Psalm 62 / Ms\. Johnson](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 1 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
 | 2 | [Why Not?](https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Why Not?](https://open.spotify.com/album/16bPNUwUldGobpbBVylfKs) | 2:44 |
 | 3 | [World In My Hands](https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [You Made A Big Mistake](https://open.spotify.com/album/2DCU3YNuwMQEJo6mgzK3hK) | 3:14 |
 | 4 | [Cuz We Did](https://open.spotify.com/track/24EJjIh58hDXgCvpLjMCWZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [41 Ways](https://open.spotify.com/album/5EVyiRGDEhvaaPsvCBBkFT) | 2:27 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 81 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 82 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCxmZTQ1Mjc3MWIwMzUyNWZlOTgxMTY1OGEyOWY3NWU3YTVjNjU5MTY4`
+Snapshot ID: `MCw0ZTE1Y2EwNTg1NTdiZGY3YTY0ZTY0NzJkNTFiOWExYzA2MDA4NDZi`

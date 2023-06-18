@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,127 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,315 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 5 | [Sirtaki in der akropolis](https://open.spotify.com/track/4TJdg7IW1DPFRc8lYRczJ5) | [Paraskevas Grekis](https://open.spotify.com/artist/465N3DpknRAAfD6Xwa6Yne) | [Griechenland \-Populäre Musik](https://open.spotify.com/album/1rxIqRO3UbdFQ3waS7eYg8) | 3:03 |
 | 6 | [Siko chorepse Syrtaki](https://open.spotify.com/track/54WabNS2Z0kHE1L8XBvtOa) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [The Athenians: 20 Best Syrtakis From Greece](https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB) | 3:30 |
 | 7 | [Delfini Delfinaki](https://open.spotify.com/track/6c3LtR389mL6hSxRRKyezY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 3:40 |
-| 8 | [Oniro Demeno](https://open.spotify.com/track/5yVTRPum2TJDOKnb3JQCog) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Zorba the Greek and Other Famous Hits](https://open.spotify.com/album/7yLIITFq42dijI25BJXaE4) | 3:30 |
+| 8 | [Oniro Demeno](https://open.spotify.com/track/0JjaoC1dzvLR4wSKpV4G0M) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 6: Zorba The Greek & Other Hits](https://open.spotify.com/album/2ri8HGI88ED6d1iloDzDQa) | 3:28 |
 | 9 | [Epichirisis Apollon](https://open.spotify.com/track/4LHUPdSQWaTUH5YxysnrKF) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [The Athenians: 20 Best Syrtakis From Greece](https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB) | 5:09 |
 | 10 | [Ionian Cosmos](https://open.spotify.com/track/7kHWWnARr4S2nITu2VFAye) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Thanasis Vasilas](https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq), [Nikos Katsikis](https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY), [Thanassis Sofras](https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf), [Odysseas Papathanasiou\-Terzis](https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur) | [Magic of the Greek Bouzouki](https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU) | 3:11 |
 | 11 | [Aptaliko \- Instrumental](https://open.spotify.com/track/3feUCbRGftukH3bbAnuOJr) | [DROMOS bouzouki band](https://open.spotify.com/artist/5YbTrYrYKit0wyxYdcUQJ2) | [Rempetika & Bouzouki Instrumentals](https://open.spotify.com/album/47KFXtI5AMf270ydN5SvqA) | 3:37 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 63 | [Flying Like an Eagle](https://open.spotify.com/track/6OAFG0apABNxxKqnLY6f3r) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Bouzouki Romance](https://open.spotify.com/album/08Fx0aUzgSgpBjMqU6xejf) | 3:04 |
 | 64 | [Vaporaki Tou Bournova](https://open.spotify.com/track/5rO6xnNsOqzSbJzi08OxaY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:34 |
 
-Snapshot ID: `MCw4ZDliNTE2MWNmMzJlNGM0MzU5NmRmN2JlMGJjY2Y4NzE2MDk1YWI4`
+Snapshot ID: `MCxkYjU5ZDdiNzczMTkxNDZkMDg0ZTBlNGIxYzlkOWFhZjk5MzEzNzAy`

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DROELOE
 
-461 songs - 1 day 1 hr 34 min
+462 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Mind](https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Mind](https://open.spotify.com/album/4R96TWKe91XV7yZj9Db53H) | 2:57 | 2021-08-06 | 2023-05-13 |
 | [Minute](https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Minute](https://open.spotify.com/album/1WbWZSXhnqc6gowVQsESqA) | 2:52 | 2021-08-06 | 2022-07-29 |
 | [MOON WALK](https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [MOON WALK](https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a) | 2:36 | 2021-08-06 | 2023-02-11 |
-| [More In Love](https://open.spotify.com/track/60QcWQ4bGoO7RwF1wK3qbG) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [More In Love](https://open.spotify.com/album/2tacpXWmfGCnRr6TdijVjz) | 2:22 | 2023-05-19 |  |
+| [More In Love](https://open.spotify.com/track/60QcWQ4bGoO7RwF1wK3qbG) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [More In Love](https://open.spotify.com/album/2tacpXWmfGCnRr6TdijVjz) | 2:22 | 2023-05-19 | 2023-06-18 |
 | [Myriad \(feat\. Bijou Violet\)](https://open.spotify.com/track/1VikfA9k0xSYV770D44jAF) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Dawn](https://open.spotify.com/album/6Vw0bjmeyU6gG2k5Oa8wd1) | 3:23 | 2022-02-25 | 2022-07-29 |
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 | 2023-03-22 |
 | [Need U \(feat\. Madishu\)](https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U \(feat\. Madishu\)](https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty) | 3:26 | 2023-03-03 |  |
@@ -331,6 +331,7 @@
 | [Rosetta](https://open.spotify.com/track/0UyMWzjPTnEaEEIkDtKKBW) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [i know what i'm doing\*](https://open.spotify.com/album/5mJMMs0ZPVEHgbj2S0EreT) | 3:20 | 2021-08-06 |  |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-02-10 |  |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-08-06 | 2023-02-11 |
+| [Run Away!](https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Run Away!](https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY) | 3:58 | 2023-06-16 |  |
 | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/track/4Y6UXcqLYfYkt6Zk82XZFy) | [Katy Rose](https://open.spotify.com/artist/7fFDeuI6844uubidbokLE7), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/album/2iKPnx5cTUUczYDE2ZnKuV) | 3:35 | 2021-09-10 | 2022-06-22 |
 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 | 2023-05-19 |  |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2021-08-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 490341,
+  "num_followers": 490297,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGE5ZjYyMjMzNTMwNzQwODYzNWE2YWJmZGU4YmQzMmU4YjJkMTc2",
+  "snapshot_id": "MCxkNGNmMWVhNjAxNGNhYWIzZTkzMDAxYTEwZWRmODVhY2UwMDFmODU0",
   "tracks": [
     {
       "added_at": "2023-05-22 17:51:40",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
+        "name": "Consolers of the Lonely",
+        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Salute Your Solution",
+      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
         "name": "Sugar at the Gate",
         "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 192542,
       "name": "Nova Scotia 500",
       "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
-        "name": "Consolers of the Lonely",
-        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Salute Your Solution",
-      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
     },
     {
       "added_at": "2023-05-22 17:51:40",

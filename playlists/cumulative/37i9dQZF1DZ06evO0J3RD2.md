@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 43 min
+30 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-09-16 |  |
 | [The Grey](https://open.spotify.com/track/5Y6anXM0uQ6P5OIonxdsBe) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:49 | 2022-09-16 |  |
 | [Third Degree](https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:46 | 2022-09-16 |  |
+| [Tightrope](https://open.spotify.com/track/6HUAWdvqLh5mGPGhZGRGjx) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Tightrope](https://open.spotify.com/album/7DdfRSxj7KN1q2a7Jwu0vi) | 4:41 | 2023-06-17 |  |
 | [Tunnel Vision](https://open.spotify.com/track/74kXBXZW06evdyhknXq6ZX) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-10-12 |  |
 | [Vacant Home](https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:38 | 2022-09-16 |  |
 | [Worst Wishes](https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:06 | 2022-09-16 |  |

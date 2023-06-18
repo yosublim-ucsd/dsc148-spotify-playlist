@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,823 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,921 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 13 | [Frouxo \- Ao Vivo](https://open.spotify.com/track/0AnE7nJjSINcdhlYe3dMTc) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Frouxo \(Ao Vivo\)](https://open.spotify.com/album/61CI0zIwGcwX1J8tRkK6yq) | 3:48 |
 | 14 | [Nunca Vai Ser um Adeus \- Ao Vivo](https://open.spotify.com/track/2ZtBO7eGYv1TVT0Sij4M9c) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 2:48 |
 | 15 | [Má Intenção](https://open.spotify.com/track/5NkHJxqK2bEKRUKK0FAqPg) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Má Intenção](https://open.spotify.com/album/1VlyIbUwpdW8AX6GY3OXfu) | 2:41 |
-| 16 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré \(Ao Vivo\)](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
-| 17 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
+| 16 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
+| 17 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré \(Ao Vivo\)](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
 | 18 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
 | 19 | [Tenta Me Esquecer \- Ao Vivo](https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Tenta Me Esquecer \(Ao Vivo\)](https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll) | 2:15 |
 | 20 | [Certo Pelo Duvidoso \- Ao Vivo](https://open.spotify.com/track/1mkgVm7zMwOVFovBE0wtv5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 3:03 |
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
 | 26 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 |
 | 27 | [EXquecEU \- Ao Vivo](https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo\)](https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX) | 3:05 |
-| 28 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
-| 29 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
+| 28 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
+| 29 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
 | 30 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 31 | [Namoro De Merd4 \- Ao Vivo](https://open.spotify.com/track/7AziDpL8ZyoLZbYbQ4xHNo) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:41 |
 | 32 | [Se Tu Gostava de Mim](https://open.spotify.com/track/5lG2ItSw3J8CfL7fqyrO9W) | [Barbara D'Lux](https://open.spotify.com/artist/3Akce1qlZLbGxzqAHgQLrk), [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Se Tu Gostava de Mim](https://open.spotify.com/album/7i9K8MPPdmKTC52LeYdshA) | 2:42 |
 | 33 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/7GCFNHzQCRFrbkklWPxihq) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 3:00 |
 | 34 | [Mulher Feia](https://open.spotify.com/track/7h7PS0rDRau7mIZBAY6jSc) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Mulher Feia](https://open.spotify.com/album/5kMX8zHva5DbmG0KWMuiKx) | 3:12 |
-| 35 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
-| 36 | [Mulher Foda](https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Seresta da Klessinha \(2023\)](https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN) | 2:47 |
+| 35 | [Mulher Foda](https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Seresta da Klessinha \(2023\)](https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN) | 2:47 |
+| 36 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
 | 37 | [Foi Tudo Culpa do Amor \- Ao Vivo](https://open.spotify.com/track/3kFMkI7bAGwRQrgIA7hODi) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Priscila Em Cena, Pt.3 \(Ao Vivo\)](https://open.spotify.com/album/14kvQIhkbIaBvhcv4gRWuq) | 2:42 |
 | 38 | [Fio de cabelo](https://open.spotify.com/track/02WgpFP2084l3r6HoH1y7h) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Fio de cabelo](https://open.spotify.com/album/5B267dbtdjO40vjv4Nwfdm) | 2:56 |
 | 39 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 | 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`
+Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`

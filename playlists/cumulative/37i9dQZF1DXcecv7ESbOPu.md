@@ -4,7 +4,7 @@
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-8,441 songs - 18 day 6 hr 13 min
+8,444 songs - 18 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3599,6 +3599,7 @@
 | [I'm Lost](https://open.spotify.com/track/4OziLro3v8ScB33W8LtpTA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [I'm Lost](https://open.spotify.com/album/0NDnOS3gc2a3lNdaB79YNe) | 3:41 | 2021-12-17 | 2021-12-24 |
 | [I'm Not Dead Yet](https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [I'm Not Dead Yet](https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT) | 2:58 | 2022-09-22 | 2022-09-30 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-26 | 2023-02-03 |
+| [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 | 2023-06-17 |  |
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-01 | 2022-12-09 |
 | [I'm Not Me](https://open.spotify.com/track/1FfczxFNfvUSwEz5lHswm0) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [I'm Not Me](https://open.spotify.com/album/3hIAQY45r244nLJISoFDM8) | 2:48 | 2022-08-12 | 2022-08-19 |
 | [I'm Not Sorry \(The Molly Song\)](https://open.spotify.com/track/5z7ytgTftNPAXIAUX8IACy) | [Alaish](https://open.spotify.com/artist/56NIp7iw2bL4p4N7g05bm9) | [I'm Not Sorry \(The Molly Song\)](https://open.spotify.com/album/5x8oJmmYv9ymRDBb92mnZV) | 2:17 | 2023-05-25 | 2023-06-02 |
@@ -4627,6 +4628,7 @@
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-09-16 |
 | [Magic](https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Magic](https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa) | 2:58 | 2023-02-09 | 2023-02-17 |
 | [Magic](https://open.spotify.com/track/7dNVe4IuLnawmfSwUWOSMi) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Magic](https://open.spotify.com/album/3slnbnWcEFwmyCG3LCUc9f) | 3:16 | 2022-09-01 | 2022-09-09 |
+| [Magic](https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Magic](https://open.spotify.com/album/2Q0PRojnW0cbNXH5GixiFW) | 2:14 | 2023-06-17 |  |
 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-17 | 2022-02-25 |
 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 | 2022-03-17 | 2022-03-25 |
 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-08 | 2023-06-16 |
@@ -7876,6 +7878,7 @@
 | [Vänder kinden](https://open.spotify.com/track/4iDFPqpLlt6Fb5VvPa5c3G) | [Kempe](https://open.spotify.com/artist/5zKWFkKuRm5f5ayTV0UK2P) | [Toxic](https://open.spotify.com/album/7svMiDy3qmqd6mj9vBwULB) | 3:03 | 2022-11-24 | 2022-12-02 |
 | [Vänder Rygg](https://open.spotify.com/track/7ncRrPG2l4VhKzNVaPKBfN) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [Vänder Rygg](https://open.spotify.com/album/5lxrdUJXeqKHXchT0jbHp6) | 2:37 | 2022-08-25 | 2022-09-02 |
 | [Vänner](https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Vänner](https://open.spotify.com/album/4YmR801BCaHo4C230heArB) | 3:18 | 2022-01-06 | 2022-01-14 |
+| [Väntar På Dig](https://open.spotify.com/track/6fykpaGJdbT1KJ6QWWBBt9) | [Dante](https://open.spotify.com/artist/6pLczwiw7MRvvstnzGrp7A) | [Easy Water](https://open.spotify.com/album/7xWN9UqfwENUakkXrhudhD) | 2:09 | 2023-06-17 |  |
 | [Väntar på en bättre dag](https://open.spotify.com/track/558tLgHuJSXT2j1meWji61) | [Adam Asherov](https://open.spotify.com/artist/5xmsnGHMBgrH5OMMB2ZtwN) | [Väntar på en bättre dag](https://open.spotify.com/album/53GthiGgLLFxtPLyoTxSjo) | 2:54 | 2023-05-18 | 2023-05-26 |
 | [Väntar på en solig dag](https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Väntar på en solig dag](https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk) | 5:23 | 2022-03-03 | 2022-03-11 |
 | [Världen Är Min](https://open.spotify.com/track/5MYNw9kukOCUUU6KiE0ypb) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Världen Är Min](https://open.spotify.com/album/5pcYXImczLJvMDrdwMnzK2) | 3:02 | 2022-11-03 | 2022-11-11 |

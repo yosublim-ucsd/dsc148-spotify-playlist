@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,655 likes - 100 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,703 likes - 100 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 49 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
 | 50 | [Friday Night](https://open.spotify.com/track/0yKrmCbI4WYXetnEajaGw7) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 7:08 |
 | 51 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 |
-| 52 | [High School](https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [High School](https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ) | 2:57 |
+| 52 | [High School](https://open.spotify.com/track/1mNwuE3ShRGCoGv3WD3oVO) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:57 |
 | 53 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
 | 54 | [Deep Gone Far](https://open.spotify.com/track/39BOHYjYd5ZE6m5B1O88zu) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/2DWWFGNT5xoajrRYOHC6CD) | 6:12 |
 | 55 | [Strange Movement](https://open.spotify.com/track/0Uiixt84V1yXi45RSMF7VG) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [H2O](https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 |
 | 100 | [How U Do It](https://open.spotify.com/track/7dl5jIAxtO0Ix0e40PcjfJ) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [How U Do It](https://open.spotify.com/album/5dXd1Tk9Ih35K6X98aaQrL) | 4:46 |
 
-Snapshot ID: `MCw5Mzg1ZDM2OTBiYzNjYmUxYTQwYWNlZDAxMTc4MTQxZWQ5MjI2NDEy`
+Snapshot ID: `MCxjYmYwYTdjZjg3NzEwZmYzYmFjMmI4MmVjNzI5NWQ3YjA5MDk0ZTli`

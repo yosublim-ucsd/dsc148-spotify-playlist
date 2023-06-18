@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Zulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,605 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,667 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 |
 | 50 | [Last Gasp of the Dying](https://open.spotify.com/track/0Oid34x2WWh3eaaboLOBu6) | [Sammath](https://open.spotify.com/artist/09OEHseRdgqYGVceDcdsmm) | [Grebbeberg](https://open.spotify.com/album/26wwbBydmrikctKqkAwtip) | 6:42 |
 
-Snapshot ID: `MCwxYWI5YzE0ZDIyNDJiOWU3NDY3ZmYwOTYxZWJjZjI3OWQ1OWFkMTNl`
+Snapshot ID: `MCxiNjAxNDk0N2RiOWEyNTg5MmI2NWM3NjhiYmYwZTEwODk5YTk3NmUw`

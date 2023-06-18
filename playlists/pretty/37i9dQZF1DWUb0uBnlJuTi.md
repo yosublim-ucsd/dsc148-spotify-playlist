@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,595 likes - 200 songs - 15 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,872 likes - 200 songs - 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 58 | [Rajazz](https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Daniel Somaroo](https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A), [Raphael Rosse](https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp), [Gerry Lopez](https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk) | [Rajazz](https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2) | 7:21 |
 | 59 | [Everything Is Changing](https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Declassified](https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk) | 5:49 |
 | 60 | [Rainfalls](https://open.spotify.com/track/3sKGscGC83tWCUGtC3JJgM) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Rainfalls](https://open.spotify.com/album/4ViIUQ6dcEZKgqmWsZGdGk) | 3:37 |
-| 61 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:12 |
+| 61 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:14 |
 | 62 | [Funky Snakefoot](https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln) | [Alphonse Mouzon](https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk) | [Funky Snakefoot](https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i) | 3:45 |
 | 63 | [Partido Alto](https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33) | [Joabe Reis](https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK), [Agenor de Lorenzi](https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG), [Bob Mintzer](https://open.spotify.com/artist/2yKX1WpgVIxOJbwBbFwqQ0), [Daniel Pinheiro](https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17), [Gabriel Grossi](https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc), [Josue Lopez](https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA), [Michael Pipoquinha](https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N), [Sidmar Vieira](https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN), [U\-Nam](https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs) | [Partido Alto](https://open.spotify.com/album/7he2s9yl13xyhx7Zs4BnHp) | 6:33 |
 | 64 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCxiNmNhNGMwNTkwNzU5NWRlY2UxNjk0YTQ5ODg5OTZkM2VkMTg2YTVm`
+Snapshot ID: `MCxiOTI4ZTBiMmE2YjZlZmQ5YTQwOWNkM2MyMjkyMDViZmFjY2Q2ODI3`

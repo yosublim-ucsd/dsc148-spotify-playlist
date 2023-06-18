@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Peggy Gou
 
-357 songs - 1 day 1 hr 35 min
+358 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [One \- Seth Troxler Remix](https://open.spotify.com/track/3IuBoswJW21ChJiKQ29QLX) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [In Amber \(Remixes\)](https://open.spotify.com/album/2N8vs3qJN6EyqAA6SJ3EIC) | 6:08 | 2022-12-15 | 2023-03-31 |
 | [One More Time \- Romanthony's Unplugged](https://open.spotify.com/track/6ju6DQ7uIuo74eh8iKUQu5) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Romanthony](https://open.spotify.com/artist/1xKryNto8SDKl2E6lBs23J) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 3:40 | 2022-12-30 | 2023-01-02 |
 | [Only For Tonight](https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only For Tonight](https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6) | 3:33 | 2022-12-15 | 2023-01-20 |
-| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-25 |  |
+| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-25 | 2023-06-18 |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-15 |  |
 | [Otis](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:16 | 2022-12-30 | 2023-01-02 |
 | [Palladium](https://open.spotify.com/track/6SDct7Vxiv8gI8CSpcTkay) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Palladium](https://open.spotify.com/album/1Ac35UGt6iOXOLQhG0wV9q) | 6:13 | 2022-12-30 | 2023-01-02 |
 | [Paradise Circus \(Fallen Sun Version\)](https://open.spotify.com/track/1Fg1XSeE1aSqOD0EkQAAvn) | [POST](https://open.spotify.com/artist/7nsxiLUSrPfF0XcOXt5Rbe), [Ghostpoet](https://open.spotify.com/artist/69lEbRQRe29JdyLrewNAvD) | [Paradise Circus \(Fallen Sun Version\)](https://open.spotify.com/album/1NjAqjPhjeNlXfHE14Nn2s) | 5:20 | 2023-03-02 | 2023-03-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Tseba
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,172 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,176 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
 | 19 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 |
 | 20 | [Stars \- Kungs Remix](https://open.spotify.com/track/3D96RLUKIxCpSt1REGlMYR) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars \- Remixes](https://open.spotify.com/album/0mrFOd6nPTKivZe5ReWZjm) | 3:21 |
-| 21 | [Solteiro Sou Um Perigo](https://open.spotify.com/track/5VUkNfVb58kUWyWoWdbvha) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou Um Perigo](https://open.spotify.com/album/3B6QqQI2gmHsqddUrKkSZT) | 2:48 |
+| 21 | [Solteiro Sou um Perigo](https://open.spotify.com/track/4faZxf6Jp2DRwlcb8wZBhx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou um Perigo](https://open.spotify.com/album/2223agbx14JdDzzjiPUh3N) | 2:49 |
 | 22 | [THRILL](https://open.spotify.com/track/7FS1ozfgxmnKG22hWMqKiB) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [THRILL](https://open.spotify.com/album/1tRnK7TAlMreFLVE01gzXZ) | 2:18 |
 | 23 | [Truths](https://open.spotify.com/track/4PC0UqnSndVDRispI75OyD) | [Lambo](https://open.spotify.com/artist/6yclXxDJ7Co1CpxN2fm79m) | [Truths](https://open.spotify.com/album/6QpYbWUrXplBlmZe7Kc5G2) | 3:35 |
 | 24 | [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [Bavhu](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Way It Is](https://open.spotify.com/track/7MvmvKyJpfHyQDwAYuuap3) | [GC](https://open.spotify.com/artist/5aiWppvbSrw0HQI4Mp7mpI) | [Way It Is](https://open.spotify.com/album/5B2Rkuj8EEgvY2LakKvCfF) | 2:18 |
 | 100 | [Parallels](https://open.spotify.com/track/0kVks3qR893AzdY7bH8v4o) | [Tom Day](https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Parallels](https://open.spotify.com/album/4jtz79c1GnbAWU8P89fKrN) | 6:56 |
 
-Snapshot ID: `MCw0ZGYzZDg3MTY2MmIzNmI3Zjc1OTAxMTVlOGI2Y2ViNzg2NjQyNzMz`
+Snapshot ID: `MCw3OWE4YzNiNWY0MDc5MjBkMGNjZmY2M2U1MmExODgwMzMzNTlkNGFi`

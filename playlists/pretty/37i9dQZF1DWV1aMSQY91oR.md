@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,755 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [Ridin'](https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Ridin'](https://open.spotify.com/album/2n7HRnPxZ00DhaoMZTecpU) | 2:50 |
 | 37 | [No Chance](https://open.spotify.com/track/1csR4nn83cWor5bUYnAFdQ) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [No Chance](https://open.spotify.com/album/5xYF1MhhGDXc5opSWQIHIa) | 2:55 |
 | 38 | [Truth Is Freestyle](https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Truth Is Freestyle](https://open.spotify.com/album/4N5TqJ1xIxCf9J8uU0KOaS) | 2:46 |
-| 39 | [Orthodox](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
+| 39 | [Orthodox \(feat\. BabyTron\)](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
 | 40 | [Superstar](https://open.spotify.com/track/32rBvMpfQntbWgRYY9msI6) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Dopeboy Melodies](https://open.spotify.com/album/6wZioUy0Whb95Men80cvit) | 2:29 |
 | 41 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 |
 | 42 | [Time To Lay](https://open.spotify.com/track/5CyC1v8lXg6XIRAND3TpKx) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [Time To Lay](https://open.spotify.com/album/2k1PQzoI76zFnhOM0r4OYx) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [DOWNFALL](https://open.spotify.com/track/57J5vAPypiMzlVzEc0VztW) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [DOWNFALL](https://open.spotify.com/album/6XDbO6OROyObsIVP0geQqU) | 2:14 |
 | 50 | [One Life](https://open.spotify.com/track/2mFo1Fmzi1Az7iUXf6sRB5) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [One Life](https://open.spotify.com/album/6IencO4xqD8jNuJBtvXk0D) | 3:22 |
 
-Snapshot ID: `MCxhZjcxYWExYjk5MmQ3OGIzMTNkMDM3NmI5MmM0MGE1NmFjNjU3N2E3`
+Snapshot ID: `MCwyZWE4ZDY5MzU5NTJjYzdjYTRlMTZmYzFlZmQ3ODA1NTg0OGE1MDQ5`

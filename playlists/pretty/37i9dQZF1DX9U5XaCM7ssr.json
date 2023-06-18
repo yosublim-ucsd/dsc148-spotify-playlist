@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1036553,
+  "num_followers": 1037243,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGNmZDFkNjc3ZTEzNjUyNTBlZGEwZTRhZDY3NjY5MzEwYWNiNGYz",
+  "snapshot_id": "MCw1M2U3NTFmNWEyNmJiOWUyODk4YzdjYjA3ZGNiYjVkMTBjNTk2NzI1",
   "tracks": [
     {
       "added_at": "2023-06-14 07:39:17",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-14 07:39:17",
       "album": {
-        "name": "Kisah Sempurna",
-        "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 276019,
-      "name": "Kisah Sempurna",
-      "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
-    },
-    {
-      "added_at": "2023-06-14 07:39:17",
-      "album": {
         "name": "if u could see me cryin' in my room",
         "url": "https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 256867,
       "name": "if u could see me cryin' in my room",
       "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
+    },
+    {
+      "added_at": "2023-06-14 07:39:17",
+      "album": {
+        "name": "Kisah Sempurna",
+        "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 276019,
+      "name": "Kisah Sempurna",
+      "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
     },
     {
       "added_at": "2023-06-14 07:39:17",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-06-14 07:39:17",
       "album": {
-        "name": "Sheila On 7",
-        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
         }
       ],
-      "duration_ms": 288706,
-      "name": "Dan...",
-      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
+      "duration_ms": 408288,
+      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
+      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
     }
   ],
   "unique_name": "Generasi Galau",

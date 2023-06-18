@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352452,
+  "num_followers": 352471,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQwMjgxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQwMzY4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
@@ -45,27 +45,23 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "T\u00e1 OK",
-        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+        "name": "Pra Vaquejada Eu Vou",
+        "url": "https://open.spotify.com/album/4rSG4IoO35jxvkZdcHBcDz"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "Gean Toddy",
+          "url": "https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il"
         }
       ],
-      "duration_ms": 92093,
-      "name": "T\u00e1 OK",
-      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
+      "duration_ms": 153019,
+      "name": "Pra Vaquejada Eu Vou",
+      "url": "https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
@@ -93,23 +89,27 @@
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "Pra Vaquejada Eu Vou",
-        "url": "https://open.spotify.com/album/4rSG4IoO35jxvkZdcHBcDz"
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
       },
       "artists": [
         {
-          "name": "Gean Toddy",
-          "url": "https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         }
       ],
-      "duration_ms": 153019,
-      "name": "Pra Vaquejada Eu Vou",
-      "url": "https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV"
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
@@ -193,23 +209,23 @@
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+        "name": "I AM YOU",
+        "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
       },
       "artists": [
         {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+      "duration_ms": 268434,
+      "name": "Murder on My Mind",
+      "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Fuma do Kunk Amor o Tetel Voc\u00ea que Pagou",
         "url": "https://open.spotify.com/album/2KklEwgbQCJctBnCAEVzXh"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/5xQv8Cff2wvivGwU2hEGcl"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Cad\u00ea Seu Namorado Mo\u00e7a",
         "url": "https://open.spotify.com/album/1vO2Ne08h8MaNxu0xzHyi3"
@@ -253,39 +269,7 @@
       "url": "https://open.spotify.com/track/6F0ldIcRC6oCcn3hDukg9T"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "A Pequena Sereia (Trilha Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/4hngA2fa1b9nEZaJCEbL3F"
-      },
-      "artists": [
-        {
-          "name": "Laura Castro",
-          "url": "https://open.spotify.com/artist/4nPCuFlJ9yLbSb88rgnDel"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Parte Do Seu Mundo",
-      "url": "https://open.spotify.com/track/5z69yhhJkqL9K8tcf3PsLr"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "I AM YOU",
-        "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        }
-      ],
-      "duration_ms": 268434,
-      "name": "Murder on My Mind",
-      "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Em Cima Sempre",
         "url": "https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD"
@@ -301,7 +285,7 @@
       "url": "https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Colecionador de Porqu\u00eas",
         "url": "https://open.spotify.com/album/3ncsZ9HHmzLbPzTpA8XhyK"
@@ -317,23 +301,23 @@
       "url": "https://open.spotify.com/track/2m1SByxe85M1tzoqmoE6AX"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "A Beautiful Life (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+        "name": "A Pequena Sereia (Trilha Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/4hngA2fa1b9nEZaJCEbL3F"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+          "name": "Laura Castro",
+          "url": "https://open.spotify.com/artist/4nPCuFlJ9yLbSb88rgnDel"
         }
       ],
-      "duration_ms": 155369,
-      "name": "Hope This Song Is For You (From the Netflix Film \u2018A Beautiful Life\u2019)",
-      "url": "https://open.spotify.com/track/3gOPaJJHoZiTi24moIyJyZ"
+      "duration_ms": 214373,
+      "name": "Parte Do Seu Mundo",
+      "url": "https://open.spotify.com/track/5z69yhhJkqL9K8tcf3PsLr"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/2uXRznzlQXF6TXkrYVO7zA"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Sequ\u00eancia da Dz7",
         "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
@@ -369,23 +353,23 @@
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "Part of Your World (From \"The Little Mermaid\")",
-        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
       },
       "artists": [
         {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 214373,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+      "duration_ms": 155369,
+      "name": "Hope This Song Is For You (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/3gOPaJJHoZiTi24moIyJyZ"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "The Lost Soul Down",
         "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
@@ -401,23 +385,7 @@
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Say Yes To Heaven",
-        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209156,
-      "name": "Say Yes To Heaven",
-      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
@@ -433,7 +401,55 @@
       "url": "https://open.spotify.com/track/3xB2bbzkACM2p5DeND2H5R"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
@@ -453,23 +469,23 @@
       "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Na Contram\u00e3o",
         "url": "https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb"
@@ -497,23 +513,7 @@
       "url": "https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "I feel",
         "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
@@ -529,195 +529,7 @@
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "\u00c9 o Rei do Sexo",
-        "url": "https://open.spotify.com/album/5FwxLnfXPv1nIEFZDiVHs1"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "DJ Sammer",
-          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
-        }
-      ],
-      "duration_ms": 140134,
-      "name": "\u00c9 o Rei do Sexo",
-      "url": "https://open.spotify.com/track/11r84ikn6SC5N8NZWqWnoT"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Duas",
-        "url": "https://open.spotify.com/album/7uRtluQ9JDz5iuhTHsC65J"
-      },
-      "artists": [
-        {
-          "name": "Nadson O Ferinha",
-          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
-        }
-      ],
-      "duration_ms": 137848,
-      "name": "Duas",
-      "url": "https://open.spotify.com/track/6MpYP4LUSb1MWfpsdToKyH"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Cart\u00e3o Black",
-        "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Cart\u00e3o Black",
-      "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Me Soca",
-        "url": "https://open.spotify.com/album/2PyLbdMTGl4jaOPTAuaw1a"
-      },
-      "artists": [
-        {
-          "name": "DJ LUCIANO DE CAXIAS",
-          "url": "https://open.spotify.com/artist/3tp8IOyma0Xf4B5qAa7cM3"
-        },
-        {
-          "name": "dj Douglas dedo Magico",
-          "url": "https://open.spotify.com/artist/6mBgHtkdUuvLPjEPuEYq2e"
-        },
-        {
-          "name": "Mc Nick",
-          "url": "https://open.spotify.com/artist/3ShnwaSECgcrXtWIe3A9Mz"
-        },
-        {
-          "name": "MC PG",
-          "url": "https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Me Soca",
-      "url": "https://open.spotify.com/track/2rRZwiJajLqunfgbyHVFln"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
-        "url": "https://open.spotify.com/album/6TiZnu8EBFLp5CaI10SG60"
-      },
-      "artists": [
-        {
-          "name": "Dj Olliver",
-          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
-        },
-        {
-          "name": "Mr Boy",
-          "url": "https://open.spotify.com/artist/3IuiE6aOC7vqWRHoD309uU"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
-      "url": "https://open.spotify.com/track/0iORXnF3F0t9Os9P0TLNsv"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Karolina Vai no Ch\u00e3o",
-        "url": "https://open.spotify.com/album/3WcHLpyruWlvbMOSzgNl0g"
-      },
-      "artists": [
-        {
-          "name": "Vinnyrd7",
-          "url": "https://open.spotify.com/artist/6aLk65yXTdWvw3gydmSkqD"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Karolina Vai no Ch\u00e3o",
-      "url": "https://open.spotify.com/track/7MnzjHAKqZ95alfmyXkBf8"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Mandona (Se eu te dissesse)",
         "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
@@ -745,47 +557,183 @@
       "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "Wtf",
-        "url": "https://open.spotify.com/album/28IkNpZUMyuaWaADQAcwaS"
+        "name": "Duas",
+        "url": "https://open.spotify.com/album/7uRtluQ9JDz5iuhTHsC65J"
       },
       "artists": [
         {
-          "name": "021 Richard",
-          "url": "https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1"
-        },
-        {
-          "name": "DJ Wkilla",
-          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
-        },
-        {
-          "name": "H4axxi",
-          "url": "https://open.spotify.com/artist/1Pe2bSGGnlBB19BzevKijn"
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
         }
       ],
-      "duration_ms": 109137,
-      "name": "Wtf",
-      "url": "https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e"
+      "duration_ms": 137848,
+      "name": "Duas",
+      "url": "https://open.spotify.com/track/6MpYP4LUSb1MWfpsdToKyH"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Karolina Vai no Ch\u00e3o",
+        "url": "https://open.spotify.com/album/3WcHLpyruWlvbMOSzgNl0g"
+      },
+      "artists": [
+        {
+          "name": "Vinnyrd7",
+          "url": "https://open.spotify.com/artist/6aLk65yXTdWvw3gydmSkqD"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Karolina Vai no Ch\u00e3o",
+      "url": "https://open.spotify.com/track/7MnzjHAKqZ95alfmyXkBf8"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
+        "url": "https://open.spotify.com/album/6TiZnu8EBFLp5CaI10SG60"
+      },
+      "artists": [
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        },
+        {
+          "name": "Mr Boy",
+          "url": "https://open.spotify.com/artist/3IuiE6aOC7vqWRHoD309uU"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
+      "url": "https://open.spotify.com/track/0iORXnF3F0t9Os9P0TLNsv"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "\u00c9 o Rei do Sexo",
+        "url": "https://open.spotify.com/album/5FwxLnfXPv1nIEFZDiVHs1"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        }
+      ],
+      "duration_ms": 140134,
+      "name": "\u00c9 o Rei do Sexo",
+      "url": "https://open.spotify.com/track/11r84ikn6SC5N8NZWqWnoT"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Melly vs. Melvin",
+        "url": "https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "duration_ms": 222997,
+      "name": "Suicidal",
+      "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Cart\u00e3o Black",
+        "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Cart\u00e3o Black",
+      "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Feir\u00e3o dos 23",
         "url": "https://open.spotify.com/album/0ZYNF7WWXHIzVj7iVri3st"
@@ -817,7 +765,75 @@
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Me Soca",
+        "url": "https://open.spotify.com/album/2PyLbdMTGl4jaOPTAuaw1a"
+      },
+      "artists": [
+        {
+          "name": "DJ LUCIANO DE CAXIAS",
+          "url": "https://open.spotify.com/artist/3tp8IOyma0Xf4B5qAa7cM3"
+        },
+        {
+          "name": "dj Douglas dedo Magico",
+          "url": "https://open.spotify.com/artist/6mBgHtkdUuvLPjEPuEYq2e"
+        },
+        {
+          "name": "Mc Nick",
+          "url": "https://open.spotify.com/artist/3ShnwaSECgcrXtWIe3A9Mz"
+        },
+        {
+          "name": "MC PG",
+          "url": "https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Me Soca",
+      "url": "https://open.spotify.com/track/2rRZwiJajLqunfgbyHVFln"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Wtf",
+        "url": "https://open.spotify.com/album/28IkNpZUMyuaWaADQAcwaS"
+      },
+      "artists": [
+        {
+          "name": "021 Richard",
+          "url": "https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        },
+        {
+          "name": "H4axxi",
+          "url": "https://open.spotify.com/artist/1Pe2bSGGnlBB19BzevKijn"
+        }
+      ],
+      "duration_ms": 109137,
+      "name": "Wtf",
+      "url": "https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -833,23 +849,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "LUAN CITY 2.0 - FASE 1",
-        "url": "https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 174317,
-      "name": "DEUS \u00c9 MUITO BOM - Ao Vivo",
-      "url": "https://open.spotify.com/track/57wQe0K35gscKa1VlZh1VZ"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -865,7 +865,27 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Pa Pa Pa Terrorista",
+        "url": "https://open.spotify.com/album/6UHZbuYlRKSk26rB5b5GlP"
+      },
+      "artists": [
+        {
+          "name": "Dj Bn\u00e3o",
+          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 128063,
+      "name": "Pa Pa Pa Terrorista",
+      "url": "https://open.spotify.com/track/59O0Xlgmh1no1j1PcdDfif"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Melhor S\u00f3",
         "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
@@ -889,7 +909,59 @@
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Som de Pared\u00e3o",
+        "url": "https://open.spotify.com/album/3zkgXeNKtGuhk9yUgihh8z"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "duration_ms": 157170,
+      "name": "Chorei na Vaquejada",
+      "url": "https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
+      "album": {
+        "name": "MTG Menina Veneno",
+        "url": "https://open.spotify.com/album/0MYF6cAoKkUB2ByI1D3srJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "MTG Menina Veneno",
+      "url": "https://open.spotify.com/track/55LCyBaWfpTnwWPfeRhxlB"
+    },
+    {
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
@@ -925,27 +997,7 @@
       "url": "https://open.spotify.com/track/7qrQs4rPGCXnwNyLn2YVCT"
     },
     {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Pa Pa Pa Terrorista",
-        "url": "https://open.spotify.com/album/6UHZbuYlRKSk26rB5b5GlP"
-      },
-      "artists": [
-        {
-          "name": "Dj Bn\u00e3o",
-          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 128063,
-      "name": "Pa Pa Pa Terrorista",
-      "url": "https://open.spotify.com/track/59O0Xlgmh1no1j1PcdDfif"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
+      "added_at": "2023-06-17 11:43:24",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -963,58 +1015,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Som de Pared\u00e3o",
-        "url": "https://open.spotify.com/album/3zkgXeNKtGuhk9yUgihh8z"
-      },
-      "artists": [
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        },
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        }
-      ],
-      "duration_ms": 157170,
-      "name": "Chorei na Vaquejada",
-      "url": "https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
-    },
-    {
-      "added_at": "2023-06-16 11:57:52",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

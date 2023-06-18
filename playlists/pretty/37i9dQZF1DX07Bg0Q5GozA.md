@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,948 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,024 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 |
 | 2 | [Lovin You](https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Lovin You](https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL) | 2:43 |
 | 3 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 4 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 |
+| 4 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 |
 | 5 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 6 | [Loverboy \- Edit](https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Loverboy](https://open.spotify.com/album/27VAEEobniUQcVmXr07hsO) | 3:57 |
 | 7 | [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [How I Feel](https://open.spotify.com/track/5EtsAKJgceaLk9X6OfU0xB) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Play Paul](https://open.spotify.com/artist/7lIIilMB5xwbRUeZY6QfuQ) | [How I Feel](https://open.spotify.com/album/0Zh0qIHtYQJNOI1ixL8Kcs) | 2:59 |
 | 75 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 |
 
-Snapshot ID: `MCxiYjY0NGIxZTQ4NzU1YmQ5NzVhNzYwMDg1ZDY2NTc5YWY2YjkzYzFl`
+Snapshot ID: `MCw5YzJmNDIzMGIwZDNmMzQwNzJjMjZkYWU1ZjI0Mzk3ZDZkNTE3YWQy`

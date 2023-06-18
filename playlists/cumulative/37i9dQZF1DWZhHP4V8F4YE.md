@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits here
 
-414 songs - 1 day 0 hr 59 min
+415 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2023-01-16 | 2023-02-01 |
 | [Bullion Van](https://open.spotify.com/track/0H4md8xcDjgFyQRmdHPqQn) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bullion Van](https://open.spotify.com/album/52JJHZmqlT1rCkkEW8uZDC) | 2:35 | 2022-11-22 | 2022-11-30 |
 | [Bullion Van](https://open.spotify.com/track/7GJ2kXjIEPVky5mKR9ueB7) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:35 | 2022-11-08 | 2022-11-16 |
-| [Butta My Bread](https://open.spotify.com/track/0DHUdmHzkNq7GAMaDLlJnb) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/7nJP3Rmr7nBGQ3OlrAvlb8) | 2:28 | 2023-05-15 |  |
+| [Butta My Bread](https://open.spotify.com/track/0DHUdmHzkNq7GAMaDLlJnb) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/7nJP3Rmr7nBGQ3OlrAvlb8) | 2:28 | 2023-05-15 | 2023-06-18 |
+| [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2023-06-12 |  |
 | [Buya Kimi](https://open.spotify.com/track/6HLuVPFx304WRA0fbVirjs) | [Dj Coach](https://open.spotify.com/artist/0kXAnE4pbMxme8h4PQndfa), [DJ Sgo](https://open.spotify.com/artist/658ZTOoDdi3wP5HcVSdJFJ), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Buya Kimi](https://open.spotify.com/album/1aE3LIBDSvHiPJvHXLHwdR) | 6:55 | 2023-05-02 |  |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-04-11 |  |
 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 | 2022-11-08 | 2022-11-16 |

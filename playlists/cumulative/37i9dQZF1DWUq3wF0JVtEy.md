@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-330 songs - 16 hr 9 min
+331 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-05-12 |  |
 | [Hot In Here](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Hot In Here](https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV) | 2:31 | 2022-02-11 | 2022-08-06 |
 | [House Music Forever](https://open.spotify.com/track/4ip0qLoYmHJiDEj4f5MnOp) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jules Brand](https://open.spotify.com/artist/0GRc1U1eKmnVnUalj7HQDZ), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [House Music Forever](https://open.spotify.com/album/0Muc3IDPrYJKiCkp9XpNC5) | 3:14 | 2022-04-01 | 2022-04-21 |
-| [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 |  |
+| [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2023-06-18 |
 | [How Ya Like Me Now](https://open.spotify.com/track/0gwYFWhj6jgKDFdca5JezC) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 2:40 | 2022-07-22 | 2022-08-30 |
 | [How Ya Like Me Now](https://open.spotify.com/track/3tMf4R0lz5CEOUfliQiitr) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [How Ya Like Me Now](https://open.spotify.com/album/10jY7uLOtgbUtCmDrY6LJA) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 | 2021-10-29 | 2023-05-23 |
@@ -316,6 +316,7 @@
 | [Too Soon](https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd) | [Benwah](https://open.spotify.com/artist/5MDZ4Vx0HejqeFJXMDBYIG) | [Too Soon](https://open.spotify.com/album/72lIoWchPeGzLPUZXhgZHs) | 4:09 | 2021-10-29 | 2022-07-29 |
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2021-10-29 | 2022-12-17 |
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-27 | 2022-07-29 |
+| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 |  |
 | [Turn Off The Lights \- Cloonee Remix](https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn Off The Lights \(Cloonee Remix\)](https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc) | 3:18 | 2022-02-11 |  |
 | [Underneath My Skin \(feat\. Mila Falls\)](https://open.spotify.com/track/000kCVEn5BSsgbQmoLrvLI) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Underneath My Skin \(feat\. Mila Falls\)](https://open.spotify.com/album/2WykRDWAkMTdxscXmPgNnV) | 2:37 | 2022-01-21 | 2022-01-29 |
 | [Way Back](https://open.spotify.com/track/0NUbARTwC9ZLL3DYfSAfK1) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Way Back](https://open.spotify.com/album/7txwUmAvVmQgn61K6xZuuD) | 2:24 | 2022-04-15 | 2022-04-21 |

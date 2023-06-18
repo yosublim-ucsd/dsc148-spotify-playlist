@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: ASIAN KUNG\-FU GENERATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,226 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,309 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 |
 | 100 | [Wait for the season](https://open.spotify.com/track/14jkKW5OiVsHMzHGEeRn8p) | [Kohun Sisiters](https://open.spotify.com/artist/6GbuCgaGRqaxXXCJQnQnrC) | [Canon](https://open.spotify.com/album/63U8BhcuJwGT1WHGOMTZT7) | 3:31 |
 
-Snapshot ID: `MCw4NzFlMDIwZDcwOTU4NjYzZTQzYzliYWIzMjFmYmQ3MTU4MTA3MzI0`
+Snapshot ID: `MCwzZjgzNjEwZDFkMzczNzEzMDdjY2VhNThmODVhNGU5OGVjNDQ5NDMy`

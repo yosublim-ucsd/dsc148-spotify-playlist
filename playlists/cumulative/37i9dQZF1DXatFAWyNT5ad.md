@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: BOYS LIKE GIRLS
 
-616 songs - 1 day 8 hr 6 min
+617 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Jello on my Mind](https://open.spotify.com/track/7fSUjkp1NRfc9YhqKo1fil) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [A Blemish in the Great Light](https://open.spotify.com/album/2Sh8UR0HM8x4y4xsMDUCcn) | 3:52 | 2022-03-24 | 2022-04-12 |
 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 | 2022-03-24 | 2022-08-06 |
 | [Judge Me](https://open.spotify.com/track/10cJzlakTI6fMtoNSc6liK) | [Hank Compton](https://open.spotify.com/artist/7jKKTuM4iwzCuZ790quOMI) | [Judge Me](https://open.spotify.com/album/0O0fELYBxNe3Ou0k38e1mJ) | 3:48 | 2022-03-24 | 2022-04-20 |
+| [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 | 2023-05-31 |  |
 | [Just a Man](https://open.spotify.com/track/3vgjwS8CCbQZy7Pd2ZvJQa) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Just a Man](https://open.spotify.com/album/70ighIwxzEvO6EHHUbM961) | 4:01 | 2022-03-24 | 2022-04-21 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2023-03-24 | 2023-04-30 |
 | [Know You Too Well](https://open.spotify.com/track/1w1NiyET8kbJ4Po73YO6Er) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Know You Too Well](https://open.spotify.com/album/5WAUYAKKJrVjXx0bsYo2Ze) | 3:30 | 2022-03-24 | 2022-05-17 |
@@ -569,7 +570,7 @@
 | [Too Late](https://open.spotify.com/track/0Fma3BTRkSOKDigFnZYvtD) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Too Late](https://open.spotify.com/album/6CmiPFmr2tFiTiC3n25wRR) | 3:17 | 2022-03-24 | 2022-04-21 |
 | [Too Much](https://open.spotify.com/track/1k7FCfCytAwzkXSkV8gvv5) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Tangerine](https://open.spotify.com/album/3mNTgHJkPtbODSrkUCoaA9) | 3:14 | 2022-03-24 | 2022-04-10 |
 | [torture \(with Earl St\. Clair\)](https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [torture \(with Earl St\. Clair\)](https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP) | 2:41 | 2022-03-24 | 2022-04-15 |
-| [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 |  |
+| [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 | 2023-06-18 |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 | 2022-09-01 |  |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-09-09 |
 | [TRAVIS](https://open.spotify.com/track/7or0qYep2EYHNYOtMugkJq) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [TRAVIS](https://open.spotify.com/album/2Ot8UD3DUyO3K3zAKlZxmK) | 2:21 | 2022-03-17 | 2022-07-29 |

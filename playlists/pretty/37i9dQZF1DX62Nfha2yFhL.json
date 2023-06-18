@@ -1,12 +1,12 @@
 {
   "description": "every day grooves for a laid back day.",
-  "num_followers": 883956,
+  "num_followers": 884101,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU1YWUyNDA0ZDg1ZGYyY2VkMjgzYmI5ZTMyMmQ3MDA3YzI0NjIz",
+  "snapshot_id": "MCxlNDcxNjNlNDVjNmI4YjUxYjMxMDk0ZTk0OTU2NjNiMjRhNTgzNzcx",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -170,6 +170,10 @@
         {
           "name": "Vahn Black",
           "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
+        },
+        {
+          "name": "Trunino Lowe",
+          "url": "https://open.spotify.com/artist/6hCfWoTzVIsoS5bdnRL0JC"
         }
       ],
       "duration_ms": 375551,

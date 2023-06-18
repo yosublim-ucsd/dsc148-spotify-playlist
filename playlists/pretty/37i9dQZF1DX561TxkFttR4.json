@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 332726,
+  "num_followers": 332771,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm",
+  "snapshot_id": "MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "when the party\u2019s over (Slowed Remix)",
         "url": "https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 234280,
       "name": "when the party's over - Slowed Remix",
       "url": "https://open.spotify.com/track/35zRHowhQifRViG90CiLLY"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Ave",
-        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Fractal",
         "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 191114,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Beyond Dreams",
-        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Beyond Dreams",
-      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180057,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "River Path",
         "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
       },
@@ -856,7 +872,7 @@
       "added_at": "2022-09-20 13:39:53",
       "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
       "artists": [
         {
@@ -864,25 +880,9 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
       },
@@ -983,18 +967,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1015,8 +1015,24 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
@@ -1024,25 +1040,9 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        }
-      ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Some Other Place",
         "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 253169,
       "name": "Some Other Place",
       "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "We Met in the Garden",
+        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 143585,
+      "name": "We Met in the Garden",
+      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Void (I Play Mine version)",
-        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Carri",
-          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "The Void - I Play Mine version",
-      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Untouched Rainforest, Pt.3",
         "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 193529,
       "name": "Untouched Rainforest, Pt.3",
       "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Void (I Play Mine version)",
+        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "The Void - I Play Mine version",
+      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Pioneers",
-        "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
-      },
-      "artists": [
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 199255,
-      "name": "Pioneers",
-      "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sand and Stars",
         "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 269904,
       "name": "Sand and Stars",
       "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Pioneers",
+        "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
+      },
+      "artists": [
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
     },
     {
       "added_at": "2022-09-20 13:39:53",

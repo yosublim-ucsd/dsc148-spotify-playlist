@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 200813,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
@@ -3866,6 +3866,24 @@
       "duration_ms": 115226,
       "name": "Bootleg",
       "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
+    },
+    {
+      "album": {
+        "name": "BORZ",
+        "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136635,
+      "name": "BORZ",
+      "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
     },
     {
       "album": {
@@ -6308,7 +6326,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -12118,7 +12136,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 220933,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/4DMv4ucHwmZbHikt3n6XV2"
@@ -15660,7 +15678,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 195026,
       "name": "Je partirai",
       "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
@@ -22588,6 +22606,28 @@
       "duration_ms": 187072,
       "name": "Mon amour (with Camila Cabello)",
       "url": "https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11"
+    },
+    {
+      "album": {
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
     },
     {
       "album": {
@@ -30889,6 +30929,24 @@
     },
     {
       "album": {
+        "name": "Sign\u00e9",
+        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180968,
+      "name": "Sign\u00e9",
+      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/3Ud71yAmN9bxQNO4XnUuGf"
       },
@@ -33552,6 +33610,28 @@
       "duration_ms": 150857,
       "name": "Toxique",
       "url": "https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M"
+    },
+    {
+      "album": {
+        "name": "Ouvert tout l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
+      },
+      "artists": [
+        {
+          "name": "Sadek",
+          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178266,
+      "name": "TP",
+      "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > joga bonito
 
-1,059 songs - 1 day 22 hr 44 min
+1,060 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [MA BELLE](https://open.spotify.com/track/37ahOLMeucbxuofi7UFVxM) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [MA BELLE](https://open.spotify.com/album/0Gj0f2MmA5dDw8pAhJNwNg) | 2:00 | 2023-04-06 | 2023-04-15 |
 | [Ma chérie](https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ma chérie](https://open.spotify.com/album/1ImQaimhAPnEMnvpetjoFm) | 2:55 | 2023-02-16 | 2023-04-21 |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-11-04 |
+| [Magic](https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Magic](https://open.spotify.com/album/2Q0PRojnW0cbNXH5GixiFW) | 2:14 | 2023-06-17 |  |
 | [Makine](https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [Makine](https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk) | 2:10 | 2023-05-18 | 2023-06-16 |
 | [MALI](https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MALI](https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK) | 2:34 | 2021-12-16 | 2022-02-11 |
 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 | 2022-12-29 | 2023-03-18 |

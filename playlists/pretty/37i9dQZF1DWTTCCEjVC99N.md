@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,715 likes - 102 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,897 likes - 102 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 74 | [Wala Wahed](https://open.spotify.com/track/27VGkwhbffyMcZMrGtS2AC) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/6lhvrCE7AO38OfPsKR5HXv) | 4:13 |
 | 75 | [Ya Remoshaha](https://open.spotify.com/track/6p7D4gVIMWr1nDVgKsXSOS) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Habeeb El Alb](https://open.spotify.com/album/0N6f8GhfijcS2cNAZRNS6h) | 4:58 |
 | 76 | [Ghalak](https://open.spotify.com/track/4tlX75Q9YHwTxEL8jhYdpe) | [Rabih El Asmar](https://open.spotify.com/artist/01TVewF6woaJqiQVrbAvOB) | [Ghalak](https://open.spotify.com/album/6Bg8g1MAfcZ7XroF6dLdHo) | 4:14 |
-| 77 | [Akhbarak Eyh](https://open.spotify.com/track/5XeFvcqKyGgKxdjETm5cRq) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Arabianights](https://open.spotify.com/album/6oWnZmQOkPQ1Ds17a4suf2) | 4:30 |
+| 77 | [Akhbarak Eyh](https://open.spotify.com/track/7s1t4TOGuxME0Yx5ocQt2X) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [أروع أغاني مايا نصري](https://open.spotify.com/album/5iagy7BmTcvWOAGooSldBf) | 4:30 |
 | 78 | [شفت بعينيا](https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [جوه القلب](https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue) | 3:55 |
 | 79 | [Sidi Wesalak](https://open.spotify.com/track/5cV4VJEn6EeMbPYA1mwydl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Leih Sebtaha](https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ) | 5:16 |
 | 80 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 101 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 102 | [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
 
-Snapshot ID: `MCwwMjIzZmFjZWFjZjIzNDc4MmNjN2U5ZDgyOThlNDE2ZWExNGIzYzEw`
+Snapshot ID: `MCxlYWFkNzM4YTBkZGU4NDkyNzc5ZTBkN2M3NTRkOTJjNGY4MTAzMGY5`

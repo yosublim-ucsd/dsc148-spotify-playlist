@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
@@ -6972,8 +6972,8 @@
       },
       "artists": [
         {
-          "name": "DON KINO",
-          "url": "https://open.spotify.com/artist/4ytaQ2Akr8hnoyMeDBpqvU"
+          "name": "Don Kino",
+          "url": "https://open.spotify.com/artist/2ceOUe86VPY0YCjLptBgb4"
         },
         {
           "name": "Henry Mendez",

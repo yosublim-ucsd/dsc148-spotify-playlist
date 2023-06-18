@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! En portada: La Joaqui y Callejero Fino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,851 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,854 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 |
 | 100 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCwyMTU2OGU5OWQzMWY0MTNkNmQ1ZmYyNGQ3NmZkYzI5M2NjNDQwZjI2`
+Snapshot ID: `MCw1NzU1NWNmN2Q2ZTRkODQxMjQ0YTRiZjFhMjAyZDk2M2NhZjVmMTkw`

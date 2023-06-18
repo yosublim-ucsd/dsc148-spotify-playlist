@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 286819,
+  "num_followers": 286811,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2IzYzFlNmU1ZjQ0MjQwYmYwNjBhYjc1Yzk2Y2Q3MzJkOTU5NjU2",
+  "snapshot_id": "MCwzMGMyMWE2MmFjYmQ1MjRiMDIyYzMwM2E5YTM5OWRiZjAxNTM1YzYw",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -731,30 +731,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Mi Mejor Regalo",
-        "url": "https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad"
-      },
-      "artists": [
-        {
-          "name": "Juan Jose Diaz",
-          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
-        },
-        {
-          "name": "Victoria Montero",
-          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
-        },
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 177578,
-      "name": "Mi Mejor Regalo",
-      "url": "https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Navidad En Pr",
         "url": "https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 251533,
       "name": "Navidad En Pr",
       "url": "https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Mi Mejor Regalo",
+        "url": "https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Diaz",
+          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
+        },
+        {
+          "name": "Victoria Montero",
+          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 177578,
+      "name": "Mi Mejor Regalo",
+      "url": "https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
+        "name": "Emmanuel Jingle Bell Rocks",
+        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 325397,
+      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
+      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
         "name": "Regres\u00e9 Para Navidad",
         "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 167000,
       "name": "Regres\u00e9 Para Navidad",
       "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
-        "name": "Emmanuel Jingle Bell Rocks",
-        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 325397,
-      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
-      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
     },
     {
       "added_at": "2022-12-22 18:37:48",

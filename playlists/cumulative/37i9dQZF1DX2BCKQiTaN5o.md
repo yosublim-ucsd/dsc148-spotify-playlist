@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-45 songs - 2 hr 46 min
+46 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2020-01-19 |  |
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2020-01-19 | 2023-06-16 |
 | [Honesty](https://open.spotify.com/track/2B1JaRSd7T7YP90n6sCh9I) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/3TTHQTyBu7n3f48pwBtMDu) | 3:09 | 2020-01-19 | 2022-07-29 |
-| [Honesty](https://open.spotify.com/track/462TPW42LqTEidH4KcNkx7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/4p0EC5ThJf0VvujPgHo5jj) | 3:09 | 2020-01-19 |  |
+| [Honesty](https://open.spotify.com/track/462TPW42LqTEidH4KcNkx7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/4p0EC5ThJf0VvujPgHo5jj) | 3:09 | 2020-01-19 | 2023-06-18 |
+| [Honesty](https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi) | 3:11 | 2020-01-19 |  |
 | [Hussle & Motivate](https://open.spotify.com/track/3CldQZk9z2VifSacRkXJXC) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/3RZIk5CH4y187nGskxMrCf) | 4:18 | 2020-01-19 |  |
 | [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 | 2020-01-19 |  |
 | [I Want You Around](https://open.spotify.com/track/30q5CMJr5Wws4k5zYEovjO) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Want You Around](https://open.spotify.com/album/36XhR56K0C7fjAjTTelycC) | 3:32 | 2020-01-19 | 2022-11-13 |

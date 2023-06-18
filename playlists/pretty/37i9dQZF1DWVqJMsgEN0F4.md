@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Arlo Parks along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,621 likes - 62 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,679 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 61 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
 | 62 | [Oh No Darling!](https://open.spotify.com/track/3TMp13jKf5DDxmVfs4HGbt) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:23 |
 
-Snapshot ID: `MCxkOGE4OGVlYWNhYmUxNjViMGZjNzQzYTNlOWNmMTBjYzJhNDQzMjJk`
+Snapshot ID: `MCw2MDJlNjk3YzI1Y2Y1ZjgzMjQzOTQ1NzM1NDJiZWM4MzQ4YjE0NGVh`

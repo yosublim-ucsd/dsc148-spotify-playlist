@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-392 songs - 23 hr 44 min
+393 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Lovers In Tokyo](https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Lovers In Tokyo](https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC) | 3:46 | 2023-01-12 | 2023-02-08 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-12-06 | 2023-01-11 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-04-19 |
+| [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-15 |  |
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2022-11-29 | 2022-12-16 |
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
@@ -235,7 +236,7 @@
 | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [関口シンゴ](https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz) | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/album/7mCwxg24thEUZm7UWF60VM) | 3:19 | 2022-10-20 | 2022-11-23 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-10-20 | 2023-01-13 |
 | [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 | 2023-04-19 |
-| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 |  |
+| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |
 | [ordinary people feat\. BIM](https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ordinary people feat\. BIM](https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A) | 4:33 | 2022-10-20 | 2022-10-28 |
 | [Outtake](https://open.spotify.com/track/0JmF2pTQ7gtev5VYvFfjYZ) | [OTOYURE DOGGIES](https://open.spotify.com/artist/0HnTh85AChN9GEsuxrCc32) | [Outtake](https://open.spotify.com/album/4qwjUig7VDyXZ6OPdxr5z2) | 3:41 | 2022-10-20 | 2022-11-30 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 | 2023-02-26 |

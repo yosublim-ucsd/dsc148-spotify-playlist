@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-455 songs - 1 day 1 hr 35 min
+455 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-06-29 | 2022-09-17 |
 | [REDEEMED](https://open.spotify.com/track/2A2As8QMLjZ7e9r1MwOYsm) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [REDEEMED](https://open.spotify.com/album/1USkfbi24Wh0VDk6nYEdgF) | 2:59 | 2021-12-07 | 2022-01-08 |
 | [Reflections \- il:lo Remix](https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Reflections \(il:lo Remix\)](https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV) | 6:00 | 2022-01-14 | 2022-02-01 |
-| [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:50 | 2023-06-16 |  |
+| [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:21 | 2023-06-16 |  |
 | [Regret](https://open.spotify.com/track/1AVVqsv3ZtP0ZP9pfhs6Aw) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:16 | 2021-08-19 | 2022-02-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-09 |  |
 | [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-10-22 | 2023-01-30 |

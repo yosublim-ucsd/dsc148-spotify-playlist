@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,957 likes - 122 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,186 likes - 122 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Drink & Jive](https://open.spotify.com/track/0Q5ZeTsHkpNsRrvPlRztsj) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Don't Drink & Jive](https://open.spotify.com/album/6ZvqaxzphRJf0RU7Mdpigk) | 2:31 |
 | 2 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 |
 | 3 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 |
-| 4 | [ASCENDANT BRASIER \- Balduin Remix \- Electro Swing](https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [balduin](https://open.spotify.com/artist/5FG7r0QXjzOmd4QmvyvvZN) | [ASCENDANT BRASIER \(Balduin Remix\)](https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP) | 3:18 |
+| 4 | [ASCENDANT BRASIER \- Balduin Remix \- Electro Swing](https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [ASCENDANT BRASIER \(Balduin Remix\)](https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP) | 3:18 |
 | 5 | [Friend Like Me \- Electro Swing Mix](https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Friend Like Me \(Electro Swing Mix\)](https://open.spotify.com/album/3JAdcQ8GFH43mvbfkISLpK) | 2:58 |
 | 6 | [In the Mood](https://open.spotify.com/track/6NBwYT8zIO8MP1n82BKkij) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [In the Mood](https://open.spotify.com/album/2ptZi2qJDNiJS8oalULVdT) | 2:31 |
 | 7 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 121 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/7cdqNTpJWKqA6rp35tJUrH) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 |
 | 122 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 |
 
-Snapshot ID: `MCw0YWQxMzI0Y2U5ZGYxOWQ3OWQwZDk4ZmRjY2UwNDc3ZGIxMzMzMDY2`
+Snapshot ID: `MCxlZTY3ZGQzOWY3NmVmMzZkMzg3NTJiY2JhY2JjYmEyMmZiMzQ0MGM1`

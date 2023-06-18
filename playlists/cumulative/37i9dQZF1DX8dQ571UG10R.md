@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-70 songs - 4 hr 50 min
+72 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Amor Complicado](https://open.spotify.com/track/1fiaPgQcrNhNPYdFouflft) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Amor Complicado](https://open.spotify.com/album/11Nr9YVEykejmmWdaz6eJa) | 4:03 | 2022-02-22 | 2023-05-27 |
 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 | 2023-06-02 |  |
 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 |  |
-| [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 | 2022-02-22 |  |
+| [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 | 2023-06-02 |  |
+| [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 | 2022-02-22 | 2023-06-18 |
 | [Cria Da Folha](https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb) | 2:39 | 2022-02-22 |  |
 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 | 2022-05-27 |  |
 | [Death Note](https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t) | 3:51 | 2022-02-22 | 2023-01-28 |
@@ -63,7 +64,8 @@
 | [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 | 2022-02-22 |  |
 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 | 2022-05-27 |  |
 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 3:47 | 2022-02-22 | 2022-11-12 |
-| [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 | 2022-02-22 |  |
+| [Senpai](https://open.spotify.com/track/3bT0HyZG4LDJmG5IB8BHSi) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/47fz9EQIEJxhEx3lbvAMjn) | 3:13 | 2023-06-02 |  |
+| [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 | 2022-02-22 | 2023-06-18 |
 | [Sete Pecados Capitais](https://open.spotify.com/track/7hOpo4Xghw0EX1HgShJU3o) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Sete Pecados Capitais](https://open.spotify.com/album/7gZnPoiybTDKjXe7NmEvms) | 5:06 | 2022-02-22 |  |
 | [SpeedLord: Akatsuki](https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [SpeedLord: Akatsuki](https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG) | 5:13 | 2022-02-22 |  |
 | [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 | 2022-05-27 |  |

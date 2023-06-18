@@ -4,7 +4,7 @@
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-1,745 songs - 3 day 7 hr 16 min
+1,746 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,7 +1056,8 @@
 | [my mistakes as run on sentences](https://open.spotify.com/track/2Zlynhm62f2iSZhpB8h7kl) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [my mistakes as run on sentences](https://open.spotify.com/album/6LYcryceJaNUspKLhyKtcy) | 2:04 | 2022-09-03 | 2022-10-22 |
 | [Myself](https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:46 | 2021-01-23 | 2021-02-26 |
 | [Naked](https://open.spotify.com/track/4bnMjvwpv1eVUn0xz8sItQ) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Superstar](https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA) | 3:25 | 2022-09-23 | 2022-10-22 |
-| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-12 |  |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-12 | 2023-06-18 |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-04-12 |  |
 | [NECTA\_ \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 | 2023-01-27 | 2023-06-03 |
 | [Need You](https://open.spotify.com/track/6tidodcans7kdPcaVkOVWK) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Need You](https://open.spotify.com/album/6mJRhgO0K97rWKbgyIczFx) | 3:10 | 2021-11-06 | 2021-11-13 |
 | [never](https://open.spotify.com/track/3BDFpZKFt6pTyuA0UoQ05e) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [never](https://open.spotify.com/album/56aytBofhUz22mZk1QXxg4) | 2:00 | 2021-07-30 | 2021-09-09 |

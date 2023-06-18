@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Pjotr & Melissa Lopes op de cover van dé Nederlandse pop playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,050 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,084 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 5 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 |
 | 6 | [Geen Spijt](https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Geen Spijt](https://open.spotify.com/album/2FzO6i5P5sSGjjSt3DIuxE) | 2:31 |
 | 7 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
-| 8 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 |
-| 9 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
-| 10 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
+| 8 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
+| 9 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 |
+| 10 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 11 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
-| 12 | [Glaasje Of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje Of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
+| 12 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
 | 13 | [Niet Meer Hopen](https://open.spotify.com/track/0NihKI40IGefpU3gaFMinb) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Niet Meer Hopen](https://open.spotify.com/album/0oRrxWkeV6US4g7TsY5nms) | 2:25 |
 | 14 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 |
 | 15 | [Zweven](https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zweven](https://open.spotify.com/album/7jyJPYHgvDIsHElJio5fnQ) | 2:46 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry) | 2:43 |
 | 90 | [Oceaan](https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Oceaan](https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi) | 3:07 |
 
-Snapshot ID: `MCwyNDZiZDViYjlmODJkMjFhMzgzOWZkNjYzMTU3M2E5NmUyNTNhMTZl`
+Snapshot ID: `MCwwYjMwYmM2Nzk3MzNlMDIyOGI3NDM3OTRjMzg0M2Y4MjJiMmU3ZGY4`

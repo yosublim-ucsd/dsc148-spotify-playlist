@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,368 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,375 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 25 | [Kanno: 花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り\~未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 |
 | 26 | [yet](https://open.spotify.com/track/5Ymzx5BZzmykFlffsRKzmh) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [yet](https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV) | 4:20 |
 | 27 | [Ask DNA](https://open.spotify.com/track/4p1S6k6k3Clz7293zJI0xF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [yabuhara masashi](https://open.spotify.com/artist/21QS4UY91a9ddZtgLBCBf8), [george marino](https://open.spotify.com/artist/1CidExRpByD3vm5iFfEiny) | [COWBOY BEBOP Knockin' on Heaven's Door Ask DNA](https://open.spotify.com/album/1a9ZvRvJCb1RnF37cf9IWW) | 4:51 |
-| 28 | [KIDS ON THE SLOPE](https://open.spotify.com/track/0Nt5XEkIzexUFPPEbhd6Oe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/0c0o6oCdk5RmvmEEENpQs2) | 2:29 |
+| 28 | [KIDS ON THE SLOPE](https://open.spotify.com/track/2EjybI8rM8udIMC0mvX2dS) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/194Lk1nnWAcJh4pbWDbR99) | 2:29 |
 | 29 | [Power Of The Light](https://open.spotify.com/track/2it7ZKg74kMJInqDd4flyR) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [Brain Powerd \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9) | 3:07 |
 | 30 | [Hashire Hashire](https://open.spotify.com/track/3Xa8rSFdoqXHmilkjbNsba) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [GOLDEN BEST Kagayakitai no \[Victor Years 1981\-1985 \(+'99\)\]](https://open.spotify.com/album/4s7IzBa4w9Ta87nZJlc7UW) | 4:35 |
 | 31 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCw5MzBiYjg3ZGVjZDc1NDUzOWZkMmU1MThkZjllOTQxMGU5ZmFiNDMz`
+Snapshot ID: `MCw3YjI1ZDk1MTFhYWU5NjQ5N2Q0YzEyNDczMTY3YWY4MTk0MzUyNTI1`

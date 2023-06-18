@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-202 songs - 14 hr 32 min
+203 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/62UvwY9URklShrC79EU8GJ) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/68PYCuVALrVfM9a6RcuQgN) | 5:07 | 2021-07-12 | 2022-07-29 |
 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 | 2021-07-12 |  |
 | [All of Me](https://open.spotify.com/track/4FruIj8XF7TVGD2eiZEFMS) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [All of Me](https://open.spotify.com/album/7dPU0HwHMQCxASM9Z2ALXC) | 4:10 | 2021-07-12 | 2022-07-18 |
+| [Always There](https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz And Friends Summer Horns](https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF) | 4:03 | 2021-07-12 |  |
 | [Always There](https://open.spotify.com/track/5k6AHDxbQVFXgq6wVxc7OS) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz and Friends Summer Horns \(feat\. Gerald Albright, Mindi Abair, Richard Elliot\)](https://open.spotify.com/album/5vVBeULlTQWuesZgpILgy0) | 4:05 | 2021-07-12 | 2022-07-25 |
 | [American Garden](https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp) | [Pride And Joy](https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB) | 4:08 | 2021-07-12 |  |
 | [American Garden](https://open.spotify.com/track/5Kr15ZUXYmE4gzpu4pYQsr) | [Phillip Martin](https://open.spotify.com/artist/1bnzOD7TlkfYWoG2CfGHve) | [Pride and Joy](https://open.spotify.com/album/2KK7KqgTENPyN0QDL3ioRC) | 4:08 | 2021-07-12 | 2022-04-21 |
@@ -208,7 +209,7 @@
 | [Windfall](https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Windfall](https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4) | 4:30 | 2021-07-12 | 2022-07-29 |
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 | 2022-07-28 |
-| [Wrapped up in Your Smile](https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:39 | 2022-09-23 |  |
+| [Wrapped up in Your Smile](https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:39 | 2022-09-23 | 2023-06-18 |
 | [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

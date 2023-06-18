@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 57928,
+  "num_followers": 58023,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OThkMTkwMGUxNzczYjg1Zjg5ZTVlZDM4MWVhYWY4MjQ2ODFjMmVm",
+  "snapshot_id": "MCw0YzQ1ZTY1ODBjNzg2MzY0MWRlMjBiMzI2ODlmYWIyMDZiOGE0YmE0",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Dance Trax, Vol. 36",
         "url": "https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 137206,
       "name": "Horsey",
       "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -695,30 +695,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
-      },
-      "artists": [
-        {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado Monroe",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 178203,
       "name": "FMU",
       "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado Monroe",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     },
     {
       "added_at": "2023-04-04 13:57:02",

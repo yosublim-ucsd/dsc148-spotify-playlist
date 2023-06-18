@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La ola de calor está fuerte! 🥵 ¡Refréscate con lo nuevo de Don Omar, Doja Cat, Boza y Kenia Os, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,576 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,690 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 31 | [No es regueton](https://open.spotify.com/track/28i9WyTf8okempRM0wZRDr) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [No es regueton](https://open.spotify.com/album/4x7ck2nSIOFWsyACYp5pZF) | 2:33 |
 | 32 | [Sexo en la playa](https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Sexo en la playa](https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd) | 3:45 |
 | 33 | [Blue Jeans Y Un Crop Top](https://open.spotify.com/track/1egC9EmTFUnuMkHrwLO5FH) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Blue Jeans Y Un Crop Top](https://open.spotify.com/album/3CN88259NzkcUBDmknr2Qy) | 4:42 |
-| 34 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:58 |
+| 34 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
 | 35 | [ONCE:ONCE \- Versión Norteña](https://open.spotify.com/track/1kzu8CDw8BUQKCIfQTi18k) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ONCE:ONCE \- Versión Norteña](https://open.spotify.com/album/0JCGZFswEblQdqXjsHADKN) | 2:16 |
 | 36 | [Corazón de Ave](https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Corazón de Ave](https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI) | 4:12 |
 | 37 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 |
 | 50 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 |
 
-Snapshot ID: `MCxhMDYyNTMzMDk3YmE4YWNhMjIxODQ4ZjNhZmQ5ODIwYzJlYTQ0YzZj`
+Snapshot ID: `MCxiMzFmMDRhMjgxNjE1ZTg2MjgzNTc1OWM5NzNlZjU3NTVjY2Y4OTcw`

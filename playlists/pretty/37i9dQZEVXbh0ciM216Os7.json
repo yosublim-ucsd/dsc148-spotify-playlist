@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDBjY2JmYzhlNTg3YTI4ODQ5MDc2ZjNhOGRhZDY2YTlhNA==",
+  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDAxMDI0ZDg4ZTBmMmM1M2QwMWE5NGJmMTliYjQzN2ZlOQ==",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -95,6 +95,26 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Fatha Fig Ya (Food For Thought)",
+        "url": "https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "duration_ms": 171545,
+      "name": "Fatha Fig Ya (Food For Thought)",
+      "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "The Fourth Tuning",
         "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 241122,
       "name": "In My Heart - Paul Woolford Remix / Edit",
       "url": "https://open.spotify.com/track/7EhiB1HtMI2Cm25Sa45hmz"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Fatha Fig Ya (Food For Thought)",
-        "url": "https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "RMR",
-          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
-        }
-      ],
-      "duration_ms": 171545,
-      "name": "Fatha Fig Ya (Food For Thought)",
-      "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -567,34 +567,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 219860,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Live At The Piano",
-        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 52190,
-      "name": "Testimony (Live At The Piano)",
-      "url": "https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn"
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -615,90 +599,6 @@
       "duration_ms": 474837,
       "name": "Metamorphosis Two",
       "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Bird Eye View (Enhanced Version)",
-        "url": "https://open.spotify.com/album/2lU3tr68T6JmodC3EIkNM5"
-      },
-      "artists": [
-        {
-          "name": "The C!rcle",
-          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "G-SALIH",
-          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
-        },
-        {
-          "name": "Aidyproof",
-          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
-        }
-      ],
-      "duration_ms": 242531,
-      "name": "Bird Eye View - Enhanced Version",
-      "url": "https://open.spotify.com/track/46765eLgnOKa0O8z1VaKnX"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "The Dethalbum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Kill You",
-      "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "My Phone Can Die",
-        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
-      },
-      "artists": [
-        {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "My Phone Can Die",
-      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

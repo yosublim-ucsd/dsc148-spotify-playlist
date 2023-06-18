@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,315 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,411 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 17 | [FINGRET MOT SKYN](https://open.spotify.com/track/6seiPTq4HA9hlahAXItBuA) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [FINGRET MOT SKYN](https://open.spotify.com/album/4Ymlao4s7KR6AyYMbBW6Nz) | 2:14 |
 | 18 | [För alla gånger \- JulleMeck Remix](https://open.spotify.com/track/1fFsK0Zam4Cjoub3dgWx8e) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [För alla gånger \(JulleMeck Remix\)](https://open.spotify.com/album/6o5MDvCmUeYHv4RsyirSCE) | 2:42 |
 | 19 | [Välkommen in](https://open.spotify.com/track/0U27rCNgFuBlk9WwRyClOp) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Välkommen in](https://open.spotify.com/album/7Hf4qCMoZANvgHCbVlkNPd) | 1:52 |
-| 20 | [Så kommer känslorna tillbaka \- Summer Dance Remix](https://open.spotify.com/track/5saaFsfDlrNWDrKuSmxKdo) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT), [Allergic](https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX) | [Så kommer känslorna tillbaka \(Summer Dance Remix\)](https://open.spotify.com/album/0zTjMv9AhRDN7NZGkyURH0) | 2:48 |
+| 20 | [Så kommer känslorna tillbaka \- Summer Dance Remix](https://open.spotify.com/track/5saaFsfDlrNWDrKuSmxKdo) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT), [Allergic](https://open.spotify.com/artist/3NYEc5oq4d2os0rOsgJNgk) | [Så kommer känslorna tillbaka \(Summer Dance Remix\)](https://open.spotify.com/album/0zTjMv9AhRDN7NZGkyURH0) | 2:48 |
 | 21 | [Kom hem](https://open.spotify.com/track/19teyCxcTkj1HsjvczHi1n) | [Jonzon](https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ) | [Kom hem](https://open.spotify.com/album/04Oc7w9rIfdX2GApRFAST8) | 2:53 |
 | 22 | [DRIKKE MER](https://open.spotify.com/track/2dbsO5BBWndCfdf0YvFt9O) | [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Preb](https://open.spotify.com/artist/5ivRokF2N9UsI4d4p7N8nG) | [DRIKKE MER](https://open.spotify.com/album/2MNAlJ9bG065kzMbtGiK1H) | 2:11 |
 | 23 | [Staffan](https://open.spotify.com/track/4h0aGS6y4Gk7WULVkgzW2K) | [Kapten Krök](https://open.spotify.com/artist/2DBnFhrmrDXZdcLllncAUc) | [Staffan](https://open.spotify.com/album/5DQ9qy31krdwYATXwhIF8M) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [CLARK](https://open.spotify.com/track/5dfzFa1ui1uHqhdcFbs3C2) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO) | [CLARK](https://open.spotify.com/album/4PBYJLf23LYzOngK3o87Z2) | 2:15 |
 | 100 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 
-Snapshot ID: `MCw2NjIwYTBkMDc3M2MwY2ExNTA2MzNlOTVjNTdkYzMwMTdhY2VkMjIz`
+Snapshot ID: `MCwzMThhMTA2ZmRiNmU1ZmZjZjkxOWEzYzhmZmNlYmYzMDVhZjRmMmRl`

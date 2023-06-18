@@ -1,29 +1,13 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 314532,
+  "num_followers": 314637,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzRkNTY0YjY1Mjg1N2U1YzIxZjZkZjFiZDhlNDk3MzhmMjc1Njg0",
+  "snapshot_id": "MCwxNzllMmQ4YTViOGI3ZTA1ZGU2NGY5NTIwZDk3ZjFjOTY5YmU0Yzk2",
   "tracks": [
-    {
-      "added_at": "2022-03-30 05:08:29",
-      "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
-    },
     {
       "added_at": "2022-03-30 05:08:29",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 146000,
       "name": "Present",
       "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "added_at": "2023-05-09 01:20:43",
@@ -103,18 +103,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
         }
       ],
-      "duration_ms": 464293,
-      "name": "#3",
-      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+      "duration_ms": 87341,
+      "name": "Being Here",
+      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
       "added_at": "2023-06-07 02:48:22",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 87341,
-      "name": "Being Here",
-      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Living Room Songs",
         "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
       },
@@ -183,22 +167,6 @@
       "duration_ms": 208589,
       "name": "Near Light",
       "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
-    },
-    {
-      "added_at": "2023-06-05 23:00:37",
-      "album": {
-        "name": "Bajascillators",
-        "url": "https://open.spotify.com/album/6NAiGqHITefAfPFaDc46Zx"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 582930,
-      "name": "Amorpha",
-      "url": "https://open.spotify.com/track/3YR27cjoj0MJV1moSVdhJK"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -219,6 +187,38 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
+      "added_at": "2023-06-05 23:00:37",
+      "album": {
+        "name": "Bajascillators",
+        "url": "https://open.spotify.com/album/6NAiGqHITefAfPFaDc46Zx"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 582930,
+      "name": "Amorpha",
+      "url": "https://open.spotify.com/track/3YR27cjoj0MJV1moSVdhJK"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -271,18 +271,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+      "duration_ms": 396688,
+      "name": "A Shimmer",
+      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
     },
     {
       "added_at": "2023-05-09 00:56:07",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 396688,
-      "name": "A Shimmer",
-      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234320,
       "name": "Falaise",
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 225207,
+      "name": "People On Sunday",
+      "url": "https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl"
     },
     {
       "added_at": "2023-05-12 02:47:20",
@@ -351,18 +351,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 225207,
-      "name": "People On Sunday",
-      "url": "https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl"
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -395,22 +395,6 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -501,6 +485,22 @@
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
+      "added_at": "2022-09-30 02:45:34",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily"
+    },
+    {
       "added_at": "2023-06-02 00:29:19",
       "album": {
         "name": "Does Spring Hide Its Joy",
@@ -523,22 +523,6 @@
       "duration_ms": 1363000,
       "name": "Does Spring Hide Its Joy v2.3",
       "url": "https://open.spotify.com/track/50I2lezRqDOI6lsormfvSG"
-    },
-    {
-      "added_at": "2022-09-30 02:45:34",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1622575,
-      "name": "Briefly",
-      "url": "https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -573,22 +557,6 @@
       "url": "https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Waende",
-        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
-      },
-      "artists": [
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 232742,
-      "name": "Waende",
-      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Melancholia",
@@ -607,6 +575,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Waende",
+        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+      },
+      "artists": [
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 232742,
+      "name": "Waende",
+      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2022-10-14 13:00:12",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 347981,
+      "name": "Vision of Self",
+      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
-      "added_at": "2022-10-14 13:00:12",
-      "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 347981,
-      "name": "Vision of Self",
-      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Angel's Flight",
@@ -671,6 +655,22 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2023-05-12 04:18:59",
@@ -691,22 +691,6 @@
       "duration_ms": 487028,
       "name": "Ixtlilxochitl",
       "url": "https://open.spotify.com/track/5SGi1nqrlVyf6Qgij2H5xp"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -757,6 +741,22 @@
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+    },
+    {
       "added_at": "2023-04-06 01:07:54",
       "album": {
         "name": "Spring Siesta",
@@ -779,22 +779,6 @@
       "duration_ms": 241742,
       "name": "Spring Siesta",
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "async",
-        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 232073,
-      "name": "solari",
-      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -843,6 +827,26 @@
       "duration_ms": 311906,
       "name": "Broken Hearted Kota",
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Spain",
+        "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        },
+        {
+          "name": "Steve Sobs",
+          "url": "https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
     },
     {
       "added_at": "2023-06-02 00:49:40",

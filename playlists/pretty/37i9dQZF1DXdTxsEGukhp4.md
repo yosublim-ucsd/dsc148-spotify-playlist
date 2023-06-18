@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,813 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,072 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [SHIRANKEDO](https://open.spotify.com/track/6ctuvjSpWsuY64Db3XVV7p) | [NBSK](https://open.spotify.com/artist/5ZgcfbWT9FmgXCGAEFocpu) | [SHIRANKEDO](https://open.spotify.com/album/50jKgnGadc6pN3jqsOOGsb) | 3:33 |
 | 50 | [Ice](https://open.spotify.com/track/35bVBWVGUYQOIXp1PuxjuP) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Ice](https://open.spotify.com/album/4saUb4i5zdfxATnxA5ONQv) | 1:56 |
 
-Snapshot ID: `MCxmNzA2ZGIyMzllZWZhNjRlYzU1NjRlNmEwNDk1YjYyZTgzOWVhMzRh`
+Snapshot ID: `MCw3MDljZDRmYjIxZDQyMGZlZjE4MGJlOWFmMDdkNTU4ZTdmNmYxNzQw`

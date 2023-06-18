@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,035 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,996 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 | 100 | [Ghazal \- Trio Live](https://open.spotify.com/track/2J6Fzr2KCk3aTdEy7IrB7M) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [In The Before: Live at The Side Door](https://open.spotify.com/album/5SfAuw6EjGMGQr1K021Ae1) | 6:59 |
 
-Snapshot ID: `MCwyZDEwMTBmMmU1Zjk5ODkzY2I5ZThkZTZkMDJhYjI2ZDlmNjY4YjM2`
+Snapshot ID: `MCwzNDU4OTdlYjU1ZDNlNzkwOGQ4ZjgxNGI2NjU0OTgzMDkxYzYxZDNi`

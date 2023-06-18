@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQCYtfr3hh.md) - [plain]
 
 > The best of the Bollywood diva\. Cover: Aishwarya Rai Bachchan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,239 likes - 29 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,280 likes - 29 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQCYtfr3hh.md) - [plain]
 | 28 | [Yeh Kaisi Mulaqat](https://open.spotify.com/track/5LiEusObV5gbPVwlvE0pgP) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Suman Ranganathan](https://open.spotify.com/artist/0s57w2kmukNVjq9fWIomcn) | [Aa Ab Laut Chalen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DVE1erqe7QfM6uSqWlJtX) | 5:14 |
 | 29 | [Ay Hairathe](https://open.spotify.com/track/3Bq7CnWgfvplEzGSVXUvOe) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Mohammed Aslam](https://open.spotify.com/artist/6lGchZePVLrGOqMCtXKNFi) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 6:09 |
 
-Snapshot ID: `MCxkZTA0MjZlN2Y0M2VjOTQ4OTQzMzkxZDZmYWNhMGE2OGUzYjg3N2Zm`
+Snapshot ID: `MCw4MTk3YzUwNmM2ZGExNDk0ZTM0ZTk3ZWY2N2M4M2UxZDNlYjA2MTBi`

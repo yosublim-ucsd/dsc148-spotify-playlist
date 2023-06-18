@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 2084,
+  "num_followers": 2102,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODFlYmFkMjU1Njc4ZTQxYmQzNjRiNGExMDZjM2NhMWZkM2YwNTI4",
+  "snapshot_id": "MCw1ZDA3NTk5NTc0MGQ0YmIzZmUxNWQ0MzQ3ODk5ODY4MjAxOTI1OGY5",
   "tracks": [
     {
       "added_at": "2023-06-08 20:55:44",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "Sinoca",
-        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 215462,
-      "name": "Sinoca",
-      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
-    },
-    {
-      "added_at": "2023-06-08 20:55:44",
-      "album": {
         "name": "Llama Gemela",
         "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 207089,
       "name": "Llama Gemela",
       "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "added_at": "2023-06-08 20:55:44",
+      "album": {
+        "name": "Sinoca",
+        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 215462,
+      "name": "Sinoca",
+      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
     },
     {
       "added_at": "2023-06-08 20:55:44",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+        "name": "Verano en Coma",
+        "url": "https://open.spotify.com/album/4enBpErEDeCn3yKmg8FmKx"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+      "duration_ms": 330044,
+      "name": "Ballenas de Ruido",
+      "url": "https://open.spotify.com/track/3Glme0XFWokqcuHkIihryu"
     },
     {
       "added_at": "2023-06-08 20:55:44",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "Verano en Coma",
-        "url": "https://open.spotify.com/album/4enBpErEDeCn3yKmg8FmKx"
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
       },
       "artists": [
         {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
         }
       ],
-      "duration_ms": 330044,
-      "name": "Ballenas de Ruido",
-      "url": "https://open.spotify.com/track/3Glme0XFWokqcuHkIihryu"
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
     },
     {
       "added_at": "2023-06-08 20:55:44",

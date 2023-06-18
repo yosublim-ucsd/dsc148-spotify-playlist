@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Angel White\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,549 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,530 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 42 | [2 Freaky \(feat\. Bandmanrill, DJ Drewski\)](https://open.spotify.com/track/7bwKGqqEMmO1dothD2Kvv6) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [DJ Drewski](https://open.spotify.com/artist/4JyPPwzuX5NvU88c3rlrOW) | [2 Freaky \(feat\. Bandmanrill, DJ Drewski\)](https://open.spotify.com/album/4B4pvzChgHijfFZsQx8ANd) | 2:27 |
 | 43 | [The Greatest Story Never Told](https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [The Greatest Story Never Told](https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH) | 2:47 |
 | 44 | [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 |
-| 45 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 |
+| 45 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 |
 | 46 | [en santo domingo : \)](https://open.spotify.com/track/1NR26e7oFmyzA4nN3ChIfh) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [en santo domingo : \)](https://open.spotify.com/album/71sLq02ICvPlw4pSeWLB3w) | 2:41 |
 | 47 | [Pistas](https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Pistas](https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h) | 3:08 |
 | 48 | [Body](https://open.spotify.com/track/5fGROnVQVSqJrLR9AHSbjJ) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Body](https://open.spotify.com/album/3rmtAtgfjpik3JanGZWQFi) | 2:35 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 71 | [What I Mean](https://open.spotify.com/track/4d8mcBvjLz42u6STajUAWa) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [What I Mean](https://open.spotify.com/album/3LlJOvmblKinCavJwP6RWY) | 4:40 |
 | 72 | [Concorde Groove](https://open.spotify.com/track/5tGvGh3Xn8O940oj8VC9O3) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f) | [Concorde Groove](https://open.spotify.com/album/5QjBDlspX1a1JihYPp4U6V) | 4:04 |
 
-Snapshot ID: `MCxkMTZhYTkyMTFhYjkzYzNjNzY4MjE5NjZjMDk2YWIzMDVhZjBmMGJi`
+Snapshot ID: `MCw2ZjJlZmM0YjUwYzE5MmNhZTUxZGYzNWVhMzVkNjczOWIzYzI0M2I2`

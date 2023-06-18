@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Cold War Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,465 likes - 116 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,498 likes - 116 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 115 | [Waking Up in Los Angeles](https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Waking Up in Los Angeles](https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5) | 4:01 |
 | 116 | [Malina](https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W) | [Hollier](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Malina](https://open.spotify.com/album/5uXL2a5ig3x5zTvRoqsFoQ) | 4:39 |
 
-Snapshot ID: `MCxkODQzMTBlOWY3YTNhOTBmYjBlZGUxNjFjMjM1NzgxOTQ1MGYzNWVi`
+Snapshot ID: `MCxhZjM0NmZlYjRjYjU3YTQxNmE4YjM5NjYxZjcwNjQ3YmIwYjQ4OTZm`

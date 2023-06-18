@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Gifted Gab
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,524 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,531 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 21 | [So Fly](https://open.spotify.com/track/0YSKP9BdBQss8Sl8bcpz5h) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [So Fly](https://open.spotify.com/album/3LIwzEn2yCc9zJarkbENyo) | 2:36 |
 | 22 | [no one matters but you](https://open.spotify.com/track/7HIXXafb03vHQxSkf3YXDT) | [Nathan Nzanga](https://open.spotify.com/artist/149iGWck45TvTcgkUUtjeT), [Jay0](https://open.spotify.com/artist/74GM0K4tv3MACwZjGEVq9i) | [no one matters but you](https://open.spotify.com/album/2NwinAXGlt6NKPl59KQaAH) | 3:38 |
 | 23 | [ILYSM](https://open.spotify.com/track/3sGRWDxcjjquFN18xgAzbD) | [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [TOO MANY VICES](https://open.spotify.com/album/0OHaHrcBjAjnFDG5RrTLOk) | 2:30 |
-| 24 | [High & Low](https://open.spotify.com/track/4U0oEHFl6uYzletoic1vUf) | [Osa World](https://open.spotify.com/artist/1Xc9b2yVj2iHxTZzFMkDQn), [Archie](https://open.spotify.com/artist/6pEdAzNMgaTcWl45qH4SFQ) | [High & Low](https://open.spotify.com/album/6ZMRTcijdYH0w1eYSiTmK2) | 3:21 |
+| 24 | [High & Low](https://open.spotify.com/track/4U0oEHFl6uYzletoic1vUf) | [Osa World](https://open.spotify.com/artist/1Xc9b2yVj2iHxTZzFMkDQn), [Archie](https://open.spotify.com/artist/5EJxNJGLdKQPfS1MsLPFvg) | [High & Low](https://open.spotify.com/album/6ZMRTcijdYH0w1eYSiTmK2) | 3:21 |
 | 25 | [Botfly](https://open.spotify.com/track/4faXs5KYvNZi1inSafQx7O) | [Breaks and Swells](https://open.spotify.com/artist/3mTdL1Vo37T45YqKpN3V6C) | [Entomology](https://open.spotify.com/album/5xILs1Q4pvMc1R5cTc4vUR) | 3:38 |
 | 26 | [Song for a Sickhead](https://open.spotify.com/track/1YZX2zSe03jIZLJzzUgOml) | [Black Ends](https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3) | [My Own Dead / Song for a Sickhead](https://open.spotify.com/album/1vBdah6Hh5ihOY0j9jrrPI) | 3:55 |
 | 27 | [From Great Heights](https://open.spotify.com/track/2F5327KMTQORGQQBMfkEMZ) | [Ty' Shon](https://open.spotify.com/artist/4xjBRgsIfliJV5GTpT7Kvr) | [From Great Heights](https://open.spotify.com/album/1NoUbmBX5qILR569R7S21c) | 1:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [CATCH N GRAB](https://open.spotify.com/track/5nhlBWdu3hmxIck79gDNx0) | [Yung JerJer](https://open.spotify.com/artist/3J2Nl3AI153jzpiSzhUAXE), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52) | [CATCH N GRAB](https://open.spotify.com/album/4BXnQCw0zmER3vvNa1BRk1) | 1:39 |
 | 50 | [Locked In](https://open.spotify.com/track/0HFfeKFMx9ca1ZddAyUJxl) | [Mafi D](https://open.spotify.com/artist/0TboE335UT8BpAg6aSpoAm), [Ralphy Davis](https://open.spotify.com/artist/5wY7YZCurjPiYRLP1N8GFp), [MikeJack3200](https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb), [Gunna Goof](https://open.spotify.com/artist/0qd0iLsyS5tEw92XDKG3CV) | [Overlooked & Underpaid](https://open.spotify.com/album/2Bknw5GjDOG2hTNFHcsOZk) | 2:02 |
 
-Snapshot ID: `MCw1ZTI5Y2E0ODc0MWYxNzVhZjVkMzk4OTNjNjY3ZDQ0MzcwM2VmZTk2`
+Snapshot ID: `MCxlYmU3ODhmN2Y5ODViZjZjNzI3YzYwMWNhMGYzMWY5MGY2Yzk5ZjYw`

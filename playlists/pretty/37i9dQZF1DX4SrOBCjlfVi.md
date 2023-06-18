@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Doja Cat and more\. Cover: YG & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,135 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,243 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [Slizzy Gods](https://open.spotify.com/track/4wVoXhYiMIZ00PSijjOma5) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Gods](https://open.spotify.com/album/2Vp0nwE7grcgIsgbLG3ytT) | 1:34 |
 | 43 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 | 44 | [Too Gone \(ft\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2isEZrfcQCpPsW97VJWwpk) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [YOU'RE THE PROBLEM](https://open.spotify.com/album/49EeerD9g11QOcsueBGR4H) | 3:59 |
-| 45 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Psalm 62 / Ms\. Johnson](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 45 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
 | 46 | [Hot Friend](https://open.spotify.com/track/7apkSpHwMzhpSCi3rRa352) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Hot Friend](https://open.spotify.com/album/2FpQM6aXOAhInjnFoK7tg5) | 2:29 |
 | 47 | [Blah Blah Blah](https://open.spotify.com/track/4cYu0G68OYLVPdIsLPgi7h) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Blah Blah Blah](https://open.spotify.com/album/0NmpdTCNBhb57BuqFckNik) | 2:10 |
 | 48 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
 | 49 | [Before The Rap](https://open.spotify.com/track/4m4WOnPOVpPfqJoMzzR5Xw) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Taleban vs\. Dooda](https://open.spotify.com/album/6mNpkjIjgsVbR1MJqxaY4I) | 2:18 |
 | 50 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
 
-Snapshot ID: `MCwxYjk4ZjM1YmFkZjc5MzExMjVhMTIzMjFmZWFmYTYwYTc4Njc2M2Qx`
+Snapshot ID: `MCw1MzhiMjc3Y2FkOTU5NjcxNzA4OGM3YzRlZWQ5MjE1OTgwNDQxYzI2`

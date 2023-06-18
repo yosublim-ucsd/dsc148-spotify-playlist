@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141515,
+  "num_followers": 141519,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWM5YzBkZTFlOTA5YjkzYzFlYzg0OTJlNTY5N2FmZWY3YzM3NWVl",
+  "snapshot_id": "MCw1YWI2YTBlMjY3NTE3ZmI1ODg4N2RhNjc3NWM2ZmYxN2MwM2UzZmJi",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -619,18 +619,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swinging Mainstream Sides",
-        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+        "name": "Sounds Of New Orleans",
+        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
       "artists": [
         {
-          "name": "Wingy Manone",
-          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+          "name": "Albert Burbank",
+          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
+        },
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 192937,
-      "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
+      "duration_ms": 151453,
+      "name": "Bill Bailey",
+      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -651,22 +655,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans",
-        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
+        "name": "Swinging Mainstream Sides",
+        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
       },
       "artists": [
         {
-          "name": "Albert Burbank",
-          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
-        },
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
         }
       ],
-      "duration_ms": 151453,
-      "name": "Bill Bailey",
-      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+      "duration_ms": 192937,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -871,18 +871,38 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Best of Dixieland",
-        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
+        "name": "The Luis Russell Story",
+        "url": "https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ"
       },
       "artists": [
         {
-          "name": "Original Dixieland Jazz Band",
-          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+          "name": "Luis Russell",
+          "url": "https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP"
+        },
+        {
+          "name": "Albert Nicholas",
+          "url": "https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY"
+        },
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/2JXBvjlBB0Qu7MJ1XblhSM"
+        },
+        {
+          "name": "J. C. Higginbotham",
+          "url": "https://open.spotify.com/artist/5Qp4GPKEa8t2iM6ZDkg86Y"
+        },
+        {
+          "name": "Charlie Holmes",
+          "url": "https://open.spotify.com/artist/5dhfT2nL6RlvrQ1E7E9QE9"
+        },
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA"
         }
       ],
-      "duration_ms": 156003,
-      "name": "Tiger Rag 3",
-      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
+      "duration_ms": 187333,
+      "name": "Saratoga Drag",
+      "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
     }
   ],
   "unique_name": "New Orleans Brass",

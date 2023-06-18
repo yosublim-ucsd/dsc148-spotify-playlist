@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,174 likes - 178 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,215 likes - 178 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 6 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
 | 7 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 |
 | 8 | [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 |
-| 9 | [january](https://open.spotify.com/track/6MGqNuoVTYl4LfuhCTCg0S) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [may](https://open.spotify.com/album/26CRNQIefnR8zIAR9aQKWw) | 5:05 |
+| 9 | [january](https://open.spotify.com/track/3gaklxqbiGCzd5KGsgDGWE) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [june](https://open.spotify.com/album/3kNdTr0IqphjVaVthCDxSU) | 5:05 |
 | 10 | [Fate's Sword](https://open.spotify.com/track/7nmRKnJshjGfQ9NFrpNcq9) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Fitted Friends](https://open.spotify.com/album/0zDp9XOVPWLVz3V0ZlEy0H) | 2:43 |
 | 11 | [Stoic](https://open.spotify.com/track/5MkNHsjfPQJT55YRNawXDC) | [Sun Kissed Sky](https://open.spotify.com/artist/5HkFsCNO0S6DI1nfvHxUi6) | [Stoic](https://open.spotify.com/album/1R188q8lWvdB1tXdr9j3Xe) | 2:23 |
 | 12 | [Zegways](https://open.spotify.com/track/7gNOv2uGFnZA9J7kpITGvS) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Zegways](https://open.spotify.com/album/4bC87a0wafJ0U5dWlmz3q8) | 2:31 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 177 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 178 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCwxNTIxODRhM2I1Y2FiOGJhNzljOGM5ZDIxNGJkMDEzZGM4MTIyZTRl`
+Snapshot ID: `MCw5YzIxODllN2VjNTU4MGFhODA3NWUyNWUyNzc4NTlhZmJkZDcwZmZl`

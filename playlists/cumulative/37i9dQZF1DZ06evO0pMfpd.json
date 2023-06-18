@@ -999,6 +999,36 @@
     },
     {
       "album": {
+        "name": "Ramito de Violetas 2.0",
+        "url": "https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "JOS BRAHAM",
+          "url": "https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x"
+        },
+        {
+          "name": "Banda La Fugitiva De Mike Miramontes",
+          "url": "https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261433,
+      "name": "Ramito de Violetas 2.0",
+      "url": "https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv"
+    },
+    {
+      "album": {
         "name": "100% Mexicano",
         "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
       },

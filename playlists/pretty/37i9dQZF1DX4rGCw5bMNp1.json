@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 127808,
+  "num_followers": 127862,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc3NmMwMjk0YTc2NGFiMmZkM2RmNzQ0YTkyYjUzMDQ3ODY4NDc5",
+  "snapshot_id": "MCw4ZjYyNWQyMWEwNDcwMTU2OTBlMGI0YzdmZmNkMWZjODJiODQ4NTE5",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -427,6 +427,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Living Chicago Blues, Vol. 3",
         "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 287640,
       "name": "Call My Wife",
       "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
       "added_at": "2018-02-27 18:08:29",

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 26965,
+  "num_followers": 26976,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjQ2YWVjNzU4YjhiMjg4ZjZhMjJhNWFiZjRhMjYwY2VjMjVjN2Vh",
+  "snapshot_id": "MCw0MzE2NWNlZDgyMWM4MWU1OGE3NzJiMDEwMjZhZGEzMzhkMDRjZTAz",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "3 Tou 9",
-        "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
-      },
-      "artists": [
-        {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
-        }
-      ],
-      "duration_ms": 289537,
-      "name": "San Limit",
-      "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Diferan",
         "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 297960,
       "name": "Mwen bouke",
       "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "3 Tou 9",
+        "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "duration_ms": 289537,
+      "name": "San Limit",
+      "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Soca 101 Vol. 4",
-        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
       },
       "artists": [
         {
-          "name": "Kassav",
-          "url": "https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais"
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
         }
       ],
-      "duration_ms": 331413,
-      "name": "Zouk-La-Se Sel Medikaman Nou Ni",
-      "url": "https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke"
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

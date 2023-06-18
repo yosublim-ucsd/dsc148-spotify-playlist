@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 125538,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0fRgHNsnNgQutv19TcvUCA"
@@ -8460,7 +8460,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
@@ -9578,7 +9578,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 149647,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/0iEQO1tSHccw1N3rl0Kcpv"
@@ -13079,6 +13079,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u0410\u0414\u0414\u0415\u041c\u0406\u0422",
+        "url": "https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr"
+      },
+      "artists": [
+        {
+          "name": "GEZWEIRDO",
+          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "\u0413\u0410\u0414\u0414\u0415\u041c\u0406\u0422",
+      "url": "https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO"
+    },
+    {
+      "album": {
         "name": "FREERIO",
         "url": "https://open.spotify.com/album/5zkFFXDh9W9457YNxel2gO"
       },
@@ -13604,6 +13622,28 @@
       "duration_ms": 150588,
       "name": "\u0414\u0430\u0432\u043d\u043e",
       "url": "https://open.spotify.com/track/7EdqOU21mOqKASnK7XGQn9"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0410\u0419 \u041c\u041d\u0415 \u041f\u041e\u0421\u041c\u041e\u0422\u0420\u0415\u0422\u042c </3 \u0414\u042d\u041d\u0421 \u0414\u042d\u041d\u0421",
+        "url": "https://open.spotify.com/album/684Ywyonh6K18IUsok1x8n"
+      },
+      "artists": [
+        {
+          "name": "Heronwater",
+          "url": "https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "\u0414\u0430\u0439 \u043c\u043d\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c",
+      "url": "https://open.spotify.com/track/1DClMPKEaiKyr7OBWynui5"
     },
     {
       "album": {
@@ -15341,6 +15381,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0432\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121961,
+      "name": "\u041a\u0432\u0456\u0442\u0438",
+      "url": "https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U"
+    },
+    {
+      "album": {
         "name": "\u0417\u0410\u041f\u0420\u0410\u0412\u041a\u0410 \u041a\u0418\u0414 2",
         "url": "https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara"
       },
@@ -15464,7 +15522,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 246626,
       "name": "\u041a\u043e\u043b\u0438 \u043c\u0438 \u0434\u0432\u043e\u0454",
       "url": "https://open.spotify.com/track/1GTBE5eOLsQxO3p3Rltdp9"
@@ -19119,6 +19177,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0438\u043b\u0443\u0435\u0442",
+        "url": "https://open.spotify.com/album/0tSdTxlQfSG4RAbJ4oeqaV"
+      },
+      "artists": [
+        {
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "\u0421\u0438\u043b\u0443\u0435\u0442",
+      "url": "https://open.spotify.com/track/0mbcTZx7O3AuzGUq6gr8cP"
+    },
+    {
+      "album": {
         "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln"
       },
@@ -19682,7 +19758,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 162905,
       "name": "\u0421\u0442\u0456\u043d\u0438",
       "url": "https://open.spotify.com/track/1btS2UHaQF7W53fP2bBuKs"
@@ -20818,7 +20894,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 149584,
       "name": "\u0425\u0432\u0438\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI"

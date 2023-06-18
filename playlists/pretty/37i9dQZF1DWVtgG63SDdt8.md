@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0?si=3apIL9lHSOmSc0x99vwC5g">JOSHUA LAZER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,263 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,331 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 37 | [I Lean On You](https://open.spotify.com/track/2yknpSnuJrht0f8XvuLpRa) | [Wildflowers](https://open.spotify.com/artist/5coLLXzZ7CNs9tKs0AbeJo), [Christine Smit](https://open.spotify.com/artist/46P4MQc4LDOmOLq1lw9tkm) | [I Lean On You](https://open.spotify.com/album/2k5yhi1oiFREDv3RimgBHQ) | 2:52 |
 | 38 | [Every Day](https://open.spotify.com/track/3XKKvI7hlo0U9qrtPPe2wF) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Every Day](https://open.spotify.com/album/3J2GR50SBq3dnqooKedcqm) | 3:54 |
 | 39 | [Joy In The Battle](https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [The Hope of My Soul](https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5) | 3:40 |
-| 40 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as), [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
+| 40 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
 | 41 | [My Hearts Pants After You](https://open.spotify.com/track/3FEBScopFdrxnsj1CILhlf) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [My Hearts Pants After You](https://open.spotify.com/album/1IXkgCrGhUJe5ZsrCnQLSn) | 5:59 |
 | 42 | [His Eye Is on the Sparrow](https://open.spotify.com/track/7odkk2ETVm2MPrsUIQ2JiE) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [His Eye Is on the Sparrow](https://open.spotify.com/album/79z092wx1PhMsU8I2Jh9VI) | 2:56 |
 | 43 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [God & Prozac](https://open.spotify.com/track/18dFJE2Lol614AQadNfDNq) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [God & Prozac](https://open.spotify.com/album/5HNEPsjxdo9NpZaqWksFRI) | 4:03 |
 | 100 | [Rooms](https://open.spotify.com/track/1xPj2ZeSTBNZWGTnhEsHM0) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Rooms](https://open.spotify.com/album/36reTGdzFB3HUhYaR7MYu4) | 4:45 |
 
-Snapshot ID: `MCxjZTYwMTc2N2YwNDc0YTMxM2Q2Mjg4NDVjNWEzNmZlYjc0ZmQyMWNh`
+Snapshot ID: `MCxmYjk2OWFlMjIzN2U2MGYwMmM0YmEzNjZhOTkwMTM2OGJhZjAxYzg4`

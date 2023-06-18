@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,319 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,316 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 32 | [All I Want](https://open.spotify.com/track/16jaBSbWIiHNR6fOBX9Mij) | [Trifect](https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ), [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [All I Want](https://open.spotify.com/album/3WL91lURslAj9nT9qFMjP8) | 3:17 |
 | 33 | [heartache frenzy](https://open.spotify.com/track/44p8wciyijJeF0XilqySox) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/2fwoaNiBXqMnVRafSrause) | 3:40 |
 | 34 | [Come My Way](https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Come My Way](https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS) | 2:57 |
-| 35 | [No Direction](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [No Direction](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
+| 35 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
 | 36 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 |
 | 37 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 |
 | 38 | [Compassion](https://open.spotify.com/track/5InPazFWiVsfAFmpxSNTlH) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Compassion](https://open.spotify.com/album/7BspxFLlkcQdb0ShSalB74) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 79 | [Summer Island](https://open.spotify.com/track/5TcyJI6GfqGB2X5vubJhrc) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [Snappy](https://open.spotify.com/artist/1T5E5tdCZl7tPsCtSHWjTE) | [Little Fox Adventure, Pt\. 2](https://open.spotify.com/album/0ATUccmNY87S7VDfjt3wde) | 2:52 |
 | 80 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 |
 
-Snapshot ID: `MCxlNmFjOTE3NGMyMjUxNTA3NWJhZDVjZjg3OWQ1YjBkNTAwYzk3M2M5`
+Snapshot ID: `MCw0OWE4OWYzNmIzMTY1NDMyYTk5NGU1ZDFkNGIwYWMzNDE4ZjljMzFl`

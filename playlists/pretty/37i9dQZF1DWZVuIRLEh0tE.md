@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,553 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,695 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 51 | [Depues De Las 3](https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ) | 3:11 |
 | 52 | [Velocidad](https://open.spotify.com/track/7hw0ws2Hj7Rnlg9ayxQ1YQ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Velocidad](https://open.spotify.com/album/6HuItN6PiWhMhfGdFP6KJh) | 2:44 |
 | 53 | [Empitolao](https://open.spotify.com/track/4tQnilHRVEzX1Braalyl21) | [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Empitolao](https://open.spotify.com/album/1mnw44Nqepxr4TrdvfRm8a) | 2:04 |
-| 54 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 |
+| 54 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 |
 | 55 | [A Nivel Cien](https://open.spotify.com/track/5e63LqFp9ITnnwKUT09wGY) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [A Nivel Cien](https://open.spotify.com/album/0Yk4tbx0Mra50d2WX8qoid) | 3:40 |
 | 56 | [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 |
 | 57 | [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [To Frio](https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [To Frio](https://open.spotify.com/album/0Z2eoDZTdBH3Ei9PYfU2Ho) | 2:47 |
 | 75 | [Location](https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Uno x Ellas](https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1) | 3:24 |
 
-Snapshot ID: `MCwzNjJmOTViMjk3NWRjMDJjYjYwNzU3MWIzMjhhZWUyODk2MDgzZDUz`
+Snapshot ID: `MCw0NDhkYjczZjJhOWQxNTA1ZTk1N2JiNTlmMzJkMzBjMTFiYjZiYmYx`

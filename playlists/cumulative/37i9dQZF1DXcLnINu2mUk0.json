@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 178443,
       "name": "Crime Scene",
       "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
@@ -4380,6 +4380,28 @@
       "duration_ms": 180000,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF"
+    },
+    {
+      "album": {
+        "name": "O Brilho de Viver",
+        "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
+      },
+      "artists": [
+        {
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255652,
+      "name": "O Brilho de Viver",
+      "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
     },
     {
       "album": {

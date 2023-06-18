@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: La Rhonza
 
-3,025 songs - 6 day 10 hr 10 min
+3,026 songs - 6 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Afterlife](https://open.spotify.com/track/2noGrYXeVWG0W4kf9y73ms) | [Seba Safe](https://open.spotify.com/artist/2vY3QN8jlAZS4C4OsbDYV6) | [Afterlife](https://open.spotify.com/album/0Ybxp5x9Yg7ToHEM5JzEIK) | 3:10 | 2023-02-01 | 2023-03-09 |
 | [Afternoon Haze](https://open.spotify.com/track/5MIuvuUpnOUlr7QDgOxWbZ) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Afternoon Haze](https://open.spotify.com/album/69bSm1HzOke9V5jFq4Rhmg) | 3:29 | 2021-04-29 | 2021-05-27 |
 | [Afterthought](https://open.spotify.com/track/3m6bHUrN8khopVUAhi7Xut) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [Afterthought](https://open.spotify.com/album/1WT5tmBb2NgfDha72f4dCb) | 2:35 | 2023-06-07 |  |
-| [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-14 |  |
+| [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-14 |  |
+| [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-14 | 2023-06-18 |
 | [Ain't Nobody](https://open.spotify.com/track/15ngYkPCkxV2sGRGYsdxBr) | [Bandi](https://open.spotify.com/artist/6zhUd92ObNsir4qCjf85Jj) | [Ain't Nobody](https://open.spotify.com/album/6WrlBFYIHoioGeu6d1Ihnu) | 3:02 | 2022-11-09 | 2022-12-01 |
 | [Ain’t So Bad](https://open.spotify.com/track/67hCimpsJB08PPm67ItarU) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [Ain’t So Bad](https://open.spotify.com/album/3uvT4La9TS2D3sJuAt9dpD) | 3:02 | 2023-03-29 | 2023-05-24 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2021-10-28 | 2021-12-01 |

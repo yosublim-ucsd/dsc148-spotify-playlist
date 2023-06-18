@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Overmono
 
-819 songs - 2 day 5 hr 48 min
+820 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,8 @@
 | [Ooo La La](https://open.spotify.com/track/0avbGep1xxLYfWfkUlMiVK) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Ooo La La](https://open.spotify.com/album/6ygPmv9UkNIKQe9IlBDJC6) | 2:38 | 2022-06-03 | 2022-07-26 |
 | [Orbit](https://open.spotify.com/track/76JrDwcnbm9sy1n4l0Zapo) | [Modern Modern Life](https://open.spotify.com/artist/6eKLS5YH8mJvVwAJbAw7aZ) | [Orbit](https://open.spotify.com/album/46bLwaAKfSyWcv0glzaeh4) | 3:12 | 2021-07-13 | 2022-05-24 |
 | [Orbit](https://open.spotify.com/track/2UMhA9izu5CLzqpYGpRupa) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Benjamin Yellowitz](https://open.spotify.com/artist/1phQHVBN66RZdZEK1M7Zlw) | [Orbit](https://open.spotify.com/album/3PbzZs9oHr5n5oPHDVsA1q) | 4:58 | 2022-03-11 | 2022-04-16 |
-| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-26 |  |
+| [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-26 | 2023-06-18 |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-05-26 |  |
 | [Our World](https://open.spotify.com/track/1XwN7nOPkZpH1ScNWDAQZz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Our World](https://open.spotify.com/album/3K9XyoRSNqgFkksxKLxycX) | 4:09 | 2022-04-08 | 2022-04-16 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2023-02-24 |  |
 | [Overdrive](https://open.spotify.com/track/2BBWz5bB9YcotOKHgQtq3P) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu) | [Overdrive](https://open.spotify.com/album/6TdWqrsQjPOEJoAAsD7qvY) | 3:45 | 2022-07-08 | 2022-07-21 |

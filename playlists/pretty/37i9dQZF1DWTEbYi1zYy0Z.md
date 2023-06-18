@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,034 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,101 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Let's Do This \(feat\. Nils\) \- Radio Edit](https://open.spotify.com/track/062XGbLtbdC2jyvuZdrgEx) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Let's Do This \(feat\. Nils\) \[Radio Edit\]](https://open.spotify.com/album/3iTgcSSsIGD7tIGFQndw53) | 3:51 |
 | 100 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
 
-Snapshot ID: `MCwwMzVjNDBlZjcyYTJmYzEyOGRlMGFiMDlhMmRmZWQ4NzYwOGZjOGQx`
+Snapshot ID: `MCxhYjliM2JkZGNkYjYxMTNhZWQ1MWNhYzg4MTRkZjEzNzM4ODhmMThk`

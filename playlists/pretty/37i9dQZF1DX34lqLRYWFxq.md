@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: JULES IS DEAD
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,147 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,158 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 |
 | 100 | [Lucky](https://open.spotify.com/track/76GHtojL0BQfPRMQZ6EOLg) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 3:00 |
 
-Snapshot ID: `MCxjMDkzZmVhOGJkNDc0NmIxNzhiOTAxMmNjYTc1OWZlZWRkYjBmNTE1`
+Snapshot ID: `MCw2NDIyNjc5MTQ5NDliZmU3MGQ2Y2VkMWM4ZTBiNDdhZDg2YTlkODNi`

@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 292133,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe"
@@ -776,6 +776,24 @@
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+    },
+    {
+      "album": {
+        "name": "Exitos de Siempre",
+        "url": "https://open.spotify.com/album/6LNXyCL7febw4qJyGrfqq7"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304979,
+      "name": "No He Podido Ser Feliz",
+      "url": "https://open.spotify.com/track/1mgGhYqSQSuBdgnI3xSIWk"
     },
     {
       "album": {

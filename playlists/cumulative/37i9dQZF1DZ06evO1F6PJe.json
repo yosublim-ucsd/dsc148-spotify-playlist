@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Twenty-Four Hour Blues",
+        "url": "https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272280,
+      "name": "Twenty-Four Hour Blues",
+      "url": "https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO"
+    },
+    {
+      "album": {
         "name": "Triumphant Hearts",
         "url": "https://open.spotify.com/album/0U6OOhg42G3bM1rC3ClJ2V"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,047 likes - 213 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,264 likes - 213 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 212 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
 | 213 | [A Seagull's Dream \(Wave Sounds\)](https://open.spotify.com/track/4Q8gCZ1KF38PZs35uFbKO6) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:47 |
 
-Snapshot ID: `MCxkNzI4ZDQ0YjgzNzY4ZGIwOGFkMDMzODkwMzJjNGQ3YWZjNmI5ZDEx`
+Snapshot ID: `MCwyNTI0NWI2YTYwMjNlZGFkMzg5N2Y5ZTk2MzNhZmEwYTc0NmNhZTUx`

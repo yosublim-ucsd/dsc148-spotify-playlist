@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=HjJ0RY8cRiW0CxMDqJ8PgA">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,053 likes - 51 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,088 likes - 51 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 50 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 51 | [House of Blessings](https://open.spotify.com/track/7u0aML7np1BV7x0SPtL0UI) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM) | [House of Blessings](https://open.spotify.com/album/4H1TPi17rOWuI20AcQWqbg) | 5:53 |
 
-Snapshot ID: `MCw0YjIxMDg5MzlmNzFlMzczNzg2Zjg5NzkxOGZmMzU5YzM1ZGE1MGM0`
+Snapshot ID: `MCw1MDYxOGZmOTA3YzhlYTMzODc1MmI3OTM3YWI3ZTNhMDAzYTNkN2Mw`

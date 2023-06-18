@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,488 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,540 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 |
 | 2 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 |
-| 3 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/5yo8ZMnJhBOiFf39eMNvEm) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 |
+| 3 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 |
 | 4 | [COME AROUND AND FIND OUT](https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [COME AROUND AND FIND OUT](https://open.spotify.com/album/58U8cQSUQuSs1KNYuPoNRv) | 3:07 |
 | 5 | [Second Best Friend](https://open.spotify.com/track/5rAYQCREFwikzzvV4ToAnI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [The Brightest Days](https://open.spotify.com/album/65EjKAFPc043WetlaXNFtW) | 3:47 |
 | 6 | [againagainagain](https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [againagainagain](https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB) | 2:35 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Ends Meet](https://open.spotify.com/track/45poRdshttXq3rVcRcjTIx) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Ends Meet](https://open.spotify.com/album/1sYT5bfHQSyOZn03QXACWK) | 3:04 |
 | 125 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
 
-Snapshot ID: `MCwzMjM2NTYyMmZmNjg3MTBkYzNiYmU5ZjM0NTQ4MzExNmMzOTQwZDhj`
+Snapshot ID: `MCw1ZmNjZGQ4NGMyYTZhYTcwNWQ1OGM5MWFlYjEzZjMwZTNlNjNlYzM4`

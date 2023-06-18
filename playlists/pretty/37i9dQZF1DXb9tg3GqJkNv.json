@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Smiley",
-  "num_followers": 5342,
+  "num_followers": 5370,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWY5MmE1YTc2YWM4NzhhOTdhOGQyNDU4ZTQ2MmUwNjFlYWNiZmQ4",
+  "snapshot_id": "MCwxODU5YTY2MDc2NThkYmNhMzM3NWYzMWNjNWYwMzgzNjNjY2IxZWI5",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Griselda Blanco",
+        "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        },
+        {
+          "name": "TwoTwo",
+          "url": "https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Griselda Blanco",
+      "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Griselda Blanco",
-        "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
-      },
-      "artists": [
-        {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
-        },
-        {
-          "name": "TwoTwo",
-          "url": "https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Griselda Blanco",
-      "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Here it Goes",
-        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
-      },
-      "artists": [
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Here it Goes",
-      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "401",
         "url": "https://open.spotify.com/album/7GayrcbuLwu1t9VE0CMd6Z"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 162375,
       "name": "401",
       "url": "https://open.spotify.com/track/3mej8S2elvgSBwZMoWzMjr"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Here it Goes",
+        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
+      },
+      "artists": [
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Here it Goes",
+      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
     },
     {
       "added_at": "2023-06-16 04:01:00",

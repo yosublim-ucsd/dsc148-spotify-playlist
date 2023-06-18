@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-256 songs - 14 hr 9 min
+257 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Ghosts](https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Ghosts](https://open.spotify.com/album/4XvlYdkbqmxJj9VpalcyIW) | 2:01 | 2021-11-19 | 2022-02-02 |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 |  |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
-| [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 |  |
+| [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 | 2023-06-18 |
 | [Gopher](https://open.spotify.com/track/6RcMHJlUT2QHLdPihLyamW) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Blonde](https://open.spotify.com/album/2eCPjxsY03PGy7ndGDp5Tk) | 2:49 | 2021-11-19 | 2022-02-02 |
 | [Got 'Em \- ZHU Remix](https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Pokémon 25: The Blue EP](https://open.spotify.com/album/3N7VGJEuKq6rKQbWcPFWzJ) | 3:54 | 2021-11-19 | 2022-02-02 |
 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 |  |
@@ -264,5 +264,6 @@
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |
 | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/track/11VqZrskzYRWEjGqtqC4FP) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/album/1SVe7vr8xtQfRtxsQtkdb5) | 2:53 | 2021-11-19 | 2022-02-02 |
 | [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 |  |
+| [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 | 2023-06-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

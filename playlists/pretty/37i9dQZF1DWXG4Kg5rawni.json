@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 85381,
+  "num_followers": 85535,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJkN2ZlMzkxZTcyYjRjNDhiNjVhMmRhNzAzM2YwYzc1MDEzODQ3",
+  "snapshot_id": "MCwzYjJhMjIwZGQ3YjRkOTQ4YjNiMWFmMDNmNjg1MTI4YzEwODI1MmQ3",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "N\u00e3o \u00c9 Acaso",
+        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 235404,
+      "name": "N\u00e3o \u00c9 Acaso",
+      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Deus Me Deu Voc\u00ea",
         "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 6",
-        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 255187,
-      "name": "Por Toda Vida",
-      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -767,6 +767,22 @@
       "duration_ms": 230878,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 6",
+        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 255187,
+      "name": "Por Toda Vida",
+      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "N\u00e3o \u00c9 Acaso",
-        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "N\u00e3o \u00c9 Acaso",
-      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 172288,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-06-16 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Don Diablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,248 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,272 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 6 | [Call Me](https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Call Me](https://open.spotify.com/album/6g9D1wN5E3s8fPvvRLCanx) | 3:09 |
 | 7 | [shy girl](https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [shy girl](https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac) | 2:36 |
 | 8 | [Overtaking](https://open.spotify.com/track/0vQGpYOiL6AH5yIlk6RIJl) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [Overtaking](https://open.spotify.com/album/03k3DU7ds9Tqw2PStMKQzT) | 2:14 |
-| 9 | [Chasing Stars](https://open.spotify.com/track/2oYbyEILmr4EyjhUvW36LL) | [Ittikar](https://open.spotify.com/artist/4X9NNcsYidBGpc8JBRr4ov) | [Superhero](https://open.spotify.com/album/31xYTAmYNhg4ri0QstInEA) | 2:29 |
+| 9 | [Chasing Stars \(Dynamics Version\)](https://open.spotify.com/track/1m6rf4pbdFOkAuSM8xX34v) | [Ittikar](https://open.spotify.com/artist/4X9NNcsYidBGpc8JBRr4ov) | [Chasing Stars \(Dynamics Version\)](https://open.spotify.com/album/7nApyWDNxyJslni04UI4ib) | 2:29 |
 | 10 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 11 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
 | 12 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 63 | [Make Me Feel](https://open.spotify.com/track/4qA6QraYvbvzDPoxBKTzBn) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Desno](https://open.spotify.com/artist/3uEc4hn0m78m2IUWbjzeGb), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Make Me Feel](https://open.spotify.com/album/3PrDUva48XthnMZAjs9tOL) | 2:24 |
 | 64 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 |
 
-Snapshot ID: `MCw2M2ZkODYwODE2YTk2YmM0NDhkMzBkMjU4MGJmOGExZDA4ODNhNmE2`
+Snapshot ID: `MCwxYzg0ZjIxZTVmZGIzMDhkOGQ5Y2M2MGQwN2QxN2JjM2RmZjI1OWYw`

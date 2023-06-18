@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Black Out Days (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/0Hp4HeunJ2h27zr3zVB3mr"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Black Out Days - Subtronics Remix",
+      "url": "https://open.spotify.com/track/0Tcy9RRWvcnqepvmVcqv05"
+    },
+    {
+      "album": {
         "name": "Blame You / Aardvark",
         "url": "https://open.spotify.com/album/6HaQ1QYgJ2f5WHbmWqeMVV"
       },
@@ -1978,6 +2000,28 @@
       "duration_ms": 198620,
       "name": "Dollars Aren't Cheap",
       "url": "https://open.spotify.com/track/6fklNCnvO8jDAFSTRxfaOP"
+    },
+    {
+      "album": {
+        "name": "Don't Be Scared",
+        "url": "https://open.spotify.com/album/5eN5Wi7P3AKg1lbna6oqHV"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Don't Be Scared",
+      "url": "https://open.spotify.com/track/4S9exLKfXqkndiKa3WewBQ"
     },
     {
       "album": {
@@ -5836,7 +5880,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -6246,7 +6290,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 189176,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/72xoZs1qURV2UGMS4OaODu"

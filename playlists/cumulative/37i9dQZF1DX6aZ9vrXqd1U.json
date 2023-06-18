@@ -342,6 +342,24 @@
     {
       "album": {
         "name": "Black stars",
+        "url": "https://open.spotify.com/album/1FNFSivA9BhWTF0GzvTrB6"
+      },
+      "artists": [
+        {
+          "name": "Sumitada Azumano",
+          "url": "https://open.spotify.com/artist/1wpB29iz5G3iFDyk4xNZiU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271600,
+      "name": "Black stars",
+      "url": "https://open.spotify.com/track/6f8fyWFdT5XF6asMCPfkog"
+    },
+    {
+      "album": {
+        "name": "Black stars",
         "url": "https://open.spotify.com/album/65HIXno1RLhm6UOgyu5Pj7"
       },
       "artists": [
@@ -352,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 271600,
       "name": "Black stars",
       "url": "https://open.spotify.com/track/2gQ60rwqTxbsCmYoB0lFiq"
@@ -1497,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Kimi wa Boku ni Niteiru",
+        "url": "https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Kimi wa Boku ni Niteiru",
+      "url": "https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA"
+    },
+    {
+      "album": {
         "name": "Kimi wo Mitsumete - The time I'm seeing you-",
         "url": "https://open.spotify.com/album/2wXUyRN798oGDFYvynJxPW"
       },
@@ -1534,6 +1570,24 @@
     {
       "album": {
         "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ"
+      },
+      "artists": [
+        {
+          "name": "Mika Arisaka",
+          "url": "https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
         "url": "https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy"
       },
       "artists": [
@@ -1544,7 +1598,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 242733,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi"
@@ -2158,6 +2212,24 @@
     {
       "album": {
         "name": "Prototype",
+        "url": "https://open.spotify.com/album/5F1nPVlPoUxlANLGQRcDid"
+      },
+      "artists": [
+        {
+          "name": "Chiaki Ishikawa",
+          "url": "https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344213,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/3QAsiWZa6JQ1Vh4sCBlvcx"
+    },
+    {
+      "album": {
+        "name": "Prototype",
         "url": "https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo"
       },
       "artists": [
@@ -2168,7 +2240,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 344213,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O"
@@ -2625,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "SOLDIER - Kanashimi no Uta-",
+        "url": "https://open.spotify.com/album/70nEeUH4rJLclKz8Dqcquu"
+      },
+      "artists": [
+        {
+          "name": "CHINO",
+          "url": "https://open.spotify.com/artist/62YQvnQlYEA0cD41aqLycV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255173,
+      "name": "SOLDIER -Kanashimi no Uta-",
+      "url": "https://open.spotify.com/track/0LwR9BsNrewCBnX7qfesG3"
+    },
+    {
+      "album": {
         "name": "SOLDIER -\u54c0\u3057\u307f\u306e\u8a69-",
         "url": "https://open.spotify.com/album/6afn6rCEdZC8F86HcQUC5H"
       },
@@ -2636,7 +2726,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 255173,
       "name": "SOLDIER -\u54c0\u3057\u307f\u306e\u8a69-",
       "url": "https://open.spotify.com/track/1FVhSxoxYXRs4PMfRpz8BV"
@@ -2806,6 +2896,24 @@
     {
       "album": {
         "name": "tears",
+        "url": "https://open.spotify.com/album/0wsiSUnH2aTP3NiYVdQ8j3"
+      },
+      "artists": [
+        {
+          "name": "lisa",
+          "url": "https://open.spotify.com/artist/1sReh6VMvZSAXWOE4zX5sf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263866,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/0MLhX6Najd6lo8wZEnjLTq"
+    },
+    {
+      "album": {
+        "name": "tears",
         "url": "https://open.spotify.com/album/2GEffYRQulCu1f2NIIIRwO"
       },
       "artists": [
@@ -2816,7 +2924,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 263866,
       "name": "tears",
       "url": "https://open.spotify.com/track/1eRW9iPUNVl1C0gZFPQYgT"
@@ -4014,7 +4122,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 285600,
       "name": "\u541b\u306f\u50d5\u306b\u4f3c\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv"
@@ -4472,10 +4580,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 292200,
       "name": "\u7114\u306e\u6249",
       "url": "https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY"
+    },
+    {
+      "album": {
+        "name": "circus",
+        "url": "https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292619,
+      "name": "\u7114\u306e\u6249",
+      "url": "https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov"
     },
     {
       "album": {

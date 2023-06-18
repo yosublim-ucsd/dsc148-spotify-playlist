@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,094 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,092 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 48 | [Remède](https://open.spotify.com/track/5qTYTsLD40ERvWHH2UFCbo) | [Rina DG](https://open.spotify.com/artist/6qdPhiETWhn1Jhx4AyIUZ4) | [Remède](https://open.spotify.com/album/45E7z2XT0Y4dbwQK6TJAHC) | 2:41 |
 | 49 | [des lettres d'amour \- eurodance remix](https://open.spotify.com/track/38unUuDM10dFpz8Iuc7K3V) | [Philibert](https://open.spotify.com/artist/3gYwdg1OQ68TAXUWJMw8Pb) | [des lettres d'amour \(remixes\)](https://open.spotify.com/album/65koI7a4dUzw8ANSEp454I) | 3:18 |
 
-Snapshot ID: `MCw1Y2U2NTlkODY3M2RmN2YzZjA0NDU5MzM2MTFjZGMyOTk4ZDQ4ZmNl`
+Snapshot ID: `MCxmOWRlMmQ3YTY4NGFmNmNmYWY0M2Q3ZGZhYmVlNWY3ZmQ0NDlkNGYw`

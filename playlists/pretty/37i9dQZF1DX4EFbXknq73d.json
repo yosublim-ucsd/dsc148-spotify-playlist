@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 31032,
+  "num_followers": 31179,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc3YzA0MGY1YTUxNjJiMTY4MjI2MGRiODJkODZkN2RmNzAyNzIy",
+  "snapshot_id": "MCxlYmM3NDU1NjZjYTMwNDMyOTc5YjU2MGI5MTMyZGNhYjEyZTdmNzky",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Interludes For The Dead (feat. Neal Casal)",
         "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
@@ -515,34 +531,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+        "name": "The Very Best of Jerry Garcia",
+        "url": "https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo"
       },
       "artists": [
         {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Greatest Story Ever Told",
-      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Live At Red Rocks 8.15.95",
-        "url": "https://open.spotify.com/album/26Xf0FH58wO2VVWk1TyJDN"
-      },
-      "artists": [
+          "name": "The Reconstruction",
+          "url": "https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l"
+        },
         {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 809200,
-      "name": "Seek Up - Live at Red Rocks Amphitheatre, Morrison, CO - August 1995",
-      "url": "https://open.spotify.com/track/3zqqDKAUDEQft9FjZooYYY"
+      "duration_ms": 699933,
+      "name": "Dear Prudence (1979) - Live",
+      "url": "https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "The Very Best of Jerry Garcia",
-        "url": "https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo"
+        "name": "Live At Red Rocks 8.15.95",
+        "url": "https://open.spotify.com/album/26Xf0FH58wO2VVWk1TyJDN"
       },
       "artists": [
         {
-          "name": "The Reconstruction",
-          "url": "https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 699933,
-      "name": "Dear Prudence (1979) - Live",
-      "url": "https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS"
+      "duration_ms": 809200,
+      "name": "Seek Up - Live at Red Rocks Amphitheatre, Morrison, CO - August 1995",
+      "url": "https://open.spotify.com/track/3zqqDKAUDEQft9FjZooYYY"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Friday Afternoon In The Universe",
-        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 379560,
-      "name": "The Lover",
-      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -843,18 +827,34 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live At The Academy Of Music 1971",
-        "url": "https://open.spotify.com/album/1qDR31BZNhAH8ExjJuHhAj"
+        "name": "Friday Afternoon In The Universe",
+        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Don't Do It - Live At The Academy Of Music / 1971",
-      "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
+      "duration_ms": 379560,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Trouble No More: 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 550240,
+      "name": "Back Where It All Begins",
+      "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Trouble No More: 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
+        "name": "Live At The Academy Of Music 1971",
+        "url": "https://open.spotify.com/album/1qDR31BZNhAH8ExjJuHhAj"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 550240,
-      "name": "Back Where It All Begins",
-      "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
+      "duration_ms": 268400,
+      "name": "Don't Do It - Live At The Academy Of Music / 1971",
+      "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
     },
     {
       "added_at": "2023-04-06 15:04:32",

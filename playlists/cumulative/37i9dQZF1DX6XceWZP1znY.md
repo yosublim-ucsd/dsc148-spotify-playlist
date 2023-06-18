@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-759 songs - 2 day 2 hr 6 min
+761 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-07 | 2022-07-23 |
 | [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ULTRA FLASH](https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES) | 4:03 | 2022-08-11 |  |
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-07 | 2022-07-29 |
+| [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-16 |  |
 | [Red Criminal](https://open.spotify.com/track/4gedOBx5StsjhlWTjG0Q9g) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Red Criminal](https://open.spotify.com/album/2hYWaDCfd9n6fQ7MAilgLa) | 4:24 | 2022-06-07 | 2022-11-23 |
 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 | 2022-06-07 | 2023-02-21 |
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-20 |  |
@@ -388,7 +389,7 @@
 | [Unity](https://open.spotify.com/track/3YQoygT4wAXxvITZDvLAGx) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Unity](https://open.spotify.com/album/27swR3exdtQNP5uoehToEh) | 4:06 | 2022-06-07 | 2022-07-29 |
 | [Universe](https://open.spotify.com/track/6KLaKHxwJE3CZECVJLH4cN) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Universe](https://open.spotify.com/album/6mzpMk6MO18WhDLXfS3va6) | 4:46 | 2022-06-07 | 2022-07-29 |
 | [unlasting](https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [unlasting](https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP) | 4:55 | 2022-06-07 | 2022-07-29 |
-| [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 | 2023-01-07 |  |
+| [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 | 2023-01-07 | 2023-06-18 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2022-06-07 | 2023-05-26 |
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2022-06-07 | 2022-07-29 |
 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2022-06-07 | 2023-04-12 |
@@ -507,6 +508,7 @@
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-06-07 | 2022-06-21 |
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/4qfwXvY82pkSt6moeAguje) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0ZEIBhXeF4O5S6Ie3lbdS2) | 3:11 | 2022-06-07 | 2022-07-19 |
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-06-07 |  |
+| [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-16 |  |
 | [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-07 | 2022-07-21 |
 | [シオン](https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [シオン](https://open.spotify.com/album/0t4lKfdG0ANs46z3GUEbm7) | 3:51 | 2022-06-07 | 2022-07-25 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-08-11 |  |
@@ -585,7 +587,7 @@
 | [レイメイ](https://open.spotify.com/track/3D8dMWN3O6hbIlts9FXi9Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [レイメイ](https://open.spotify.com/album/2IvwlWOCgabwi9iELRtMZ6) | 5:15 | 2022-06-07 | 2022-08-13 |
 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 | 2022-06-07 |  |
 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-21 |  |
-| [ワンミーツハー](https://open.spotify.com/track/5vxdx4dpfLkWHNYwOajM8x) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [DEEPER](https://open.spotify.com/album/2iuMWTvNNkGiw7Trdj1NQ5) | 3:23 | 2022-08-11 |  |
+| [ワンミーツハー](https://open.spotify.com/track/5vxdx4dpfLkWHNYwOajM8x) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [DEEPER](https://open.spotify.com/album/2iuMWTvNNkGiw7Trdj1NQ5) | 3:23 | 2022-08-11 | 2023-06-18 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-06-07 | 2023-04-12 |
 | [三原色](https://open.spotify.com/track/4EG10OLde2d8EisbYoKTuZ) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [解放のヒント](https://open.spotify.com/album/24ZL98yLu2zbulCTwba8Z2) | 3:25 | 2022-06-07 |  |
 | [世界の秘密](https://open.spotify.com/track/22WF5vcNEN1KHd56QV8gsE) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [世界の秘密](https://open.spotify.com/album/1Rs78ZgkAgR9SQF9XM9g2V) | 5:49 | 2022-06-07 | 2022-07-28 |

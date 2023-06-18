@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 112906,
       "name": "1",
       "url": "https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq"
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/30UpSPTI7CDPcdcYPurOaE"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148534,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5sQ7zJ8JAy2dDuJJ6Bgq6U"
+    },
+    {
+      "album": {
         "name": "Samtidig",
         "url": "https://open.spotify.com/album/00GjrSPb4ewzykgmV39MzH"
       },
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Sprengkulde",
+        "url": "https://open.spotify.com/album/0cJGBIj7iyUQVuQDeKiYHR"
+      },
+      "artists": [
+        {
+          "name": "Cezinando",
+          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Big dick is back in town",
+      "url": "https://open.spotify.com/track/6PCe1Gex4kklm0UmXt33rv"
+    },
+    {
+      "album": {
         "name": "MIKE IT SPEKTRUM",
         "url": "https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq"
       },
@@ -2672,7 +2708,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
@@ -4308,7 +4344,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 144000,
       "name": "Danse p\u00e5 panseret",
       "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
@@ -4850,6 +4886,24 @@
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
+    },
+    {
+      "album": {
+        "name": "Dine Gamle Dager Er N\u00e5",
+        "url": "https://open.spotify.com/album/41VUJsFO62lEr3qaHIUcyJ"
+      },
+      "artists": [
+        {
+          "name": "Kaizers Orchestra",
+          "url": "https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294498,
+      "name": "Dine Gamle Dager Er N\u00e5",
+      "url": "https://open.spotify.com/track/0e4B3DbLHRQgkyzcrx9gTv"
     },
     {
       "album": {
@@ -8434,7 +8488,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
@@ -8708,7 +8762,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 194347,
       "name": "Heartbreak In The Making",
       "url": "https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2"
@@ -15243,6 +15297,28 @@
     },
     {
       "album": {
+        "name": "NED P\u00c5 STRANDA",
+        "url": "https://open.spotify.com/album/7JpdQLo5iuavhtHVgaQqDa"
+      },
+      "artists": [
+        {
+          "name": "Henrik von Grogg",
+          "url": "https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx"
+        },
+        {
+          "name": "Henrik Viken",
+          "url": "https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152279,
+      "name": "NED P\u00c5 STRANDA",
+      "url": "https://open.spotify.com/track/4ojV6xioyiTr30vrVXunob"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -16822,7 +16898,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -16924,7 +17000,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 169325,
       "name": "Pretty Devil",
       "url": "https://open.spotify.com/track/5rLTJ0f8Gyvf96KhT3dz5I"
@@ -18122,6 +18198,24 @@
       "duration_ms": 232363,
       "name": "SALMALAKS",
       "url": "https://open.spotify.com/track/77CbBhyQwjWgF5EWT76cPY"
+    },
+    {
+      "album": {
+        "name": "Same Again (For Love)",
+        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199969,
+      "name": "Same Again (For Love)",
+      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
     },
     {
       "album": {
@@ -20123,6 +20217,24 @@
     },
     {
       "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "album": {
         "name": "SUN GOES DOWN",
         "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
       },
@@ -21468,13 +21580,13 @@
       },
       "artists": [
         {
-          "name": "Br\u00f8drene Bausa",
+          "name": "Bausa",
           "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 174986,
       "name": "Turn\u00e9",
       "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"

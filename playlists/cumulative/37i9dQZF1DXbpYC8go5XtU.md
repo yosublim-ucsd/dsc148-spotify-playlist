@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-203 songs - 16 hr 17 min
+204 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Nótt \(Theta Waves\)](https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Nótt \(Theta Waves\)](https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe) | 4:03 | 2021-12-22 |  |
 | [ocean waves](https://open.spotify.com/track/3NzGJehX7HJxqLgz8ycKNS) | [koss](https://open.spotify.com/artist/0tW8feNRfFHuEQp4GpFwpx) | [ANCIENT RAIN](https://open.spotify.com/album/64dhVWCPpQXxIrwTCY9Q4w) | 9:12 | 2021-12-22 | 2022-07-09 |
 | [On Art and Time](https://open.spotify.com/track/0vrvN4KCUtKCZd6ml5Rdop) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [On Art and Time](https://open.spotify.com/album/79mHKfqBtubVqOG9yG5NZw) | 4:43 | 2022-12-20 |  |
-| [Painted Canvas](https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ) | 5:52 | 2022-07-08 |  |
+| [Painted Canvas](https://open.spotify.com/track/09o61SRXowRt773HgBT0hb) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/62f7NQjcUks8pAaqV2X7yf) | 5:52 | 2023-05-26 |  |
+| [Painted Canvas](https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ) | 5:52 | 2022-07-08 | 2023-06-18 |
 | [Part 15, River of Grass](https://open.spotify.com/track/0Kjzrr8QeaG5yetqkEj1ZF) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 2:29 | 2023-04-28 |  |
 | [Part 15, River of Grass](https://open.spotify.com/track/1o6gNM7hO9mQTHvlG8k8eC) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 2:29 | 2022-09-30 | 2023-04-30 |
 | [Part 18, Green Heron Allentando](https://open.spotify.com/track/2B7udyMw63uyWuHF4Cfumu) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 1:58 | 2023-04-28 |  |

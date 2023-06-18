@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [I się zamykam](https://open.spotify.com/track/0ilLbmuwHuNm6OISfF4vQb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [I się zamykam](https://open.spotify.com/album/5ttIK6iaOCvvxG5Tgs9sH1) | 3:06 |
 | 100 | [SOK](https://open.spotify.com/track/3tXhWfQ4yg4Sszxm2aN2xz) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [NO MASCARA/SOK](https://open.spotify.com/album/5GoNLDgKG1PUs7Q2ESaMm4) | 3:42 |
 
-Snapshot ID: `MCw3N2UyYTA0YzEzNzdhZTRkNzQ3ZDg4MDIzOGEzNDZlZmNlYmJjZjVh`
+Snapshot ID: `MCwyYzI5MDdkMDI5YzQ4ZTMzMDljZWU2NjJhMjE3MDY5MDJlNTgzZmJj`

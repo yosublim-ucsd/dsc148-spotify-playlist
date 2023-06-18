@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1769691,
+  "num_followers": 1770658,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTk5OTdkZGVmNjU3MTQ5YmY2NzdkOWZiYWE0OGQzM2EzMDA5Y2Uw",
+  "snapshot_id": "MCw5ZTQ0NTAxOWYwY2Q5ZWUwNjc0NWUxODAxM2IyNmUxMjRhMGE5ZDEy",
   "tracks": [
     {
       "added_at": "2023-06-09 16:59:10",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
+        "name": "9 PM",
+        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
+      },
+      "artists": [
+        {
+          "name": "COLIN",
+          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "9 PM",
+      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 175460,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
-        "name": "9 PM",
-        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
-      },
-      "artists": [
-        {
-          "name": "COLIN",
-          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "9 PM",
-      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh"
-      },
-      "artists": [
-        {
-          "name": "sunsets & sandals",
-          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
-        },
-        {
-          "name": "Jako Diaz",
-          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/6da6Ygbd8bi1N1Ah6Rxrgm"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh"
+      },
+      "artists": [
+        {
+          "name": "sunsets & sandals",
+          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
+        },
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/6da6Ygbd8bi1N1Ah6Rxrgm"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Pool Party",
-        "url": "https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 167033,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "All Roads Lead Here (Edit)",
         "url": "https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 161454,
       "name": "All Roads Lead Here (Edit)",
       "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Pool Party",
+        "url": "https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 167033,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -847,22 +847,6 @@
       "duration_ms": 325537,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
-        "name": "Sunset Memories",
-        "url": "https://open.spotify.com/album/5KBL6nZZewDKWvZqcHRpsa"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 152920,
-      "name": "Sunset Memories",
-      "url": "https://open.spotify.com/track/23B9GzNM75qjKY60qLEA0P"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -983,22 +967,18 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt"
+        "name": "Be Your Home",
+        "url": "https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M"
       },
       "artists": [
         {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "STRNGE",
-          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
+          "name": "minite",
+          "url": "https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY"
         }
       ],
-      "duration_ms": 318688,
-      "name": "Further",
-      "url": "https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE"
+      "duration_ms": 151111,
+      "name": "Be Your Home",
+      "url": "https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1019,22 +999,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Be Your Home",
-        "url": "https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M"
-      },
-      "artists": [
-        {
-          "name": "minite",
-          "url": "https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "Be Your Home",
-      "url": "https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1047,6 +1011,26 @@
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "STRNGE",
+          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
+        }
+      ],
+      "duration_ms": 318688,
+      "name": "Further",
+      "url": "https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 200710,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "The right mood",
         "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "duration_ms": 200710,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
         "name": "Barracudas EP",
         "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
       },
@@ -1127,6 +1111,26 @@
       "duration_ms": 253098,
       "name": "Barracudas",
       "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/06JDk357dBsHJj7lW3F4XX"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "duration_ms": 220954,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2OA4GktcfTv8aslolM96EB"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/06JDk357dBsHJj7lW3F4XX"
+        "name": "listen love",
+        "url": "https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+          "name": "it's me.",
+          "url": "https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4"
         }
       ],
-      "duration_ms": 220954,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2OA4GktcfTv8aslolM96EB"
+      "duration_ms": 167576,
+      "name": "listen love",
+      "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "listen love",
-        "url": "https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O"
-      },
-      "artists": [
-        {
-          "name": "it's me.",
-          "url": "https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4"
-        }
-      ],
-      "duration_ms": 167576,
-      "name": "listen love",
-      "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 164869,
       "name": "Boardwalk Lullaby",
       "url": "https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Mukiwa",
+        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 258124,
+      "name": "Mukiwa",
+      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Tal",
-        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 291125,
-      "name": "Tal",
-      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "Forrest Glade",
         "url": "https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r"
       },
@@ -1355,22 +1339,6 @@
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
-        "name": "Mukiwa",
-        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 258124,
-      "name": "Mukiwa",
-      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1407,22 +1375,18 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "All Equal",
-        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
+        "name": "Tal",
+        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
       },
       "artists": [
         {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Faodail",
-          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
         }
       ],
-      "duration_ms": 222992,
-      "name": "All Equal",
-      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+      "duration_ms": 291125,
+      "name": "Tal",
+      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1443,6 +1407,26 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
+        "name": "All Equal",
+        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "All Equal",
+      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
         "name": "Readings",
         "url": "https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/07i8zxExFEkFgVPGge9hDC"
       },
       "artists": [
         {
-          "name": "fuse.",
-          "url": "https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY"
+          "name": "7and5",
+          "url": "https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi"
         }
       ],
-      "duration_ms": 136880,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G"
+      "duration_ms": 274208,
+      "name": "Wingspan",
+      "url": "https://open.spotify.com/track/2ycX60hIxKdCIGNtfQYkfx"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1507,34 +1491,34 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/07i8zxExFEkFgVPGge9hDC"
+        "name": "Deep House Lounge (Flawless Vibes)",
+        "url": "https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ"
       },
       "artists": [
         {
-          "name": "7and5",
-          "url": "https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi"
+          "name": "Saint Haux",
+          "url": "https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg"
         }
       ],
-      "duration_ms": 274208,
-      "name": "Wingspan",
-      "url": "https://open.spotify.com/track/2ycX60hIxKdCIGNtfQYkfx"
+      "duration_ms": 188281,
+      "name": "White Sand",
+      "url": "https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL"
     },
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "It Takes so Long",
-        "url": "https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51"
       },
       "artists": [
         {
-          "name": "Sons Of Maria",
-          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+          "name": "fuse.",
+          "url": "https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY"
         }
       ],
-      "duration_ms": 217564,
-      "name": "It Takes so Long",
-      "url": "https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B"
+      "duration_ms": 136880,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Deep House Lounge (Flawless Vibes)",
-        "url": "https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ"
-      },
-      "artists": [
-        {
-          "name": "Saint Haux",
-          "url": "https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg"
-        }
-      ],
-      "duration_ms": 188281,
-      "name": "White Sand",
-      "url": "https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL"
-    },
-    {
-      "added_at": "2023-06-09 16:59:10",
-      "album": {
         "name": "Santa Fe",
         "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
       },
@@ -1583,6 +1551,22 @@
       "duration_ms": 177272,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2kH9815MY3JaK71IEFENli"
+      },
+      "artists": [
+        {
+          "name": "Adon",
+          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-06-09 16:59:10",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/2kH9815MY3JaK71IEFENli"
+        "name": "It Takes so Long",
+        "url": "https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN"
       },
       "artists": [
         {
-          "name": "Adon",
-          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
+      "duration_ms": 217564,
+      "name": "It Takes so Long",
+      "url": "https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B"
     },
     {
       "added_at": "2023-06-09 16:59:10",
@@ -1695,6 +1679,22 @@
       "duration_ms": 162785,
       "name": "rollacoasta",
       "url": "https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB"
+    },
+    {
+      "added_at": "2023-06-09 16:59:10",
+      "album": {
+        "name": "Still Need People",
+        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "duration_ms": 182267,
+      "name": "Still Need People",
+      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
     }
   ],
   "unique_name": "Chillout Lounge",

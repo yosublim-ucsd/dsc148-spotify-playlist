@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
+    },
+    {
+      "album": {
         "name": "Atis Lokal Pap Janm Lague",
         "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 331413,
       "name": "Zouk-La-Se Sel Medikaman Nou Ni",
       "url": "https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke"

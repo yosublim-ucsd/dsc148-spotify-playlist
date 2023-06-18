@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 11575,
+  "num_followers": 11613,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFhZDIxNjE5NmE1ODYyYjEyYTEwODYwZmFhMzhkM2VhODg5YTFk",
+  "snapshot_id": "MCxlZGQ5ZGFhNmMwODgxZjQyN2NjOWVjMDZmYjRhOGE3OWFiNTk3ZDJm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -763,30 +763,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Huncho Jack, Jack Huncho",
-        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
-      },
-      "artists": [
-        {
-          "name": "Huncho Jack",
-          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 191409,
-      "name": "Motorcycle Patches",
-      "url": "https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Actual Life 2 (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 280760,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Huncho Jack, Jack Huncho",
+        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+      },
+      "artists": [
+        {
+          "name": "Huncho Jack",
+          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 191409,
+      "name": "Motorcycle Patches",
+      "url": "https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1"
     },
     {
       "added_at": "2022-10-01 20:09:45",

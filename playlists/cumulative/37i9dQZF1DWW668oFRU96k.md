@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Don Diablo
 
-355 songs - 17 hr 47 min
+356 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-06 | 2023-05-12 |
 | [Chapters](https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Chapters](https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W) | 3:33 | 2023-04-27 | 2023-06-02 |
 | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc) | 2:28 | 2023-02-02 | 2023-03-10 |
-| [Chasing Stars](https://open.spotify.com/track/2oYbyEILmr4EyjhUvW36LL) | [Ittikar](https://open.spotify.com/artist/4X9NNcsYidBGpc8JBRr4ov) | [Superhero](https://open.spotify.com/album/31xYTAmYNhg4ri0QstInEA) | 2:29 | 2023-06-15 |  |
+| [Chasing Stars](https://open.spotify.com/track/2oYbyEILmr4EyjhUvW36LL) | [Ittikar](https://open.spotify.com/artist/4X9NNcsYidBGpc8JBRr4ov) | [Superhero](https://open.spotify.com/album/31xYTAmYNhg4ri0QstInEA) | 2:29 | 2023-06-15 | 2023-06-18 |
+| [Chasing Stars \(Dynamics Version\)](https://open.spotify.com/track/1m6rf4pbdFOkAuSM8xX34v) | [Ittikar](https://open.spotify.com/artist/4X9NNcsYidBGpc8JBRr4ov) | [Chasing Stars \(Dynamics Version\)](https://open.spotify.com/album/7nApyWDNxyJslni04UI4ib) | 2:29 | 2023-06-15 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-20 | 2023-05-26 |
 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 | 2023-02-02 | 2023-02-17 |
 | [Coca\-Cola](https://open.spotify.com/track/5SBFE8l79rSAcFLyqtZW1X) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Coca\-Cola](https://open.spotify.com/album/0m3Db6w6S8bxZFtsppsziM) | 2:14 | 2023-02-23 | 2023-03-18 |

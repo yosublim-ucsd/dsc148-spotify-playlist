@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,204 likes - 94 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,222 likes - 94 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 7 | [Mama Anak Dua](https://open.spotify.com/track/1mJSmkxXWneIecAVssNNS8) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Mama Anak Dua](https://open.spotify.com/album/1eJA9vKwFWsbVUZEjdjVa3) | 3:18 |
 | 8 | [RASAKNO](https://open.spotify.com/track/46nOLK8xQxwP5aL4YS3L30) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [RASAKNO](https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C) | 4:48 |
 | 9 | [Before You](https://open.spotify.com/track/5WqkT4vHzLRsVvKCKUd8Pv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:57 |
-| 10 | [No Direction](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [No Direction](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
+| 10 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
 | 11 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 | 12 | [Tak Sama](https://open.spotify.com/track/28i3LrlFEXnemPB8Wj3Clt) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Tak Sama](https://open.spotify.com/album/4z5XFtqsoRHvmkyjuaejKD) | 4:15 |
 | 13 | [SENIN](https://open.spotify.com/track/0iZ9Vn9DPAyxwf5jG6oxeJ) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [SENIN](https://open.spotify.com/album/4fWdk0jFfpejZ6Pjb3mn9l) | 3:56 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 93 | [Summer Island](https://open.spotify.com/track/5TcyJI6GfqGB2X5vubJhrc) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [Snappy](https://open.spotify.com/artist/1T5E5tdCZl7tPsCtSHWjTE) | [Little Fox Adventure, Pt\. 2](https://open.spotify.com/album/0ATUccmNY87S7VDfjt3wde) | 2:52 |
 | 94 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 |
 
-Snapshot ID: `MCxkN2YxZGE4NWUzNGZjZmIxMGI2OWMxZWQzNWEwYTdmODU4NjEyODA1`
+Snapshot ID: `MCw2ZjA5YjFlZGJlNjdmMzZiOTk3YWU1NjBjMTVhMTBiYTVkNjhjZDQw`

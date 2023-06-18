@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 231318,
       "name": "Annihilation Phenomena",
       "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 236453,
       "name": "Black Crow On A Tombstone",
       "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Divinertia II",
+        "url": "https://open.spotify.com/album/5iZDKEYZMjQnYpEH5gPgMM"
+      },
+      "artists": [
+        {
+          "name": "The Zenith Passage",
+          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323521,
+      "name": "Divinertia II",
+      "url": "https://open.spotify.com/track/3OV7o6tsKLQGdSXGoTfeos"
+    },
+    {
+      "album": {
         "name": "93696",
         "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
       },
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 325000,
       "name": "Drifting in a Dream",
       "url": "https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv"
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Intestinal Wrap",
       "url": "https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy"
@@ -6194,7 +6212,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 272788,
       "name": "The Common Breed",
       "url": "https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8"

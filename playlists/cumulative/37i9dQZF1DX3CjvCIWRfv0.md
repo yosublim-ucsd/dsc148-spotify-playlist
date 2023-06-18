@@ -4,7 +4,7 @@
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-108 songs - 6 hr 0 min
+109 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Oh My Swallow \(Ah Helidoni Mou\)](https://open.spotify.com/track/1Lev5SE8PrUvVOlvxI6Z3O) | [Alexander's Band](https://open.spotify.com/artist/0pINMFJQpZJtGzXurMvPhU) | [Greek Cuisine](https://open.spotify.com/album/3dHn9phsU57VvUTeemVvK7) | 3:00 | 2022-08-30 | 2022-11-13 |
 | [Oi Eleftheroi Ki Oraioi](https://open.spotify.com/track/2xBO1FZv2mO5QHX0n5e7bM) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb), [Yannis K\. Ioannou](https://open.spotify.com/artist/6k1TFJWflNzZIXqc1UtFmk) | [Oi Eleftheroi Ki Oraioi](https://open.spotify.com/album/7glw3hI6wpkKzVhb5vq21R) | 3:41 | 2022-01-21 |  |
 | [Oi Handres \(Oi Thalassies Sou Oi Handres\) \- Instrumental](https://open.spotify.com/track/1jqaiJk82MfUgTty69C3UB) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:34 | 2022-01-21 |  |
-| [Oniro Demeno](https://open.spotify.com/track/5yVTRPum2TJDOKnb3JQCog) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Zorba the Greek and Other Famous Hits](https://open.spotify.com/album/7yLIITFq42dijI25BJXaE4) | 3:30 | 2022-01-21 |  |
+| [Oniro Demeno](https://open.spotify.com/track/0JjaoC1dzvLR4wSKpV4G0M) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 6: Zorba The Greek & Other Hits](https://open.spotify.com/album/2ri8HGI88ED6d1iloDzDQa) | 3:28 | 2022-08-30 |  |
+| [Oniro Demeno](https://open.spotify.com/track/5yVTRPum2TJDOKnb3JQCog) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Zorba the Greek and Other Famous Hits](https://open.spotify.com/album/7yLIITFq42dijI25BJXaE4) | 3:30 | 2022-01-21 | 2023-06-18 |
 | [Oniro Demeno \- A Tied Up Dream](https://open.spotify.com/track/2ieZkaG3DU774qRtDQGzgv) | [Zorba's Bouzouki Band](https://open.spotify.com/artist/1FhfPyEk5lMLSOBKvTZtEq) | [Play Bouzouki](https://open.spotify.com/album/4oU5vaqJe0sN5axIOqTNSM) | 3:28 | 2022-01-21 | 2022-07-29 |
 | [Piraeus Sirtaki](https://open.spotify.com/track/6z9LH6cyHG03ZdvVSo0AkF) | [Michalis Koumbios](https://open.spotify.com/artist/5DckhqA7dsg4K6d2Upjdfi), [Dimitris Margiolas](https://open.spotify.com/artist/6g43xE3LhDTCIP6jayf8cS) | [Sirtaki and Hasapiko: Top 10 of All Times](https://open.spotify.com/album/19SUvRyIMdnPiCCXXTkvTf) | 4:19 | 2022-01-21 |  |
 | [Prosopa Byzantina](https://open.spotify.com/track/3Bx2MZ5n7TsrRKVK0HkLnc) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 4:05 | 2022-01-21 |  |

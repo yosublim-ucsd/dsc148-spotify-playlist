@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56806,
+  "num_followers": 56857,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTg5Y2NlMWU1MjQxYjY1NGM5ZDNjZTk2NGJmNjc2MzBmNWQzNmY2",
+  "snapshot_id": "MCw0Y2I2MGU0YTkwOTM5NTg5NzRiMGEyNGI5NTg2NmM5ZTcxYjNkNWMx",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca for De World",
+        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+      },
+      "artists": [
+        {
+          "name": "Nigel Lewis",
+          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+        }
+      ],
+      "duration_ms": 317857,
+      "name": "Movin To De Left",
+      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "The Very Best of Super Blue",
         "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 211653,
       "name": "Time to Wine",
       "url": "https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca for De World",
-        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
-      },
-      "artists": [
-        {
-          "name": "Nigel Lewis",
-          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
-        }
-      ],
-      "duration_ms": 317857,
-      "name": "Movin To De Left",
-      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 410573,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca Switch Vol. 5",
+        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
+      },
+      "artists": [
+        {
+          "name": "Blue Ventures",
+          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "De River",
+      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Switch Vol. 5",
-        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
       "artists": [
         {
-          "name": "Blue Ventures",
-          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
+          "name": "Lovey",
+          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
         }
       ],
-      "duration_ms": 272400,
-      "name": "De River",
-      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+      "duration_ms": 253840,
+      "name": "Bitein Incex (We Love De)",
+      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+        "name": "Soca Anthology: Dr. Bird - The Mighty Sparrow",
+        "url": "https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX"
       },
       "artists": [
         {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY"
+          "name": "Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
         }
       ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (We Love De)",
-      "url": "https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
-      },
-      "artists": [
-        {
-          "name": "Scrunter",
-          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Sing In The Party",
-      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
+      "duration_ms": 281733,
+      "name": "How You Jamming So",
+      "url": "https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Anthology: Dr. Bird - The Mighty Sparrow",
-        "url": "https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX"
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
       "artists": [
         {
-          "name": "Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
+          "name": "Scrunter",
+          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
         }
       ],
-      "duration_ms": 281733,
-      "name": "How You Jamming So",
-      "url": "https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE"
+      "duration_ms": 352173,
+      "name": "Sing In The Party",
+      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
     },
     {
       "added_at": "2023-05-15 08:13:13",

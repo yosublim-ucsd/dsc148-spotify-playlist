@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cinnamon Babe
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,494 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,543 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 110 | [Rearview Memory](https://open.spotify.com/track/2RjcYoax89FbhBT62HxlvN) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Rearview Memory](https://open.spotify.com/album/1dAFmnxTnewG0cxT34ga8z) | 2:59 |
 | 111 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 
-Snapshot ID: `MCw5ZDk2MWE4ZjgzMDhhOWQ5NTBiZjkxNGEyNDlhNGFjNzY0MGJiOGQ4`
+Snapshot ID: `MCw3MWJhNGY1YzlmN2MzMDdjNzRjNGQwZDM2NzA1NWQ5MWE5NzA3ZmE3`

@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 168603,
+  "num_followers": 168787,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDE2ZWE0MTYzOTI5NWQ4ZTVjZmMxNjk0YTY3NzI1N2JiYjEzNzE3",
+  "snapshot_id": "MCw4OGY3NzI3OWRkYzEyNjcxYzk5NmE5NDdkMjUzYTIwODI0ZTMyNDAz",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "SOMOS NOSOTROS",
-        "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "SOMOS NOSOTROS",
-      "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Solo (Amistad... o Nada!!!)",
         "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205740,
       "name": "C\u00f3mo Pude Amarla",
       "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "SOMOS NOSOTROS",
+        "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "SOMOS NOSOTROS",
+      "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
       "artists": [
         {
           "name": "Dalila",
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        },
-        {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 235035,
-      "name": "Lo Que Son las Cosas",
-      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1335,6 +1331,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1351,22 +1363,6 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1403,22 +1399,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Super Quinteto",
-          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
-        },
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 323334,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
+      "duration_ms": 195893,
+      "name": "Amor Pirata",
+      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1439,34 +1431,42 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
       "artists": [
         {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        },
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Amor Pirata",
-      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
+      "duration_ms": 323334,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
     },
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
       },
       "artists": [
         {
           "name": "Dalila",
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        },
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 235035,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
     },
     {
       "added_at": "2023-06-09 03:00:00",

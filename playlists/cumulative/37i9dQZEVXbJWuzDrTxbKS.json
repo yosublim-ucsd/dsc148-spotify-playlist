@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
         "name": "AUGSTAAK",
         "url": "https://open.spotify.com/album/6c62XZ9lqVjlNLwXp3v3iF"
       },
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -7614,7 +7632,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -8586,7 +8604,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -10814,7 +10832,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -12636,7 +12654,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -18160,7 +18178,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
@@ -20796,7 +20814,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 154710,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
@@ -24044,7 +24062,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
@@ -24924,7 +24942,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -26321,6 +26339,28 @@
     },
     {
       "album": {
+        "name": "\u0414\u0410\u0419 \u041c\u041d\u0415 \u041f\u041e\u0421\u041c\u041e\u0422\u0420\u0415\u0422\u042c </3 \u0414\u042d\u041d\u0421 \u0414\u042d\u041d\u0421",
+        "url": "https://open.spotify.com/album/684Ywyonh6K18IUsok1x8n"
+      },
+      "artists": [
+        {
+          "name": "Heronwater",
+          "url": "https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "\u0414\u0430\u0439 \u043c\u043d\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c",
+      "url": "https://open.spotify.com/track/1DClMPKEaiKyr7OBWynui5"
+    },
+    {
+      "album": {
         "name": "C\u043a\u0443\u0447\u0430\u044e, \u041d\u043e \u0420\u0430\u0431\u043e\u0442\u0430\u044e",
         "url": "https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um"
       },
@@ -26888,6 +26928,28 @@
       "duration_ms": 166160,
       "name": "\u041c\u044b \u0432\u0441\u0435 \u0443\u043c\u0440\u0435\u043c",
       "url": "https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq"
+    },
+    {
+      "album": {
+        "name": "\u041c\u044f\u0442\u043d\u044b\u0439",
+        "url": "https://open.spotify.com/album/21fJ3EVHGCzsKCuBsqoOJH"
+      },
+      "artists": [
+        {
+          "name": "Markul",
+          "url": "https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2"
+        },
+        {
+          "name": "FEDUK",
+          "url": "https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150671,
+      "name": "\u041c\u044f\u0442\u043d\u044b\u0439",
+      "url": "https://open.spotify.com/track/1f6FGeObxehgFr9AkH02U2"
     },
     {
       "album": {

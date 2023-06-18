@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Rayi Putra, Kaleb J",
-  "num_followers": 11989,
+  "num_followers": 12009,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQwMTU4Mjc2OGZiMWY2OTIyODczOWY2ZjAwNGUyZTNjYTc1YjNi",
+  "snapshot_id": "MCxlMTdkZGI5MTVjMmNkODA2OWQ3OGIyMmRjNjQ1NTk4NTM2Yzk4MjU0",
   "tracks": [
     {
       "added_at": "2023-06-15 17:25:56",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
+        "name": "Biar Menjadi Kenangan",
+        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+        }
+      ],
+      "duration_ms": 313382,
+      "name": "Biar Menjadi Kenangan",
+      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
+    },
+    {
+      "added_at": "2023-06-15 17:25:56",
+      "album": {
         "name": "Glorious (The Official Song of FIFA U-20 World Cup Argentina 2023\u2122)",
         "url": "https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 222500,
       "name": "Buru-Buru",
       "url": "https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6"
-    },
-    {
-      "added_at": "2023-06-15 17:25:56",
-      "album": {
-        "name": "Biar Menjadi Kenangan",
-        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        },
-        {
-          "name": "Ahmad Dhani",
-          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
-        }
-      ],
-      "duration_ms": 313382,
-      "name": "Biar Menjadi Kenangan",
-      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "HOME IS WHO YOU ARE",
-        "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
+        "name": "Rossa",
+        "url": "https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
         }
       ],
-      "duration_ms": 195022,
-      "name": "HOME IS WHO YOU ARE",
-      "url": "https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf"
+      "duration_ms": 230386,
+      "name": "Takkan Berpaling DariMu",
+      "url": "https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "Rossa",
-        "url": "https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU"
+        "name": "HOME IS WHO YOU ARE",
+        "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Takkan Berpaling DariMu",
-      "url": "https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3"
+      "duration_ms": 195022,
+      "name": "HOME IS WHO YOU ARE",
+      "url": "https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -843,18 +843,22 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "Kami Khawatir, Kawan",
-        "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
+        "name": "Kisah Yang Salah",
+        "url": "https://open.spotify.com/album/3WoEs19wtAmQX9kNlBANZL"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "The Bakuucakar",
+          "url": "https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs"
+        },
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
         }
       ],
-      "duration_ms": 265316,
-      "name": "Kami Khawatir, Kawan",
-      "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
+      "duration_ms": 234694,
+      "name": "Kisah Yang Salah",
+      "url": "https://open.spotify.com/track/5xVjOWNOODhSS1Ot1oWnHI"
     }
   ],
   "unique_name": "OTW ",

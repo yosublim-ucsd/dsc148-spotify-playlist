@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,635 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,661 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 21 | [Knife](https://open.spotify.com/track/0jVYwnMGOXoUByM1hi9h88) | [hex gf](https://open.spotify.com/artist/26sgSBpgBCSlyQxB8lf6tf) | [Haters](https://open.spotify.com/album/7omqBm5pxVQT0kl7a9wwUQ) | 3:30 |
 | 22 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 |
 | 23 | [Violet](https://open.spotify.com/track/2CIVtUUT9euheUPXlIAU87) | [Paper Lady](https://open.spotify.com/artist/5C00UvIYl9iDUqd52k02Fo), [Nebulous](https://open.spotify.com/artist/1yLEzQNnrzDAALKDIVQ65U) | [Traveling Exploding Star](https://open.spotify.com/album/4Gqggi1bGY6PuOeuXWW8fl) | 6:02 |
-| 24 | [Messy Chrous](https://open.spotify.com/track/6Qd9GyOtGBqmhrCw8RJyx1) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Messy Chrous](https://open.spotify.com/album/7xAMYzVq90cmGjtgkDgudf) | 3:02 |
+| 24 | [Messy Chorus](https://open.spotify.com/track/6Qd9GyOtGBqmhrCw8RJyx1) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Messy Chorus](https://open.spotify.com/album/7xAMYzVq90cmGjtgkDgudf) | 3:02 |
 | 25 | [Gasoline \- Demo](https://open.spotify.com/track/6jp1qx47II91XsgZVLfb2n) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Gasoline \(Demo\)](https://open.spotify.com/album/4yuP5cpVRl2QppSXSXltZ9) | 3:02 |
 | 26 | [Look the Other Way](https://open.spotify.com/track/1ThdBhDTOyVxk2VcN8DaTI) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Look the Other Way](https://open.spotify.com/album/3g3OR1LmPmzp9ufa5cF3o5) | 2:33 |
 | 27 | [Barcelona \(End of the Line\)](https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C) | [Keh Tu](https://open.spotify.com/artist/2C9VkF4uSp8rzSq8pR4bik) | [Bedroom Promises](https://open.spotify.com/album/2C4WxtfztrmcPfWbMVjBql) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Dancin](https://open.spotify.com/track/3MkSlKE72nGIKLZjsMzY5t) | [backjarron](https://open.spotify.com/artist/2n4DIhfey4ypRQSIWbJohh) | [Lil cat ok](https://open.spotify.com/album/6gMuKBuGcaf7zfDdwJlXUu) | 3:52 |
 | 100 | [sierra](https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [sierra](https://open.spotify.com/album/2GRP5REBr7XdV9Tmj9IQ9C) | 3:18 |
 
-Snapshot ID: `MCw4YzNjNmUzOWYzOTkyNjYxYzQxYTIxODUxYmQ3NWJhZmY2MGY2ZTU0`
+Snapshot ID: `MCw5OGIxNTA1MzMxZDUxMmE4ZmEwYTliMWEyYTA1NmNhODY1NTllMDc0`

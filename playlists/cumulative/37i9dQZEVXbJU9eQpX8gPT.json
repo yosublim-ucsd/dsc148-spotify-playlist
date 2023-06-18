@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -6639,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "Fly Emirates",
+        "url": "https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "Fly Emirates",
+      "url": "https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
       },
@@ -9282,7 +9300,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 192000,
       "name": "JRO7I",
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
@@ -10624,7 +10642,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 176571,
       "name": "Lbaroud",
       "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"
@@ -13942,6 +13960,28 @@
       "duration_ms": 200640,
       "name": "Niya",
       "url": "https://open.spotify.com/track/7raUFkCEhCAuizf45DLu0Q"
+    },
+    {
+      "album": {
+        "name": "Niya (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/6r9TDL8g5fBwFPCwFqgvc9"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Niya (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/3OaHQoMlGe9jnk12UNEvJd"
     },
     {
       "album": {
@@ -19738,6 +19778,28 @@
       "duration_ms": 116413,
       "name": "UN R\u00caVE \u00c9TRANGE",
       "url": "https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "album": {

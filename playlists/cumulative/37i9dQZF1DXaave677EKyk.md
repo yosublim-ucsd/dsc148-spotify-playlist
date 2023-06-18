@@ -4,7 +4,7 @@
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-101 songs - 5 hr 13 min
+102 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Feel So Free](https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free](https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5) | 3:18 | 2022-12-02 | 2023-06-03 |
 | [Feels So Good](https://open.spotify.com/track/4z4AEQps7o1UamAbIxmVqw) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Feels So Good](https://open.spotify.com/album/79zoOjtwBRLyGDjEQhtDps) | 2:37 | 2022-12-02 | 2023-06-03 |
 | [Fire On My Feet](https://open.spotify.com/track/126A71xdNotkAXGSZhtgKD) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [Fire On My Feet](https://open.spotify.com/album/7eGT3dSbXAQiY7Ufq5LCRN) | 2:59 | 2022-12-02 | 2023-06-03 |
-| [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-06-02 |  |
+| [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-06-02 | 2023-06-18 |
+| [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 | 2023-06-02 |  |
 | [Forever](https://open.spotify.com/track/0FqcLYLjgbb2VUPClORTPr) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Forever](https://open.spotify.com/album/18E1JR8Wfx1L2aALN2ekFj) | 3:42 | 2022-12-02 |  |
 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 | 2022-12-02 |  |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-12-02 |  |

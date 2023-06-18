@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 113052,
+  "num_followers": 113078,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGU1M2FlYjg4ODkzMjAzMjIwNjQ1OGQ3YzQ4YzVlY2VjZDQ1MWI1",
+  "snapshot_id": "MCwyNzY4MWJlNTdlNWM2YjNmZDRkZDkyNDQxNzZiNzk0ZTg1ZTliZGFj",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Calling All Jitterbugs!",
-        "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
-      },
-      "artists": [
-        {
-          "name": "Bill Elliott Swing Orchestra",
-          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
-        }
-      ],
-      "duration_ms": 223635,
-      "name": "Mildred, Won't You Behave?",
-      "url": "https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Salutes the Great Entertainers",
         "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165933,
       "name": "The Joint is Jumpin'",
       "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Calling All Jitterbugs!",
+        "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
+      },
+      "artists": [
+        {
+          "name": "Bill Elliott Swing Orchestra",
+          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
+        }
+      ],
+      "duration_ms": 223635,
+      "name": "Mildred, Won't You Behave?",
+      "url": "https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Woods and His Rocket 88\u2018S",
-          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Swingin' At The Savoy",
-      "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Everybody's Talkin' 'Bout Miss Thing!",
         "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 250200,
       "name": "Honey Pie",
       "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Swingin' At The Savoy",
+      "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Solid Gold Cadillac",
-        "url": "https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO"
-      },
-      "artists": [
-        {
-          "name": "Mitch Woods and His Rocket 88\u2018S",
-          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Solid Gold Cadillac",
-      "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Rapid City Muscle Car",
         "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
       },
@@ -827,6 +811,62 @@
       "duration_ms": 148320,
       "name": "Sausage Rock",
       "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Rigormorty",
+        "url": "https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk"
+      },
+      "artists": [
+        {
+          "name": "The New Morty Show",
+          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
+        },
+        {
+          "name": "Brian Fishler",
+          "url": "https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL"
+        },
+        {
+          "name": "Cynthia Lewis",
+          "url": "https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh"
+        },
+        {
+          "name": "Jeff Whipp",
+          "url": "https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA"
+        },
+        {
+          "name": "John Quam",
+          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
+        },
+        {
+          "name": "Morty Okin",
+          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
+        },
+        {
+          "name": "Robert Castillo",
+          "url": "https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df"
+        },
+        {
+          "name": "Trevor Kinsel",
+          "url": "https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL"
+        },
+        {
+          "name": "Van Hughes",
+          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
+        },
+        {
+          "name": "Matt Cowan",
+          "url": "https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7"
+        },
+        {
+          "name": "David Murotake",
+          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Ladies Man",
+      "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
     },
     {
       "added_at": "2022-03-28 19:13:18",

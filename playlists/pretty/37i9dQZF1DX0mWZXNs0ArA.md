@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,387 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,563,473 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [universe \(sped up\)](https://open.spotify.com/track/24kdDAmUUDwElZJ9NClVfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe \(sped up\)](https://open.spotify.com/album/3GfD4UP3CVhJTsGt5ygHi1) | 2:12 |
 | 100 | [Secrets \- Sped Up Version](https://open.spotify.com/track/4lAgubu7u2I8YqBs2Lefhi) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Secrets \(Sped Up Version\)](https://open.spotify.com/album/0oyWSmS7Zk7U7TQKXGgFCF) | 1:42 |
 
-Snapshot ID: `MCxhMjE4Yjc3YzA5NzhmZGFiMDBiZTZlZDMzZGM0YmY4ZjliYzAzMjJm`
+Snapshot ID: `MCw5Yjc3NDAyZjIxYWMzZTk5MDE3N2VkODVmYzE4MjNjYmE3ZDQ5ZDVj`

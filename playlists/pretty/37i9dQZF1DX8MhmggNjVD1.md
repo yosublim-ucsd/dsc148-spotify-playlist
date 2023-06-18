@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 
 > Featuring Jay Wheeler, Anuel AA, Ryan Castro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 | 24 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 |
 | 25 | [UZI](https://open.spotify.com/track/3lDKFNhgDpu7W7UEQ6ix3O) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [UZI](https://open.spotify.com/album/6iLDAXWCP3IU4FvAa4egO4) | 2:06 |
 
-Snapshot ID: `MCxiOTc3N2YwZmVkNjdiZTEyZDY3ZTdkMzVmMTliMDEzMWEzNzExOGE4`
+Snapshot ID: `MCxjMGY5MGRlMjhjOWEwN2VlM2VkNzZmYjU0MzQzOWY0NzYxYWMwOTk0`

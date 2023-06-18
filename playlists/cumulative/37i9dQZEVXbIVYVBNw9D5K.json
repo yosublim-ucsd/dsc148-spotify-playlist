@@ -88,10 +88,28 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 141968,
       "name": "10MG",
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
+    },
+    {
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141968,
+      "name": "10MG",
+      "url": "https://open.spotify.com/track/6MFepQNOqgJM35OVRP5XU7"
     },
     {
       "album": {
@@ -461,6 +479,24 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171382,
+      "name": "Al Aram\u0131zdan",
+      "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
+    },
+    {
+      "album": {
         "name": "Al Aram\u0131zdan",
         "url": "https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl"
       },
@@ -472,7 +508,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w"
@@ -1417,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144744,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
+    },
+    {
+      "album": {
         "name": "Baba Yak",
         "url": "https://open.spotify.com/album/0OAVYU8t5hsj92eYATU0IZ"
       },
@@ -2065,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Bi' Tek Ben Anlar\u0131m",
+      "url": "https://open.spotify.com/track/4nMiTtF7L3rttRFrfIfBME"
+    },
+    {
+      "album": {
         "name": "Bi' Tek Ben Anlar\u0131m",
         "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
       },
@@ -2076,7 +2148,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 196250,
       "name": "Bi' Tek Ben Anlar\u0131m",
       "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
@@ -2691,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165059,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
+    },
+    {
+      "album": {
         "name": "Cano",
         "url": "https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l"
       },
@@ -2702,7 +2792,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 161505,
       "name": "Cano",
       "url": "https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1"
@@ -2978,6 +3068,24 @@
       "duration_ms": 128209,
       "name": "Dalga - Emre Terzio\u011flu Remix",
       "url": "https://open.spotify.com/track/6Fri3yOIEBWJLVwlniBEQ1"
+    },
+    {
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184182,
+      "name": "DAMLA",
+      "url": "https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f"
     },
     {
       "album": {
@@ -3308,6 +3416,24 @@
       "duration_ms": 223950,
       "name": "Dip",
       "url": "https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd"
+    },
+    {
+      "album": {
+        "name": "Diva Yorgun",
+        "url": "https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259703,
+      "name": "Diva Yorgun",
+      "url": "https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4"
     },
     {
       "album": {
@@ -4061,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228999,
+      "name": "EXORCIST",
+      "url": "https://open.spotify.com/track/04mbiMWVqGIwgJLUnFRh0l"
+    },
+    {
+      "album": {
         "name": "Eyvah",
         "url": "https://open.spotify.com/album/10JevKnjSx3Oc2TAbut0MF"
       },
@@ -4380,7 +4524,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 262165,
       "name": "F\u0131rt\u0131naday\u0131m",
       "url": "https://open.spotify.com/track/3QopdONAzZHRO1P4UQrNvw"
@@ -5276,7 +5420,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 189333,
       "name": "g\u00f6zlerindeki ay",
       "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
@@ -5519,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135459,
+      "name": "HANIMEFEND\u0130",
+      "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -5656,7 +5818,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 155666,
       "name": "Haydi Gel Benimle Ol",
       "url": "https://open.spotify.com/track/6wE2kwWJpEWuKGxlN1DMKi"
@@ -10017,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152187,
+      "name": "RANDEVU",
+      "url": "https://open.spotify.com/track/2F5zDoky5fcblVvjYUlVWI"
+    },
+    {
+      "album": {
         "name": "RANDEVU",
         "url": "https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b"
       },
@@ -10160,6 +10340,24 @@
       "duration_ms": 121999,
       "name": "Riv Riv Riv",
       "url": "https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4"
+    },
+    {
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137270,
+      "name": "ROMANT\u0130K",
+      "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
     },
     {
       "album": {
@@ -10512,7 +10710,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 229135,
       "name": "Sana \u00c7\u0131k\u0131yor Yollar - Kaderimin Oyunu Orijinal Dizi M\u00fczi\u011fi",
       "url": "https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV"
@@ -11287,6 +11485,24 @@
     },
     {
       "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266383,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4P1pxOmZaCIphpT7CGkEsX"
+    },
+    {
+      "album": {
         "name": "S\u00d6YLENEYD\u0130BU?",
         "url": "https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU"
       },
@@ -12058,7 +12274,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 147760,
       "name": "Veda Saati",
       "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"
@@ -12272,7 +12488,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 116499,
       "name": "YAKALARSAN",
       "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
@@ -13188,7 +13404,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 187826,
       "name": "\u00c7a\u011f\u0131r",
       "url": "https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo"
@@ -13260,7 +13476,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 218709,
       "name": "\u00c7ok Yaz\u0131k",
       "url": "https://open.spotify.com/track/6NbXYfMZULpf1sGxp8Qx0P"

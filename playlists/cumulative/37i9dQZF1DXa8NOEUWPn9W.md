@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Jazzy.
 
-607 songs - 1 day 13 hr 29 min
+608 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,11 @@
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-03-28 | 2023-01-14 |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-11 | 2023-04-09 |
 | [Believer](https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Believer](https://open.spotify.com/album/7viE6ghVokRusMmJKuEBqC) | 3:14 | 2021-04-17 | 2022-07-29 |
+| [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-16 |  |
 | [Better Things](https://open.spotify.com/track/54C72WBiGX5leus7p8y418) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [Better Things](https://open.spotify.com/album/1LYnqAYDUa6vsj8IwraI9J) | 2:45 | 2021-12-17 | 2022-10-19 |
 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-06-16 |  |
 | [Big Dipper](https://open.spotify.com/track/6rclEt3f6n9X2FiAPjtHCV) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Big Dipper](https://open.spotify.com/album/4vB0GitlZdNGGiqIObWu6F) | 5:59 | 2021-03-27\* | 2021-07-04 |
-| [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-06-02 |  |
+| [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-06-02 | 2023-06-18 |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(loving arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2021-09-08 |  |
 | [Blessing In This House](https://open.spotify.com/track/12gAkxV6EmdMJwQI7an4am) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Blessing In This House](https://open.spotify.com/album/4Km7A8C3qD1ar8hARCp92f) | 3:19 | 2021-05-03 | 2022-07-28 |
 | [Blow Your Whistle '21](https://open.spotify.com/track/411RWOOUp6WUqoJ0lof45R) | [DJ Duke](https://open.spotify.com/artist/4B9AyrwRDxUjt42vO4HciB), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Blow Your Whistle '21](https://open.spotify.com/album/5YpXJbZp7kyxUamyeBIGWd) | 3:11 | 2021-06-12 | 2022-04-19 |

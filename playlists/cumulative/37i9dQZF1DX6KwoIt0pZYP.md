@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-595 songs - 1 day 8 hr 47 min
+596 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 | 2023-03-02 | 2023-04-04 |
 | [epilogue](https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 3:59 | 2022-10-14 | 2022-10-28 |
 | [Escape](https://open.spotify.com/track/3n4JtlDjEzyLP25ji7rex3) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Escape](https://open.spotify.com/album/5bznDPL79W1kK6IOeYWjAr) | 3:41 | 2022-10-27 | 2022-11-11 |
+| [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-15 |  |
 | [Every Day](https://open.spotify.com/track/32NaM2oG2ht1U6TPouYgYW) | [Markus](https://open.spotify.com/artist/2TX325jFbZFpe2OGZNo4Lx), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Every Day](https://open.spotify.com/album/0e2ZoEnFt359OfWItijP2W) | 2:38 | 2022-03-04 | 2022-06-13 |
 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 | 2022-01-28 |  |
 | [Fabric of Reality](https://open.spotify.com/track/4Bl77lyQkpVcOyO6pNdGKA) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Fabric of Reality](https://open.spotify.com/album/0Bp8kL72hLYrcwCYg2L2LD) | 2:36 | 2023-04-20 | 2023-05-12 |
@@ -363,7 +364,7 @@
 | [No Different](https://open.spotify.com/track/7ztlf9mCrjoLXAYYf0LCYx) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv) | 3:20 | 2022-03-29 | 2022-04-21 |
 | [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-31 | 2023-05-13 |
 | [No Good In Goodbye](https://open.spotify.com/track/38ObpIH92W62oCBYhMW9hu) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [No Good In Goodbye](https://open.spotify.com/album/3nSZ1lJrHkv1ZPbSrAmmYD) | 3:48 | 2023-03-31 | 2023-04-21 |
-| [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2023-01-06 |  |
+| [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2023-01-06 | 2023-06-18 |
 | [No Worries](https://open.spotify.com/track/5ygNO0E9Nido0T6oJ8WqDU) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 2:43 | 2022-03-29 | 2022-04-21 |
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-10 |
 | [Nobody Knows](https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Christopher Chu](https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl) | [Nobody Knows](https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc) | 3:21 | 2022-01-28 | 2022-10-15 |

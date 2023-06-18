@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-107 songs - 9 hr 48 min
+108 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2022-08-05 | 2022-11-02 |
 | [Time Clocks](https://open.spotify.com/track/7Mft5wZsFV4LrxLhlKzaJ7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:07 | 2022-09-29 | 2022-10-01 |
 | [Time Clocks \(Live\)](https://open.spotify.com/track/4d9lTTLjl3wRrMiDnOBhZu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks \(Live\)](https://open.spotify.com/album/0oIeoroN4DPWkMN9MES9ey) | 7:56 | 2023-04-17 | 2023-04-23 |
+| [Twenty\-Four Hour Blues](https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues](https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl) | 4:32 | 2023-06-17 |  |
 | [Valley Of Fire](https://open.spotify.com/track/3MeWtNojyZQXLG1q2KEzth) | [Jason Becker](https://open.spotify.com/artist/0A4Z1qNp3lGWa9VI66M67D), [The Magnificent 13](https://open.spotify.com/artist/3IkYSkWCsGcctOaS4g7Ill), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Michael Lee Firkins](https://open.spotify.com/artist/7hDSpyE3c2yq9LUeJuY8xC), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG), [Neal Schon](https://open.spotify.com/artist/4YLlWUd8PnnyGVKxqoebs7), [Mattias IA Eklundh](https://open.spotify.com/artist/22upwnTo7nckdSAMI8CrZa), [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Jeff Loomis](https://open.spotify.com/artist/1bqlyIXRTCilCmvAr1newg), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb), [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Ben Woods](https://open.spotify.com/artist/48aj2Mk8GfONHzoPRfEeCY) | [Triumphant Hearts](https://open.spotify.com/album/0U6OOhg42G3bM1rC3ClJ2V) | 9:04 | 2022-10-05 | 2022-10-08 |
 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2022-08-05 |  |
 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 | 2022-08-05 |  |

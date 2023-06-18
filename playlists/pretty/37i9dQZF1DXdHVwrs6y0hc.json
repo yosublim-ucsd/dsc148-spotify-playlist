@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 56140,
+  "num_followers": 56219,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTdhNTk3NTE1Yjg4YTBjZmQ5ZGViMDQ0OWI0MjUxYTM4N2IxY2Y3",
+  "snapshot_id": "MCxjZWZlNWEyZmY0ODRhNWY2OGY0NGNlNTIyMzM3ZGMyYjQ0MzdkNmY0",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -75,6 +75,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Planxty",
+        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
+      },
+      "artists": [
+        {
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "20 Best Irish Pub Songs",
         "url": "https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 161666,
       "name": "Botany Bay (arr. N. McLoughlin)",
       "url": "https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Planxty",
-        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Follow Me Up To Carlow",
-      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "The Planxty Collection",
+        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
+      },
+      "artists": [
+        {
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Merrily Kissed The Quaker",
+      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Sick Note",
         "url": "https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 223791,
       "name": "Wild Mountain Thyme",
       "url": "https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "The Planxty Collection",
-        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Merrily Kissed The Quaker",
-      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Cry of a Dreamer",
-        "url": "https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc"
-      },
-      "artists": [
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Cry of a Dreamer",
-      "url": "https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Patrick Street",
         "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Cry of a Dreamer",
+        "url": "https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Cry of a Dreamer",
+      "url": "https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Ballads and Songs",
         "url": "https://open.spotify.com/album/015erneqKmEPClgUAzqc1L"
       },
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "The Craic Was Ninety",
+      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Many's The Fine Tale",
         "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
       },
@@ -455,6 +471,58 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Madame, I'm a Darling",
+      "url": "https://open.spotify.com/track/1e0zNoLVd9UGLpdJVs9WlE"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Andy's - Lafferty's - Marian's Favourite",
+      "url": "https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Music & Ballads from Ireland",
+        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Unicorns",
+      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Man for Galway: The Best of Sean Tyrrell",
         "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
       },
@@ -479,74 +547,6 @@
       "duration_ms": 230440,
       "name": "Cap and Bells",
       "url": "https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Madame, I'm a Darling",
-      "url": "https://open.spotify.com/track/1e0zNoLVd9UGLpdJVs9WlE"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "The Craic Was Ninety",
-      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Music & Ballads from Ireland",
-        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Unicorns",
-      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Andy's - Lafferty's - Marian's Favourite",
-      "url": "https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Sean Tyrrell Live at Greenes",
-        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
       "artists": [
         {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 248659,
-      "name": "Sweet Ballyvaughaan - Live",
-      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
+      "duration_ms": 281400,
+      "name": "Naomi Wise",
+      "url": "https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+        "name": "Sean Tyrrell Live at Greenes",
+        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
       },
       "artists": [
         {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
         }
       ],
-      "duration_ms": 281400,
-      "name": "Naomi Wise",
-      "url": "https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3"
+      "duration_ms": 248659,
+      "name": "Sweet Ballyvaughaan - Live",
+      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
     },
     {
       "added_at": "2021-04-26 15:38:07",

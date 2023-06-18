@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917389,
+  "num_followers": 917357,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDYxNWRlYmVlMGMzNGRmYjA0MzdjN2Y0YjU5Mjg2ZjY2M2JiZmM2",
+  "snapshot_id": "MCw5OTk1MGNmMTI0Mzg5YTI0ZTI3ZTMyODY3MDE3OTEwYTIwYTA5OTgy",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
       },
@@ -207,18 +223,18 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
         }
       ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+      "duration_ms": 146430,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -239,22 +255,6 @@
       "duration_ms": 201951,
       "name": "Lw",
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Kyun",
-        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
-      },
-      "artists": [
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        }
-      ],
-      "duration_ms": 146430,
-      "name": "Kyun",
-      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Ni Main Jaana",
         "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 257771,
       "name": "Ni Main Jaana",
       "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "\u91cd\u8b6f \u9673\u6f54\u5100",
+        "url": "https://open.spotify.com/album/04RwIWrzlcjqk8WwIYP0Yc"
+      },
+      "artists": [
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "\u5fc3\u52d5",
+      "url": "https://open.spotify.com/track/6c6bGcH9CWUJOHQKCGLX0j"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Figlie della Luna",
         "url": "https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 173538,
       "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
       "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "\u91cd\u8b6f \u9673\u6f54\u5100",
-        "url": "https://open.spotify.com/album/04RwIWrzlcjqk8WwIYP0Yc"
-      },
-      "artists": [
-        {
-          "name": "Kit Chan",
-          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "\u5fc3\u52d5",
-      "url": "https://open.spotify.com/track/6c6bGcH9CWUJOHQKCGLX0j"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Ge\u00e7miyor Zaman",
         "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 283718,
       "name": "Ge\u00e7miyor Zaman",
       "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 158032,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
+        "name": "Porque Yo",
+        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
         "name": "Whatever's Inconvenient",
         "url": "https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 209983,
       "name": "Ya Gamalak",
       "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Asfalos & Mporo",
-        "url": "https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906"
-      },
-      "artists": [
-        {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        }
-      ],
-      "duration_ms": 230031,
-      "name": "Asfalos & Mporo",
-      "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Asfalos & Mporo",
+        "url": "https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        }
+      ],
+      "duration_ms": 230031,
+      "name": "Asfalos & Mporo",
+      "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1299,26 +1299,22 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Numaani",
-        "url": "https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1"
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+        "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
       },
       "artists": [
         {
-          "name": "Faridkot",
-          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Rajarshi Sanyal",
-          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 308117,
-      "name": "Numaani",
-      "url": "https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk"
+      "duration_ms": 220500,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+      "url": "https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -1371,22 +1367,26 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
-        "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
+        "name": "Numaani",
+        "url": "https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1"
       },
       "artists": [
         {
-          "name": "sarah salola",
-          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
         },
         {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
         }
       ],
-      "duration_ms": 220500,
-      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
-      "url": "https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE"
+      "duration_ms": 308117,
+      "name": "Numaani",
+      "url": "https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk"
     }
   ],
   "unique_name": "EQUAL Global",

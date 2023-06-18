@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 9103,
+  "num_followers": 9111,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTdkZGExMjNmNjVmNTcyZTkwYmRlNzZkOGIxZGYyYzYyODZkMjE3",
+  "snapshot_id": "MCw3N2Q1YWE0ZmU4NjEzM2ZiNjgxZTljNDk1MDI0Y2E5NjczNTYyMTc5",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Ain't No Cure For Love",
+      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
@@ -307,22 +323,6 @@
       "duration_ms": 312760,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Ain't No Cure For Love",
-      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -373,6 +373,22 @@
       "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -391,22 +407,6 @@
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2018-12-06 19:29:22",

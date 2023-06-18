@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: אגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,821 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,835 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [רגעים \- לייב מתוך פסטיבל מקסימיליאן](https://open.spotify.com/track/6RFK0lGG7fQhEHiCa3vkjh) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [רגעים \(לייב מתוך פסטיבל מקסימיליאן\)](https://open.spotify.com/album/0kfwgzrDjEXplU0hBL5MxY) | 3:28 |
 | 50 | [שחר של אהבה](https://open.spotify.com/track/3RLz7SapUJNpMfPvo7jUA8) | [Ifat Bar Sela](https://open.spotify.com/artist/4tKVsDeR6BMU0niiAcqF9l) | [שחר של אהבה](https://open.spotify.com/album/0gIKZRjTndpzangn6PB0iS) | 3:20 |
 
-Snapshot ID: `MCwxNGIyZDM1NzkwMmIxYThiNWExNjU1NDg1MDFlZWQ2Y2RlOGYzMTY4`
+Snapshot ID: `MCwyYzYxMDlkOGRhODAyMTAyZmJiY2ExYjFjZTcwZTEwZDUzYWIwZjI5`

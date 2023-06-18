@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-165 songs - 8 hr 24 min
+166 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Rubirosa](https://open.spotify.com/track/6CIgfLVT2LW7bhRMWwoWxB) | [Fetti031](https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw) | [Rubirosa](https://open.spotify.com/album/0JYlZSI7jjfRltbl9l698F) | 2:29 | 2022-03-15 | 2022-05-14 |
 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 | 2022-03-15 | 2023-02-18 |
 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 | 2023-02-17 |  |
-| [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2022-03-15 |  |
+| [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 | 2023-03-17 |  |
+| [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2022-03-15 | 2023-06-18 |
 | [Siclompatada](https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Siclompatada](https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1) | 3:36 | 2023-05-19 |  |
 | [Singadera Y Rapadera](https://open.spotify.com/track/4h00mDHNeosjAE98LLgGs9) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE) | [Singadera Y Rapadera](https://open.spotify.com/album/2BvHf5D1I1ddxYroeer7q6) | 2:19 | 2022-11-25 | 2022-12-24 |
 | [Susu](https://open.spotify.com/track/1qN76meSBGWaR5uaBqJu61) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Susu](https://open.spotify.com/album/30h62ee5kOBlpi2GH7SQbO) | 2:54 | 2022-11-11 | 2022-12-24 |

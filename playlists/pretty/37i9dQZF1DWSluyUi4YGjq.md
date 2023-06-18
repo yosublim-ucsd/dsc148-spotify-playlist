@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Nabihah Iqbal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,285 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,592 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [1999](https://open.spotify.com/track/0YvG1SZHHjzEpCMCUhB3Vf) | [Dreams on Tape](https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy) | [1999](https://open.spotify.com/album/0tY4FzgCmvJPgDaeyBwbNV) | 3:30 |
 | 100 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
 
-Snapshot ID: `MCw0ZjNkZjY5ZjBlMGI4YWRlMjE4M2I3YThiYTk5NTZjOTNkMzAyYzRm`
+Snapshot ID: `MCw5NzM5ZjkxMGQwZmQ3YzlhNjVhNWFjMThmN2RhNzcwZDg2ZmM1ZGRl`

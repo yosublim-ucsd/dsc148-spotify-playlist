@@ -258,7 +258,7 @@
     {
       "album": {
         "name": "Die in LA",
-        "url": "https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx"
+        "url": "https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk"
       },
       "artists": [
         {
@@ -273,6 +273,28 @@
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172712,
+      "name": "Age Of Depression",
+      "url": "https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2"
+    },
+    {
+      "album": {
+        "name": "Die in LA",
+        "url": "https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        },
+        {
+          "name": "Tyson",
+          "url": "https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
       "duration_ms": 172712,
       "name": "Age Of Depression",
       "url": "https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg"

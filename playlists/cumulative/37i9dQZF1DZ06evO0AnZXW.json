@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A GHETTO CHRISTMAS CAROL",
+        "url": "https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "A GHETTO CHRISTMAS CAROL",
+      "url": "https://open.spotify.com/track/1QKDXegQxJBzSs8ZBNtGbT"
+    },
+    {
+      "album": {
         "name": "Again (feat. XXXTENTACION)",
         "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-18",
       "duration_ms": 166533,
       "name": "WingRiddenAngel",
       "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"

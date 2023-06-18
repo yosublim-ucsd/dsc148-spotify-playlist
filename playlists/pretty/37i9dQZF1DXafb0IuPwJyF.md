@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,331 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,685 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [I'm Not OK](https://open.spotify.com/track/11nIII740gdZUWnNDKOwFh) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I'm Not OK](https://open.spotify.com/album/3Gt8n9ReeUCP3X8WfWyqZw) | 2:38 |
 | 50 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
 
-Snapshot ID: `MCxiNTVhOTZhZTUyYzUyODUyNjM4MTAzYTI2ZjUwZTJkMjFjNThhNTZl`
+Snapshot ID: `MCw2NmE2MmMxMmJjNDIwYTQxZWE2OTMxNDViNDMzZmVkMjQzZGZmMzdk`

@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-253 songs - 18 hr 26 min
+254 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Gabriel \- Tom Player Strings Version](https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Valentina](https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh), [Tom Player](https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ) | [Gabriel \(Tom Player Strings Version\)](https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc) | 3:02 | 2022-12-08 |  |
 | [Genesis](https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP) | [David A\. Molina](https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug) | [Genesis](https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H) | 3:58 | 2021-12-10 | 2022-10-17 |
 | [Geneva](https://open.spotify.com/track/1LdM2sf8oIuxeo45egJupT) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Geneva](https://open.spotify.com/album/1RcopfYKcxb1fLgjtrGLs5) | 5:02 | 2022-03-25 | 2022-04-20 |
+| [Ghosts \- Looping](https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [Dirk Brossé](https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo) | [L\(oo\)ping](https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O) | 5:12 | 2023-06-16 |  |
 | [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 | 2023-04-10 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Glühwürmchen](https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen](https://open.spotify.com/album/4hCUhAjYSwgi5oELIDemgD) | 3:56 | 2021-12-10 | 2022-01-25 |
@@ -196,7 +197,7 @@
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- Levitation Mix](https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(Levitation Mix\)](https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX) | 3:35 | 2022-06-24 |  |
 | [Rembihnútur \- Liminal re\-work by Paul Corley](https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:24 | 2022-03-25 | 2022-04-01 |
 | [Remembered Words](https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [We All Have Places That We Miss](https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa) | 5:10 | 2023-02-10 |  |
-| [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 | 2023-01-13 |  |
+| [Remembering](https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE) | [Thom Robson](https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk) | [Walking With Ghosts](https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a) | 3:54 | 2023-01-13 | 2023-06-18 |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-10 |  |
 | [Reverie](https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO) | [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [Epilogue, Pt\. 1](https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p) | 3:00 | 2021-12-10 | 2022-07-28 |
 | [Rhythmicon](https://open.spotify.com/track/6OMhxlIR8Hrnbn8vtnCJrE) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M) | [Rhythmicon](https://open.spotify.com/album/6HJMeLoOUbqZkzLu2HxbCN) | 5:09 | 2022-01-21 | 2022-07-29 |

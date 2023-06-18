@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: La Rhonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,147 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,210 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 6 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 |
 | 7 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 |
 | 8 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 |
-| 9 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 |
+| 9 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 |
 | 10 | [2 far gone](https://open.spotify.com/track/70Vgl8pejj7OmN0fUsMNYl) | [Free Arlo](https://open.spotify.com/artist/1ePVqRHwkjRf7y2XRyHE2p) | [2 far gone](https://open.spotify.com/album/55tj0vVYISQ5sV1U9xzCmH) | 2:31 |
 | 11 | [Even If It Kills Me](https://open.spotify.com/track/0vaLp7HL1NjFLcEQ66bz8X) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Even If It Kills Me](https://open.spotify.com/album/6dn7V9vlP36cwozlMRPoPJ) | 3:16 |
 | 12 | [Enemy](https://open.spotify.com/track/42FfXCh2osVbPBaxaXYQz1) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Enemy](https://open.spotify.com/album/4sPYzIi5CSUqDuTsExkplJ) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 |
 | 100 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 
-Snapshot ID: `MCwxOTZhNWIxZTlmMTg4NTg5MmMwZTM0NjNiOTk2ZTgwNDZmYWM2MmEw`
+Snapshot ID: `MCxlNzAxNzNiMjMxNWIyZDVhOGQ0NmIyM2RlZDA5ZWJhZjMzNTI0YjRh`

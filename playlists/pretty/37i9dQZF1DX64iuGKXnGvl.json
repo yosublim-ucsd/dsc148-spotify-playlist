@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 77140,
+  "num_followers": 77311,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWE4MWY1Zjc3NDQ5OTE5YjgyZDk3YmY3YzY0NzE1MzdlYTc2OWRi",
+  "snapshot_id": "MCw3NTA4NDU3MzFhYWI4ZTkwMzM4MjQyZDQ3OTA2NDNhZDEyNWQ4ZDRk",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY"
-      },
-      "artists": [
-        {
-          "name": "Locomia",
-          "url": "https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw"
-        }
-      ],
-      "duration_ms": 348960,
-      "name": "Locomia",
-      "url": "https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Autos, Moda Y Rock And Roll",
         "url": "https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 287373,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY"
+      },
+      "artists": [
+        {
+          "name": "Locomia",
+          "url": "https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw"
+        }
+      ],
+      "duration_ms": 348960,
+      "name": "Locomia",
+      "url": "https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi"
     },
     {
       "added_at": "2022-03-29 19:14:26",

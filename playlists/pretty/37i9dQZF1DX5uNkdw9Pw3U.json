@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 64454,
+  "num_followers": 64493,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDA1YTgxNDNmNzNmZTRmZWNlODhkZDBiNDMyMGIxYTY2OTQyOTdk",
+  "snapshot_id": "MCwzOWQ2MzhjMmIyYzI1MWQ3ZjkzYWI4MWNiY2VhOGJmZTk3ZTlhYmJm",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/4HUpIaMKPS0zPxMDl8P5fv"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
+        }
+      ],
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Don't Pretend",
         "url": "https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 188478,
       "name": "Holding the Gun",
       "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "New Spring",
-        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
-      },
-      "artists": [
-        {
-          "name": "KAPPEKOFF",
-          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
-        },
-        {
-          "name": "Stefanos Yowhannes",
-          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
-        }
-      ],
-      "duration_ms": 197099,
-      "name": "New Spring",
-      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 216837,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Land of Regrets",
-        "url": "https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx"
-      },
-      "artists": [
-        {
-          "name": "Alvah",
-          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
-        }
-      ],
-      "duration_ms": 204448,
-      "name": "Land of Regrets",
-      "url": "https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -1671,42 +1655,6 @@
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
-        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
-      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Booty",
-        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
-      },
-      "artists": [
-        {
-          "name": "Lil Halima",
-          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
-        },
-        {
-          "name": "Canto",
-          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1727,6 +1675,58 @@
       "duration_ms": 185371,
       "name": "Compromise (feat. Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Land of Regrets",
+        "url": "https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx"
+      },
+      "artists": [
+        {
+          "name": "Alvah",
+          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
+        }
+      ],
+      "duration_ms": 204448,
+      "name": "Land of Regrets",
+      "url": "https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
+        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
+      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Treat Me so Bad (feat. Beharie)",
+        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 171489,
+      "name": "Treat Me so Bad",
+      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
     }
   ],
   "unique_name": "Laid Back Beats",

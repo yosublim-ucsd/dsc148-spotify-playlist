@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633023,
+  "num_followers": 633008,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWFmMWEwNWY5ZTE4NjIxYjFjYzhiOTYwMTZhZjczNWUwMjE5Mjcx",
+  "snapshot_id": "MCw5Yzg2MjdiNTUxNmQ4OTE2NzZhMTYwYmFkMDMwOWViNzVlOTRhMzlj",
   "tracks": [
     {
       "added_at": "2023-06-02 15:58:17",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "A brand new day",
-        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Rise",
-          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
-        }
-      ],
-      "duration_ms": 175713,
-      "name": "A brand new day",
-      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Frozen Sunlight",
-        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
-      },
-      "artists": [
-        {
-          "name": "Sun Echo",
-          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
-        }
-      ],
-      "duration_ms": 210277,
-      "name": "Frozen Sunlight - Music Only",
-      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215235,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Frozen Sunlight",
+        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
+      },
+      "artists": [
+        {
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
+        }
+      ],
+      "duration_ms": 210277,
+      "name": "Frozen Sunlight - Music Only",
+      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
         }
       ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
       },
       "artists": [
         {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
         }
       ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     }
   ],
   "unique_name": "DayDreamer",

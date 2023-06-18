@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: ARTBAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,269 likes - 88 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,429 likes - 88 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 23 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 24 | [The Poet](https://open.spotify.com/track/17B0PtxroZPDipqeBCa85t) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [The Poet](https://open.spotify.com/album/2BRdmswRAFjmSvxRWX3lrc) | 5:29 |
 | 25 | [Laika](https://open.spotify.com/track/37D5hJpxoD9BiEs0A6X5Jm) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm), [Coramøøn](https://open.spotify.com/artist/60iBwuUfLjRYhAMEmL42dF) | [Laika](https://open.spotify.com/album/7wX02Yh1uqc30CW4U7y0wI) | 6:57 |
-| 26 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
+| 26 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
 | 27 | [Starz \- Original Mix](https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Déepalma Ibiza 2023 \- 10th Anniversary](https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs) | 6:17 |
 | 28 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
-| 29 | [Pieces \- Hidden Empire Remix](https://open.spotify.com/track/0n1vuhXT4N18E0XI4Ti2jA) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pieces \(Hidden Empire Remix\)](https://open.spotify.com/album/1rNB0qOC8FQuz8dKYMyTkQ) | 4:13 |
+| 29 | [Pieces \- Hidden Empire Remix](https://open.spotify.com/track/0n1vuhXT4N18E0XI4Ti2jA) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pieces \(Hidden Empire Remix\)](https://open.spotify.com/album/1rNB0qOC8FQuz8dKYMyTkQ) | 4:13 |
 | 30 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
 | 31 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 |
 | 32 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Pillars of Eternity](https://open.spotify.com/track/3eu66kYYZFybIvVjiaik88) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Pillars of Eternity](https://open.spotify.com/album/4NADip54gVKmdwHIbLXBt2) | 6:31 |
 | 88 | [Timeshift](https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW) | [Chloe Lula](https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx) | [Timeshift](https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP) | 4:29 |
 
-Snapshot ID: `MCxlNTk2NTYxYzZkN2QxNzZkOTQzZTI3NzIwZjQ2YjQ4MTJlY2U1N2E2`
+Snapshot ID: `MCxiMWY1OTUyZDI0NDljN2Q1YjFlM2QwZDA5YzY2ODkxNDJiYzU0ODc3`

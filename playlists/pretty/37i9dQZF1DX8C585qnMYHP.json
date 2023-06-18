@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Yama Warashi on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 108178,
+  "num_followers": 108207,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzI1NGFjZWY1Y2MzMDViODMzOTE0Mzk5ZWRmMDA4NzU4YWNkMWE4",
+  "snapshot_id": "MCw3NzRmOGQ2NzYyNzcyZjczYTQ3ZDc3YzJhYTNmYzYzZDhhOGJlMTg0",
   "tracks": [
     {
       "added_at": "2023-06-07 04:04:27",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/0ZX5GDnY4cmcLEtUmVd0GF"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "Blood Quantum",
-        "url": "https://open.spotify.com/album/0WKJqZUlLBA8rR1M8AvpIL"
-      },
-      "artists": [
-        {
-          "name": "Divide And Dissolve",
-          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Blood Quantum",
-      "url": "https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj"
-    },
-    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "The Candlelight Underneath Your Stars",
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Penetraci\u00f3n",
-        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
+        "name": "Blood Quantum",
+        "url": "https://open.spotify.com/album/0WKJqZUlLBA8rR1M8AvpIL"
       },
       "artists": [
         {
-          "name": "Isabel Do Diego",
-          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
+          "name": "Divide And Dissolve",
+          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Penetraci\u00f3n",
-      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
+      "duration_ms": 292573,
+      "name": "Blood Quantum",
+      "url": "https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -371,6 +355,22 @@
       "duration_ms": 376666,
       "name": "Digital Requiem",
       "url": "https://open.spotify.com/track/1YwbIMhNRGnmZus0kOMxyE"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Penetraci\u00f3n",
+        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
+      },
+      "artists": [
+        {
+          "name": "Isabel Do Diego",
+          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Penetraci\u00f3n",
+      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
       "added_at": "2023-04-05 14:48:06",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
-      },
-      "artists": [
-        {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
-        }
-      ],
-      "duration_ms": 365294,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Telescopic",
@@ -571,6 +555,22 @@
       "duration_ms": 267274,
       "name": "Telescopic",
       "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
+      },
+      "artists": [
+        {
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
+        }
+      ],
+      "duration_ms": 365294,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Songs for the Nervous System",
-        "url": "https://open.spotify.com/album/6IpmBV14U1lqJRUx0yuuvp"
-      },
-      "artists": [
-        {
-          "name": "AUTORHYTHM",
-          "url": "https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Doom Variations",
-      "url": "https://open.spotify.com/track/7tmTrHPf9ABDb5jxTvxNvj"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "Field Tapes In Der Trash",
         "url": "https://open.spotify.com/album/1ssthKo9vJdlfCx7zhflCB"
       },
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/3x6dDdGOKJaVmydP3RZV2E"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO"
+        "name": "Songs for the Nervous System",
+        "url": "https://open.spotify.com/album/6IpmBV14U1lqJRUx0yuuvp"
       },
       "artists": [
         {
-          "name": "MeSo",
-          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
+          "name": "AUTORHYTHM",
+          "url": "https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k"
         }
       ],
-      "duration_ms": 238434,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB"
+      "duration_ms": 224400,
+      "name": "Doom Variations",
+      "url": "https://open.spotify.com/track/7tmTrHPf9ABDb5jxTvxNvj"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -683,6 +667,22 @@
       "duration_ms": 153013,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/04yjZ1cCkeyBs0WAXVwbTF"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO"
+      },
+      "artists": [
+        {
+          "name": "MeSo",
+          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
+        }
+      ],
+      "duration_ms": 238434,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/5u1nUScq8ZOKzOFT61pQAr"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Last Life on Earth",
-        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
-      },
-      "artists": [
-        {
-          "name": "Dimming",
-          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Boundless Baby",
-      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
-    },
-    {
       "added_at": "2023-04-12 14:55:04",
       "album": {
         "name": "1800-PARASOL",
@@ -781,20 +765,20 @@
       "url": "https://open.spotify.com/track/34YfqnWvaGpbH4SE7zgohN"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+        "name": "Last Life on Earth",
+        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
       },
       "artists": [
         {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
         }
       ],
-      "duration_ms": 229516,
-      "name": "ultravoid",
-      "url": "https://open.spotify.com/track/4XtCKXGUib4poqNvfQTjoJ"
+      "duration_ms": 264266,
+      "name": "Boundless Baby",
+      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -811,6 +795,22 @@
       "duration_ms": 242253,
       "name": "Walvis",
       "url": "https://open.spotify.com/track/4p839l48UwEOpvgAxo1ueo"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "ultravoid",
+      "url": "https://open.spotify.com/track/4XtCKXGUib4poqNvfQTjoJ"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4"
     },
     {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "OXI Ambigan",
+        "url": "https://open.spotify.com/album/4uUL7GvJCrN1aKgV6xVslz"
+      },
+      "artists": [
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "duration_ms": 350120,
+      "name": "OXI Ambigan",
+      "url": "https://open.spotify.com/track/0I6p5V2zo7TSYmyi8AroOF"
+    },
+    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Tomorrows Unknown",
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "OXI Ambigan",
-        "url": "https://open.spotify.com/album/4uUL7GvJCrN1aKgV6xVslz"
+        "name": "The Cosmic Memoirs Of The Late Great Rupert J. Rosinthrope",
+        "url": "https://open.spotify.com/album/5S5RwhSDhxQFYqRCyiR7Q6"
       },
       "artists": [
         {
-          "name": "Yushh",
-          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+          "name": "Shifted Phases",
+          "url": "https://open.spotify.com/artist/2UzQKeFMlRdgmlcRAMrBbd"
         }
       ],
-      "duration_ms": 350120,
-      "name": "OXI Ambigan",
-      "url": "https://open.spotify.com/track/0I6p5V2zo7TSYmyi8AroOF"
+      "duration_ms": 382800,
+      "name": "Solar Wind",
+      "url": "https://open.spotify.com/track/6fgOFppcpVwu4673h4OlFu"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -973,20 +989,20 @@
       "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "The Cosmic Memoirs Of The Late Great Rupert J. Rosinthrope",
-        "url": "https://open.spotify.com/album/5S5RwhSDhxQFYqRCyiR7Q6"
+        "name": "Body Score EP",
+        "url": "https://open.spotify.com/album/6xYABhO1V8GhG0X3nNLIGj"
       },
       "artists": [
         {
-          "name": "Shifted Phases",
-          "url": "https://open.spotify.com/artist/2UzQKeFMlRdgmlcRAMrBbd"
+          "name": "Laksa",
+          "url": "https://open.spotify.com/artist/6SitppNJBatzwwW1cmuQ3q"
         }
       ],
-      "duration_ms": 382800,
-      "name": "Solar Wind",
-      "url": "https://open.spotify.com/track/6fgOFppcpVwu4673h4OlFu"
+      "duration_ms": 356148,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/1Znp5j2aRbxy8HsmtL3pMH"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Body Score EP",
-        "url": "https://open.spotify.com/album/6xYABhO1V8GhG0X3nNLIGj"
-      },
-      "artists": [
-        {
-          "name": "Laksa",
-          "url": "https://open.spotify.com/artist/6SitppNJBatzwwW1cmuQ3q"
-        }
-      ],
-      "duration_ms": 356148,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/1Znp5j2aRbxy8HsmtL3pMH"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/2SlbPrS0ZP8JNOikttSwvl"
       },
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "tromba d'aria",
-        "url": "https://open.spotify.com/album/1f51X3eaY2UgbOPirSMYlV"
-      },
-      "artists": [
-        {
-          "name": "Pa Blo",
-          "url": "https://open.spotify.com/artist/3W82aqFFhcY4UMvSa2xEHX"
-        }
-      ],
-      "duration_ms": 115844,
-      "name": "plusadea",
-      "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Why Not Now?",
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "I Hope Whatever Haunted You In This Life Is Silenced In the Next",
-        "url": "https://open.spotify.com/album/0wba7MMUQsZ5jLRfhHtb22"
-      },
-      "artists": [
-        {
-          "name": "To Be Gentle",
-          "url": "https://open.spotify.com/artist/6lhZIeQ5NXTQi2Ub6PtGnT"
-        }
-      ],
-      "duration_ms": 516000,
-      "name": "I Hope Whatever Haunted You In This Life Is Silenced In the Next",
-      "url": "https://open.spotify.com/track/4FOV0PYeUJ2uxrKysjZKsk"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "Festive Day",
         "url": "https://open.spotify.com/album/2bFJ8ZyrmQpbX7kcVS8oeI"
       },
@@ -1133,20 +1101,36 @@
       "url": "https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Until I'm Light",
-        "url": "https://open.spotify.com/album/6EdmJejASZ2HHVOs2NFanB"
+        "name": "tromba d'aria",
+        "url": "https://open.spotify.com/album/1f51X3eaY2UgbOPirSMYlV"
       },
       "artists": [
         {
-          "name": "Felt Out",
-          "url": "https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd"
+          "name": "Pa Blo",
+          "url": "https://open.spotify.com/artist/3W82aqFFhcY4UMvSa2xEHX"
         }
       ],
-      "duration_ms": 266295,
-      "name": "Edge",
-      "url": "https://open.spotify.com/track/2lGo0f6r89vi5vGMrnT64G"
+      "duration_ms": 115844,
+      "name": "plusadea",
+      "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "I Hope Whatever Haunted You In This Life Is Silenced In the Next",
+        "url": "https://open.spotify.com/album/0wba7MMUQsZ5jLRfhHtb22"
+      },
+      "artists": [
+        {
+          "name": "To Be Gentle",
+          "url": "https://open.spotify.com/artist/6lhZIeQ5NXTQi2Ub6PtGnT"
+        }
+      ],
+      "duration_ms": 516000,
+      "name": "I Hope Whatever Haunted You In This Life Is Silenced In the Next",
+      "url": "https://open.spotify.com/track/4FOV0PYeUJ2uxrKysjZKsk"
     },
     {
       "added_at": "2023-04-05 14:48:06",
@@ -1163,6 +1147,22 @@
       "duration_ms": 340839,
       "name": "al8",
       "url": "https://open.spotify.com/track/551kEgRlD41qyCNXvNWgQ0"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Until I'm Light",
+        "url": "https://open.spotify.com/album/6EdmJejASZ2HHVOs2NFanB"
+      },
+      "artists": [
+        {
+          "name": "Felt Out",
+          "url": "https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd"
+        }
+      ],
+      "duration_ms": 266295,
+      "name": "Edge",
+      "url": "https://open.spotify.com/track/2lGo0f6r89vi5vGMrnT64G"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "The Lost Art of Alchemy",
-        "url": "https://open.spotify.com/album/1ETrcmavTPN4Scb7eOe99q"
-      },
-      "artists": [
-        {
-          "name": "Hollowheart.",
-          "url": "https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Hohenheim",
-      "url": "https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D"
-    },
-    {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
         "name": "Beginning Of Light EP",
         "url": "https://open.spotify.com/album/57Ew0lrg32nZ2vQwnFcNCo"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 381375,
       "name": "Century Of Light - Original",
       "url": "https://open.spotify.com/track/1gzlbp5N0WXiFpyUN6o9yp"
+    },
+    {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "The Lost Art of Alchemy",
+        "url": "https://open.spotify.com/album/1ETrcmavTPN4Scb7eOe99q"
+      },
+      "artists": [
+        {
+          "name": "Hollowheart.",
+          "url": "https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Hohenheim",
+      "url": "https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/1gH5SBhS98bidrGo13gojP"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "Brilla",
-        "url": "https://open.spotify.com/album/623E6rKk3eE10G41w99V3U"
+        "name": "HOIA BACIU",
+        "url": "https://open.spotify.com/album/6Eza4RXG4E2SBaivt3jOY8"
       },
       "artists": [
         {
-          "name": "So Beast",
-          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
+          "name": "Nemy",
+          "url": "https://open.spotify.com/artist/1ezekkFgjUl2KCuH77dtAx"
         }
       ],
-      "duration_ms": 254253,
-      "name": "DARK",
-      "url": "https://open.spotify.com/track/3ErVJHF0CoceG6jNpucblR"
+      "duration_ms": 230264,
+      "name": "Hoia Baciu",
+      "url": "https://open.spotify.com/track/1DntDGq1JGQyRNbNKd4iCj"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1293,36 +1293,20 @@
       "url": "https://open.spotify.com/track/0iYtWrXwYf26zBDDS23TD3"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
+      "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "HOIA BACIU",
-        "url": "https://open.spotify.com/album/6Eza4RXG4E2SBaivt3jOY8"
+        "name": "Brilla",
+        "url": "https://open.spotify.com/album/623E6rKk3eE10G41w99V3U"
       },
       "artists": [
         {
-          "name": "Nemy",
-          "url": "https://open.spotify.com/artist/1ezekkFgjUl2KCuH77dtAx"
+          "name": "So Beast",
+          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
         }
       ],
-      "duration_ms": 230264,
-      "name": "Hoia Baciu",
-      "url": "https://open.spotify.com/track/1DntDGq1JGQyRNbNKd4iCj"
-    },
-    {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "as we once were",
-        "url": "https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q"
-      },
-      "artists": [
-        {
-          "name": "Inflake",
-          "url": "https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs"
-        }
-      ],
-      "duration_ms": 156625,
-      "name": "Soundtrack to a Life",
-      "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
+      "duration_ms": 254253,
+      "name": "DARK",
+      "url": "https://open.spotify.com/track/3ErVJHF0CoceG6jNpucblR"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1339,6 +1323,22 @@
       "duration_ms": 827325,
       "name": "Portrait in Violet",
       "url": "https://open.spotify.com/track/2IIA0q9fPM5yn5W4nRe6Xb"
+    },
+    {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "as we once were",
+        "url": "https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q"
+      },
+      "artists": [
+        {
+          "name": "Inflake",
+          "url": "https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Soundtrack to a Life",
+      "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/4XI2kOrj1rHEO3GBjEkObS"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "Lone Memory",
-        "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
-      },
-      "artists": [
-        {
-          "name": "C O N T X T",
-          "url": "https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW"
-        }
-      ],
-      "duration_ms": 279375,
-      "name": "Eternal Whisper",
-      "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
-    },
-    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "False Dawn",
@@ -1421,20 +1405,20 @@
       "url": "https://open.spotify.com/track/28KDQ7ENkgRytD9eErP62Z"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Breep",
-        "url": "https://open.spotify.com/album/0Itjb7lMhhhR74k6FDyr9m"
+        "name": "Lone Memory",
+        "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
       },
       "artists": [
         {
-          "name": "Apste",
-          "url": "https://open.spotify.com/artist/4YVgHa3mTV06JMKt0VAPp0"
+          "name": "C O N T X T",
+          "url": "https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW"
         }
       ],
-      "duration_ms": 394491,
-      "name": "Breep",
-      "url": "https://open.spotify.com/track/0J2qW42ZQ3oaF0a0yULxAn"
+      "duration_ms": 279375,
+      "name": "Eternal Whisper",
+      "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1453,6 +1437,22 @@
       "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
     },
     {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "Breep",
+        "url": "https://open.spotify.com/album/0Itjb7lMhhhR74k6FDyr9m"
+      },
+      "artists": [
+        {
+          "name": "Apste",
+          "url": "https://open.spotify.com/artist/4YVgHa3mTV06JMKt0VAPp0"
+        }
+      ],
+      "duration_ms": 394491,
+      "name": "Breep",
+      "url": "https://open.spotify.com/track/0J2qW42ZQ3oaF0a0yULxAn"
+    },
+    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Paris",
@@ -1467,6 +1467,22 @@
       "duration_ms": 206428,
       "name": "Second Attempt",
       "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Broken to Echoes",
+        "url": "https://open.spotify.com/album/5uYNxqBCgg7QTsjQr1ek1E"
+      },
+      "artists": [
+        {
+          "name": "Chantal Michelle",
+          "url": "https://open.spotify.com/artist/0mK9sFyrguHYMEYZHZVp6M"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "For Dissolving",
+      "url": "https://open.spotify.com/track/6g9OGsqOmImspzSSSMtJjy"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1519,22 +1535,6 @@
       "duration_ms": 342608,
       "name": "All The Sad And Loving People - Single Version",
       "url": "https://open.spotify.com/track/1DHKUxf15ms7MEXfAmbzAx"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Broken to Echoes",
-        "url": "https://open.spotify.com/album/5uYNxqBCgg7QTsjQr1ek1E"
-      },
-      "artists": [
-        {
-          "name": "Chantal Michelle",
-          "url": "https://open.spotify.com/artist/0mK9sFyrguHYMEYZHZVp6M"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "For Dissolving",
-      "url": "https://open.spotify.com/track/6g9OGsqOmImspzSSSMtJjy"
     },
     {
       "added_at": "2023-05-17 15:25:53",

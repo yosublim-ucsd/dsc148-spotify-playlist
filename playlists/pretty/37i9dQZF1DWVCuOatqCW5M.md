@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Amaal Mallik & Vayu's 'Mohabbat'
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,339 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mohabbat](https://open.spotify.com/track/25uN6X9UdP4bDx7gQl7nyE) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Mohabbat](https://open.spotify.com/album/1Mc8bsnCxyxbEDYUCNlVX8) | 3:47 |
+| 1 | [Mohabbat](https://open.spotify.com/track/25uN6X9UdP4bDx7gQl7nyE) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Mohabbat](https://open.spotify.com/album/1Mc8bsnCxyxbEDYUCNlVX8) | 3:47 |
 | 2 | [Barsaat Aa Gayi](https://open.spotify.com/track/1JBm3IDx7yiXnB4LrnQ7k5) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Barsaat Aa Gayi](https://open.spotify.com/album/2UhvMG2lTLXYnmNZAfukNo) | 3:40 |
 | 3 | [Deewani](https://open.spotify.com/track/1pDvtLmrjzr5FSQItRLWxA) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Deewani](https://open.spotify.com/album/4gRgJLrR888KFtXndMZwox) | 2:54 |
 | 4 | [Hai Tu \(From "I Love You"\)](https://open.spotify.com/track/084PIRH0NG14m5z8p27Uon) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [Hai Tu \(From "I Love You"\)](https://open.spotify.com/album/5uTF3kFVCqFeB6e23epEY5) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Ghoomey \(From "8 A.M\. Metro"\)](https://open.spotify.com/track/6L6qRxj0uuxcUICSUiMRgl) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Manoj Juloori](https://open.spotify.com/artist/4RHf5dGYBz9vxjObYVsVJv) | [Ghoomey \(From "8 A.M\. Metro"\)](https://open.spotify.com/album/2vKxaqx2AeXSHeMtm69Kql) | 3:45 |
 | 50 | [HIIR](https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Kimera](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF) | [HIIR](https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ) | 2:43 |
 
-Snapshot ID: `MCw4ZmNhMDU2NjA4NWUwOTkyYWMwNzQ3MWY0OWY4ZmViYjBhYzhkNjUw`
+Snapshot ID: `MCw2ZTdhMDM3ZGU2MzgxNDE3MmZmZTM3ODNlMzMwNWViMTEyNWFjNWYw`

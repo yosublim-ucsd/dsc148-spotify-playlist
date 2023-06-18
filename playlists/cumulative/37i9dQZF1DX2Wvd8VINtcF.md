@@ -4,7 +4,7 @@
 
 > the pearls of an oyster
 
-630 songs - 1 day 10 hr 52 min
+631 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Burns](https://open.spotify.com/track/5ze8DITDe8DQ8oS4MLoUtU) | [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Burns](https://open.spotify.com/album/0VCCrFF3DHUNcjwA9k2K6u) | 2:48 | 2022-11-24 | 2022-12-24 |
 | [Buyer's Remorse \(feat\. Omar Apollo\)](https://open.spotify.com/track/3fHwrZ7pLD4cykAj3n9Lc1) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:32 | 2023-04-06 | 2023-05-26 |
 | [Café Spaghetti](https://open.spotify.com/track/1H0BKsQ5aaI2isU5fO4rLD) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Velvet Pony Trax 11 part 2](https://open.spotify.com/album/57LrCAUpy9Ug6EyQ6YrqSE) | 9:56 | 2022-12-15 | 2023-01-20 |
+| [Can't Get Enough](https://open.spotify.com/track/7GtZ2ht8C9DsSaliEEHyQL) | [Dante](https://open.spotify.com/artist/6pLczwiw7MRvvstnzGrp7A) | [Easy Water](https://open.spotify.com/album/7xWN9UqfwENUakkXrhudhD) | 2:24 | 2023-06-17 |  |
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-11-18 |
 | [Can't Stop Me](https://open.spotify.com/track/19WXgURSdoxJUf7pKZPw1X) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Can't Stop Me](https://open.spotify.com/album/39f2dYxMUkGhJqDsfoRMvQ) | 3:19 | 2022-12-01 | 2022-12-24 |
 | [Can't Tame Her \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/55MRmcpfl4J09kfuvXWfW1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Can't Tame Her \(DJ Smallz 732 Jersey Club Remix\)](https://open.spotify.com/album/3uBceis1Eppr25zMURrFZb) | 2:30 | 2023-04-06 | 2023-04-14 |

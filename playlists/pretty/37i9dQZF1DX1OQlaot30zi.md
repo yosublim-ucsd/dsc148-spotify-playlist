@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savag, Vegas Jones e e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,057 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,082 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Massafghanistan](https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf) | 2:32 |
 | 2 | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/track/2zTinVySfLkAcuITgqbtPW) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Obladi Oblada \(feat\. Ghali, thasup & Fabri Fibra\)](https://open.spotify.com/album/6Eq4kUs1PvPt1x0qxQJ6gZ) | 3:21 |
-| 3 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
+| 3 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 | 4 | [Il mio dawg](https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Il mio dawg](https://open.spotify.com/album/2SzZuyYZGp87OgalWyJHsb) | 2:22 |
 | 5 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 |
 | 6 | [MON LOVE OHO \(feat\. Icy Subzero\) \[Italian Remix\]](https://open.spotify.com/track/66uvBUDAVJM2RcJDS0Z4XE) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MON LOVE OHO \(feat\. Icy Subzero\) \[Italian Remix\]](https://open.spotify.com/album/05l8KatG6SlZrnFXM67Ma4) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/track/1QqlaHGqCmHVHHBPkiNRqg) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr), [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R) | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/album/7wKKzRqUzBRh6rFQtaeswy) | 3:32 |
 | 80 | [Piano di Fuga](https://open.spotify.com/track/3EzWzZR1J1KP0ZDTDBR0l6) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Piano di Fuga](https://open.spotify.com/album/3aPAkN5q9b1sEo4LxTAHLR) | 2:18 |
 
-Snapshot ID: `MCwyNTViNTNlNWZlNjViMjBmNjdmNjRjMDM1NmZhZWI4ZmNmMzlhNjgy`
+Snapshot ID: `MCw2ZTI4MjA0MTIwYTE3Yzk4NDg3MmY1OWNjYWMyYjkxNGUwNzFlZGRh`

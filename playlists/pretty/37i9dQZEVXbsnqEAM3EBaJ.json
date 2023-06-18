@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDA3MzMxNWY5M2EzMzA3ZWUxOTMzMWU4OTcwOGMyMjBjMQ==",
+  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDAwMGYyOTRmMTJhOGQyMzE5NDUxMTA1Y2M3Y2YzYzQ0MA==",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -159,22 +159,6 @@
       "duration_ms": 385052,
       "name": "I Think About You Daily",
       "url": "https://open.spotify.com/track/5FEvmd6D7RNHkAbBHdy3wV"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace (15th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZvLzeszidFikHrWgsaWXf"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 337760,
-      "name": "Hammerhead - Live At Hellfest 2022",
-      "url": "https://open.spotify.com/track/60KWofPwiHxnopbv834Qo4"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -447,6 +431,22 @@
       "duration_ms": 253573,
       "name": "THE MASK",
       "url": "https://open.spotify.com/track/1YUW55GXf7MgjuZL53cm5r"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Road to Joy (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/6coGXkjr3LDx4ZqYFJcrSE"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 321064,
+      "name": "Road to Joy - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/226A9Lc8S0U701uxHZJgkI"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -977,7 +977,7 @@
         }
       ],
       "duration_ms": 326813,
-      "name": "Badlands - Live at Capitol Theatre, Passaic, NJ - Sep. 19, 1978",
+      "name": "Badlands - Live at Capitol Theatre, Passaic, NJ - 9/19/1978",
       "url": "https://open.spotify.com/track/3ATwNopieLhHvem7FEW7C4"
     },
     {
@@ -995,6 +995,34 @@
       "duration_ms": 143440,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1063,8 +1091,8 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Wintry Heart",
-        "url": "https://open.spotify.com/album/6g9lJt5A576k7xT7AGKvKX"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6mcf4AWNm0DG0vR0RAWkNN"
       },
       "artists": [
         {
@@ -1072,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Wintry Heart",
-      "url": "https://open.spotify.com/track/4MNqPm5ue0peQNiPlWpbG6"
+      "duration_ms": 266786,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/7EcsxqSLkDD1BbOjUBQuIq"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1163,246 +1191,6 @@
       "duration_ms": 329689,
       "name": "Somos el presente",
       "url": "https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "Wake The Dead",
-      "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Drastic Symphonies",
-        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Emm Gryner",
-          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        },
-        {
-          "name": "Ian Maclay",
-          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
-        }
-      ],
-      "duration_ms": 326718,
-      "name": "Pour Some Sugar On Me",
-      "url": "https://open.spotify.com/track/0VdBxLmYD7dN7SOZZ4TEoO"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Mirror To The Sky",
-        "url": "https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Circles of Time",
-      "url": "https://open.spotify.com/track/7ss9jndV1RjZKgD5r1pczG"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Carteo",
-        "url": "https://open.spotify.com/album/3tBKlMlb4v5omPj9jZfXjO"
-      },
-      "artists": [
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Drumtomski",
-          "url": "https://open.spotify.com/artist/23nHfPBinQagZQCUXaMfnP"
-        },
-        {
-          "name": "MF Eistee",
-          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Carteo",
-      "url": "https://open.spotify.com/track/1TZhXgVbwVmPDFBTIhxkzH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Na' Es Pa' Siempre",
-        "url": "https://open.spotify.com/album/3JSBb5G6v2CgUUdeD2Bm5Y"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Na' Es Pa' Siempre",
-      "url": "https://open.spotify.com/track/4af5d05U6nFtt6geyfcT1n"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Riders On The Storm",
-        "url": "https://open.spotify.com/album/2cvwu3N5we9ShQ6xiU0LjX"
-      },
-      "artists": [
-        {
-          "name": "Maggie Declan",
-          "url": "https://open.spotify.com/artist/2jDamBH3LPH8p5vigMiQwh"
-        },
-        {
-          "name": "LM.ORG",
-          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        }
-      ],
-      "duration_ms": 380811,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/5sMu4Fd9ToffxuHLQWMkGH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Four Kinds of Horses (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/46ccwoyj78k8Ewopu2IbQN"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 404226,
-      "name": "Four Kinds of Horses - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/66TRWkNGr2krTV5MJMlGj7"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Cualquier Cosa Es Papel",
-        "url": "https://open.spotify.com/album/0VW20XBrQ1Wsm6frdSOif9"
-      },
-      "artists": [
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Gonem Beats",
-          "url": "https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ"
-        },
-        {
-          "name": "Jesteinritmos",
-          "url": "https://open.spotify.com/artist/3ui11f5hyaFWgBjEkZxDak"
-        }
-      ],
-      "duration_ms": 195434,
-      "name": "Cualquier Cosa Es Papel",
-      "url": "https://open.spotify.com/track/6mGzZ8mMH16OKMDDDD2S5w"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing - Live at The Glasshouse",
-        "url": "https://open.spotify.com/album/2EMn2sD1Qnf6iPRELL9CSA"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 220579,
-      "name": "Knights of the Round - Live at The Glasshouse",
-      "url": "https://open.spotify.com/track/0hAMrYf7OZCHokXW4velyX"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",
