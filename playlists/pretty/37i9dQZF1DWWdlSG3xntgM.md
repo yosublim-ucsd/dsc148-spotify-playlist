@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,569 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,581 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 47 | [Chút Kỉ Niệm Buồn](https://open.spotify.com/track/6kRCFicTfpHrOm8lcuKqQY) | [Khả Tú](https://open.spotify.com/artist/4icTNm7NAspqaHEg3sOQ92) | [Chút Kỉ Niệm Buồn](https://open.spotify.com/album/2x2YbZlQGxPoDzZ89nNdM0) | 4:59 |
 | 48 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
 | 49 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 |
-| 50 | [Dấu Chân Kỷ Niệm](https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Dấu Chân Kỷ Niệm](https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph) | 6:13 |
+| 50 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Điệu Buồn Lục Tỉnh](https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr) | 4:47 |
 
-Snapshot ID: `MCxiNGYyMDQzYjgyZWVhMmQ0NTE4NmQ0NmQzM2IyOWVjOTdmYmQ1OTUy`
+Snapshot ID: `MCxiZGYxZjM5MGRiZTg1Nzg4ODNhYmFhMjgyYjQyMzkyOGZhYmMyZjhl`

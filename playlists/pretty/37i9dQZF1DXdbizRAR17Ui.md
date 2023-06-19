@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,396 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,446 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
 | 2 | [home \(feat\. Kehina\)](https://open.spotify.com/track/6zNlb6YYsRHjIHBTNzoQ4X) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [far too long](https://open.spotify.com/album/1fB7b72MXdkf1mT0ZZKCvd) | 2:53 |
 | 3 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 |
-| 4 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
-| 5 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
+| 4 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
+| 5 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 6 | [Desire](https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN) | 1:48 |
 | 7 | [f1 racer \(ft\. KUČKA\)](https://open.spotify.com/track/52Pyhmuoxg9LmxO6L4qnsA) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 2:26 |
 | 8 | [Feels](https://open.spotify.com/track/1u9aqACXHthMkgw9atSiLR) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Feels](https://open.spotify.com/album/1A4mtUT5oyEEUFYR7RPb0y) | 2:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 47 | [A Brand New Start](https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 2:35 |
 | 48 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
 | 49 | [Late Nights](https://open.spotify.com/track/2NWW0Y8DSLJyXN3NzjSnLh) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Late Nights](https://open.spotify.com/album/6SOPHFF7NQR6x5FguplrrL) | 2:58 |
-| 50 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
+| 50 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 
-Snapshot ID: `MCxhYmVkZDM2YTA2NjMyNGM3MjgwNmEwYjY0ZjI1MjEwOTRhMTdiNDFh`
+Snapshot ID: `MCxjODlhZDJkMjliMWIyOTVjY2JhZDk2YzlmNDA4YzBiYjZhZmY1ZWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,361 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,421 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 21 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 |
 | 22 | [Rise to Ashes](https://open.spotify.com/track/79ZAX8dFqBW4PxMlaqHZtN) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:03 |
 | 23 | [Senzu Beans](https://open.spotify.com/track/0DMYvAkliivrzUOOyTR2G0) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np), [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD) | [Dragonball Wave II](https://open.spotify.com/album/3XohsFcMxMN44U25fqTqF4) | 2:19 |
-| 24 | [Squaz](https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Brainfeeder X](https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4) | 5:35 |
-| 25 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
-| 26 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
-| 27 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
+| 24 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
+| 25 | [Squaz](https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Brainfeeder X](https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4) | 5:35 |
+| 26 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
+| 27 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
 | 28 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
 | 29 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 30 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
 | 31 | [Valve](https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:24 |
-| 32 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
-| 33 | [Urban Myth](https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Urban Myth](https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt) | 4:13 |
+| 32 | [Urban Myth](https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Urban Myth](https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt) | 4:13 |
+| 33 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
 | 34 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 |
 | 35 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
 | 36 | [Low](https://open.spotify.com/track/2nJ5KcsR3jDf4XKB2nSlTi) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Donne che Corrono coi Lupi](https://open.spotify.com/album/0hMOgkYpG0Koyu4turzyQ1) | 1:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCxmNmNhOWRiNjc4OGYyZTY0MGNmNGQxZGM0OTgwNzRhNzdkYjRiMjY2`
+Snapshot ID: `MCwyYmViNGM4ZDExMDNmNDQzZmM3ODkzZWJiMzIwY2MxMDY5Njg4YzJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Jeangu Macrooy
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,563 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,628 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 35 | [Mister Right on Time](https://open.spotify.com/track/6S8kMyXvoObx7Eoiw7W6S8) | [Alexis Evans](https://open.spotify.com/artist/1aThYS3aYrPrZWjgtZFhKp) | [Yours Truly](https://open.spotify.com/album/7Dxskns0C1Z3jizDl95R2Y) | 4:27 |
 | 36 | [When the Mask Comes Off](https://open.spotify.com/track/1x5s8V3Ap66zASK4fIFqwu) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h), [Das Pap](https://open.spotify.com/artist/5J22w8sQKDpPfnNlAlFm9K), [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ) | [What's Trending](https://open.spotify.com/album/6LQPy6YPlTKEgimOeUACAT) | 3:58 |
 | 37 | [The Shape You're In](https://open.spotify.com/track/1BJxmRt9saJHarR5ccoHAj) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Shape You're In](https://open.spotify.com/album/7hbu9HtrZzjg0WicqnlzxN) | 3:47 |
-| 38 | [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 |
+| 38 | [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 |
 | 39 | [Trouble](https://open.spotify.com/track/0KxTUGzVVI2HOrYO0hwK7y) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Bad Behaviour](https://open.spotify.com/album/6KKXC69rkVFOnVYEi9SnUB) | 3:17 |
 | 40 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 |
 | 41 | [Blue](https://open.spotify.com/track/2HeDQrgYa1R4GnrafYKAQJ) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Blue](https://open.spotify.com/album/1Lyz1X6RH1AeazHdcwId6n) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 74 | [Cherry](https://open.spotify.com/track/3ad5YheJ9rMdtQ6tjxWocI) | [James Sayer](https://open.spotify.com/artist/4gWPNRRA0vYlPxujZsFsKF) | [Cherry](https://open.spotify.com/album/2SE1UCUYgJkW2qdMEGO7wZ) | 2:53 |
 | 75 | [The Farmer](https://open.spotify.com/track/6E6BLeqT0pttSDS4OqP7e0) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [The Farmer](https://open.spotify.com/album/0x0EdZcQ8yFFD10KowmQSQ) | 3:17 |
 
-Snapshot ID: `MCxhZThhOTZmYTc5YjY0ZDU5NDY5ZDA0ZDIxNzAyNzYyOTI1MDA4MzQ4`
+Snapshot ID: `MCw0NjMyZGRiM2EwYmFlMWQ4MDExMGVlODFmN2M4ZjJkNzkyZTU0ZmI0`

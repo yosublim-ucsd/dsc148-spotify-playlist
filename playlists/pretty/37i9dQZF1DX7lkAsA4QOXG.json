@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 104271,
+  "num_followers": 104398,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmM4MzVmNzlhMzg5YjMxYTAzOTJiYWNlYzI4OTVhZjlkYzFkN2E2",
+  "snapshot_id": "MCwyMGQ3NzY0Yjg5ZTg5YzQ3ZmZkY2ExNTIxMjAwNWUwY2JhMWVhNTIy",
   "tracks": [
     {
       "added_at": "2023-06-14 08:18:22",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "Pointless Nostalgic (Remastered)",
         "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 294364,
       "name": "High And Dry - Remastered",
       "url": "https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
       "artists": [
         {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 179198,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
+      "duration_ms": 216120,
+      "name": "Wind Cries Mary",
+      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -759,22 +759,6 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Wind Cries Mary",
-      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -807,6 +791,22 @@
       "duration_ms": 345706,
       "name": "Diamonds And Pearls",
       "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 179198,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 328192,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 232253,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "The End Of A Summer",
         "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 245306,
       "name": "Kiss From A Rose",
       "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
+        "name": "In My Element",
+        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 523613,
+      "name": "Maiden Voyage / Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
         "name": "Here, There and Everywhere",
         "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "In My Element",
-        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 523613,
-      "name": "Maiden Voyage / Everything In Its Right Place",
-      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "All I Do",
         "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 280535,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 458160,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 356026,
       "name": "She's Leaving Home",
       "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 458160,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "My Working Class Hero",
-        "url": "https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf"
-      },
-      "artists": [
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 282235,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "My Working Class Hero",
+        "url": "https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf"
+      },
+      "artists": [
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 282235,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "Blacknuss",
         "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 148800,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "Tears in Heaven",
         "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 233625,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 252680,
       "name": "Hey, That's No Way To Say Goodbye",
       "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2247,6 +2247,26 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
       },
@@ -2267,26 +2287,6 @@
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2327,6 +2327,26 @@
       "duration_ms": 225335,
       "name": "Exile",
       "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "River Man (feat. Sara Caswell)",
+        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
+      },
+      "artists": [
+        {
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "duration_ms": 538160,
+      "name": "River Man (feat. Sara Caswell)",
+      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2375,26 +2395,6 @@
       "duration_ms": 261853,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "River Man (feat. Sara Caswell)",
-        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
-      },
-      "artists": [
-        {
-          "name": "Dave Stryker",
-          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 538160,
-      "name": "River Man (feat. Sara Caswell)",
-      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
-        "name": "Ships With Tattooed Sails",
-        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
-      },
-      "artists": [
-        {
-          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
-          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
-        }
-      ],
-      "duration_ms": 390613,
-      "name": "It's Alright Ma (I'm Only Bleeding)",
-      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
         "name": "A Day In The Life: Impressions Of Pepper",
         "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 289653,
       "name": "A Day In The Life",
       "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
+        "name": "Ships With Tattooed Sails",
+        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
+      },
+      "artists": [
+        {
+          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
+          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
+        }
+      ],
+      "duration_ms": 390613,
+      "name": "It's Alright Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
     },
     {
       "added_at": "2023-06-14 08:18:22",
@@ -2591,6 +2591,30 @@
     {
       "added_at": "2023-06-14 08:18:22",
       "album": {
+        "name": "Wille",
+        "url": "https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK"
+      },
+      "artists": [
+        {
+          "name": "Vincent Meissner",
+          "url": "https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL"
+        },
+        {
+          "name": "Josef Zeimetz",
+          "url": "https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca"
+        },
+        {
+          "name": "Henri Reichmann",
+          "url": "https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0vHHA2NGykToUDhiKyB7wF"
+    },
+    {
+      "added_at": "2023-06-14 08:18:22",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO"
       },
@@ -2619,30 +2643,6 @@
       "duration_ms": 552186,
       "name": "Masters Of War",
       "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
-    },
-    {
-      "added_at": "2023-06-14 08:18:22",
-      "album": {
-        "name": "Wille",
-        "url": "https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK"
-      },
-      "artists": [
-        {
-          "name": "Vincent Meissner",
-          "url": "https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL"
-        },
-        {
-          "name": "Josef Zeimetz",
-          "url": "https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca"
-        },
-        {
-          "name": "Henri Reichmann",
-          "url": "https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0vHHA2NGykToUDhiKyB7wF"
     },
     {
       "added_at": "2023-06-14 08:18:22",

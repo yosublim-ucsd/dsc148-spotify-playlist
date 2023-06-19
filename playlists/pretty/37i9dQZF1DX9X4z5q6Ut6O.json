@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 104785,
+  "num_followers": 104832,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTJhNTYwYjQ5YzdmODMzMWI4NDc3ZjNhZjJiMzdhMTQyNDdjYTg5",
+  "snapshot_id": "MCw0Y2Y4MDdhNGQ1MWMwNDExZjI4ODZiZjNiMjkyYzhkOWRkOWNkYTIw",
   "tracks": [
     {
       "added_at": "2022-12-30 20:38:46",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
+        "name": "Te Presumo",
+        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Te Presumo",
+      "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 150413,
       "name": "Recuerda",
       "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
-        "name": "Acurrucar",
-        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 178700,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -807,34 +807,18 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+        "name": "Acurrucar",
+        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Te Presumo",
-      "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
-        "name": "Y Cambi\u00f3 Mi Suerte",
-        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 185637,
-      "name": "Y Cambi\u00f3 Mi Suerte",
-      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
+      "duration_ms": 178700,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -851,6 +835,22 @@
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Y Cambi\u00f3 Mi Suerte",
+        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 185637,
+      "name": "Y Cambi\u00f3 Mi Suerte",
+      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Todo Va Estar Bien",
-        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 176403,
-      "name": "El Lujo de Tenerte",
-      "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Todo Va Estar Bien",
+        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 176403,
+      "name": "El Lujo de Tenerte",
+      "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Locamente Enamorado",
-        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
+        "name": "Caminando",
+        "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 217495,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
+      "duration_ms": 169000,
+      "name": "La Magia de Tus Ojos",
+      "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
     }
   ],
   "unique_name": "Mi Raz\u00f3n de Ser",

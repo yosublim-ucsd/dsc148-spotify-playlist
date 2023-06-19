@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 524 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 102 | [Pohai Ke Aloha](https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m) | [Eco Friendly](https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ) | [Pohai Ke Aloha](https://open.spotify.com/album/190yIgaoivhzltuOLMzszR) | 2:58 |
 | 103 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 
-Snapshot ID: `MCwxMTQ2NjQ5ZjMwOWUwMTYyNzc3ZjZmOWY5MDc2YmViODNlMmVkMDhm`
+Snapshot ID: `MCw3NjNhZjFjNmE2ZTVkODJjYmQ3MTY4NGMzNmU4ODA2ZDc3ZmYyYTIy`

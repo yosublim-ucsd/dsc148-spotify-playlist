@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 13 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 |
 | 14 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
 | 15 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
-| 16 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
-| 17 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
+| 16 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
+| 17 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
 | 18 | [It's Ok I Wouldn't Remember Me Either](https://open.spotify.com/track/4qvHA882fJyA5XhMF8sDhy) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Narcissist on the Verge of a Nervous Breakdown](https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345) | 3:04 |
 | 19 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |
 | 20 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 49 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
 | 50 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
 
-Snapshot ID: `MCw1ZjIyNmFlYWI2MmU1YTk1MjZkZmZhZmM4ZjMzOTczNTJjN2Q1Y2Jm`
+Snapshot ID: `MCwwYmVlNjRmMTRmMDdlZjVlOTg4NGVhYjMyNmU3OWMyNWEzZTAxZGMw`

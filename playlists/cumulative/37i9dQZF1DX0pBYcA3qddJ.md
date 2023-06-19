@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-456 songs - 1 day 6 hr 30 min
+457 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Burden of Proof](https://open.spotify.com/track/2Gb79176OYCC8lbLtC5L1o) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Burden Of Proof \- \(Opening Titles/Interrogation\)](https://open.spotify.com/album/6zWpQCSCFj30HykptrIlfZ) | 3:01 | 2023-06-06 | 2023-06-14 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-26 |  |
 | [By Night](https://open.spotify.com/track/4Hmg3T2TbcDfdOtj46dlqW) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [88 Keys](https://open.spotify.com/album/2TayNgXuzr6cjgzZ885R0g) | 1:40 | 2023-03-23 | 2023-04-19 |
-| [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 | 2022-12-08 |  |
+| [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 | 2022-12-08 | 2023-06-19 |
 | [Candles](https://open.spotify.com/track/2bOalGfLHderIlSLeoc1TY) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Candles](https://open.spotify.com/album/7iRMIJJv9NsGfvyYGbgobi) | 3:57 | 2022-12-01 | 2023-02-08 |
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-23 |  |
 | [Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. Garrett / van der Heijden for Violin and Orchestra\)](https://open.spotify.com/track/4qBwsjfScPpu30PThVCRok) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw), [Orchestra the Prezent](https://open.spotify.com/artist/25y9UwLKC3bZJFNkHRdUzZ) | [ICONIC](https://open.spotify.com/album/4C8R1bI6fnZP81pWn8bpaS) | 2:46 | 2022-11-03 | 2023-02-01 |
@@ -136,6 +136,7 @@
 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 | 2022-10-20 | 2022-12-02 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-04-19 |
 | [Gnossiennes No.1](https://open.spotify.com/track/21xgZ4HM2fPswMVvVahr2D) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love](https://open.spotify.com/album/2Ape8tfPX4BpDqFyy2OGyU) | 3:26 | 2023-05-16 |  |
+| [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-10-20 | 2023-04-19 |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-26 |
 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 | 2022-10-20 |  |

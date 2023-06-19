@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Rayi Putra, Kaleb J",
-  "num_followers": 12009,
+  "num_followers": 12032,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTdkZGI5MTVjMmNkODA2OWQ3OGIyMmRjNjQ1NTk4NTM2Yzk4MjU0",
+  "snapshot_id": "MCxlNTQwMTU4Mjc2OGZiMWY2OTIyODczOWY2ZjAwNGUyZTNjYTc1YjNi",
   "tracks": [
     {
       "added_at": "2023-06-15 17:25:56",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+        "name": "Biar Menjadi Kenangan",
+        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
         }
       ],
-      "duration_ms": 248471,
-      "name": "Untukmu Aku Bertahan",
-      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
+      "duration_ms": 313382,
+      "name": "Biar Menjadi Kenangan",
+      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "Biar Menjadi Kenangan",
-        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        },
-        {
-          "name": "Ahmad Dhani",
-          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 313382,
-      "name": "Biar Menjadi Kenangan",
-      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
+      "duration_ms": 248471,
+      "name": "Untukmu Aku Bertahan",
+      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2023-06-15 17:25:56",
-      "album": {
         "name": "HOME IS WHO YOU ARE",
         "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 179693,
       "name": "Kubahagia",
       "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
+    },
+    {
+      "added_at": "2023-06-15 17:25:56",
+      "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2023-06-15 17:25:56",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-06-15 17:25:56",
       "album": {
+        "name": "Kisah Yang Salah",
+        "url": "https://open.spotify.com/album/3WoEs19wtAmQX9kNlBANZL"
+      },
+      "artists": [
+        {
+          "name": "The Bakuucakar",
+          "url": "https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs"
+        },
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        }
+      ],
+      "duration_ms": 234694,
+      "name": "Kisah Yang Salah",
+      "url": "https://open.spotify.com/track/5xVjOWNOODhSS1Ot1oWnHI"
+    },
+    {
+      "added_at": "2023-06-15 17:25:56",
+      "album": {
         "name": "Dancing In September",
         "url": "https://open.spotify.com/album/5wOgkWFVu8su1tW6135VQ5"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 247800,
       "name": "Tenang",
       "url": "https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K"
-    },
-    {
-      "added_at": "2023-06-15 17:25:56",
-      "album": {
-        "name": "Kisah Yang Salah",
-        "url": "https://open.spotify.com/album/3WoEs19wtAmQX9kNlBANZL"
-      },
-      "artists": [
-        {
-          "name": "The Bakuucakar",
-          "url": "https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs"
-        },
-        {
-          "name": "Andmesh",
-          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Kisah Yang Salah",
-      "url": "https://open.spotify.com/track/5xVjOWNOODhSS1Ot1oWnHI"
     }
   ],
   "unique_name": "OTW ",

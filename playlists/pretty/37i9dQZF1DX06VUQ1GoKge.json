@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 521021,
+  "num_followers": 521369,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU4YWFjYmM0ZDRjYzkxYjJkYTRlNjk2OTQyMGQ2ZjE2ZDE0OWE3",
+  "snapshot_id": "MCw2NTZiNDEzNTIwN2UzOWMyY2NjMGY3ZjZjZjAwYWYzZWRkNWM5Mjdh",
   "tracks": [
     {
       "added_at": "2023-04-06 10:20:44",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Sweating Bullets - Remastered 2004",
-      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -695,6 +679,22 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 327040,
+      "name": "Sweating Bullets - Remastered 2004",
+      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -827,22 +811,6 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 256053,
       "name": "War Eternal",
       "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
         "name": "The Mortal Coil",
         "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 243913,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 155286,
+      "name": "Genocidal Humanoidz",
+      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 155286,
-      "name": "Genocidal Humanoidz",
-      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -1067,22 +1083,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
-        "name": "Spreading The Disease",
-        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2023-04-06 10:20:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-06 10:20:44",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
-    },
-    {
-      "added_at": "2023-04-06 10:20:44",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2023-04-06 10:20:44",
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2023-04-06 10:20:44",

@@ -4,7 +4,7 @@
 
 > Las canciones de reggaetón que marcaron el año, con Myke Towers en portada.
 
-58 songs - 3 hr 30 min
+59 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2021-12-01 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/6rIql0inorjJoC5Fxye5e9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:17 | 2021-12-01 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-12-01 |  |
+| [Flow HP](https://open.spotify.com/track/0Nns6zA8d2eJIXTdJDR127) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 4:08 | 2021-12-01 |  |
 | [Flow HP](https://open.spotify.com/track/2wspc75R45gvwJCZOorAqv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/36ZKw8lFS9awLSyvnGkc5S) | 4:08 | 2021-12-01 | 2022-09-17 |
-| [Flow HP](https://open.spotify.com/track/3KDfZfRynXV8sOFFczRHdh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/0lWqum2DwElOiDEfVvRxTo) | 4:08 | 2021-12-01 |  |
+| [Flow HP](https://open.spotify.com/track/3KDfZfRynXV8sOFFczRHdh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/0lWqum2DwElOiDEfVvRxTo) | 4:08 | 2021-12-01 | 2023-06-19 |
 | [Flow HP](https://open.spotify.com/track/44ndoilnBkP6bV3r7JKcv8) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/3ExAyJjuHEUDxCgpFJ6Sqp) | 4:08 | 2021-12-01 | 2023-06-17 |
 | [Flow HP](https://open.spotify.com/track/5DfbXhst6ehIsufuAzRRni) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Guaracha y Perreo Pegado](https://open.spotify.com/album/3cvNdcmFR7ZINwz8fQewlw) | 4:08 | 2021-12-01 | 2022-11-13 |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-12-01 |  |

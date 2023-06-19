@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,069 likes - 46 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,234 likes - 46 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 42 | [Frankie's First Affair](https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:38 |
 | 43 | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2) | 3:49 |
 | 44 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
-| 45 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
-| 46 | [Mr Wrong](https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 2:51 |
+| 45 | [Mr Wrong](https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 2:51 |
+| 46 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDA2NjM1YTc2NDJiZjU4ZTIyNTI1ZTgwMzlhZDZlZjU1ZQ==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDAxYjgxYjAxNTdlYzFhNjI5ODU1ODMxMmIzYzMyNWQ0NQ==`

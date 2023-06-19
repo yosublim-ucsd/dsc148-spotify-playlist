@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 107429,
+  "num_followers": 107576,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODU5ZDExMDdjNTUxN2YyYzYwOTdkMjI1ZWMxYTIyNTRhYjFkYTky",
+  "snapshot_id": "MCw1Y2E1ZTZlZjE2MGJiNzNkOGFmMDEwMmYzOGFhZjQzNWY0NjE3MThm",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Lo mas lejos a tu lado",
+        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Soldadito marinero",
+      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Lo mas lejos a tu lado",
-        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Soldadito marinero",
-      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Paraiso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Desde cuando",
-      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Paraiso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Desde cuando",
+      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -751,8 +751,8 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx"
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 240306,
-      "name": "Suelta Mi Mano",
-      "url": "https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr"
+      "duration_ms": 221560,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Revoluci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 264599,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Galeria Caribe",
         "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
       },
@@ -883,6 +899,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Suelta Mi Mano",
+      "url": "https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -895,38 +927,6 @@
       "duration_ms": 192973,
       "name": "Me Duele Amarte",
       "url": "https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Revoluci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 264599,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "...Y al final",
-      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 220720,
       "name": "Volverte a Amar",
       "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "...Y al final",
+      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
     },
     {
       "added_at": "2022-12-30 17:16:00",

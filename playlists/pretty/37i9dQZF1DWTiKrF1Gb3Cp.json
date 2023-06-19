@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 153975,
+  "num_followers": 154011,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjVhZDM1MzAyZWQ1MmZjODFmOTAzM2ZjOWQyNDAxOGVhMmY1MzNk",
+  "snapshot_id": "MCw3ODAxYTNhMDM4MWU3NzRlYmRjODEzOTUxYmJlNWRmZDc1NjQxNWRi",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "En La Nube",
         "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 181765,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Diente Por Diente",
+        "url": "https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 138057,
+      "name": "Diente Por Diente",
+      "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 264365,
       "name": "Noche De Lokera",
       "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Diente Por Diente",
-        "url": "https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 138057,
-      "name": "Diente Por Diente",
-      "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        }
-      ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 228995,
       "name": "Bendita Vida",
       "url": "https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "El Ni\u00f1o Malo",
+        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
+      },
+      "artists": [
+        {
+          "name": "El Moreno Mexicano",
+          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
+        }
+      ],
+      "duration_ms": 183353,
+      "name": "El Ni\u00f1o Malo",
+      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "FCK Love",
         "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 261186,
       "name": "FCK Love",
       "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "El Ni\u00f1o Malo",
-        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
-      },
-      "artists": [
-        {
-          "name": "El Moreno Mexicano",
-          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
-        }
-      ],
-      "duration_ms": 183353,
-      "name": "El Ni\u00f1o Malo",
-      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
     },
     {
       "added_at": "2023-06-16 06:00:00",

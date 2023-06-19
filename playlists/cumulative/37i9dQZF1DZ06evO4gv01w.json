@@ -448,10 +448,28 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 171256,
       "name": "Blue Ridge Mountains",
       "url": "https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7"
+    },
+    {
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 164213,
       "name": "Cast 'Em Out",
       "url": "https://open.spotify.com/track/4PNdcQNxEhUU6mQlMu3Amf"
@@ -1248,10 +1266,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 204106,
       "name": "Look Away",
       "url": "https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0"
+    },
+    {
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
     },
     {
       "album": {
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 290933,
       "name": "Wanted Woman / AC/DC",
       "url": "https://open.spotify.com/track/73bHNhi5S8ms9XHJLEXbIn"

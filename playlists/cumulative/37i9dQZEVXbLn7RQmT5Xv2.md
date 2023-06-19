@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-638 songs - 1 day 12 hr 18 min
+639 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,7 +586,7 @@
 | [ستو انا](https://open.spotify.com/track/7fHN1jiFCjB18VXoU7PjzA) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb) | [ستو انا](https://open.spotify.com/album/19k0mVkRkPiLSbuJQ8M7tD) | 2:21 | 2022-05-02 | 2022-05-14 |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-07-22 | 2022-07-25 |
 | [سطلانة](https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ali Rabee](https://open.spotify.com/artist/77ufaOxJWPj1CKr6nn1BR3), [Osos](https://open.spotify.com/artist/28TcrGiufmVrUAbMKUIkWf), [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [سطلانة](https://open.spotify.com/album/3dSwt8D25ST0ROdebYf7Op) | 3:15 | 2023-06-14 |  |
-| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 |  |
+| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 | 2023-06-19 |
 | [سكرتي](https://open.spotify.com/track/3pY3PPvp77FNQq01n4UrS1) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/1EplYRbtXvBW1IlPWWs9Yq) | 3:30 | 2021-03-27\* | 2022-04-06 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |
@@ -632,6 +632,7 @@
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-03-27\* | 2021-08-15 |
 | [مهرجان سور الجدعان](https://open.spotify.com/track/2kDMo3vCdzD5p5Z8F0lNiE) | [حوده بندق](https://open.spotify.com/artist/2WWQbtOv7LQoOSjE4u2Nzv), [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [مهرجان سور الجدعان](https://open.spotify.com/album/7uxjOr3CnA2oeWyYdSEzyk) | 3:00 | 2021-03-27\* | 2021-03-27 |
 | [ميري](https://open.spotify.com/track/31iqbIPciULSvmy9KGKciU) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [ميري](https://open.spotify.com/album/2fkMsPBpZ7ttdfSqj8XZLP) | 4:02 | 2021-03-27 | 2021-04-01 |
+| [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 | 2023-06-18 |  |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-11-04 | 2023-02-02 |
 | [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 | 2022-06-09 |
 | [واحد وعشرين](https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/4tBtjfCFQGr1K87yACxkJZ) | 3:51 | 2021-03-27\* | 2022-04-06 |

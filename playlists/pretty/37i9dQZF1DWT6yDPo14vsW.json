@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 301943,
+  "num_followers": 302032,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWVkYzcxNzk4MDJjNzMzMjRiOTRiZDUwNmJkNGUxM2ExYzIyMmRi",
+  "snapshot_id": "MCwxMDc4NGFhYWUwN2U0NzA5NzhlMjNjODhjZDUxNTU3YjAyZjMxMTdh",
   "tracks": [
     {
       "added_at": "2023-03-06 17:05:24",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 232253,
       "name": "Yo Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
+        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
-        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 187481,
-      "name": "Rimas Pa' Seducir",
-      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 187481,
+      "name": "Rimas Pa' Seducir",
+      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
     },
     {
       "added_at": "2023-03-06 17:05:24",

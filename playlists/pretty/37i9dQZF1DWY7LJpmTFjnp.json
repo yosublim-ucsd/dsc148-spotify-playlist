@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Bunkers en portada. ",
-  "num_followers": 996305,
+  "num_followers": 996555,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTllNjEwNThhOTY3MDAwMDhkNjFlNDg1ZWMyOWU3NTEyYWU2MWY4",
+  "snapshot_id": "MCxhZDRkMmUzYjAxOWQxYTg5ZDU2OGY1NzM1YzliYjY0MzYwZjVmMzc0",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 247884,
-      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Fierrro",
         "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
       },
@@ -1615,18 +1599,38 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+      "duration_ms": 247884,
+      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Trenes Y Gatos",
+        "url": "https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 185237,
+      "name": "Trenes Y Gatos",
+      "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Trenes Y Gatos",
-        "url": "https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF"
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
       },
       "artists": [
         {
-          "name": "Los Gatos Rockabilly",
-          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
-        },
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 185237,
-      "name": "Trenes Y Gatos",
-      "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2023-06-16 06:00:00",

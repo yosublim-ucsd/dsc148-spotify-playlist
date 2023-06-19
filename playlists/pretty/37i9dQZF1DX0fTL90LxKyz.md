@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,374 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,398 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 35 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 |
 | 36 | [Ei8ht Mile \(feat\. Aitch\)](https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Ei8ht Mile](https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN) | 2:56 |
 | 37 | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u) | 2:32 |
-| 38 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
-| 39 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
+| 38 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
+| 39 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
 | 40 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 | 41 | [Lagga](https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog) | 3:26 |
 | 42 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 44 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
 | 45 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
 | 46 | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/track/5TazMTxxEsLZMwnjjdb5t9) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/album/0CnIY05VI9uCGgZ8ufPXHS) | 2:59 |
-| 47 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
-| 48 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
+| 47 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
+| 48 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
 | 49 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
 | 50 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 
-Snapshot ID: `MCwyOWZiMGNlZjQwMDY0MzIwODgzZGQwM2JmOTE1NGMxYzk0ZWE3Mjg0`
+Snapshot ID: `MCxhNzBmYjU5ZDFkNjViMDFjMjc0OTBhZDFkZjY4NGQ2ZDdiYjJmZWVl`

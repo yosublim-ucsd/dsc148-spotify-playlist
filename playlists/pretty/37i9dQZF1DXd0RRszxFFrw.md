@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,001 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,016 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 30 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
 | 31 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 |
 | 32 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
-| 33 | [The Girl From Ipanema](https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 3:00 |
-| 34 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
+| 33 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
+| 34 | [The Girl From Ipanema](https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 3:00 |
 | 35 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
 | 36 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 |
 | 37 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 59 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 |
 | 60 | [Senior Emilio](https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Senior Emilio](https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda) | 4:38 |
 | 61 | [Lagrima](https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 1:49 |
-| 62 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
-| 63 | [Brigas, Nunca Mais](https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 2:47 |
+| 62 | [Brigas, Nunca Mais](https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 2:47 |
+| 63 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
 | 64 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
 | 65 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
 | 66 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
-| 67 | [Girl](https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX) | [Notis Mavroudis](https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK) | [The Beatles for Classical Guitar](https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD) | 2:45 |
-| 68 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 67 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 68 | [Girl](https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX) | [Notis Mavroudis](https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK) | [The Beatles for Classical Guitar](https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD) | 2:45 |
 | 69 | [Adelita Mazurka](https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 2:12 |
 | 70 | [Tango en Skai \- Instrumental](https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm) | [Panagiotis Margaris](https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f) | [Cafe de l'Art, Vol\. 1 \(14 Guitar Duets Themes\)](https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ) | 2:53 |
 | 71 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 75 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 
-Snapshot ID: `MCwzY2ExMDI3OWIyNWZlNzZlNzIyMjdhOWEzNzNlZDQ1ZjM4MDlkZWZl`
+Snapshot ID: `MCxmYTM4Y2FiYWJmZDI4NDBiOGM1NWMzNWVlNDA5OTYxMmE5YTI2ODNl`

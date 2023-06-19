@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,821 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,838 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 45 | [Don't Call Me Brother](https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 8:56 |
 | 46 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
 | 47 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
-| 48 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
-| 49 | [Survival](https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:42 |
+| 48 | [Survival](https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:42 |
+| 49 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
 | 50 | [I Dig Your Act](https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:16 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDBjMDY1N2UzMGVkODQ5OTdlNWRhZmUxM2QzNDBjOTZhNA==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDBjMDE3OTkyMWUzZTNhNWQ2ZmIzZGQ5YmQ0NzFkMWUzNg==`

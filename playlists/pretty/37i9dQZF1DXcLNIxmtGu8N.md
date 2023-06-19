@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,907 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,914 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 29 | [Shorty](https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI) | [Tcb](https://open.spotify.com/artist/35TNz9zmB87Ag9jmKWbch3) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 6:41 |
 | 30 | [Bazzoka Bottoms](https://open.spotify.com/track/0vDwogPa3ZyxOzbzHCijdS) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 5:55 |
 | 31 | [9\-5 \- Live](https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R) | [The Full Bump](https://open.spotify.com/artist/65jSGg8uFsWlplXmWgaBpp), [Big Action](https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4) | [The Xperience \(Live\)](https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4) | 3:14 |
-| 32 | [In My Bag](https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 4:43 |
+| 32 | [In My Bag](https://open.spotify.com/track/0zv7qVhuh3R0lH25K9c2uS) | [ABM Slow Bounce Kingz](https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm) | [Lockdown The Streets](https://open.spotify.com/album/4aTGArMlHJeQRoyyIovg0Z) | 4:43 |
 | 33 | [Unthinkable](https://open.spotify.com/track/3p6pPa10cok7rFffLux60R) | [Tru Expressionz](https://open.spotify.com/artist/1MaOfxXN7HEoXz5cus0IOx) | [Tru Expressionz Greatest Hits](https://open.spotify.com/album/0b4AQ1LPfKyDd5WSGTkdLb) | 4:50 |
 | 34 | [I Hurd It's The Bomb](https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 10:09 |
 | 35 | [Byb Hello \(Bonus Track\)](https://open.spotify.com/track/4T0FAthftPuGCvFF0KsJTV) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 7:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCw2YzIyNTdkZWRiMjczZTAyYzBjNzk4MWI4OTU3ZThhNDhkZjM4MzUy`
+Snapshot ID: `MCw0ZGEyYzFjMzRjNDI5NWUxOGJhZmI3ZTYwOWIyNDlhZTA3NTRlMDYy`

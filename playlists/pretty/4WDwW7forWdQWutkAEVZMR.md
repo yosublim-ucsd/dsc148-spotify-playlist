@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Pharrell Williams, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,391 likes - 24 songs - 1 hr 20 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,392 likes - 24 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 |
 | 2 | [when we were friends](https://open.spotify.com/track/72o3YsULz4xxuhrdYC5lOZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [when we were friends](https://open.spotify.com/album/4g7ogU8ArZsd30nshTrmjC) | 2:56 |
-| 3 | [Orthodox](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
+| 3 | [Orthodox \(feat\. BabyTron\)](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
 | 4 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 | 5 | [Different Route \(feat\. BiC Fizzle\)](https://open.spotify.com/track/0vQ5ZMbqajgTgxqv5iRXj9) | [RiskTakerLeek](https://open.spotify.com/artist/2cD4nVRakJU18WJCb2oVmy), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Different Route \(feat\. BiC Fizzle\)](https://open.spotify.com/album/25tBve2zwID6uLwfhHXw82) | 2:48 |
 | 6 | [My Cosmos Is Mine \- ANNA Remix](https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [My Cosmos Is Mine \(ANNA Remix\)](https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7) | 8:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Kinto Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,539 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,656 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 35 | [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 |
 | 36 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
 | 37 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
-| 38 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
-| 39 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
+| 38 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
+| 39 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 40 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
 | 41 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
 | 42 | [De Perros Amores](https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 50 | [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 |
 
-Snapshot ID: `MCxlZWNkZWM3OGE4NTU2OTUzOWI3MDFjYzFlNzgwNzg5ZDJjNzRlZGFi`
+Snapshot ID: `MCwxNGQ0MjljMDNmZjU2ZjBmZTQyMTc4NzVjMjYwYTA2MDAxMzljMWEx`

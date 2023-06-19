@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Los del Espacio.
 
-227 songs - 13 hr 8 min
+228 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,9 +140,10 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-09 | 2022-10-14 |
 | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/track/4o5DgFbeHH6kG84MrP85Ly) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/album/0kBgcGgNqyr0tCqY4PRuEw) | 3:53 | 2022-08-04 | 2022-11-18 |
 | [PA K TE ENAMORE](https://open.spotify.com/track/1DmPVoJJgSAMHEMamRV4DH) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [PA K TE ENAMORE](https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z) | 2:20 | 2023-01-26 | 2023-06-09 |
-| [pa la europa](https://open.spotify.com/track/1jXlz6LX86tN8LYY9tcNPE) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/0P24alIzKw71sxcA6q8urs) | 3:39 | 2023-06-01 |  |
+| [pa la europa](https://open.spotify.com/track/1jXlz6LX86tN8LYY9tcNPE) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/0P24alIzKw71sxcA6q8urs) | 3:39 | 2023-06-01 | 2023-06-19 |
 | [Pa La Europa](https://open.spotify.com/track/0MoTNY46hAvSVq2CdN1xHk) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/1wuxxtmnD0DAsMEHmqMcgu) | 3:39 | 2023-05-11 | 2023-06-08 |
 | [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 | 2023-04-27 | 2023-05-13 |
+| [Pa la europa](https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa la europa](https://open.spotify.com/album/3bUDTQ89TXoOcP4JTCBpeo) | 3:39 | 2023-06-15 |  |
 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 | 2022-04-28 | 2023-02-24 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-04-14 | 2022-09-09 |
 | [Par de Veces](https://open.spotify.com/track/2vZS65RIoFXGF4FpWqpMIR) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Casti](https://open.spotify.com/artist/2Dwsrv9EwfgB2tEFhUG7CA) | [Par de Veces](https://open.spotify.com/album/4zz7Q2jwt3I3PMd99K5XwL) | 3:57 | 2022-04-14 | 2022-10-29 |

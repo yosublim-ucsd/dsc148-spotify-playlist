@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 46 | [Contradicción](https://open.spotify.com/track/3R2FaLjO7IUkAgmXRwYRMa) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 2:55 |
 | 47 | [Dolería](https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:57 |
 | 48 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 |
-| 49 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
-| 50 | [Miami](https://open.spotify.com/track/5uO69Tc4ogrDtdWl5j5Rvm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/0OzJRx52dulFpcA3Wb397m) | 2:10 |
+| 49 | [Miami](https://open.spotify.com/track/5uO69Tc4ogrDtdWl5j5Rvm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/0OzJRx52dulFpcA3Wb397m) | 2:10 |
+| 50 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
 | 51 | [No Te Vayas \- Remix](https://open.spotify.com/track/2eFI2PHNaLq7GacI7elvLk) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [No Te Vayas \(Remix\)](https://open.spotify.com/album/4DU6GMEyzb1WLfXMxzS0bF) | 3:18 |
 | 52 | [Fresh](https://open.spotify.com/track/0fA6OOtT1uVcQblKjwJ6wm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:12 |
 | 53 | [No Más](https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [No Más](https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ) | 2:32 |
@@ -85,15 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 75 | [LENTO](https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:54 |
 | 76 | [Hombre](https://open.spotify.com/track/1OPfK9dAwuwxLdu4WzeX27) | [Sammi Sanchez](https://open.spotify.com/artist/1ipFOh7c2lNnTdXJiIKR87) | [Hombre](https://open.spotify.com/album/0sm5DYD1xyeGzIjqDKUeAp) | 3:05 |
 | 77 | [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 |
-| 78 | [Casi Casi](https://open.spotify.com/track/2twF3hXDFL25aZUDGajxff) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:15 |
-| 79 | [Sonreír](https://open.spotify.com/track/0PeZSWnEegBvqWyJVatSwE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:27 |
-| 80 | [Dímelo Ahora](https://open.spotify.com/track/3qNOZpWn8n2wTCmrfuUfar) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:10 |
-| 81 | [Dimelo](https://open.spotify.com/track/37RaWikQctglBmNTrqH5mb) | [Mabryx](https://open.spotify.com/artist/4E863xdB3I8Jc1GhYKgDyW), [Michael Angelo](https://open.spotify.com/artist/3nXlGJi4ZuozaGgHY65dmd) | [Dimelo](https://open.spotify.com/album/3GT5LrERXJXiIuFQiugj1l) | 3:40 |
-| 82 | [Loca Crazy](https://open.spotify.com/track/0VZTJGFXYAARxaO27DkE9W) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/6lwo9KQ5ZC5glyaaYUpWwD) | 2:36 |
-| 83 | [Chao Pescao](https://open.spotify.com/track/7HeTBeNFgBujftPnidYZH2) | [Gabriel Coronel](https://open.spotify.com/artist/1KtKduyNmAGRrBwwY2wye7) | [Chao Pescao](https://open.spotify.com/album/0cqBEBhlQ98hmvko3XAO36) | 3:28 |
-| 84 | [Ni Me Enteré](https://open.spotify.com/track/4riV4eAt1AKaFZShAWAMPB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 2:47 |
-| 85 | [De Tu Cama Pa' Mi Cama \- Reina de la Canción Performance](https://open.spotify.com/track/1QNqWxuEvi43R9SUYzQYtX) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [De Tu Cama Pa' Mi Cama \(Reina de la Canción Performance\)](https://open.spotify.com/album/2xnhqRIwWBJMNaU5nx6DJE) | 2:26 |
-| 86 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
-| 87 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
+| 78 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
+| 79 | [Casi Casi](https://open.spotify.com/track/2twF3hXDFL25aZUDGajxff) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:15 |
+| 80 | [Sonreír](https://open.spotify.com/track/0PeZSWnEegBvqWyJVatSwE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:27 |
+| 81 | [Dímelo Ahora](https://open.spotify.com/track/3qNOZpWn8n2wTCmrfuUfar) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:10 |
+| 82 | [Dimelo](https://open.spotify.com/track/37RaWikQctglBmNTrqH5mb) | [Mabryx](https://open.spotify.com/artist/4E863xdB3I8Jc1GhYKgDyW), [Michael Angelo](https://open.spotify.com/artist/3nXlGJi4ZuozaGgHY65dmd) | [Dimelo](https://open.spotify.com/album/3GT5LrERXJXiIuFQiugj1l) | 3:40 |
+| 83 | [Loca Crazy](https://open.spotify.com/track/0VZTJGFXYAARxaO27DkE9W) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/6lwo9KQ5ZC5glyaaYUpWwD) | 2:36 |
+| 84 | [Chao Pescao](https://open.spotify.com/track/7HeTBeNFgBujftPnidYZH2) | [Gabriel Coronel](https://open.spotify.com/artist/1KtKduyNmAGRrBwwY2wye7) | [Chao Pescao](https://open.spotify.com/album/0cqBEBhlQ98hmvko3XAO36) | 3:28 |
+| 85 | [Ni Me Enteré](https://open.spotify.com/track/4riV4eAt1AKaFZShAWAMPB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 2:47 |
+| 86 | [De Tu Cama Pa' Mi Cama \- Reina de la Canción Performance](https://open.spotify.com/track/1QNqWxuEvi43R9SUYzQYtX) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [De Tu Cama Pa' Mi Cama \(Reina de la Canción Performance\)](https://open.spotify.com/album/2xnhqRIwWBJMNaU5nx6DJE) | 2:26 |
+| 87 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
+| 88 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
 
-Snapshot ID: `MjgxMTYxMTAsMDAwMDAwMDAxZTM4N2YzMDVlN2YyNWI1ZjZmYWFlZDUzNWY3M2FlZQ==`
+Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDAyNmEzYTlmNTNjYTVkYWI2MDgzMjFlNTA0M2I0YWIwZg==`

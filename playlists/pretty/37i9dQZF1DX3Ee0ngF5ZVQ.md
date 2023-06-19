@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: William Beckmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,437 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,505 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 93 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 |
 | 94 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 95 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 |
-| 96 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 96 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 97 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
-| 98 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 98 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
 | 99 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 |
-| 100 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 |
+| 100 | [Neon You](https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:07 |
 
-Snapshot ID: `MCxjMzQ1YTQ5ODFhNTU3MGI5YjA0MGVhZDdjY2IyYWIzYjY5NmVlNDRj`
+Snapshot ID: `MCw3Y2E2OTc2OGY1NzgyNTc1ZDdmYjE1NDRhZWMzZjFiN2U3NzhkNmFi`

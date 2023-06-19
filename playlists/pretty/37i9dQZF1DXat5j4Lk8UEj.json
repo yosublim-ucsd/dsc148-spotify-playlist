@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 491167,
+  "num_followers": 491223,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTE5NWYxZWNiMTExYmNlMjMxMTZhNWM4MTQwZTVmNWM2ZWVkMTkw",
+  "snapshot_id": "MCxkZDg3NTdhOWQ4ZDc4MWQwYWVkNThlNWMxYTk5NWYzOTc0NmIzMGI1",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "My Entire Life",
         "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 166080,
       "name": "My Entire Life",
       "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+      "duration_ms": 253253,
+      "name": "Stand For Myself",
+      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Stand For Myself",
-      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 204441,
       "name": "The Ripple",
       "url": "https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 151515,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "From Dreams to Dust",
         "url": "https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Juniors",
         "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Animals With Religion",
-        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
       "artists": [
         {
-          "name": "Bee Caves",
-          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
         }
       ],
-      "duration_ms": 235264,
-      "name": "Running Home to You",
-      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Animals With Religion",
+        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+      },
+      "artists": [
+        {
+          "name": "Bee Caves",
+          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+        }
+      ],
+      "duration_ms": 235264,
+      "name": "Running Home to You",
+      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Gamble for a Rose",
-        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
-      },
-      "artists": [
-        {
-          "name": "King Charles",
-          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Gamble for a Rose",
-      "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "My Morning Jacket",
         "url": "https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Gamble for a Rose",
+      "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
     },
     {
       "added_at": "2023-06-16 04:00:00",

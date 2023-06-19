@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,453 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,446 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 108 | [Alone On Christmas Eve](https://open.spotify.com/track/7bzSuLGzLwcEhfAi5FjliA) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Alone On Christmas Eve](https://open.spotify.com/album/4CtHrZwvJqIm13Naqpim0S) | 3:45 |
 | 109 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
 | 110 | [North Star \(Single From “Music From Zoey’s Extraordinary Christmas”\)](https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [North Star \(Single from "Music from Zoey's Extraordinary Christmas"\)](https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt) | 3:42 |
-| 111 | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \- Spotify Singles \- Christmas](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \(Spotify Singles \- Christmas\)](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
+| 111 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
 | 112 | [White Christmas](https://open.spotify.com/track/4ud5nPW0fN8Li4FyIq0rh5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:02 |
 | 113 | [Love in the Winter](https://open.spotify.com/track/3LPWkKJL62Rnqr2862pt2T) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Love in the Winter](https://open.spotify.com/album/1ZosF50PwxWJqSDJcdnsBg) | 2:29 |
 | 114 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 |
 | 115 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 
-Snapshot ID: `MCwwMDgzYjkxMzUyYzRmZWQ3OTc1MzU4ZGNlMmJiMjQ1ZWUzNGQzY2Uw`
+Snapshot ID: `MCwyMWE3YTIwNmU1MzM5OTcxZGNjOTcyZjUzZDRhYzU0ZWE5Njc3MjQ4`

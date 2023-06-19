@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us
 
-117 songs - 5 hr 52 min
+118 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Feels So Good](https://open.spotify.com/track/2PzTX0SsojmnZ4ErracpAs) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Rise](https://open.spotify.com/album/5HueThbkyHjnAA3w4yKCSZ) | 3:34 | 2023-04-18 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-04-18 |  |
 | [For You](https://open.spotify.com/track/4H4O2bVxkax5ZCFiqZyzLZ) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/1AFhCDtL1DKRhcEGLsimcE) | 2:17 | 2023-04-18 | 2023-06-03 |
-| [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-05-30 |  |
+| [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-05-30 | 2023-06-19 |
+| [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 | 2023-06-13 |  |
 | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/track/2cV7aw6lhyfGxNNi2n6vNt) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/album/50srAn63LR5smlW4LzKsGB) | 3:08 | 2023-04-18 | 2023-05-31 |
 | [Girl](https://open.spotify.com/track/4YsMDOgS5vQf5RyZD8lR34) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF) | 2:39 | 2023-04-18 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-05-16 |  |

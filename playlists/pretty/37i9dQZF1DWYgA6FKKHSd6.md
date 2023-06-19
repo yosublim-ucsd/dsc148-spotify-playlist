@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,170 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,203 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 59 | [Lasting Impression](https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4) | [James Vargas](https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC) | [James Vargas](https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh) | 5:12 |
 | 60 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
 | 61 | [Taking Control](https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G \(Bonus Version\)](https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR) | 4:04 |
-| 62 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 |
-| 63 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
+| 62 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
+| 63 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 |
 | 64 | [Always There](https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz And Friends Summer Horns](https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF) | 4:03 |
-| 65 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 |
-| 66 | [Gonna' Miss You](https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [M.P.3](https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN) | 3:19 |
-| 67 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 |
-| 68 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
+| 65 | [Gonna' Miss You](https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [M.P.3](https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN) | 3:19 |
+| 66 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 |
+| 67 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
+| 68 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 |
 | 69 | [Say What](https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Say What](https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo) | 3:47 |
 | 70 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 |
 | 71 | [Issa Party](https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:18 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 87 | [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 |
 | 88 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 |
 | 89 | [City Life](https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [City Life](https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP) | 4:54 |
-| 90 | [Can You Feel It](https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Can You Feel It](https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh) | 4:03 |
-| 91 | [Breakin' thru](https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 4:30 |
+| 90 | [Breakin' thru](https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 4:30 |
+| 91 | [Can You Feel It](https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Can You Feel It](https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh) | 4:03 |
 | 92 | [Heat](https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ) | [Heat](https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS) | 4:24 |
 | 93 | [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 |
 | 94 | [In the Moment](https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [In the Moment](https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 |
 | 100 | [Break the Ice](https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Silver Lining](https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ) | 4:09 |
 
-Snapshot ID: `MCxlM2YwZTg1MDgxNmVmZmJlZmQ4N2EwMjA4MTdjNDEzMDllYTU4NjVk`
+Snapshot ID: `MCw3N2VjYjk3YTcwNWM1ZDI1NmVjY2YxZTI5MTcxMWUzZGEyYzJiMWY5`

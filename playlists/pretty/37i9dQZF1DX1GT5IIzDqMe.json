@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 81348,
+  "num_followers": 81383,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTBiNTgwMzMwMjhlNjkyMGU5NzA2M2Q0NDljZjcyYzE4ZDA1ZmU0",
+  "snapshot_id": "MCxkMGYzYjI5NzY5NTE0NTY0Njk2ZDJiM2VhY2M5NzIyNzI4YjY5ZDQz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Neptune's Lair",
-        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Recycled Plastik",
         "url": "https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 555626,
       "name": "Spastik",
       "url": "https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Neptune's Lair",
+        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Legendary Adventures Of A Filter King",
         "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 387371,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-04-28 04:00:00",

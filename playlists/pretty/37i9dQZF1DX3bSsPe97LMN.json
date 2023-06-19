@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Ivonne Galaz & Tania Dominguez en portada.",
-  "num_followers": 54963,
+  "num_followers": 54977,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWI5ZjVkY2I4NDEzZGI5YTZmZjIwNDU1MmE1Y2YyYmVlMDY5Yzlm",
+  "snapshot_id": "MCw1YTRkOWRmYzFmYmVmNTg4OGU4MDQyMjNiYjE3ZDgyMjRlZmQxMDAz",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "El Rayo (En Vivo)",
         "url": "https://open.spotify.com/album/5UGAr42pCKgHawjD7ouV5y"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 226750,
       "name": "El Rayo - En Vivo",
       "url": "https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Arrepentido",
-        "url": "https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI"
-      },
-      "artists": [
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        }
-      ],
-      "duration_ms": 203796,
-      "name": "Arrepentido",
-      "url": "https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Desde la Cima",
         "url": "https://open.spotify.com/album/5Wdk5FbYQLeXB7EGUbo1X5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 164062,
       "name": "LA 5 12",
       "url": "https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Arrepentido",
+        "url": "https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 203796,
+      "name": "Arrepentido",
+      "url": "https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -863,6 +863,74 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "El Que Le Gusta Ayudar",
+        "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "El Que Le Gusta Ayudar",
+      "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Poses",
+        "url": "https://open.spotify.com/album/5UFwdxH1VcIg3DW7pvj8Ps"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Poses",
+      "url": "https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -887,66 +955,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "El Que Le Gusta Ayudar",
-        "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 172026,
-      "name": "El Que Le Gusta Ayudar",
-      "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "EBS",
-        "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 167344,
-      "name": "EBS",
-      "url": "https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS"
+      "duration_ms": 174775,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -963,22 +983,6 @@
       "duration_ms": 218250,
       "name": "Mi Dolor",
       "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "El Tigre",
-        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 174775,
-      "name": "El Tigre",
-      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
       },
       "artists": [
         {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 175588,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1079,38 +1079,38 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Poses",
-        "url": "https://open.spotify.com/album/5UFwdxH1VcIg3DW7pvj8Ps"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "EBS",
+        "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
       },
       "artists": [
         {
           "name": "Franco Rey",
           "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Poses",
-      "url": "https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+      "duration_ms": 167344,
+      "name": "EBS",
+      "url": "https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "East LA",
-        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "East LA",
-      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "\u00daltimo Chance",
         "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 174085,
       "name": "\u00daltimo Chance",
       "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "East LA",
+        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "East LA",
+      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Levantando La Baja",
-        "url": "https://open.spotify.com/album/3MoDFYJu00Yu4Fb9HCGSxF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "A Los 15",
-      "url": "https://open.spotify.com/track/2fO3naAapGMocVBVXxPPuE"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Barba De Herencia",
         "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+        "name": "Levantando La Baja",
+        "url": "https://open.spotify.com/album/3MoDFYJu00Yu4Fb9HCGSxF"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+      "duration_ms": 184573,
+      "name": "A Los 15",
+      "url": "https://open.spotify.com/track/2fO3naAapGMocVBVXxPPuE"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "7 Dias",
         "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 158953,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "Los Medios Suenan",
-        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 149549,
-      "name": "Los Medios Suenan",
-      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Los Medios Suenan",
+        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 149549,
+      "name": "Los Medios Suenan",
+      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

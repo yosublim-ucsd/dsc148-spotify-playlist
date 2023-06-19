@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,876 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 31 | [No Other Name](https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 4:48 |
 | 32 | [You're Worthy Of My Praise](https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:25 |
 | 33 | [Word of God Speak](https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Get the Truth](https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T) | 4:17 |
-| 34 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 |
+| 34 | [Set Me Free](https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:11 |
 | 35 | [Everything Beautiful](https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 3:17 |
 | 36 | [It's All About You](https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:02 |
 | 37 | [All For You](https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:46 |
-| 38 | [Set Me Free](https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:11 |
+| 38 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 |
 | 39 | [Without You](https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 5:39 |
 | 40 | [Sacrifice](https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 5:39 |
 | 41 | [The Only One](https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:17 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 50 | [New Every Morning](https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:28 |
 | 51 | [What I Was Made For](https://open.spotify.com/track/1hk4vnmDj37es8cEpJjRVB) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:01 |
 
-Snapshot ID: `MjgxMTY3NjgsMDAwMDAwMDAzNDU4NzljNDZlYzNlOTQ1M2Y4ZTU2YTQxZDQwN2U2Mg==`
+Snapshot ID: `MjgxMTgyMjEsMDAwMDAwMDAwMjZiYjMyODkyNGYzOTEzYzVmZTEyZDUwOWZiNDg2ZQ==`

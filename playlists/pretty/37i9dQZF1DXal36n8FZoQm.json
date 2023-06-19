@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for Cobra Kai. Watch on Netflix.",
-  "num_followers": 84814,
+  "num_followers": 84883,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTA5ZjdkOTlmMzA1MDc4ZTM3YWU3ZDY2YjBjYzEwMDRmMzhhNzVi",
+  "snapshot_id": "MCxiNzhlOGVlMGFjMjRhMGZjYmRkNGY2MTNkYWYyMDc5YzlkZjI4MjUx",
   "tracks": [
     {
       "added_at": "2022-08-30 17:00:45",
@@ -150,10 +150,14 @@
         {
           "name": "C & C Music Factory",
           "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
         }
       ],
       "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now)",
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {

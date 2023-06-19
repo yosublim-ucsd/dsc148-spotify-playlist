@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-509 songs - 1 day 5 hr 11 min
+510 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
 | [Antes](https://open.spotify.com/track/1pnE4Unmn63LONQ52SEmHe) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Antes \(de florecer\)](https://open.spotify.com/album/3sj339uXFqdnEWUiTb96nE) | 3:20 | 2022-02-11 | 2022-04-21 |
 | [Aprendí](https://open.spotify.com/track/6dmkQyR2K1ACuKCpi9XeLq) | [Cata Torres](https://open.spotify.com/artist/1i4RvIEPT6l7f6gzmwi1QH) | [Aprendí](https://open.spotify.com/album/5OXtmT402TOZVx9zFtwDje) | 3:06 | 2022-04-01 | 2022-04-17 |
-| [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-30 |  |
+| [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-30 | 2023-06-19 |
 | [Aquiles](https://open.spotify.com/track/2y2qqW1F0SqIpdXy9lV2Xy) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Aquiles](https://open.spotify.com/album/4aM9vvvIr65K0m1C9PPKai) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 | 2022-04-01 | 2022-04-29 |
 | [Arquitecturas Extrañas](https://open.spotify.com/track/29wftzCXRFo2NLspyl5Ykg) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:10 | 2022-01-21 | 2022-07-03 |
@@ -64,6 +64,7 @@
 | [Bsos](https://open.spotify.com/track/1te0r9vjZgzT3Avdc1hXbf) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Bsos](https://open.spotify.com/album/3FGJQsv4cWu0ZijTAbMoJF) | 3:06 | 2022-07-15 | 2022-07-24 |
 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2022-01-21 |  |
 | [Cadaver Exquisito](https://open.spotify.com/track/7E3mGIoBKNJ9iJhHElksgv) | [Vero Perez](https://open.spotify.com/artist/6Ivi3BuoIV95MUEVbcTEnD) | [Cadaver Exquisito](https://open.spotify.com/album/1LpWl0TvbofGfSNh0BSeG1) | 3:10 | 2022-04-01 | 2022-06-05 |
+| [Caja Negra](https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Caja Negra](https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx) | 3:38 | 2023-06-16 |  |
 | [Calor](https://open.spotify.com/track/3naVoJlGn5QOjvx96sUP0r) | [Mareo!](https://open.spotify.com/artist/0zN60I3ofQ5rrmzs0fI1Cx), [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Gonzalo Díaz Sagredo](https://open.spotify.com/artist/1X4KXtcIb1B56hX5Z1WRrR), [Andy Baeza](https://open.spotify.com/artist/4WRgJImk0fQYOHEh8b1h2z) | [Tus Ojos Brillan](https://open.spotify.com/album/0pkfrJiJ7FHk46DHTmjHdv) | 4:04 | 2022-01-21 | 2022-06-19 |
 | [Cambio de Planes](https://open.spotify.com/track/68dKUAPwy0lXpxZZxN9IhP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Cambio de Planes](https://open.spotify.com/album/5h3QWoaChq8nzdXEufKAGf) | 4:11 | 2022-03-09 | 2022-04-21 |
 | [Cambio la Mirada](https://open.spotify.com/track/0uKIE6p9jbKh6QLwDlvxWM) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [Duality](https://open.spotify.com/artist/0ji1iEjXI9xcZUXudiJP4O) | [Cambio la Mirada](https://open.spotify.com/album/18rtfeRxhAjard4SY3WdPI) | 2:55 | 2022-05-20 | 2022-09-09 |

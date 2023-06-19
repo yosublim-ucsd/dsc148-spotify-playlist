@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=qFQgYQE0R0WNf\_xAu\-fXug">Camidoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,566 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,603 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 |
 | 50 | [Obaa Hemaa](https://open.spotify.com/track/7aE7Icgz0lehLspnBk071W) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/4bRPGKSqY2BPd3WZu9Ilam) | 3:04 |
 
-Snapshot ID: `MCw2ZTAyMTVjMTYwMjYxZDE3ODIxOGVlNDlkNWY5NDE2N2IxNDgxN2Rj`
+Snapshot ID: `MCxlNTE4ZmZmMjRhMDhmZjA4YmMzMmU3ZmEyNTFkMTk1N2UzOTc1YWU5`

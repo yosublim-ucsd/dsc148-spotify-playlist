@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Halef 3al Hob",
+        "url": "https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169104,
+      "name": "Halef 3al Hob",
+      "url": "https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl"
+    },
+    {
+      "album": {
         "name": "Hamoot Men Gherha",
         "url": "https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze"
       },

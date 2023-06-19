@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=3io5w_NHTqaC0WSBoCiy-Q\"> Cassper Nyovest </a>",
-  "num_followers": 120742,
+  "num_followers": 120790,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDEzMTg3ZGNhMWE2NWNlNjliNmQxZmEyOTliYzU2NWRlMWY1ZWYx",
+  "snapshot_id": "MCw1MTM1NWM3NDFhMjYyZGE5ZDI4NGIzMTQyYjNlOTgyOGExYzY2NDM4",
   "tracks": [
     {
       "added_at": "2023-06-16 06:24:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Penny",
-      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 137806,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -967,22 +967,18 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
       },
       "artists": [
         {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -1011,6 +1007,26 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
         "name": "Ye x4",
         "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 165451,
       "name": "Ye x4",
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "Khuphuka",
-        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Khuphuka",
-      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
         "name": "SUN / BABY BLUE 4\u2019s",
         "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
       },
@@ -1183,26 +1167,6 @@
       "duration_ms": 147692,
       "name": "SUN",
       "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
-        "name": "As Above, So Below (Deluxe)",
-        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Natasha Chansa",
-          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
-        }
-      ],
-      "duration_ms": 187858,
-      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
-      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -1227,6 +1191,26 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
+        "name": "As Above, So Below (Deluxe)",
+        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "duration_ms": 187858,
+      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
+      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
+        "name": "Son Of Jacob",
+        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "duration_ms": 173980,
+      "name": "Jungle Music, Pt. 2",
+      "url": "https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
         "name": "Alaye Toh Se Gogo",
         "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 121750,
       "name": "Lord Protect My Steppings",
       "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
-        "name": "Son Of Jacob",
-        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
-        }
-      ],
-      "duration_ms": 173980,
-      "name": "Jungle Music, Pt. 2",
-      "url": "https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1"
     }
   ],
   "unique_name": "No Wahala",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: YOVNGCHIMI",
-  "num_followers": 476504,
+  "num_followers": 476644,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDM4NmVlZWU2YWJiMmRhNmNlNDU1MTdjOTRiZjBjZTU4MjU4ZmVj",
+  "snapshot_id": "MCwyZGQ2MjM1MzNiZDA1YmU0OWZlYWJmZmNjYTc2YzRjNTBjMGVhNTY2",
   "tracks": [
     {
       "added_at": "2023-06-16 18:32:31",
@@ -83,26 +83,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "COLOGNE",
-      "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -635,18 +635,26 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "JS4E",
-        "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
+        "name": "X5",
+        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
         }
       ],
-      "duration_ms": 237750,
-      "name": "JS4E",
-      "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
+      "duration_ms": 195555,
+      "name": "X5",
+      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -671,6 +679,22 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
+        "name": "JS4E",
+        "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "JS4E",
+      "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
         "name": "No Te Metas",
         "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
-        "name": "X5",
-        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
-        },
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "X5",
-      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Ni\u00f1os Peque\u00f1os",
-        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Ni\u00f1os Peque\u00f1os",
-      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "Ni\u00f1os Peque\u00f1os",
+        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Ni\u00f1os Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Trap Life",
-        "url": "https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Trap Life",
-      "url": "https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "Trap Life",
+        "url": "https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Trap Life",
+      "url": "https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/00Ts4S6rOgvh41hUjrrA4T"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 220341,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/0eNe9tTxrXzyoX3DSeJEDN"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "Gucci En Mis Pies",
         "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 231000,
       "name": "Gucci En Mis Pies",
       "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/00Ts4S6rOgvh41hUjrrA4T"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 220341,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/0eNe9tTxrXzyoX3DSeJEDN"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
+        "name": "Posdata",
+        "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 212316,
+      "name": "Posdata",
+      "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
       },
@@ -1971,22 +1991,18 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Posdata",
-        "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
+        "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
+        "url": "https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 212316,
-      "name": "Posdata",
-      "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
+      "duration_ms": 187333,
+      "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
+      "url": "https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -2011,22 +2027,6 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
-        "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
-        "url": "https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
-      "url": "https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Tiempos de Lluvia",
-        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202152,
-      "name": "Tiempos de Lluvia",
-      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "FXCK Remix",
         "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 245446,
       "name": "Fxck Remix",
       "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "Tiempos de Lluvia",
+        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202152,
+      "name": "Tiempos de Lluvia",
+      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
     },
     {
       "added_at": "2023-06-16 18:32:31",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2023-06-16 18:32:31",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 109830,
-      "name": "Michael Jackson",
-      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
-    },
-    {
-      "added_at": "2023-06-16 18:32:31",
-      "album": {
         "name": "Que Le Gusta el Flow",
         "url": "https://open.spotify.com/album/21QqvRGTjzhfcsAtrzE1bR"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 176751,
       "name": "Que Le Gusta el Flow",
       "url": "https://open.spotify.com/track/2IyrwT9xsHPvZ0PpaKuLya"
+    },
+    {
+      "added_at": "2023-06-16 18:32:31",
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
     },
     {
       "added_at": "2023-06-16 18:32:31",

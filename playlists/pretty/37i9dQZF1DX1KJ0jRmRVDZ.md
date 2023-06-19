@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,698 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,818 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
 | 50 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [Yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 |
 
-Snapshot ID: `MCwxZmFhMzg1MDAzNDNlYWM1NGExMzNkOGQ2NGYzYjhlMTJmOGU3YWNm`
+Snapshot ID: `MCw0MTNiMTYwYTZjNWQzN2I3OWRiNGU0OTRjZjRmNGVkZGVkOTlmYjQ0`

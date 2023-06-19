@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: The Teskey Brothers
 
-93 songs - 5 hr 10 min
+94 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [No Persona](https://open.spotify.com/track/0xMdLu0aUsRhSTILRcVCPi) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04) | [No Persona](https://open.spotify.com/album/0iNdG86VQrxdbiHKJCuKSP) | 2:55 | 2023-06-15 |  |
 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 | 2023-06-15 |  |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-15 |  |
-| [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-15 |  |
+| [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-06-18 |  |
+| [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-15 | 2023-06-19 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-15 |  |
 | [Patterns](https://open.spotify.com/track/7CTYPDmsufErFJP1E1TFFj) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Patterns](https://open.spotify.com/album/4eIWK7rVkPjBVI6GT9B7Og) | 2:04 | 2023-06-15 |  |
 | [people don't change \- demo](https://open.spotify.com/track/2OJJWhzn60YtiMoTFYLtMN) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [people don't change \(demo\)](https://open.spotify.com/album/4JhAAJS37dZAD8FfT9Ppd5) | 2:09 | 2023-06-15 |  |

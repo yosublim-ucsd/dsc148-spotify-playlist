@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-216 songs - 12 hr 48 min
+217 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 | 2021-11-12 | 2023-06-16 |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-11-12 |  |
 | [American Dream](https://open.spotify.com/track/0FkJp8j6TOpRWPCln1t9WB) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [American Dream](https://open.spotify.com/album/7v12RbeGK0O0jFbV81ZZqz) | 3:47 | 2021-11-12 | 2022-07-29 |
-| [American Dream](https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Excuses](https://open.spotify.com/album/1SkyQQYMVEndQV77xPhYFH) | 3:47 | 2022-06-21 |  |
+| [American Dream](https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Excuses](https://open.spotify.com/album/1SkyQQYMVEndQV77xPhYFH) | 3:47 | 2022-06-21 | 2023-06-19 |
 | [Amsterdam](https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Amsterdam](https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF) | 2:59 | 2023-05-19 |  |
 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 | 2022-06-21 | 2022-08-02 |
 | [Awake](https://open.spotify.com/track/0pXkRtFSYDSln6ITAPLPeP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Awake](https://open.spotify.com/album/4ZLfi2HrKy4NtIvu9S8DAB) | 3:14 | 2021-11-12 | 2022-07-28 |
@@ -201,6 +201,7 @@
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-02-11 | 2022-08-11 |
 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 | 2021-11-12 | 2022-07-29 |
 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 | 2022-06-21 | 2023-05-27 |
+| [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 | 2023-06-16 |  |
 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 | 2021-11-12 | 2022-07-29 |
 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 | 2023-01-20 | 2023-04-04 |
 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2023-03-31 |  |

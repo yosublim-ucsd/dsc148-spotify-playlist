@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2061373,
+  "num_followers": 2061709,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjhmZGJjNGRmMWI0NzAzZWJmNzU2YTUyZTM5NTg0OTk5M2NjYzA4",
+  "snapshot_id": "MCxiMWIyZDMyYTdlYWZlYzU5M2JjZDQ3MTNmZjJlNDZkMzVhZWMzODQ1",
   "tracks": [
     {
       "added_at": "2022-11-02 01:50:57",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -595,22 +595,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/04yB9kBsaEQgT8hFfcsQik"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+      "duration_ms": 140533,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -635,22 +635,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
       "artists": [
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/04yB9kBsaEQgT8hFfcsQik"
         },
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 140533,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 175954,
       "name": "1400 / 999 Freestyle",
       "url": "https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Dreams and Nightmares (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Dreams and Nightmares",
-      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Lil Uzi Vert vs. The World",
         "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198944,
       "name": "Money Longer",
       "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 136899,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1811,42 +1811,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Sanguine Paradise",
-        "url": "https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 243976,
-      "name": "Sanguine Paradise",
-      "url": "https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Hot (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
         "url": "https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH"
       },
@@ -1871,6 +1835,42 @@
       "duration_ms": 229670,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Hot (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Sanguine Paradise",
+        "url": "https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 243976,
+      "name": "Sanguine Paradise",
+      "url": "https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN"
     }
   ],
   "unique_name": "Power Gaming",

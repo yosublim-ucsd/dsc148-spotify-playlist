@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 27388,
+  "num_followers": 27432,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTM3NTE4MDM1NjMyNDNjMGIxYjE1ZWQ4ODc5YTkwZTIzNTE2ZTI4",
+  "snapshot_id": "MCwwZTE1MmQ5YzFmODc5OGQzNjZmZjY2YTJmNjRkYWY2ZjFkOTUzNjg1",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Fisherman's Wharf",
-        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Fisherman's Wharf",
-      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Vinterm\u00f8rke",
         "url": "https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 438573,
       "name": "Vinterm\u00f8rke",
       "url": "https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Fisherman's Wharf",
+        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Fisherman's Wharf",
+      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "\u00d8yne",
-        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
-      },
-      "artists": [
-        {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u00d8yne",
-      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 205084,
       "name": "Margit Hjukse",
       "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "\u00d8yne",
+        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        },
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u00d8yne",
+      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
-      },
-      "artists": [
-        {
-          "name": "Anders Hagberg",
-          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
-        },
-        {
-          "name": "Johannes Lundberg",
-          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
-        }
-      ],
-      "duration_ms": 281855,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
@@ -1019,22 +999,6 @@
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Meles Meles Revisited",
-        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 275474,
-      "name": "Meles Meles Revisited",
-      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1063,6 +1027,42 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
+      },
+      "artists": [
+        {
+          "name": "Anders Hagberg",
+          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
+        },
+        {
+          "name": "Johannes Lundberg",
+          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
+        }
+      ],
+      "duration_ms": 281855,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Meles Meles Revisited",
+        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 275474,
+      "name": "Meles Meles Revisited",
+      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "A Fine Line",
-        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
-      },
-      "artists": [
-        {
-          "name": "LITANGEN",
-          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
-        },
-        {
-          "name": "Ole Edvard Antonsen",
-          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Leilani",
-      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "A Fine Line",
+        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
+      },
+      "artists": [
+        {
+          "name": "LITANGEN",
+          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
+        },
+        {
+          "name": "Ole Edvard Antonsen",
+          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Leilani",
+      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 346333,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1623,34 +1623,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "The Height of the Reeds",
-        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Jez Riley French",
-          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
-        }
-      ],
-      "duration_ms": 263137,
-      "name": "Height of the Reeds in the Wetlands",
-      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Dansere",
         "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
       },
@@ -1683,6 +1655,34 @@
       "duration_ms": 306826,
       "name": "The Lilly Flower - Liljankukka",
       "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "The Height of the Reeds",
+        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Jez Riley French",
+          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
+        }
+      ],
+      "duration_ms": 263137,
+      "name": "Height of the Reeds in the Wetlands",
+      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Jan Garbarek: Works",
-        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Svevende",
-      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Ancient Land, New Territory",
         "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 459000,
       "name": "Sacred Rituals",
       "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     },
     {
       "added_at": "2023-06-15 22:00:00",

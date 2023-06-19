@@ -4,7 +4,7 @@
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-93 songs - 4 hr 21 min
+94 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 | 2022-11-21 |  |
 | [Rainy Village](https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:01 | 2022-11-21 |  |
 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
-| [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 |  |
+| [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2023-06-19 |
 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 | 2022-11-21 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
 | [School Rain](https://open.spotify.com/track/6yAYt0yK49AJl9Q5k39Bqq) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:25 | 2022-11-21 | 2023-02-14 |
@@ -90,6 +90,7 @@
 | [Storm Coming In](https://open.spotify.com/track/27RkRIouugY1RDkriUIhgq) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 | 2022-11-21 |  |
+| [Tea Time](https://open.spotify.com/track/6JWOqDfH29aU6BEQcNwjuz) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Tea Time](https://open.spotify.com/album/2fVKPaT3TrKbvJp0lHSWDf) | 2:24 | 2023-06-16 |  |
 | [That One Drop](https://open.spotify.com/track/3lSYBt0xBQVldfDH0WmxBe) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:10 | 2022-11-21 | 2022-12-28 |
 | [The Early Morning Rain](https://open.spotify.com/track/1BJM3u649m2wcX3myXFCA0) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Magical Rain](https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY) | 3:06 | 2022-11-21 |  |
 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 | 2023-02-13 |  |

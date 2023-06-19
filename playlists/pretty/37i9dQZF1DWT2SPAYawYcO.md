@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Teskey Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,689 likes - 93 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,706 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 68 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [To Love](https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe) | 3:36 |
 | 69 | [Loners Club](https://open.spotify.com/track/2IjgDtjJrnh3yCS8RuPlNF) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Loners Club](https://open.spotify.com/album/5sMBVP7vvUn6V6AD2sciqq) | 3:39 |
 | 70 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 |
-| 71 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 |
-| 72 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 |
+| 71 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
+| 72 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 |
 | 73 | [Runnin' The Country](https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Any Less Anymore](https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5) | 3:06 |
 | 74 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 |
 | 75 | [California On You](https://open.spotify.com/track/2VDkKjUZ0Vx4E4NDpFL628) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5), [Cuuhraig](https://open.spotify.com/artist/4Yz6rDZcx8W4BycGweekah) | [California On You](https://open.spotify.com/album/0ZPWxiCuILVgZ8TuKr1TJQ) | 3:10 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Lights Out](https://open.spotify.com/track/6aRgz7OGFmOkPJou4K1Kjk) | [The Superjesus](https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd) | [Lights Out](https://open.spotify.com/album/2YHgekK5nLHUnPeIe1YyLt) | 3:45 |
 | 93 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 |
 
-Snapshot ID: `MCw0ODk0MTc3OTgzODUyOTA0MWU4NmFmY2NiZmY3NmQ1OThhODY2YjNk`
+Snapshot ID: `MCxkYTM3MDMyMDFkOWIyMWU0OWMyYjUzZmI1NTJiMjU0NTM2OTk4NDdm`

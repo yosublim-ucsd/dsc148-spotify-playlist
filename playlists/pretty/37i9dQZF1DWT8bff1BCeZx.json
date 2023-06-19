@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2356,
+  "num_followers": 2384,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU2ZjJlNDFiNjllYTUzYjUxMWE3OTgwZWE5ZjEwNWUzOGJjYWNm",
+  "snapshot_id": "MCw1NDYwZDk4MDMwMzdjZjdkOTIyYTVhZTQwYzg0Njc1ZmE3NGJiYzVi",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
-        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        },
+        {
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
         }
       ],
-      "duration_ms": 281040,
-      "name": "My God Is Good - Live",
-      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
+        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
+        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
       "artists": [
         {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+      "duration_ms": 281040,
+      "name": "My God Is Good - Live",
+      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
     },
     {
       "added_at": "2023-04-14 16:41:04",

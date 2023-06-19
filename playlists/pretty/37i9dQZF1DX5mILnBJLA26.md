@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn?si=JBRc2lBETXi4chGKtNInfg">Daliwonga</a> & <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=HUIrt3l9S0uQqf95tbzMSQ">Myztro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,711 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,757 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Esangweni](https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Horumar](https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU) | 6:15 |
 | 50 | [Mama](https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Mama](https://open.spotify.com/album/2lc6GfPXhRMVrJsBKq1WjU) | 7:30 |
 
-Snapshot ID: `MCw1ZmY1MzY5ZDVlYTFkN2E1MzViNmUzYThhNGQwY2M1NTYwMWUyZjBi`
+Snapshot ID: `MCxlNWM0NzI3NDU3MzZmZWI1NmFlMjVmODVmYWI3Y2JjMWNmYTMwMDBl`

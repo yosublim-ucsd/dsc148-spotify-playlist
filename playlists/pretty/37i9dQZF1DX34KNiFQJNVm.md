@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima, Rebecca, Pabllo Vittar e Vivi, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,881,375 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,881,796 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 30 | [Mudança de Planos \(Ao Vivo\)](https://open.spotify.com/track/6chFDEhmENa0hTwe9wEHso) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Mudança de Plano \(Ao Vivo\)](https://open.spotify.com/album/1mp5CBvK2b2Vj2M3TYdnFZ) | 3:23 |
 | 31 | [Agora Sou Eu \- Ao Vivo](https://open.spotify.com/track/5gCLPjF6Jv6JLnckmciYSf) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0) | [Agora Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/5k1vuWvNbkQdAu54z4badz) | 2:51 |
 | 32 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
-| 33 | [Gucci & Prada](https://open.spotify.com/track/6meF8vUrYeB4pHLRIZofzu) | [Biel do Furduncinho](https://open.spotify.com/artist/1nPZztvu4RSEuN78R0iwPU), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Gucci & Prada](https://open.spotify.com/album/5Muj5XqCGlrTJsR2tN4oMa) | 2:48 |
+| 33 | [Gucci & Prada](https://open.spotify.com/track/6meF8vUrYeB4pHLRIZofzu) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9) | [Gucci & Prada](https://open.spotify.com/album/5Muj5XqCGlrTJsR2tN4oMa) | 2:48 |
 | 34 | [Coração Bandido](https://open.spotify.com/track/3XenaDXvk0R4Quz5uimamH) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O) | [Coração Bandido](https://open.spotify.com/album/3LZqiJLFjC3b6ypuaqTNwb) | 2:16 |
 | 35 | [Me Escuta](https://open.spotify.com/track/6ysi53qigel8L7apCX29if) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Me Escuta](https://open.spotify.com/album/30LznwmY9DNca9ot2NKqwV) | 2:58 |
 | 36 | [Procedimento](https://open.spotify.com/track/0mseFwyoZnneMkQjGfUnyp) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Procedimento](https://open.spotify.com/album/3cMWxrbNBGFFVV6oHFu2d3) | 3:13 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
 | 97 | [Jerry](https://open.spotify.com/track/2cg8aiFDLOPis3XaczNIVq) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Jerry](https://open.spotify.com/album/76QkizQNGfiXYBpSSl2COz) | 3:10 |
 
-Snapshot ID: `MCxiNDhmYzM3MDE1OTFlMzAwZTkyODYwMDg5YWVjM2JjYWUxMTAzODUz`
+Snapshot ID: `MCw0MjVhYmJmYTIzOTBjMmI1ZDlmNWRhZWYwYmNkMThkMDBiMjhhOWEw`

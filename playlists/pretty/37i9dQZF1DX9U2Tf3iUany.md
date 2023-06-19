@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,998 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,106 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 49 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
 | 50 | [Picture Me Rollin'](https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Danny Boy](https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga), [Syke](https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm), [C\-PO](https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:14 |
 
-Snapshot ID: `MCw4N2I4NTQ4YWU4OWQ2ODZkNDJkMjhjOWIxNDQ0YWU5OWI0YTViY2Y2`
+Snapshot ID: `MCxlOWQ1NzdlMWU2ZjczOGJiYWI1NjU5OGRmN2YwN2NhMzYyYjMyY2I0`

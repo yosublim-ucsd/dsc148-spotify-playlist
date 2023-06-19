@@ -19767,6 +19767,32 @@
     },
     {
       "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Vuma (feat. Thandiswa, Joel Ross)",
+      "url": "https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S"
+    },
+    {
+      "album": {
         "name": "Clear Water (feat. Deantoni Parks, Jeff Parker, Sanford Biggers)",
         "url": "https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE"
       },
@@ -19786,7 +19812,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/6e4zwnRMfwIbTZYDlz5A8A"

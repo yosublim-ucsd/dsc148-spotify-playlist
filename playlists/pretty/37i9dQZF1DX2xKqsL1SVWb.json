@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. El David en portada.",
-  "num_followers": 96504,
+  "num_followers": 96497,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzY3Yzc1M2QzYmQyODNiOWQxOWQ3MWJkMjg4OWYyMzAzMjAzNzFh",
+  "snapshot_id": "MCw2Y2M4NWY1NjVmMDQ2MmYzZWUwYjNiMDFmOTk4OThjYmFmZDliZTU4",
   "tracks": [
     {
       "added_at": "2023-05-23 00:04:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Sobre el Mar",
         "url": "https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 227070,
       "name": "Sobre el Mar",
       "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "La Triste Historia de un Cazafantasmas Retirado",
-        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "La Triste Historia de un Cazafantasmas Retirado",
-      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Repetir",
         "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 163958,
       "name": "Repetir",
       "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "La Triste Historia de un Cazafantasmas Retirado",
+        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "La Triste Historia de un Cazafantasmas Retirado",
+      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
     },
     {
       "added_at": "2023-05-23 00:04:32",

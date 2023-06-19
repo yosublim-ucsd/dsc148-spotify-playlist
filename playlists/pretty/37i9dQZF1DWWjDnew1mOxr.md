@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,364 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,581 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 50 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
 | 51 | [Real Life \- Edit](https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Real Life](https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb) | 3:34 |
 | 52 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 |
-| 53 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 |
-| 54 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 |
-| 55 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
-| 56 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 |
+| 53 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 |
+| 54 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 |
+| 55 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 |
+| 56 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
 | 57 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 58 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 |
 | 59 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 |
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 64 | [Cherophobe](https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 4:16 |
 | 65 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 |
 | 66 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 |
-| 67 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
-| 68 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 67 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 68 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
 | 69 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
-| 70 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
-| 71 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
+| 70 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
+| 71 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
 | 72 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 |
 | 73 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
 | 74 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 |
 | 75 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 |
 | 76 | [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 |
 | 77 | [Ritual Of The Crocodile Men](https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Electric Kool\-Aid \(Pt\. 2\)](https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI) | 3:57 |
-| 78 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 |
-| 79 | [Kaizen](https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo) | [Peaness](https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl) | [World Full Of Worry](https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl) | 3:53 |
+| 78 | [Kaizen](https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo) | [Peaness](https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl) | [World Full Of Worry](https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl) | 3:53 |
+| 79 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 |
 | 80 | [Empire](https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Empire](https://open.spotify.com/album/2zauc2kgGB5EB2CjsbPSyC) | 2:40 |
 
-Snapshot ID: `MCw4ZWRhMDVmYzUwYjAwOWQ5YTYzN2VmYTk4MzBiZmQzNGQ2MzZlNWY5`
+Snapshot ID: `MCw4YmRlYTA5NTBmNDgzYzZlZTE4MzU1MDJmMjJiYjY3YjAwYjhmNDFh`

@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Soy Sagitario",
+        "url": "https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143813,
+      "name": "Soy Sagitario",
+      "url": "https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl"
+    },
+    {
+      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },

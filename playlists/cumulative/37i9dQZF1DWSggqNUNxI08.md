@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-133 songs - 13 hr 44 min
+134 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [dk001](https://open.spotify.com/track/62UKHF3XWhdYUXbjtkyolB) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [demosdemos](https://open.spotify.com/album/0tlrRls5bOWqRWaPkr1jGl) | 4:34 | 2022-08-26 | 2023-04-01 |
 | [Drop Me a Line \- Juan MacLean Remix](https://open.spotify.com/track/5yRHvixB555MRs6L6Sg6lT) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Midnight Creepers Remixes](https://open.spotify.com/album/46Dlj3CMrNam6aPWuK9B5z) | 7:27 | 2022-06-01 | 2023-04-01 |
 | [EightyEight](https://open.spotify.com/track/3eHIFLmiwFXCnKCdbtiVdM) | [Crooked Finger](https://open.spotify.com/artist/4cqEOoPsVsqNxRkcxqRGqP) | [Marshlands EP](https://open.spotify.com/album/5MFoaC6XxVoQGbA5qE4ff9) | 4:32 | 2023-03-31 |  |
-| [Electronic Battle Weapon 8](https://open.spotify.com/track/3cyBVoTrCbaXLmFlTiGiBm) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood \(Deluxe\)](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 6:30 | 2023-03-31 |  |
+| [Electronic Battle Weapon 8](https://open.spotify.com/track/3cyBVoTrCbaXLmFlTiGiBm) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood \(Deluxe\)](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 6:30 | 2023-03-31 | 2023-06-19 |
+| [Electronic Battle Weapon 8](https://open.spotify.com/track/7qIM4nPTf76IB9KfnjL1Ss) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood \(Deluxe\)](https://open.spotify.com/album/69zknofz4OJXnPHvpeqiMB) | 6:30 | 2023-03-31 |  |
 | [Elements of Tone \(Richie's Dream Mix\)](https://open.spotify.com/track/4rdKRVGanH5UfA5KL3hgdr) | [States Of Mind](https://open.spotify.com/artist/0owGqL3J5ny9ZwU1SlKoZQ), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Elements of Tone](https://open.spotify.com/album/0hY8PS0YuoTqYVFpisXzpn) | 6:10 | 2022-04-18 | 2023-04-01 |
 | [Enkuan Pt\. 2](https://open.spotify.com/track/4rccdTi0hj8Hbb8Q3lkZgz) | [Kalbata](https://open.spotify.com/artist/3Z5QRKDowunj7BXTvF2nyk) | [Enkuan](https://open.spotify.com/album/2GVsQf6DL3f1Ptq2nx3y6g) | 6:52 | 2022-04-18 | 2023-04-01 |
 | [Every Star Has Its Own Story](https://open.spotify.com/track/1DiT6haI3ljXNsCTrIqVu7) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Dreaming With Friends](https://open.spotify.com/album/7LIeEnj5Fwb7TJE8KgX754) | 6:14 | 2022-08-26 | 2023-04-01 |

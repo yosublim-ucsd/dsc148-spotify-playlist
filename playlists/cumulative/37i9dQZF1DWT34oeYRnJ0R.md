@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Farruko
 
-288 songs - 14 hr 57 min
+289 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3 y Pico](https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [3 y Pico](https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp) | 3:10 | 2022-12-12 |  |
 | [828](https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [828](https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS) | 3:24 | 2022-03-21 | 2022-09-07 |
 | [9 Times Outta 10](https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [9 Times Outta 10](https://open.spotify.com/album/3kJqAgJe5yJX8VIcx6ER9b) | 2:52 | 2022-09-06 | 2022-12-07 |
+| [Acurrucao](https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sofia LaSanta](https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0) | [Acurrucao](https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s) | 3:06 | 2023-06-16 |  |
 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 | 2022-12-06 |  |
 | [Air France](https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:06 | 2023-03-17 |  |
 | [Ajá](https://open.spotify.com/track/4YqdIV12MK7UWIyba06ClS) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/1qEiCOKtTqYhPjZrism2Ie) | 2:22 | 2022-03-21 | 2022-07-29 |
@@ -100,7 +101,7 @@
 | [Ex\-cuchame](https://open.spotify.com/track/0ylhkGZlEb7voUCtImnBCp) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [Ex\-cuchame](https://open.spotify.com/album/6F9ccz0Yg3oKp4BvtoqKL1) | 2:36 | 2022-03-21 | 2022-07-28 |
 | [EX\-CUCHAME](https://open.spotify.com/track/3PZqZblMEUrdNFfIpMnbEe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [EX\-CUCHAME](https://open.spotify.com/album/4IBp5uFdjpBJoQyWCWvwed) | 2:36 | 2022-07-26 | 2022-09-07 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-21 | 2022-09-07 |
-| [Falso Amigo](https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Paulino Rey](https://open.spotify.com/artist/6r8AR7aYfjCbNNkugkHXOF), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Falso Amigo](https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn) | 4:14 | 2023-02-24 |  |
+| [Falso Amigo](https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Paulino Rey](https://open.spotify.com/artist/6r8AR7aYfjCbNNkugkHXOF), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Falso Amigo](https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn) | 4:14 | 2023-02-24 | 2023-06-19 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-03-21 | 2022-06-01 |
 | [Flores](https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Flores](https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B) | 2:51 | 2022-10-09 | 2023-05-13 |
 | [Flow Lavoe](https://open.spotify.com/track/1QLpTmTwY3bD2RSJsNykDO) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Flow Lavoe](https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD) | 3:39 | 2022-03-21 | 2022-09-07 |

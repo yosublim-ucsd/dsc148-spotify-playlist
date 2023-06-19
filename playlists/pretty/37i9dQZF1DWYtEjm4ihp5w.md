@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,340 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,459 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 7 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
 | 8 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 |
 | 9 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
-| 10 | [ALLO A!](https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [ALLO A!](https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh) | 3:31 |
-| 11 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 |
-| 12 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
+| 10 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
+| 11 | [ALLO A!](https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [ALLO A!](https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh) | 3:31 |
+| 12 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 |
 | 13 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 14 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 15 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 |
 | 50 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 
-Snapshot ID: `MCw4MTE4ZDAyMjZjY2EzOWUzMTYyMWRjODE1MDdlYjQ2OWU0MzY4OWQy`
+Snapshot ID: `MCwwNGYwNDI4NzAwZTVjYTAzOTE0NmU2MGU5MzliYWNiZGE0NjFkMGY5`

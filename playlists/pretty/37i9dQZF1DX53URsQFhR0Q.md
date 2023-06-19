@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 5 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
 | 6 | [Nyame Eguamba](https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 5:05 |
 | 7 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
-| 8 | [Meda Wase](https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 5:07 |
-| 9 | [E Be God](https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [The Counselor I](https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry) | 5:06 |
+| 8 | [E Be God](https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [The Counselor I](https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry) | 5:06 |
+| 9 | [Meda Wase](https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 5:07 |
 | 10 | [Adam Nana](https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Adam Nana](https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH) | 3:50 |
 | 11 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 |
 | 12 | [Ghana Local Worship](https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Naa Mercy](https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib), [Calvis Hammond](https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 16:17 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 22 | [Ayeyi Ndowm](https://open.spotify.com/track/25oRGk2NVHd5yHFuQwp2ES) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/5caDSXSNgN6sPsCJRWCqNT) | 6:18 |
 | 23 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 24 | [Yesu Mo](https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 8:47 |
-| 25 | [Obi Nyanime](https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5) | [Patience Nyarko](https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI) | [Obi Nyanime](https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ) | 6:14 |
+| 25 | [Yesu Ne Me Last Stop](https://open.spotify.com/track/0yWlIiRLJXi4Siel6ikXRf) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Classic Album Vol\. 2](https://open.spotify.com/album/5F0Uo7m62BtL0qpXg7Ysxt) | 4:56 |
 | 26 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 |
 | 27 | [Me Da Wase](https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om) | [Esther Smith](https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8) | [Onyame Wo Ho](https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo) | 5:02 |
-| 28 | [Yesu Ne Me Last Stop](https://open.spotify.com/track/0yWlIiRLJXi4Siel6ikXRf) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Classic Album Vol\. 2](https://open.spotify.com/album/5F0Uo7m62BtL0qpXg7Ysxt) | 4:56 |
+| 28 | [Obi Nyanime](https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5) | [Patience Nyarko](https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI) | [Obi Nyanime](https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ) | 6:14 |
 | 29 | [Osoro Ne Yefie](https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B) | [Florence Obinim](https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO) | [Osoro Ne Yefie](https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx) | 7:14 |
 | 30 | [Agyenkwah](https://open.spotify.com/track/0Mo8oQn8ZjAhU8ftXjxrg7) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [My Saviour](https://open.spotify.com/album/5dDZ6d85Ak4mwjt5YUvwlC) | 5:31 |
 | 31 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 33 | [Aseda Nwom](https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:01 |
 | 34 | [Wo Ntaban](https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 7:07 |
 | 35 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
-| 36 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
+| 36 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
 | 37 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 |
-| 38 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
+| 38 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
 | 39 | [Twediampong Nyame](https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Asomdwoe Hene](https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2) | 5:12 |
 | 40 | [Mema Meni So](https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:18 |
 | 41 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 49 | [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 |
 | 50 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
 
-Snapshot ID: `MCxhYTkxMWUwZjJjNDU1OTEwMmZjNDA0YjgwMmRmOWM5YmVlZmFkNGE2`
+Snapshot ID: `MCxmZWY1MTRkNGVkZTNkYTVlMThmYjQ3YzYxODEyNDJjZWY5ZDdhZTFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,167,280 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167,542 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [First Show](https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [First Show](https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC) | 2:01 |
 | 50 | [Cuban Links](https://open.spotify.com/track/70PwWKcHVAMSpdNAuq1P7i) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Cuban Links & Drug Habits](https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD) | 2:38 |
 
-Snapshot ID: `MCw2ZmEzMWFjMGRmMWQyNzNhMjRhZDhkODViNWE4MzA4MWZmZmZmODI3`
+Snapshot ID: `MCwwOGQ2NzIzOGIzODI2MjczMTljZGFhMjBhYjU0OGNiMjU0NDg4Mzc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,750 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,743 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 26 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 27 | [Do They Know It's Christmas](https://open.spotify.com/track/4AFTW65X9He0p8NONkBPy8) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:55 |
 | 28 | [Santa Tell Me](https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY) | [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [An Electronic Christmas](https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc) | 2:05 |
-| 29 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
-| 30 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
+| 29 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
+| 30 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
 | 31 | [Carnival \- Xmas Edition](https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:19 |
 | 32 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 |
 | 33 | [All I Want for Christmas](https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft) | [All I Want for Christmas](https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1) | 2:58 |
 | 34 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 35 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 | 36 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
-| 37 | [Hush Dear Santa](https://open.spotify.com/track/7uS0lTOVielpbtTmFz4xY4) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [Christmas With Yellow Claw](https://open.spotify.com/album/25bktrqlypnTwJ50DhC3n2) | 3:44 |
+| 37 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 
-Snapshot ID: `MCw2M2MwOTc3NTY3NjhjZWQ1N2VmOTU3OTA5NzU3MzJlODU5YTAzM2Qz`
+Snapshot ID: `MCwyYTY2ZTg4ZWRkMjEyYzcwNTZjYmE5MDBjM2M0Y2NmY2MyNDJlNmZm`

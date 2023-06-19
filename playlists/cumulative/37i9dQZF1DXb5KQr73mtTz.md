@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-227 songs - 14 hr 53 min
+228 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Those Diaries Just Become Letters](https://open.spotify.com/track/3cv2uvppoO6Y16nCK7yUCD) | [Woogotsa](https://open.spotify.com/artist/4L4Q8o66UwJNBp1KQ61PSX) | [All Those Diaries Just Become Letters](https://open.spotify.com/album/0hnlm6tTqE7YrNpn1NJlLa) | 3:30 | 2022-05-11 | 2022-05-31 |
 | [Answer \(stripped\)](https://open.spotify.com/track/21QBCAv8n2r3SOp8tdE3j5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/0SGcO8HBEvjreo6qugr0DI) | 3:02 | 2022-06-20 | 2022-06-23 |
 | [As If Love Meant Nothing 사랑이란 걸 우습게 \(Feat\. 이영훈\)](https://open.spotify.com/track/12P5BBKsONpPEGjSlHGHNP) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Lee Young Hoon](https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 3:53 | 2022-05-11 | 2022-06-28 |
+| [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 | 2023-06-13 |  |
 | [Be There](https://open.spotify.com/track/54HhEX0mo3qzeZ6p5eVAuR) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Missing: The Other Side \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/571YDQTthWsEC6ROgr1CoQ) | 3:25 | 2022-05-11 | 2022-07-24 |
 | [Bird](https://open.spotify.com/track/3ZbGV3tQ7nnJaqArImPw3M) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 5:40 | 2022-05-11 | 2022-06-01 |
 | [Bird \- Demo](https://open.spotify.com/track/7bstJcLT7H9yfsEvuqr7rM) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Bird \(Demo\)](https://open.spotify.com/album/62wOC2ryXDqnqhWvEmxIyE) | 2:10 | 2022-05-11 | 2022-06-07 |
@@ -30,7 +31,7 @@
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 | 2022-09-06 |
 | [Clean one's memory](https://open.spotify.com/track/5GUMM036S9oUGz8CYjkpHV) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Clean one's memory](https://open.spotify.com/album/0dx7RuSLGAC52CtUaIgKNC) | 3:56 | 2022-05-11 | 2022-06-01 |
 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 | 2022-05-11 |  |
-| [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 | 2023-02-28 |  |
+| [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 | 2023-02-28 | 2023-06-19 |
 | [Common Regret](https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Monthly magazine home \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/6botCjfBk16Z9AjJL1jv9U) | 4:17 | 2022-05-11 | 2022-07-29 |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2022-05-11 |  |
 | [Daystar](https://open.spotify.com/track/2AQNKHky27hmJyPMNcDiNk) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:58 | 2022-05-11 | 2022-07-29 |

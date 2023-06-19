@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: The Revivalists\n",
-  "num_followers": 467430,
+  "num_followers": 467473,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTJkYjlmMWEyMTVkZDhhNDUyNTZlNzVkYWIzZjc5ODkwNzg5ZGNi",
+  "snapshot_id": "MCwyZjhiZGE3ZDY5NTc1MWZiNjA5N2UwN2MxYmYzM2U4MjA2YjllZTBh",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Council Skies",
         "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 233164,
       "name": "Easy Now",
       "url": "https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 247895,
-      "name": "Step Aside",
-      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "See Where The Night Goes",
+        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 247895,
+      "name": "Step Aside",
+      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Bandit / 100,000 People",
-        "url": "https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 250961,
-      "name": "The Bandit",
-      "url": "https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Mercy Mercy",
         "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Bandit / 100,000 People",
+        "url": "https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 250961,
+      "name": "The Bandit",
+      "url": "https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 330672,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Play Loud",
         "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Pretty Monster",
-        "url": "https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 200622,
-      "name": "What\u2019s It Take To Be Happy?",
-      "url": "https://open.spotify.com/track/6alaXw9ipZ6ajVjXpQ3kDy"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "What Matters Most",
         "url": "https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 215420,
       "name": "Exhausting Lover",
       "url": "https://open.spotify.com/track/0CddCJAM7uawhCezlJc2YK"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Pretty Monster",
+        "url": "https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 200622,
+      "name": "What\u2019s It Take To Be Happy?",
+      "url": "https://open.spotify.com/track/6alaXw9ipZ6ajVjXpQ3kDy"
     },
     {
       "added_at": "2023-06-09 04:00:00",

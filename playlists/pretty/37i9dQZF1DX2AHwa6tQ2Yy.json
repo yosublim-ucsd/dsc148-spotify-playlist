@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 37261,
+  "num_followers": 37298,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDYyN2U2ZjUwYjU0Nzg0YThjMDQ1NDU4MGI1Y2RiZGNiYjMxNTQ1",
+  "snapshot_id": "MCwxZDJhNDQ2MTdlZWU4MTM5YzE5MWNiZGQzYmI3ODhiYTQ5ZjkyOWZk",
   "tracks": [
     {
       "added_at": "2023-06-16 00:58:32",
@@ -335,8 +335,8 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Oceans Of Emotions",
-        "url": "https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
@@ -346,7 +346,7 @@
       ],
       "duration_ms": 233298,
       "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4"
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 230853,
       "name": "Naomi",
       "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Sunrise Bang Ur Head Against Tha Wall",
-        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
-      "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Sunrise Bang Ur Head Against Tha Wall",
+        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
     },
     {
       "added_at": "2023-06-16 00:58:32",

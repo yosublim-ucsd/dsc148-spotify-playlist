@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 719107,
+  "num_followers": 719221,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZThhMWNlZDVmYzdiNTI4ZGZkNWEyMTdkNzkxYTE1YzQxNGI3OTM3",
+  "snapshot_id": "MCw1ZDE1YmJkNzdlMzdiZTEyNDQ3NGE0NGJmNjYyOGJjOWQ2ZWY2MmU1",
   "tracks": [
     {
       "added_at": "2023-06-02 13:48:53",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 188877,
-      "name": "First Day of My Life",
-      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "First Day of My Life",
+      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Making All Things New",
-        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Making All Things New",
-      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Making All Things New",
+        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Making All Things New",
+      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Cherry Tree (2021 Remaster)",
-        "url": "https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "About Today - 2021 Remaster",
-      "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 280106,
       "name": "Waltz #2 (XO)",
       "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Cherry Tree (2021 Remaster)",
+        "url": "https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "About Today - 2021 Remaster",
+      "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
       },
@@ -1679,22 +1663,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Change It All",
-        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Change It All",
-      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Welcome To The Cruel World",
         "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
@@ -1707,6 +1675,38 @@
       "duration_ms": 204360,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Change It All",
+        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 247413,
+      "name": "Change It All",
+      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Gulag Orkestar",
         "url": "https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Magnolia (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Forever Ago",
-      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Forever Ago",
+      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Without/Within",
         "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2023-06-02 13:48:53",

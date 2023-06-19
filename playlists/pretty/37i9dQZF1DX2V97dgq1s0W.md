@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Mahalia & Jojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,231 likes - 78 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,324 likes - 78 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 77 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 78 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 |
 
-Snapshot ID: `MCxmODcyNDQ4OGI0MzZkZDJkZTllNDk2MWM2ZGIzYWYyMzQ3OWFiYjQ4`
+Snapshot ID: `MCw4ZDEwZDlkNDBhMGIzYmU2MmY1MDk0ODUyY2EwNWI1YzIxNThmMmVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Oscar Ortíz & Polo González en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,143 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,318 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Sembrando El Terror \(LA FEA\)](https://open.spotify.com/track/4VsKiyPsh86UMjtYrO9lUv) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Sembrando El Terror \(LA FEA\)](https://open.spotify.com/album/6yNoui1q5w7kyZ3I9L1NRP) | 2:53 |
 | 75 | [East LA](https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [East LA](https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt) | 2:50 |
 
-Snapshot ID: `MCwxMmUyZTRmZDc1N2MzNDVlNjMwY2Q2MTUyMzVhNTg5YWMyMzYzOTQ2`
+Snapshot ID: `MCxiYzkyNDRlMzdlOGJmZGFmN2JiOWU2N2Y0NzE2M2IwOWFkZGMyZmMy`

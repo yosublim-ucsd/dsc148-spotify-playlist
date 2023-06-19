@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321360,
+  "num_followers": 321370,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTM1N2M5OTg2YjZiOGM4OWQ2YjVhZWU5NWRiMGE3M2JjNDBhMzZl",
+  "snapshot_id": "MCxjZTU1ZTNkZDM3OTVjMTdlNTIxZTVjYzc4NWJhNDE4OWM0N2M1OTMy",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 186541,
       "name": "Don't Stop Just Yet",
       "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
     },
     {
       "added_at": "2022-06-20 14:23:17",

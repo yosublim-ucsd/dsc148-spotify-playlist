@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 791869,
+  "num_followers": 792868,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWJhNjBlOTgyOTkxNTQxMzY3ZjY2ZTBmM2U0OWI1YTEwZjQxOGVi",
+  "snapshot_id": "MCw1ZDg4MDYwY2Q0YjE0OThiOGJhMjM0NzI3MDU1OTFlZWQwODczMjdk",
   "tracks": [
     {
       "added_at": "2023-05-17 13:30:04",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
+        "name": "SremmLife",
+        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Come Get Her",
+      "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP"
+    },
+    {
+      "added_at": "2023-05-17 13:30:04",
+      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 228453,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX"
-    },
-    {
-      "added_at": "2023-05-17 13:30:04",
-      "album": {
-        "name": "SremmLife",
-        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Come Get Her",
-      "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -679,22 +679,22 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "Into Your Arms (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Witt Lowry",
-          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 186022,
-      "name": "Into Your Arms (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
+      "duration_ms": 163173,
+      "name": "Like That (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -735,22 +735,22 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Into Your Arms (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Witt Lowry",
+          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
         },
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+      "duration_ms": 186022,
+      "name": "Into Your Arms (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
     },
     {
       "added_at": "2023-01-03 14:49:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,503 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,563 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 22 | [People](https://open.spotify.com/track/3ERlkLtr5K5C7VUqlDcNSR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:38 |
 | 23 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 |
 | 24 | [The Void Stares Back](https://open.spotify.com/track/22lCyX2trHjfaFiNrzxpZr) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/2puIthwRPxgxmRUe7YQgTN) | 3:51 |
-| 25 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
-| 26 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
+| 25 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
+| 26 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
 | 27 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 |
-| 28 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 |
+| 28 | [Tea Parties With Dale Earnhardt](https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Tea Parties With Dale Earnhardt](https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl) | 1:41 |
 | 29 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 |
-| 30 | [Tea Parties With Dale Earnhardt](https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Tea Parties With Dale Earnhardt](https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl) | 1:41 |
+| 30 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 |
 | 31 | [antifreeze\*](https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [antifreeze\*](https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o) | 2:02 |
 | 32 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 |
 | 33 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 35 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
 | 36 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 37 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
-| 38 | [Telephones 4 Eyes](https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Telephones 4 Eyes](https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa) | 3:09 |
-| 39 | [Loverman](https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:13 |
+| 38 | [Loverman](https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:13 |
+| 39 | [Telephones 4 Eyes](https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Telephones 4 Eyes](https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa) | 3:09 |
 | 40 | [Go Get A Tattoo](https://open.spotify.com/track/7tPXk1owYIRdxRsitIxqOU) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Sticky](https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV) | 2:38 |
 | 41 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 42 | [Pool Hopping](https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 62 | [Bloom](https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 3:50 |
 | 63 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
 | 64 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 65 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 66 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
+| 65 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
+| 66 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
 | 67 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
 | 68 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
 | 69 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 76 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
 | 77 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 |
 | 78 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
-| 79 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
-| 80 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 79 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 80 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
 
-Snapshot ID: `MCwxMzQ1NGQwZWZhNzZkMWQyNzBlZDFlMDliNjg0ZWRhZDVmZThkODNi`
+Snapshot ID: `MCwwY2EyOGQxYzI4NzMyNTQ1ZWY5MTYyOTljMjEzYjJhZWY4ZGY0Yjdk`

@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 336113,
+  "num_followers": 336356,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjA1MGE0NDc1Zjk1ZTcwZTk1MzYyM2UwZmJhYTQyNGZjMTVlYjg4",
+  "snapshot_id": "MCw5OTZmMzMzNDdkZmI1ZjE2NTEwZTlkM2Y3MWFmNDJjOGY1N2RjYzM0",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "C\u00f3mo Me Duele Amor",
+      "url": "https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 192653,
       "name": "Separados",
       "url": "https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Quier\u00e9me M\u00e1s",
-        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
-      },
-      "artists": [
-        {
-          "name": "Grupo Modelo",
-          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Qui\u00e9reme M\u00e1s",
-      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+        "name": "Quier\u00e9me M\u00e1s",
+        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Grupo Modelo",
+          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
         }
       ],
-      "duration_ms": 190013,
-      "name": "C\u00f3mo Me Duele Amor",
-      "url": "https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ"
+      "duration_ms": 238493,
+      "name": "Qui\u00e9reme M\u00e1s",
+      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
     },
     {
       "added_at": "2022-03-17 00:19:47",

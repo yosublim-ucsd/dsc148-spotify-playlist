@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,580 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,578 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 18 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 19 | [Oi To The World](https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 2:40 |
 | 20 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
-| 21 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 |
-| 22 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
+| 21 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
+| 22 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 |
 | 23 | [Making Christmas](https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:26 |
 | 24 | [Christmas Vacation](https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:39 |
 | 25 | [Xmas Has Been X'ed](https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:43 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 61 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
 | 62 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 63 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
-| 64 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
-| 65 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 |
+| 64 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 |
+| 65 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 66 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 67 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 68 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 70 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 71 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 |
 | 72 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
-| 73 | [Father Christmas](https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:29 |
-| 74 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
-| 75 | [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 |
+| 73 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
+| 74 | [Father Christmas](https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:29 |
+| 75 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 |
 
-Snapshot ID: `MCwyYmI4ZTNlY2ZiZTY4OTk3ODA5YmVjNWRhZGZlODUwMTNjMTMyYTVh`
+Snapshot ID: `MCxhOTVlYTczNzI3OWZmMjZkZmNhZGE1MDcyNDYxMDgxZjM0YWJmNmVm`

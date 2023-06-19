@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,802 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,811 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 42 | [It Is Finished \- Live](https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:27 |
 | 43 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
 | 44 | [King \- Live From Passion 2023](https://open.spotify.com/track/4U4pdy7qkgbXdmIQqONia7) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 3:27 |
-| 45 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
-| 46 | [Beautiful Jesus \- Live From Passion 2022](https://open.spotify.com/track/3XAC2YU2w2hhJbWiswnfDd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:49 |
+| 45 | [Beautiful Jesus \- Live From Passion 2022](https://open.spotify.com/track/3XAC2YU2w2hhJbWiswnfDd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:49 |
+| 46 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
 | 47 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/3exoPpEA6dsPy7EL9ogyvZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 7:21 |
 | 48 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 |
 | 49 | [Prodigals \- Live From Camp](https://open.spotify.com/track/6lNlYACPYGaJtr1pCi6LSh) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 5:16 |
 | 50 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDAxNjgzNzhlNzVhMzY5ZWMyZjk1MjUyZjhlYjhkNWY2OQ==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDBhNzRlZmY2MjUzMDI3NDI5ZmE3NDhjMGY0ODUxYWIxMg==`

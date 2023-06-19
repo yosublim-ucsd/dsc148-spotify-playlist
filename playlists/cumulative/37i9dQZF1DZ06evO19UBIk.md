@@ -4,14 +4,14 @@
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 51 min
+72 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alabama Song \(Whisky Bar\)](https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:17 | 2022-01-11 |  |
 | [An American Prayer](https://open.spotify.com/track/2VDkE9sdVpQAgEqH5fvTMV) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 3:04 | 2022-10-12 |  |
 | [Awake](https://open.spotify.com/track/6U65Pc0A2qHYwJoU1OLgH0) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 0:35 | 2022-01-11 | 2023-04-21 |
-| [Back Door Man](https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:32 | 2022-01-12 |  |
+| [Back Door Man](https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:32 | 2022-01-12 | 2023-06-19 |
 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 | 2022-01-11 |  |
 | [Bird of Prey](https://open.spotify.com/track/0psPuObi7UupQnXjaex39e) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:03 | 2022-10-12 |  |
 | [Black Polished Chrome](https://open.spotify.com/track/2txVWU6tG6NdEyTnm1P1WQ) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:07 | 2022-09-25 |  |
@@ -56,11 +56,11 @@
 | [Runnin' Blue](https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:26 | 2023-04-06 |  |
 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 | 2022-05-17 |  |
 | [Ships With Sails \- Live 1972](https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 9:06 | 2022-05-21 | 2022-10-13 |
-| [Soul Kitchen](https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:33 | 2022-01-11 |  |
+| [Soul Kitchen](https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:33 | 2022-01-11 | 2023-06-19 |
 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 | 2022-01-11 |  |
 | [Strange Days](https://open.spotify.com/track/4WFVX3E568hdAixIj3U222) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:06 | 2022-01-11 |  |
 | [Summer's Almost Gone](https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:19 | 2022-09-06 | 2022-10-13 |
-| [Take It as It Comes](https://open.spotify.com/track/4pxHVL0syMQwYK3BxDaTIs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:14 | 2022-01-20 | 2023-06-17 |
+| [Take It as It Comes](https://open.spotify.com/track/4pxHVL0syMQwYK3BxDaTIs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:14 | 2022-01-20 |  |
 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 | 2022-01-11 |  |
 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 | 2022-01-11 |  |
 | [The Crystal Ship](https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:32 | 2022-01-11 |  |
@@ -69,6 +69,7 @@
 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 | 2022-01-11 | 2023-05-20 |
 | [The WASP \(Texas Radio and the Big Beat\)](https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:13 | 2022-01-11 | 2023-03-31 |
 | [Touch Me](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:10 | 2022-01-11 |  |
+| [Twentieth Century Fox](https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:31 | 2023-06-18 |  |
 | [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 | 2023-06-10 |
 | [Universal Mind \- Live](https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Absolutely Live](https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul) | 4:54 | 2022-10-01 | 2022-10-03 |
 | [Verdillac \- Live 1972](https://open.spotify.com/track/0Bsm78b7ixlm4XP07MBImt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 7:10 | 2022-06-12 | 2022-06-16 |

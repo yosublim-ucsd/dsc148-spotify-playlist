@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,995 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,997 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [熟年\(《熟年》电视剧主题曲\)](https://open.spotify.com/track/6MLxmVuayY1AJQcJDrxx9g) | [那英](https://open.spotify.com/artist/35ig3ZjuqVyGeovLsj4xNm) | [熟年\(《熟年》电视剧主题曲\)](https://open.spotify.com/album/2b5Oz55l8UZVE3xeYhVDpL) | 3:45 |
 | 105 | [Everybody Loves Me \(feat\. OSN\)](https://open.spotify.com/track/4JgKspihSALxCamtUn18ne) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [OSN](https://open.spotify.com/artist/4A2CGVLQ1toami9jfRRYrO) | [Everybody Loves Me](https://open.spotify.com/album/6RTf5ozeT2yY8r9ulviPK4) | 3:31 |
 
-Snapshot ID: `MCw2NDkwNzdjYzllNWJjYTRkMzMyM2E3YzU0OWYwNDgzZjhjZmUxMDBl`
+Snapshot ID: `MCwwOTBlZmRiZjE2YTVjYmE3MDQzYzllYTU5ZWU3YzhhOGQxZTQzZjQ4`

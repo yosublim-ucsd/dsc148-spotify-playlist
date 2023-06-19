@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Emilia y LUDMILLA en portada.",
-  "num_followers": 68623,
+  "num_followers": 68661,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgyMTNiMmRkMDFkNjE0ZWRjZmMwYWViYmNlYzA1YWZjNGQ0YTc3",
+  "snapshot_id": "MCw0YjA3NzM4MjBkNmYwYWQ4OTY5NjUxMWEzNjM4Nzc5MmNhYTIyOGY1",
   "tracks": [
     {
       "added_at": "2023-05-19 16:47:32",
@@ -663,18 +663,22 @@
     {
       "added_at": "2023-05-19 16:47:32",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+        "name": "Bendita",
+        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
       },
       "artists": [
         {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
         }
       ],
-      "duration_ms": 103520,
-      "name": "X Tu Casa",
-      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
+      "duration_ms": 199138,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
     },
     {
       "added_at": "2023-05-19 16:47:32",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-05-19 16:47:32",
       "album": {
-        "name": "Bendita",
-        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
       "artists": [
         {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Bendita",
-      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
+      "duration_ms": 103520,
+      "name": "X Tu Casa",
+      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
       "added_at": "2023-05-19 16:47:32",
@@ -779,10 +779,6 @@
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
       "artists": [
-        {
-          "name": "LA FIRMA",
-          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
-        },
         {
           "name": "Nashy-Nashai",
           "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"

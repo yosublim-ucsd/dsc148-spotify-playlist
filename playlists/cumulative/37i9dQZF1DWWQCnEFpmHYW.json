@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Prado La Paz",
+        "url": "https://open.spotify.com/album/33Z3RlFM5GBQoNHIRduBFJ"
+      },
+      "artists": [
+        {
+          "name": "Temporada",
+          "url": "https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168062,
+      "name": "Prado la Paz",
+      "url": "https://open.spotify.com/track/34o6NtWfKIR45JAIdh1sr1"
+    },
+    {
+      "album": {
         "name": "Nordic Drops",
         "url": "https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 150375,
       "name": "Rainily",
       "url": "https://open.spotify.com/track/1OAshDUjEqlRk7nKthpMHP"

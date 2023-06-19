@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 80656,
+  "num_followers": 80826,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTA5OWFjYjBlMGI2MjJiODQ5MjdhZGFiZGFjOTQ2ZWU0ZTIyZWI2",
+  "snapshot_id": "MCwzZmZhYzc3MjMxMGQzYWFkYjg4OWRiMzFjODFiZmU1ZWVkZmFkMmE0",
   "tracks": [
     {
       "added_at": "2023-06-14 07:18:04",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Day Into Night",
-        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
-      },
-      "artists": [
-        {
-          "name": "Bob Mamet",
-          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Greenstreet",
-      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 234733,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "Day Into Night",
+        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
+      },
+      "artists": [
+        {
+          "name": "Bob Mamet",
+          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Greenstreet",
+      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259973,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Somethin' Bout Love",
-        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Somethin' Bout Love",
-      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 343093,
       "name": "That's The Way Of The World",
       "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "Somethin' Bout Love",
+        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Somethin' Bout Love",
+      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+      "duration_ms": 276106,
+      "name": "Last Look",
+      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -1155,22 +1171,6 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Last Look",
-      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "The Collected",
-        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "Take-Out Dreams",
-      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 280240,
       "name": "Grover's Groove",
       "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "The Collected",
+        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "Take-Out Dreams",
+      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Body And Soul",
-        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Missing in Venice",
-      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "One Special Moment",
         "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 317066,
       "name": "Secrets Told",
       "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "Body And Soul",
+        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Missing in Venice",
+      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
     },
     {
       "added_at": "2023-06-14 07:18:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-14 07:18:04",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 274013,
-      "name": "Send One Your Love",
-      "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
-    },
-    {
-      "added_at": "2023-06-14 07:18:04",
-      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 272773,
       "name": "Let's Get Close",
       "url": "https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP"
+    },
+    {
+      "added_at": "2023-06-14 07:18:04",
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 274013,
+      "name": "Send One Your Love",
+      "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
     },
     {
       "added_at": "2023-06-14 07:18:04",

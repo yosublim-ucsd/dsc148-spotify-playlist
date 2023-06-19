@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 146 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359 likes - 146 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 89 | [Rivers](https://open.spotify.com/track/7MWlxS6vpJlfPNaerI0lg3) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/0jbizUOHY9uVKoWyjlmyg2) | 2:57 |
 | 90 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
 | 91 | [Get Me High](https://open.spotify.com/track/1VsneXMrJosdMAJvu0BWFt) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:16 |
-| 92 | [LillyAnna](https://open.spotify.com/track/69n8GjP8t3zvmBreg3UoBO) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:49 |
-| 93 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
+| 92 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
+| 93 | [LillyAnna](https://open.spotify.com/track/69n8GjP8t3zvmBreg3UoBO) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:49 |
 | 94 | [I Was in a Cult](https://open.spotify.com/track/5qDh8zjZSggVN0hJzIUgtD) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:03 |
 | 95 | [Back Together](https://open.spotify.com/track/4MMnlmSn5AUIsY6lA1QveR) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Sings His Sad Heart](https://open.spotify.com/album/7AVpGcmTby2g0rzkcqQj5o) | 3:03 |
 | 96 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 145 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 146 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxMTYxMTAsMDAwMDAwMDBkMjgyZTk4OTdmMWZjYTJiNjJkMjA5NjE4ODU2ZmVhYQ==`
+Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDA4ZDhmMmVhOGQ5MDkwMzM1NDY0YTU1YzI5YzBhYjJkNQ==`

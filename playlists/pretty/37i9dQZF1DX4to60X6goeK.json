@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44398,
+  "num_followers": 44442,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTg0MDdkYTEzODlhYjlhMmUxOTVmYzRlNDMxMjI0YjcyNGNkMDQ2",
+  "snapshot_id": "MCwzNjc5YTVkMTIzZDUwNTZjMmZkYjk5NWZiMjI1YTg4Y2ZiOWFkYjRh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -727,18 +727,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Patch Edison",
+          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
         }
       ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+      "duration_ms": 237284,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -775,22 +779,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
       },
       "artists": [
         {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "Patch Edison",
-          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         }
       ],
-      "duration_ms": 237284,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",

@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Usted Se\u00f1alemelo en Portada. ",
-  "num_followers": 151402,
+  "num_followers": 151450,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTRmNDEyZTQzZGI0Y2YxMjU4ZTg1MDE4ODgxYjljY2VhMzNmNGQ0",
+  "snapshot_id": "MCwwZDgzZDA0ZTU4NmZkMjhmMzVkNzFmM2M2Y2I0ZTU5MTlhMjcxYzJi",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 174727,
       "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Salsa Valentina",
-        "url": "https://open.spotify.com/album/6MTD0YxcIA0jHwNZT64f9m"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        }
-      ],
-      "duration_ms": 127625,
-      "name": "la marea nunca te la va a devolver",
-      "url": "https://open.spotify.com/track/1s3mjJnz5zFrXjqEYWrJlJ"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Medalla de Oro",
         "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Salsa Valentina",
+        "url": "https://open.spotify.com/album/6MTD0YxcIA0jHwNZT64f9m"
+      },
+      "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "duration_ms": 127625,
+      "name": "la marea nunca te la va a devolver",
+      "url": "https://open.spotify.com/track/1s3mjJnz5zFrXjqEYWrJlJ"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Calles de Talcahuano",
-        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 226572,
-      "name": "Calles de Talcahuano",
-      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
-        "url": "https://open.spotify.com/album/1Em5tVCOcTebi6IQVdPN5k"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
-        }
-      ],
-      "duration_ms": 208766,
-      "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
-      "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
+        "url": "https://open.spotify.com/album/1Em5tVCOcTebi6IQVdPN5k"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "duration_ms": 208766,
+      "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
+      "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 199901,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+      "duration_ms": 174303,
+      "name": "Billie Max",
+      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 174303,
-      "name": "Billie Max",
-      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
+      "duration_ms": 199901,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "La Desgracia Ajena",
+        "url": "https://open.spotify.com/album/6qpVVIUEh8c96RWaa9dZgS"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 136893,
+      "name": "La Desgracia Ajena",
+      "url": "https://open.spotify.com/track/3FSaKGcPziAbqiw5wPy38g"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "La Desgracia Ajena",
-        "url": "https://open.spotify.com/album/6qpVVIUEh8c96RWaa9dZgS"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "La Desgracia Ajena",
-      "url": "https://open.spotify.com/track/3FSaKGcPziAbqiw5wPy38g"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Morro",
-        "url": "https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE"
+        "name": "Un d\u00eda como hoy",
+        "url": "https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2"
       },
       "artists": [
         {
@@ -1644,25 +1644,9 @@
           "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
         }
       ],
-      "duration_ms": 164410,
-      "name": "Estr\u00e9s",
-      "url": "https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
-        "url": "https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
-      "url": "https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv"
+      "duration_ms": 202721,
+      "name": "Un d\u00eda como hoy",
+      "url": "https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1683,6 +1667,22 @@
       "duration_ms": 260066,
       "name": "Mejor Que Antes",
       "url": "https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
+        "url": "https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
+      "url": "https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv"
     },
     {
       "added_at": "2023-06-16 06:00:00",

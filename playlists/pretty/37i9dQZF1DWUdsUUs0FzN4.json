@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Alfa y Peso Pluma en portada ",
-  "num_followers": 7813,
+  "num_followers": 7851,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmRiNmJkMzc5ZmQwYmE2ZTU4MzgwYWEwOWJkYjcxYWFjNDRjZjgw",
+  "snapshot_id": "MCw4MDk3NmYxOTFhOWZmZmRjZTU2ODJhMWNjNzk0MjNlN2E1NTdkMGEw",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -551,34 +551,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Peli-Culeo (Remix)",
-        "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
+        "name": "Piripituchy",
+        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 221646,
-      "name": "Peli-Culeo - Remix",
-      "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
+      "duration_ms": 180880,
+      "name": "Piripituchy",
+      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -607,22 +595,34 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
+        "name": "Peli-Culeo (Remix)",
+        "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
+      "duration_ms": 221646,
+      "name": "Peli-Culeo - Remix",
+      "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Jordan Flight",
-        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Jordan Flight",
-      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Toma",
         "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 178487,
       "name": "TUER",
       "url": "https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Jordan Flight",
+        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Jordan Flight",
+      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1187,26 +1187,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Puta Rara, Puta Dominicana",
-        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+        "name": "Perreo Chakalon",
+        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
       },
       "artists": [
         {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+          "name": "DJ ETER",
+          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
         },
         {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "marceu inovadora",
-          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
         }
       ],
-      "duration_ms": 140643,
-      "name": "Puta Rara, Puta Dominicana",
-      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
+      "duration_ms": 136162,
+      "name": "Perreo Chakalon",
+      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1259,22 +1255,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Perreo Chakalon",
-        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
       "artists": [
         {
-          "name": "DJ ETER",
-          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
         },
         {
-          "name": "Alexito Mix",
-          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
         }
       ],
-      "duration_ms": 136162,
-      "name": "Perreo Chakalon",
-      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1623,6 +1623,46 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Trabalenguas",
+        "url": "https://open.spotify.com/album/0feoZ9DdkVGNgV43zwx0QB"
+      },
+      "artists": [
+        {
+          "name": "El Habano",
+          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+        },
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Trabalenguas",
+      "url": "https://open.spotify.com/track/3KyAVz3komGfoeN5LHIywq"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Perreito",
+        "url": "https://open.spotify.com/album/2Ue78ZiZZWBOOXxeEcw1dy"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Pal Piso",
         "url": "https://open.spotify.com/album/0e6Nt0OXxodh9djO8Gky7X"
       },
@@ -1651,46 +1691,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Perreito",
-        "url": "https://open.spotify.com/album/2Ue78ZiZZWBOOXxeEcw1dy"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Trabalenguas",
-        "url": "https://open.spotify.com/album/0feoZ9DdkVGNgV43zwx0QB"
-      },
-      "artists": [
-        {
-          "name": "El Habano",
-          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
-        },
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Trabalenguas",
-      "url": "https://open.spotify.com/track/3KyAVz3komGfoeN5LHIywq"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Esto No Es Un \u00c1lbum",
         "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
       },
@@ -1703,26 +1703,6 @@
       "duration_ms": 158013,
       "name": "Gr\u00e1bate",
       "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Matanga",
-        "url": "https://open.spotify.com/album/5PxAycUsvpu3xl9rJGf8fe"
-      },
-      "artists": [
-        {
-          "name": "Dj Young Mty",
-          "url": "https://open.spotify.com/artist/2HCGmdpckXTE4WNTAFEzA8"
-        },
-        {
-          "name": "Marianay",
-          "url": "https://open.spotify.com/artist/6BGhnclLVjlv0RenPVxCuF"
-        }
-      ],
-      "duration_ms": 105018,
-      "name": "Matanga",
-      "url": "https://open.spotify.com/track/0ChPyoj8ptMm42naOyByAg"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 209302,
       "name": "Bugu",
       "url": "https://open.spotify.com/track/6WV7h73AArddBvXjExvYS9"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Matanga",
+        "url": "https://open.spotify.com/album/5PxAycUsvpu3xl9rJGf8fe"
+      },
+      "artists": [
+        {
+          "name": "Dj Young Mty",
+          "url": "https://open.spotify.com/artist/2HCGmdpckXTE4WNTAFEzA8"
+        },
+        {
+          "name": "Marianay",
+          "url": "https://open.spotify.com/artist/6BGhnclLVjlv0RenPVxCuF"
+        }
+      ],
+      "duration_ms": 105018,
+      "name": "Matanga",
+      "url": "https://open.spotify.com/track/0ChPyoj8ptMm42naOyByAg"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Rkt",
-        "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
-      },
-      "artists": [
-        {
-          "name": "Kid Moonsta",
-          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
-        },
-        {
-          "name": "Alexis Rostro",
-          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
-        },
-        {
-          "name": "Easy Mo",
-          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Rkt",
-      "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "B\u00e9lico",
         "url": "https://open.spotify.com/album/34GQGv1tLJScGOG5Dw72Ue"
       },
@@ -1851,22 +1827,6 @@
       "duration_ms": 136800,
       "name": "B\u00e9lico",
       "url": "https://open.spotify.com/track/2M5OCuzCQNkiIgBeYBJfIt"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Acelera",
-        "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Acelera",
-      "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1903,26 +1863,42 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Extasis",
-        "url": "https://open.spotify.com/album/6UdgE5bqOizCSWj6k32UJX"
+        "name": "Acelera",
+        "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
       },
       "artists": [
         {
-          "name": "one c rodriguez",
-          "url": "https://open.spotify.com/artist/4Kghk8HHdTjWafnRr32Mtl"
-        },
-        {
-          "name": "Juan Caly",
-          "url": "https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6"
-        },
-        {
-          "name": "LEANDRO",
-          "url": "https://open.spotify.com/artist/6FPsFBCZslHc8RaaOf8HaS"
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
         }
       ],
-      "duration_ms": 197002,
-      "name": "Extasis",
-      "url": "https://open.spotify.com/track/5kaoftnTWgzCkKyMRDT8id"
+      "duration_ms": 152500,
+      "name": "Acelera",
+      "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Rkt",
+        "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
+      },
+      "artists": [
+        {
+          "name": "Kid Moonsta",
+          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Easy Mo",
+          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Rkt",
+      "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1947,6 +1923,30 @@
       "duration_ms": 171789,
       "name": "Aplaude",
       "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Extasis",
+        "url": "https://open.spotify.com/album/6UdgE5bqOizCSWj6k32UJX"
+      },
+      "artists": [
+        {
+          "name": "one c rodriguez",
+          "url": "https://open.spotify.com/artist/4Kghk8HHdTjWafnRr32Mtl"
+        },
+        {
+          "name": "Juan Caly",
+          "url": "https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6"
+        },
+        {
+          "name": "LEANDRO",
+          "url": "https://open.spotify.com/artist/6FPsFBCZslHc8RaaOf8HaS"
+        }
+      ],
+      "duration_ms": 197002,
+      "name": "Extasis",
+      "url": "https://open.spotify.com/track/5kaoftnTWgzCkKyMRDT8id"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Bote",
-        "url": "https://open.spotify.com/album/7aB9Nj7knwtrKbUSfYEgSH"
-      },
-      "artists": [
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 178736,
-      "name": "Bote",
-      "url": "https://open.spotify.com/track/2RArte8IU0pyq88x5W5xzV"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "POP (feat. Jae S)",
         "url": "https://open.spotify.com/album/4oDOSThgM71p7MkRtsaASD"
       },
@@ -2087,6 +2063,30 @@
       "duration_ms": 227375,
       "name": "POP (feat. Jae S)",
       "url": "https://open.spotify.com/track/3qkDTmEGzViHrJu39B6W4l"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Bote",
+        "url": "https://open.spotify.com/album/7aB9Nj7knwtrKbUSfYEgSH"
+      },
+      "artists": [
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 178736,
+      "name": "Bote",
+      "url": "https://open.spotify.com/track/2RArte8IU0pyq88x5W5xzV"
     },
     {
       "added_at": "2023-06-16 06:00:00",

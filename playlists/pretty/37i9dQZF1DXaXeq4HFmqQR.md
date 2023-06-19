@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Cancamusa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,976 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,984 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si te viera](https://open.spotify.com/track/7ppfHXPE0aJmC138T1PC7u) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:52 |
 | 2 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 3 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
-| 4 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
-| 5 | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS) | 3:20 |
+| 4 | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS) | 3:20 |
+| 5 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 6 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
 | 7 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 8 | [Fly](https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fly](https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb) | 3:57 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 13 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 |
 | 14 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 |
 | 15 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 |
-| 16 | [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 |
-| 17 | [Me Cuesta Entenderte](https://open.spotify.com/track/1WgMarXmqKsFz40hsugCqW) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [Carolina Nissen](https://open.spotify.com/album/6d69ewtQwzOTFuub5PsHSR) | 2:49 |
+| 16 | [Me Cuesta Entenderte](https://open.spotify.com/track/1WgMarXmqKsFz40hsugCqW) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [Carolina Nissen](https://open.spotify.com/album/6d69ewtQwzOTFuub5PsHSR) | 2:49 |
+| 17 | [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 |
 | 18 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
 | 19 | [Año Nuevo](https://open.spotify.com/track/7m6GkgKQoYdSgwzRIt3ewb) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Alegriste](https://open.spotify.com/album/0auzDJ9iVcTdWGBoYx62vy) | 3:42 |
 | 20 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 |
 | 32 | [Somos de Piel](https://open.spotify.com/track/38RSlANvajbgMeT8uziKau) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:30 |
 | 33 | [tus margaritas](https://open.spotify.com/track/7I31c1ByCDdrFUsz8Tehhy) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE) | [tus margaritas](https://open.spotify.com/album/3nBmsKtCyx9QZIPqr2FBoT) | 2:26 |
-| 34 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
-| 35 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 |
+| 34 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 |
+| 35 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 | 36 | [Inseguridad](https://open.spotify.com/track/7uAhfsVbcbmy2IzIJBz7cD) | [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Universando](https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI) | 3:16 |
 | 37 | [Lentes](https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Lentes](https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr) | 2:57 |
 | 38 | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/track/2S8Ll6UzjGILD5LtNlyJ5B) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/album/1oFiVsZdqVV0yAUJBrfjk9) | 3:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 45 | [Amatista](https://open.spotify.com/track/5qnCVshMtFjniqwe6pfJ9E) | [Maria Magdalena](https://open.spotify.com/artist/4QfXdT47dRy46J1HAYRBba) | [Amatista](https://open.spotify.com/album/0r1FA4okmztis713UrJ0e7) | 4:06 |
 | 46 | [Porvenir](https://open.spotify.com/track/170UqUn09dtqEsIPYAtmb1) | [Rosario Mena](https://open.spotify.com/artist/6A2zL3dCkfJN5EE6nP83WM) | [Porvenir](https://open.spotify.com/album/1374pzoDs69OvTAjMltWG7) | 4:03 |
 
-Snapshot ID: `MCwzZTcyYWExOTE5ZTdhMmViNWMzYjJhZmUxYWU2MjE3YzhiMjZhZjcx`
+Snapshot ID: `MCw5OWE2Yjc2NTBjNGI3ZDFiMmY1OTRmOTJhM2M2NTI3YTUwNTIxZWQy`

@@ -129,20 +129,24 @@
     },
     {
       "album": {
-        "name": "7Abayby",
+        "name": "7abayby",
         "url": "https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x"
       },
       "artists": [
         {
           "name": "Abyusif",
           "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Mostt",
+          "url": "https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B"
         }
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156267,
-      "name": "7Abayby",
+      "name": "7abayby",
       "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
     },
     {

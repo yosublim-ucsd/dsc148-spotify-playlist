@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21012,
+  "num_followers": 21014,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAzMjIsOWFmOWFiMmZkMDI3NmU3ZGRmMWJkNmU4YTIwYmZmNzZhMzE0ZTQxMA==",
+  "snapshot_id": "MTAzMjMsNmVlMzZmNWY2MTJjMzFjZmZlNzkyNTM0YmNjMzBhY2U5MmE2ODFkZA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2651,6 +2651,30 @@
       "duration_ms": 201600,
       "name": "REGENESIS",
       "url": "https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg"
+    },
+    {
+      "added_at": "2023-06-18 20:55:46",
+      "album": {
+        "name": "TAKATAKA (feat. KD One & 2livemafia)",
+        "url": "https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "2livemafia",
+          "url": "https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux"
+        }
+      ],
+      "duration_ms": 166879,
+      "name": "TAKATAKA (feat. KD One & 2livemafia)",
+      "url": "https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf"
     }
   ],
   "unique_name": "Moving Castle Monthly",

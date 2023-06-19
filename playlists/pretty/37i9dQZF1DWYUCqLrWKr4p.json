@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 162702,
+  "num_followers": 162884,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjIxMDUzYTkxZTdiNGVmNmRiYTdjYmNlMjIzZjA1ZGU1MzEwMjJl",
+  "snapshot_id": "MCxhYzU4YzI3OGE5N2RiOTJlZjY5ZWRiMzgyMmZjZTI2YWUyZjA1ZmZl",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Maurice Williams and The Zodiacs",
-        "url": "https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll"
-      },
-      "artists": [
-        {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
-        }
-      ],
-      "duration_ms": 99213,
-      "name": "Stay - Rerecorded",
-      "url": "https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Horizontal (Deluxe Version)",
         "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 198453,
       "name": "Words",
       "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Maurice Williams and The Zodiacs",
+        "url": "https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll"
+      },
+      "artists": [
+        {
+          "name": "Maurice Williams & The Zodiacs",
+          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+        }
+      ],
+      "duration_ms": 99213,
+      "name": "Stay - Rerecorded",
+      "url": "https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0"
     },
     {
       "added_at": "2022-05-30 13:02:24",

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,094 songs - 5 day 21 hr 10 min
+2,095 songs - 5 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Colombia Tierra Querida](https://open.spotify.com/track/4JRV6Mtq30lOI8zRRnWnU8) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Tolu y Otros Grandes Exitos](https://open.spotify.com/album/3qQbw3wvtnJfEHs4CNLRJ5) | 2:34 | 2022-10-31 | 2022-11-13 |
 | [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 | 2022-07-27 |  |
 | [Colombia, Tierra Querida](https://open.spotify.com/track/3SyTjPWTTrvICpD4KQ3d7Y) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [La Authéntica Cumbia Colombiana](https://open.spotify.com/album/6yghSTUsauzYGfGmpGc73m) | 2:38 | 2022-06-09 |  |
-| [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 | 2023-05-17 |  |
+| [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 | 2023-05-17 |  |
 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2022-07-27 |  |
 | [Come On Home](https://open.spotify.com/track/7oPAhwuLEVVzT53jXffG7B) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/7HYCL8wBWPZD5gl6BZRmEF) | 5:18 | 2022-06-09 | 2022-07-29 |
 | [Commotion](https://open.spotify.com/track/00S8FkdSM5NMcvMTx2KOhn) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 2:55 | 2022-06-09 | 2022-07-29 |
@@ -1505,7 +1505,7 @@
 | [Paint It Black](https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30) | [Africa](https://open.spotify.com/artist/4bszODJhbxkwHlq0Inh6VU) | [Music From “Lil Brown” \- Remastered](https://open.spotify.com/album/1xe6dsE1l6EvVoxNJhzB14) | 7:28 | 2022-06-09 |  |
 | [Palengue Palengue](https://open.spotify.com/track/2SnTHIYAkmSwwJBSb29JT2) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 4:09 | 2022-07-12 | 2022-07-29 |
 | [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 | 2022-07-27 |  |
-| [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 | 2022-06-09 |  |
+| [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 | 2022-06-09 |  |
 | [Pangea](https://open.spotify.com/track/7temtwzguIVsHoT3ewhnxh) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:17 | 2022-06-09 |  |
 | [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 | 2022-06-09 |  |
 | [Panier su la tête, ni chanté](https://open.spotify.com/track/22wgfaFRI3QGjvJMB7PfMO) | [Alain Péters](https://open.spotify.com/artist/2xVquVgh0jd7miRn4BbulQ) | [Vavanguèr](https://open.spotify.com/album/7Hlo3Hcq4zBxmsbXLuCKea) | 3:47 | 2022-06-09 |  |
@@ -1760,7 +1760,8 @@
 | [Stone Fox Chase \(From "The Old Grey Whistle Test"\) \- Remastered](https://open.spotify.com/track/0mNw6yegJ3lCE2xqnwQfHQ) | [Area Code 615](https://open.spotify.com/artist/4BThcVD783ys8dvyGUQ5yq) | [Trip In The Country \(Remastered\)](https://open.spotify.com/album/5yOp6KHtg2KFwJ3Hf3flMr) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [Stories??](https://open.spotify.com/track/0dXapcDIbXkH91ObjpXQqh) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/7qgAAg9i0LChGEEK5a6OzM) | 2:47 | 2022-06-09 | 2022-07-29 |
 | [Stories??](https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/2kRkDO5j2nwgq9jqlNCUNU) | 2:47 | 2022-07-27 |  |
-| [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 | 2022-10-31 |  |
+| [Subhana](https://open.spotify.com/track/1UZ7xcA5TnMaIqNWBnf8P9) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 022\)](https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W) | 4:58 | 2023-06-15 |  |
+| [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 | 2022-10-31 | 2023-06-19 |
 | [Subhana](https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 5:00 | 2022-07-12 | 2022-11-20 |
 | [Subway Joe](https://open.spotify.com/track/30E1ZeueWNbOzMP2PJRqa8) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Subway Joe](https://open.spotify.com/album/7ImYYi0tJHTsYHH8Qxm9OS) | 2:57 | 2022-07-12 |  |
 | [Sudan in the heart of Africa](https://open.spotify.com/track/6PyR1W1QRPEbpw1izonNcy) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:39 | 2022-07-12 | 2022-11-20 |

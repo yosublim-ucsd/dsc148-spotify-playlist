@@ -888,10 +888,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 257975,
       "name": "NOVV",
       "url": "https://open.spotify.com/track/10o2dzZBBMl0XUSeXtLUTk"
+    },
+    {
+      "album": {
+        "name": "NOVV/NASDAQ",
+        "url": "https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257975,
+      "name": "NOVV",
+      "url": "https://open.spotify.com/track/4XMN5KHIaXHJ0LGdqHHJ8U"
     },
     {
       "album": {

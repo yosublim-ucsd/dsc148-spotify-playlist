@@ -462,7 +462,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 184693,
       "name": "Ella Elle L A - Radio Version",
       "url": "https://open.spotify.com/track/1bV3jw1mlVbPkzc9bCGCsl"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Gettin' Over You (feat. Fergie & LMFAO)",
       "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 228821,
       "name": "Jumping All Over The World",
       "url": "https://open.spotify.com/track/0pCZZa7f636OXB8jO0czci"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 209800,
       "name": "Nessaja",
       "url": "https://open.spotify.com/track/1SdBWc2nHNZ3gHzGVQuqcl"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 214453,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
@@ -2076,6 +2076,24 @@
       "duration_ms": 192400,
       "name": "Welcome to the Club - Video Edit",
       "url": "https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN"
+    },
+    {
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/2umCb31luuHifyrJVTio5S"
     },
     {
       "album": {

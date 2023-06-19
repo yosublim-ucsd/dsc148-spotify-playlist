@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,079 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,090 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 22 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 23 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 24 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
-| 25 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
-| 26 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
+| 25 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
+| 26 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 | 27 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
 | 28 | [Sick Times](https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:16 |
 | 29 | [Broken Clouds](https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 5:24 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 42 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
 | 43 | [Agua Azul](https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 5:16 |
 | 44 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
-| 45 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
+| 45 | [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 |
 | 46 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 |
-| 47 | [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 |
+| 47 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
 | 48 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 | 49 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
 | 50 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 53 | [Toucan Ocean](https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 3:49 |
 | 54 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
 | 55 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
-| 56 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
-| 57 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 |
+| 56 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 |
+| 57 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
 | 58 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 59 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 | 60 | [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 | 70 | [Endless](https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:41 |
 
-Snapshot ID: `MCw4NGVmZmE3YTcyOGYyNTkzNWE5YTNiMTYwMGI5NzNmYzNkM2NhZWIz`
+Snapshot ID: `MCwxYjg4MmJkMzRlNGMwZDhiYmYxZmVkZDk3ZTBlMjcyM2I0YmNjZTcx`

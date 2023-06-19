@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,323 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,327 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 25 | [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 |
 | 26 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 27 | [DAMN DANIEL \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:52 |
-| 28 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
+| 28 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 |
 | 29 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 |
-| 30 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 |
+| 30 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
 | 31 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 32 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 |
 | 33 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 43 | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \- Sped Up Nightcore](https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \[Sped Up Nightcore\]](https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL) | 2:24 |
 | 44 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
 | 45 | [Me First](https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:41 |
-| 46 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
-| 47 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
+| 46 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
+| 47 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
 | 48 | [Heaux Things \(feat\. Baby Tate\)](https://open.spotify.com/track/7JJlZwKiYSPG4udG1GvX9t) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Luv Scarred / No Luv \(Deluxe\)](https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC) | 2:43 |
 | 49 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
 | 50 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDA1NjlmZjQxZDUzYzg4Yzc5ZjRhMTcyMTA3MmI4ODMwYg==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDA5OGEwNTYxYmRlZWY3N2Q0ZWExMTRiZjJlMWRhZGNmNg==`

@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 31598,
+  "num_followers": 31657,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2MyYWRjOTc2NWEzNmI1MzlkMTA3NTQ3Y2E1MjFjNGI0MWJmMzg1",
+  "snapshot_id": "MCwxZGM4NTFhZDFkN2M1N2I1YmM2NWM0ZmQ2OTI3YmIzZjIxN2M5YjQ5",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Try Your Wings",
         "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -879,6 +879,42 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        },
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -899,38 +935,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+        "name": "The Night and the Music",
+        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Spring Waltz",
-        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
         },
         {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+          "name": "Daniel Karlsson",
+          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
         }
       ],
-      "duration_ms": 206680,
-      "name": "Spring Waltz",
-      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+      "duration_ms": 249026,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -955,6 +975,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "SEED",
         "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
       },
@@ -967,26 +1007,6 @@
       "duration_ms": 328176,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "The Night and the Music",
-        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
-      },
-      "artists": [
-        {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Daniel Karlsson",
-          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1039,46 +1059,6 @@
       "duration_ms": 334933,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "The Moon and the Sky",
-        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        },
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "The Moon and the Sky",
-      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Staying in Touch",
-        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "The Long and Winding Road",
-      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Like Song, Like Weather",
-        "url": "https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7"
+        "name": "Staying in Touch",
+        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
       "artists": [
         {
-          "name": "Norma Winstone",
-          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
         }
       ],
-      "duration_ms": 366200,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn"
+      "duration_ms": 254066,
+      "name": "The Long and Winding Road",
+      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Like Song, Like Weather",
+        "url": "https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7"
+      },
+      "artists": [
+        {
+          "name": "Norma Winstone",
+          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 174186,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 207745,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "The Masquerade Is Over",
-      "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "It Ends Now",
         "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 363893,
       "name": "It Ends Now",
       "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
     },
     {
       "added_at": "2023-06-15 22:00:00",

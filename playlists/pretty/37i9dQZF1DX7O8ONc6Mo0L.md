@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Igor Roque
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,721 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,899 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 34 | [Preciso de Ti](https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Preciso de Ti](https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc) | 3:40 |
 | 35 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 |
 | 36 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
-| 37 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
-| 38 | [Deus Não É Culpado \- Ao Vivo](https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Deus Não É Culpado \(Ao Vivo\)](https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw) | 4:49 |
+| 37 | [Deus Não É Culpado \- Ao Vivo](https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Deus Não É Culpado \(Ao Vivo\)](https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw) | 4:49 |
+| 38 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
 | 39 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 40 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 |
 | 41 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 |
 | 80 | [Quanto Amor \- Acústico](https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Quanto Amor \(Acústico\)](https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL) | 4:12 |
 
-Snapshot ID: `MCxiMTJjYmQyMWU1NGNhMzVjMjA1NTA2MzdmZDMzMTIxMTBlZGY4MDM0`
+Snapshot ID: `MCxjNWU5NjEzOWY3MzRhZTQwODBmN2E0NmRmNzE2ZjBhNDFiMzc2Yzg1`

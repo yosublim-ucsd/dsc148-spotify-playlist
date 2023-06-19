@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,957 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,058 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 51 | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh) | 3:00 |
 | 52 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
 | 53 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 |
-| 54 | [Anytime \(feat\. Kehlani & ROMderful\)](https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Empathy](https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm) | 4:16 |
-| 55 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
+| 54 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
+| 55 | [Anytime \(feat\. Kehlani & ROMderful\)](https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Empathy](https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm) | 4:16 |
 | 56 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 |
 | 57 | [Summer in November](https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 3:49 |
 | 58 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 76 | [Comeback.](https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:03 |
 | 77 | [FYF](https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [FYF](https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU) | 2:53 |
 | 78 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
-| 79 | [Midnight Snacks](https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Midnight Snacks](https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh) | 3:15 |
-| 80 | [Devil In A Dress \- RHEAMIX](https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress \(RHEAMIX\)](https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad) | 1:57 |
+| 79 | [Devil In A Dress \- RHEAMIX](https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress \(RHEAMIX\)](https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad) | 1:57 |
+| 80 | [Midnight Snacks](https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Midnight Snacks](https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh) | 3:15 |
 | 81 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 |
 | 82 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
 | 83 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 |
 | 100 | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/track/3kAWVzglbxR3PjYg1NYF0C) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Back 2 Love](https://open.spotify.com/album/77fPvsRp76NHn0qTXzOmum) | 4:00 |
 
-Snapshot ID: `MCwzYTM0ODljNmRmNzY1MzhhYzMzOGM0MDcwZjg3YTBkMzVmYmUwMmU2`
+Snapshot ID: `MCw3OGI5NGQ1YzcwOWU1ZmRkZjQ4NDIwM2E1Yzk2MDY4ZjNmN2E4YmZm`

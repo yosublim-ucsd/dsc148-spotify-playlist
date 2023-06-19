@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6870902,
+  "num_followers": 6871496,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzM3MzVmMWE2MmQ5MTI2N2FlYzVhY2Q1N2E1YjQzMGM3OTQ2NGU3",
+  "snapshot_id": "MCwwMGJiNTc3NzlkMTQ3OTk3NThkNThjZjA0ODBhNjNjZWVjYzY1N2M4",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -995,8 +995,8 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
+        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
       "artists": [
         {
@@ -1004,13 +1004,17 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
         }
       ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+      "duration_ms": 176500,
+      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
+      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1035,6 +1039,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Fool 4 U (feat. Enisa)",
         "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
       },
@@ -1055,22 +1075,6 @@
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1155,8 +1159,8 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
-        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
       "artists": [
         {
@@ -1164,17 +1168,13 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 176500,
-      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
-      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 195268,
       "name": "Damn (You\u2019ve Got Me Saying)",
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2023-05-25 22:00:00",

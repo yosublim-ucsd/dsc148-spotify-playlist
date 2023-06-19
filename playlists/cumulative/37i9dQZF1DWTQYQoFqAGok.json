@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
+      "album": {
         "name": "El Patio",
         "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"

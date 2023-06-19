@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,790 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [DOWNFALL](https://open.spotify.com/track/57J5vAPypiMzlVzEc0VztW) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [DOWNFALL](https://open.spotify.com/album/6XDbO6OROyObsIVP0geQqU) | 2:14 |
 | 50 | [One Life](https://open.spotify.com/track/2mFo1Fmzi1Az7iUXf6sRB5) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [One Life](https://open.spotify.com/album/6IencO4xqD8jNuJBtvXk0D) | 3:22 |
 
-Snapshot ID: `MCwyZWE4ZDY5MzU5NTJjYzdjYTRlMTZmYzFlZmQ3ODA1NTg0OGE1MDQ5`
+Snapshot ID: `MCxhZjcxYWExYjk5MmQ3OGIzMTNkMDM3NmI5MmM0MGE1NmFjNjU3N2E3`

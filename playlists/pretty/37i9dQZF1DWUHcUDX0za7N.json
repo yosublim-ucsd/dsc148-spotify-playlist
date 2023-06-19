@@ -1,13 +1,409 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw\"> Boj </a> ",
-  "num_followers": 20890,
+  "num_followers": 20927,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQ2N2YwOWU3Yzg3ZTBkOTYxMDVhMjc3MWEzYmEwOTFhMjg1MTZj",
+  "snapshot_id": "MCwyN2ZmYjJlM2M0ZGY4ZDkyMzAyNTI1NmM2MzgzNzBlNWQ1NmJmN2M2",
   "tracks": [
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+        "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+      "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "PAPILO / ABENA",
+        "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "PAPILO (Smadumodu)",
+      "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "Oganigwe",
+      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Reason (feat. Russ)",
+      "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Amdallah",
+        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Amdallah",
+      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+    },
     {
       "added_at": "2023-06-16 06:58:31",
       "album": {
@@ -191,22 +587,6 @@
     {
       "added_at": "2023-06-16 06:58:31",
       "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
         "name": "Palmwine Music 3",
         "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
@@ -223,6 +603,38 @@
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-06-16 06:58:31",
@@ -255,22 +667,6 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-06-16 06:58:31",
@@ -791,6 +1187,26 @@
     {
       "added_at": "2023-06-16 06:58:31",
       "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr"
+      },
+      "artists": [
+        {
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 137094,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
         "name": "Highest Student",
         "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
       },
@@ -851,42 +1267,6 @@
     {
       "added_at": "2023-06-16 06:58:31",
       "album": {
-        "name": "Wale",
-        "url": "https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr"
-      },
-      "artists": [
-        {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 137094,
-      "name": "Wale",
-      "url": "https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
         "name": "LOVE IN LAGOS",
         "url": "https://open.spotify.com/album/2GBhkkH9OEZt5VYxABbppv"
       },
@@ -903,50 +1283,6 @@
       "duration_ms": 180000,
       "name": "LOVE IN LAGOS",
       "url": "https://open.spotify.com/track/6St6mmig9U9lAMP86Kxrsi"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
-        "name": "All I Please",
-        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
-      },
-      "artists": [
-        {
-          "name": "Wale Turner",
-          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "All I Please",
-      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
-    },
-    {
-      "added_at": "2023-06-16 06:58:31",
-      "album": {
-        "name": "Na mumu dey love",
-        "url": "https://open.spotify.com/album/6Xugn0UqitOJ6JrAFEbwg7"
-      },
-      "artists": [
-        {
-          "name": "Oshey",
-          "url": "https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Diyo Matalo",
-          "url": "https://open.spotify.com/artist/6r1jcx4ViBUzoT5NxN6MU2"
-        }
-      ],
-      "duration_ms": 237495,
-      "name": "Na mumu dey love",
-      "url": "https://open.spotify.com/track/0o5B6MU0IWSTjuHlU7o2fH"
     },
     {
       "added_at": "2023-06-16 06:58:31",
@@ -971,6 +1307,42 @@
     {
       "added_at": "2023-06-16 06:58:31",
       "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+      },
+      "artists": [
+        {
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
         "name": "OUTSIDE & PUT ON",
         "url": "https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf"
       },
@@ -983,6 +1355,30 @@
       "duration_ms": 159576,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH"
+    },
+    {
+      "added_at": "2023-06-16 06:58:31",
+      "album": {
+        "name": "Na mumu dey love",
+        "url": "https://open.spotify.com/album/6Xugn0UqitOJ6JrAFEbwg7"
+      },
+      "artists": [
+        {
+          "name": "Oshey",
+          "url": "https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Diyo Matalo",
+          "url": "https://open.spotify.com/artist/6r1jcx4ViBUzoT5NxN6MU2"
+        }
+      ],
+      "duration_ms": 237495,
+      "name": "Na mumu dey love",
+      "url": "https://open.spotify.com/track/0o5B6MU0IWSTjuHlU7o2fH"
     },
     {
       "added_at": "2023-06-16 06:58:31",

@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1193089,
+  "num_followers": 1193733,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yjk0NTI3ZTY0NTlkMzFmMWNmZDEzMDgxYzI3NTI5YmJmMTUyMGMy",
+  "snapshot_id": "MCxkODRiNjJhMjc2ODc0OTM0ZDhiNTBiMGQzNmRmMDU5YWQ4OTFhMTAy",
   "tracks": [
     {
       "added_at": "2023-04-06 22:36:25",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-04-06 22:36:25",
       "album": {
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2023-04-06 22:36:25",
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 313560,
       "name": "Mi Mayor Venganza",
       "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
-    },
-    {
-      "added_at": "2023-04-06 22:36:25",
-      "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2023-04-06 22:36:25",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-06 22:36:25",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
+    },
+    {
+      "added_at": "2023-04-06 22:36:25",
+      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-04-06 22:36:25",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
+      "duration_ms": 351813,
+      "name": "Esa Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
     },
     {
       "added_at": "2023-04-06 22:36:25",
@@ -923,22 +939,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2023-04-06 22:36:25",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer - En Vivo",
-      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
     },
     {
       "added_at": "2023-04-06 22:36:25",

@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 120292,
+  "num_followers": 120375,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQzYzk3YjQ0NmY5NDYwNjBkZmM5MWM2MjJjZGEyN2NkYTQwNTQ4",
+  "snapshot_id": "MCw0ODMyZDY2NmFjNmVlNzU3ODJlZDg5NjI1MDY1MDA1ZDBmNzU2ODli",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Have Blues, Will Travel",
@@ -271,6 +255,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
         "name": "Strange Pleasure",
         "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
@@ -285,20 +285,20 @@
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
       "added_at": "2016-03-18 21:56:19",

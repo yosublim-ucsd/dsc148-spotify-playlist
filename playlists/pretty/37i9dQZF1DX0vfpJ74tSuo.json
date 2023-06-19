@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 60153,
+  "num_followers": 60184,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTczOGVjNDg3N2Y3NTRjMGE1N2Y5Y2VmOGI5NjVkZjlmYmVmOTFh",
+  "snapshot_id": "MCw1NTliOThmMDA1ZmY3NmZhMjhiNDg0YTBkNmJhOGNlY2ViMmI5NGJk",
   "tracks": [
     {
       "added_at": "2023-06-16 14:13:27",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
         "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
         "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 200506,
       "name": "Wee Baby Blues",
       "url": "https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 205240,
       "name": "Blues Funky Like Dat",
       "url": "https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 294032,
-      "name": "Walking My Troubles Away",
-      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
         "name": "Aboogi",
         "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177106,
       "name": "Assossam",
       "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 294032,
+      "name": "Walking My Troubles Away",
+      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
         "name": "Boomer's Story",
         "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 253066,
       "name": "Cherry Ball Blues",
       "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
         "name": "The 1928 Sessions",
         "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 263319,
       "name": "Avalon Blues",
       "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
+        "name": "I Must Be In A Good Place Now",
+        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "I Must Be In A Good Place Now",
+      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 232760,
       "name": "Same Train",
       "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
-        "name": "I Must Be In A Good Place Now",
-        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 187265,
-      "name": "I Must Be In A Good Place Now",
-      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "All The Bad Things (Stripped Back)",
-        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "The Fools Gold Blues - Stripped Back",
-      "url": "https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
         "name": "Pray For Rain",
         "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "All The Bad Things (Stripped Back)",
+        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 138250,
+      "name": "The Fools Gold Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1599,6 +1583,22 @@
       "duration_ms": 179226,
       "name": "God Moves On the Water",
       "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2023-06-16 14:13:27",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-06-16 14:13:27",
       "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+    },
+    {
+      "added_at": "2023-06-16 14:13:27",
+      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
-    },
-    {
-      "added_at": "2023-06-16 14:13:27",
-      "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-06-16 14:13:27",

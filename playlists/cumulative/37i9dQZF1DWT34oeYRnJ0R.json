@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
       },
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT"

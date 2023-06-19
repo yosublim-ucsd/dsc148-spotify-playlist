@@ -2,9 +2,9 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف : ستار سعد
+> أحدث الاغاني العراقية\. غلاف : اصيل هميم
 
-228 songs - 13 hr 19 min
+229 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 | 2023-02-09 |
 | [Bakeni](https://open.spotify.com/track/5b0xHD3oaK3CfnMuiZzSAi) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [Bakeni](https://open.spotify.com/album/6pev4hGsRKRL86rTf4UTDx) | 2:58 | 2021-12-23 | 2022-01-21 |
 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 | 2022-05-20 | 2022-11-21 |
-| [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 |  |
+| [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 | 2023-06-19 |
 | [Bent Qalbak](https://open.spotify.com/track/35jlqZFszcA1otazUjkzXL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Bent Qalbak](https://open.spotify.com/album/0cPHtDdJjrWNFHIO4yJOMi) | 3:28 | 2023-03-16 |  |
 | [Bi Kobor Heznak Farhty](https://open.spotify.com/track/55snHuyVXL1X8j714WvR9d) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Bi Kobor Heznak Farhty](https://open.spotify.com/album/6kiJlPgbF5wnLQ2gAzxoyt) | 2:48 | 2022-02-25 | 2022-07-20 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2021-12-23 | 2022-01-14 |
@@ -136,6 +136,7 @@
 | [Khont We Tandemt](https://open.spotify.com/track/5mPD8KOs9PTGKCrjP87IV5) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khont We Tandemt](https://open.spotify.com/album/27eOhCtHiFlBKmirkupKdd) | 4:04 | 2021-12-23 | 2022-05-07 |
 | [Kilshi Madayim](https://open.spotify.com/track/2d5ZY8RmnfKpjt9p60rrzH) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Kilshi Madayim](https://open.spotify.com/album/4CTIHJlVjVlR34FGTySUDh) | 3:38 | 2022-02-11 | 2022-06-09 |
 | [kol Alhwajiz](https://open.spotify.com/track/5XZPJVticxjlisRv74oZRB) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [kol Alhwajiz](https://open.spotify.com/album/70qix9t2mK54PvFCPT5LYz) | 3:31 | 2022-03-11 | 2022-07-20 |
+| [Kol Hayaty](https://open.spotify.com/track/4WHn7lvzx5azWQsfw8yB9J) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Kol Hayaty](https://open.spotify.com/album/4dqxjgz2aeyDoXUdIGlw8G) | 2:58 | 2023-06-18 |  |
 | [Kolshy Ma Bayha](https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kolshy Ma Bayha](https://open.spotify.com/album/58XqFD7G0i5cMDbFqnkqmH) | 3:24 | 2022-05-31 | 2023-01-27 |
 | [Kul Aaqlik](https://open.spotify.com/track/3KLBisaDEYNU8cZqCu8rc1) | [Naser Almansouri](https://open.spotify.com/artist/0knsv9nmoVyEDtz3N2vBoB) | [Kul Aaqlik](https://open.spotify.com/album/0AhXjQFS4bh1mIpVnMlb2c) | 2:41 | 2021-12-23 | 2022-01-07 |
 | [Kursi AlMalk](https://open.spotify.com/track/4wAujWCFWU2sP8zXnIALRa) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Aya Alqaisi](https://open.spotify.com/artist/012QJkuaDN2iAgnTAGoMXS) | [Kursi AlMalk](https://open.spotify.com/album/3iVeuoQc68GSfAMQoeff57) | 3:20 | 2021-12-23 | 2022-04-06 |

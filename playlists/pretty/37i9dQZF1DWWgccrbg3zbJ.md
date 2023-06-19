@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,776 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,146 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 74 | [Ela E´ Carioca](https://open.spotify.com/track/1A0AtACaHgZhiqirEEowlL) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Brasil..\. Como Te Estranho!](https://open.spotify.com/album/5ZL1AVtiM3Xk1jR3dCAwQj) | 3:08 |
 | 75 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
 
-Snapshot ID: `MCw3ZmQwY2Q0NDU1ZDMxMzFhZmM3NjQ5NDE1Yzg2M2EyZDZlMmYwNGNm`
+Snapshot ID: `MCxjZTIzN2FhMmNmNWE3N2ExNGJkZjUzODFjYjY1MDhiOGJkMWY0ODQ0`

@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-82 songs - 6 hr 23 min
+83 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 | 2021-07-28 | 2023-04-24 |
 | [Centro\-Norte](https://open.spotify.com/track/6MIh0n7W9dCGGA5NanrekF) | [Israel Cupich](https://open.spotify.com/artist/2t9XirPShcuGdlxerMuPlK), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa), [Jahaziel Arrocha](https://open.spotify.com/artist/5trOtil7K2FmvGWSf4FiqP), [Pedro Cervera](https://open.spotify.com/artist/4xQReAo4cRlgPX8EQtVze4) | [La Danza](https://open.spotify.com/album/1OO7YDQAmbhblQPXRUNBzU) | 4:04 | 2021-07-28 | 2023-05-27 |
 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 | 2021-07-28 |  |
+| [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 | 2021-07-28 |  |
 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 | 2023-04-12 |  |
 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 | 2021-07-28 |  |
 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 | 2021-07-28 | 2023-06-01 |
@@ -78,7 +79,7 @@
 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 | 2021-07-28 |  |
 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 | 2021-07-28 | 2023-06-09 |
 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 | 2021-07-28 |  |
-| [Those People](https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8) | [Gabriel Balderas Quartet](https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH), [John Vince](https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF) | [Voices from the Border](https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA) | 7:23 | 2021-07-28 |  |
+| [Those People](https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8) | [Gabriel Balderas Quartet](https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH), [John Vince](https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF) | [Voices from the Border](https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA) | 7:23 | 2021-07-28 | 2023-06-19 |
 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 | 2021-07-28 | 2023-05-08 |
 | [To Chick](https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 5:35 | 2022-08-16 | 2023-04-14 |
 | [Trato De Asimilar](https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [¡Oh! Mi Amor](https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u) | 5:18 | 2021-07-28 |  |

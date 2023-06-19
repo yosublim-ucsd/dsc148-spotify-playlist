@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,121 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,368 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 66 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 |
 | 67 | [Go Wild](https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc) | 2:40 |
 | 68 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
-| 69 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
-| 70 | [You Broke My Heart Again](https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF) | 1:43 |
+| 69 | [You Broke My Heart Again](https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF) | 1:43 |
+| 70 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
 | 71 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
-| 72 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
-| 73 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
-| 74 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
-| 75 | [BAD NEWS](https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:44 |
+| 72 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
+| 73 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
+| 74 | [BAD NEWS](https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:44 |
+| 75 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 76 | [Cold \(feat\. CADE\)](https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Long Days Away EP](https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9) | 2:38 |
 | 77 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
 | 78 | [Belly of the Beast](https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Belly of the Beast](https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 |
 | 100 | [2055](https://open.spotify.com/track/664cU3y63AUikovlndCaNE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 2:03 |
 
-Snapshot ID: `MCxmNWZmYmMzNDgxNWVmOTIyOGNjZWQ4YzljZGNlMTJlMDIwODgxNzc2`
+Snapshot ID: `MCw1ZmM0YTA2ZTEzMDE2ZjU2MTNmODdlY2E5ZTFkZTUwNGNlMjkzNWQ4`

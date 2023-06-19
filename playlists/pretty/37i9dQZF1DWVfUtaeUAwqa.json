@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7219,
+  "num_followers": 7222,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2YxYzliYWM3ZTg5NDQxNmYyYzdhMjNiMGZjOGY3NGY1ZTYzYzIx",
+  "snapshot_id": "MCxmMTJmZTI1YTg5ZTI0NzVjNGQxYWRhZTVhNzg5OGM0ZDM1NThlY2Rm",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -583,6 +583,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Marie Laveau",
+        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
+      },
+      "artists": [
+        {
+          "name": "Papa Celestin",
+          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Paul Barbarin & His New Orleans Jazz Band",
         "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Marie Laveau",
-        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
       },
       "artists": [
         {
-          "name": "Papa Celestin",
-          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
         }
       ],
-      "duration_ms": 199550,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -643,22 +659,6 @@
       "duration_ms": 285139,
       "name": "While We Danced at Mardi Gras",
       "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
     },
     {
       "added_at": "2020-08-19 17:19:14",

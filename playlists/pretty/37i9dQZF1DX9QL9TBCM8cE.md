@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,049 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,061 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [学祭革命夜明け前](https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:52 |
 | 50 | [Overdrive Emotion](https://open.spotify.com/track/4QS85NG0Sq6kMSJZUZdnvW) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 06](https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU) | 3:36 |
 
-Snapshot ID: `MCwyNjNlMDU2MjhlZWYwMmRiNWMxM2U0ZWM5ODk5MTcxNDQ1MGJkZWRh`
+Snapshot ID: `MCxmMWVkZGRlYzBiZGE0YWMyYzM0ZmU1ZTdjZDY2NGEzNzYzYzZlMWE4`

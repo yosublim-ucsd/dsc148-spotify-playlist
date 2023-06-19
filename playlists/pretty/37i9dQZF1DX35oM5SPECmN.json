@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2419211,
+  "num_followers": 2419155,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ2ODEyY2I2MjRlNDQ5MjdmOGVhNjA0Y2U0YTRjZjc0NmYxZjU2",
+  "snapshot_id": "MCxkYzY3NmNiNzdjZmU2MzFkZmIyMDJmOTUyNmEyN2ExMWQwZjAyNmRm",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 195706,
       "name": "Own Alone",
       "url": "https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
     },
     {
       "added_at": "2023-06-02 04:01:00",

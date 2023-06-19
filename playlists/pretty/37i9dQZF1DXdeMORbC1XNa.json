@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: Joeboy",
-  "num_followers": 290257,
+  "num_followers": 290322,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmY1YTRjMGU4NWI2MzFmZjY3MDRkOTcyODZhNmQyODZlOWE5NGFm",
+  "snapshot_id": "MCwwMzk4ZjY3OTc5NWNhN2Y0YzM4MGNkNDQ4MjFiN2JjMzc0YzA1Njgy",
   "tracks": [
     {
       "added_at": "2023-05-24 08:03:15",
@@ -67,18 +67,18 @@
     {
       "added_at": "2023-05-24 08:03:15",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-05-24 08:03:15",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-05-24 08:03:15",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-05-24 08:03:15",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-05-24 08:03:15",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
       "added_at": "2023-05-24 08:03:15",
@@ -663,6 +667,22 @@
     {
       "added_at": "2023-05-24 08:03:15",
       "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2023-05-24 08:03:15",
+      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2023-05-24 08:03:15",
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
       "added_at": "2023-05-24 08:03:15",

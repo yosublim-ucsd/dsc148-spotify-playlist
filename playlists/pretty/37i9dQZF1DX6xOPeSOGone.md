@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,587,981 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,588,033 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 74 | [Never Let Her Go](https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 3:07 |
 | 75 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
 
-Snapshot ID: `MCxlMmVmODdjOGJiNjdlZTQwNjRlYWMwZDkwMDYzNDdmYTMzZGRiYzc3`
+Snapshot ID: `MCwyYTY2MzE0YzQwZDI0OTc0MTI2YzMwNTUwNTY0ZmY4YmFjOGRkNmRk`

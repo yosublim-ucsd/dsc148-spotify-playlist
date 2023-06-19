@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 21707,
+  "num_followers": 21719,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmEwMjFhMTMyYjljYzU3YWY4NWNlZGEwNDNiMTc1YWExMzM2YzQ3",
+  "snapshot_id": "MCw1YjA1MmY2YjEyOTU5ZTM1MGI5YmY1NzcxYjJhNTJlYTE2ODBiODE1",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -119,22 +119,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 155666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 153663,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     },
     {
       "added_at": "2020-11-10 18:47:22",

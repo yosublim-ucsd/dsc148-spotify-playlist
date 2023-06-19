@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: RAAHiiM",
-  "num_followers": 41904,
+  "num_followers": 41919,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDE2NzEzNGRkYTEwYTgxNWVlZmFjZDJhMTA0MTdjODBhYzBlZWRm",
+  "snapshot_id": "MCw3Nzc5MmRkZDZiNmJiMDllZGFkOWRhMzE3MmE4Mzc4MWQ0NjFhYWZh",
   "tracks": [
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Ride or Die",
@@ -1149,6 +1129,26 @@
       "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Meet Me Upstrz",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Big Vibez",
-        "url": "https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "Big Vibez",
-      "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Runner Up",
@@ -1195,6 +1179,22 @@
       "duration_ms": 172275,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Big Vibez",
+        "url": "https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "Big Vibez",
+      "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
     },
     {
       "added_at": "2023-05-26 12:10:47",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Scorpio Moon",
-        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Scorpio Moon",
-      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1383,6 +1367,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Scorpio Moon",
+        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Scorpio Moon",
+      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "S(EX)",
-        "url": "https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 225406,
-      "name": "S(EX)",
-      "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Indecisive (feat. Eric Bellinger)",
@@ -1513,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "S(EX)",
+        "url": "https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 225406,
+      "name": "S(EX)",
+      "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "About You",
@@ -1527,22 +1527,6 @@
       "duration_ms": 157714,
       "name": "About You",
       "url": "https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1581,20 +1565,20 @@
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1617,20 +1601,20 @@
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
       },
       "artists": [
         {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1665,6 +1649,22 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
     },
     {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 213736,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "212",
@@ -1695,22 +1711,6 @@
       "duration_ms": 146799,
       "name": "212",
       "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1733,6 +1733,22 @@
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "DOWN BAD",
+      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+    },
+    {
       "added_at": "2022-11-04 06:34:53",
       "album": {
         "name": "Satisfied",
@@ -1747,22 +1763,6 @@
       "duration_ms": 158661,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "B.E.D",
-        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "B.E.D",
-      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     }
   ],
   "unique_name": "Some Kinda Way",

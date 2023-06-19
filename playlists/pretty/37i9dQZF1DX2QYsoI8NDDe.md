@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,961 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,960 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 20 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
 | 21 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 22 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
-| 23 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
-| 24 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
+| 23 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
+| 24 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
 | 25 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 26 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 |
 | 27 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 65 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 
-Snapshot ID: `MCwyOTM4NmQyMTIzNDllMzBjMzEwN2Y2Yjg4YmFkMDQxMGFhOWExMDAx`
+Snapshot ID: `MCxhMDQzZDgwZDg3NGYxNTY2YmM5YWM2Y2IzN2U5NzMyMDE2YTg5Y2Mw`

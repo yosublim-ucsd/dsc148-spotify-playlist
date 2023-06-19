@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,039 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,036 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 40 | [More Abundantly Medley \- Live](https://open.spotify.com/track/12Wj5X4UWjSVLEmOVtWCjq) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 6:28 |
 | 41 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 42 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
-| 43 | [Just For Me](https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:18 |
-| 44 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
-| 45 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 |
+| 43 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
+| 44 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 |
+| 45 | [Just For Me](https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:18 |
 | 46 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
 | 47 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
 | 48 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
 | 100 | [He Carried The Cross For Me](https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [He Carried The Cross For Me](https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN) | 3:50 |
 
-Snapshot ID: `MCw2ZDc4ZWQ0MzEyMzg2MGI3OGU1ZDhiMDlkNWY5NGU5NzI3ZjAxYTZh`
+Snapshot ID: `MCxjYzQ1M2Y2NmFlNTQxMTEzNmRiY2Q2MWY2ZTVjNzQ2ZDAyMGIzM2Fi`

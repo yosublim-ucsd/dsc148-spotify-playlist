@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,179 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,276 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 32 | [CON UN BESO](https://open.spotify.com/track/4c0sHnOrLTGtzmSm9pj9sE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:42 |
 | 33 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 34 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
-| 35 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
-| 36 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP) | 3:07 |
+| 35 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP) | 3:07 |
+| 36 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
 | 37 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 |
-| 38 | [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 |
-| 39 | [El Plan](https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El Plan](https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa) | 2:52 |
-| 40 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
-| 41 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 38 | [El Plan](https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El Plan](https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa) | 2:52 |
+| 39 | [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 |
+| 40 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 41 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
 | 42 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 | 43 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
 | 44 | [Déjame Llorarte](https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Déjame Llorarte](https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 |
 | 50 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 
-Snapshot ID: `MCwzYjNkZjk1ZjIwOTllMmZlOGEzZmU4M2Q2OWI2M2EwNmE2YmVmYTg3`
+Snapshot ID: `MCxkZGU0YmVjMTdkZmZlYjJkOWJkYzZjNDU5MWI1M2NmNWVjNmU1M2Fj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,926 likes - 1,240 songs - 3 day 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,005 likes - 1,240 songs - 3 day 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 30 | [Samba Malato](https://open.spotify.com/track/45FVk9df1DphMBZr3MmunP) | [Lucila Campos](https://open.spotify.com/artist/7ruyK2y9ppQaO6yKfIC74A) | [Afro\-Peruvian Classics: The Soul of Black Peru](https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas) | 3:17 |
 | 31 | [Alagi](https://open.spotify.com/track/64cpIilES9L1mlh71sP0A3) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/6VZVFRzVDGVyNMDAiv0fUH) | 4:32 |
 | 32 | [Zühtü](https://open.spotify.com/track/5Xvs2KoaMHDz5tKTYJIcwP) | [Esin Afşar](https://open.spotify.com/artist/4ATXCu84e0P0q5QLzkMsaT) | [Zühtü / Kaz](https://open.spotify.com/album/7JRJBUW52kGYXKtN839BQU) | 3:33 |
-| 33 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 |
+| 33 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 |
 | 34 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 |
 | 35 | [Murkit Gem](https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:12 |
 | 36 | [Pardah Hai Pardah \- From "Amar Akbar Anthony"](https://open.spotify.com/track/31LmckJpmIPMooKR9jiGKs) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Amar Akbar Anthony](https://open.spotify.com/album/55NxNTAZ8bSlGYjWcAxbGf) | 7:59 |
@@ -613,7 +613,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 603 | [Dadje Von O Von Non](https://open.spotify.com/track/0yIuAckn8fWwz4PeUdobBJ) | [Gnonnas Pédro](https://open.spotify.com/artist/5BpAs1BvNgMo3LAWa0fzcf) | [Legends of Benin \(Analog Africa No\. 5\)](https://open.spotify.com/album/1SP3wcjrGijcgJ3aWpii20) | 3:54 |
 | 604 | [Olè \- The Funkees Re\-Edit](https://open.spotify.com/track/5NTDxIxuu9lrgqbUdReGMj) | [Ten Different](https://open.spotify.com/artist/617BDwEvR1UrnMnHaN27VA) | [Olè \(The Funkees Re\-Edit\)](https://open.spotify.com/album/1Wg48rSXXh2tfXwhPQOKUs) | 6:00 |
 | 605 | [Watermelon Man](https://open.spotify.com/track/2PyL58MwWwSFs5f4R2QJm1) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:14 |
-| 606 | [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 |
+| 606 | [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 |
 | 607 | [Tamborino Swing](https://open.spotify.com/track/5WSy26tUJoc6egZmm8IBf1) | [Los Silvertones](https://open.spotify.com/artist/0M1pko0FvWEqmknZBVLjuv) | [Panama! 2: Latin Sounds, Cumbia, Tropical & Calypso Funk on the Isthmus 1967\-77](https://open.spotify.com/album/4FSU4cbXwyxNboluRYqvUh) | 3:38 |
 | 608 | [Garra](https://open.spotify.com/track/7sQur7txBJ0XKdLaj3FAEY) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Samba de Verão](https://open.spotify.com/album/60rkephAWKMDw75drDgNmP) | 2:58 |
 | 609 | [Mathar](https://open.spotify.com/track/5ezivMcaRvUg2KtKyYYKUI) | [Dave Pike Set](https://open.spotify.com/artist/6zAEqMMSjBiAH4Dat94F3G) | [Noisy Silence \- Gentle Noise](https://open.spotify.com/album/2FqvsZsOGHKUBRmk4XOawF) | 3:42 |
@@ -1042,7 +1042,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1032 | [Al Zman Saib](https://open.spotify.com/track/2mRMVHPh3ivbKvgJy7dzk2) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ) | 3:52 |
 | 1033 | [Son of a Thousand Fathers](https://open.spotify.com/track/4alPKwNKJktv0PCJZRBiqk) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Mutant Hi\-Fi](https://open.spotify.com/artist/5yx9JLGofV3VkAqAaiJa0l) | [Return of Gringo! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22Xbxk5rZBYB5BLAj3XHKQ) | 2:29 |
 | 1034 | [Don't Huzzle for Love](https://open.spotify.com/track/69b5nYd8TUnEbUolnJObiB) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Black Is Beautiful](https://open.spotify.com/album/78mvO5CuYHAh2855VbQXvV) | 3:31 |
-| 1035 | [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 |
+| 1035 | [Subhana](https://open.spotify.com/track/1UZ7xcA5TnMaIqNWBnf8P9) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 022\)](https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W) | 4:58 |
 | 1036 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 |
 | 1037 | [Casbah](https://open.spotify.com/track/262YRlj3R609tpe8uXeo7Z) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 3:25 |
 | 1038 | [Kadi Kaseca](https://open.spotify.com/track/1YBJ0ABjimQEzpvk92ne7W) | [David Zé](https://open.spotify.com/artist/6Z2vxHCAm6Uwsh1m1IgUhR) | [O Melhor de David Zé](https://open.spotify.com/album/17okj8mBpSNRoraUCxTrha) | 3:08 |
@@ -1249,4 +1249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1239 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1240 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2YWQyNDg0MTAwMjAxY2NkZDYzYzU0ZTgzY2VhODZiNjQ3YzIzMzY2`
+Snapshot ID: `MCw5OTVlZDQ5MzdmNjczMmFiNGE1YjgyNDNmOWVjOGNkMGFhNjBkNmMw`

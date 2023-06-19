@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran, con m\u00fasica y acciones. Cover: paopao",
-  "num_followers": 634183,
+  "num_followers": 634226,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGJlZGRiNWVjNDcwYmI5MGRhNDY3Y2IzZDI5ZDNmNzgxNmYxMDZl",
+  "snapshot_id": "MCw4ZGNkZWZlZDRkMjY3NTk1MTg3OGJhMjJiODRjNzBjNGMzNmU0OTdj",
   "tracks": [
     {
       "added_at": "2023-06-09 00:25:27",
@@ -195,18 +195,22 @@
     {
       "added_at": "2023-06-09 00:25:27",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
     },
     {
       "added_at": "2023-06-09 00:25:27",
@@ -227,22 +231,18 @@
     {
       "added_at": "2023-06-09 00:25:27",
       "album": {
-        "name": "ALMA",
-        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 147603,
-      "name": "8 AM",
-      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-06-09 00:25:27",

@@ -951,6 +951,28 @@
     },
     {
       "album": {
+        "name": "We Don't Fight Anymore",
+        "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220145,
+      "name": "We Don't Fight Anymore",
+      "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
+    },
+    {
+      "album": {
         "name": "What Are You Listening To?",
         "url": "https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n"
       },

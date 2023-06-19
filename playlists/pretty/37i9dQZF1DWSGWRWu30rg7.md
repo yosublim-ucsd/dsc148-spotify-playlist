@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Janita Gabriela
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,810 likes - 83 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,805 likes - 83 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 82 | [Memories](https://open.spotify.com/track/7kXpwOBtnAfhMPzSE5Wadl) | [K.R.I.S.H.N.A](https://open.spotify.com/artist/3e1TIg8wubceCPjYmWaWbc) | [Memories](https://open.spotify.com/album/2EzZNF9lyq0pXqLXVH37DF) | 3:24 |
 | 83 | [Cinta Selamanya](https://open.spotify.com/track/2hnnuDwJrAXPlJHjsz7Hbh) | [Ahmad Rifqi](https://open.spotify.com/artist/6qtbf5A1bnHy10GRwzWdc4) | [Cinta Selamanya](https://open.spotify.com/album/1APzC8YdDOhDdgzm0Joczt) | 3:41 |
 
-Snapshot ID: `MCw5N2RlODgxMDg2OTc0NzM0MDlmZjlkYjQ3OTI5ZWVkM2QyZjY1N2Ew`
+Snapshot ID: `MCxlMTQ4ZTJlODI3ODllYmNhNDExZmQ4YzNlNmIzNzMxOWM1ZDg4N2Y2`

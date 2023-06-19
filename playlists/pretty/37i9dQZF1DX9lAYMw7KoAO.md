@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"> Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,654 likes - 90 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,681 likes - 90 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 89 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 |
 | 90 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
 
-Snapshot ID: `MCxhZGFlMzFjNWUwMDQ4NjYzMmQyY2EwNDI0YjQyMzRmYzliM2Q3NGY4`
+Snapshot ID: `MCxlMDFlYzcyODhmNjNmYTQ1YTRlODk1MjNhYjMzMTc4NTM4ZDVlMGMz`

@@ -8525,6 +8525,24 @@
     },
     {
       "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60952,
+      "name": "When I",
+      "url": "https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j"
+    },
+    {
+      "album": {
         "name": "Nothing more Nothing LESS",
         "url": "https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0"
       },

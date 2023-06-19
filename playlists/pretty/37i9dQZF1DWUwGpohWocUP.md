@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwGpohWocUP.md) - [plain]
 
 > The hitmaker <a href="spotify:artist:7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a> delights us with this summer\-like mix, which includes tracks from his latest album "Walkerverse"
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,519 likes - 24 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,814 likes - 24 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwGpohWocUP.md) - [plain]
 | 23 | [Lost \- Mixed](https://open.spotify.com/track/2WyAbcF2rBplSQF1hyWnSO) | [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Lost \(Mixed\)](https://open.spotify.com/album/00aA707WWzpmMhNkaLRpbJ) | 3:18 |
 | 24 | [Somebody Like U \- Mixed](https://open.spotify.com/track/06L5uwnHZuzwSetOg51Maa) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Somebody Like U \(Mixed\)](https://open.spotify.com/album/48GEZmgvF07wcbldDduHN7) | 3:08 |
 
-Snapshot ID: `MCxjMDQ4ZDVkY2FmMzA5ZmZiNWI3NzcyNTcyZDg4MTUzODM5ODEwMzcy`
+Snapshot ID: `MCwxYWUwODc1MGEyMDM1OWM2Njc1NWExOTNmOGU2MTQ0YjAzYjA3NzIx`

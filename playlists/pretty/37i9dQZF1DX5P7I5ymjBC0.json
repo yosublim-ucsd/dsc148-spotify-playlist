@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Sona Mohapatra",
-  "num_followers": 61261,
+  "num_followers": 61310,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzRlYmMxODBiMGYzMTYxZjQ3OTFlYjVjZDAwMmUwZTY2YzdlOTM4",
+  "snapshot_id": "MCxlYTQ3ODFhMjBmZjRhNWZkNTQ1NTI3ZTY5MzY2MDY2MDkyNGExODBi",
   "tracks": [
     {
       "added_at": "2023-05-29 04:53:48",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        }
-      ],
-      "duration_ms": 141459,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 141459,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -991,42 +991,38 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Taurat",
-        "url": "https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935"
+        "name": "Rangderi",
+        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
       },
       "artists": [
         {
-          "name": "Shakir Khan",
-          "url": "https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX"
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
         },
         {
-          "name": "Aarya Ambekar",
-          "url": "https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm"
+          "name": "Asha Sapera",
+          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
         }
       ],
-      "duration_ms": 301714,
-      "name": "Bairan",
-      "url": "https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj"
+      "duration_ms": 364796,
+      "name": "Rangderi",
+      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Rang Na",
-        "url": "https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT"
+        "name": "Justaju: The Essence of Love",
+        "url": "https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45"
       },
       "artists": [
         {
-          "name": "Pratibha Baghel",
-          "url": "https://open.spotify.com/artist/34WY28NColBYovxxFwafVW"
-        },
-        {
-          "name": "Harshit Chauhan",
-          "url": "https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg"
+          "name": "Raahein Gharana",
+          "url": "https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR"
         }
       ],
-      "duration_ms": 254491,
-      "name": "Rang Na",
-      "url": "https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r"
+      "duration_ms": 302704,
+      "name": "Justaju: The Essence of Love",
+      "url": "https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV"
     }
   ],
   "unique_name": "Fusion Finds",

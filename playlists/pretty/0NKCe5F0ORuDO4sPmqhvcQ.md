@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,012 likes - 142 songs - 8 hr 3 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,014 likes - 143 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 140 | [Once Upon a Time](https://open.spotify.com/track/1PhU0beKROIDBxxwf0B7lr) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Once Upon a Time](https://open.spotify.com/album/3jBewN7LtSKeaKoKY7zlKF) | 3:39 |
 | 141 | [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 |
 | 142 | [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:21 |
+| 143 | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [2livemafia](https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux) | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78) | 2:46 |
 
-Snapshot ID: `MTAzMjIsOWFmOWFiMmZkMDI3NmU3ZGRmMWJkNmU4YTIwYmZmNzZhMzE0ZTQxMA==`
+Snapshot ID: `MTAzMjMsNmVlMzZmNWY2MTJjMzFjZmZlNzkyNTM0YmNjMzBhY2U5MmE2ODFkZA==`

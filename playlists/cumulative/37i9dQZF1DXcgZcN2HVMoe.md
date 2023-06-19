@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-707 songs - 1 day 18 hr 13 min
+708 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Coastline](https://open.spotify.com/track/0Ma3HnDcmCSbjv3uu3aIPO) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Coastline](https://open.spotify.com/album/0jMZ5F6yR0Vdg7GGFLg8GS) | 3:53 | 2021-12-17 | 2022-07-29 |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-22 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-24 |  |
-| [Colors](https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:11 | 2023-04-28 |  |
+| [Colors](https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:11 | 2023-04-28 | 2023-06-19 |
 | [Colors](https://open.spotify.com/track/5zn38bzjOZhCNmipZ9agN1) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Colors](https://open.spotify.com/album/3uO1F4TvpNqp1EQ6RNxfF1) | 3:11 | 2021-12-17 | 2022-07-28 |
 | [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 | 2023-03-21 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-12-17 |  |
@@ -392,6 +392,7 @@
 | [Love Gone Wrong](https://open.spotify.com/track/5N0G5cRxTO7zP2c0pREZbw) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Love Gone Wrong](https://open.spotify.com/album/2y0LnZGWcOLaHhzLpSMjHR) | 2:40 | 2021-12-17 | 2022-07-26 |
 | [Love Is A Verb](https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 2:24 | 2022-01-24 |  |
 | [Love Is Tall](https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Love Is Tall](https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp) | 2:33 | 2022-01-24 | 2022-07-27 |
+| [Love Like That](https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Drift Back](https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl) | 3:14 | 2023-04-28 |  |
 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 | 2022-04-29 | 2023-06-15 |
 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 | 2021-12-17 |  |
 | [Love To Love You](https://open.spotify.com/track/3Xhn8Im10ctTVFkCMrUD1M) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [Love To Love You](https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog) | 2:39 | 2021-12-17 | 2022-07-29 |

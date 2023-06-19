@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: 3AM
 
-305 songs - 16 hr 8 min
+306 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2022-09-06 |  |
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 |  |
 | [Arrocito Frito](https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Arrocito Frito](https://open.spotify.com/album/5gAB1Cq1VVlQ7TzztBCG3T) | 3:01 | 2022-02-11 | 2022-09-07 |
-| [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 |  |
+| [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 | 2023-06-19 |
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-12 |  |
 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 | 2023-01-20 | 2023-05-15 |
 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 | 2022-09-06 | 2023-02-05 |
+| [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2023-06-16 |  |
 | [Bendición Bye Bye](https://open.spotify.com/track/7FDB89qhBRx36Taw6aiPbw) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bendición Bye Bye](https://open.spotify.com/album/51N1A6D68k8H2L3D1EP5OU) | 2:43 | 2023-05-05 | 2023-05-19 |
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2022-02-11 | 2022-09-07 |
 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 | 2022-09-23 |  |

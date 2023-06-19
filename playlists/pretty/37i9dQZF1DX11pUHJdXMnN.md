@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,839 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,848 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 15 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
 | 16 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
 | 17 | [First Sight](https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [First Sight](https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1) | 2:32 |
-| 18 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
-| 19 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 18 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 19 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
 | 20 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
 | 21 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
 | 22 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
 | 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCwxZWE4NDg0ODUwNDc4OTg0OTA1N2ZlZmY5MDZmZDA5MGM4NGZkZDFj`
+Snapshot ID: `MCxkMDg5NGY3ZWQ3YWVkN2Q5MmYwYmU0ZjUzODQ3M2RkNzg4OGM0YmY0`

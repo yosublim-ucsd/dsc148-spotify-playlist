@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Tophyun\(탑현\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,466 likes - 127 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,493 likes - 127 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 126 | [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 |
 | 127 | [Goodbye](https://open.spotify.com/track/35CDs1dRAQHET3C3L8pC1s) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Goodbye](https://open.spotify.com/album/2yqXymIotLIx9BCuRIAWFU) | 2:56 |
 
-Snapshot ID: `MCxhMTViZTg2MTNkMzBkZTNkMGIwY2U4NjNkZTJhYzBlZTI3MzQ4ODYy`
+Snapshot ID: `MCxjZDlkY2UxZDQwMDJkNGNmZTIwNDgzZmM4ODQwYmJkN2M5ZTAyYmEy`

@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 464996,
+  "num_followers": 465272,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmEwYTM4M2VhNTljZWQ0OTJlZTZjNWFkMThjYWU4OWMyODA3MWM5",
+  "snapshot_id": "MCw4NGM5M2Y0YjUyMzcwMTg3OWZmNWUwMzA1NTkxNjBlYWMyNDQwODMx",
   "tracks": [
     {
       "added_at": "2023-06-03 04:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -595,18 +595,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -627,22 +631,38 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -687,22 +707,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         },
         {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -723,26 +743,6 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "Everything You Have Done (Meduza Edit)",
-        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 156218,
-      "name": "Everything You Have Done - Meduza Edit",
-      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "After Midnight (feat. Xoro)",
-        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Xoro",
-          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
-        }
-      ],
-      "duration_ms": 143526,
-      "name": "After Midnight (feat. Xoro)",
-      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1203,22 +1179,26 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+        "name": "After Midnight (feat. Xoro)",
+        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
         }
       ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+      "duration_ms": 143526,
+      "name": "After Midnight (feat. Xoro)",
+      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1243,6 +1223,26 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl"
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
         }
       ],
-      "duration_ms": 157673,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb"
+      "duration_ms": 119084,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
     }
   ],
   "unique_name": "Beast Mode Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Bukis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,113 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,356 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 69 | [Limosnero De Cariño](https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 3:12 |
 | 70 | [Notas de Sociedad](https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 2:53 |
 | 71 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
-| 72 | [Separados](https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:12 |
-| 73 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
+| 72 | [Cómo Me Duele Amor](https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:10 |
+| 73 | [Separados](https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:12 |
 | 74 | [Me Quede Llorando](https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:25 |
-| 75 | [Cómo Me Duele Amor](https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:10 |
+| 75 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
 | 76 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [Kris Melody](https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK) | [Romances](https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq) | 3:51 |
 | 77 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
 | 78 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Ven Porque Te Necesito \- Remastered](https://open.spotify.com/track/3DgShLY5XAFKfzM4R5ChLO) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Los Temerarios Esencial](https://open.spotify.com/album/61lnwjC4AW60dWT4hpqjf8) | 2:57 |
 | 100 | [Tiernas Mentiras](https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 
-Snapshot ID: `MCw4ZjA1MGE0NDc1Zjk1ZTcwZTk1MzYyM2UwZmJhYTQyNGZjMTVlYjg4`
+Snapshot ID: `MCw5OTZmMzMzNDdkZmI1ZjE2NTEwZTlkM2Y3MWFmNDJjOGY1N2RjYzM0`

@@ -808,6 +808,24 @@
     {
       "album": {
         "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "Money Conversations",
+      "url": "https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
       "artists": [
@@ -858,7 +876,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 156960,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
@@ -1384,6 +1402,28 @@
     {
       "album": {
         "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
       "artists": [
@@ -1398,7 +1438,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 206769,
       "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
       "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"

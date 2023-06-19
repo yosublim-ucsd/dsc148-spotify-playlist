@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Hak Baker",
-  "num_followers": 111508,
+  "num_followers": 111521,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2QzMmQwNTc0ZjViODkwMzQyZTYzN2NhMTY2Mjg4MmM4OGU2NTc0",
+  "snapshot_id": "MCwzOTk1MmE1MGRlNDc3MjBiMDY0MWFhYmVlZTVjMTJjMzRhNTJmNTNh",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "TEMPTRESS",
-        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 127707,
-      "name": "U SAID!",
-      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 127707,
+      "name": "U SAID!",
+      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 185070,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 187925,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Do You Wanna Talk",
         "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 143322,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 226471,
       "name": "Someone2Me",
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 143322,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 175449,
+      "name": "666",
+      "url": "https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Makes Me Sick Makes Me Smile",
         "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
       },
@@ -1291,34 +1307,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
       "artists": [
         {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 197013,
-      "name": "The Deep End",
-      "url": "https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 175449,
-      "name": "666",
-      "url": "https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn"
+      "duration_ms": 182719,
+      "name": "What You Did",
+      "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
     }
   ],
   "unique_name": "pulp",

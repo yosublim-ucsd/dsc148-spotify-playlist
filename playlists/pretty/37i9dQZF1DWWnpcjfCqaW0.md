@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,736 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,888 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 70 | [Hey Joe](https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Decca Singles 1952\-1953](https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc) | 2:39 |
 | 71 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
 | 72 | [Fraulein](https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [20 Of His Best](https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0) | 2:41 |
-| 73 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 |
+| 73 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 74 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 |
-| 75 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
+| 75 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 |
 
-Snapshot ID: `MCwxYzRjYTAxMDE3NzhlYTJhM2FmMGQ0MGNjYjRiY2UzZTQxNDcyMjIy`
+Snapshot ID: `MCwyNjk5ZGRkMDBmZjIwNTU1ZjY3ZGU3ZTNkNzIzZDM0N2FhMjNjMzBk`

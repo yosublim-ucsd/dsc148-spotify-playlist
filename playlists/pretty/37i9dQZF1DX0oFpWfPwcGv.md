@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,820 likes - 75 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,857 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 14 | [Ai No Corrida](https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Charles May](https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 6:26 |
 | 15 | [It's My House](https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:34 |
 | 16 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
-| 17 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 3:50 |
-| 18 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
+| 17 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
+| 18 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 3:50 |
 | 19 | [I Love The Nightlife \(Disco 'Round\)](https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs) | [Alicia Bridges](https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe) | [I Love The Nightlife](https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v) | 3:07 |
 | 20 | [Spacer](https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [King Of The World](https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr) | 5:54 |
 | 21 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 27 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8) | 4:01 |
 | 28 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
 | 29 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 |
-| 30 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
-| 31 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
+| 30 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
+| 31 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 32 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
 | 33 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
 | 34 | [Come to Me](https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Come to Me](https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1) | 9:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 65 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 |
 | 66 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
 | 67 | [Dance A Little Bit Closer \- 12" Mix](https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn) | [Charo](https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I), [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Cuchi\-Cuchi](https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht) | 6:17 |
-| 68 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
-| 69 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 |
+| 68 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 |
+| 69 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 70 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
 | 71 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
 | 72 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 75 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 
-Snapshot ID: `MCwzMmZjMDI0NTZmMzEyMzAwYWRiMTZhY2EzMzdlMmE5NDA0ZDZhYzk3`
+Snapshot ID: `MCw2ZTRmNWQ2MDA5N2YxMGU5YjFkY2RhMWE5ZTZkODBlYTZhMDQyZjM5`

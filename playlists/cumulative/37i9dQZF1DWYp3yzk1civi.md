@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-79 songs - 4 hr 25 min
+80 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bedroom Walls](https://open.spotify.com/track/4mjBXZo7CcwaotjhUEl0kc) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/1Nzrs8pqwUKc5qIYCyEgTg) | 3:32 | 2021-10-14 | 2022-07-29 |
 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 | 2021-10-14 |  |
 | [Before You Go \- Piano Version](https://open.spotify.com/track/7slfeXbuzr9RYXX6XS6Npi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go \(Piano Version\)](https://open.spotify.com/album/0UTqwkUezPRLYSF35rj6br) | 3:38 | 2021-10-14 |  |
-| [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2021-10-14 |  |
+| [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 | 2021-10-14 |  |
+| [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2021-10-14 | 2023-06-19 |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-10-14 | 2022-07-29 |
 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2021-10-14 | 2022-11-21 |
 | [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2021-10-14 | 2022-11-13 |

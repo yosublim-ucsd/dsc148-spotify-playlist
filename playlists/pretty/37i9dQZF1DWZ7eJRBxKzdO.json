@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 172081,
+  "num_followers": 174100,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWY5ZDA2NWIwNWRkZWJhMmU3Yjk0MWI1NjAxNDZhNTU2OGM3M2U5",
+  "snapshot_id": "MCwwMGEwNTZjYTYzYmY4M2E5OTEwN2I0ZGJjYWQ5ZGRiZmE3MjRmZjdi",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1371,26 +1391,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Summer 91 (Looking Back)",
         "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Where The Lights Are Low",
         "url": "https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 136995,
       "name": "Where The Lights Are Low",
       "url": "https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
@@ -1619,22 +1639,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1931,22 +1931,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
-        "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         }
       ],
-      "duration_ms": 217673,
-      "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
-      "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
+      "duration_ms": 209032,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1983,18 +1979,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
+        "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+        "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
+      "duration_ms": 217673,
+      "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+      "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 144037,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Feels Like Love (feat. MIYA MIYA)",
-        "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "MIYA MIYA",
-          "url": "https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Feels Like Love (feat. MIYA MIYA)",
-      "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Ritmo (HUGEL Edit)",
         "url": "https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Feels Like Love (feat. MIYA MIYA)",
+        "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "MIYA MIYA",
+          "url": "https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Feels Like Love (feat. MIYA MIYA)",
+      "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2207,6 +2207,26 @@
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2431,30 +2451,6 @@
       "duration_ms": 194880,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Come Around Again",
-        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
     }
   ],
   "unique_name": "Summer Dance Hits 2023",

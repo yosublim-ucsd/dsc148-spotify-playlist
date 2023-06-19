@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Sona Mohapatra
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,261 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,310 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 33 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 34 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
 | 35 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
-| 36 | [The Awakening](https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [The Awakening](https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR) | 2:21 |
-| 37 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 |
+| 36 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 |
+| 37 | [The Awakening](https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [The Awakening](https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR) | 2:21 |
 | 38 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
 | 39 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 40 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 46 | [Yatra](https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Barry Phillips](https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:22 |
 | 47 | [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 |
 | 48 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
-| 49 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 |
-| 50 | [Rang Na](https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW), [Harshit Chauhan](https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg) | [Rang Na](https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT) | 4:14 |
+| 49 | [Rangderi](https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Asha Sapera](https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC) | [Rangderi](https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ) | 6:04 |
+| 50 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 |
 
-Snapshot ID: `MCw2NzRlYmMxODBiMGYzMTYxZjQ3OTFlYjVjZDAwMmUwZTY2YzdlOTM4`
+Snapshot ID: `MCxlYTQ3ODFhMjBmZjRhNWZkNTQ1NTI3ZTY5MzY2MDY2MDkyNGExODBi`

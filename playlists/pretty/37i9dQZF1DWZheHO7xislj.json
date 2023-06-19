@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 69780,
+  "num_followers": 69783,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2ExODQ1MWM3MDliMzUzNWQ0ZTE4MmY5ODhmNmRiZmUxOTFhOWY4",
+  "snapshot_id": "MCxiY2UxMzQ0Y2VhYTMzMGM0YTk4ZTMwNjNiNGU2MGQzOWY5ZjQ3ZWQ0",
   "tracks": [
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 221293,
       "name": "Your Love Is King - Remastered",
       "url": "https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 279413,
       "name": "Yah Mo B There",
       "url": "https://open.spotify.com/track/5edioRF5SIeNzZafgd1Py1"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1723,8 +1723,8 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
       },
       "artists": [
         {
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -1855,8 +1839,24 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+        "name": "Come into My Life: The Very Best of Joyce Sims",
+        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
         }
       ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+      "duration_ms": 227773,
+      "name": "Come into My Life (Radio Mix)",
+      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2031,18 +2047,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Come into My Life: The Very Best of Joyce Sims",
-        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
+        "name": "Still Waters Run Deep",
+        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
       },
       "artists": [
         {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 227773,
-      "name": "Come into My Life (Radio Mix)",
-      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
+      "duration_ms": 194693,
+      "name": "Still Water (Love)",
+      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2059,22 +2075,6 @@
       "duration_ms": 185608,
       "name": "Some Type of Love",
       "url": "https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Still Waters Run Deep",
-        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Still Water (Love)",
-      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Looking Up: The Complete Works",
-        "url": "https://open.spotify.com/album/1cCPp72pYp0Qi58RonEgG9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Cleveland",
-          "url": "https://open.spotify.com/artist/3zBKNUzxxmYF1Ne4eVG1zx"
-        }
-      ],
-      "duration_ms": 348500,
-      "name": "Love Will Set You Free",
-      "url": "https://open.spotify.com/track/1Lneu3yr39cjBUy5Puo7Fr"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Swept Away (Expanded Edition)",
         "url": "https://open.spotify.com/album/20SrAySYqHsaUE4XGlH6Pv"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 254786,
       "name": "Missing You - 7\" Single Mix",
       "url": "https://open.spotify.com/track/1MGgmB8tBTpicGil7mfUqc"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Looking Up: The Complete Works",
+        "url": "https://open.spotify.com/album/1cCPp72pYp0Qi58RonEgG9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Cleveland",
+          "url": "https://open.spotify.com/artist/3zBKNUzxxmYF1Ne4eVG1zx"
+        }
+      ],
+      "duration_ms": 348500,
+      "name": "Love Will Set You Free",
+      "url": "https://open.spotify.com/track/1Lneu3yr39cjBUy5Puo7Fr"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Funky Entertainment",
-        "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
-      },
-      "artists": [
-        {
-          "name": "Brainstorm",
-          "url": "https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "You Put A Charge In My Life",
-      "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "I'm A Stranger",
         "url": "https://open.spotify.com/album/4n5x5ax3mxf1ZIiLASmRrN"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 336004,
       "name": "Now That I Have You",
       "url": "https://open.spotify.com/track/2QA4gRDRIkZswWy21GuRsE"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Funky Entertainment",
+        "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
+      },
+      "artists": [
+        {
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "You Put A Charge In My Life",
+      "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3083,18 +3083,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "A Nickel And A Nail And Ace Of Spades",
-        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
+        "name": "The Masters Series: 70's Soul Vol. 2",
+        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
       },
       "artists": [
         {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+          "name": "Al Matthews",
+          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
         }
       ],
-      "duration_ms": 222533,
-      "name": "A Nickel And A Nail",
-      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+      "duration_ms": 221280,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3115,18 +3115,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Masters Series: 70's Soul Vol. 2",
-        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
+        "name": "A Nickel And A Nail And Ace Of Spades",
+        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
       "artists": [
         {
-          "name": "Al Matthews",
-          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
+      "duration_ms": 222533,
+      "name": "A Nickel And A Nail",
+      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3343,22 +3343,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
-        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
-      },
-      "artists": [
-        {
-          "name": "Brian Holland",
-          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "I\u2019m So Glad (Part 1)",
-      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "A Brand New Me",
         "url": "https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t"
       },
@@ -3371,6 +3355,22 @@
       "duration_ms": 149706,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/0w3AAvT5RNrwFCx9mItvIW"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
+        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
+      },
+      "artists": [
+        {
+          "name": "Brian Holland",
+          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "I\u2019m So Glad (Part 1)",
+      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
     },
     {
       "added_at": "2023-05-23 13:45:39",

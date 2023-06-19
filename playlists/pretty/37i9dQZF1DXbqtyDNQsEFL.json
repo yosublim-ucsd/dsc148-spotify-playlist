@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 37310,
+  "num_followers": 37373,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjNkZDMwMjdiZDI0ZjAwMTUwZGQzNGNiNzUwMmM4Y2FhZDNjOTFk",
+  "snapshot_id": "MCxlNWMxZDZiMTUyN2IwMjY2YzQ3YzJkMGNlZTY5ZTMxMjdmNTU5YWZk",
   "tracks": [
     {
       "added_at": "2023-06-16 07:12:46",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Olorun Agbaye - You Are Mighty",
+        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
+        }
+      ],
+      "duration_ms": 438744,
+      "name": "Olorun Agbaye - You Are Mighty",
+      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Olorun Agbaye - You Are Mighty",
-        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Oba",
-          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
-        }
-      ],
-      "duration_ms": 438744,
-      "name": "Olorun Agbaye - You Are Mighty",
-      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Believe For It (Eu Creio)",
         "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 281627,
-      "name": "God All by Yourself",
-      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Watching All over Me",
         "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 281627,
+      "name": "God All by Yourself",
+      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Protocol breaker",
         "url": "https://open.spotify.com/album/4y3f3Sjb3QPlX5v0sUj5u3"
       },
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Aka Ngozi (The Hand of God)",
-        "url": "https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Aka Ngozi (The Hand of God)",
-      "url": "https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Nsenkyerene Nyankopon (Live)",
         "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
       },
@@ -1459,6 +1463,22 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Aka Ngozi (The Hand of God)",
+        "url": "https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Aka Ngozi (The Hand of God)",
+      "url": "https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1479,22 +1499,6 @@
       "duration_ms": 340000,
       "name": "King of Glory",
       "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     }
   ],
   "unique_name": "Be Lifted ",

@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 182560,
+  "num_followers": 182618,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWFhZWI1ZjNiMGRjZjBhYTlhZjhhYmI2OGE3ZGJiMjZlMzUyYzE4",
+  "snapshot_id": "MCw3OTU3NWJlZDBlZmUxMGIxZjc0ODZkNjYyNWJhNTk0ZWIxMmQ4Nzg4",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Carnival \"Soul\" Classics, Volume 5",
+        "url": "https://open.spotify.com/album/4Fj06KTSUMQ9svgLuTMd7v"
+      },
+      "artists": [
+        {
+          "name": "Lee Williams & The Cymbals",
+          "url": "https://open.spotify.com/artist/5Z1EuThrenHDjgwptVN5F5"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Please Say It Isn't So",
+      "url": "https://open.spotify.com/track/5cx2WKUpSohEmny0XUqvfe"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 172973,
       "name": "How Can You Say It",
       "url": "https://open.spotify.com/track/0HlFUfeYx81U8LwaxanS82"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Carnival \"Soul\" Classics, Volume 5",
-        "url": "https://open.spotify.com/album/4Fj06KTSUMQ9svgLuTMd7v"
-      },
-      "artists": [
-        {
-          "name": "Lee Williams & The Cymbals",
-          "url": "https://open.spotify.com/artist/5Z1EuThrenHDjgwptVN5F5"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Please Say It Isn't So",
-      "url": "https://open.spotify.com/track/5cx2WKUpSohEmny0XUqvfe"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        },
-        {
-          "name": "Cubie Burke",
-          "url": "https://open.spotify.com/artist/4DwdnqIE4opZBfHmmLJOeC"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "Baby Make Me Feel So Good",
-      "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 258893,
       "name": "I Love You Secretly",
       "url": "https://open.spotify.com/track/1JyKnipwxepbTo7OeqqO17"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        },
+        {
+          "name": "Cubie Burke",
+          "url": "https://open.spotify.com/artist/4DwdnqIE4opZBfHmmLJOeC"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Baby Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Somebody Done Took My Baby and Gone",
-      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Dave Hamilton's Detroit Dancers",
         "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 183360,
       "name": "Heavenly Thing",
       "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Somebody Done Took My Baby and Gone",
+      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "City of Brotherly Love",
-      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 228586,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5rkpxPKDNDEVzFshqyLwqS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "City of Brotherly Love",
+      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 274920,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "My Music",
         "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 166133,
       "name": "Fire - Mono Single",
       "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Travelin' In Heavy Traffic",
-        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
-      },
-      "artists": [
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
-        }
-      ],
-      "duration_ms": 361626,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
         "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 159186,
       "name": "Tammie",
       "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Travelin' In Heavy Traffic",
+        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
+      },
+      "artists": [
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "duration_ms": 361626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Best of Ace: Soul Harmony",
-        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
-      },
-      "artists": [
-        {
-          "name": "The Performers",
-          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "That Day When She Needed Me",
-      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased: 1966",
         "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 137077,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Best of Ace: Soul Harmony",
+        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
+      },
+      "artists": [
+        {
+          "name": "The Performers",
+          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "That Day When She Needed Me",
+      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1962: Girls",
-        "url": "https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR"
-      },
-      "artists": [
-        {
-          "name": "Hattie Littles",
-          "url": "https://open.spotify.com/artist/6l0RXtokGJSdv4rHfesSyv"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Sticking With You (Nobody But You)",
-      "url": "https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Soul on Soul - Deluxe Edition",
         "url": "https://open.spotify.com/album/3T0UrjowpknxYWhpMxH5CZ"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 142628,
       "name": "With My Love and What You've Got (We Could Turn This World Around)",
       "url": "https://open.spotify.com/track/0Kumf47kWgjaHmfXhyGRz8"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1962: Girls",
+        "url": "https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR"
+      },
+      "artists": [
+        {
+          "name": "Hattie Littles",
+          "url": "https://open.spotify.com/artist/6l0RXtokGJSdv4rHfesSyv"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Sticking With You (Nobody But You)",
+      "url": "https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX"
     },
     {
       "added_at": "2022-05-11 12:29:38",

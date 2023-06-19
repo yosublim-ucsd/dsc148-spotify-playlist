@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: TM NETWORK
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,077 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,155 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 |
 | 50 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 
-Snapshot ID: `MCxjY2RlMDEyYzRhMDllOGJlMzBhMTdjM2NjMmI3ZDRmNDMzOThhMGY5`
+Snapshot ID: `MCw0OTI0MzJiOGM0YmI0ZDQxZGFmMDcxMGMwYzI1MDUzZDMxNjk1ZmRm`

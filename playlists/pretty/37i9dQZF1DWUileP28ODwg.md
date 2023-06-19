@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,278 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,503 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 31 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 |
 | 32 | [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 |
 | 33 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
-| 34 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
-| 35 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
+| 34 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
+| 35 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
 | 36 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
 | 37 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
-| 38 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 |
-| 39 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
+| 38 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
+| 39 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 |
 | 40 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 |
 | 41 | [God You Are](https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 4:25 |
 | 42 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 80 | [Then Christ Came](https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Then Christ Came](https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF) | 3:43 |
 | 81 | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/6fyNpkBi15SKd0PBMdMbsM) | 3:49 |
 | 82 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 |
-| 83 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Remixes\]](https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy) | 2:34 |
-| 84 | [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 |
+| 83 | [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 |
+| 84 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Remixes\]](https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy) | 2:34 |
 | 85 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
 | 86 | [Always](https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 4:08 |
 | 87 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 100 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 |
 
-Snapshot ID: `MCwxYzE2NWNhZWIwODgwYjQ0ZDNiNTU2N2FkYTVkMmJhYmMxYmVlMGMw`
+Snapshot ID: `MCxhN2I1ZDc5NWE4NGU4YTA2Mjc1NDFiNjUxZjY2ZTU5ZjFmMzgxOWJl`

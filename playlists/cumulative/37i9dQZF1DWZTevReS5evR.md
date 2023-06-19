@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-116 songs - 6 hr 49 min
+117 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,13 +100,14 @@
 | [Sang Badut](https://open.spotify.com/track/6s0HM8fK8ZjYHlTHmi123x) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Sang Badut](https://open.spotify.com/album/5BAoqA4Vd02Xm7qsCKwXGd) | 3:55 | 2023-03-24 | 2023-06-08 |
 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 | 2023-03-24 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-24 |  |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-18 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-03-24 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-05-03 |  |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-04 |  |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2023-03-24 |  |
 | [Strong](https://open.spotify.com/track/3cKM7UXBZmgjEgEBTkaIlU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:04 | 2023-03-24 |  |
 | [stuck on you](https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/64FQC1Jn0rGTricYmZEc1Y) | 2:47 | 2023-03-24 |  |
-| [Suck It and See](https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:45 | 2023-03-24 |  |
+| [Suck It and See](https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:45 | 2023-03-24 | 2023-06-19 |
 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 | 2023-03-24 |  |
 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 | 2023-03-24 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-03-24 |  |

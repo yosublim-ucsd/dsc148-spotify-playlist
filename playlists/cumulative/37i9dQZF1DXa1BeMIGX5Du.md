@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-152 songs - 9 hr 20 min
+153 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-10 |  |
 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 | 2022-06-17 |  |
 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 | 2022-03-25 | 2022-07-29 |
-| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-05-09 |  |
+| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-05-09 | 2023-06-19 |
+| [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-08 |  |
 | [Talk To Me](https://open.spotify.com/track/0SfMScKuKDOtDl9VNm64nv) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Talk To Me](https://open.spotify.com/album/4uG4LfViuKQNF3cqEQ2R6P) | 2:50 | 2022-03-25 |  |
 | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2022-03-25 | 2022-08-26 |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2022-03-25 |  |

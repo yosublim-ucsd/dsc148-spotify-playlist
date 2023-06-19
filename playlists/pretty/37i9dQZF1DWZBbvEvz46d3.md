@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,843 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,874 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 46 | [Syreny](https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Składam się z ciągłych powtórzeń](https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3) | 3:36 |
 | 47 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
 | 48 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 |
-| 49 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
-| 50 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
+| 49 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
+| 50 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 51 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
 | 52 | [Trudno Tak \(Razem Byc Nam Ze Soba\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
 | 53 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
-| 54 | [Boję Się Kochać](https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Boję Się Kochać](https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz) | 3:06 |
-| 55 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
+| 54 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
+| 55 | [Boję Się Kochać](https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Boję Się Kochać](https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz) | 3:06 |
 | 56 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 57 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 58 | [Helena](https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Helena](https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 |
 | 75 | [Wystarczę ja](https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [1984](https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga) | 3:25 |
 
-Snapshot ID: `MCwzZDc2YTRiNDBmZDcxNmRlZDkwMGY4NWU5NGQ4N2VmZGI4OTA1MmM3`
+Snapshot ID: `MCw4MmQ0N2YwZTMxYjlmNDhkYjE3ZDdkNGQ0MWU1OWFhZDNlZGE5ZjNl`

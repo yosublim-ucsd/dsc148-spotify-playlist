@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,947 likes - 33 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,172 likes - 33 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 10 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
 | 11 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 12 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
-| 13 | [It's Raining Men \- Single Version](https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF) | 3:34 |
+| 13 | [It's Raining Men](https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF) | 3:34 |
 | 14 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 15 | [I'm So Excited](https://open.spotify.com/track/1XvrMOEi2oLFYdrkfIX3xG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Hits!](https://open.spotify.com/album/0LBcWbF2oWhRfCbbUyB35L) | 3:53 |
 | 16 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Atlantic 60th: On The Dance Floor Vol\. 2](https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz) | 6:15 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 32 | [Upside Down](https://open.spotify.com/track/76as3dkOkHGMAvwmaKXPMD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [20th Century Masters: The Millennium Collection: Best of Diana Ross](https://open.spotify.com/album/54fyYXrRRfl7sMJYF8FXcX) | 4:06 |
 | 33 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 
-Snapshot ID: `MCwyOGI2MzY5YjcwYzc0N2JiYWRkY2U4ODMwMzg4YWQyYjU5YTM3MmE2`
+Snapshot ID: `MCw5MDQ2NzUxNjNjMWRhMDQ3Y2QxNTgwNTIxODE3YWY4NGNmZGNlZTUz`

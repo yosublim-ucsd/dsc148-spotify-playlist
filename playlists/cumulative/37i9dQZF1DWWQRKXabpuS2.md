@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان خليفة
 
-238 songs - 16 hr 10 min
+239 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Mokhtasr Alkalam](https://open.spotify.com/track/0aKVdGAShM0qDuQ0yXCfkR) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Mokhtasr Alkalam](https://open.spotify.com/album/2ZZhDchQl1nUU8uRLOqqIH) | 3:44 | 2022-02-11 | 2022-07-07 |
 | [Musalem](https://open.spotify.com/track/0dC9VMXaO0qua5e8a4DSuj) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Musalem](https://open.spotify.com/album/0bSzzGmaNi37uJznq5KbkR) | 3:40 | 2022-09-14 | 2023-03-25 |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2021-12-23 | 2022-06-04 |
+| [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 | 2023-06-18 |  |
 | [Nekhtelef](https://open.spotify.com/track/4b4ToL5Y9UJxWdi6KcFnUi) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Nekhtelef](https://open.spotify.com/album/52Oiimt5jHOxCvDijrH7v2) | 3:31 | 2023-04-22 | 2023-04-24 |
 | [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 | 2022-06-04 | 2023-01-10 |
 | [Qader](https://open.spotify.com/track/6QhdBvdu5zWZMsRuEvvpJi) | [Hmdan Elbloshi](https://open.spotify.com/artist/7bmRXgbkkJvLTNyNZf1viv), [Abdulaziz Alfailakawi](https://open.spotify.com/artist/2ZoToOFm6PdlzsJrQk6zLp) | [Qader](https://open.spotify.com/album/6SMPpT6rFWhjVj36x8xcTC) | 3:30 | 2021-12-23 | 2022-02-05 |
@@ -168,7 +169,7 @@
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-01-25 |  |
 | [Sukkar](https://open.spotify.com/track/4OcGPIHDcFZcGB5seRrfIm) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom), [Dyler](https://open.spotify.com/artist/6YczkNz5V8O3xnSrYbVEiU) | [Sukkar](https://open.spotify.com/album/6Tzgry4wnabAF4gpSff1uO) | 2:16 | 2022-02-11 | 2022-06-04 |
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2021-12-23 | 2022-02-05 |
-| [Tajahal](https://open.spotify.com/track/2qT3PjWdra1HvrBat5jDFe) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Tajahal](https://open.spotify.com/album/3FbgQDIIkTeCXGE5RxkGIH) | 4:44 | 2022-12-16 |  |
+| [Tajahal](https://open.spotify.com/track/2qT3PjWdra1HvrBat5jDFe) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Tajahal](https://open.spotify.com/album/3FbgQDIIkTeCXGE5RxkGIH) | 4:44 | 2022-12-16 | 2023-06-19 |
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-01 | 2023-03-15 |
 | [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 | 2022-11-10 | 2023-05-13 |
 | [Tamnony Aleh](https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT) | [Rola Kadri](https://open.spotify.com/artist/28Jx760F4Z37RhCtjOrLGj) | [Tamnony Aleh](https://open.spotify.com/album/4bRULRxIQFGrAXXl5nu2C6) | 3:02 | 2021-12-23 | 2022-06-04 |

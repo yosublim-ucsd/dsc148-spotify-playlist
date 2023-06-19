@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Maluma
 
-280 songs - 18 hr 11 min
+281 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Sopita](https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Sopita](https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I) | 3:26 | 2023-03-17 |  |
 | [Soy Cordobés](https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Soy Cordobés](https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD) | 5:14 | 2021-12-03 | 2022-08-01 |
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-04-29 | 2023-05-11 |
-| [Soy Yo](https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX) | 3:38 | 2023-05-19 |  |
+| [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 | 2023-06-16 |  |
+| [Soy Yo](https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX) | 3:38 | 2023-05-19 | 2023-06-19 |
 | [Soy Yo](https://open.spotify.com/track/1siATRpCTikt3dpJiBonfk) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:50 | 2021-12-03 | 2022-07-29 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-02-14 |  |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-12-03 | 2022-02-15 |

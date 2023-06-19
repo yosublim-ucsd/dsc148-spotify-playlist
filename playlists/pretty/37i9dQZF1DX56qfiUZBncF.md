@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,413 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,422 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 17 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 18 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 |
 | 19 | [Purple Sand \(My Home\)](https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:38 |
-| 20 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
-| 21 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
+| 20 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
+| 21 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
 | 22 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 |
 | 23 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 |
 | 24 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 51 | [Purple Candy](https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 4:15 |
 | 52 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
 | 53 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
-| 54 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
-| 55 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
+| 54 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
+| 55 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
 | 56 | [Fading](https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Fading](https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I) | 4:42 |
 | 57 | [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 |
 | 58 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 74 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
 | 75 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 76 | [Four Winds](https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Four Winds](https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt) | 3:43 |
-| 77 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
-| 78 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
+| 77 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
+| 78 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
 | 79 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 |
 | 80 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
 | 81 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 100 | [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 |
 
-Snapshot ID: `MCwxYjhjY2QzZGJjNWZhNDY5YzY1YzZkZWRmMjljNWM4MTZkOWNjNGI2`
+Snapshot ID: `MCxjODRjNjU1NmU2MDM4NjNlYzAwNzIxZDQwMmFjMjNmZTkzYTE1ZjJl`

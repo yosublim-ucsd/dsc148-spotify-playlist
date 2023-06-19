@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-128 songs - 9 hr 58 min
+129 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Before I Let Go](https://open.spotify.com/track/6WUSbDYeGsieoWyEpfgRAF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt) | [Essence Music Festival, Vol\. 1: Songs From Our Triumphant Return to New Orleans](https://open.spotify.com/album/5Mz1QHTcG5xMha6mvcPkjz) | 3:55 | 2021-07-01 | 2022-11-13 |
 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 | 2021-07-01 | 2023-06-17 |
 | [Before I Let Go \- Edit/Remastered](https://open.spotify.com/track/5Cz3z2cS7vOafvQHgxbOjn) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Hits: 35 Years Of Soul](https://open.spotify.com/album/3qQtlOHTQpAaHZoEkPS7pe) | 3:54 | 2021-07-01 | 2022-07-29 |
-| [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2020-07-23 |  |
+| [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2020-07-23 | 2023-06-19 |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-06-16 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2023-06-16 |  |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2023-06-16 |  |
@@ -40,6 +40,7 @@
 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 | 2023-06-16 |  |
 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 | 2020-07-23 |  |
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2023-06-16 |  |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-06-18 |  |
 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2023-06-16 |  |
 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 | 2021-07-01 | 2023-06-17 |
 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 | 2020-07-23 |  |

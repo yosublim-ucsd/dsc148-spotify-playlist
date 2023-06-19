@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,656 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,754 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 22 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
 | 23 | [I'd Rather Go Blind](https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 5:00 |
 | 24 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
-| 25 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
-| 26 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
+| 25 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
+| 26 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
 | 27 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 |
 | 28 | [Tell Her You Belong To Me](https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home \(Deluxe Edition\)](https://open.spotify.com/album/45blvARBYrViZz3eYg50sH) | 5:56 |
 | 29 | [Remember The Time](https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Remember The Time](https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T) | 4:12 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 33 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 |
 | 34 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
 | 35 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
-| 36 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
-| 37 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 |
+| 36 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 |
+| 37 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
 | 38 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 |
 | 39 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 |
 | 40 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Country Girl](https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 4:24 |
 | 100 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 |
 
-Snapshot ID: `MCwxYjc2OWU2MjVlMjk5MTRhM2ZhZTdkMTM0MDIzYTYwNjgwZGZiNDc1`
+Snapshot ID: `MCwwMjdiMmZjMGZjMGUwNjJkN2U1YzFjYTg1NDJhNjQ3YmVjNGRkNThh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,863 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,871 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 7 | [Thank You For It All](https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thank You For It All](https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl) | 4:24 |
 | 8 | [thank you](https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [simplicity](https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9) | 2:30 |
 | 9 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
-| 10 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
-| 11 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 |
+| 10 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 |
+| 11 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
 | 12 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
 | 13 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
 | 14 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 28 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 29 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 30 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
-| 31 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
-| 32 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 31 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 32 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 33 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 34 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
 | 35 | [God of the Ages \- Single Version \- Live](https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Sarah Bird](https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God of the Ages \(Live At The Manor\)](https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCxhYTQ1MDQ3MDBkZGIyNTI1MzgzMGRjMDA0NDEyYmJlOTY1YmQ1ZmNh`
+Snapshot ID: `MCxkNWE5ODg3MmM4YTYwMDM2ODM1ZGFlYzM3NTg2YTJlMjc0NzM1MmU5`

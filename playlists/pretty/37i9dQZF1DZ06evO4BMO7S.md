@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,611 likes - 35 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 35 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 34 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 |
 | 35 | [Lindsey \- Recorded At Electric Lady Studios](https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 3:42 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDBiYjY1ZTgyNTcwNDBkNjRiZTE0NWFhY2NiNTc5M2QxYQ==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDBlZmE4ZDQ2MmM4Y2FiOTIxYzU4YzM0ZDUxMWJkNDMwNA==`

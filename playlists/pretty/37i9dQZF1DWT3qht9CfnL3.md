@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,474 likes - 77 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,545 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 7 | [Señales](https://open.spotify.com/track/7AHyJpRRigc9TuR1FZBC9l) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Señales](https://open.spotify.com/album/4BBheEnTjbfYg2RCEui3te) | 3:20 |
 | 8 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |
 | 9 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |
-| 10 | [Karma](https://open.spotify.com/track/72MflEVFtLKecQtYGUcUZs) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRO NIVEL](https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP) | 2:29 |
+| 10 | [Karma](https://open.spotify.com/track/72MflEVFtLKecQtYGUcUZs) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRO NIVEL](https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP) | 2:29 |
 | 11 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 |
 | 12 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 13 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 76 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
 | 77 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
 
-Snapshot ID: `MCxkOGJjNjdkYWEyYWVhZWZhYTNjNzcxZmYxZTJkNDI3OTQyN2JjNTg3`
+Snapshot ID: `MCwyYmZjNDRmNGY1NGUzMWVjZjlmNWFiMjljYTUwZjY4ZjczOGU1ZDU4`

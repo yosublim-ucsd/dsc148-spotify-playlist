@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-393 songs - 22 hr 24 min
+394 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Needed](https://open.spotify.com/track/3V12MJj9mQlIVovOTcH71v) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Pt\. 1 Let Me Introduce You To My Thoughts](https://open.spotify.com/album/4dkfAwtEVDzkNi7X8g3YXv) | 2:44 | 2021-04-30 | 2022-07-29 |
 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 | 2021-04-30 |  |
 | [New Day](https://open.spotify.com/track/5yfc7X7ZZRXZ1IyNgEKhAN) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [New Day](https://open.spotify.com/album/6XVdpQxQt7Wo9kz6cnl4RN) | 2:53 | 2021-04-30 | 2022-07-29 |
+| [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 | 2021-04-30 |  |
 | [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2021-04-30 | 2022-07-29 |
 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 | 2021-04-30 |  |
 | [Oheja](https://open.spotify.com/track/5ACfk4NnDfQjcJ9fl3baZD) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Oheja](https://open.spotify.com/album/5wPS5gx8OMlWsYLwtVOnnT) | 3:39 | 2021-04-30 | 2022-07-29 |
@@ -368,7 +369,7 @@
 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 | 2021-04-30 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-04-30 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2021-04-30 | 2022-11-13 |
-| [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 | 2021-04-30 |  |
+| [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 | 2021-04-30 | 2023-06-19 |
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2021-04-30 | 2022-07-29 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2021-04-30 |  |
 | [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2021-04-30 | 2023-04-17 |

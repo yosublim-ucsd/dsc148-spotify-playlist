@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 37 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
 | 38 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
 | 39 | [Testimony \- Acoustic](https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Testimony Therapy](https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7) | 3:39 |
-| 40 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
-| 41 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 |
+| 40 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 |
+| 41 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
 | 42 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 | 43 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
 | 44 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
 | 50 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 |
 
-Snapshot ID: `MCw1NjgyMDEzY2VmYjk0MTdmNjMyNGIyMmRkOGFjMThmMjIxZDZmODNk`
+Snapshot ID: `MCxhYzRkZmYwOTFlYzg2MTM3MWZkMjQ0ZjkzZmU2ZDM0MGU0ZmFmMmIy`

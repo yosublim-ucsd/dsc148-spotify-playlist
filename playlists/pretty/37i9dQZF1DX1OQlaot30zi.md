@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savag, Vegas Jones e e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,082 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,115 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 56 | [I Soldi](https://open.spotify.com/track/7iEX4GCrmcFUPLiyGAZGo7) | [Urano](https://open.spotify.com/artist/4boc9WGDp4rS4bObD8WtlU) | [I Soldi](https://open.spotify.com/album/4MEkBsCn1K2atjQz2RDzvN) | 2:40 |
 | 57 | [Cresta](https://open.spotify.com/track/0s5ap6EHiMP6iGYDPawh1t) | [Nomercy Blake](https://open.spotify.com/artist/4i693pl51stVpAvWf2b28f) | [Cresta](https://open.spotify.com/album/3BB1YBMtZ03uNFCdvpeEoB) | 2:11 |
 | 58 | [NON VI RISPONDO](https://open.spotify.com/track/7gz4mucHjTCQEmHKLi29Xd) | [fxs](https://open.spotify.com/artist/75E46nbLjmQvjO478IsXAZ) | [NON VI RISPONDO](https://open.spotify.com/album/3Nndo78Kr6Im19I4m4Phwn) | 2:32 |
-| 59 | [FEEDBACK](https://open.spotify.com/track/1cImgUtsa1uqA4uygim8dk) | [AIRA](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Funkyman](https://open.spotify.com/artist/4XCGPkY5mCLJsSBIrnuXF8) | [FEEDBACK](https://open.spotify.com/album/1T00Bt7K2BkCcwZMFcHN4v) | 1:57 |
+| 59 | [FEEDBACK](https://open.spotify.com/track/1cImgUtsa1uqA4uygim8dk) | [AIRA](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb) | [FEEDBACK](https://open.spotify.com/album/1T00Bt7K2BkCcwZMFcHN4v) | 1:57 |
 | 60 | [Sensibile](https://open.spotify.com/track/2rGOEzvAMFDIjT27CZpxhj) | [LUMIER](https://open.spotify.com/artist/4ZGJt8xgF858OviBCS45CV) | [Sensibile](https://open.spotify.com/album/1TWdDGPiK70ReCzE15jT8A) | 2:32 |
 | 61 | [Letizia](https://open.spotify.com/track/0rWeFqgnrLwOJmaYzfWzQR) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [Letizia](https://open.spotify.com/album/5u8W9dyxIPR6ktVCHeKExX) | 2:53 |
 | 62 | [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/track/4IeFakToqcwNogAjNsPCuF) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/album/3XS3YeYI9z9sAFtCCBmlZr) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/track/1QqlaHGqCmHVHHBPkiNRqg) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr), [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R) | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/album/7wKKzRqUzBRh6rFQtaeswy) | 3:32 |
 | 80 | [Piano di Fuga](https://open.spotify.com/track/3EzWzZR1J1KP0ZDTDBR0l6) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Piano di Fuga](https://open.spotify.com/album/3aPAkN5q9b1sEo4LxTAHLR) | 2:18 |
 
-Snapshot ID: `MCw2ZTI4MjA0MTIwYTE3Yzk4NDg3MmY1OWNjYWMyYjkxNGUwNzFlZGRh`
+Snapshot ID: `MCwyNTViNTNlNWZlNjViMjBmNjdmNjRjMDM1NmZhZWI4ZmNmMzlhNjgy`

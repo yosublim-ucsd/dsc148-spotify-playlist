@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,194 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,186 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Humbled](https://open.spotify.com/track/70zruDtlxwICheE9h6JnFT) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [Humbled](https://open.spotify.com/album/3ddpYttzfdJPB9i8DSGtOx) | 4:14 |
 | 100 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 |
 
-Snapshot ID: `MCwzMDBlYWIwNGE3N2I1YTZlZGE3ZDViYjVlMDU5NzdhNzg4ODllMWE4`
+Snapshot ID: `MCxiMTczMThmYjMxY2EwZWM0MWZmMGMxODcwNzI2MDQzYWY5MDQ1NTE0`

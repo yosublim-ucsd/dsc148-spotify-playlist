@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Rowan Drake
 
-518 songs - 1 day 4 hr 41 min
+519 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 | 2023-05-06 |
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-02-18 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2021-12-17 | 2022-05-20 |
+| [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-16 |  |
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-12-17 | 2022-03-26 |
 | [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/album/7bJgNbxck1IXbT243gl8mz) | 3:47 | 2023-02-10 | 2023-04-09 |
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-07 |  |
@@ -148,7 +149,7 @@
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-10-28 |  |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-05-04 |  |
-| [Feel Good](https://open.spotify.com/track/2LpDPQNJmEdJnNdqHfrflx) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Feel Good](https://open.spotify.com/album/5d3qDD3KoYlqf68XvZLmZb) | 2:58 | 2023-05-14 |  |
+| [Feel Good](https://open.spotify.com/track/2LpDPQNJmEdJnNdqHfrflx) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Feel Good](https://open.spotify.com/album/5d3qDD3KoYlqf68XvZLmZb) | 2:58 | 2023-05-14 | 2023-06-19 |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-17 |  |
 | [fiimy \- fuck it, i miss you](https://open.spotify.com/track/4BWtx4oafnboNpyH1x8zEc) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [fiimy \(fuck it, i miss you\)](https://open.spotify.com/album/4Vygyz6oY8L618erw7bx99) | 3:58 | 2022-02-04 | 2022-05-20 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-22 |  |

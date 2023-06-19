@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,712 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,391 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 25 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
 | 26 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
 | 27 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 28 | [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 |
-| 29 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
+| 28 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
+| 29 | [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 |
 | 30 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 31 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
 | 32 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 50 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 
-Snapshot ID: `MCwxOWM0OTFlMjhhZWFmNGZhY2FlYTNhZWU1OGNlM2NhNDZmYmZiZmNl`
+Snapshot ID: `MCwwNGEyNGVlM2E5ZjNkMjI5OThjYjAzY2JjOGQxYTJlZmI2MmNiNGE3`

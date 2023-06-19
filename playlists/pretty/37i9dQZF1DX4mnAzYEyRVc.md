@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Alamedadosoulna
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,231 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,286 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 94 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 95 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
 | 96 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
-| 97 | [Libertá](https://open.spotify.com/track/0dfNOzr9tbG2Nrb11GKwOu) | [Agua Bendita](https://open.spotify.com/artist/2e3P7zO9duFmWItDELoQfq) | [Amén 30 Aniversario](https://open.spotify.com/album/5kTbLlRKj1NkkJLPN6q26i) | 2:30 |
-| 98 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 97 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 98 | [Libertá](https://open.spotify.com/track/0dfNOzr9tbG2Nrb11GKwOu) | [Agua Bendita](https://open.spotify.com/artist/2e3P7zO9duFmWItDELoQfq) | [Amén 30 Aniversario](https://open.spotify.com/album/5kTbLlRKj1NkkJLPN6q26i) | 2:30 |
 | 99 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
 | 100 | [He's a Tripper](https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [Melbourne Ska Orchestra](https://open.spotify.com/album/6Bz6lE0HUeZqGZdPpHyVob) | 3:21 |
 
-Snapshot ID: `MCxhOTA1N2I5MjE2ZmI2YmYzYjc0NTk5ZDMyNjFiZjQyODU3YWRkZjJk`
+Snapshot ID: `MCw5NTc2MDE0YmNlOThmODhjZTlkMDRjN2RjMTkzMGI1NjhiNGNlMWMy`

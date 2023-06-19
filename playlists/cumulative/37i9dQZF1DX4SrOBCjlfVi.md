@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Gunna, Doja Cat and more\. Cover: YG & Tyga
 
-3,015 songs - 5 day 20 hr 52 min
+3,016 songs - 5 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2741,6 +2741,7 @@
 | [Tony Montana Flow](https://open.spotify.com/track/53PRah50n7xf7mJlzAmaDH) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Akachi](https://open.spotify.com/artist/0qm8T0Qee8ZITAOwUTfXgJ) | [Tony Montana Flow](https://open.spotify.com/album/4PoNcoh9yRZ6FSyCQSDSEp) | 2:22 | 2022-07-29 | 2022-08-13 |
 | [Too Gone \(ft\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2isEZrfcQCpPsW97VJWwpk) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [YOU'RE THE PROBLEM](https://open.spotify.com/album/49EeerD9g11QOcsueBGR4H) | 3:59 | 2023-06-16 |  |
 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 | 2022-01-14 | 2022-01-29 |
+| [Too Many Shots](https://open.spotify.com/track/06X0rs30RJPW8lKXCPWSpc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [See Ya](https://open.spotify.com/album/1QneW5vELH5DFkrvHGb9QL) | 2:23 | 2023-06-18 |  |
 | [Too Much](https://open.spotify.com/track/54DLSGZBdEiK4WKMfpkhPj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Too Much](https://open.spotify.com/album/3FvLcPYFfHk5KkGrFqTY6c) | 2:49 | 2022-12-09 | 2022-12-17 |
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-09-02 | 2022-09-10 |
 | [Too Much Booty](https://open.spotify.com/track/2nu9F58KBPbzlDmg7OdwL3) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN) | [Too Much Booty](https://open.spotify.com/album/4eb6Pf9yKiCBKNwfg7sb82) | 2:51 | 2022-09-16 | 2022-09-24 |
@@ -2903,7 +2904,7 @@
 | [Weezy Flow](https://open.spotify.com/track/6Y6EWbUjuiu3lmLuuoO4S7) | [Calvary Kylan](https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy) | [Weezy Flow](https://open.spotify.com/album/2vpuYJsioxbxygRyxo4WhC) | 2:06 | 2022-06-24 | 2022-07-02 |
 | [Welcome Back, Dummy](https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [No, I'm Not Ok](https://open.spotify.com/album/6O3xoiaAe3klssyrO17uNS) | 2:23 | 2021-12-24 | 2022-01-15 |
 | [Went Deaf](https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Went Deaf](https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB) | 3:03 | 2022-11-04 | 2022-11-19 |
-| [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
+| [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 | 2023-06-19 |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2022-08-19 | 2022-08-27 |
 | [Whamm](https://open.spotify.com/track/3DIcTbNf44ekC4Ce9MObZt) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Whamm](https://open.spotify.com/album/617dcNKfhPqnubkIzTe1jr) | 2:19 | 2023-03-31 | 2023-04-09 |
 | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV) | 2:41 | 2022-06-03 | 2022-06-11 |

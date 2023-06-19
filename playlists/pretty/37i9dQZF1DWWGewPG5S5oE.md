@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,389 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,408 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 21 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 |
 | 22 | [Today Is Another Day](https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 5:21 |
 | 23 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 |
-| 24 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
+| 24 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 25 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 |
 | 26 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 |
-| 27 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
+| 27 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
 | 28 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
 | 29 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
 | 30 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 47 | [Longseller Tornado](https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Longseller Tornado](https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI) | 4:53 |
 | 48 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
-| 50 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 |
+| 50 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 |
 
-Snapshot ID: `MCxhYTZkNWVjMTIyZDIzODEyNzYxNzZlNmU0ZGE1YzNhZWRmYWQyNmYy`
+Snapshot ID: `MCxlNGM3MDBlZmFiYjA1YzNjMDlmOTVlMmQ2MmUyN2U3ODRkZGU5NGZi`

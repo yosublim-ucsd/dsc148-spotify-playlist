@@ -4,11 +4,12 @@
 
 > Chill & Bumpy
 
-117 songs - 8 hr 37 min
+118 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-13 |  |
+| [A Little More Love](https://open.spotify.com/track/4KD0A7LJb3ETVuUYxZnrlm) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [A Little More Love](https://open.spotify.com/album/1z6mTGaZizVyY80HWws1vm) | 3:03 | 2023-06-01 |  |
 | [A Little Shy](https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [A Little Shy](https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p) | 3:04 | 2023-05-11 | 2023-06-05 |
 | [AFRAID](https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [AFRAID](https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y) | 3:28 | 2023-05-11 |  |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-05-25 |  |
@@ -48,7 +49,7 @@
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-04-20 |  |
 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-04-13 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-04-13 |  |
-| [Follow the Loop](https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 3:52 | 2023-05-11 |  |
+| [Follow the Loop](https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 3:52 | 2023-05-11 | 2023-06-19 |
 | [Found Your Love](https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kuyen](https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b) | [Celestial Strut](https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM) | 5:49 | 2023-04-13 |  |
 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 | 2023-04-13 |  |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-04-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 165193,
+  "num_followers": 165214,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWY5NTkyMTA3ZDE1YzBkNTZlOWViNTY2N2EyYmQ5ZjQ1OWM0YmNl",
+  "snapshot_id": "MCxhNTA5NWIxMDUwNzY4ZDFiNjFiMTYwMWRkMzAxZTc1M2FiZGQzYjVl",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
         "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206760,
       "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
       "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Sin Novia",
         "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188411,
       "name": "Sin Novia",
       "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+        "name": "VAQUERITA",
+        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+      "duration_ms": 152970,
+      "name": "VAQUERITA",
+      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
-        "name": "VAQUERITA",
-        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 152970,
-      "name": "VAQUERITA",
-      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1883,26 +1883,22 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Angelito",
-        "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
+        "name": "Amantes y Amigos",
+        "url": "https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 227513,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+      "duration_ms": 182626,
+      "name": "Amantes y Amigos",
+      "url": "https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz"
     }
   ],
   "unique_name": "Tranqui",

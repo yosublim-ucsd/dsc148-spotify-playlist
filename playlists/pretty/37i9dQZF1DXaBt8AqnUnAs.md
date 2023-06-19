@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,907 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,999 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 69 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 70 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCwzZjJmYTM2YTU2MmMwOTk1NWM0OTk5OTY0N2U5ZDkxOWQ0ZTQxMWM4`
+Snapshot ID: `MCwzYTIxYTU5YzhkZGRmMWFlY2RjMWE4MTNhNDBjMzIzMzUzMmZmNDBj`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 131419,
+  "num_followers": 131520,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjgzY2Q2NmM2NjkwYzhiOTJiYWE0NjE0MzBkZmMyNWIxYzk4MzFm",
+  "snapshot_id": "MCxhZmRkOGJmMjc5Y2Y5Mjk5M2UyZWM1NjRjYWJlNTc0YjMwYTNkYzg2",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         }
       ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 196736,
       "name": "Pelea De Gallos - En Vivo",
       "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-12-30 18:59:47",

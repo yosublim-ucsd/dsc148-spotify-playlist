@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 642969,
+  "num_followers": 643279,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODJhNmVhMjFhY2IzOTE1Mjk1NWU3Yjc0ODI1OWVhMjg4MDE0YjZj",
+  "snapshot_id": "MCxhYmJkMTAzNTIwMjRjMzJlMDZlODg0MDYxOTJjNTZjZGIzYzQ5YWQ1",
   "tracks": [
     {
       "added_at": "2023-05-22 17:44:46",
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
         }
       ],
-      "duration_ms": 186722,
-      "name": "RON COLA",
-      "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
         }
       ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+      "duration_ms": 186722,
+      "name": "RON COLA",
+      "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
       },
@@ -1771,6 +1751,26 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 165957,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1803,22 +1819,6 @@
       "duration_ms": 165350,
       "name": "Uno De Eses Gatos",
       "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2023-05-22 17:44:46",

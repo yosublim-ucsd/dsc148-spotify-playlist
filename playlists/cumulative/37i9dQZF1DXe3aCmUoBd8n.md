@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Mohanad Zaiter & Al Shami .
 
-124 songs - 7 hr 5 min
+125 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Ghazaleh](https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ghazaleh](https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9) | 2:35 | 2023-05-19 |  |
 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 | 2022-05-04 | 2022-07-17 |
 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 | 2022-05-04 | 2022-05-18 |
+| [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 | 2023-06-18 |  |
 | [Hallah Hallah Ya Deni](https://open.spotify.com/track/0KtWEni97FG5JETFy9QXa9) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Hallah Hallah Ya Deni](https://open.spotify.com/album/2U7JsJfzGnx5preXhVRG6F) | 3:00 | 2023-01-05 |  |
 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 | 2022-05-04 |  |
 | [Helmi W Helmik](https://open.spotify.com/track/0zy5G68FFZVEGJR6Gh888k) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [حلمي وحلمك](https://open.spotify.com/album/0IilzA29e7JXxDMDTqqsGT) | 4:16 | 2022-06-20 |  |

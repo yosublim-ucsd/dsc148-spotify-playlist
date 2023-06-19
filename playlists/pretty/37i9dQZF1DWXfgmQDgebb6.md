@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: YongYong\(용용\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,236 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,242 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 44 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
 | 45 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
 | 46 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 47 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
-| 48 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
+| 47 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
+| 48 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 | 49 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 50 | [Fond](https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Circulation](https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by) | 3:46 |
 
-Snapshot ID: `MCw2MWM4YmJiYzBiYWZmNzM0Njk4NGVhMjM2MzgyMzMwYmFkMGQzNzhl`
+Snapshot ID: `MCw0Y2M3M2ZiYzFmZWFiODgzNDBhZTQxYTYxM2FmODFlOGEyY2MzOTBi`

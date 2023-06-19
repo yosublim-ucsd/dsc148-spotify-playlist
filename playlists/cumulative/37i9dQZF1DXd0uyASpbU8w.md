@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=PBAFHo0PSNyThLORToY16A">Prince Kaybee</a>
 
-281 songs - 18 hr 6 min
+283 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Back and Forth](https://open.spotify.com/track/1Ogp6LNsiDiwOB77xtyuRR) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [J DEP](https://open.spotify.com/artist/16fYMQlcTQ8uZTPjsO1wow) | [Teknique](https://open.spotify.com/album/6pZfEtXLvnilAuW2OxWxB5) | 3:58 | 2023-06-02 | 2023-06-03 |
 | [Back and Forth \- Marcus MC Remix](https://open.spotify.com/track/0EFtLt82ssmTIljnRKn2hg) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [J DEP](https://open.spotify.com/artist/16fYMQlcTQ8uZTPjsO1wow) | [Back and Forth](https://open.spotify.com/album/2qh2vTxM1J5GGjnGsTZqKo) | 4:00 | 2023-06-02 | 2023-06-09 |
 | [Back To Business](https://open.spotify.com/track/3nBYvSVZwkeETp4d2nKxlA) | [System the One](https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8), [Trapper Hollic ZA](https://open.spotify.com/artist/13MUcCh80TES3yziVpj4Cs) | [Back To Business](https://open.spotify.com/album/4nd5JGl9sW1afWEFTHDXhR) | 4:52 | 2023-05-25 | 2023-06-02 |
+| [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 | 2023-06-18 |  |
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-02 | 2023-06-09 |
 | [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-02 | 2023-06-03 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-02 | 2023-06-09 |
@@ -229,6 +230,7 @@
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 | 2023-05-26 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-08 | 2023-06-16 |
+| [Stronger](https://open.spotify.com/track/2zetch7a8zBaYtrZ15qnwo) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Stronger](https://open.spotify.com/album/1pPQAIpDEBMrbaLL1rFSpt) | 3:31 | 2023-06-18 |  |
 | [SUKA](https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [SUKA](https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp) | 6:30 | 2023-06-08 | 2023-06-16 |
 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 | 2023-05-25 | 2023-06-02 |
 | [SUNSET BOULEVARD](https://open.spotify.com/track/4HAU3eDlJK5ofZLhrZKcSR) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [SUNSET BOULEVARD](https://open.spotify.com/album/2bDtLGY7SLz3zyzO7sgoWm) | 2:12 | 2023-06-08 | 2023-06-16 |

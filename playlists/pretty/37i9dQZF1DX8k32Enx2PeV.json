@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6213,
+  "num_followers": 6231,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWQyNzEzYzdlY2RkMDBlY2FiNzc0NWJjOTJhYjdkNmExZmI3NTM2",
+  "snapshot_id": "MCxhNzZkNjZjZDgzMWUwNjNhNDgyNmNlNzk0ODdmYzQ3NDI1NGI2MWY0",
   "tracks": [
     {
       "added_at": "2023-06-16 05:23:44",
@@ -375,30 +375,6 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
-        "name": "Juguito de Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW"
-      },
-      "artists": [
-        {
-          "name": "Rap Bang Club",
-          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
-        },
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Juguito de Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
+        "name": "Juguito de Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Juguito de Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal"
     },
     {
       "added_at": "2023-06-16 05:23:44",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
         "name": "Carita Feliz | Carita Triste (Deluxe)",
         "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175405,
       "name": "RELA",
       "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2023-06-16 05:23:44",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 284493,
       "name": "Fuego Que Te Llama",
       "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
+      },
+      "artists": [
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2023-06-16 05:23:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,798 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,827 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 74 | [Trade it for the Night \- Single Version](https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6) | 3:48 |
 | 75 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 76 | [Don't Walk Away](https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Don't Walk Away](https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of) | 3:23 |
-| 77 | [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 |
+| 77 | [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 |
 | 78 | [In The Water](https://open.spotify.com/track/4gmT46chkdugzbucgiHQbb) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [In The Water](https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7) | 3:36 |
 | 79 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 |
 | 80 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Leap Of Faith](https://open.spotify.com/track/01a7LTYpdceGcfRbOI2aN7) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Leap Of Faith](https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc) | 3:26 |
 | 100 | [Big Smoke](https://open.spotify.com/track/1uxjRXDM6VHF5TSinQvErE) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:38 |
 
-Snapshot ID: `MCw0ZDhkMzVmMWIyNmM0NGVlYjk4ZDQ2MGNhZjM1NjcyNTVlYTlmOWNj`
+Snapshot ID: `MCw2NzRhYTNkNzdkYzQ4MGQyOGQ4ZTExNzRhZjY2ZDRiMWUxZmQwMDli`

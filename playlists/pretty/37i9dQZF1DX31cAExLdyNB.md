@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,607 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,639 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 44 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
 | 45 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 46 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
-| 47 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
-| 48 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 47 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 48 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
 | 49 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 |
 | 50 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 | 51 | [Las Vegas](https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Las Vegas](https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc) | 4:16 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 65 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 |
 | 66 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd) | 4:23 |
 | 67 | [Los Buenos Tiempos](https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3), [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH) | [Máquina Yin Yang](https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x) | 4:34 |
-| 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
-| 69 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
+| 68 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
+| 69 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 
-Snapshot ID: `MCxmOWI2MGIwZTBlYjk5NzhmZmE0MGJkOTUxNTFlOTQxOGY1MzJjZGYy`
+Snapshot ID: `MCw3OTFlYjU3ZWRiNmUzMTMzNjg3ZjEzNjhhZDc2NDZjODNjNzcxMzdj`

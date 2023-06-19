@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,584 likes - 50 songs - 3 hr 4 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,586 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 4 | [Devil’s Den](https://open.spotify.com/track/6QLTumcZQ3dHN8pUj9T9C7) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 3:05 |
 | 5 | [Evening Star Supercharger](https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Evening Star Supercharger](https://open.spotify.com/album/6181JseEP3RrM53y0UASM8) | 3:46 |
 | 6 | [Audhumla Thaw](https://open.spotify.com/track/0jqwZXh6rd2bLQa7jRT3xf) | [Dustin Wong](https://open.spotify.com/artist/484ZnYb0Vh2fHtYD0bEQuF) | [Audhumla Thaw](https://open.spotify.com/album/1xA0LlYgFcGbF2oXWbnLSa) | 6:23 |
-| 7 | [Alright](https://open.spotify.com/track/21kja1h9ayN4AkETnVYHsz) | [Conor Kenahan](https://open.spotify.com/artist/1l1xhd3meqLKqYtokdwSHc) | [Alright / Out Of The Blue](https://open.spotify.com/album/6DYWDPWTriEvCmW4eTIEBq) | 3:28 |
+| 7 | [Alright](https://open.spotify.com/track/21kja1h9ayN4AkETnVYHsz) | [Conor Kenahan](https://open.spotify.com/artist/1l1xhd3meqLKqYtokdwSHc) | [Alright / Out of the Blue](https://open.spotify.com/album/6DYWDPWTriEvCmW4eTIEBq) | 3:28 |
 | 8 | [gothgirl1](https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [gothgirl1](https://open.spotify.com/album/0eRVnOBK3emNs2TAqaaK09) | 3:53 |
 | 9 | [Dedicated to Tar Feather](https://open.spotify.com/track/1R8JYDFCXIL24j94ikm9dF) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:36 |
 | 10 | [It's Euphoric \- Georgia Remix](https://open.spotify.com/track/5IJ15LSmdUsmWnsRwcsth1) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's Euphoric \(Georgia Remix\)](https://open.spotify.com/album/6HuxEcWwJeMLMmndIugtWt) | 3:34 |

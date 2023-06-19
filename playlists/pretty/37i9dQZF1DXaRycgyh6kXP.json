@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 180119,
+  "num_followers": 180316,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2VjYjRiZjA4MDE3MTNiNmVmYWNhYjdhMDkzMDIyMWQ1NzY2Y2E3",
+  "snapshot_id": "MCwzOWY2YjRmZWE5YTBiZjkyNWRmODUyMjJkYjAwYjc5ZTIzYWI0N2Ux",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 226876,
-      "name": "Sometimes He's In My Dreams",
-      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 596772,
       "name": "Immunity - Remaster 2023",
       "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 226876,
+      "name": "Sometimes He's In My Dreams",
+      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 419565,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Ultravisitor",
         "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 140226,
       "name": "runnersz",
       "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 419565,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
-      },
-      "artists": [
-        {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Far Away Trains Passing By",
         "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "no world",
         "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     }
   ],
   "unique_name": "Electronica Romantica",

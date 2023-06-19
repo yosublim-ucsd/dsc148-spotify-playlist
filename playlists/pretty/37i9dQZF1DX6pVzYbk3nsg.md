@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,732 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 30 | [Yerba Bruja](https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:20 |
 | 31 | [Yuba La Marile](https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:30 |
 | 32 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
-| 33 | [La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala](https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K) | [Tambuyé](https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8) | [Tambuyé](https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl) | 6:05 |
+| 33 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
 | 34 | [El Galo Canta](https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 4:30 |
-| 35 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
+| 35 | [La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala](https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K) | [Tambuyé](https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8) | [Tambuyé](https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl) | 6:05 |
 | 36 | [Soy Plenero Soy](https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:02 |
 | 37 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 | 38 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 |
 | 50 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 |
 
-Snapshot ID: `MCxmZWFlMzE0NDdlMTBlMTBjZGQ0MjRjZDMzNmY4YmFhNWYyOGFiYzlm`
+Snapshot ID: `MCw4M2Y3YmU0MTM0ZmY1YWE2MjQwMjc2MGEyM2I0YjNmMDI4MGNiYTVh`

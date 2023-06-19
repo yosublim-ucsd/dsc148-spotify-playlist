@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,593 likes - 47 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,693 likes - 47 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 46 | [No One Gets Left Behind](https://open.spotify.com/track/007qYpVaKepM83aZ9Fld0L) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:23 |
 | 47 | [Dot Your Eyes](https://open.spotify.com/track/6rPwXyxKZPiGhkcX5lwhps) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 3:15 |
 
-Snapshot ID: `MjgxMTY3NjgsMDAwMDAwMDA1NWY4N2I1NDBkNGE3ZWNmNzAzOTlhMmRkZTU2YmY0OA==`
+Snapshot ID: `MjgxMTgyMjEsMDAwMDAwMDAxNjlkMjQ2M2JhOWY2MTg4ODk1YjE0ZmFlOTdiNmU1Mw==`

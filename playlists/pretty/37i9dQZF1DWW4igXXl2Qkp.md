@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,469 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,506 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [heads up!](https://open.spotify.com/track/7jlBmG4G5dR5BQ6GCiKHbK) | [Dee TDL](https://open.spotify.com/artist/04ke6pjSiVQSFxRd5YtqQQ) | [heads up!](https://open.spotify.com/album/1sJ3tAZrRELONFz8XG4P7b) | 3:10 |
 | 75 | [Rider Music \(feat\. Heem\)](https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy) | [Jamal Gasol](https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h), [VH$](https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D) | [Tales From the Trenches](https://open.spotify.com/album/4JmLCYsKl5f07duetar98p) | 3:14 |
 
-Snapshot ID: `MCwxYmQzMjA2NjRkYWY1NGYxNTBkYzgzNzBlZDdjMDE2N2JkNWNmOTRj`
+Snapshot ID: `MCwwZTc2MTMwMzUzM2FlNzUwN2ZhNWM4MmJjM2MyYWExYzk4ZjAwMDQ0`

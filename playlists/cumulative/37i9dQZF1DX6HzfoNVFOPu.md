@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-523 songs - 1 day 9 hr 55 min
+524 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [If You Only Knew](https://open.spotify.com/track/0CkSF2TAqIu8TJaVwwAOnT) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/320IHgTaLRjvcRhyfmYbk7) | 3:46 | 2022-01-05 | 2022-05-25 |
 | [In Fate's Hands](https://open.spotify.com/track/0r6DsDv0wkIGpVBUqaV15E) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:29 | 2022-01-05 | 2022-07-16 |
 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 | 2022-01-05 | 2022-06-01 |
-| [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 | 2022-01-05 |  |
+| [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 | 2022-01-05 | 2023-06-19 |
 | [In One Ear](https://open.spotify.com/track/5dJJnW69ejYOfuntLuLJft) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/0KcRX7YkMZ4mwOkEiCb9zw) | 4:01 | 2022-01-05 | 2022-07-29 |
 | [In The Morning](https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 3:42 | 2022-01-05 | 2022-07-29 |
 | [In This Diary](https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 3:50 | 2022-01-05 | 2022-07-07 |
@@ -477,6 +477,7 @@
 | [This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:14 | 2022-01-05 | 2023-06-05 |
 | [This Modern Love](https://open.spotify.com/track/1798MQBd3lfqa7joQ0ZAEF) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM) | 4:25 | 2022-01-05 | 2022-07-29 |
 | [This Picture](https://open.spotify.com/track/5he7AYCR3MGloRnuWEMroT) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 3:34 | 2022-01-05 | 2022-10-13 |
+| [This Picture](https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:34 | 2023-01-18 |  |
 | [Three Seed](https://open.spotify.com/track/7N0p8fqIkwVpTTXSV3V19e) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:40 | 2022-01-05 | 2022-07-20 |
 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 | 2022-01-05 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/5i17G48swlxfwtQKeq5xcF) | [Quietdrive](https://open.spotify.com/artist/5L1n6wVJMxBw6sZbxD0XAU) | [When All That's Left Is You](https://open.spotify.com/album/7dNtYYcHKpiejJaVRuN7Q6) | 3:04 | 2022-01-05 | 2022-05-25 |

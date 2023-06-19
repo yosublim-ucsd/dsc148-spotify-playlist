@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1507514,
+  "num_followers": 1507852,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWUwNGNmZTc1NzhlOWJmZDM5ZTA1YTA1ZmVmYjdlMDA3OWRmNzIw",
+  "snapshot_id": "MCxmZGE0MjUxNTgyZDdkODE3NzZkYWExMDI2YzFlOTU2Zjc5MjI4ODAy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Living In Darkness (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
-      },
-      "artists": [
-        {
-          "name": "Agent Orange",
-          "url": "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Bloodstains - Original Version",
-      "url": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Living In Darkness (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
+      },
+      "artists": [
+        {
+          "name": "Agent Orange",
+          "url": "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
+        }
+      ],
+      "duration_ms": 113240,
+      "name": "Bloodstains - Original Version",
+      "url": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Double Nickels on the Dime",
         "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 145533,
       "name": "Corona",
       "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "TV Party",
-      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 161573,
       "name": "Neat Neat Neat",
       "url": "https://open.spotify.com/track/7abNwHdN34BP9q4tKfKeMg"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "TV Party",
+      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
-      },
-      "artists": [
-        {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag (2006 Remastered Version)",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 139693,
       "name": "Ex Lion Tamer - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
     },
     {
       "added_at": "2022-11-28 15:26:19",

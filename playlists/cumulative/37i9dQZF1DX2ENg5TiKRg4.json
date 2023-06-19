@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Interstate Love Song - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 219801,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"

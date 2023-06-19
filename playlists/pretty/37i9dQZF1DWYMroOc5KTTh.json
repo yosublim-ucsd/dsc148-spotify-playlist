@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 398496,
+  "num_followers": 398591,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U1OWM4MzcwMGFkYmFiNzU0NTgzNmMzOTU2ODJkNzQ3OTM5Yzc3",
+  "snapshot_id": "MCxlNGM0MWIwYjg4YjIyZDE2NTYxZGQ4NWFiM2U0OWVhODhmZWE1Y2Vm",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Damselfly",
-      "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Damselfly",
+      "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
     },
     {
       "added_at": "2023-05-22 16:14:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
         "name": "GLY",
         "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "JOY (God Only Knows)",
-        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "JOY (God Only Knows)",
-      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 281381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "JOY (God Only Knows)",
+        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "JOY (God Only Knows)",
+      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
     }
   ],
   "unique_name": "Serotonin",

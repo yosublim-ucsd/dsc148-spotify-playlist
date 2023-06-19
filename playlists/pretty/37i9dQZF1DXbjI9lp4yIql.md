@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,892 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,938 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
 | 119 | [Perro Negro \- En Vivo](https://open.spotify.com/track/3avqqo8GtaFUHOv613wLeo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/5FpyQF5KLYwi1cq34Sbk0W) | 3:53 |
 
-Snapshot ID: `MCxlODNiMWQ5Mjc1ZDI1ZGFhODY5ZjUwZTZiNzdkYTZlN2RjNmQxYmIz`
+Snapshot ID: `MCxkNjQ4NTI0MDUyZmUzY2Y0M2VlZjZiYTE1YWJiMTE1YzE0NDQzMGIy`

@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 12662,
+  "num_followers": 12679,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGI1MDA5YWZmNzkyNTNhOGE4MWQ4YjZhMTAxYzA2M2VhNTVhOTI0",
+  "snapshot_id": "MCxiMDhmODZjMWVjOGRjOGI5NTFiNWY5NjI5Y2YxODMwNGE4NGQyYzg4",
   "tracks": [
     {
       "added_at": "2023-06-15 22:01:00",
@@ -955,38 +955,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 136097,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Need U (feat. Madishu)",
         "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 206341,
       "name": "Need U (feat. Madishu)",
       "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "There's Another Life 4 U",
-      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1221,6 +1221,22 @@
       "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
     },
     {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
       "added_at": "2023-06-15 22:01:00",
       "album": {
         "name": "Brave",
@@ -1251,22 +1267,6 @@
       "duration_ms": 179076,
       "name": "I'm All In",
       "url": "https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "No Nein",
+        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 151273,
+      "name": "No Nein",
+      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "No Nein",
-        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 151273,
-      "name": "No Nein",
-      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Deny It",
         "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 242250,
       "name": "Deny It",
       "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
-      },
-      "artists": [
-        {
-          "name": "Alxboiiz",
-          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
+      },
+      "artists": [
+        {
+          "name": "Alxboiiz",
+          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Live You Down",
-        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
-      },
-      "artists": [
-        {
-          "name": "Svidden",
-          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
-        }
-      ],
-      "duration_ms": 181681,
-      "name": "Live You Down",
-      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Find a Way",
         "url": "https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 136721,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Live You Down",
+        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
+      },
+      "artists": [
+        {
+          "name": "Svidden",
+          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
+        }
+      ],
+      "duration_ms": 181681,
+      "name": "Live You Down",
+      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1765,24 +1765,24 @@
       "url": "https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+        "name": "loveday",
+        "url": "https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "JHN",
+          "url": "https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk"
         },
         {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+          "name": "a friend of mine",
+          "url": "https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8"
         }
       ],
-      "duration_ms": 227624,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
+      "duration_ms": 148359,
+      "name": "loveday",
+      "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1807,18 +1807,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
       },
       "artists": [
         {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
+      "duration_ms": 227624,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
     },
     {
       "added_at": "2023-06-01 22:00:00",

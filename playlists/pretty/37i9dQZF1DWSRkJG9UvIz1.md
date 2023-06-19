@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,369 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,472 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 20 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
 | 21 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 |
 | 22 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
-| 23 | [O Velho e a Flor](https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:41 |
-| 24 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 23 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 24 | [O Velho e a Flor](https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:41 |
 | 25 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
 | 26 | [Gabriela](https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Bossatrap](https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9) | 3:04 |
 | 27 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 53 | [Quarta Feira](https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN) | [Quarta Feira](https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur) | 2:54 |
 | 54 | [Bossa Velha](https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 4:34 |
 | 55 | [Noite Quente de Verão](https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:03 |
-| 56 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
-| 57 | [Rio da Bossa Nova](https://open.spotify.com/track/07tHMgxtVHlo10234lOBML) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt) | [Beto Villares](https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p) | 3:26 |
+| 56 | [Rio da Bossa Nova](https://open.spotify.com/track/07tHMgxtVHlo10234lOBML) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt) | [Beto Villares](https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p) | 3:26 |
+| 57 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 | 58 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 59 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
 | 60 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 
-Snapshot ID: `MCw2MDU0ZDA3ZjM5MjhlZjZmNDk5YzMyOGQ2ZjlkYzFhZTBiYWRjZDUx`
+Snapshot ID: `MCxmZDY5MTdjNTI0ZTNlOGZhMWRmMDI2YzU4YmQ1ODBhMDk1ZDZhMTNi`

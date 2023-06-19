@@ -55491,6 +55491,24 @@
     },
     {
       "album": {
+        "name": "See Ya",
+        "url": "https://open.spotify.com/album/1QneW5vELH5DFkrvHGb9QL"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143428,
+      "name": "Too Many Shots",
+      "url": "https://open.spotify.com/track/06X0rs30RJPW8lKXCPWSpc"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/3FvLcPYFfHk5KkGrFqTY6c"
       },
@@ -58770,7 +58788,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 199626,
       "name": "West Coast Weekend",
       "url": "https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4"

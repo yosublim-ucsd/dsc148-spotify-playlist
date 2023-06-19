@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,213 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,447 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 44 | [Rainy Night in Georgia](https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Brook Benton Today](https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx) | 3:53 |
 | 45 | [Rockin' Robin](https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu) | 2:34 |
 | 46 | [Oh Girl](https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 3:37 |
-| 47 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
-| 48 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
+| 47 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
+| 48 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
 | 49 | [Me and Mrs\. Jones](https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:45 |
 | 50 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 51 | [Boogie On Reggae Woman](https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 5:13 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 57 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Be What You Are \(Reissue\)](https://open.spotify.com/album/2p7fRyRo0bvJtmAE8O8Lk7) | 4:27 |
 | 58 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 |
 | 59 | [Soul Man](https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:36 |
-| 60 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:34 |
-| 61 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
+| 60 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
+| 61 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:34 |
 | 62 | [Tell It Like It Is](https://open.spotify.com/track/5K37x491Nnv7ipOv6D0DxJ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 3:01 |
 | 63 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 |
 | 64 | [Starting All Over Again](https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Chartbusters, Vol\. 1](https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk) | 3:50 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Oh No Not My Baby](https://open.spotify.com/track/4BQwQ4XzsWT7yRZ3Sx1bFm) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [Super Hits](https://open.spotify.com/album/53lp2W57Y52Ln5RmRHjW6k) | 2:37 |
 | 69 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 
-Snapshot ID: `MCwyMzBhMDhlNGMzYTJkYzhkZGNjZDBlYTY5MTY1NGQyZWYzZjJhMmVk`
+Snapshot ID: `MCw1OTg5OGE2NzM0M2UyNWJkM2Y1ZDNlZWY4NTEwYzEzYTY1MWIxZDMw`

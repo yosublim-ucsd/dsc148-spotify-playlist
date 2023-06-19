@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Victoria Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,082 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,122 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
 | 85 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 |
 
-Snapshot ID: `MCxiOTEyY2RiODdiYzA1OTExMDg3MTY2OWQxNzI4MmIxNjA2ODI1Mjdh`
+Snapshot ID: `MCxlYzEwYTZjMzFiM2UxMTQwMDQwY2VhNGM0YWEwMjViMzI3NTc3YmNj`

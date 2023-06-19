@@ -4,7 +4,7 @@
 
 > The soundtrack to snuggling on the sofa.
 
-156 songs - 8 hr 57 min
+157 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2022-05-24 | 2022-06-11 |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-03-31 |  |
 | [It Still Rains in Paradise](https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [It Still Rains in Paradise](https://open.spotify.com/album/1RzEZUdiyyMFnbpXK5kcyj) | 2:42 | 2022-05-27 | 2022-07-29 |
+| [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 |  |
 | [John & Nancy](https://open.spotify.com/track/0snPmmKHsUJhmQLPpHnR4M) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [HiLo](https://open.spotify.com/album/4RsjXMHyCUigESP74GkNHB) | 3:31 | 2022-05-26 | 2022-08-01 |
 | [Joshua Tree](https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:51 | 2022-05-24 | 2022-07-29 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2022-05-24 |  |
@@ -125,7 +126,7 @@
 | [She Needs Him](https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 5:14 | 2022-05-26 | 2023-02-25 |
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-31 | 2022-09-29 |
 | [Slow Dancing](https://open.spotify.com/track/0tTEImoPqWvU1SiOduW1iy) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi) | 4:27 | 2022-05-24 | 2022-10-13 |
-| [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 | 2022-10-28 |  |
+| [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 | 2022-10-28 | 2023-06-19 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2022-05-24 |  |
 | [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-05-27 | 2022-07-29 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-13 |  |

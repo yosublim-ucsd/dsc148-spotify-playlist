@@ -1,6 +1,6 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 35436,
+  "num_followers": 35450,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
@@ -456,12 +456,12 @@
       },
       "artists": [
         {
-          "name": "Dani Vellocet",
-          "url": "https://open.spotify.com/artist/4TYQRoAm3MVf5SrF8sFXAs"
-        },
-        {
           "name": "Marina Diniz",
           "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "Dani Vellocet",
+          "url": "https://open.spotify.com/artist/4TYQRoAm3MVf5SrF8sFXAs"
         }
       ],
       "duration_ms": 263893,

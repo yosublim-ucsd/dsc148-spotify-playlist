@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
-  "num_followers": 44917,
+  "num_followers": 44934,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTcyOTFjMjEyMWM2ZTI0MjU3NzZlYzJhNzhkOTk4ZDBhODQzODIw",
+  "snapshot_id": "MCwzZTQ2ZTkwMjhjY2NiNjY1NjkwOGRhMzY2YTcxYWNhOTUyOWJlZDNk",
   "tracks": [
     {
       "added_at": "2023-06-16 15:22:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Bola Oro",
-        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 245245,
-      "name": "Bola Oro",
-      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Rester",
         "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 297530,
       "name": "Rester",
       "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Bola Oro",
+        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 245245,
+      "name": "Bola Oro",
+      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Ojos",
         "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
@@ -715,6 +699,42 @@
       "duration_ms": 222099,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -751,26 +771,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "cl\u00e1sico vol. 1",
         "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
       },
@@ -803,22 +803,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "galleta de la suerte",
-        "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
       "artists": [
         {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         },
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 144170,
-      "name": "galleta de la suerte",
-      "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
+      "duration_ms": 155533,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -843,22 +843,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+        "name": "galleta de la suerte",
+        "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
         },
         {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 155533,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
+      "duration_ms": 144170,
+      "name": "galleta de la suerte",
+      "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK"
-      },
-      "artists": [
-        {
-          "name": "Billy Miamor",
-          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 176679,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK"
+      },
+      "artists": [
+        {
+          "name": "Billy Miamor",
+          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
     },
     {
       "added_at": "2023-06-16 15:22:22",

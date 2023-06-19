@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,500 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 6 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
 | 7 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
 | 8 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 |
-| 9 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
-| 10 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
+| 9 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
+| 10 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
 | 11 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
-| 12 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
-| 13 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
-| 14 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zébulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
+| 12 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zébulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
+| 13 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
+| 14 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
 | 15 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
 | 16 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 |
 | 17 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 | 50 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 
-Snapshot ID: `MCw1MjZhNzM1NDU3NWIwYzY1N2M5ZWM1MjEwNjUwMGVmZDkyZjc4NzEw`
+Snapshot ID: `MCw5Y2IzNWJmZjMzYTY4MDU3NWVkNDljZjE3ZDIwN2VkNDhiY2ZlYWEw`

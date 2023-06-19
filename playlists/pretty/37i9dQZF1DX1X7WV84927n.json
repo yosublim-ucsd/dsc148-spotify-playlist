@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Five Finger Death Punch",
-  "num_followers": 321615,
+  "num_followers": 321783,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk1YjVhOTBhZjYzNTcxZTQ5MDA4Nzg4ODllNDNjY2Q4Yjc4Mjdi",
+  "snapshot_id": "MCw3Nzk2MWE3NDI5YzVhNmJkMjY3MjVlY2YzZGViZGY5OWMwMzE0MjNh",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Separate Ways (Worlds Apart)",
         "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 316458,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189736,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Fallin' With Me",
         "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189736,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Vaxis II: A Window of the Waking Mind",
         "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
+        "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
+      "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -803,26 +823,6 @@
       "duration_ms": 219186,
       "name": "Darkness Before The Dawn",
       "url": "https://open.spotify.com/track/2BbMEzY7aVDsks9rNBLE7n"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
-        "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
-      "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
     },
     {
       "added_at": "2023-06-09 04:01:00",

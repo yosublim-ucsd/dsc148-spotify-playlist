@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 301714,
       "name": "Bairan",
       "url": "https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 302704,
       "name": "Justaju: The Essence of Love",
       "url": "https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV"
@@ -794,10 +794,32 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 254491,
       "name": "Rang Na",
       "url": "https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r"
+    },
+    {
+      "album": {
+        "name": "Rangderi",
+        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Asha Sapera",
+          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364796,
+      "name": "Rangderi",
+      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "album": {

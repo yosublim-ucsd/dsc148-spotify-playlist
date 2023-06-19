@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 142208,
+  "num_followers": 142296,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODAxZWVlNzY2ZjFjNzAxZWJiOGVmZTdiOWIxYTdiNWMwZWM1MjEw",
+  "snapshot_id": "MCxmZjA1MjQwMmQxYTVlN2U1NzExNzUzMWU3MDc3NzE4YjJiZTBmMzk0",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 225423,
       "name": "White Ash",
       "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Wasted Eyes",
-      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -807,6 +791,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -935,18 +935,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 339906,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Eye for an Eye",
         "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
       },
@@ -1055,26 +1071,6 @@
       "duration_ms": 250434,
       "name": "Eye for an Eye",
       "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b"
-      },
-      "artists": [
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152073,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly"
     },
     {
       "added_at": "2023-06-16 09:37:55",

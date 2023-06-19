@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,156 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,297 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 79 | [Follow You Follow Me \- 2007 Remaster](https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three \(2007 Remaster\)](https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI) | 3:59 |
 | 80 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
 
-Snapshot ID: `MCw4YjgxODdhMWUyYTY2NjkyNDlhNzQzN2YxNDc3YjM2NjRmZWNmZjM5`
+Snapshot ID: `MCxjZTI1YTZlY2UxOTg2ZjQ4ODc5NzMzYzc5OTFmZGFmNzUwMGYzZDdj`

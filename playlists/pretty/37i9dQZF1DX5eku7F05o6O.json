@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3487,
+  "num_followers": 3488,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmU3YTk2MGU0NDZkNWUxZDI1ZjdmMzVmYmM1MmQwZGZjNTBmMjdk",
+  "snapshot_id": "MCxhMzBiMGVkNWU1OWQ2ZjE1N2U4MTVhYzliMjQwMGRhNTM1OGFjNjY2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nous apr\u00e8s nous",
-        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le fil",
         "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 166720,
       "name": "Pour que l'amour me quitte",
       "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nous apr\u00e8s nous",
+        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -519,18 +519,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
       },
       "artists": [
         {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 206390,
-      "name": "Milles fois par jour",
-      "url": "https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r"
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -551,18 +551,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
         }
       ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+      "duration_ms": 206390,
+      "name": "Milles fois par jour",
+      "url": "https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La science du c\u0153ur",
-        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Une lettre",
-      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Maman",
         "url": "https://open.spotify.com/album/6oHbg92wJpgaRRDPKiw4pa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 229755,
       "name": "Maman",
       "url": "https://open.spotify.com/track/472uPdoGK0wQLmSGfYQEtR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La science du c\u0153ur",
+        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Une lettre",
+      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fatale",
-        "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
-      },
-      "artists": [
-        {
-          "name": "Dear Criminals",
-          "url": "https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg"
-        }
-      ],
-      "duration_ms": 116575,
-      "name": "7",
-      "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Fatale",
+        "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
+      },
+      "artists": [
+        {
+          "name": "Dear Criminals",
+          "url": "https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg"
+        }
+      ],
+      "duration_ms": 116575,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196613,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nord-est",
-        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 243977,
-      "name": "Nord-est",
-      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186215,
       "name": "Rien ne se perd, rien ne se cr\u00e9e",
       "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nord-est",
+        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 243977,
+      "name": "Nord-est",
+      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "M\u00e9lodica",
-        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
-      },
-      "artists": [
-        {
-          "name": "Steve Marin",
-          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Habiter l'avenir",
-      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Bleu Soleil",
         "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 247733,
       "name": "Il m'en aura fallu du temps",
       "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "M\u00e9lodica",
+        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
+      },
+      "artists": [
+        {
+          "name": "Steve Marin",
+          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Habiter l'avenir",
+      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,850 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,855 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [Kaoru Sakuraba \(CV: Yuma Uchida\)](https://open.spotify.com/artist/4gi15MhB1b1G387qfQ53uM), [Genbu Kurono \(CV: Toshinari Fukamachi\)](https://open.spotify.com/artist/5IWvN4rKghEIbXWvjzp2aS), [Kazuki Tsukumo \(CV: Tatsuya Tokutake\)](https://open.spotify.com/artist/3c4wvFNvtX55OAP2E8ssYx) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 |
 | 75 | [千客万来ニーハオサァカス!](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [Shota Mitarai \(CV: Yoshitsugu Matsuoka\)](https://open.spotify.com/artist/6ozSRczwEwSy4jkXpp5iXB), [Minori Watanabe \(CV: Tomohito Takatsuka\)](https://open.spotify.com/artist/4prZhHOQvjtUdgqthbCQFA), [Takeru Taiga \(CV: Junta Terashima\)](https://open.spotify.com/artist/1BmFp2IUqdw85oyqx44lvq), [Daigo Kabuto \(CV: Takehiro Urao\)](https://open.spotify.com/artist/6VK1a5oxhSFphcjG5IyFhF) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
 
-Snapshot ID: `MCwzMTZhMjUyNGVhNWI2OTA5OTg1NjM5NDEzMjM0ZTZhYTA5NTRiODE3`
+Snapshot ID: `MCxhNDA5ZmJjOWRkMjVjNjMwMWQ3YmI1NDdhZjFjZTJlMTIyMjcyOTE5`

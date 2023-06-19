@@ -4,13 +4,14 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DROELOE
 
-462 songs - 1 day 1 hr 37 min
+463 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-19 |  |
 | [\(if only i could\) hold you](https://open.spotify.com/track/36RptY85cUNXflnNCWY6PA) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/1WZNZ7eVqTy5THc4DCnfcs) | 4:20 | 2021-08-06 | 2022-04-21 |
 | [20:25](https://open.spotify.com/track/7bg3UimnS4beLnE476hfEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [.wav](https://open.spotify.com/album/55G3rxvjqebzSyHapheVF3) | 3:51 | 2021-10-01 | 2023-02-04 |
+| [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-16 |  |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-11-26 |  |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2023-02-10 |  |
 | [A Drowning Cry](https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [A Place Where Mountains Hide](https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS) | 4:13 | 2021-08-06 | 2023-05-13 |
@@ -106,7 +107,7 @@
 | [Cycling](https://open.spotify.com/track/4ScdQLPm7fMIQml0DE08ma) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Cycling](https://open.spotify.com/album/3h2Xqowif9LUc2K9ILEl3J) | 2:21 | 2021-11-05 | 2022-07-29 |
 | [Data Loss](https://open.spotify.com/track/01dDqYaIA4XfEYGZE0z5fc) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/0yQhlu3llmo7FbSRTnwofc) | [Data Loss](https://open.spotify.com/album/14HAMBubGgZ3Z8a5reC8XI) | 2:45 | 2021-08-06 | 2022-04-20 |
 | [Data Loss](https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Data Loss](https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W) | 2:45 | 2021-08-06 | 2023-02-04 |
-| [David Blaine](https://open.spotify.com/track/1JxBGu7qTwjGdog2CQhY7d) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [David Blaine](https://open.spotify.com/album/0v2LdD40ZuNY63LEmRsbrV) | 3:17 | 2023-05-12 |  |
+| [David Blaine](https://open.spotify.com/track/1JxBGu7qTwjGdog2CQhY7d) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [David Blaine](https://open.spotify.com/album/0v2LdD40ZuNY63LEmRsbrV) | 3:17 | 2023-05-12 | 2023-06-19 |
 | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm) | 2:20 | 2023-05-19 |  |
 | [Daydream](https://open.spotify.com/track/6i4EnLC2vUgww1BotS8xRs) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Daydream](https://open.spotify.com/album/0ynRpNRMKtNtpBy8Ref95Q) | 3:06 | 2021-10-15 | 2023-02-17 |
 | [Demons](https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Demons](https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG) | 4:44 | 2023-02-24 |  |

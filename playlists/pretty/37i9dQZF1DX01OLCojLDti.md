@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,356 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 19 | [微熱のワルツ](https://open.spotify.com/track/4g8oD02yWau9P3bruCVSiD) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:16 |
 | 20 | [みてろ!](https://open.spotify.com/track/0uRiiumJpHbTCFmCPsYVJ1) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
 | 21 | [Flyer's High](https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
-| 22 | [パレードはいつも \- 米女メイ Ver.](https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:37 |
-| 23 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 |
+| 22 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 |
+| 23 | [パレードはいつも \- 米女メイ Ver.](https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:37 |
 | 24 | [迷宮讃歌 \- 鬼塚夏美 Ver.](https://open.spotify.com/track/1fQNc60K3OKbgGvCyiBpXF) | [鬼塚夏美 \(CV.絵森 彩\)](https://open.spotify.com/artist/5ULB8cHC1ldMNZDOJc065u) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:31 |
 | 25 | [エンドレスサーキット \- 唐 可可 Ver.](https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 |
 | 26 | [Dreamer Coaster \- 桜小路きな子 Ver.](https://open.spotify.com/track/5Mo1Rl1U1n2WTruqGDtAYB) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 44 | [START!! True dreams](https://open.spotify.com/track/6vMCFAjO14G0dbMpWkWo8f) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:00 |
 | 45 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 |
 | 46 | [Welcome to 僕らのセカイ](https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 4:20 |
-| 47 | [揺らぐわ](https://open.spotify.com/track/3wq3xOdy2VA9NfHzsF3BWQ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第3話盤\)](https://open.spotify.com/album/6vYuZDrnINSx0ykjYb7SrD) | 3:29 |
-| 48 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 47 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 48 | [揺らぐわ](https://open.spotify.com/track/3wq3xOdy2VA9NfHzsF3BWQ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第3話盤\)](https://open.spotify.com/album/6vYuZDrnINSx0ykjYb7SrD) | 3:29 |
 | 49 | [未来の音が聴こえる](https://open.spotify.com/track/6ettFES2c7iA0YbPoQ5eYI) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 4:41 |
 | 50 | [What a Wonderful Dream!!](https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
 
-Snapshot ID: `MCwzYmU3MzU4Mjc3ZjY3NTUyMjBhYmRiNzhiMDFiZjQzOGVkY2JlMDVj`
+Snapshot ID: `MCw0MGI5YzYzYTg1ZDRlZGZiMzljOWM1M2UzYTk5MmQ4OWFhMTA5YTYx`

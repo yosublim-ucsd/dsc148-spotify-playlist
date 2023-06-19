@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 47757,
+  "num_followers": 47785,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzEyMGQ5ZjlkMTQyY2U0NTY3ZDI3NTUwNTgyOTM4OTFjMzg0ZDY0",
+  "snapshot_id": "MCxhZGE3OWMxZmRmMTE3MGIxYjkwMDFlNzNmODZiZGUyZWU1ZTViMDA3",
   "tracks": [
     {
       "added_at": "2023-06-15 15:00:00",
@@ -847,18 +847,26 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
         }
       ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -923,26 +931,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
       },
       "artists": [
         {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Flimsier",
-        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 239910,
-      "name": "Flimsier",
-      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 156784,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Anywhere Else",
+        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 156784,
+      "name": "Anywhere Else",
+      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+        "name": "\u00c1TTA",
+        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
         }
       ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
+      "duration_ms": 313040,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Cloud9",
-        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 126730,
-      "name": "Cloud9",
-      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1539,18 +1535,22 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 187925,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE"
+      "duration_ms": 126730,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT"
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
       },
       "artists": [
         {
-          "name": "Wataru Sato",
-          "url": "https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 174742,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR"
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "KIYOZUKA",
-        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Wataru Sato",
+          "url": "https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb"
         }
       ],
-      "duration_ms": 76453,
-      "name": "Haru yo, Koi",
-      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+      "duration_ms": 174742,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "KIYOZUKA",
+        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 76453,
+      "name": "Haru yo, Koi",
+      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 244772,
-      "name": "Be On Your Way",
-      "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "Romantic Piano",
-        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 222316,
-      "name": "City Song",
-      "url": "https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3"
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
     },
     {
       "added_at": "2023-06-15 15:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-06-15 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 222316,
+      "name": "City Song",
+      "url": "https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

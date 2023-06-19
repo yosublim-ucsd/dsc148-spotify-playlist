@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 48920,
+  "num_followers": 48945,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzIwODc2OWMyOGFiZWU5M2NlYTE5YzMwYTgzNzUzNmYyNGE5M2Iz",
+  "snapshot_id": "MCw1MDhmOWQ5Y2NmOTYxMWJhMDg4N2NmNDczNWY3NWNhYmZmNTUyNGMz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -311,22 +311,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Masterjam",
-        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
-      },
-      "artists": [
-        {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Do You Love What You Feel",
-      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo",
         "url": "https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 258502,
       "name": "Do It",
       "url": "https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Masterjam",
+        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Do You Love What You Feel",
+      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
-    },
-    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Third Wall Chronicles",
@@ -1159,6 +1143,22 @@
       "duration_ms": 220093,
       "name": "This Funk (Give Me a Hand)",
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
+    },
+    {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-08-22 14:26:16",

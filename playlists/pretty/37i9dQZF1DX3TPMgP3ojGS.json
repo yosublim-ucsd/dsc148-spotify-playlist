@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 356851,
+  "num_followers": 356986,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjBlNzA5ZTQ2Nzk4ZWI5OGM0Njk5NmMwNDI4YjRhNWM2MDAwY2Qy",
+  "snapshot_id": "MCxkODNiOGQ1NmY5Njg2M2YwNzg5ZGFmYTc2NzI1ZWExNTJlNWMyZmI4",
   "tracks": [
     {
       "added_at": "2023-05-30 05:41:43",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Quand vous souriez",
-        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
-      },
-      "artists": [
-        {
-          "name": "Libor Kolman",
-          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
-        }
-      ],
-      "duration_ms": 118250,
-      "name": "Quand vous souriez",
-      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Saying Things",
         "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 123500,
       "name": "Saying Things",
       "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Quand vous souriez",
+        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
+      },
+      "artists": [
+        {
+          "name": "Libor Kolman",
+          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
+        }
+      ],
+      "duration_ms": 118250,
+      "name": "Quand vous souriez",
+      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Fiume",
-        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Fiume",
-      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 115124,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 134000,
       "name": "Onward",
       "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 115124,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
-      },
-      "artists": [
-        {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
+      },
+      "artists": [
+        {
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Omoidasu",
         "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "A Place To Hide",
-        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
-      },
-      "artists": [
-        {
-          "name": "Boil The Ocean",
-          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
-        }
-      ],
-      "duration_ms": 147507,
-      "name": "A Place To Hide",
-      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 133375,
       "name": "Muse",
       "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "A Place To Hide",
+        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
+      },
+      "artists": [
+        {
+          "name": "Boil The Ocean",
+          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
+        }
+      ],
+      "duration_ms": 147507,
+      "name": "A Place To Hide",
+      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -943,38 +943,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "The Old Oak Tree",
-        "url": "https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo"
-      },
-      "artists": [
-        {
-          "name": "Frederico Morales",
-          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
-        }
-      ],
-      "duration_ms": 131951,
-      "name": "At The End Of The Day",
-      "url": "https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -991,6 +959,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "The Old Oak Tree",
+        "url": "https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo"
+      },
+      "artists": [
+        {
+          "name": "Frederico Morales",
+          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
+        }
+      ],
+      "duration_ms": 131951,
+      "name": "At The End Of The Day",
+      "url": "https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "fields of forever (sleep rework)",
         "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 221702,
       "name": "fields of forever - sleep rework",
       "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg"
       },
       "artists": [
         {
-          "name": "Elisa Avaria",
-          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
         }
       ],
-      "duration_ms": 155174,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
+      "duration_ms": 137070,
+      "name": "Ved",
+      "url": "https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Ved",
-        "url": "https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
       },
       "artists": [
         {
-          "name": "Anton Lindholm",
-          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
         }
       ],
-      "duration_ms": 137070,
-      "name": "Ved",
-      "url": "https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q"
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "If You Should Go",
+        "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "duration_ms": 127538,
+      "name": "If You Should Go",
+      "url": "https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "If You Should Go",
-        "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
+        "name": "Eclipsis",
+        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
       "artists": [
         {
-          "name": "Nora Gray",
-          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
         }
       ],
-      "duration_ms": 127538,
-      "name": "If You Should Go",
-      "url": "https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw"
+      "duration_ms": 146079,
+      "name": "Eclipsis",
+      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1195,22 +1211,6 @@
       "duration_ms": 137647,
       "name": "Twilights",
       "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Eclipsis",
-        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
-      },
-      "artists": [
-        {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Eclipsis",
-      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Fallen Flowers",
+        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Fallen Flowers",
+      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Fallen Flowers",
-        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Fallen Flowers",
-      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Abstractions",
         "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Coulant",
         "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
+      },
+      "artists": [
+        {
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
-      },
-      "artists": [
-        {
-          "name": "Holly Jones",
-          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Monte Viso",
         "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "La grande Nue",
-        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
       },
       "artists": [
         {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+          "name": "Holly Jones",
+          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
         }
       ],
-      "duration_ms": 184235,
-      "name": "La grande Nue",
-      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
+      "duration_ms": 174866,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1611,6 +1595,22 @@
       "duration_ms": 151750,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "La grande Nue",
+        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "La grande Nue",
+      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
     }
   ],
   "unique_name": "Coffee and Piano",

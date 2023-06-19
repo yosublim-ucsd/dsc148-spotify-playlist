@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 66 | [Where's the Fun in Forever](https://open.spotify.com/track/47igl55OC8OLEdZDAcj5rt) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:29 |
 | 67 | [Unbreakable \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2DRcaAO76feWOoWCWP1cPp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 4:34 |
 | 68 | [Hope](https://open.spotify.com/track/2eEKqNtBGrE30fnVt52CtS) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 2:58 |
-| 69 | [She Don't Really Care\_1 Luv](https://open.spotify.com/track/1RFYQnLeiY60S8XqSPGcp7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 6:07 |
-| 70 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
+| 69 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
+| 70 | [She Don't Really Care\_1 Luv](https://open.spotify.com/track/1RFYQnLeiY60S8XqSPGcp7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 6:07 |
 | 71 | [How It Feels to Fly](https://open.spotify.com/track/7ahSkRJouFINMWokIywAwG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:42 |
 | 72 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
 | 73 | [The Gospel](https://open.spotify.com/track/4ZmZpbcmJUVBgETosOn0sK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:01 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgxMTYxMTAsMDAwMDAwMDA4OGQ5N2QwY2Q4OWI4NjI2NWQ4OTZlZjQ3ZThjODA2Mg==`
+Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDA3MDEwY2MzNzUzOGZiMGViY2Y3NzgzM2UwOTQyNTEwNg==`

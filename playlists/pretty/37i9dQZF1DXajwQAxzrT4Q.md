@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,266 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,370 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 50 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
 
-Snapshot ID: `MCw5N2NhMmY5Y2NkNjkxZjEyOTQ2OTExZmYxNDZiOTljNGMxMTBlODk0`
+Snapshot ID: `MCwxNTg4OGYwY2JiYTY0Nzg3MzBhODQ2YTQ1MWMzYzc5Y2RjNjQxODgy`

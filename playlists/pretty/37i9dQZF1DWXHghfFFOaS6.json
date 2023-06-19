@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 290661,
+  "num_followers": 290869,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzdhMGY3ZjljOWZhMmQzY2E2Y2UyNmRlNzIxM2NhZjQ2ZGE2ZDVh",
+  "snapshot_id": "MCwzNTJhYWI1NWRiMTVjNGM2OWI3MTdmZWVmZDRiYmU1MTJiMWQ4Mjc5",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Blackbyrd",
+        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Welcome 2 Detroit",
         "url": "https://open.spotify.com/album/2KvJwjA8SxHUn1JPG09W4g"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 232533,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3yBO33Nyb6APYbeLESad7u"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Blackbyrd",
-        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Driving Songs",
+        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Alright - Remastered",
+      "url": "https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Afrodesia",
         "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 372733,
       "name": "It's Changed",
       "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Driving Songs",
-        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Alright - Remastered",
-      "url": "https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Datskat",
-      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Datskat",
+      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 241539,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1111,22 +1127,6 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Check The Pulse",
         "url": "https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Ring of Saturn",
         "url": "https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 470520,
       "name": "Walk That Walk, Talk That Talk",
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",

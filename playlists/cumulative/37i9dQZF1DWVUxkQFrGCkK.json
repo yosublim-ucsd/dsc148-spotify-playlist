@@ -35,6 +35,24 @@
     },
     {
       "album": {
+        "name": "A Little More Love",
+        "url": "https://open.spotify.com/album/1z6mTGaZizVyY80HWws1vm"
+      },
+      "artists": [
+        {
+          "name": "jackLNDN",
+          "url": "https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "A Little More Love",
+      "url": "https://open.spotify.com/track/4KD0A7LJb3ETVuUYxZnrlm"
+    },
+    {
+      "album": {
         "name": "A Little Shy",
         "url": "https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p"
       },
@@ -864,7 +882,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 232000,
       "name": "Follow the Loop",
       "url": "https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY"

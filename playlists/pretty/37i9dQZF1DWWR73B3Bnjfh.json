@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 91162,
+  "num_followers": 91309,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWYxOWMyM2RlZDQ0ZDRjZTlkMTI2MWFkMTZlZWM0YjE4OTA1MzAy",
+  "snapshot_id": "MCwyMDk4YmFmOTMwNzk4Mzk5ZWEzMjhjYTZjODc3M2UzMTM0MTViY2Jh",
   "tracks": [
     {
       "added_at": "2023-06-15 07:50:23",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
-    },
-    {
-      "added_at": "2023-06-15 07:50:23",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 209012,
       "name": "I Waited For You - Remastered 1998",
       "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "added_at": "2023-06-15 07:50:23",
+      "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+    },
+    {
+      "added_at": "2023-06-15 07:50:23",
+      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 330693,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
-    },
-    {
-      "added_at": "2023-06-15 07:50:23",
-      "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
+        "name": "F\u00e4bodjazz",
+        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
+      },
+      "artists": [
+        {
+          "name": "Lars Gullin",
+          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "Danny's Dream",
+      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
+    },
+    {
+      "added_at": "2023-06-15 07:50:23",
+      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 377546,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
-    },
-    {
-      "added_at": "2023-06-15 07:50:23",
-      "album": {
-        "name": "F\u00e4bodjazz",
-        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
-      },
-      "artists": [
-        {
-          "name": "Lars Gullin",
-          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 345266,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr"
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -823,8 +823,8 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
+      "duration_ms": 345266,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
+        "name": "Night Hawk",
+        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 629733,
+      "name": "Night Hawk",
+      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
+    },
+    {
+      "added_at": "2023-06-15 07:50:23",
+      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 442533,
       "name": "I Don't Stand A Ghost Of A Chance With You",
       "url": "https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz"
-    },
-    {
-      "added_at": "2023-06-15 07:50:23",
-      "album": {
-        "name": "Night Hawk",
-        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 629733,
-      "name": "Night Hawk",
-      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
     },
     {
       "added_at": "2023-06-15 07:50:23",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-06-15 07:50:23",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2023-06-15 07:50:23",
-      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
+    },
+    {
+      "added_at": "2023-06-15 07:50:23",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2023-06-15 07:50:23",

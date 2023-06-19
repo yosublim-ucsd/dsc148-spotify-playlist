@@ -4,7 +4,7 @@
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-79 songs - 6 hr 35 min
+80 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 | 2021-04-01 |  |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2021-04-01 |  |
 | [Love Changes \(with Meli'sa Morgan\) \- Digitally Remastered 1998](https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn) | [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M), [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [The Definitive Collection](https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ) | 4:42 | 2021-04-01 | 2022-07-29 |
-| [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 | 2021-04-01 |  |
+| [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 | 2021-04-01 | 2023-06-19 |
 | [Love Overboard](https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [All Our Love](https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h) | 5:26 | 2021-04-01 | 2022-07-29 |
 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 | 2021-07-01 |  |
 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 | 2021-07-01 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [Rock Steady \- Radio Edit](https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Just Gets Better With Time](https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH) | 4:03 | 2021-04-01 | 2022-07-29 |
 | [Saturday Love \- 12" Extended Version](https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Best Of](https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H) | 8:41 | 2021-04-01 | 2022-11-13 |
 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 | 2021-04-01 |  |
+| [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-06-19 |  |
 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:36 | 2021-04-01 |  |
 | [Somebody Else's Guy](https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Somebody Else's Guy](https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09) | 6:26 | 2021-04-01 |  |
 | [Something In The Way \(You Make Me Feel\)](https://open.spotify.com/track/3nW6iZFsJhOTZBeRdC5tKD) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Home](https://open.spotify.com/album/2ttKyfkGqMzpQQ6oqBwCqd) | 5:27 | 2021-04-01 | 2022-07-29 |

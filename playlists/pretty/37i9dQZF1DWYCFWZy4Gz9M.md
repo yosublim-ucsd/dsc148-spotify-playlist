@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,124 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,176 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 22 | [Mrahba](https://open.spotify.com/track/2zKuTLrINginlVwg75onMg) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 6:02 |
 | 23 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 |
 | 24 | [Yobadi](https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 4:30 |
-| 25 | [Foulani Hiriza / Soye](https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 8:01 |
-| 26 | [Shaba Kouria](https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA) | 8:50 |
+| 25 | [Shaba Kouria](https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ) | [Colours of the Night](https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA) | 8:50 |
+| 26 | [Foulani Hiriza / Soye](https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 8:01 |
 | 27 | [La Ilaha Illa Allah](https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 10:17 |
 | 28 | [Lalla Mira \- Jan Rase Remix](https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W) | [Gnawa Impulse](https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ) | [Jah Gnawi](https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u) | 4:05 |
 | 29 | [Marhaba \- Les Mlouks](https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 4:51 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 34 | [44](https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10) | [Omri Mor](https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Assala](https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS) | 7:53 |
 | 35 | [Youbati \- Boulila](https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Aicha](https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD) | 8:33 |
 | 36 | [Bambraka](https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA) | 7:24 |
-| 37 | [Sidi Musa](https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn) | [Hassan Hakmoun](https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur) | [The Fire Within: Gnawa Music of Morocco](https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk) | 3:59 |
+| 37 | [Moussa bahri](https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O) | [Ben Souda Group](https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l) | [Gnawa \- Sahara Desert Music](https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P) | 9:06 |
 | 38 | [Marhba / Gnawa Sidi Mimoun](https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 9:10 |
-| 39 | [Moussa bahri](https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O) | [Ben Souda Group](https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l) | [Gnawa \- Sahara Desert Music](https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P) | 9:06 |
+| 39 | [Sidi Musa](https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn) | [Hassan Hakmoun](https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur) | [The Fire Within: Gnawa Music of Morocco](https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk) | 3:59 |
 | 40 | [Bala Yourki](https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5) | 5:37 |
 | 41 | [Sentir solo](https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL) | [Altaf Gnawa Group](https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn) | [Altaf Gnawa Group: Gnawa \- Music From Morocco](https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7) | 7:47 |
 | 42 | [Bouri Bouri Manandabo](https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB) | [Hasna el Becharia](https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f) | [Djazaïr Johara](https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Ali ya ali](https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C) | [Makenba](https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod) | 7:54 |
 | 50 | [El Ghaba](https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Lila](https://open.spotify.com/album/0MD1I51gcst768Xt38R2kG) | 7:54 |
 
-Snapshot ID: `MCwyNDMwODA4NmM5YTE2MzM3MDViNjE2ZmU5ZjY4YjNlZjQ3YzUyYjVl`
+Snapshot ID: `MCxkODM5OGY5ZGVkNTVkODk4YTM5Mzc5ZGUxZjNlMzRhZWNkYjE3NzQ3`

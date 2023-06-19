@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Una mezcla de rock y punk para motivarte\. Get pumped!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,814 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,875 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 |
 | 50 | [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 |
 
-Snapshot ID: `MCw0ZjhkYjRhZDAzZGM5YmE3YTA1ZTYzN2IxMGM1N2RlNDQyOWQyODdk`
+Snapshot ID: `MCwyYzllYTFhNWY4YmM5NDg4MTY0MzFmOWU2YmNjN2YzZjU5YmMwN2Nk`

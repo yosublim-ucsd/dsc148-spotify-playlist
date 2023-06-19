@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  <a href=\"https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=IhEOvc51SFWgEJXxlaMT3g\">Koryn Hawthorne</a>",
-  "num_followers": 50909,
+  "num_followers": 51017,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjFjNWJjYzM4MjQwN2ZhNjhkNjM0NDZkNTJlNWVlMDU3MGM5ODc4",
+  "snapshot_id": "MCw2MjIwZjc1YjkwMTE3Y2ExNWMxYzIzMTkzNmI3MWE4MmQ3ZWIwMDUy",
   "tracks": [
     {
       "added_at": "2023-06-10 22:24:29",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "All of the Glory (Radio Edit)",
-        "url": "https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 236404,
-      "name": "All of the Glory - Radio Edit",
-      "url": "https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Ficky Ficky",
         "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 104147,
       "name": "Ficky Ficky",
       "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "All of the Glory (Radio Edit)",
+        "url": "https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 236404,
+      "name": "All of the Glory - Radio Edit",
+      "url": "https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Breakthrough: The Exodus (Live)",
-        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 518057,
-      "name": "All Of My Help - Live",
-      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Ese",
         "url": "https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 157881,
       "name": "Ese",
       "url": "https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 518057,
+      "name": "All Of My Help - Live",
+      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Blues and Roses",
-        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 145725,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Won't Be Long Now",
         "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Blues and Roses",
+        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 145725,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Closer Than You Think",
-        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 156384,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 384255,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 156384,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 362120,
       "name": "Here All the Time (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2023-06-10 22:24:29",

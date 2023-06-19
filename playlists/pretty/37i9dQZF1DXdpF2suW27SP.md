@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Kappa Jotta e EMMVR entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,799 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,827 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Cattiveiro Freestyle](https://open.spotify.com/track/1jEDmLfUSOAhFEvNaJToIL) | [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cattiveiro Freestyle](https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t) | 3:34 |
 | 75 | [Nha Primero Amor](https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Dareal General](https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg) | [Nha Primero Amor](https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0) | 3:33 |
 
-Snapshot ID: `MCw2MThlMzAxMDg3MmI5NWIyYjQ1ZGY1ZjZkOTA5MGFhNGU1MzVmMzcy`
+Snapshot ID: `MCwzYjlmZjEwOWRkY2UzYTBlZjU2YWFlNTM2YmRkOGY2MTQwMGM2OTZh`

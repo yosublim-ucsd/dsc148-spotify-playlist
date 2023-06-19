@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,872 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,915 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 34 | [A Big Hunk O' Love \- Live at the Honolulu International Center](https://open.spotify.com/track/3GI4aSJU8HrTM6msYXz1MT) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 2:08 |
 | 35 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 |
 
-Snapshot ID: `MCwwNGIzZTI1ZmFiMzBhZjFjNmY5MWQ3NTU2OGNmMTU3YjMyYjRjNGVh`
+Snapshot ID: `MCw2ZTgzNTJhZjI2ODkwZGZhOTk2Y2I0YmMzNzc1MWUwM2RhYzVlOGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,162 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,165 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 26 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
 | 27 | [Destino](https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 1:35 |
 | 28 | [Estoy Enojada](https://open.spotify.com/track/6VR6R6qQiI1zOJeJ8WMugS) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [KELP](https://open.spotify.com/album/45TfiSTgYPdsXQpBCy0ll1) | 2:19 |
-| 29 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
-| 30 | [Máscara de miel](https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Máscara de miel](https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA) | 3:02 |
-| 31 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 |
-| 32 | [Tengo Ganas](https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 4:00 |
+| 29 | [Máscara de miel](https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Máscara de miel](https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA) | 3:02 |
+| 30 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
+| 31 | [Tengo Ganas](https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 4:00 |
+| 32 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 |
 | 33 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 34 | [Papaia](https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Papaia](https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny) | 2:40 |
 | 35 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 |
 | 36 | [Plaza de Mayo](https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd) | [Plaza de Mayo](https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ) | 3:32 |
-| 37 | [Enciendo](https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Enciendo](https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI) | 2:46 |
-| 38 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 |
+| 37 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 |
+| 38 | [Enciendo](https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Enciendo](https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI) | 2:46 |
 | 39 | [KRONOS](https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV) | [EMILIA SALŪM](https://open.spotify.com/artist/0ZrwqNDhNGrqOxPxjKb40A) | [Ēgida](https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ) | 3:54 |
 | 40 | [Camino](https://open.spotify.com/track/7yGV8rGE3cme3t6RVnrEIj) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Camino](https://open.spotify.com/album/3ZiNjuZj0pj5EEUpr5jCDL) | 2:14 |
 | 41 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 | 50 | [Manantyal](https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx) | [La Fresca](https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E) | [Manantyal](https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK) | 3:15 |
 
-Snapshot ID: `MCw5Y2VjMzQ3ZjIyOTUwYjNjMzFiZWNkYWE2Mzc5NzQ4Njc2YjQ1YmI2`
+Snapshot ID: `MCxkNWNjMmEyMjA0OGZmMjFlODkzZmQ0NDVlYjE3Nzk2OTFmNzViNWIz`

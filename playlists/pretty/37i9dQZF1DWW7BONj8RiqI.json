@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 180164,
+  "num_followers": 180261,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
+  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
-      },
-      "artists": [
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
-        }
-      ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Optimus Productionstt",
+          "url": "https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1"
+        }
+      ],
+      "duration_ms": 180272,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 198110,
       "name": "Bacchanalist",
       "url": "https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "Optimus Productionstt",
-          "url": "https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1"
-        }
-      ],
-      "duration_ms": 180272,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Ultimate Party - Pump Me Up",
+        "url": "https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3"
+      },
+      "artists": [
+        {
+          "name": "Krosfyah",
+          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Pump Me Up",
+      "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Ultimate Party - Pump Me Up",
-        "url": "https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3"
-      },
-      "artists": [
-        {
-          "name": "Krosfyah",
-          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Pump Me Up",
-      "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
-        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
       "artists": [
         {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Cheers to Life",
-      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -959,18 +955,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
+        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
+        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
       },
       "artists": [
         {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
+      "duration_ms": 218213,
+      "name": "Cheers to Life",
+      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "YAGO",
-        "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
       },
       "artists": [
         {
-          "name": "Freetown Collective",
-          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
-        },
-        {
-          "name": "DJ Private Ryan",
-          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
         }
       ],
-      "duration_ms": 207192,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+        "name": "YAGO",
+        "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
       },
       "artists": [
         {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+          "name": "Freetown Collective",
+          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
+        },
+        {
+          "name": "DJ Private Ryan",
+          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
         }
       ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
+      "duration_ms": 207192,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+      },
+      "artists": [
+        {
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 185538,
       "name": "Back Bend (Remix)",
       "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
-      },
-      "artists": [
-        {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Crazy Jab Riddim",
-        "url": "https://open.spotify.com/album/5EUuRXy815ScvFgfBatkRs"
-      },
-      "artists": [
-        {
-          "name": "Slida",
-          "url": "https://open.spotify.com/artist/6jVcGDOeirqWdPibftmz59"
-        },
-        {
-          "name": "Swipe",
-          "url": "https://open.spotify.com/artist/2JqBF24fv5PW0MzOrT1nEN"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Back fi Ya Bend",
-      "url": "https://open.spotify.com/track/4zONZeMPohpfYKRS5ZcfEy"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
@@ -1467,6 +1447,42 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum",
       "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Crazy Jab Riddim",
+        "url": "https://open.spotify.com/album/5EUuRXy815ScvFgfBatkRs"
+      },
+      "artists": [
+        {
+          "name": "Slida",
+          "url": "https://open.spotify.com/artist/6jVcGDOeirqWdPibftmz59"
+        },
+        {
+          "name": "Swipe",
+          "url": "https://open.spotify.com/artist/2JqBF24fv5PW0MzOrT1nEN"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Back fi Ya Bend",
+      "url": "https://open.spotify.com/track/4zONZeMPohpfYKRS5ZcfEy"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1507,22 +1523,6 @@
       "duration_ms": 166809,
       "name": "Buddy Bye (feat. Konshens & Noah Powa)",
       "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Rock and Come In",
+        "url": "https://open.spotify.com/album/7iz3EjcDNljxMBMVP1AZN7"
+      },
+      "artists": [
+        {
+          "name": "Linky First",
+          "url": "https://open.spotify.com/artist/7A2TFN73Go9zmu3ymtCWps"
+        }
+      ],
+      "duration_ms": 237871,
+      "name": "Rock and Come In",
+      "url": "https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Rock and Come In",
-        "url": "https://open.spotify.com/album/7iz3EjcDNljxMBMVP1AZN7"
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
       "artists": [
         {
-          "name": "Linky First",
-          "url": "https://open.spotify.com/artist/7A2TFN73Go9zmu3ymtCWps"
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
         }
       ],
-      "duration_ms": 237871,
-      "name": "Rock and Come In",
-      "url": "https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI"
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1639,22 +1655,6 @@
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2023-05-15 02:33:18",

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 90544,
+  "num_followers": 90619,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjFlOGQ2ZDNkMzc3NmYxYTI1M2JhNDA4NTVhZjczMTk3ZmQyNjJk",
+  "snapshot_id": "MCxmNWQzNDRkZjEwNmRlMTM3N2E1Yjc0YzVkZDE3ZmQ1NTg4NDBhYzJk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Footloose",
-        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Outskirts of Heaven",
         "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 243545,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Footloose",
+        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
-        }
-      ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 194459,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Into the Mystic",
+      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Rachel Bradshaw",
         "url": "https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Into the Mystic",
-      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1687,34 +1703,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+        "name": "Your Body Is a Wonderland",
+        "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
-      },
-      "artists": [
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "David Ryan",
+          "url": "https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX"
         }
       ],
-      "duration_ms": 224085,
-      "name": "Falling - Spotify Singles",
-      "url": "https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW"
+      "duration_ms": 217659,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
     }
   ],
   "unique_name": "Country Covers",

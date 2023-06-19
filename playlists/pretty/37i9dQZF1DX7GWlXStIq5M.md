@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Ananda
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,236 likes - 78 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,401 likes - 78 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 77 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 |
 | 78 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 
-Snapshot ID: `MCwzNzU2MTJmNDk2OGViYmUwZDQ2Y2EyNDU0Mzc0NzBiMzNjOTBkNGE2`
+Snapshot ID: `MCw3MzM5ZjU5Zjk0Njg3NmIzNWM1NTA1YTM5ZWNkODc1Nzg5ZWI4OTcz`

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: zeyne
 
-482 songs - 1 day 4 hr 10 min
+483 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-03-08 | 2022-07-29 |
 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 | 2023-03-02 |
 | [Hoba La Ma Khali](https://open.spotify.com/track/6xNB566zvUDyMdSfU3Pw5M) | [Eman Al Amer](https://open.spotify.com/artist/1snAPnlh86ySyIdF73ASLI) | [Hoba La Ma Khali](https://open.spotify.com/album/2mnpMrOUa4Kx1SB7ul6og9) | 2:58 | 2021-12-23 | 2022-03-02 |
-| [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-01-19 |  |
+| [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-01-19 | 2023-06-19 |
 | [Home](https://open.spotify.com/track/1PG7PL0NxjALbxYquTBdif) | [Earlybird](https://open.spotify.com/artist/5IQBLu7IU3OB7HXQxpXC7r) | [Soft Colors](https://open.spotify.com/album/53cO9i0zAECACpepwOsz1q) | 3:16 | 2021-12-30 | 2022-02-28 |
 | [Houwa](https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM) | 3:31 | 2023-01-26 | 2023-05-13 |
 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-05-31 | 2023-01-25 |
@@ -274,6 +274,7 @@
 | [Milyar](https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Milyar](https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC) | 3:49 | 2023-02-16 |  |
 | [Min Guwaya](https://open.spotify.com/track/3Zr5VsID6eHTTg1zBpXUI5) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Min Guwaya](https://open.spotify.com/album/0FV7LG1eR1pOt9srFxHCzH) | 5:19 | 2022-03-10 | 2022-07-29 |
 | [Minni W Alay](https://open.spotify.com/track/5FZWHv1bmAZyALzEnAzmTT) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Minni W Alay](https://open.spotify.com/album/1Nko5zDg9Wol5M7s7cGxoA) | 2:46 | 2023-05-18 | 2023-05-26 |
+| [Mish Asfeh](https://open.spotify.com/track/3YQosHn8GA651h1BoRK9DX) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Mish Asfeh](https://open.spotify.com/album/1FZxlHp46AeQww3ZJfHyMf) | 3:25 | 2023-06-18 |  |
 | [Mish Mishta'a](https://open.spotify.com/track/5zSWm3BkuNRAY5jwh6mh8n) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 4:07 | 2021-12-23 | 2022-02-28 |
 | [Mishta'a](https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mishta'a](https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I) | 3:47 | 2022-03-08 | 2023-05-13 |
 | [Mishtaq](https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Mishtaq](https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp) | 2:00 | 2022-04-03 | 2023-04-11 |

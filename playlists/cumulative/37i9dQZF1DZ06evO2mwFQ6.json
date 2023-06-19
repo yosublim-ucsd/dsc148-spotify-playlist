@@ -938,10 +938,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 238817,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/24c3i7eM7aSQnUlcnTFPcS"
+    },
+    {
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183280,
+      "name": "We're Makin' Up",
+      "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"
     },
     {
       "album": {

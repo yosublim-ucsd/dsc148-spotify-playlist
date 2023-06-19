@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Sumbuck",
-  "num_followers": 795407,
+  "num_followers": 795505,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzY5OTZmZGExMjc5ZmRkMGZiOTVlZWJhY2U4ODRhYmQ1OGRkOGE1",
+  "snapshot_id": "MCwxODhjMDIzYWIzN2NiMTM2ZWJkYjY4NTI4ODFlZWMyZGU0NzRhNDFm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Even When I Don't",
-        "url": "https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Even When I Don't",
-      "url": "https://open.spotify.com/track/19IAe1UyxcjV3HzCt1dohV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Misnomer",
         "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 222815,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Even When I Don't",
+        "url": "https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Even When I Don't",
+      "url": "https://open.spotify.com/track/19IAe1UyxcjV3HzCt1dohV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1915,6 +1915,22 @@
       "duration_ms": 275640,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Frame",
+        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Bird's Eye View",
+      "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Frame",
-        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Bird's Eye View",
-      "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -2071,22 +2071,6 @@
       "duration_ms": 277374,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2107,6 +2091,38 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Frame",
+        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Starlings",
+      "url": "https://open.spotify.com/track/2JzPM6ky1rThBZ2lAsO4Lz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2155,22 +2171,6 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Frame",
-        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Starlings",
-      "url": "https://open.spotify.com/track/2JzPM6ky1rThBZ2lAsO4Lz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 206995,
       "name": "Strange Overtones",
       "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
+      },
+      "artists": [
+        {
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -2479,18 +2495,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
-        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
         {
-          "name": "Ryley Walker",
-          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 281786,
-      "name": "The Roundabout",
-      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2527,18 +2543,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Hydranism",
+        "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 169216,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2555,22 +2571,6 @@
       "duration_ms": 216476,
       "name": "8 Hour Drive",
       "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Hydranism",
-        "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 169216,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval"
     },
     {
       "added_at": "2023-06-09 04:00:00",

@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-270 songs - 14 hr 9 min
+271 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-31 |
 | [Baajo](https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baajo](https://open.spotify.com/album/4Yi1z6QAHnztoLxZqNiDEg) | 2:40 | 2022-06-09 | 2022-08-26 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2023-03-16 |
-| [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 |  |
+| [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-06-19 |
 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2023-02-24 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2023-02-24 |
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-06-09 | 2022-08-21 |
@@ -57,6 +57,7 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-09 | 2023-01-21 |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-06-09 | 2022-11-13 |
 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-18 | 2023-01-20 |
+| [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 | 2023-06-16 |  |
 | [Casanova](https://open.spotify.com/track/3gUHEZ6jmTWtBzUGUwLjyy) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Casanova](https://open.spotify.com/album/3nmLAVi2ezgqHeYLyTtVHI) | 2:26 | 2022-10-13 | 2022-10-22 |
 | [Cash Out](https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cash Out](https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX) | 3:08 | 2022-10-21 | 2022-11-16 |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-06-09 | 2022-08-22 |

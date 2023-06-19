@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,407 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,506 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 48 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 |
 | 49 | [SMILE](https://open.spotify.com/track/6EQCByvO8WXdHYw6QLLXNI) | [Fantomes](https://open.spotify.com/artist/7HKyji7RprYFvPw3EaARgS) | [SMILE](https://open.spotify.com/album/4eCVIY1Y7nwewuyb4f0Phx) | 2:42 |
 
-Snapshot ID: `MCxhMTJjNzI0ODEzYmI1MTFkNDEwODNmZDVmOWNjZjY1MDM4OTJjYjdi`
+Snapshot ID: `MCw4M2NlZDZjYmZhMTk1MjM0NjMxOWJlMjZiMjg0MmI5M2FhYTc1ZjQ0`

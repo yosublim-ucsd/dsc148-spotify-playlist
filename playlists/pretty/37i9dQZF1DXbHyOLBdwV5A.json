@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 104088,
+  "num_followers": 104169,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjIxOTFhMTliMzYwNjFlODNjOTUzNDM4OTBjMGY1MzhlOWViNDQ5",
+  "snapshot_id": "MCxhMmQxOGE0MmFmMzBiNDU0YWUwYjg0MTA2MTlkYjdhODgxNDcwNGY1",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -191,30 +191,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 168411,
       "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
       "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 133548,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Igual a Voc\u00ea",
+        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
+      },
+      "artists": [
+        {
+          "name": "Carlinhosdj",
+          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Igual a Voc\u00ea",
+      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Hora de Adorar",
         "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 190384,
       "name": "Hora de Adorar",
       "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Igual a Voc\u00ea",
-        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
-      },
-      "artists": [
-        {
-          "name": "Carlinhosdj",
-          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Igual a Voc\u00ea",
-      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 156093,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2023-06-02 03:00:00",

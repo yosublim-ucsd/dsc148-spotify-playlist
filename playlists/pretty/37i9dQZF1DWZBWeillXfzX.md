@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,394 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,410 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 |
 | 50 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
 
-Snapshot ID: `MCw3ZmRmZTc0ZTY5ODMyYTM4OWUzNGMyMTIzMmUxOGQ5MGI4NTRhYjNh`
+Snapshot ID: `MCwzMmJiM2QyYzZiMWU0NzAxMzhjOGVjNGZlZmVjOTIyNTYxYWVjNjM1`

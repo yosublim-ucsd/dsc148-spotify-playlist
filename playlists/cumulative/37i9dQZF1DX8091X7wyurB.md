@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-164 songs - 13 hr 56 min
+165 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-06-16 |  |
 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 | 2023-04-07 |  |
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 |  |
-| [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 |  |
+| [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-06-19 |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-05 |  |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
@@ -80,6 +80,7 @@
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-02-03 |  |
 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 | 2023-04-11 |  |
 | [Jehovah Ngiyabonga](https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Jehovah Ngiyabonga](https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD) | 3:54 | 2023-05-19 |  |
+| [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2023-06-16 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2023-04-21 |  |
 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 | 2022-09-08 | 2023-01-20 |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-08 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 梁靜茹 \(Fish Leong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,608 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,615 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我愛你那麼多](https://open.spotify.com/track/0CDXMCU0iDtlpsvLf8qfEb) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [明天](https://open.spotify.com/album/3bPyxRy4SZplFfgJ0lVJly) | 3:39 |
 | 50 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 
-Snapshot ID: `MCxlOWNiYzY5OWNkNjQ2YTcxMzEzNjI2YjdiZWZhMjY3ZTgwMWZlYzVh`
+Snapshot ID: `MCxiYWZjZmUxZTg2OWU3MmIwZjEyNTEwNDg5ZjBkN2IzMjNlNTQ0Yzg5`

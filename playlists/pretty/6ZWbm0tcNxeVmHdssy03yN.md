@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,436 likes - 93 songs - 4 hr 45 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,450 likes - 93 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 22 | [Shock en mi costa](https://open.spotify.com/track/46ePpPGWWhOb37HFqQVsHA) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Shock en mi costa](https://open.spotify.com/album/4i3wUzvOJ1kr6zEWsOkiJJ) | 3:38 |
 | 23 | [Twenty Five](https://open.spotify.com/track/7js6ORzj4cAFX0mwwoTFP0) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq) | [Twenty Five](https://open.spotify.com/album/2wvKg5Np990Gzla9jj1fxS) | 2:22 |
 | 24 | [Dieciocho](https://open.spotify.com/track/4TLKGVkWVuq4o5fldVI3Np) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [Dieciocho](https://open.spotify.com/album/1aVrxHr4j3iQAxNd1sKp3o) | 3:10 |
-| 25 | [Because The Night \- Radio Edit](https://open.spotify.com/track/1k7iRW1lUwinOG0kmHqhvy) | [Dani Vellocet](https://open.spotify.com/artist/4TYQRoAm3MVf5SrF8sFXAs), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy) | [Because the Night](https://open.spotify.com/album/2X4ZOatPau8o5FTlPIZJ21) | 4:23 |
+| 25 | [Because The Night \- Radio Edit](https://open.spotify.com/track/1k7iRW1lUwinOG0kmHqhvy) | [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy), [Dani Vellocet](https://open.spotify.com/artist/4TYQRoAm3MVf5SrF8sFXAs) | [Because the Night](https://open.spotify.com/album/2X4ZOatPau8o5FTlPIZJ21) | 4:23 |
 | 26 | [Lo que trajo el aire](https://open.spotify.com/track/6H8XzMwYp4l2ph1V5OaBND) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8), [Gonzalo Hermida](https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or) | [Lo que trajo el aire](https://open.spotify.com/album/5GXnz0Tw5aAsxuryynAAKr) | 3:14 |
 | 27 | [Brújula Dorada](https://open.spotify.com/track/5naFNJodlMOHR5SSBDAJga) | [Mhylo](https://open.spotify.com/artist/0fkwvFgEnRWysoflecaKCO), [J Milos](https://open.spotify.com/artist/2CyBw9ZTvStghmc005fpVc), [Macuto Music](https://open.spotify.com/artist/4IPyeJX55cYSRDI5InKtWW), [Teresa](https://open.spotify.com/artist/1uDBhTjZpRYXb3z5h5OSAe) | [Brújula Dorada](https://open.spotify.com/album/3fiK0w25evhmffHnMegTJv) | 3:19 |
 | 28 | [Nakaloop](https://open.spotify.com/track/3sOMvH1nNIOWybU1GenLef) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx), [Sheed](https://open.spotify.com/artist/2B9rGFZRmNvj5xAidKoCAZ) | [Nakaloop](https://open.spotify.com/album/2VUXdldNpOFoDr64sEgwlC) | 4:05 |

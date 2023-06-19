@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,540 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,634 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 59 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
 | 60 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
 
-Snapshot ID: `MCxjYTU3ZWNlNjUxMjVlMTU4OGVjOTYyZjk3YjY5MzBlMTQ4NmIxNTcx`
+Snapshot ID: `MCxjMmUzNDEzNGU3ZTA5ZjZmYWQyODIzZGUwZmRjNTE1NjU0NzA5NGRk`

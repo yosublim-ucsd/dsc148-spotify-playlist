@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 255117,
       "name": "Hobbak Me'zi",
       "url": "https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu"
@@ -4938,6 +4938,24 @@
       "duration_ms": 166153,
       "name": "Minni W Alay",
       "url": "https://open.spotify.com/track/5FZWHv1bmAZyALzEnAzmTT"
+    },
+    {
+      "album": {
+        "name": "Mish Asfeh",
+        "url": "https://open.spotify.com/album/1FZxlHp46AeQww3ZJfHyMf"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205518,
+      "name": "Mish Asfeh",
+      "url": "https://open.spotify.com/track/3YQosHn8GA651h1BoRK9DX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,087 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,102 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 20 | [In Kommer Ting](https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 2:59 |
 | 21 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 | 22 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
-| 23 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
+| 23 | [Hei Sommer](https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd) | [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Hei Sommer](https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj) | 2:52 |
 | 24 | [Tippa på tå](https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu) | 3:01 |
 | 25 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
 | 26 | [Som Bob Marley](https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Dancehall](https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9) | 3:18 |
 | 27 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 |
 | 28 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
-| 29 | [Hei Sommer](https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd) | [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Hei Sommer](https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj) | 2:52 |
-| 30 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
-| 31 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
+| 29 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
+| 30 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
+| 31 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
 | 32 | [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 |
 | 33 | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H) | [Nimo](https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5) | 3:52 |
 | 34 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 50 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 
-Snapshot ID: `MCxiNzM3YTA1ZjM5MDQwOGQ5MTFlZjk1YTliMThjYjkzNmYwNzA0YjFi`
+Snapshot ID: `MCw5OGQ2MTZiM2ZlMDAzZmYwMmJiYzgyODFiNzI1NmM4MTE3MDk2NmQy`

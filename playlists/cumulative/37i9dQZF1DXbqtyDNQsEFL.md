@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-158 songs - 18 hr 54 min
+159 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 | 2022-06-09 | 2023-04-15 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2022-06-09 |  |
 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 | 2022-06-09 |  |
+| [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2023-06-16 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 | 2022-06-09 |  |
 | [Ka Anyi Bulie \(feat\. Don Moen\)](https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Frankincense](https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh) | 3:29 | 2022-06-09 |  |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-09 |  |
@@ -157,7 +158,7 @@
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2022-06-09 | 2023-01-23 |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2022-06-09 |  |
 | [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 | 2022-09-09 |  |
-| [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q) | 41:49 | 2023-03-30 |  |
+| [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q) | 41:49 | 2023-03-30 | 2023-06-19 |
 | [You Are God \(feat\. Chigozie Achugo\)](https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chigozie Achugo](https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 4:31 | 2022-06-09 |  |
 | [You Are Good](https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7) | [Alexandrah](https://open.spotify.com/artist/0e3Clj8aoKy6OVMXB2OLKw) | [You Are Good](https://open.spotify.com/album/6JXr5LCZGSdxvucaw1Ckj8) | 11:37 | 2023-06-16 |  |
 | [You Are Good](https://open.spotify.com/track/6qLxoas1ij6wB5IQfGRfbb) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN), [Emeka Madubata](https://open.spotify.com/artist/7vFHoTAS5vHsxPg6z8eJDk) | [You Are Good](https://open.spotify.com/album/0T0KinelR7KZar1y6JiQPn) | 6:02 | 2022-10-14 | 2022-11-05 |

@@ -4,7 +4,7 @@
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 45 min
+44 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2023-02-08 |  |
 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 | 2023-02-08 |  |
 | [Two Brothers](https://open.spotify.com/track/4nxRsCbVgnw6dtsGKfG2Qr) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Divided & United: The Songs of the Civil War](https://open.spotify.com/album/5LKADCJeT6jhS2uedeEk8m) | 2:56 | 2023-04-13 |  |
+| [We Don't Fight Anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [We Don't Fight Anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 | 2023-06-18 |  |
 | [What Are You Listening To?](https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [What Are You Listening To?](https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n) | 4:05 | 2023-02-08 |  |
 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 | 2023-02-08 |  |
 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 | 2023-02-08 |  |

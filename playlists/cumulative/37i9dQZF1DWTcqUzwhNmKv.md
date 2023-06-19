@@ -4,7 +4,7 @@
 
 > Sevendust on top of the biggest Metal playlist.
 
-457 songs - 1 day 6 hr 44 min
+458 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Monster Truck](https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Monster Truck](https://open.spotify.com/album/0v4RSjqKmZn6lorB7HymsC) | 2:55 | 2021-12-20 | 2022-01-28 |
 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 | 2022-10-28 | 2023-01-21 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/album/7C0499YNyKXYczyKagdhip) | 3:17 | 2022-02-24 | 2022-04-15 |
-| [Never Dawn](https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo) | 4:49 | 2023-06-09 |  |
+| [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2023-06-16 |  |
+| [Never Dawn](https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo) | 4:49 | 2023-06-09 | 2023-06-19 |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-07-08 | 2022-08-06 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-07-29 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2022-05-20 |

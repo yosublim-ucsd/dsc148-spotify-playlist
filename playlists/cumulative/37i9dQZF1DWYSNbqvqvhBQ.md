@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Niall Horan
 
-186 songs - 10 hr 41 min
+187 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-02-23 | 2023-05-26 |
 | [Now Or Never](https://open.spotify.com/track/0oUzePLoZXd2cPAgccuz4F) | [Midas](https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD) | [Now Or Never](https://open.spotify.com/album/6dad0q6VY9pVE6rQYfRV2V) | 3:09 | 2023-02-23 | 2023-03-10 |
 | [Nowhere Land](https://open.spotify.com/track/0sEJwXYeSHWnyBdfRax5Wz) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:17 | 2023-02-23 | 2023-03-18 |
-| [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-23 |  |
+| [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 | 2023-06-08 |  |
+| [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-23 | 2023-06-19 |
 | [One Life](https://open.spotify.com/track/6bB4AiK5tH13695FcNGjDY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:57 | 2023-02-23 | 2023-04-14 |
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-04-28 |  |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2023-05-25 |  |

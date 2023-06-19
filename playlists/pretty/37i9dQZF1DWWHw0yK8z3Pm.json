@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Allison Russell",
-  "num_followers": 43294,
+  "num_followers": 43295,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjIwN2RjOWY4ZjYyYzk0NmY2M2MxNTU2OWJhMTIyNDAzZjk2Y2Qy",
+  "snapshot_id": "MCwwODM4NzNjYzhkZDZjYTQ0MDkxNGJkNTFiMGUwMTYyNmM0YTczYjNm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Evangelina",
-        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Evangelina",
-      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Lavender Days",
         "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 178080,
       "name": "The Otter",
       "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Evangelina",
+        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Evangelina",
+      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Long Violent History",
         "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 208955,
       "name": "68 - Live",
       "url": "https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "A Heart of Gold Is Hard to Find",
-        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "A Heart of Gold Is Hard to Find",
-      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "A Heart of Gold Is Hard to Find",
+        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "A Heart of Gold Is Hard to Find",
+      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 259591,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "CAMPFIRE",
-        "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Stand in the Joy",
         "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 232440,
       "name": "Broken Heart of Mine",
       "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "CAMPFIRE",
+        "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Kingmaker",
-        "url": "https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa"
-      },
-      "artists": [
-        {
-          "name": "Tami Neilson",
-          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Baby, You're a Gun",
-      "url": "https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Time Ain't Accidental",
         "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 164917,
       "name": "Chasing Spirits",
       "url": "https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Baby, You're a Gun",
+      "url": "https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Hard To Build. Easy To Break.",
-        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Hard to Build. Easy to Break.",
-      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 243293,
       "name": "Nomads",
       "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hard To Build. Easy To Break.",
+        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Hard to Build. Easy to Break.",
+      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "On A Roll",
-        "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Non-Typical Find",
         "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 289960,
       "name": "Staring Down the North",
       "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Waiting on the Day",
-        "url": "https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD"
+        "name": "Venus Copper Rose",
+        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
       },
       "artists": [
         {
-          "name": "Ron A.McNeill",
-          "url": "https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ"
+          "name": "Aiden Ayers",
+          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
         }
       ],
-      "duration_ms": 199838,
-      "name": "Hey Bob Dylan",
-      "url": "https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5"
+      "duration_ms": 181438,
+      "name": "Here If You Want Me",
+      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
     }
   ],
   "unique_name": "Renegades",

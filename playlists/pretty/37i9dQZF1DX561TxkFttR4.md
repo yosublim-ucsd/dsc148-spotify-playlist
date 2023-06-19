@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,771 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,816 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 22 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 | 23 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 24 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 |
-| 25 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
-| 26 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
+| 25 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
+| 26 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
 | 27 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
 | 28 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 29 | [Daybreak](https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Arash Sanee](https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa) | [Daybreak](https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl) | 1:42 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 54 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 55 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
 | 56 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
-| 57 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 |
-| 58 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
+| 57 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
+| 58 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 |
 | 59 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 60 | [Billow Gently](https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:22 |
 | 61 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 66 | [Quintessence](https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Quintessence](https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI) | 2:24 |
 | 67 | [Some Other Place](https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Some Other Place](https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E) | 4:13 |
 | 68 | [We Met in the Garden](https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [We Met in the Garden](https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l) | 2:23 |
-| 69 | [Col](https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8) | [Col](https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP) | 2:22 |
-| 70 | [Untouched Rainforest, Pt.3](https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Untouched Rainforest, Pt.3](https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k) | 3:13 |
+| 69 | [Untouched Rainforest, Pt.3](https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Untouched Rainforest, Pt.3](https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k) | 3:13 |
+| 70 | [Col](https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8) | [Col](https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP) | 2:22 |
 | 71 | [The Void \- I Play Mine version](https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [The Void \(I Play Mine version\)](https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc) | 2:39 |
 | 72 | [Wings](https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Wings](https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz) | 2:31 |
 | 73 | [145 \- Revisited](https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [145](https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg) | 2:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [Satisfaction](https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Satisfaction](https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6) | 2:09 |
 | 80 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 |
 
-Snapshot ID: `MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk`
+Snapshot ID: `MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm`

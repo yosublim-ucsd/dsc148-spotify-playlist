@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: NARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,836 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [FACE](https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh) | [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4) | [FACE](https://open.spotify.com/album/6R3eEigsJw7Jngjbmd0glX) | 2:27 |
 | 70 | [Luna Piena](https://open.spotify.com/track/2ecfmSG3PujmDgWvoM1Ek0) | [APOLLO QUATTRO](https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8) | [Luna Piena](https://open.spotify.com/album/6FMLzFO8d3rsLrow6teojH) | 2:58 |
 
-Snapshot ID: `MCwxYjcxNTcxNDgyZGZmNDUxNTkwZDUxNWYyNmUxOTMxOWJmYmQ0MDZm`
+Snapshot ID: `MCxlZTE3YmZiMWI1NDFiNzIyMzNkNmE5ODU2YjVjZjkzNjM3ZjUxMWM2`

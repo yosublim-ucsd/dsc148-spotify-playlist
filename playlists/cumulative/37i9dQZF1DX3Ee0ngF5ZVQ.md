@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: William Beckmann
 
-461 songs - 1 day 3 hr 25 min
+462 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [I Found Trouble](https://open.spotify.com/track/54WSRFGDv7lWCcZnAA1m3M) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [I Found Trouble](https://open.spotify.com/album/036hxRgtHzDUCtTzGt5Z6A) | 3:07 | 2021-12-17 | 2022-07-25 |
 | [I Got Game](https://open.spotify.com/track/4L380F6X8jQMzJGfcXnKTU) | [Nate Burnham](https://open.spotify.com/artist/0kdKIeJVJPraaKPgWjfjDf) | [I Got Game](https://open.spotify.com/album/6rrqcJxn566iuFFvF5LsSM) | 3:04 | 2021-12-17 | 2022-03-19 |
 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 |  |
-| [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 |  |
+| [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 | 2023-06-19 |
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 | 2022-10-09 |
@@ -275,6 +275,7 @@
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 | 2022-08-27 |
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
+| [Neon You](https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:07 | 2023-06-16 |  |
 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 | 2022-10-07 | 2023-06-10 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Melody Gardot",
-  "num_followers": 124478,
+  "num_followers": 124531,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDAyMzgxOWFjZWUzZWY2MTRiYThmMTQwMGY3OWJmODhlY2I3YjQx",
+  "snapshot_id": "MCw0YzliZjU3OTNhNzYxM2YxNWUyMzIyNWY5MTRkYTk2YjE4Yjc1Zjc2",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 186280,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Standard Time Vol. 3: The Resolution Of Romance",
-        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 336933,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/7HX1x07eay5LlnrQdq7zh2"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 183960,
       "name": "My Heart Belongs to Daddy",
       "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 336933,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/7HX1x07eay5LlnrQdq7zh2"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
+        "name": "Everything Happens to Me",
+        "url": "https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
         }
       ],
-      "duration_ms": 207895,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+      "duration_ms": 379427,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "It's Magic",
         "url": "https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "I'll Follow The Sun",
-        "url": "https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE"
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
       "artists": [
         {
-          "name": "Hailey Brinnel",
-          "url": "https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
         }
       ],
-      "duration_ms": 139605,
-      "name": "I'll Follow the Sun",
-      "url": "https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN"
+      "duration_ms": 357013,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1363,8 +1347,24 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Everything Happens to Me",
-        "url": "https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ"
+        "name": "I'll Follow The Sun",
+        "url": "https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Brinnel",
+          "url": "https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d"
+        }
+      ],
+      "duration_ms": 139605,
+      "name": "I'll Follow the Sun",
+      "url": "https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
       "artists": [
         {
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
         }
       ],
-      "duration_ms": 379427,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
+      "duration_ms": 207895,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Spring Waltz",
-        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Spring Waltz",
-      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Alice Carreri & The Sidecar Trio",
         "url": "https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V"
       },
@@ -1935,18 +1915,42 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "SEED",
-        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
       },
       "artists": [
         {
-          "name": "Yotam Ishay",
-          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        },
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
         }
       ],
-      "duration_ms": 328176,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "The Night and the Music",
+        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+      },
+      "artists": [
+        {
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Daniel Karlsson",
+          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1995,6 +1999,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2023,22 +2047,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "The Night and the Music",
-        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+        "name": "SEED",
+        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
       },
       "artists": [
         {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Daniel Karlsson",
-          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+          "name": "Yotam Ishay",
+          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
         }
       ],
-      "duration_ms": 249026,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
+      "duration_ms": 328176,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2075,42 +2095,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "The Moon and the Sky",
-        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        },
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "The Moon and the Sky",
-      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "One For My Baby",
-      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Lj\u00f3\u00f0",
         "url": "https://open.spotify.com/album/73DjaiUmsULgS6pnWX5Bh0"
       },
@@ -2135,6 +2119,42 @@
       "duration_ms": 271000,
       "name": "With You",
       "url": "https://open.spotify.com/track/1dfNHO9qYZWCHJTg3MHRfD"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "One For My Baby",
+      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 297297,
+      "name": "I'm Afraid (Of Loving You Too Much) (feat. Ben Paterson)",
+      "url": "https://open.spotify.com/track/6Ea7TV4pktvUgKakKKr9pZ"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2171,42 +2191,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        },
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 297297,
-      "name": "I'm Afraid (Of Loving You Too Much) (feat. Ben Paterson)",
-      "url": "https://open.spotify.com/track/6Ea7TV4pktvUgKakKKr9pZ"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Eat It Too",
+        "url": "https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 226474,
+      "name": "Eat It Too",
+      "url": "https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -2323,58 +2339,6 @@
       "duration_ms": 195133,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "The Art of Jazz with Ben Besiakov",
-        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
-      },
-      "artists": [
-        {
-          "name": "Ben Besiakov",
-          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
-        }
-      ],
-      "duration_ms": 319955,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Spring Can Really Hang You Up The Most",
-        "url": "https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Carmen Staaf",
-          "url": "https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7"
-        }
-      ],
-      "duration_ms": 358035,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Now Singing in 12 Great Movies",
-        "url": "https://open.spotify.com/album/5gz5OmrydeUG4ie6nj5Tmm"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/1vP1wALSlgUUhaSfQnF9bZ"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2399,18 +2363,54 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Eat It Too",
-        "url": "https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d"
+        "name": "The Art of Jazz with Ben Besiakov",
+        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
       },
       "artists": [
         {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+          "name": "Ben Besiakov",
+          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
         }
       ],
-      "duration_ms": 226474,
-      "name": "Eat It Too",
-      "url": "https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez"
+      "duration_ms": 319955,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Now Singing in 12 Great Movies",
+        "url": "https://open.spotify.com/album/5gz5OmrydeUG4ie6nj5Tmm"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/1vP1wALSlgUUhaSfQnF9bZ"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Spring Can Really Hang You Up The Most",
+        "url": "https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Carmen Staaf",
+          "url": "https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7"
+        }
+      ],
+      "duration_ms": 358035,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Make It Last",
-        "url": "https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Way Down Low",
         "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 213431,
+      "name": "Hate is the Basis (of Love)",
+      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Meshuga Baby",
         "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
       },
@@ -2807,22 +2823,6 @@
       "duration_ms": 359000,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 213431,
-      "name": "Hate is the Basis (of Love)",
-      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 227455,
+      "name": "Even in the Evenin'",
+      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "M\u00e9lusine",
         "url": "https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc"
       },
@@ -2935,26 +2951,6 @@
       "duration_ms": 193887,
       "name": "M\u00e9lusine",
       "url": "https://open.spotify.com/track/5VrrO6QJF5OMD9mEyQ4VhQ"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Dear December",
-        "url": "https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7"
-      },
-      "artists": [
-        {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Cecilia Persson",
-          "url": "https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv"
-        }
-      ],
-      "duration_ms": 178195,
-      "name": "Dear December",
-      "url": "https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -2983,38 +2979,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Tadd's All, Folks",
-        "url": "https://open.spotify.com/album/0haNdQSDRCh0Nz4cKMTuoT"
-      },
-      "artists": [
-        {
-          "name": "Gary Smulyan",
-          "url": "https://open.spotify.com/artist/0MiVmp7Os3I5vpMQU01yly"
-        }
-      ],
-      "duration_ms": 458400,
-      "name": "I'm Never Happy Anymore",
-      "url": "https://open.spotify.com/track/6sQmzCpG7ODbngsZU0pMw0"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 227455,
-      "name": "Even in the Evenin'",
-      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -3027,6 +2991,42 @@
       "duration_ms": 240300,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7zPr0wXnW2zTeWA4MNxRQy"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Dear December",
+        "url": "https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7"
+      },
+      "artists": [
+        {
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Cecilia Persson",
+          "url": "https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv"
+        }
+      ],
+      "duration_ms": 178195,
+      "name": "Dear December",
+      "url": "https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Tadd's All, Folks",
+        "url": "https://open.spotify.com/album/0haNdQSDRCh0Nz4cKMTuoT"
+      },
+      "artists": [
+        {
+          "name": "Gary Smulyan",
+          "url": "https://open.spotify.com/artist/0MiVmp7Os3I5vpMQU01yly"
+        }
+      ],
+      "duration_ms": 458400,
+      "name": "I'm Never Happy Anymore",
+      "url": "https://open.spotify.com/track/6sQmzCpG7ODbngsZU0pMw0"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -3199,6 +3199,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Sketchbook of Dreams",
+        "url": "https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k"
+      },
+      "artists": [
+        {
+          "name": "Tom van der Zaal",
+          "url": "https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au"
+        }
+      ],
+      "duration_ms": 225419,
+      "name": "Sketchbook of Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Life Came into Colour",
         "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
       },
@@ -3227,22 +3243,6 @@
       "duration_ms": 320800,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/7FtvTA5t8yH8UmKs1s4xoT"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Sketchbook of Dreams",
-        "url": "https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k"
-      },
-      "artists": [
-        {
-          "name": "Tom van der Zaal",
-          "url": "https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au"
-        }
-      ],
-      "duration_ms": 225419,
-      "name": "Sketchbook of Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -3375,22 +3375,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Isn't It Romantic?",
-        "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
-      },
-      "artists": [
-        {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
-        }
-      ],
-      "duration_ms": 333346,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "It's Not Easy Being Green",
         "url": "https://open.spotify.com/album/7qNoHvOCHg57CKMsDFUBFF"
       },
@@ -3403,6 +3387,22 @@
       "duration_ms": 303850,
       "name": "It's Not Easy Being Green",
       "url": "https://open.spotify.com/track/5zHwv15IXon9PTaT9YiSky"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Isn't It Romantic?",
+        "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 333346,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -3467,6 +3467,22 @@
       "duration_ms": 310746,
       "name": "Everybody's Talkin'",
       "url": "https://open.spotify.com/track/0sIzgvwRYgOwAJIKIQ35mo"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Isn't It Romantic?",
+        "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "In The Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/1vZmnsK0ovWKPykGvoet4t"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -3543,22 +3559,6 @@
       "duration_ms": 278045,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Isn't It Romantic?",
-        "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
-      },
-      "artists": [
-        {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "In The Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/1vZmnsK0ovWKPykGvoet4t"
     },
     {
       "added_at": "2023-06-15 22:00:00",

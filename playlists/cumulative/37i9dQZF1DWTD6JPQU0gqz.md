@@ -4,7 +4,7 @@
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-221 songs - 12 hr 48 min
+222 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Somos los Prietos \(feat\. Alexis Play\)](https://open.spotify.com/track/5jHAD4oQJN0P4j5KIKTaYs) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Sin Miedo](https://open.spotify.com/album/4PtMDYyyVnhjLHKCfLxe6k) | 3:42 | 2021-12-21 | 2022-06-04 |
 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 | 2022-06-03 |  |
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-06-03 | 2023-05-11 |
-| [Soy Yo](https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX) | 3:38 | 2023-02-17 |  |
+| [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 | 2023-05-12 |  |
+| [Soy Yo](https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX) | 3:38 | 2023-02-17 | 2023-06-19 |
 | [Sueño Americano](https://open.spotify.com/track/1d8KyFVxnNBAPmjY5kzJas) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [El Negrito Dun Dun & Ricardo](https://open.spotify.com/album/5SkpUlUPllOM1jUHwsUGtW) | 4:04 | 2021-12-21 | 2022-06-04 |
 | [Te Quiero Pa´Mi](https://open.spotify.com/track/5YTMV11r6H8eeKuHghbBql) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Te Quiero Pa´Mi](https://open.spotify.com/album/4adG4mIK7dgdrBfFyvwfyD) | 3:32 | 2021-12-21 | 2022-06-04 |
 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 | 2021-12-21 | 2022-06-04 |

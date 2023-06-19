@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Swae Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,000,958 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,001,221 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Quickie](https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Quickie](https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T) | 3:07 |
 | 50 | [Games Women Play](https://open.spotify.com/track/4XwVObmSna9zn4hOtWrptC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Games Women Play](https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K) | 2:48 |
 
-Snapshot ID: `MCw0OTY3ZTE4ODJjMWZhY2NlMjkzYjVmYzg0YWMxNzAwY2MxODM1ZTM4`
+Snapshot ID: `MCxkYzZkNjAzMTI2ZmE5MzhhODRjZDQzZmU5NzQ0ZGM1Nzc2MjdjNWM3`

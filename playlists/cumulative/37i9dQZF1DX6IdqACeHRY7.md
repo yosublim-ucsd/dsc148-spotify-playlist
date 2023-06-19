@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-371 songs - 21 hr 37 min
+372 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 | 2021-05-22 | 2021-10-16 |
 | [Meteor Showers](https://open.spotify.com/track/3XcTCYdB6raO8X1fu9HzW7) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/5nsdwr36uZ7VBeYaqgjQ3P) | 3:40 | 2021-05-22 | 2022-07-18 |
 | [Minimum](https://open.spotify.com/track/1nTgtGpUoKpA97ZbgZPiZR) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:14 | 2021-05-22 | 2021-10-16 |
+| [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 | 2023-05-03 |  |
 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 | 2022-05-09 | 2023-06-16 |
 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 | 2020-10-06\* |  |
 | [Moonlight](https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX) | 3:31 | 2022-09-09 |  |
@@ -226,7 +227,7 @@
 | [Når Jeg Blir' Til Jord](https://open.spotify.com/track/04CK2ArSYFUVPrugzXmhrD) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 3:08 | 2020-11-07 | 2021-01-21 |
 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 | 2020-10-06\* |  |
 | [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 | 2021-04-10 | 2022-07-29 |
-| [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 | 2020-10-06\* |  |
+| [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 | 2020-10-06\* | 2023-06-19 |
 | [Paper Planes](https://open.spotify.com/track/1Kn6UrQiVW50qOW0FBfeLI) | [Hoseah Partsch](https://open.spotify.com/artist/5AiXVEXSLpvUPZ5ypTHsW7) | [Paper Planes](https://open.spotify.com/album/4b36edGOxy5naFnO7HiE10) | 3:44 | 2021-05-22 | 2021-10-16 |
 | [Parade](https://open.spotify.com/track/5M0VNxtJnBfROF0wYRWeWr) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Parade](https://open.spotify.com/album/10nSCyhBcT3murrVJ6rpAg) | 3:51 | 2021-05-22 | 2021-05-24 |
 | [Paris \- Acoustic Version](https://open.spotify.com/track/6DDpcemaE4zYhW4QURGDPO) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Paris](https://open.spotify.com/album/53WMC1ANqY88aSzMAXHJ3T) | 2:33 | 2020-10-06\* | 2022-11-13 |

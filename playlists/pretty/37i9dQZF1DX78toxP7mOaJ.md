@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Godly the Ruler \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,962 likes - 110 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,006 likes - 110 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [I'll Ruin Everything That I See](https://open.spotify.com/track/6yRdcqBx8vVehQVDd9x1FX) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [I'll Ruin Everything That I See](https://open.spotify.com/album/3BKLWXob1jBkCIXtqUx1bk) | 3:42 |
 | 110 | [Lose the Shoes](https://open.spotify.com/track/5VKvzYYYR0sFhBbjZgcugi) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/7EQCC4jW26E24NkReakwv3) | 2:31 |
 
-Snapshot ID: `MCxkY2FmNDJmOWUyMzg0YzE3YjU1ZjNiYjVkNTMyOGNmMWEyZDAyMDBi`
+Snapshot ID: `MCw4NDg4MzFjNmU3ZDhhNDFiNzI2NjIxZmE1OWY2MWVlM2YxZDgzMTlk`

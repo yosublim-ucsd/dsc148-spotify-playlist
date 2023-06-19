@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Sim\u00f3n Campusano.",
-  "num_followers": 128036,
+  "num_followers": 128043,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTEzYjg0ODRiMDJmMjMwNGEyZWM3Y2RkOGJlYTllMDgyZDNjMjJm",
+  "snapshot_id": "MCwzYjMyZmQxMTY0NzBlNzVjMDZiYTFmMzIyZmEwZTczZjExMzliZWMy",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Despacio",
-        "url": "https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        },
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Despacio",
+        "url": "https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "El d\u00eda libre de Polux",
         "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 229010,
       "name": "Venenos",
       "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "RAYEN",
-        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
-      },
-      "artists": [
-        {
-          "name": "White MJ",
-          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
-        }
-      ],
-      "duration_ms": 187519,
-      "name": "RAYEN",
-      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "RAYEN",
+        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
+      },
+      "artists": [
+        {
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+        }
+      ],
+      "duration_ms": 187519,
+      "name": "RAYEN",
+      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Lo Nuestro",
         "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 113852,
       "name": "Lo Nuestro",
       "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
+      },
+      "artists": [
+        {
+          "name": "Eleg\u00eda al Atardecer",
+          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
+        }
+      ],
+      "duration_ms": 236916,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Reflejos",
-        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
-      },
-      "artists": [
-        {
-          "name": "Eleg\u00eda al Atardecer",
-          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
-        }
-      ],
-      "duration_ms": 236916,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Cuatro",
         "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 229740,
       "name": "Pasos de Gigantes",
       "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "D\u00edas Que No Lloro",
+        "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "D\u00edas Que No Lloro",
+      "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -759,26 +779,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "D\u00edas Que No Lloro",
-        "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "D\u00edas Que No Lloro",
-      "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "CASI P\u00daRPURA",
         "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+        "name": "Sudam\u00e9rica Suda",
+        "url": "https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
         }
       ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+      "duration_ms": 188160,
+      "name": "Sudam\u00e9rica Suda",
+      "url": "https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Sudam\u00e9rica Suda",
-        "url": "https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb"
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
       "artists": [
         {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Sudam\u00e9rica Suda",
-      "url": "https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM"
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Vaso de agua",
-        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 222835,
-      "name": "Vaso de agua",
-      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "virgen suicida",
         "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
       },
@@ -1375,22 +1359,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "yo creo que nos podr\u00edamos hacer bien",
-        "url": "https://open.spotify.com/album/5DRCrokzbS8eYvDAwZczwW"
+        "name": "Vaso de agua",
+        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
       },
       "artists": [
         {
-          "name": "carla martinez",
-          "url": "https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg"
-        },
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 204974,
-      "name": "yo creo que nos podr\u00edamos hacer bien",
-      "url": "https://open.spotify.com/track/2KA4JH7Gsaov1zi3CIKu2U"
+      "duration_ms": 222835,
+      "name": "Vaso de agua",
+      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1407,6 +1387,26 @@
       "duration_ms": 193002,
       "name": "despacito",
       "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "yo creo que nos podr\u00edamos hacer bien",
+        "url": "https://open.spotify.com/album/5DRCrokzbS8eYvDAwZczwW"
+      },
+      "artists": [
+        {
+          "name": "carla martinez",
+          "url": "https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg"
+        },
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "yo creo que nos podr\u00edamos hacer bien",
+      "url": "https://open.spotify.com/track/2KA4JH7Gsaov1zi3CIKu2U"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "OBSYDIANA",
+        "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 239483,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/6hsPHgNztdVyZDRwKTzgJq"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Cae la Noche",
         "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "OBSYDIANA",
-        "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 239483,
-      "name": "En Libertad",
-      "url": "https://open.spotify.com/track/6hsPHgNztdVyZDRwKTzgJq"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 251261,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 193689,
+      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
+      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-        "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 193689,
-      "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
-      "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "As\u00ed Te Soy",
-        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 221537,
-      "name": "As\u00ed Te Soy",
-      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0"
       },
@@ -1671,22 +1655,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "es caprichoso el azar",
         "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 177309,
       "name": "es caprichoso el azar",
       "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
     },
     {
       "added_at": "2023-06-09 03:00:00",

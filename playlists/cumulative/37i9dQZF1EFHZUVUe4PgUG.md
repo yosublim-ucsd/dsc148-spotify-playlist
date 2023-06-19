@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 56 min
+95 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 | 2022-06-04 |  |
 | [Sin Querer Queriendo \(feat\. Mau y Ricky\)](https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:48 | 2022-06-04 |  |
 | [Sonreír](https://open.spotify.com/track/0PeZSWnEegBvqWyJVatSwE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:27 | 2022-06-04 |  |
+| [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 | 2023-06-18 |  |
 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 | 2022-06-04 |  |
 | [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 | 2022-06-04 |  |
 | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/track/6kDXGEm0VGEbs0ZtFp2EUL) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/album/427hCecyt8ext6LkFXXw9c) | 3:40 | 2022-06-04 |  |

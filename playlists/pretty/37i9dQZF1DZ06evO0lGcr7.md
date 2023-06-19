@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,702 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,701 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 23 | [no faker](https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:49 |
 | 24 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 |
 | 25 | [i feel like chet](https://open.spotify.com/track/1JFCxETWjhVCQU0HxNGpdg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:03 |
-| 26 | [please don't](https://open.spotify.com/track/1Ve2OCcCtpXYaNDtHS1rgE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0tnXtCDRTRi3qGB72oAGEu) | 4:16 |
-| 27 | [blister in the sun](https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:24 |
+| 26 | [blister in the sun](https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:24 |
+| 27 | [please don't](https://open.spotify.com/track/1Ve2OCcCtpXYaNDtHS1rgE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0tnXtCDRTRi3qGB72oAGEu) | 4:16 |
 | 28 | [blame game](https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:29 |
 | 29 | [porcelain](https://open.spotify.com/track/5v2S0IqMixb6x1fDL93Szr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 4:31 |
 | 30 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 48 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 |
 | 49 | [the sideline](https://open.spotify.com/track/5oQBnTLk0hQBVtLBFv5Dyf) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the sideline](https://open.spotify.com/album/2GFlkUBkZUZNLGpWLUUXx1) | 3:32 |
 | 50 | [The Wrong Song](https://open.spotify.com/track/3FMi0yjrnBlYvH6GvJxHfv) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Mixtape \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4S4r4E0FPuftWGX1CWc0sU) | 3:41 |
-| 51 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 |
+| 51 | [hong kong](https://open.spotify.com/track/5eQH93PjNw14gYSGiKZqA3) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [hong kong](https://open.spotify.com/album/4u3p3PqQK72pmIHkCNBoLd) | 3:16 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDAyNjhmMWU0OTM1OTgwYTkyNzE0Nzk3ZGEzNDdmZTNhOQ==`
+Snapshot ID: `MjgxMTgyMjEsMDAwMDAwMDBmN2Q1MzhiNGE4YmY3N2EyYWIzNDgzZjEwM2Q1ZTMxMA==`

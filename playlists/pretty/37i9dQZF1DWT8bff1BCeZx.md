@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 16 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
 | 17 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 |
 | 18 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
-| 19 | [My God Is Good \- Live](https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 13: Live At The Mosaeik Theatre JHB](https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F) | 4:41 |
+| 19 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
 | 20 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
-| 21 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
+| 21 | [My God Is Good \- Live](https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 13: Live At The Mosaeik Theatre JHB](https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F) | 4:41 |
 | 22 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 |
 | 23 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 24 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 |
 | 50 | [Afro Praise 1](https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 4:39 |
 
-Snapshot ID: `MCwyZWU2ZjJlNDFiNjllYTUzYjUxMWE3OTgwZWE5ZjEwNWUzOGJjYWNm`
+Snapshot ID: `MCw1NDYwZDk4MDMwMzdjZjdkOTIyYTVhZTQwYzg0Njc1ZmE3NGJiYzVi`

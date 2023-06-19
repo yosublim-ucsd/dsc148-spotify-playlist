@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 440301,
+  "num_followers": 440379,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWM5NGIwY2YyOTIwNTFmYmE2ZjY5NDE1NzMyMmUyYzY3MjdiMWNk",
+  "snapshot_id": "MCw5YjhlNmE1ZGRlNzhlOGQ4OTI5MzM2NDg1MDYwMmQ0ZDYyNmQwYzIx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "For the Light",
         "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
       "artists": [
         {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 234891,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 125830,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 125830,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Graveyard Whistling",
-      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Growing/Dying",
         "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 212093,
       "name": "Growing/Dying",
       "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 203368,
-      "name": "Until I Know",
-      "url": "https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk"
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Until I Know",
+      "url": "https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Bad Thing",
-        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "Bad Thing",
-      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Bad Thing",
+        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Bad Thing",
+      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "The Days We Had",
-        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Something Here",
-      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Jungle (Radio Edit)",
         "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 236876,
       "name": "Jungle (Radio Edit)",
       "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "The Days We Had",
+        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Something Here",
+      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tilt At The Wind No More",
-        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 212081,
-      "name": "Smoke & Ribbons",
-      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Love Gloom",
         "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
       },
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+        "name": "Tilt At The Wind No More",
+        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
       },
       "artists": [
         {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
         }
       ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+      "duration_ms": 212081,
+      "name": "Smoke & Ribbons",
+      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
         }
       ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Dead Boys",
         "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
       },
@@ -1883,22 +1883,6 @@
       "duration_ms": 205045,
       "name": "Dead Boys",
       "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "What's It Like Over There?",
-        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 243532,
-      "name": "The Way We Say Goodbye",
-      "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "What's It Like Over There?",
+        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 243532,
+      "name": "The Way We Say Goodbye",
+      "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
       },
@@ -1931,6 +1931,26 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "It's Depression (feat. Middle Part)",
+        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        },
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It's Depression (feat. Middle Part)",
+      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1955,22 +1975,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "It's Depression (feat. Middle Part)",
-        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
       "artists": [
         {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        },
-        {
-          "name": "Middle Part",
-          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 193000,
-      "name": "It's Depression (feat. Middle Part)",
-      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
+      "duration_ms": 286342,
+      "name": "Can You Feel The Sun",
+      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2007,38 +2023,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
         }
       ],
-      "duration_ms": 286342,
-      "name": "Can You Feel The Sun",
-      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "I've Never Been To LA",
-        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 159129,
-      "name": "I've Never Been To LA (Edit)",
-      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
     }
   ],
   "unique_name": "License To Chill",

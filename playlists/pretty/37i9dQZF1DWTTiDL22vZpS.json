@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 11999,
+  "num_followers": 12061,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzdjYzcwNWRjOTQzNDllOGJiZGNkOWY3NWYwNzk3ODQxNTVjODU3",
+  "snapshot_id": "MCxmMjA3ZWY4MmJmMzY2ODJjZmEzNmIyMWIzYzBmOGI1NjU1M2JhM2Ix",
   "tracks": [
     {
       "added_at": "2023-06-16 04:39:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-16 04:39:55",
       "album": {
-        "name": "Precipicio",
-        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 247430,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
-    },
-    {
-      "added_at": "2023-06-16 04:39:55",
-      "album": {
         "name": "Peque\u00f1ines",
         "url": "https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
+    },
+    {
+      "added_at": "2023-06-16 04:39:55",
+      "album": {
+        "name": "Precipicio",
+        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 247430,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
     },
     {
       "added_at": "2023-06-16 04:39:55",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-06-16 04:39:55",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "En el club",
+        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+      "duration_ms": 259799,
+      "name": "En el club",
+      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
     },
     {
       "added_at": "2023-06-16 04:39:55",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-06-16 04:39:55",
       "album": {
-        "name": "En el club",
-        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         }
       ],
-      "duration_ms": 259799,
-      "name": "En el club",
-      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2023-06-16 04:39:55",

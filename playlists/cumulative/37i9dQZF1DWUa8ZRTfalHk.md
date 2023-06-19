@@ -4,11 +4,12 @@
 
 > Who's now and next in pop\. Cover: Dominic Fike
 
-1,733 songs - 3 day 17 hr 50 min
+1,734 songs - 3 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(i hope you\) miss me](https://open.spotify.com/track/1Zv2jT7iZu98Feqpzhn0nd) | [Joseph Black](https://open.spotify.com/artist/7sPFCTilT1dZsqcDXzOiQf) | [\(i hope you\) miss me](https://open.spotify.com/album/2FSsUu3vgMkoffjHBSdk1r) | 2:39 | 2020-10-13\* | 2020-10-16 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-18 |  |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring at the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-02 | 2021-10-30 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-05-22 | 2021-05-29 |
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-04-08 | 2022-07-02 |

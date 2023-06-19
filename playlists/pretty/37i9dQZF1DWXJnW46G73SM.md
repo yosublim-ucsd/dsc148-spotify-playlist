@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف:  سيف مجدي
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,506 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,550 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/track/3WjVnnMScPvcHPjMaujzuG) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/album/1sSAvhFnplhn9objnKq1jl) | 4:34 |
 | 50 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 |
 
-Snapshot ID: `MCw1ZThmMGZjMTFiMTFiMDgyMTNkNWViNzA3MDA2YjdjYzgzYTU2Y2Jj`
+Snapshot ID: `MCxkZWZlNzFkOWU0ZjIzNmUwMDkxN2FkMTJkZWI4YTVkYzNkNTBhNDA5`

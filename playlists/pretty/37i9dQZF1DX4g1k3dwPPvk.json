@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 257978,
+  "num_followers": 258091,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzhlNGM0YjBkMTY4MDdmMjkwNzI5MzJjYmY4ZGJlY2NiMzdhM2Y3",
+  "snapshot_id": "MCwzYWU0ZDU3Y2YyMGNmNTFjMThmMmM3ZmU1ZDExMTgyZjhmNjg5NGI2",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
       "artists": [
         {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 262573,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
     },
     {
       "added_at": "2023-02-17 21:06:33",

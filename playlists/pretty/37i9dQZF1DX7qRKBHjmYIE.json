@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Aria Vega",
-  "num_followers": 747656,
+  "num_followers": 747653,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmU5MGQ4OGIzYmQyYzI4N2JkNTBjMTQ2ZGYxNDRjNTIwMTY0NTIw",
+  "snapshot_id": "MCw0ZGZhYjMxNGQ2ZWI1NTg0ZmU1Yzg4NjM5OGI2Y2JhYzEwNmRjMzk1",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Underbelly",
+        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "duration_ms": 358217,
+      "name": "Softy",
+      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Cortada en la Frente",
         "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Underbelly",
-        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
-      },
-      "artists": [
-        {
-          "name": "Kiltro",
-          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
-        }
-      ],
-      "duration_ms": 358217,
-      "name": "Softy",
-      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "left you",
         "url": "https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+        "name": "Dame Guerra",
+        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+      "duration_ms": 176727,
+      "name": "Dame Guerra",
+      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -867,18 +883,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Dame Guerra",
-        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+        "name": "Eterno Verano",
+        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "chimi",
+          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
+        },
+        {
+          "name": "Marie Gabrielle Blix",
+          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Dame Guerra",
-      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
+      "duration_ms": 238000,
+      "name": "Eterno Verano",
+      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -911,26 +931,6 @@
       "duration_ms": 180885,
       "name": "t\u00fa\u00fa\u00fa",
       "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Eterno Verano",
-        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
-      },
-      "artists": [
-        {
-          "name": "chimi",
-          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
-        },
-        {
-          "name": "Marie Gabrielle Blix",
-          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Eterno Verano",
-      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
     },
     {
       "added_at": "2023-06-16 04:00:00",

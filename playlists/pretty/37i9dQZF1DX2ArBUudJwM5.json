@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30162,
+  "num_followers": 30165,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2VjMzQ3ZjIyOTUwYjNjMzFiZWNkYWE2Mzc5NzQ4Njc2YjQ1YmI2",
+  "snapshot_id": "MCxkNWNjMmEyMjA0OGZmMjFlODkzZmQ0NDVlYjE3Nzk2OTFmNzViNWIz",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
-      },
-      "artists": [
-        {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "M\u00e1scara de miel",
         "url": "https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "De chispa fuego",
-        "url": "https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds"
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
       },
       "artists": [
         {
-          "name": "Privia",
-          "url": "https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4"
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
         }
       ],
-      "duration_ms": 161142,
-      "name": "De chispa fuego",
-      "url": "https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7"
+      "duration_ms": 169333,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -539,6 +523,22 @@
       "duration_ms": 240528,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "De chispa fuego",
+        "url": "https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds"
+      },
+      "artists": [
+        {
+          "name": "Privia",
+          "url": "https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "De chispa fuego",
+      "url": "https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Enciendo",
-        "url": "https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI"
-      },
-      "artists": [
-        {
-          "name": "Luz Pereyra",
-          "url": "https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA"
-        }
-      ],
-      "duration_ms": 166277,
-      "name": "Enciendo",
-      "url": "https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Miedos",
         "url": "https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 185000,
       "name": "Miedos",
       "url": "https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Enciendo",
+        "url": "https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI"
+      },
+      "artists": [
+        {
+          "name": "Luz Pereyra",
+          "url": "https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA"
+        }
+      ],
+      "duration_ms": 166277,
+      "name": "Enciendo",
+      "url": "https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1"
     },
     {
       "added_at": "2023-06-05 03:00:00",

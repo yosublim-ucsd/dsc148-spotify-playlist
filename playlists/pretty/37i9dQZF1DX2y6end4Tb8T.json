@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 51891,
+  "num_followers": 51941,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmM4YTI4MjA2OWZhODhkYmI5MzYyZTRlYzZmNjFiMWRhNjRjNTU1",
+  "snapshot_id": "MCw4MDE1OWQ3ODg5ZjE5MzZiYTI4NjAzYTU2YmY1MjMwMzFlMTdmYTk1",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "My Window (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Los Bo",
         "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 239120,
       "name": "Los Bo",
       "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "My Window (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "B.B. King Freestyle",
-        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 222801,
-      "name": "B.B. King Freestyle (with Drake)",
-      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1263,38 +1259,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "BURBERRY",
-        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
+        "name": "B.B. King Freestyle",
+        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 281218,
-      "name": "BURBERRY",
-      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+      "duration_ms": 222801,
+      "name": "B.B. King Freestyle (with Drake)",
+      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1311,6 +1291,26 @@
       "duration_ms": 210698,
       "name": "Errbody",
       "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "BURBERRY",
+        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 281218,
+      "name": "BURBERRY",
+      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
     },
     {
       "added_at": "2021-11-12 16:22:17",

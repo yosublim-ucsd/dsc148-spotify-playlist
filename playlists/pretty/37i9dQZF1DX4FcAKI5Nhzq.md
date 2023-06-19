@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: VAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,732 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,816 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 |
 | 50 | [TIC TAC](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [8TURNRISE](https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ) | 3:22 |
 
-Snapshot ID: `MCxkYmQyZTYzY2JjMWE3ZTljY2M4MDJiYmU3MWQ0ODgzNTM2YzIzNTdj`
+Snapshot ID: `MCwzYWEzOTk0MzZhMzhkNmEwYzg2NmJkOTZlMzkzOWM5ZGRlYzZmNWM0`

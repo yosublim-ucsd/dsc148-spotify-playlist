@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdkOGQ1NTcyMmU1NzUwZjNiYTZjMWEzZTJlMzQyZmE5NTgxYmJi",
+  "snapshot_id": "MCwyNTM2NThkZjVlZmQ3NTIzYzc5NGE4ZDg2MmIxOTg1M2YxMmUxZWY0",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sofia the First: Once Upon a Princess",
         "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "Please Come To My Party",
+        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Miss Kitty",
+          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 144666,
+      "name": "The Potty Song",
+      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Please Come To My Party",
-        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Miss Kitty",
-          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 144666,
-      "name": "The Potty Song",
-      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Sesame Street: Splish Splash - Bath Time Fun",
-        "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
-      },
-      "artists": [
-        {
-          "name": "Sesame Street's Bicuspids",
-          "url": "https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Kids Just Love to Brush",
-      "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Music for Classroom Management",
         "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Sesame Street: Splish Splash - Bath Time Fun",
+        "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street's Bicuspids",
+          "url": "https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Kids Just Love to Brush",
+      "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
     },
     {
       "added_at": "2023-03-17 09:43:03",

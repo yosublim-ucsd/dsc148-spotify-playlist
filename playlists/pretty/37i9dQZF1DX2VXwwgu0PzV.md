@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"> Oba Reengy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,609 likes - 85 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,654 likes - 85 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 84 | [Normally](https://open.spotify.com/track/43PP6uQTCCX6l3csbG3iVR) | [McKoy](https://open.spotify.com/artist/7ap3Efzaf5HUcjgozkUvEW), [Fazil](https://open.spotify.com/artist/6lwtE1EhV20J6vQ19lYeAd), [Jayson Wealth](https://open.spotify.com/artist/1saeLam3PrBw973vxMaYan) | [Normally](https://open.spotify.com/album/3P7aBiyJgBZJujzQamTaBF) | 2:36 |
 | 85 | [Better](https://open.spotify.com/track/0MCYvRShR4Q2FGArAoqKf3) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 3:11 |
 
-Snapshot ID: `MCxkNzk2MDM3OTIxNDczODhmZGU0Y2Y1Mjk3YjQzOTU1M2EzYmYzZTlm`
+Snapshot ID: `MCwxMDQyYzk4YmM1ZjJhYmI4N2FkOGJmMWNkY2NkNjI0MWM0ZWZhMDVk`

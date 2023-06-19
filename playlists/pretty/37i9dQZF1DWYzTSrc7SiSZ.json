@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 659463,
+  "num_followers": 659574,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBlNDI2MGQ4M2RmYTZlZjNkODhjNGMxY2M1ZTVkMTVhYmY2NjUz",
+  "snapshot_id": "MCw3YmU4YzQ4MDJkMGM2OWM0ODY0NzIzOTU3MjZiNzhhODk5ZTc2OTUx",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Comida para Llevar (2\u00aa Season)",
         "url": "https://open.spotify.com/album/5UvvQXgXlGIleqQDPiklcR"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 473379,
       "name": "CAMINAAANDO / Warapita",
       "url": "https://open.spotify.com/track/7GPI2FrKyz7YznXjsWc9p9"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
-      },
-      "artists": [
-        {
-          "name": "Xadi",
-          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
-        },
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 172108,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Ojos Negros",
         "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 199999,
       "name": "Ojos Negros",
       "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
+      },
+      "artists": [
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        },
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 172108,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "no est\u00e1s",
         "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 212877,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "if you let me",
         "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 160909,
       "name": "if you let me",
       "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
     },
     {
       "added_at": "2023-06-16 04:01:00",

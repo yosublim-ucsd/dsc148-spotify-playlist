@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,805 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,804 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 14 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 15 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
 | 16 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
-| 17 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
-| 18 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
+| 17 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
+| 18 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
 | 19 | [Chromakey Dreamcoat](https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:47 |
 | 20 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 |
 | 21 | [Petiatil Cx Htdui](https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:11 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 41 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 42 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 43 | [Canone Infinito](https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 4:59 |
-| 44 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
-| 45 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 |
+| 44 | [November](https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 2:08 |
+| 45 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
 | 46 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 47 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 |
 | 48 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 |
 | 49 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
-| 50 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
+| 50 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 
-Snapshot ID: `MCwwNzhmOTFlNTRlMTI5NjU0M2YzNGYwNzFhMDE4Yjk2ODA3ZWNlNGM1`
+Snapshot ID: `MCwwNGIzZDliNjllMjE1OWExMjAyMjFiNDYyN2MzN2ZmMTc5YzRjZmI2`

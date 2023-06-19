@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 32338,
+  "num_followers": 32359,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTg5M2M5ZTM0YjE4MTcwMjY3MGU5MTU0MDhjYmI5ZWMxNTQ3ZWVj",
+  "snapshot_id": "MCw4YWNmNzAzNjZhMzVkNDg1Zjg1ZmEwYjAxZjVjYTJiYWVkZjEzZWRk",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Al Green Explores Your Mind",
         "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Voice Notes",
         "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
@@ -1295,22 +1315,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Kitchen Sunset",
         "url": "https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs"
       },
@@ -1327,6 +1331,22 @@
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1379,22 +1399,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1435,22 +1451,6 @@
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2023-06-16 14:02:21",

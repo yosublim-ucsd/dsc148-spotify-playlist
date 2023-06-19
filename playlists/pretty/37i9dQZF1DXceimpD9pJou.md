@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=0ZdN5\-a\_QWmSP6i1m7mklA">Majo y Dan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,366 likes - 99 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,422 likes - 99 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Mi Canción](https://open.spotify.com/track/7HMpPEVwcDEj8nXwG1biJm) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Mi Canción](https://open.spotify.com/album/0G17piKF5CGpQQjktnrOKW) | 2:50 |
 | 99 | [Solo el Comienzo](https://open.spotify.com/track/0VWScpRL87kkjW2ySjNFP2) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Bruno Santos](https://open.spotify.com/artist/0gtcSbUROCB555vyBFYoe6) | [Solo el Comienzo](https://open.spotify.com/album/5HmEJQP323KBCHp2yeGF7t) | 5:30 |
 
-Snapshot ID: `MCw3MjE2MjUyZTVkMTEwYjA3YTVkNmQ0MGViOWFkOTZhZWYwYjEyNGE3`
+Snapshot ID: `MCw3Y2MwYzQ1YWMxYWI5YWMxYjBiYWY4YzU1ZDNjNzVmODE5NTQ0M2Y0`

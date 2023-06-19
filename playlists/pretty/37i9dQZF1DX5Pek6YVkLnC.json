@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228160,
+  "num_followers": 228173,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmI0ZjhmZTBlMTRmOTFiNjkyZjZiMGFkZGQ5NjFjZTA0MGQ3OWVh",
+  "snapshot_id": "MCwxMjM4OWI4NThmODU1OWQ1YzU3OWQ3YjI1OWQ4ZGE3ZjhhM2ZlYTcw",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Respeto x Respeto",
-        "url": "https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1"
-      },
-      "artists": [
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Respeto x Respeto",
-      "url": "https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Randy Johnson",
         "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 197280,
       "name": "Freelance",
       "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Respeto x Respeto",
+        "url": "https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Respeto x Respeto",
+      "url": "https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN"
     },
     {
       "added_at": "2023-06-09 20:20:12",

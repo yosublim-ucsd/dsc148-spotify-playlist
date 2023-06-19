@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 1016801,
+  "num_followers": 1017747,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGY0OTgzNzc0YzYwNzRlYTY2MTVjNDAzZDAzZjZiMGNjMjFmYmQ4",
+  "snapshot_id": "MCw2MTliYjljNzljNDE2MzY2ODk4NzAzMmMyODM0OTQ4ZTlmOWQzNzkw",
   "tracks": [
     {
       "added_at": "2023-06-16 18:26:53",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -443,8 +443,8 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+      "duration_ms": 238253,
+      "name": "I Did Something Bad",
+      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -603,8 +603,8 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 238253,
-      "name": "I Did Something Bad",
-      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "I See Red",
-        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
-      },
-      "artists": [
-        {
-          "name": "Everybody Loves an Outlaw",
-          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "I See Red",
-      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
+      },
+      "artists": [
+        {
+          "name": "Everybody Loves an Outlaw",
+          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
       "artists": [
         {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 211643,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
         }
       ],
-      "duration_ms": 186426,
-      "name": "Money, Money, Money",
-      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177028,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Party Favors",
         "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194165,
       "name": "R\u00e4t",
       "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177028,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "I'm Sorry...",
-        "url": "https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9"
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI"
+      "duration_ms": 202319,
+      "name": "Lotta True Crime",
+      "url": "https://open.spotify.com/track/18jbMG8etanCMt6C5wFRDa"
     }
   ],
   "unique_name": "Villain Mode",

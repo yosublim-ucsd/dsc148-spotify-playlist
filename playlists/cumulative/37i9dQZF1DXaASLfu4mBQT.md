@@ -4,7 +4,7 @@
 
 > Mellow pop favorites from 2022\. Cover: Lauren Spencer Smith \#SpotifyWrapped
 
-118 songs - 6 hr 31 min
+119 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2022-11-30 |  |
 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 | 2022-11-30 |  |
 | [Darling](https://open.spotify.com/track/0ExjUQBJz9GXbk5BI4t2IB) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC) | 3:02 | 2021-12-01 | 2022-12-01 |
-| [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 | 2022-11-30 |  |
+| [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 | 2022-11-30 | 2023-06-19 |
+| [Dreamer](https://open.spotify.com/track/7asFG5jEyzbl3sYRHIpRyg) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:01 | 2022-11-30 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-12-01 | 2022-12-01 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-01 | 2022-12-01 |
 | [Emily](https://open.spotify.com/track/3c9mE11xM4xFdVd5Q3Wjg8) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:21 | 2021-12-01 | 2022-12-01 |

@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
@@ -3800,6 +3800,28 @@
       "duration_ms": 186666,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "album": {

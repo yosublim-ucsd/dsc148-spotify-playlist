@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 42505,
+  "num_followers": 42533,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzMzOGE2OGMzOWYyYjE4MzljYjM4YmIwYzBhMjFiZDJlYmI5MWM3",
+  "snapshot_id": "MCxmNjYwZDUxYTEzMGRjMDZiMjYyMTc1ZWY5Zjk1NjZjOGE4Mjk3OGJh",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -511,30 +511,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 880186,
-      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
-      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 3 in D Minor",
         "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 1262480,
       "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
       "url": "https://open.spotify.com/track/0GWUJCqanwtBOPGB0wNKYZ"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 880186,
+      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
+      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -687,34 +687,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler - Vol. 1",
-        "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lucia Popp",
-          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
-        },
-        {
-          "name": "Royal Concertgebouw Orchestra",
-          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
-        },
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        }
-      ],
-      "duration_ms": 509000,
-      "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
-      "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
         "url": "https://open.spotify.com/album/1AVc4ybEES08rKYnECFE6e"
       },
@@ -747,6 +719,34 @@
       "duration_ms": 249080,
       "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
       "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler - Vol. 1",
+        "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "duration_ms": 509000,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
+      "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -835,6 +835,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 1784293,
       "name": "Das Lied von der Erde (Song of the Earth): VI. Der Abschied (The Farewell)",
       "url": "https://open.spotify.com/track/1MgSNJghZVPGdSTMECzkMx"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "I. Allegro maestoso",
-      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -983,6 +983,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Brahms, Schumann & Mahler: Lieder",
         "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
       },
@@ -1007,30 +1031,6 @@
       "duration_ms": 145080,
       "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
       "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Lieder",
-        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Bernarda Fink",
-          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
-        },
-        {
-          "name": "Anthony Spiri",
-          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Winterlied",
-      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Liszt & Mahler: Das Himmlische Leben",
+        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 612760,
+      "name": "Das himmlische Leben",
+      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No.9; Kindertotenlieder; R\u00fcckert-Lieder",
         "url": "https://open.spotify.com/album/1wnpKf5UbXfY1wZxOdXVVT"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 337000,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/3YVoWpDwRejfPvlISBQTXb"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Liszt & Mahler: Das Himmlische Leben",
-        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Anne Schwanewilms",
-          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 612760,
-      "name": "Das himmlische Leben",
-      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
     },
     {
       "added_at": "2022-06-27 09:16:34",

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 40455,
+  "num_followers": 40510,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmFiNGY4YzQyODBkMjY3MGZiY2E5OWExMzM5ODE0YTAxM2RkOTUx",
+  "snapshot_id": "MCxjYWYxOWEzYTY3NDc4N2NhMjYzNTY2NTgyZjA5MGM5YmU5MjIzYzJh",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 319773,
       "name": "Black Magic Woman / Gypsy Queen",
       "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171360,
       "name": "A Veces Tu, A Veces Yo",
       "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 1",
-        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
-      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "15 A\u00f1os Baladas \u00c9xitos",
         "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Pra Sempre Em Espanhol - Vol. 1",
+        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 170106,
-      "name": "Se a Cabo",
-      "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
+      "duration_ms": 243466,
+      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
+      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -819,6 +803,22 @@
       "duration_ms": 209826,
       "name": "Qu\u00e9 Ser\u00e1",
       "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Se a Cabo",
+      "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -855,6 +855,22 @@
       "duration_ms": 290456,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Ma\u00f1ana Te Acordaras",
+      "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Ma\u00f1ana Te Acordaras",
-      "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Por un Amor",
-      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+      "duration_ms": 183813,
+      "name": "L\u00e1grimas y Lluvia",
+      "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1003,6 +1003,22 @@
       "duration_ms": 259920,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Busamba",
-      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "L\u00e1grimas y Lluvia",
-      "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
         "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 206666,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Busamba",
+      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "La Absoluta Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 215093,
       "name": "No Lastimes M\u00e1s",
       "url": "https://open.spotify.com/track/5NBBPD7iyOk34gtKgWz3IW"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1239,6 +1223,22 @@
       "duration_ms": 157666,
       "name": "Se Me Perdi\u00f3 la Cadenita",
       "url": "https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY"
     },
     {
       "added_at": "2023-02-17 20:59:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: رضا البحراوي
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,951 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 31 | [Daq El Hawa Daqa](https://open.spotify.com/track/0616KTViZeKjYJx1fM4Wzv) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Daq El Hawa Daqa](https://open.spotify.com/album/2FmJLnDFQL0hMsytTGP4bk) | 4:38 |
 | 32 | [Abia El Donia](https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Abia El Donia](https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb) | 3:32 |
 | 33 | [Al Abad We Al Shaytaan](https://open.spotify.com/track/1Eq7pW66JTa0CHcDNG5UUZ) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:25 |
-| 34 | [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 |
+| 34 | [El 'Aawoo](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 'Aawoo](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 |
 | 35 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 |
-| 36 | [El 'Aawoo](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 'Aawoo](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 |
+| 36 | [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 |
 | 37 | [Ma'alem](https://open.spotify.com/track/1A3StHwevJ44EqCJZST3c8) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ma'alem](https://open.spotify.com/album/548fUzS5czPUPtUI3M7yMy) | 3:36 |
 | 38 | [خدت من جدعنتى ايه](https://open.spotify.com/track/1vwtzU10kbdsIySHu7fnhI) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [خدت من جدعنتى ايه](https://open.spotify.com/album/2s2IYEGpc0DjpHV2ifCHcm) | 6:20 |
 | 39 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 |
 | 50 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
 
-Snapshot ID: `MCw4YjgxMDljZmFjYWQ0NzczNjM0NTE1NzdjMWI0MGVhZjhhMGRjMThl`
+Snapshot ID: `MCw1YTlkOTRjOTBjYjMxZjIzYWUzNjlmMjcyZWYwOWVlM2M2ZDEwY2I4`

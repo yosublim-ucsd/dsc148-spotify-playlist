@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Enjambre en portada.",
-  "num_followers": 491114,
+  "num_followers": 491341,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjJmZmY3OGFjODU4ZWU2NTBjMTJjNzFjNzkxZTc4Y2M2MDZlZWMy",
+  "snapshot_id": "MCxhNTY4YmRjMGIzYTE0NzllZThhMDBmMjJmYjlmYjdiODc3OTk5MWE4",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248939,
-      "name": "Bestia",
-      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248939,
+      "name": "Bestia",
+      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
     },
     {
       "added_at": "2022-01-28 17:39:37",

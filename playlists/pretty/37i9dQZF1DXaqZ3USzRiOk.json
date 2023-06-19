@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 138200,
+  "num_followers": 139179,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjExOTg2MGE3ZTNmY2EyZGFhMjljMTJlMmFiNWI1ZWRjM2UyZmFh",
+  "snapshot_id": "MCw2ZmUyZjExMjE1Y2ZlYzg5NTExN2Y1NzYzM2JhMDhkZDU5OGU0ODU1",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 129560,
       "name": "Por una Mujer Casada",
       "url": "https://open.spotify.com/track/4zLVaH8HnWApTsEwCBRYxM"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 139691,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 139691,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200213,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "Para Ti Pap\u00e1",
+        "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+      "duration_ms": 254250,
+      "name": "Para Ti Pap\u00e1",
+      "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Para Ti Pap\u00e1",
-        "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 254250,
-      "name": "Para Ti Pap\u00e1",
-      "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "\u00c9xitos Rancheros",
-        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 216189,
-      "name": "Mejor Me Voy",
-      "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
+      "duration_ms": 178213,
+      "name": "El Adolorido",
+      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+        "name": "\u00c9xitos Rancheros",
+        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 178213,
-      "name": "El Adolorido",
-      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
+      "duration_ms": 216189,
+      "name": "Mejor Me Voy",
+      "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Recordando a Mi Padre",
+      "url": "https://open.spotify.com/track/50lcxH1ijpYjxqKlLSbwCn"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
       },
       "artists": [
         {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 245773,
-      "name": "Recordando a Mi Padre",
-      "url": "https://open.spotify.com/track/50lcxH1ijpYjxqKlLSbwCn"
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1783,22 +1799,6 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 186131,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
       },
       "artists": [
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+      "duration_ms": 186131,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Vengo A Verte",
-      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
         "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 173733,
       "name": "Ojitos So\u00f1adores",
       "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6WDlfXdCGYAIo6bWKZosNP"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Sigo de Frente",
         "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 206074,
       "name": "Oye Viejo",
       "url": "https://open.spotify.com/track/6YoqWcSeTpxJz8iYqboOFd"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6WDlfXdCGYAIo6bWKZosNP"
     },
     {
       "added_at": "2023-06-16 16:57:29",

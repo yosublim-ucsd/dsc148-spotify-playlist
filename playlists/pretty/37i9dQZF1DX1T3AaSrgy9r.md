@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,349 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,395 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 48 | [Leave Home](https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 5:32 |
 | 49 | [Ready to Go](https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Republica](https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK) | 5:01 |
 | 50 | [Cowgirl \- Remastered](https://open.spotify.com/track/5nDndZX9lrYjAS4d1aWFxM) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 8:29 |
-| 51 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
-| 52 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
+| 51 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
+| 52 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
 | 53 | [Somersault](https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 6:56 |
 | 54 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
-| 55 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
-| 56 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
+| 55 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
+| 56 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
 | 57 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 58 | [Supermoves](https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie) | [Overseer](https://open.spotify.com/artist/3V4c44pHzC8apm8HiiFF6V) | [Wreckage](https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx) | 4:47 |
 | 59 | [Black Steel](https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 5:39 |
@@ -83,18 +83,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 73 | [My Kingdom](https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 5:47 |
 | 74 | [Toxygene \- 7" Edit](https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 3:31 |
 | 75 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
-| 76 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
-| 77 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
+| 76 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
+| 77 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
 | 78 | [We Have Explosive](https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 6:19 |
 | 79 | [Battleflag](https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7) | [Lo Fidelity Allstars](https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs) | [Battleflag](https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj) | 5:41 |
 | 80 | [Swamp Thing](https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS) | [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Swamp Thing](https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq) | 3:57 |
-| 81 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
-| 82 | [Brown Paper Bag](https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8) | [New Forms \(20th Anniversary Edition\)](https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM) | 9:03 |
-| 83 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
+| 81 | [Brown Paper Bag](https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8) | [New Forms \(20th Anniversary Edition\)](https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM) | 9:03 |
+| 82 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
+| 83 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 84 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
-| 85 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
-| 86 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
+| 85 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
+| 86 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 | 87 | [Gabriel](https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Abc Music \- The Radio 1 Sessions](https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl) | 4:20 |
 | 88 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 
-Snapshot ID: `MCw1NmQ2ZGE4Njc3NmM0MWIzMzA1NjFlZTFmNjE1ZTJiNGUzMzk3NzFh`
+Snapshot ID: `MCxkOGU2ZjA5NmEyOTdlN2I4ODUwMWU3ZTRiZDE5YTc3MDRmNzJmZTVl`

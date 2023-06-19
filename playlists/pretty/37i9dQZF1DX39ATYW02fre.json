@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 128031,
+  "num_followers": 128118,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWMxMmM5Y2Y5NmVhNTdiOTdkMGFlYWRhYmM1ZmY3NWY3NjA5MmU1",
+  "snapshot_id": "MCwyM2YyOWVhOTk1NmNkMjQ4OTZiNzQ5MzIyOGMyY2QyNjE3ZTA3MDQz",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 261746,
       "name": "amelia",
       "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -863,26 +879,6 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Dreaming (feat. Bruno Major)",
-      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
     }
   ],
   "unique_name": "Melantronic",

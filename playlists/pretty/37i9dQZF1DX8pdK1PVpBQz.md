@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Folk Bitch Trio\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,180 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,185 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [The Patience](https://open.spotify.com/track/1uCh1yKuAQhv7FYqXtgiwa) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [VIOLET](https://open.spotify.com/album/4xWq2I3uxQobFJnwO4FZJR) | 2:11 |
 | 99 | [Angourie](https://open.spotify.com/track/3hVpkiT0mAPobZJUoE5CqB) | [The Nagging Doubts](https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr) | [Angourie](https://open.spotify.com/album/6VCxQ3t84ptiMbnYXSfTX2) | 3:13 |
 
-Snapshot ID: `MCxlNGQwMDk2YTY3YzhkZTQwMmY5MTQ0MGRiZmIzNWYyZDQ0MDNjYmRk`
+Snapshot ID: `MCxkNjA1YWNmZDVjOWQ2NWY3ZTcwMjI3YmQ5MTczNzYzZjI0MTI0M2M0`

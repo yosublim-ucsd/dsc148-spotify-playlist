@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,037 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,132 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 17 | [Velvet Moon](https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 5:19 |
 | 18 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
 | 19 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
-| 20 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:16 |
+| 20 | [Sophisticated Lady](https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:20 |
 | 21 | [They Can't Take That Away From Me](https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:44 |
-| 22 | [Sophisticated Lady](https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:20 |
+| 22 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:16 |
 | 23 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
 | 24 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 25 | [I Waited For You \- Remastered 1998](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 35 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
 | 36 | [You Go To My Head](https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 6:25 |
 | 37 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
-| 38 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
-| 39 | [Lover Man \(Oh Where Can You Be\)](https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:46 |
+| 38 | [Lover Man \(Oh Where Can You Be\)](https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:46 |
+| 39 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
 | 40 | [Early Autumn](https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 3:11 |
 | 41 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
 | 42 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [You Go To My Head](https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 5:52 |
 | 100 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
 
-Snapshot ID: `MCxlMDc5N2JiNDY3YzM5MDVlOGI0Yzc3MTU1NGViZGNjYjJiYjk5ZmM3`
+Snapshot ID: `MCw0N2ZlOWU2NWM4MTUzNmI4MzQ1MDJmYzBkMDAwOTI3YmUxMTNjMDli`

@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 885611,
+  "num_followers": 885579,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWVjODMwZmJjOTIyNmI2OGFiZWZiMzM1MTk1MWVmODIxMjYzNTk2",
+  "snapshot_id": "MCwwMjdhN2UwM2U0YzljZGQ4ODZjY2Q2MDE1OWM1MzQyMDY4Mjc1Y2Jh",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 216338,
       "name": "Ur Body",
       "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 314840,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Lights Go Down (Peekaboo Remix)",
         "url": "https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 325720,
       "name": "Lights Go Down - Peekaboo Remix",
       "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "SABER TOOTH",
         "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 165346,
       "name": "SABER TOOTH",
       "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-06-09 04:01:00",

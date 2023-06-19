@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,133 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,168 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 39 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
 | 40 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
 | 41 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 42 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
-| 43 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
+| 42 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
+| 43 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
 | 44 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 | 45 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 |
 | 46 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCw1MWExNmYyYTliNThhODkyNDZlNDI2YzdlN2Y4NGJiYzcxMTdkMDI0`
+Snapshot ID: `MCxmNDQ2ODc3MTdiYmExMDNhNTZmMTg2OTA0MzA3NDNkNTZlOThkYmRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: ARTBAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,429 likes - 88 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,580 likes - 88 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Pillars of Eternity](https://open.spotify.com/track/3eu66kYYZFybIvVjiaik88) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Pillars of Eternity](https://open.spotify.com/album/4NADip54gVKmdwHIbLXBt2) | 6:31 |
 | 88 | [Timeshift](https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW) | [Chloe Lula](https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx) | [Timeshift](https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP) | 4:29 |
 
-Snapshot ID: `MCxiMWY1OTUyZDI0NDljN2Q1YjFlM2QwZDA5YzY2ODkxNDJiYzU0ODc3`
+Snapshot ID: `MCxlNTk2NTYxYzZkN2QxNzZkOTQzZTI3NzIwZjQ2YjQ4MTJlY2U1N2E2`

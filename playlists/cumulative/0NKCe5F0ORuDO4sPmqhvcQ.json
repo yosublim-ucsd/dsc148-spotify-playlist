@@ -7817,6 +7817,32 @@
     },
     {
       "album": {
+        "name": "TAKATAKA (feat. KD One & 2livemafia)",
+        "url": "https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "2livemafia",
+          "url": "https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166879,
+      "name": "TAKATAKA (feat. KD One & 2livemafia)",
+      "url": "https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf"
+    },
+    {
+      "album": {
         "name": "take me far away",
         "url": "https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac"
       },

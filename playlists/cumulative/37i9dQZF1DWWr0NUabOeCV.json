@@ -1982,10 +1982,32 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 190880,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/5EKsl4UV2f04PPrEFlR7aP"
+    },
+    {
+      "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190880,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6nrK3vUz8RWU8kbQsulsck"
     },
     {
       "album": {

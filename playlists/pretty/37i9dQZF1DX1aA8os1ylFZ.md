@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,834 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,858 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 23 | [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 |
 | 24 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 25 | [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 |
-| 26 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
-| 27 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
+| 26 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
+| 27 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 28 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 | 29 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
-| 30 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 |
-| 31 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
+| 30 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
+| 31 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 |
 | 32 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 33 | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Used To Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf) | 2:47 |
 | 34 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 91 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 | 92 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 93 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 |
-| 94 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 |
-| 95 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
+| 94 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
+| 95 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 |
 | 96 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 |
 | 97 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 |
 | 98 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 |
 | 99 | [Selfish](https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [WHO HURT YOU? \(Deluxe\)](https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5) | 3:03 |
 | 100 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
 
-Snapshot ID: `MCw5MTU4NTM2NTEwMDg4YzM5NjY4ZTY2YmQ2ZTIzNWU2MDUwMDJkZmZm`
+Snapshot ID: `MCwzZTAxNGMwNDdmMjExNjdlNTY0MWQ4ZTVjN2MxZDQwNDYyNDA0OTcz`

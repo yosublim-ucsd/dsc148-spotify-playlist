@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits here
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,915 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,025 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Nakati](https://open.spotify.com/track/59MGv2C2OfVDLkLM31asng) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/1HGb9KLKL3ii3aUe26wa5w) | 4:00 |
 | 50 | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L) | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7) | 5:43 |
 
-Snapshot ID: `MCw4ODhiMjRkOGQxOGQ4MjRiNjQxMjA4MWVhZjk5NjFjMzQ4NWM5YmI4`
+Snapshot ID: `MCxhZjllZmEwMTJmYWVlOTA3NDc0MzcwYTlkOGEyN2NkZDc4YTcwODNh`

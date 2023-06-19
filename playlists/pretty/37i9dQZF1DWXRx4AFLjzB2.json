@@ -1,12 +1,12 @@
 {
   "description": "Add some perreo to your summer party! ",
-  "num_followers": 54479,
+  "num_followers": 54582,
   "original_name": "Summer Perreo Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGE2OTg2MGI3ODljYTJlODkzYTFlYmYwYjYyOGNmNTBmZmNlN2Jh",
+  "snapshot_id": "MCwxMjg2NGE0YmYyNGIzNjM3ZjE2MGZmYmJjZDJkNWE2Y2FlZjUxMjJk",
   "tracks": [
     {
       "added_at": "2023-05-31 18:27:11",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-05-31 18:27:11",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "DEJAU'",
-      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
-    },
-    {
-      "added_at": "2023-05-31 18:27:11",
-      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
+    },
+    {
+      "added_at": "2023-05-31 18:27:11",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "DEJAU'",
+      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
     },
     {
       "added_at": "2023-05-31 18:27:11",

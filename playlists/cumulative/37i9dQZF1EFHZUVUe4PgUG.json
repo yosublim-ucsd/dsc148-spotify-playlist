@@ -1717,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "album": {
         "name": "OTRA COSA",
         "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,495 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,584 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 70 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 71 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
 | 72 | [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 |
-| 73 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
-| 74 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
+| 73 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
+| 74 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 75 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
 
-Snapshot ID: `MCwxYjAyMjA2MjYwN2ViMTliYTkwYTQ3MGRlNWZmMDJkOWQyZDY2MWRh`
+Snapshot ID: `MCw1ODcwZDBhODI4YjkyZTNkYmViMDUxMzBiMDBjMTM4M2JmODg5ZDFl`

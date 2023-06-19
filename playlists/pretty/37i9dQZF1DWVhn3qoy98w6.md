@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Berta Garrido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,802 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,806 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Sensualidad \(feat\. Kirsa Moonlight\)](https://open.spotify.com/track/0tkbWQybK1DEod19Aw5lYW) | [Mocean](https://open.spotify.com/artist/0N3NtS1Bz5067gYWWKhO6q), [Kirsa Moonlight](https://open.spotify.com/artist/0VY27a9gVcECmUF1x3zmry) | [Sensualidad \(feat\. Kirsa Moonlight\)](https://open.spotify.com/album/3NVDauFn8xhu86wMME1ZVE) | 2:38 |
 | 50 | [CL€AN¡](https://open.spotify.com/track/0DTVUW8PXSYFUUQpdn8FnH) | [Astrid Canales](https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD) | [CL€AN¡](https://open.spotify.com/album/3ZpMamW5ItEBKIVZIVF88J) | 3:12 |
 
-Snapshot ID: `MCw3MjQ0NmQ4MzVjMWQ3YzgzMzdmMDYwNjNhODgzYjViN2NiYTZkOTUy`
+Snapshot ID: `MCw2MzcwNmI1NTA0YjkzNmVlZjY5ZGU4MmVlOTJhZjhhMTdmZjg4N2Zh`

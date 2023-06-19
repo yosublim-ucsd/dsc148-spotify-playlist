@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-92 songs - 4 hr 18 min
+93 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 | 2022-11-21 |  |
 | [Pond Cabin \(Rain\)](https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 |  |
 | [Portugal Forest Rain](https://open.spotify.com/track/2mup6xXi5Y8N1m1JL2puSJ) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:50 | 2022-11-21 |  |
+| [Prado la Paz](https://open.spotify.com/track/34o6NtWfKIR45JAIdh1sr1) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Prado La Paz](https://open.spotify.com/album/33Z3RlFM5GBQoNHIRduBFJ) | 2:48 | 2023-06-16 |  |
 | [Rain Coming Down](https://open.spotify.com/track/34f5y8LWDL5sSJKkSHqMr5) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:12 | 2022-11-21 |  |
 | [Rain Drops](https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Heavy Rain](https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY) | 3:21 | 2022-11-21 |  |
 | [Rain in April](https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Rain In April](https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC) | 3:32 | 2022-11-21 |  |
@@ -71,7 +72,7 @@
 | [Rain Sounds From A Calm Night](https://open.spotify.com/track/2ylUNsTrDNBeto5E406xUW) | [In.The.Rain](https://open.spotify.com/artist/5SpbwDAd9v53dxou4gmL0r) | [In The Rain 2](https://open.spotify.com/album/4nYv5UM5K3sG4tjvbuNqlA) | 2:08 | 2022-11-21 |  |
 | [Rain throughout the Day](https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 | 2022-11-21 |  |
 | [Rain Zone](https://open.spotify.com/track/32W2llxLUCICb1tA56NvcL) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:36 | 2023-02-13 |  |
-| [Rainily](https://open.spotify.com/track/1OAshDUjEqlRk7nKthpMHP) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:30 | 2023-06-16 |  |
+| [Rainily](https://open.spotify.com/track/1OAshDUjEqlRk7nKthpMHP) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:30 | 2023-06-16 | 2023-06-19 |
 | [Rainy Forest Morning Hour](https://open.spotify.com/track/2qolU4aFRhpjjgWX3Ke4yy) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:15 | 2022-11-21 | 2023-02-21 |
 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 | 2022-11-21 |  |
 | [Rainy Village](https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:01 | 2022-11-21 |  |

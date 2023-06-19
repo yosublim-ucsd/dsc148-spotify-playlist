@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,500 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,526 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 12 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
 | 13 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
 | 14 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
-| 15 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
-| 16 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 |
+| 15 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 |
+| 16 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 18 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
 | 19 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 | 50 | [3010](https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [Doorways](https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE) | 3:48 |
 
-Snapshot ID: `MCw5N2M2NmJiODNhMTg4MmZkYzY0YTY2ZWI1Yzk1NGY3MTA2YzRlZDNi`
+Snapshot ID: `MCw5NjI1NGNlNDU5MjBlODNlY2E1NWE0MjVlMzJiZGVmYjg3Y2NkYTQy`

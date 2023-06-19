@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,680 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,021 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [PARAFULMINI \(con Bresh & Fabri Fibra\)](https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IO NON HO PAURA](https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO) | 3:28 |
 | 50 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
 
-Snapshot ID: `MCw0MjI2OWFmMTFjZGM2OWRjY2U1ODgzNjQ3YTBkMjgyZjY0MjIxYjk5`
+Snapshot ID: `MCxmZDJlYWFkNDlmYTFjYTVjOTc5YTU2YjI1OGIxYTdiNzA0ZDkxNTIw`

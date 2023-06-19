@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lutalo \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,456 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,494 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
 | 100 | [Cole St.](https://open.spotify.com/track/4bZ5ZQxJGxXPlYxxvhdr4t) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Cole St.](https://open.spotify.com/album/2TxEKf55JuJqky4DzPiXiQ) | 3:54 |
 
-Snapshot ID: `MCxkMDEzOGExMjczZjA0YmE5ZDViOGEyNjM3YmRmMTU3MWQyM2E3YjNi`
+Snapshot ID: `MCwwNzIwODRlNjExZTI0MTIwNDA3MmNhZTkyN2EwOTE3YmY4MTc4Y2U1`

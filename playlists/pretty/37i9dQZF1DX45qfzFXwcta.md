@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,201 likes - 88 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,315 likes - 88 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 87 | [My Street](https://open.spotify.com/track/1TyPatt6gp9mLRW18GuExN) | [KLIM Beats](https://open.spotify.com/artist/37rwydiu8MSMey87ktxdPT) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 1:54 |
 | 88 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MCw0Y2M4N2NlODUzOGJhZjk1NTA4NmZhZjA0MTk1NmQ0NmQ4ZDVmMWFj`
+Snapshot ID: `MCwyMDNhMDVhNTk1NTBhZjk2OTk0NjA3ZWE4YzQ4YzdkOGIzZDA0OGU3`

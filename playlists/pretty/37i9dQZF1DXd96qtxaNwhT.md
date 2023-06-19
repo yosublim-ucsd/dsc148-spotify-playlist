@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,572 likes - 69 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,582 likes - 69 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 68 | [Winter City](https://open.spotify.com/track/2KtH6OayZaFH5Zowhglw1Y) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/7g0CXNdiVVnAGj1f9yle7e) | 2:41 |
 | 69 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 |
 
-Snapshot ID: `MCxkN2RmOWE0ZDA4MWU2NDZkZTJhODAyYmU5YWM1MzFmMWI1MjkzN2U5`
+Snapshot ID: `MCxhY2VlMWViMThlNzNhMWVhMGFiYjc0OTE4NmZhZjg5OTE4N2U0YTY2`

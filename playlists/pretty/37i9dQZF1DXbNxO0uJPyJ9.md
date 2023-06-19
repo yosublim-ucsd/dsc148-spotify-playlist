@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,461 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,633 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 54 | [Always on My Mind / In My House \- 2018 Remaster](https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 9:04 |
 | 55 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
 | 56 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
-| 57 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
-| 58 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
+| 57 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
+| 58 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
 | 59 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 60 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
 | 61 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
 | 80 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 |
 
-Snapshot ID: `MCxjYTE1ZTBmN2U2OWJjNjhjOGRlYWNmYjA5N2YxNGQ2ZmVjMmJmMDU3`
+Snapshot ID: `MCw4M2Y1ZGJmZjljMzA3M2ViMjA3MmRhYTMzOWRkZmM3NjA1MmM5OTVm`

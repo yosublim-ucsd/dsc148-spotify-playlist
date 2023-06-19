@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,236 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,691 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 35 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
 | 36 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
 
-Snapshot ID: `MCw5NTY1NGZhMWIwOTBiN2FhNGY5MTFjMzZjOTYzNmJlNjJhZGM5MWVm`
+Snapshot ID: `MCwzMTBhZmZkNTYxZmE1Mjc0YjI1Mzc5NzE3YTA5MzdhOTJjOTY2ODQw`

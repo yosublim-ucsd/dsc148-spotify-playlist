@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Sprints",
-  "num_followers": 49168,
+  "num_followers": 49174,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTE3N2I0OTYzMjBmMjA5MDVhMDRkMzc2ZmVlZTkzYWRmMjA0Yjhm",
+  "snapshot_id": "MCwwZDliMjg0ZmJlYzMzMmIyNmQyMWE3MmU3N2IxOGVlZDM4MWM5MzM1",
   "tracks": [
     {
       "added_at": "2023-06-08 18:05:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "'Til the Wheels Fall Off",
-        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
+        "name": "'Til the Wheels Fall Off",
+        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 163560,
       "name": "I.N.V.U.",
       "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -775,6 +759,22 @@
       "duration_ms": 105000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Sweet Dreams of Otherness",
         "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 284093,
       "name": "Sweet Dreams of Otherness",
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
-        "name": "EXPLICIT: The MiXXXtape",
-        "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "D.R.I.L.D.O",
-      "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
+        "name": "EXPLICIT: The MiXXXtape",
+        "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "D.R.I.L.D.O",
+      "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "Unlike Me",
+        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Unlike Me",
+      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Unlike Me",
-        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Unlike Me",
-      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Country Life",
         "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202624,
       "name": "BURN THE WITCH",
       "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Til' The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 186048,
-      "name": "Til' The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "Til' The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 186048,
+      "name": "Til' The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Daylight Robbery",
-        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
-      },
-      "artists": [
-        {
-          "name": "Boy Bleach",
-          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Daylight Robbery",
-      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
-    },
-    {
-      "added_at": "2023-06-08 18:05:01",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-06-08 18:05:01",
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
     },
     {
       "added_at": "2023-06-08 18:05:01",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-06-08 18:05:01",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
       "artists": [
         {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+      "duration_ms": 134640,
+      "name": "Rob the Supermarket",
+      "url": "https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8"
     }
   ],
   "unique_name": "The Punk List",

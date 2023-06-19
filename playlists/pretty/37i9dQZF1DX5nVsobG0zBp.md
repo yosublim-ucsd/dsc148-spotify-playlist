@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,848 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,897 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 42 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
 | 43 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 44 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
-| 45 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
-| 46 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
+| 45 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
+| 46 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
 | 47 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 48 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
 | 49 | [La Bella Mafia](https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [FEELING](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [FEELING](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 |
 | 80 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 |
 
-Snapshot ID: `MCw1MjVmODc0MTI2Y2QzNjRhNGI4ZjMzMDFhMTllMWUyY2E1ZDk4ZjA5`
+Snapshot ID: `MCw1MDkzMTc3M2E0NTZjMThjNGJhOGI0NTBkYThiM2VhYWNmYjExMzk2`

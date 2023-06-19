@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-180 songs - 11 hr 0 min
+181 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2022-10-16 | 2023-01-11 |
 | [Day Dreaming](https://open.spotify.com/track/2JRLoT6z48Pfihyj1s1u77) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:31 | 2022-10-27 | 2022-11-13 |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-06 | 2023-04-29 |
+| [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 | 2023-06-15 |  |
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-19 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-01-10 | 2023-03-26 |
@@ -150,7 +151,7 @@
 | [The Will To Change](https://open.spotify.com/track/4cFcL2KdBYHJ5z57zcY4mx) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Best Kept Secret](https://open.spotify.com/album/6trMPOuRdh2cG8lnGaDICj) | 3:51 | 2022-10-16 | 2022-10-26 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-10-16 | 2023-01-11 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2022-10-16 | 2023-01-11 |
-| [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 | 2023-05-18 |  |
+| [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 | 2023-05-18 | 2023-06-19 |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-10-16 | 2023-02-24 |
 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 | 2022-10-16 | 2023-01-11 |
 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-12 | 2023-05-31 |

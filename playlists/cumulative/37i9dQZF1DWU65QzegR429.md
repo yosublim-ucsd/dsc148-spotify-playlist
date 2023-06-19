@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-162 songs - 8 hr 34 min
+163 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2022-02-18 | 2022-06-03 |
 | [Saque Otro Tema](https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Saque Otro Tema](https://open.spotify.com/album/07P3YTWehCjPYI571sbkew) | 2:51 | 2023-02-11 |  |
 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 | 2022-02-18 | 2022-06-03 |
+| [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 | 2023-06-16 |  |
 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2023-02-10 | 2023-06-18 |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-02-18 | 2022-06-03 |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-04-03 |  |
@@ -167,7 +168,7 @@
 | [Way Too Soft](https://open.spotify.com/track/6Ib54l6GmkSTONB4gVsCUS) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Way Too Soft](https://open.spotify.com/album/7qRBGwP4aLulh8xLDbb5ts) | 2:16 | 2022-02-18 | 2022-06-03 |
 | [When I Was Your Girl](https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [There's No Other Girl \(Live Session EP\)](https://open.spotify.com/album/65e8ENLi3NSZj5xooYNO1x) | 5:35 | 2022-02-18 | 2022-06-03 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-02-18 | 2022-06-03 |
-| [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 | 2023-02-27 |  |
+| [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 | 2023-02-27 | 2023-06-19 |
 | [Échale](https://open.spotify.com/track/3XISxkzbJUu5icSmQaCrcn) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Love and Lies](https://open.spotify.com/album/0HzJJJkcvpiEAaKfJQw2l2) | 3:16 | 2022-02-18 | 2022-06-03 |
 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 | 2022-06-02 | 2023-02-11 |
 

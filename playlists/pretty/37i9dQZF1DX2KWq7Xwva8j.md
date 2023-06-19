@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,122 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,133 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 15 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 16 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
 | 17 | [En Otro Lugar](https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [En Otro Lugar](https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx) | 2:58 |
-| 18 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
-| 19 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 18 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 19 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
 | 20 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
 | 21 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
 | 22 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 34 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
 | 35 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
 | 36 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
-| 37 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
-| 38 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
+| 37 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
+| 38 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 39 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
 | 40 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 41 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 | 50 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 |
 
-Snapshot ID: `MCxiYzZkZmRhMGI4ZmZmZmIyM2VjN2MxMDM3ZjBjOTMwZDkyZWMwYWY5`
+Snapshot ID: `MCw2OGIxZDFjMDkwZjk0ZGUxNzQ0OWVmN2U3NmYwOTc2MTNjYmM3Y2Rl`

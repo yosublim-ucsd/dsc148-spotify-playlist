@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,764 likes - 162 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,941 likes - 162 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 161 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
 | 162 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
 
-Snapshot ID: `MCxiOGRhOTc3NmFkNjcyYWJhZjEwNGY5MjQ0MjA3YzVkMjA0ZWNjNzAz`
+Snapshot ID: `MCxjNGMyM2I2MWMyMGZhNGE0MmRhMTcyZjQ5MWZmYjdhMTEzYTRkZTc1`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Kane Brown",
-  "num_followers": 444861,
+  "num_followers": 444901,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTVlMTY5NzAxNDhjYjc5NjJmNTBhYzkwOTdhYTQ0MGZiMGVlYzIw",
+  "snapshot_id": "MCw5NzY4MzU0NDUwMjhiN2Q5NGM2OGNmYTRkNGRhNzNmODIxYmNjNmY1",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -551,6 +551,22 @@
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Whiskey On You",
         "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Heart Like A Truck",
         "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -931,34 +947,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
       "artists": [
         {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Dear Alcohol",
-        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Dear Alcohol",
-      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
+      "duration_ms": 171333,
+      "name": "What\u2019s Your Country Song",
+      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "Dear Alcohol",
+        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
         }
       ],
-      "duration_ms": 171333,
-      "name": "What\u2019s Your Country Song",
-      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+      "duration_ms": 236307,
+      "name": "Dear Alcohol",
+      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Still That Kid",
         "url": "https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 169975,
       "name": "Grew Apart",
       "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Ride the Lightning (717 Tapes)",
         "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Cold Beer Calling My Name",
+        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Cold Beer Calling My Name",
+      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1391,26 +1411,6 @@
       "duration_ms": 167760,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Cold Beer Calling My Name",
-        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
-      },
-      "artists": [
-        {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Cold Beer Calling My Name",
-      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Party Mode",
-      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "New Truck",
-        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        },
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
         }
       ],
-      "duration_ms": 174360,
-      "name": "New Truck",
-      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
+      "duration_ms": 158320,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
     }
   ],
   "unique_name": "Country Favourites",

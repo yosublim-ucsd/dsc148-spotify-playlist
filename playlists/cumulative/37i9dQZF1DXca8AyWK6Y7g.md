@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,681 songs - 3 day 13 hr 27 min
+1,682 songs - 3 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2021-08-06 | 2022-03-26 |
 | [Ew](https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Ew](https://open.spotify.com/album/3Q4uaS3TVjQg4dsX0fn8F6) | 2:35 | 2022-02-04 | 2022-06-24 |
 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 | 2022-10-07 | 2023-01-28 |
-| [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-03 |  |
+| [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-03 | 2023-06-19 |
 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 | 2019-06-27 | 2020-04-18 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2022-10-29 |
 | [eyeroll](https://open.spotify.com/track/4PmIgAWDClzcK8e3wVPUaz) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [eyeroll](https://open.spotify.com/album/42ZCXqkaOueRzUDba5L0Tt) | 2:49 | 2019-08-17 | 2021-01-30 |
@@ -919,6 +919,7 @@
 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 | 2022-08-12 | 2022-08-27 |
 | [Love Song](https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Love Song](https://open.spotify.com/album/1Ar587sV7dgGcapzP1HOLU) | 2:44 | 2022-02-11 | 2022-03-11 |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-11-26 | 2022-07-16 |
+| [Love U For Fun](https://open.spotify.com/track/7r2rcwnsJE3qoHDrL0OsZt) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Love U For Fun](https://open.spotify.com/album/22spZNhqMRcAR50WmzeO8V) | 2:57 | 2023-06-16 |  |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-12-01 |
 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 | 2022-11-18 | 2023-06-03 |
 | [Loved By You](https://open.spotify.com/track/0QeRuiYwpG5eUpc9YnjvN3) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Loved by You](https://open.spotify.com/album/7lAepnXGznlptRpOq2baas) | 2:19 | 2019-05-26\* | 2021-03-18 |

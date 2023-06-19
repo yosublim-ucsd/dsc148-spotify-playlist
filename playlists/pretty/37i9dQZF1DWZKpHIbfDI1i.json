@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Michelle Maciel y Eden Mu\u00f1oz en portada.",
-  "num_followers": 575962,
+  "num_followers": 576271,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTk5NGE2YWZjZTc2N2JiOWQ0YmM0M2U1ZDdkMTZmMGIxMmMxMzQ4",
+  "snapshot_id": "MCwxYjdiMTkzMDQ4ZjNlOTQ5MWU4NDdjZGFjMGUwZWZlZTQ0MzM3NGU4",
   "tracks": [
     {
       "added_at": "2023-05-26 06:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Le Va Doler",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "Le Va Doler",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "Tronando Ligas",
         "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 155818,
       "name": "Tronando Ligas",
       "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Le Va Doler",
-        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "Le Va Doler",
-      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -851,8 +851,8 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -995,8 +995,8 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Forajido EP2",
-        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
       "artists": [
         {
@@ -1004,9 +1004,25 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 188676,
-      "name": "Cazzualidades",
-      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
+      "duration_ms": 151486,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Me Haces Tan Bien",
-        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Me Haces Tan Bien",
-      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Pedazo De Tonto",
         "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 159530,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Me Haces Tan Bien",
+        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Me Haces Tan Bien",
+      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "\u00bfCu\u00e1les Fronteras?",
         "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-05-26 06:00:00",

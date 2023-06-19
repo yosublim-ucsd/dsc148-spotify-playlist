@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 71554,
+  "num_followers": 71643,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjFhYzFhMTJiOTAyZjM0MDU2ZThhMjMzODE5N2MyOTQwMzgzY2M0",
+  "snapshot_id": "MCxjMGRjYTI2ZDY0OWQ4NDI3ODM2OTJkMGU2ZTYwN2RiYTUyMGI1YzJj",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:42",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Veriditas",
-        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Seeming",
-      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "S/T",
         "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 416333,
       "name": "They Move on Tracks of Never-Ending Light",
       "url": "https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Veriditas",
+        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Seeming",
+      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "G_d's Pee AT STATE'S END!",
-        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 358420,
-      "name": "Fire at Static Valley",
-      "url": "https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Mystik",
-        "url": "https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU"
+        "name": "G_d's Pee AT STATE'S END!",
+        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
       },
       "artists": [
         {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 146117,
-      "name": "Mystik",
-      "url": "https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB"
+      "duration_ms": 358420,
+      "name": "Fire at Static Valley",
+      "url": "https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -531,6 +515,22 @@
       "duration_ms": 187406,
       "name": "i meet myself, again",
       "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Mystik",
+        "url": "https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "duration_ms": 146117,
+      "name": "Mystik",
+      "url": "https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "G_d's Pee AT STATE'S END!",
         "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 390080,
       "name": "OUR SIDE HAS TO WIN (for D.H.)",
       "url": "https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Make We Here Our Camp of Winter",
         "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 243533,
       "name": "Shelter from the Rain",
       "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
-      },
-      "artists": [
-        {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
-        }
-      ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1287,34 +1287,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
       "artists": [
         {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
         }
       ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
+      },
+      "artists": [
+        {
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
-      },
-      "artists": [
-        {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1503,22 +1519,6 @@
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 265000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2023-01-27 16:27:42",

@@ -6,7 +6,7 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzM1OSxjZjk4NmE0OTRiYWNiZGI1OTdiZTA3ZTJlYjRlODZmYjgxNWQ2YTli",
+  "snapshot_id": "MzM4NSxmYTcwNjAzNzE5MWRhNzg1ODllMzZjMjkxNDllOGU3YzQzY2JkY2Y5",
   "tracks": [
     {
       "added_at": "2023-05-12 16:24:04",
@@ -25,20 +25,80 @@
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
-      "added_at": "2023-06-11 18:01:39",
+      "added_at": "2023-06-18 12:42:44",
       "album": {
-        "name": "Fake ID",
-        "url": "https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A"
+        "name": "All Of My Love",
+        "url": "https://open.spotify.com/album/5pdOSD5odJMAxVME43mpnm"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 267206,
+      "name": "All Of My Love",
+      "url": "https://open.spotify.com/track/7gtNdeQgBYPFJHadRxUfcd"
+    },
+    {
+      "added_at": "2023-06-18 12:42:41",
+      "album": {
+        "name": "Sims",
+        "url": "https://open.spotify.com/album/6hu1vcrEGoSbAQiuGcg0xa"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Sims",
+      "url": "https://open.spotify.com/track/0DI3gCOZlviCHHRDrd6umk"
+    },
+    {
+      "added_at": "2023-06-18 12:42:46",
+      "album": {
+        "name": "Off Week Special",
+        "url": "https://open.spotify.com/album/3nHqThiSPmbFfZUxQuTz2K"
       },
       "artists": [
         {
           "name": "Dot N Life",
           "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        },
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Fake ID",
-      "url": "https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn"
+      "duration_ms": 331875,
+      "name": "Roce",
+      "url": "https://open.spotify.com/track/68EdmTrrTvdUh1RP32OTsp"
+    },
+    {
+      "added_at": "2023-03-17 19:24:07",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
       "added_at": "2023-06-11 18:01:36",
@@ -77,22 +137,6 @@
       "url": "https://open.spotify.com/track/0FmkUMw1k0WuNPN3tQMIHd"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
-    },
-    {
       "added_at": "2023-05-28 13:09:41",
       "album": {
         "name": "Hot Stuff",
@@ -107,6 +151,42 @@
       "duration_ms": 152244,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
+    },
+    {
+      "added_at": "2023-06-18 12:42:50",
+      "album": {
+        "name": "Attracted",
+        "url": "https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Attracted",
+      "url": "https://open.spotify.com/track/6q2i1xuJRaqncz3x5gb18t"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
     },
     {
       "added_at": "2023-06-11 18:01:25",
@@ -161,10 +241,26 @@
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
+      "added_at": "2023-06-11 18:01:39",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+        "name": "Fake ID",
+        "url": "https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fake ID",
+      "url": "https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn"
+    },
+    {
+      "added_at": "2023-01-20 06:39:56",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
       },
       "artists": [
         {
@@ -172,9 +268,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
       "added_at": "2023-06-11 18:01:27",
@@ -191,26 +287,6 @@
       "duration_ms": 163034,
       "name": "Sex Drugs Cash",
       "url": "https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM"
-    },
-    {
-      "added_at": "2023-05-28 13:09:47",
-      "album": {
-        "name": "Hot Shit",
-        "url": "https://open.spotify.com/album/6lOlaHBaVZTrzK6mNYU7U4"
-      },
-      "artists": [
-        {
-          "name": "Omar Svenson",
-          "url": "https://open.spotify.com/artist/1VRbWYmP73QpIVoRUWTLLg"
-        },
-        {
-          "name": "Mareels",
-          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
-        }
-      ],
-      "duration_ms": 164688,
-      "name": "Hot Shit",
-      "url": "https://open.spotify.com/track/0vi0vTfQqpWyy90tOk4qyq"
     },
     {
       "added_at": "2023-06-11 18:01:31",
@@ -233,56 +309,24 @@
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
     },
     {
-      "added_at": "2023-05-21 14:29:25",
+      "added_at": "2023-06-18 12:45:27",
       "album": {
-        "name": "Groover EP",
-        "url": "https://open.spotify.com/album/50ELk1Nu00C6uaYIQI3Ec7"
+        "name": "You Talkin'",
+        "url": "https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY"
       },
       "artists": [
         {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
-        }
-      ],
-      "duration_ms": 194074,
-      "name": "Groover",
-      "url": "https://open.spotify.com/track/56JN3nXWk5vDidy4u0mIz1"
-    },
-    {
-      "added_at": "2023-05-28 13:10:05",
-      "album": {
-        "name": "Dum Dum",
-        "url": "https://open.spotify.com/album/5j4fMcmXTmmHwhau0rrh9I"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         },
         {
-          "name": "Lowderz",
-          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Dum Dum",
-      "url": "https://open.spotify.com/track/79UqmV70OHe4iJwWgzZY3j"
-    },
-    {
-      "added_at": "2023-01-20 06:39:56",
-      "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+      "duration_ms": 167598,
+      "name": "You Talkin'",
+      "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
     },
     {
       "added_at": "2023-06-11 18:02:01",
@@ -299,6 +343,22 @@
       "duration_ms": 196615,
       "name": "To The Top - Edit",
       "url": "https://open.spotify.com/track/13qBKLDd37ghQ9OgzgsSbE"
+    },
+    {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-05-28 13:10:08",
@@ -333,46 +393,6 @@
       "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
     },
     {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
-      "added_at": "2023-05-21 14:28:17",
-      "album": {
-        "name": "Body Shake",
-        "url": "https://open.spotify.com/album/59GcH5wN5kj61dPPWtE8cl"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "NightFunk",
-          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
-        },
-        {
-          "name": "EVEL!N",
-          "url": "https://open.spotify.com/artist/1pqFkN9ZxGGNAoqa8CmSCF"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Body Shake",
-      "url": "https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy"
-    },
-    {
       "added_at": "2023-06-11 18:02:05",
       "album": {
         "name": "I Wanna Rock EP",
@@ -403,22 +423,6 @@
       "duration_ms": 225602,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/30DlzqpYluEkK82ysCsWVH"
-    },
-    {
-      "added_at": "2023-05-21 14:30:01",
-      "album": {
-        "name": "Most Rappers / South London",
-        "url": "https://open.spotify.com/album/1ToXq7qOqjdVckbdqR9kcm"
-      },
-      "artists": [
-        {
-          "name": "Duarte",
-          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Most Rappers",
-      "url": "https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9"
     },
     {
       "added_at": "2022-07-15 16:45:56",
@@ -513,24 +517,24 @@
       "url": "https://open.spotify.com/track/55oAMcfhdm4tusQEkWXB2n"
     },
     {
-      "added_at": "2023-05-28 13:09:44",
+      "added_at": "2023-06-18 12:40:00",
       "album": {
-        "name": "See The Light",
-        "url": "https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi"
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
         }
       ],
-      "duration_ms": 308860,
-      "name": "See The Light (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     }
   ],
   "unique_name": "AGLF Playlist",

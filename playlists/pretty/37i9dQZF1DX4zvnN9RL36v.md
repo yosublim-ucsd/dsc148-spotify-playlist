@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,398 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,404 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 12 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
 | 13 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 14 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
-| 15 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 |
-| 16 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
+| 15 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
+| 16 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 |
 | 17 | [Don’t Like Her](https://open.spotify.com/track/5DZMjcAMca1rT2dD9dYdCg) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:17 |
 | 18 | [Greeting](https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C) | 3:25 |
 | 19 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 33 | [She Said \(With Kwon Jin Ah\)](https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:27 |
 | 34 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 |
 | 35 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 |
-| 36 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
-| 37 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
-| 38 | [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 |
+| 36 | [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 |
+| 37 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
+| 38 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
 | 39 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 |
 | 40 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
 | 41 | [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
 | 50 | [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 |
 
-Snapshot ID: `MCw3YzU2ZjgxNzI5YmE2MTBhMmNlNmYwYWY3ZjVhOGFkMDE5NjRiNjNi`
+Snapshot ID: `MCw2YTM3YjNiMmY2YTM2MzA2ZjM0MTkzYzhhOTZhMDU1ZWY5YzQ5NTRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Angela Torres, Yami Safdie, LUANA & Ingratax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,462 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,634 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Agradezco Haberme Equivocado](https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Agradezco Haberme Equivocado](https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa) | 2:57 |
 | 100 | [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 |
 
-Snapshot ID: `MCxjMTg3ZDNiNzY0MWIxNjAxM2RlMzlkODhkYWRlYmQyM2U5MDQzZmI4`
+Snapshot ID: `MCw1OWIwMmI5NWJiODk5MzI2OTZhMDkxYWRiNjdmNDk0OWU1YTJiYjBk`

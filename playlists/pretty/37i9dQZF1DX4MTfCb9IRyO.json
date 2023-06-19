@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 15785,
+  "num_followers": 15806,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNThjNzM4MjM5ODU2ZTE1ZDljYTQ3MTNmMWRiZjNkNDM2NWI0YjJk",
+  "snapshot_id": "MCw0MDBjZjhiY2MwOGY3Mjg3MDI3ZGVkYzFjZmU0YmU1NDU5ZDdkNzQ2",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Voodoo Woman",
-      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Johnny Winter",
         "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 232453,
       "name": "Mean Mistreater",
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Voodoo Woman",
+      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
     },
     {
       "added_at": "2020-05-03 08:57:28",

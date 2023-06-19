@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-653 songs - 1 day 15 hr 22 min
+654 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-20 | 2022-10-07 |
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
+| [是你.](https://open.spotify.com/track/3fiXwwPL7cUvD7BqkHdN0J) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [是你.](https://open.spotify.com/album/46mCiXY4QlWCV2q34BQlG9) | 1:35 | 2023-06-18 |  |
 | [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 | 2023-03-19 |
 | [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 |  |
 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 | 2023-06-05 |  |
@@ -602,7 +603,7 @@
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |
 | [續寫 \- 電視劇《一生一世》主題曲](https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [續寫 \(電視劇《一生一世》主題曲\)](https://open.spotify.com/album/5KkkO7JNoXMQdoNLn8wAEy) | 3:48 | 2021-09-30 | 2021-10-08 |
-| [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 | 2023-05-22 |  |
+| [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 | 2023-05-22 | 2023-06-19 |
 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 | 2022-12-02 |
 | [老張](https://open.spotify.com/track/08jNiT4cHNretoUfjZcHqm) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:39 | 2023-05-22 | 2023-05-27 |
 | [能不能和我留在台北\(陪我幾天\)](https://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [能不能和我留在台北 \( 陪我幾天 \)](https://open.spotify.com/album/1dJKc7tL64EpUoqEj2f0JB) | 4:03 | 2022-12-28 | 2023-01-19 |

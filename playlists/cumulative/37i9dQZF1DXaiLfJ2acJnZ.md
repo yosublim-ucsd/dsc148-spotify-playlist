@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-274 songs - 14 hr 19 min
+275 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 | 2023-05-09 |  |
 | [Beautiful](https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Beautiful](https://open.spotify.com/album/6XrF9flkOo2jQuCTXPitha) | 3:14 | 2021-11-25 | 2023-04-05 |
 | [Bed](https://open.spotify.com/track/1W1qyvqYpF3Bf1fCTX1GM6) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Bed](https://open.spotify.com/album/3tmqWAYHUQRwX7Xpg0588m) | 3:15 | 2021-11-25 | 2022-06-30 |
-| [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2023-01-06 |  |
+| [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 | 2023-06-16 |  |
+| [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2023-01-06 | 2023-06-19 |
 | [Better for Me](https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Better for Me](https://open.spotify.com/album/0CtWFpNS16zbK3C1wHDT4v) | 2:56 | 2022-01-14 | 2022-07-28 |
 | [Better Love](https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Better Love](https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42) | 2:42 | 2023-05-09 |  |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-19 |  |

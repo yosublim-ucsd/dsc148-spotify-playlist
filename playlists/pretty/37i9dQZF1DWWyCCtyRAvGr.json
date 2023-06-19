@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 152542,
+  "num_followers": 152615,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTdmYjYzZDQyYzkyNDQ2ZjhlMmU2Mzg0NTFhM2M4OTBhZDA3NWIx",
+  "snapshot_id": "MCw2ZTA2Yzg4MDM2ZGM4ZTI3N2UzMWY5NjkyYjU0MGRiOWRmZmM0M2I3",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Freedom Flight",
         "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Amogla Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 299973,
       "name": "Mean Blues",
       "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Savoy",
-        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Hung Down Head",
         "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189466,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Savoy",
+        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 214320,
       "name": "Dirt Road Blues - 2022 Remix",
       "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": "2023-04-28 16:37:16",

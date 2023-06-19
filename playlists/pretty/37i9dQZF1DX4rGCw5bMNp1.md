@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,862 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,900 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 44 | [Slow Down Baby](https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB) | [Lester Davenport](https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF) | [When The Blues Hit You](https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331) | 5:58 |
 | 45 | [Bad Avenue](https://open.spotify.com/track/6QVQ98K8JrqHfImepOeQ6L) | [Lefty Dizz](https://open.spotify.com/artist/7IfuL3VRS5L6fnVTY3UV7R) | [Ain't It Nice To Be Loved](https://open.spotify.com/album/4xw7nz7O6NK6NK04wkCRUN) | 8:35 |
 | 46 | [First Time I Met The Blues \- Single Version](https://open.spotify.com/track/2jgmBkJC0PhRWzn7X26WNZ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 2:20 |
-| 47 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
-| 48 | [Cut That Out](https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Blues Legend](https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ) | 2:51 |
+| 47 | [Cut That Out](https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Blues Legend](https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ) | 2:51 |
+| 48 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCw4ZjYyNWQyMWEwNDcwMTU2OTBlMGI0YzdmZmNkMWZjODJiODQ4NTE5`
+Snapshot ID: `MCw3Njc3NmMwMjk0YTc2NGFiMmZkM2RmNzQ0YTkyYjUzMDQ3ODY4NDc5`

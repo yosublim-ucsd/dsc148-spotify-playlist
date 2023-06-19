@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida",
-  "num_followers": 206720,
+  "num_followers": 206941,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhiN2M2OTdlODBhOTljMTMwM2E1MDQ3YmU3ZjUxZGI4NDU2OWU5",
+  "snapshot_id": "MCwzZjJlMTdiNzVkMGFlNTBhYjExMmI1NmUyMDVjMGNlYzg3ZWUyYjNh",
   "tracks": [
     {
       "added_at": "2023-06-14 15:06:17",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "Yo Prefer\u00ed Chambear",
+        "url": "https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 155245,
+      "name": "Yo Prefer\u00ed Chambear",
+      "url": "https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 146839,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194715,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194715,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 159978,
       "name": "La Oveja Negra",
       "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "Yo Prefer\u00ed Chambear",
-        "url": "https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 155245,
-      "name": "Yo Prefer\u00ed Chambear",
-      "url": "https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "A Lo Lejos Me Veran",
+      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "A Lo Lejos Me Veran",
-      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
+    },
+    {
+      "added_at": "2023-06-14 15:06:17",
+      "album": {
         "name": "Anillos",
         "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
       },
@@ -1551,34 +1567,18 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2023-06-14 15:06:17",
-      "album": {
-        "name": "Desde la Ra\u00edz",
-        "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 201205,
-      "name": "Fumando Mota",
-      "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
     },
     {
       "added_at": "2023-06-14 15:06:17",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-06-14 15:06:17",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+        "name": "Desde la Ra\u00edz",
+        "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
         }
       ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+      "duration_ms": 201205,
+      "name": "Fumando Mota",
+      "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
     },
     {
       "added_at": "2023-06-14 15:06:17",

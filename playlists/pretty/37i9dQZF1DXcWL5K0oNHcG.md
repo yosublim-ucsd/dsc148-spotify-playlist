@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,980 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,005 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Witchcraft](https://open.spotify.com/track/7snxlNRA6W6IAtHhcVP77k) | [Kendra Erika](https://open.spotify.com/artist/29YEIiGDj5agFJ2Bda2dkO) | [Witchcraft](https://open.spotify.com/album/1msOnvHrwoip5denlffx8C) | 4:13 |
 | 75 | [Osmosis Chapter Ii](https://open.spotify.com/track/3hIlZwM1hQ3vK840qjxNr2) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Osmosis Chapter Ii](https://open.spotify.com/album/0yDJyNCGV05aqK4zHHLbK0) | 3:00 |
 
-Snapshot ID: `MCw0Yzk2YmMyMjBhY2Q5NzU0NmI3MGU2OTAwNWVjYTVkOTMzYjFlMWIw`
+Snapshot ID: `MCwyMmEzN2M0ZTU0NzJiNGQzOTk4N2ZiZmZkZDU4NTE4ZjFiM2UxNTRm`

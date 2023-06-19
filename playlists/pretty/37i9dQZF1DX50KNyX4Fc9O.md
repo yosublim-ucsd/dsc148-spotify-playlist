@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Cat & Calmell
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,551 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,561 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [A Long Time Coming](https://open.spotify.com/track/5vN5SUauKK3Z4l4yOuvF9I) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [A Long Time Coming](https://open.spotify.com/album/39yUUVakSBSoqIWg2JTvbv) | 2:47 |
 | 99 | [GO](https://open.spotify.com/track/5LuMzEBhXsbQpsy6vNKbYQ) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [GO](https://open.spotify.com/album/6Z8kJRbiWBPx4rsVcznL11) | 3:08 |
 
-Snapshot ID: `MCwyZjhjMzFiNjQxMzJmNjk2NTZmMTY3YzkzZDg4NTY5NWU0NDFkMzNm`
+Snapshot ID: `MCwzYzE0ZjkyMDE1YWU0NDMxN2EzYmNjZTgzMDY3NjNlYjU1ODliYjU1`

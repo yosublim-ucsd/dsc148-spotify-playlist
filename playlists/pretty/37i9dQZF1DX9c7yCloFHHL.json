@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. ANNA on cover.",
-  "num_followers": 154233,
+  "num_followers": 154320,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWVlZDhkYzlmNWU2ZGI3MWUzNDJjNTYzNjg3ZWJkM2Q3N2I4NGU0",
+  "snapshot_id": "MCwwNTMwZmNjOWEwODdlNzI5NzYyMWJiNmI1NDhhMmU1ODBjY2IzOWUw",
   "tracks": [
     {
       "added_at": "2023-05-19 00:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -747,26 +763,6 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "everybody's gone home (florence slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+        "name": "everybody's gone home (florence slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
       "artists": [
         {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+      "duration_ms": 171072,
+      "name": "everybody's gone home (florence slowed version)",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Places (Rerecorded)",
+        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Places - Rerecorded",
+      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Places (Rerecorded)",
-        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Places - Rerecorded",
-      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Prologue for Seasons",
         "url": "https://open.spotify.com/album/39ov9C53QwlB6SE7yhPv57"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 217911,
       "name": "Tungsten - Science Of Sleeping Rework",
       "url": "https://open.spotify.com/track/5hraqI2YZBaRCljleFC3d4"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
-        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
-      },
-      "artists": [
-        {
-          "name": "kita kouhei",
-          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Kuware Uta - Intro",
-      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Constellation No. 3",
-        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 436714,
-      "name": "Constellation No. 3",
-      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/1LV5enjdiftT01ts1r6Ue0"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Constellation No. 3",
+        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 436714,
+      "name": "Constellation No. 3",
+      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
         "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "I See Miracles Everywhere",
-        "url": "https://open.spotify.com/album/01VIAuGGEFKMakwuTyNOoQ"
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 441013,
-      "name": "I See Miracles Everywhere",
-      "url": "https://open.spotify.com/track/6PYazhU8WHEsQLiBr4xUgt"
+      "duration_ms": 127766,
+      "name": "whateverness",
+      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 301189,
+      "name": "JUL",
+      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+        "name": "I See Miracles Everywhere",
+        "url": "https://open.spotify.com/album/01VIAuGGEFKMakwuTyNOoQ"
       },
       "artists": [
         {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 301189,
-      "name": "JUL",
-      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
+      "duration_ms": 441013,
+      "name": "I See Miracles Everywhere",
+      "url": "https://open.spotify.com/track/6PYazhU8WHEsQLiBr4xUgt"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Long Cool World",
-        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 316565,
-      "name": "The Nighthawks Are Out",
-      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Nutrition",
         "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Long Cool World",
+        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 316565,
+      "name": "The Nighthawks Are Out",
+      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
     },
     {
       "added_at": "2023-05-19 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,273 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,280 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 77 | [Admirador](https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Admirador](https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy) | 3:32 |
 | 78 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 79 | [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 |
-| 80 | [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 |
-| 81 | [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 |
+| 80 | [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 |
+| 81 | [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 |
 | 82 | [Blues de Mar](https://open.spotify.com/track/4AbfMpbRr5AfTspeJvXSqn) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Postales](https://open.spotify.com/album/7dyAMfOtDFmmjGCOMNJGQL) | 4:21 |
 | 83 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 |
 | 84 | [Desde Que Te Vi](https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:32 |
 | 85 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 | 86 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
-| 87 | [Inteligencia Emocional](https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:36 |
-| 88 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
+| 87 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
+| 88 | [Inteligencia Emocional](https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:36 |
 | 89 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 |
 | 90 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
 | 91 | [Te Dejé una Carta](https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 95 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 96 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 97 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
-| 98 | [Ya ni mis amigos me contestan](https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Ya ni mis amigos me contestan](https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b) | 3:15 |
-| 99 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
+| 98 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
+| 99 | [Ya ni mis amigos me contestan](https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Ya ni mis amigos me contestan](https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b) | 3:15 |
 | 100 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 
-Snapshot ID: `MCw2ZTE4NGVhZmVkYmZiNjUyZTJjZTViZmUwYmQxOGEyMjA1YzA0MzI1`
+Snapshot ID: `MCw1ZGYzZjY0ODg4YTQ0MTQ3YTIxYzJkNGVmMDM2NTI1ZmRkMzk1ZDAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,097 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,099 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 35 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 36 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
 | 37 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
-| 38 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 |
-| 39 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 |
+| 38 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 |
+| 39 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 |
 | 40 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
 | 41 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
-| 42 | [Tu Sonrisa](https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu) | [Dapuntobeat](https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs) | [Tu Sonrisa](https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn) | 5:48 |
-| 43 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
-| 44 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 |
-| 45 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
-| 46 | [Apogee](https://open.spotify.com/track/248gljA3jbg6szwlXz2x9g) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [The End of the Internet](https://open.spotify.com/album/0FpBxq1dr9IqU7aYvu9rg1) | 5:27 |
-| 47 | [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 |
-| 48 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
+| 42 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
+| 43 | [Tu Sonrisa](https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu) | [Dapuntobeat](https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs) | [Tu Sonrisa](https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn) | 5:48 |
+| 44 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
+| 45 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 |
+| 46 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
+| 47 | [Apogee](https://open.spotify.com/track/248gljA3jbg6szwlXz2x9g) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [The End of the Internet](https://open.spotify.com/album/0FpBxq1dr9IqU7aYvu9rg1) | 5:27 |
+| 48 | [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 |
 | 49 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 |
 | 50 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
 
-Snapshot ID: `MCw0ZmQwYmNlYWJkYjIwNDI4YjUwZDA3MDRiOGY3MGE1NTkxYjIzZWZh`
+Snapshot ID: `MCw0NmRhYzk2NTUxZWJhNTNmMGYxOGU5NWE5OGQxZDlhMTk3NmE4Mzdj`

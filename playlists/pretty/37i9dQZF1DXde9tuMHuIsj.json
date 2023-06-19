@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago",
-  "num_followers": 1526033,
+  "num_followers": 1526016,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjhmODBkYmRhODdmNmM4NTYxMDQyOTIxZWVhMTM0NmZmZGY3YjJj",
+  "snapshot_id": "MCwzMjkyNzBlZjlmZDRiNDFiYWY1MGVkZTY2MDAzZmI3NDg2YmJkNDNl",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Invicta",
-        "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
-      },
-      "artists": [
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Invicta",
-      "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "en guerra",
         "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
       },
@@ -991,38 +971,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "FERRAGAMO",
-        "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
+        "name": "Invicta",
+        "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 218785,
-      "name": "FERRAGAMO",
-      "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+      "duration_ms": 240300,
+      "name": "Invicta",
+      "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1043,6 +1007,42 @@
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 262722,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "FERRAGAMO",
+        "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 218785,
+      "name": "FERRAGAMO",
+      "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Trap Life",
-        "url": "https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Trap Life",
-      "url": "https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Trap Life",
+        "url": "https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Trap Life",
+      "url": "https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Un Cuarto",
         "url": "https://open.spotify.com/album/1FFuDe1T15U91jWt1jsWSO"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "El Fucking MVP",
         "url": "https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 180923,
       "name": "El Fucking MVP",
       "url": "https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 04:00:00",

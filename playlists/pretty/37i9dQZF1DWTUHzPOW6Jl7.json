@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 471532,
+  "num_followers": 472047,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc1MTY4MmZmYmFjMWVmZjE5NmM1MzM0YTA3ZTIwYTUwN2U1YTJm",
+  "snapshot_id": "MCxjNDcxYmY0MTkyNzMzZjliMTI0ZmMxYjMxNDU0ZTg5NjY5NWU2Mjgx",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -709,24 +709,20 @@
       "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
-      "added_at": "2022-08-25 12:17:17",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
       "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
         {
           "name": "Usher",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -745,20 +741,24 @@
       "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
+      "added_at": "2022-08-25 12:17:17",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
         {
           "name": "Usher",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1221,30 +1221,6 @@
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Float (feat. Seun Kuti & Egypt 80)",
-        "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
-        }
-      ],
-      "duration_ms": 242166,
-      "name": "Float (feat. Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Butterfly",
@@ -1295,6 +1271,30 @@
       "duration_ms": 185000,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/58oryymPZNdtS2z8Une6NJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Float (feat. Seun Kuti & Egypt 80)",
+        "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        }
+      ],
+      "duration_ms": 242166,
+      "name": "Float (feat. Seun Kuti & Egypt 80)",
+      "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
+    },
+    {
       "added_at": "2023-03-31 17:24:06",
       "album": {
         "name": "In Pieces",
@@ -1499,22 +1515,6 @@
       "duration_ms": 204832,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Body Do",
-        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 142809,
-      "name": "Body Do",
-      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
@@ -1663,6 +1647,46 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Ryan Foley",
+          "url": "https://open.spotify.com/artist/5zdR4t6J5pyMrtS1SQCzKH"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "One Minute Man (feat. Jay-Z) - Remix",
+      "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 172240,
       "name": "I'm Gonna Be Alright (feat. Nas)",
       "url": "https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Ryan Foley",
-          "url": "https://open.spotify.com/artist/5zdR4t6J5pyMrtS1SQCzKH"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "One Minute Man (feat. Jay-Z) - Remix",
-      "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
     },
     {
       "added_at": "2022-08-02 10:25:51",

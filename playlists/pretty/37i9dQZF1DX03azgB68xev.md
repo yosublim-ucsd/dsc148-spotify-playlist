@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,879 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,908 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 18 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
 | 19 | [Sunrise](https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Sunrise](https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv) | 3:28 |
 | 20 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 21 | [RELATE \(R3HAB Remix\)](https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [RELATE \(R3HAB Remix\)](https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI) | 2:46 |
+| 21 | [I Believe](https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side A](https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4) | 3:05 |
 | 22 | [Love Is Everything We Need](https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 2:37 |
-| 23 | [I Believe](https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side A](https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4) | 3:05 |
+| 23 | [RELATE \(R3HAB Remix\)](https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [RELATE \(R3HAB Remix\)](https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI) | 2:46 |
 | 24 | [Missing Piece](https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Missing Piece](https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0) | 3:13 |
 | 25 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 |
 | 26 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 33 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 |
 | 34 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 |
 | 35 | [Dwell in Your House](https://open.spotify.com/track/37bn3FT2zwGxXXTG0FHsse) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Dwell in Your House](https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7) | 4:38 |
-| 36 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 |
-| 37 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 |
+| 36 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 |
+| 37 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 |
 | 38 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
 | 39 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 40 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 75 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
 | 76 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 | 77 | [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 |
-| 78 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
-| 79 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
-| 80 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 |
+| 78 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 |
+| 79 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
+| 80 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
 
-Snapshot ID: `MCw3ZjA1ZDkwZDExNmYzN2YxMjhmOTc1ZDViMDM0OTVlODVmZDI3MjBm`
+Snapshot ID: `MCwzMWJkOGE5ZGUzZmUxZTEyOTA5ZjVhNzQ4NWY3NjNlZWZjOGU1ODgz`

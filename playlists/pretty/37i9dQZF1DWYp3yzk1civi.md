@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,588 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,598 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 4 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 5 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
 | 6 | [Before You Go \- Piano Version](https://open.spotify.com/track/7slfeXbuzr9RYXX6XS6Npi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go \(Piano Version\)](https://open.spotify.com/album/0UTqwkUezPRLYSF35rj6br) | 3:38 |
-| 7 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
+| 7 | [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 |
 | 8 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 |
 | 9 | [Don't Need Love \- Acoustic](https://open.spotify.com/track/7wXCmUm9LMYdhhRkHzxt4L) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love \(Acoustic\)](https://open.spotify.com/album/09CQ99uf0QifhmycPNQAhx) | 3:00 |
 | 10 | [Is It Just Me?](https://open.spotify.com/track/1o2E5CwlBWuVElc41EqOSU) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [My Town](https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX) | 3:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 50 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 |
 | 51 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 |
 
-Snapshot ID: `MCxkMDlmZjAyZWZhZTRhNGZhNjZhMWE4OGFkMDJhZWZhMmRlZTZjZWUz`
+Snapshot ID: `MCw0ZDRjZWJkMTg4MjBkNzUxYzJjZmQ1ZDhhYjZlOWY5YzUyZDhhMDlm`

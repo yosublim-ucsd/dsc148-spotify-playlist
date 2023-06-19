@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from The Drums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,543 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,545 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Everybody Just Wants To](https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Everybody Just Wants To](https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU) | 2:26 |
 | 100 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 
-Snapshot ID: `MCw4ZTdkNDMyY2U2OGEyNmEzN2NlMmMxZDgxYTUxNTU4OGJhMmI4YmJl`
+Snapshot ID: `MCw0Y2E2ZGRkM2UwMmNlYzA2YTI3YTVhYzQ3NTlkMDIyNWJhODRmMDg5`

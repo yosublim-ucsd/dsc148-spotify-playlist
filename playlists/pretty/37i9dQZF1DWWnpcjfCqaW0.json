@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 268736,
+  "num_followers": 268888,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRjYTAxMDE3NzhlYTJhM2FmMGQ0MGNjYjRiY2UzZTQxNDcyMjIy",
+  "snapshot_id": "MCwyNjk5ZGRkMDBmZjIwNTU1ZjY3ZGU3ZTNkNzIzZDM0N2FhMjNjMzBk",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Tennessee Stud - Remastered",
-      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
       "artists": [
         {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
+      "duration_ms": 185026,
+      "name": "Tennessee Stud - Remastered",
+      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
     }
   ],
   "unique_name": "50s Country",

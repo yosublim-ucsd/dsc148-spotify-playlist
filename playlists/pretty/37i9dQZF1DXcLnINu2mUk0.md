@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,666 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,704 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 68 | [I Own This](https://open.spotify.com/track/4s4ap06sE6JjOcXupz8qWg) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [ELEVEM](https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw) | 3:36 |
 | 69 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 70 | [Tá Doce](https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Tá Doce](https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc) | 3:24 |
-| 71 | [To My Favorite Ex](https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [To My Favorite Ex](https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58) | 3:06 |
-| 72 | [Envelope](https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [Prince do Pânico](https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI) | [Envelope](https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5) | 2:59 |
-| 73 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 |
-| 74 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
-| 75 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 |
+| 71 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
+| 72 | [To My Favorite Ex](https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [To My Favorite Ex](https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58) | 3:06 |
+| 73 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 74 | [Envelope](https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [Prince do Pânico](https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI) | [Envelope](https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5) | 2:59 |
+| 75 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 |
 
-Snapshot ID: `MCw0NmQ1MmE0ZDVjNTRmM2M4MmJiOTIzNTRlYzBjZjAzZTBkOTM4ZmZm`
+Snapshot ID: `MCwzY2YwMDNjMTI1OWI1NzNjNzE5NTYyOTdlOTUwNTk5MTVjMTlmNDlk`

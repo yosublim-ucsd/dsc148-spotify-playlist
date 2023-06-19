@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 58,392 likes - 145 songs - 9 hr 17 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 58,388 likes - 145 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 46 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 47 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 |
 | 48 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
-| 49 | [Last Chance To Dance \(Bad Friend\)](https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 |
+| 49 | [Last Chance to Dance \(Bad Friend\)](https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 |
 | 50 | [War Nerve](https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:53 |
 | 51 | [Football Season is Over](https://open.spotify.com/track/3nAmNBPglbB7vPqjxYqBDj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 1:55 |
 | 52 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 |

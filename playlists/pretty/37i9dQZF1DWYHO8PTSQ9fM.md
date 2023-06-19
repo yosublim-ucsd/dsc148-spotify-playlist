@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,971 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,421 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 7 | [Chouwafat](https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp) | 3:24 |
 | 8 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
 | 9 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
-| 10 | [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 |
-| 11 | [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 |
-| 12 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
-| 13 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
+| 10 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
+| 11 | [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 |
+| 12 | [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 |
+| 13 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
 | 14 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 |
 | 15 | [Lovini](https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES) | 3:09 |
 | 16 | [غبرتي عليا \- Cover libianca people \- 2023 \- nouveauté](https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [غبرتي عليا \(Cover libianca people \- 2023 \- nouveauté\)](https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
 | 50 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 |
 
-Snapshot ID: `MCw1OTRhMWIyMDg2YTUyODUxMTU4YmI0NDczNmMwZWYwZGYwMjJjZDA0`
+Snapshot ID: `MCxjMWQ0NzcxYzZiMWM3ZTUzYTg1ZWFjYjZkMTc5ZmMxZGM4N2VhMTZj`

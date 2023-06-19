@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: No Guidnce",
-  "num_followers": 121697,
+  "num_followers": 121746,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmIyNDZjNTY1ZWM0M2Y3YzRiZTA4ZGIxMWM0ZjM5ZWE1NGQ1M2Y4",
+  "snapshot_id": "MCwzN2ZmZDY4NTdhZTAzYTlmMDA4NWQ5Mjg4YzMzNjBhMDIwNTBkMjgw",
   "tracks": [
     {
       "added_at": "2023-06-05 23:44:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Caught Me Running",
-        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Caught Me Running",
-      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Since You've Been Gone",
-        "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 226112,
-      "name": "Since You've Been Gone",
-      "url": "https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "ON THE ROCKS",
         "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
       },
@@ -1051,6 +1031,22 @@
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "Endless No Mores - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 179238,
+      "name": "Endless No Mores - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
       "added_at": "2023-06-05 23:44:46",

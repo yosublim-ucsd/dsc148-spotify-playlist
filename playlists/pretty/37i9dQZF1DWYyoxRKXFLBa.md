@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Herbolaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,346 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,362 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 25 | [Corazón Delator](https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:20 |
 | 26 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 27 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
-| 28 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
-| 29 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 28 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 29 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
 | 30 | [No era para tanto](https://open.spotify.com/track/62m3GKHn5Q6d7Qnt6RBcSk) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [No era para tanto](https://open.spotify.com/album/5YbzZLp4ooWjIbgefT7CnM) | 3:51 |
 | 31 | [todo lo que pasa](https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [todo lo que pasa](https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU) | 3:42 |
 | 32 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
 | 33 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:34 |
 | 34 | [Stay in the Car](https://open.spotify.com/track/7koczHxYr1lXuMXNdOLPvT) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0eVcVsr64cQbiGAOVefybc) | 2:44 |
 | 35 | [Extrañar](https://open.spotify.com/track/192eUOSZQEjYPAsoZ1rY5m) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Extrañar](https://open.spotify.com/album/7vPZnP3n1kzkq5lrPXYh0B) | 3:17 |
-| 36 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
-| 37 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
+| 36 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
+| 37 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
 | 38 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 |
-| 39 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
-| 40 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 |
-| 41 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
+| 39 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
+| 40 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
+| 41 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 |
 | 42 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 |
 | 43 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |
 | 44 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 49 | [Niños furbito y niñas lo que sea](https://open.spotify.com/track/7JM2NCmPwdBldEWCJlzpUZ) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Niños furbito y niñas lo que sea](https://open.spotify.com/album/5O7QhTmi2g5f7Y91KmfO4L) | 2:24 |
 | 50 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
 | 51 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
-| 52 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
-| 53 | [Break!](https://open.spotify.com/track/333xDv6J2GJiNWtWphz0aw) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:53 |
-| 54 | [Nobody](https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:47 |
+| 52 | [Nobody](https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:47 |
+| 53 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
+| 54 | [Break!](https://open.spotify.com/track/333xDv6J2GJiNWtWphz0aw) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:53 |
 | 55 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 |
 | 56 | [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 |
 | 57 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 62 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
 | 63 | [Kill V\. Maim](https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Kill V\. Maim](https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6) | 4:14 |
 | 64 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
-| 65 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
-| 66 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
+| 65 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
+| 66 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
 | 67 | [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 |
 | 68 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 |
 | 69 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 72 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 73 | [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 |
 | 74 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 |
-| 75 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
+| 75 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
 
-Snapshot ID: `MCw4MGIwMDgyOGExZjIwZDAwZWJiM2FjMmFjNDk2ODQxMzZiNDhmNDJj`
+Snapshot ID: `MCw5NzNhYjQwMGQ5NjEyN2M5ODU1NzUxZTliM2ZkN2QzNzAwNjE4Nzgz`

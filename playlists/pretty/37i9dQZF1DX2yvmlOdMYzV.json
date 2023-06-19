@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 901068,
+  "num_followers": 901225,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTM2MTdlYjUzMGJhMjAwZTFjZDE4ZDg0NDQ4MzMxYTJhMmU2Zjkz",
+  "snapshot_id": "MCw3MjdmZTJiOTg1NjI4ODE3YTQzM2E0OTRiM2FiYmZkNDA2ZjVhMDU0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:02:35",
@@ -213,22 +213,6 @@
       "url": "https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS"
     },
     {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "only u",
-        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "only u",
-      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Thee Sacred Souls",
@@ -243,6 +227,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "added_at": "2023-05-05 06:06:11",
+      "album": {
+        "name": "only u",
+        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Shine",
@@ -419,6 +403,22 @@
       "duration_ms": 226118,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "Envious",
-      "url": "https://open.spotify.com/track/5QrhTxjhRFYqYjQeT0tqEa"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "PATTERNS",
@@ -599,6 +583,22 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Envious",
+      "url": "https://open.spotify.com/track/5QrhTxjhRFYqYjQeT0tqEa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "FORWARD",
@@ -779,6 +763,38 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -811,22 +827,6 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-05-12 05:38:48",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "A Brief Nirvana",
@@ -999,6 +983,22 @@
       "duration_ms": 284266,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Maybe",
@@ -1087,6 +1071,22 @@
       "duration_ms": 140898,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2023-05-05 06:06:11",
@@ -1137,20 +1137,20 @@
       "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-05-12 05:38:48",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
+        "name": "No Love Without You",
+        "url": "https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 204033,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
+      "duration_ms": 190329,
+      "name": "No Love Without You",
+      "url": "https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 204033,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
+    },
+    {
       "added_at": "2023-05-05 16:02:28",
       "album": {
         "name": "FORWARD",
@@ -1187,22 +1203,6 @@
       "duration_ms": 131173,
       "name": "THINK TWICE",
       "url": "https://open.spotify.com/track/0SjibUhSN9ozHhwAVpHMAg"
-    },
-    {
-      "added_at": "2023-05-12 05:38:48",
-      "album": {
-        "name": "No Love Without You",
-        "url": "https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 190329,
-      "name": "No Love Without You",
-      "url": "https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "WILLOW: Live At Electric Lady",
@@ -1299,6 +1283,22 @@
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 178793,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Outside",
@@ -1387,22 +1403,6 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
     },
     {
       "added_at": "2023-03-31 04:02:35",
@@ -1489,26 +1489,6 @@
       "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Closure Tapes",
-        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Jayla Darden",
-          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
-        }
-      ],
-      "duration_ms": 209385,
-      "name": "Lalala (feat. Jayla Darden)",
-      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Archives & Lullabies",
@@ -1545,24 +1525,56 @@
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
         }
       ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
+      "duration_ms": 155454,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Closure Tapes",
+        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
+        }
+      ],
+      "duration_ms": 209385,
+      "name": "Lalala (feat. Jayla Darden)",
+      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
+    },
+    {
+      "added_at": "2023-05-05 06:06:11",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 165177,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1581,36 +1593,24 @@
       "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Westside",
-        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
+        "name": "UNDERSTAND",
+        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
       },
       "artists": [
         {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
-    },
-    {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
-      },
-      "artists": [
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        },
         {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 165177,
-      "name": "lost a friend",
-      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+      "duration_ms": 243866,
+      "name": "UNDERSTAND (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
     },
     {
       "added_at": "2023-05-05 06:06:11",
@@ -1737,22 +1737,6 @@
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "TOP BOY",
@@ -1771,6 +1755,22 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     }
   ],
   "unique_name": "Lowkey",

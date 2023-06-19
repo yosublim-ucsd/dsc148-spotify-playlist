@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 81472,
+  "num_followers": 81593,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTVkMTA0YTJkODhlMmEzOGQ2NWNmYzE5MGI2OWQ2Y2NiYjU5NmJi",
+  "snapshot_id": "MCwxYzZjYmI5YTc4NTU0ZTg2YmQ2Njk1Y2M4OGYxYzQzMGM3YmU2YmFl",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -495,18 +495,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+        "name": "El Disco Que Me Gusta",
+        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         }
       ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+      "duration_ms": 225840,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -547,22 +551,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Disco Que Me Gusta",
-        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
       "artists": [
         {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2022-12-16 20:17:47",

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137359,
+  "num_followers": 137372,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzg1ZjgzMTcwZWQwNjFkYzE0YTZiZWM4NzE4YmMyZjMyZjQxNTNk",
+  "snapshot_id": "MCwyYTFhOTE0ZmQ0NmI4N2VhM2I3MmVlNGQ2YWIyMGEwNTVhYWNhZWEz",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2023-05-25 23:22:02",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -811,30 +811,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Better When You're Gone",
-        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Better When You're Gone",
-      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Rave de Favela (feat. BEAM)",
         "url": "https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 154153,
       "name": "Rave de Favela (feat. BEAM)",
       "url": "https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Better When You're Gone",
+        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Better When You're Gone",
+      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1067,26 +1067,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1111,26 +1107,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "The Best Of Armin Only",
         "url": "https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 215773,
       "name": "Great Spirit",
       "url": "https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "e-mail",
-        "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
-        }
-      ],
-      "duration_ms": 151587,
-      "name": "e-mail",
-      "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Shock (feat. Kabasaki)",
         "url": "https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 167113,
       "name": "Shock (feat. Kabasaki)",
       "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "e-mail",
+        "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "duration_ms": 151587,
+      "name": "e-mail",
+      "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
     },
     {
       "added_at": "2023-05-15 15:50:08",

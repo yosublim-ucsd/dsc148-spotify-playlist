@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 241226,
       "name": "Gee Baby, Ain't I Good To You",
       "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5"
+      },
+      "artists": [
+        {
+          "name": "Loft Trio",
+          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B"
+    },
+    {
+      "album": {
         "name": "I Will Never Forget You",
         "url": "https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX"
       },
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 207660,
       "name": "In A Valley By A Creek",
       "url": "https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0"
@@ -4504,7 +4522,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 187047,
       "name": "Left Lane",
       "url": "https://open.spotify.com/track/5yePqk2jekl7wU2dknFuGL"
@@ -5318,6 +5336,24 @@
       "duration_ms": 183871,
       "name": "Moon Side",
       "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
+    },
+    {
+      "album": {
+        "name": "Moonflower",
+        "url": "https://open.spotify.com/album/78b64x7dRmnKP7GpnHE8Su"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184889,
+      "name": "Moonflower",
+      "url": "https://open.spotify.com/track/3greL6Mj3t6woOW2M4Uz0i"
     },
     {
       "album": {
@@ -6330,6 +6366,24 @@
       "duration_ms": 360306,
       "name": "Porgy (I Loves You Porgy) - Outtake",
       "url": "https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb"
+    },
+    {
+      "album": {
+        "name": "Pot of gold",
+        "url": "https://open.spotify.com/album/7uXT61j09e3hcu2Ncm6mfq"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207473,
+      "name": "Pot of gold",
+      "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
     },
     {
       "album": {

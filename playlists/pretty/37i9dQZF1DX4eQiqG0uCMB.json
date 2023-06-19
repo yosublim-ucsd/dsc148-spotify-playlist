@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 19988,
+  "num_followers": 20023,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzkzNjQwYjAzNGQwNDc2MzliMTgwOGMxODkyMjA4MGNhMjBhYjg1",
+  "snapshot_id": "MCxmNmZlNzQ4OTM2YjZhMDViMzI1NDQ4Y2ExYTI2N2NkMTQ1ZGEzM2Qz",
   "tracks": [
     {
       "added_at": "2023-06-16 07:42:15",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-06-16 07:42:15",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-06-16 07:42:15",
-      "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
         "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": "2023-06-16 07:42:15",
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "added_at": "2023-06-16 07:42:15",
+      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -787,6 +787,58 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-06-16 07:42:15",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2023-06-16 07:42:15",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "added_at": "2023-06-16 07:42:15",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-06-16 07:42:15",
@@ -811,38 +863,6 @@
     {
       "added_at": "2023-06-16 07:42:15",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
-    },
-    {
-      "added_at": "2023-06-16 07:42:15",
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
-    },
-    {
-      "added_at": "2023-06-16 07:42:15",
-      "album": {
         "name": "Soak Garri",
         "url": "https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 211807,
       "name": "Soak Garri",
       "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
-    },
-    {
-      "added_at": "2023-06-16 07:42:15",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     }
   ],
   "unique_name": "Sound Semester ",

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 194753,
+  "num_followers": 194766,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2VhZDYzY2I2NWQ3NjY2NDJhMjA5YjhhMjBkZmRiMDU1YjgwZmY4",
+  "snapshot_id": "MCxhNGFkZTFmOTQ4NzFhM2EwYzYyZDdiNjJhMTkzZmM3N2FkN2RlNTZi",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "DOM SKA VETA",
+        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 195518,
+      "name": "Vi ska aldrig g\u00e5 hem",
+      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 153905,
       "name": "wait it out",
       "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "DOM SKA VETA",
-        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 195518,
-      "name": "Vi ska aldrig g\u00e5 hem",
-      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Nattbuss",
-        "url": "https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ"
-      },
-      "artists": [
-        {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
-        }
-      ],
-      "duration_ms": 206321,
-      "name": "Nattbuss",
-      "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Chasing (feat. NEIMY)",
         "url": "https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 148460,
       "name": "Chasing (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Nattbuss",
+        "url": "https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "duration_ms": 206321,
+      "name": "Nattbuss",
+      "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "White Ferrari",
-        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        },
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Gr\u00e5ter om du vill",
         "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 228453,
       "name": "Gr\u00e5ter om du vill",
       "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "White Ferrari",
+        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        },
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -955,22 +955,6 @@
       "duration_ms": 200016,
       "name": "Sun In Her Eyes",
       "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Okomplicerat",
-        "url": "https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk"
-      },
-      "artists": [
-        {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        }
-      ],
-      "duration_ms": 159609,
-      "name": "Okomplicerat",
-      "url": "https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Har du sett henne i bl\u00e5tt",
+        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Har du sett henne i bl\u00e5tt",
+      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -1031,34 +1031,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Har du sett henne i bl\u00e5tt",
-        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+        "name": "Okomplicerat",
+        "url": "https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk"
       },
       "artists": [
         {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
         }
       ],
-      "duration_ms": 201741,
-      "name": "Har du sett henne i bl\u00e5tt",
-      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
+      "duration_ms": 159609,
+      "name": "Okomplicerat",
+      "url": "https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
       "artists": [
         {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1131,6 +1111,26 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Horizon Inn",
-        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
-      },
-      "artists": [
-        {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
-        }
-      ],
-      "duration_ms": 227617,
-      "name": "H\u00e4ntextra",
-      "url": "https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Horizon Inn",
+        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "duration_ms": 227617,
+      "name": "H\u00e4ntextra",
+      "url": "https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Effort",
-        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 151947,
-      "name": "Effort",
-      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "I Feel It In The Wind",
         "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         }
       ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 180764,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Looking For Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+        "name": "Poetiska f\u00f6rs\u00f6k",
+        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Looking For Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
+      "duration_ms": 344013,
+      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
+      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1451,38 +1467,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Poetiska f\u00f6rs\u00f6k",
-        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
-      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Hatar att du l\u00e4t oss g\u00e5",
         "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 169178,
       "name": "Hatar att du l\u00e4t oss g\u00e5",
       "url": "https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Easy Go!",
+        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Easy Go!",
+      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1567,38 +1583,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Easy Go!",
-        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
-      },
-      "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Easy Go!",
-      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Kenneth",
-        "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 229088,
-      "name": "Kenneth",
-      "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 183391,
       "name": "Sover du sj\u00e4lv?",
       "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Kenneth",
+        "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 229088,
+      "name": "Kenneth",
+      "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Regnar",
-        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
+        "name": "Airforce blue",
+        "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
       "artists": [
         {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 132352,
-      "name": "Regnar",
-      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
+      "duration_ms": 168982,
+      "name": "Airforce blue",
+      "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
     }
   ],
   "unique_name": "Made in Sweden",

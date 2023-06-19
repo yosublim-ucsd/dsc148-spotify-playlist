@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 31 | [Ringing Bells](https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 3:49 |
 | 32 | [terminal paradise](https://open.spotify.com/track/1WBavEwIws3xdg7GVDUZWp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:59 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDBlNmNjNWNhYmZiN2ZkZmFiZGEwZjRiYzA2OWQ2YzNiOQ==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDAyYjVkYTRlYzEwNWQ3N2Q2Mjc1OWNmOGVjNmExNjU2YQ==`

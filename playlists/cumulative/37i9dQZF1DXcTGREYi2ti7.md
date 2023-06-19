@@ -4,7 +4,7 @@
 
 > A heart\-pumping, bass\-filled DJ mix from <a href="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
 
-38 songs - 1 hr 3 min
+39 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Stingray \- Mixed](https://open.spotify.com/track/5aFkA6AOQD9y1mlBXO7jCT) | [Killer Hertz](https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih) | [Stingray \(Mixed\)](https://open.spotify.com/album/5WnSFFkTflf7UbgFH5qAQd) | 1:35 | 2022-01-04 |  |
 | [Supernova \- Mixed](https://open.spotify.com/track/1aUPk2mC8lFPoI7g4Zr4Z9) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Supernova \(Mixed\)](https://open.spotify.com/album/7kJRTsrHrMkQRmK6wKiDDA) | 2:14 | 2022-01-04 |  |
 | [Take Me There \- Mixed](https://open.spotify.com/track/6KzVbH1VE07TNJKYWSBjJO) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Take Me There \(Mixed\)](https://open.spotify.com/album/4uFXv5E19JlCMUUdEVxkz8) | 1:28 | 2022-01-04 |  |
-| [Ultralight \- Mixed](https://open.spotify.com/track/0SkOnCaBn0tg8FRt5GRG87) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight \(Mixed\)](https://open.spotify.com/album/0p71KqRNVtZ7rzPi3rvQDS) | 1:26 | 2022-01-04 |  |
+| [Ultralight \- Mixed](https://open.spotify.com/track/0SkOnCaBn0tg8FRt5GRG87) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight \(Mixed\)](https://open.spotify.com/album/0p71KqRNVtZ7rzPi3rvQDS) | 1:26 | 2022-01-04 | 2023-06-19 |
+| [Ultralight \- Mixed](https://open.spotify.com/track/3yp1GmkmtAJEmHruqKgR9p) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight \(Mixed\)](https://open.spotify.com/album/6FqV3krisyj5OSqcoZIyZZ) | 1:26 | 2022-01-04 |  |
 | [Untouchable \- Mixed](https://open.spotify.com/track/7mAH6wEiH7kHmIfli7SpVh) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Untouchable \(Mixed\)](https://open.spotify.com/album/03otiFXFhZZ8yiXgbm0b2s) | 1:30 | 2022-01-04 |  |
 | [Work It \- Mixed](https://open.spotify.com/track/7ncJwpggvumOVPSFsLmkt7) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It \(Mixed\)](https://open.spotify.com/album/0SBTbwBCjeEtWxHuuIATSv) | 1:08 | 2022-01-04 |  |
 | [Worlds Collide \- Grafix Remix \- Mixed](https://open.spotify.com/track/1D7sOszmaJEpZOaPnziRTM) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Worlds Collide \- Grafix Remix \(Mixed\)](https://open.spotify.com/album/4Dil9i8Gpp5VWYIZKAs1eF) | 1:50 | 2022-01-04 |  |

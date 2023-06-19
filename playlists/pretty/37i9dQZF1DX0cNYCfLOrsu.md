@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,294 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,335 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 49 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 50 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
 | 51 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
-| 52 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
-| 53 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
+| 52 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
+| 53 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
 | 54 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
-| 55 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
+| 55 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 56 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
 | 57 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
 | 58 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
 | 75 | [Hands Up](https://open.spotify.com/track/2DqiAl1qCPnOkx6EHDt12R) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Hands Up](https://open.spotify.com/album/2ddLiPnq33pYj3V7Kfmo9u) | 2:17 |
 
-Snapshot ID: `MCxkOTU4ZWRhYTMyZjM2ODIzODNlMTllYjE1MDliN2NmZDkzNTA5YWEx`
+Snapshot ID: `MCxhYmUwZjIzNWE0YzlmMjRhNTM2ZmQzNjlmYjhjYmMzNjIxOGNjNDM0`

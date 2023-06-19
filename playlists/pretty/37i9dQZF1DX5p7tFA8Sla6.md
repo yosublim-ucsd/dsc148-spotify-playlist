@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,920 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,945 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 16 | [More Bounce to the Ounce](https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp](https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY) | 5:11 |
 | 17 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
 | 18 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 |
-| 19 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
-| 20 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 |
+| 19 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 |
+| 20 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
 | 21 | [Put a Little Love On Me](https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 4:29 |
 | 22 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 |
 | 23 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 65 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
 | 66 | [Take What You Need](https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:11 |
 | 67 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
-| 68 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
-| 69 | [This Funk \(Give Me a Hand\)](https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Third Wall Chronicles](https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ) | 3:40 |
+| 68 | [This Funk \(Give Me a Hand\)](https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Third Wall Chronicles](https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ) | 3:40 |
+| 69 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
 | 70 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
 | 71 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
 | 72 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCxhYzIwODc2OWMyOGFiZWU5M2NlYTE5YzMwYTgzNzUzNmYyNGE5M2Iz`
+Snapshot ID: `MCw1MDhmOWQ5Y2NmOTYxMWJhMDg4N2NmNDczNWY3NWNhYmZmNTUyNGMz`

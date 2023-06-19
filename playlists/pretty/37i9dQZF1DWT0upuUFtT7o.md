@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,661 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,699 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Dancin](https://open.spotify.com/track/3MkSlKE72nGIKLZjsMzY5t) | [backjarron](https://open.spotify.com/artist/2n4DIhfey4ypRQSIWbJohh) | [Lil cat ok](https://open.spotify.com/album/6gMuKBuGcaf7zfDdwJlXUu) | 3:52 |
 | 100 | [sierra](https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [sierra](https://open.spotify.com/album/2GRP5REBr7XdV9Tmj9IQ9C) | 3:18 |
 
-Snapshot ID: `MCw5OGIxNTA1MzMxZDUxMmE4ZmEwYTliMWEyYTA1NmNhODY1NTllMDc0`
+Snapshot ID: `MCw4YzNjNmUzOWYzOTkyNjYxYzQxYTIxODUxYmQ3NWJhZmY2MGY2ZTU0`

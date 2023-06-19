@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,217 likes - 106 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,242 likes - 106 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 105 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 106 | [Data Life](https://open.spotify.com/track/3S0TQDThtmSJJ8YQ5RZ7bU) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Data Life](https://open.spotify.com/album/1pXlpNUopjYKvGxrGBw8wZ) | 5:49 |
 
-Snapshot ID: `MCw1ZjRhZGYwZjI3YjUzYjQzOGU2NjgyZWRjYmMwMjU2ZTE0ZDdkNDAx`
+Snapshot ID: `MCxiNDNlZmQ3MGE0MzY1Y2U4YWUwNmRjYmQzMmFjNTdmOTRkYWQ3ZGY0`

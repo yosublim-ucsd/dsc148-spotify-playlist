@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,252 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,444 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 41 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 42 | [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 |
 | 43 | [Nobody's fault but mine](https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 2:39 |
-| 44 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/6e4zwnRMfwIbTZYDlz5A8A) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE) | 3:00 |
+| 44 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 3:00 |
 | 45 | [Nobody Else But Me](https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Nobody Else But Me](https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G) | 3:39 |
 | 46 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 47 | [Foreword](https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 6:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Nature Boy](https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ) | [Anne Bisson](https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF) | [Be My Lover](https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf) | 3:54 |
 | 50 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
 
-Snapshot ID: `MCw2ZDViMzY4YWE0N2FkZDNlYTNkMjgxMDBlZWRlOWVkYmY0MDQ1ZTU1`
+Snapshot ID: `MCwwNDFhNzhlN2VhZTI0NDU4MTk4MmI3Yzc4MWE3ZTQxZjc1NDk4Mzg0`

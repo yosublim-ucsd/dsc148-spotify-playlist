@@ -11934,7 +11934,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
@@ -18066,7 +18066,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
@@ -21951,6 +21951,24 @@
     },
     {
       "album": {
+        "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona (Instrumental)",
+        "url": "https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW"
+      },
+      "artists": [
+        {
+          "name": "Ze Pipa",
+          "url": "https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572760,
+      "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
+      "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"
+    },
+    {
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
@@ -23392,7 +23410,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"

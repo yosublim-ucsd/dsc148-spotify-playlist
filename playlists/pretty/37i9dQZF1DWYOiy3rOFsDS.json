@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 525355,
+  "num_followers": 525436,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2E3YWZlMGFhY2NiYzk2ZjBhOWM5NGE0YTI0ZDVhNmJlMTRhNTkz",
+  "snapshot_id": "MCwwNWQzNDVjNDM0YjY0NmE0M2EwNGY2Yjk3YzY4YjY1Mzg4MzczZjA3",
   "tracks": [
     {
       "added_at": "2023-06-09 16:27:37",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -751,26 +751,6 @@
       "duration_ms": 321323,
       "name": "A Que No Me Dejas",
       "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -863,6 +843,26 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "Mun Compilado (Vol. 2)",
         "url": "https://open.spotify.com/album/3kbsMZpw5hkNpcZNNXwlsA"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 237173,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/7CaUGvVqPENV2Lgp7ym86D"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Ome",
+        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 177248,
+      "name": "No Dejes de Quererme",
+      "url": "https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -903,22 +919,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Ome",
-        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 177248,
-      "name": "No Dejes de Quererme",
-      "url": "https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Qu\u00e9 Pecado",
-        "url": "https://open.spotify.com/album/47VeV0BY7It9sMX5jaOZBR"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 167313,
-      "name": "Qu\u00e9 Pecado",
-      "url": "https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Tal Vez, Quiz\u00e1",
         "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 233000,
       "name": "Secreto de Amor",
       "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Qu\u00e9 Pecado",
+        "url": "https://open.spotify.com/album/47VeV0BY7It9sMX5jaOZBR"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 167313,
+      "name": "Qu\u00e9 Pecado",
+      "url": "https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Homenaje A Las Grandes Canciones, Vol. II",
-        "url": "https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Propuesta",
-      "url": "https://open.spotify.com/track/0qHDXcOQlaLQ0lWPWpPdeH"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Homenaje A Las Grandes Canciones, Vol. II",
+        "url": "https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Propuesta",
+      "url": "https://open.spotify.com/track/0qHDXcOQlaLQ0lWPWpPdeH"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Frenesi (2016 Remaster)",
         "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 213213,
       "name": "Frenes\u00ed - 2016 Remaster",
       "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
-      },
-      "artists": [
-        {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
-      },
-      "artists": [
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
         "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 164813,
       "name": "Drume Negrita - En Vivo Desde Fonobox",
       "url": "https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Una Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
+      },
+      "artists": [
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Una Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
     }
   ],
   "unique_name": "Boleros Pop",

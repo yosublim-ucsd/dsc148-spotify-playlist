@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Amaal Mallik & Vayu's 'Mohabbat'
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,339 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,600 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Ghoomey \(From "8 A.M\. Metro"\)](https://open.spotify.com/track/6L6qRxj0uuxcUICSUiMRgl) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Manoj Juloori](https://open.spotify.com/artist/4RHf5dGYBz9vxjObYVsVJv) | [Ghoomey \(From "8 A.M\. Metro"\)](https://open.spotify.com/album/2vKxaqx2AeXSHeMtm69Kql) | 3:45 |
 | 50 | [HIIR](https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Kimera](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF) | [HIIR](https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ) | 2:43 |
 
-Snapshot ID: `MCw2ZTdhMDM3ZGU2MzgxNDE3MmZmZTM3ODNlMzMwNWViMTEyNWFjNWYw`
+Snapshot ID: `MCw4ZmNhMDU2NjA4NWUwOTkyYWMwNzQ3MWY0OWY4ZmViYjBhYzhkNjUw`

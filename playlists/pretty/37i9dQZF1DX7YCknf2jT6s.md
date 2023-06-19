@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,996 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,027 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 91 | [Weezy](https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Weezy](https://open.spotify.com/album/1JYqRJ8grwAazaCF5OmMcL) | 7:11 |
 | 92 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 |
 | 93 | [Back Meetings](https://open.spotify.com/track/1kEZTQQMBIo8ujXWdSLE2g) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [The Way It Is](https://open.spotify.com/album/2lWShcPbAJ7pPR0ucGOszK) | 5:57 |
-| 94 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/6e4zwnRMfwIbTZYDlz5A8A) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE) | 3:00 |
+| 94 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 3:00 |
 | 95 | [Dimu](https://open.spotify.com/track/1PL1Hrlgaew27DEjEwABLA) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Gift from the Trees](https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl) | 5:06 |
 | 96 | [Shine](https://open.spotify.com/track/17BIypK3xrWHGLPhY3sVMX) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 6:06 |
 | 97 | [Adesane \- Pachakuti Remix](https://open.spotify.com/track/11yW4QUMzfAJ9ox2AZzm5y) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Adesane \(Pachakuti Remix\)](https://open.spotify.com/album/5MlZIYCnLvJ3O7ISxJtM0O) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 | 100 | [Ghazal \- Trio Live](https://open.spotify.com/track/2J6Fzr2KCk3aTdEy7IrB7M) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [In The Before: Live at The Side Door](https://open.spotify.com/album/5SfAuw6EjGMGQr1K021Ae1) | 6:59 |
 
-Snapshot ID: `MCwzNDU4OTdlYjU1ZDNlNzkwOGQ4ZjgxNGI2NjU0OTgzMDkxYzYxZDNi`
+Snapshot ID: `MCwyZDEwMTBmMmU1Zjk5ODkzY2I5ZThkZTZkMDJhYjI2ZDlmNjY4YjM2`

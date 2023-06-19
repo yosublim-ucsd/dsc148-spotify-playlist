@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 8899,
+  "num_followers": 8902,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDFiZTNkZWFiYjE2MTIxZDZmNmUyYzNjZTlmMWQxYWE1MTIyNjkz",
+  "snapshot_id": "MCwxZGFkYjM5M2YzYjAzNGRiYzQ5ZDcxZWZkYjdkMWI1MDU0NDViYjkx",
   "tracks": [
     {
       "added_at": "2023-06-16 07:12:25",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "Bienvenue",
-        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bienvenue",
-      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Bienvenue",
+        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bienvenue",
+      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -899,30 +899,6 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "Blessings (feat. Wizkid & Gimba)",
-        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Gimba",
-          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
-        }
-      ],
-      "duration_ms": 196725,
-      "name": "Blessings (feat. Wizkid & Gimba)",
-      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -987,6 +987,22 @@
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Jah",
+        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "Jah",
+      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1067,42 +1083,6 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "Great Is He (Deluxe)",
-        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 227313,
-      "name": "Celebrate (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -1123,6 +1103,22 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1187,74 +1183,6 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "Kolo Kolo",
-        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 195135,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1283,6 +1211,78 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
+        "name": "Great Is He (Deluxe)",
+        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 227313,
+      "name": "Celebrate (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Kolo Kolo",
+        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 195135,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
         "name": "Atele",
         "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 166885,
       "name": "Atele",
       "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1327,22 +1343,22 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+      "duration_ms": 211293,
+      "name": "capture my soul (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1363,18 +1379,22 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
-        "name": "Jah",
-        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 147641,
-      "name": "Jah",
-      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1459,6 +1479,26 @@
     {
       "added_at": "2023-06-16 07:12:25",
       "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
+    },
+    {
+      "added_at": "2023-06-16 07:12:25",
+      "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
       },
@@ -1479,26 +1519,6 @@
       "duration_ms": 194819,
       "name": "Wena",
       "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "Knee Down",
-      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
       "added_at": "2023-06-16 07:12:25",
@@ -1551,26 +1571,6 @@
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": "2023-06-16 07:12:25",
-      "album": {
-        "name": "Bad Boy (feat. Mayorkun)",
-        "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Bad Boy (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
     }
   ],
   "unique_name": "Troski Rhythms",

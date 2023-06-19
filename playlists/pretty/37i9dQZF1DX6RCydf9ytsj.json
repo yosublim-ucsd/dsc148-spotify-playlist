@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 550596,
+  "num_followers": 550939,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWNkY2M3Y2FmMjdhMGMyNTJjNThlNjY5NmJmMmE1ZWNkYmM0OTFm",
+  "snapshot_id": "MCwxZjM0NDY2YjhkNjI2NmZmZTgwNjRhNDZhNTFhZjg1ZGJlMjk5ODIy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Forrest Gump - The Soundtrack",
         "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 148106,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1143,18 +1143,30 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 181426,
-      "name": "That's the Way Love Goes",
-      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1215,30 +1227,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 181426,
+      "name": "That's the Way Love Goes",
+      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Best Of Michael Martin Murphey",
-        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
       },
       "artists": [
         {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 171906,
-      "name": "What's Forever For?",
-      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1667,6 +1651,22 @@
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Best Of Michael Martin Murphey",
+        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
+      },
+      "artists": [
+        {
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+        }
+      ],
+      "duration_ms": 171906,
+      "name": "What's Forever For?",
+      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 208493,
       "name": "Redneck Girl",
       "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "The Best Of Terri Gibbs",
         "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 219946,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Finally!",
-        "url": "https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 206973,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 251600,
       "name": "Good Ole Boys Like Me - Single Version",
       "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Finally!",
+        "url": "https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 206973,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "My Kind Of Country",
-        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
+        "name": "Gene Watson's Greatest Hits",
+        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Somebody Should Leave",
-      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+      "duration_ms": 159506,
+      "name": "Fourteen Carat Mind",
+      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "My Kind Of Country",
+        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Somebody Should Leave",
+      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Smooth Sailin'",
         "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 190013,
       "name": "Do You Wanna Go To Heaven",
       "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Gene Watson's Greatest Hits",
-        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Fourteen Carat Mind",
-      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
     },
     {
       "added_at": "2023-02-10 03:06:22",

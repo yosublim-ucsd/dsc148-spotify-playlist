@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 132 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 132 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 67 | [I Wrote a Song for You](https://open.spotify.com/track/5OGMCaxXH6EeTbLhXbFilK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:45 |
 | 68 | [Nirvana](https://open.spotify.com/track/7eFbvtQ85FfJGMwft9V1AP) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 4:22 |
 | 69 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
-| 70 | [back to back](https://open.spotify.com/track/0DZC1MiUFjKMSnylbHlv8R) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:45 |
-| 71 | [happier](https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [happier](https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P) | 2:46 |
+| 70 | [happier](https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [happier](https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P) | 2:46 |
+| 71 | [back to back](https://open.spotify.com/track/0DZC1MiUFjKMSnylbHlv8R) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:45 |
 | 72 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
 | 73 | [Chasing Thunder](https://open.spotify.com/track/0mjSwNInyGTpiEcEaz1qqI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:43 |
 | 74 | [Loud](https://open.spotify.com/track/0NZxAq2XRdNq90UnYOwzoB) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:24 |
@@ -114,19 +114,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 104 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
 | 105 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
 | 106 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
-| 107 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 |
-| 108 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 |
+| 107 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 |
+| 108 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 |
 | 109 | [space](https://open.spotify.com/track/5Du0NkkagVusxBCoGxrXlH) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [PEER PLEASURE](https://open.spotify.com/album/3Y3bZRwpWNXt0tfpJ4kjm6) | 3:02 |
 | 110 | [i'm not doing well](https://open.spotify.com/track/3qCz4oHgdI2Kovr8VaQeZe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:14 |
 | 111 | [Shared Walls \(feat\. BRELAND\)](https://open.spotify.com/track/2ifqSgNUyKObO70UIorQ3z) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:48 |
 | 112 | [one drink away](https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one drink away](https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT) | 3:10 |
-| 113 | [Blue](https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [85% Proof](https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ) | 3:35 |
-| 114 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
+| 113 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
+| 114 | [Blue](https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [85% Proof](https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ) | 3:35 |
 | 115 | [Crying In Public](https://open.spotify.com/track/5Vqk0qGS6TIsymA93Nv5ob) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 4:00 |
 | 116 | [let love in](https://open.spotify.com/track/4mPuSd87gLkneDUVkZywi4) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:08 |
 | 117 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 |
-| 118 | [Crave \- Fabian Mazur Remix](https://open.spotify.com/track/6Z8t7Ppeawfh8xaLmJout5) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Crave](https://open.spotify.com/album/0seMOiABLUNHGJfK3S6Tzk) | 3:22 |
-| 119 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 118 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 119 | [Crave \- Fabian Mazur Remix](https://open.spotify.com/track/6Z8t7Ppeawfh8xaLmJout5) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Crave](https://open.spotify.com/album/0seMOiABLUNHGJfK3S6Tzk) | 3:22 |
 | 120 | [Crave](https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff) | 3:39 |
 | 121 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
 | 122 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 131 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 132 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgxMTYxMjAsMDAwMDAwMDA3ZWQ1ZjIxN2FlZTllMThkZDNhNTA4NDA0M2RmNTI3Zg==`
+Snapshot ID: `MjgxMTkwMDAsMDAwMDAwMDA3YjY4Y2Y4NTQzZjAyNDIxZTQyYzAzNTkzMGUwMzM5NA==`

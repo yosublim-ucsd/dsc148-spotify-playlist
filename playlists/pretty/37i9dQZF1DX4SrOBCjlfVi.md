@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Doja Cat and more\. Cover: YG & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,243 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,345 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [BACKSEAT](https://open.spotify.com/track/5JNGhSPsiuHyXmLVfDWbpf) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:35 |
 | 12 | [ARSENAL \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
 | 13 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
-| 14 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 |
-| 15 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 |
-| 16 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
-| 17 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
-| 18 | [DTF](https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DTF](https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga) | 2:18 |
-| 19 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
+| 14 | [Too Many Shots](https://open.spotify.com/track/06X0rs30RJPW8lKXCPWSpc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [See Ya](https://open.spotify.com/album/1QneW5vELH5DFkrvHGb9QL) | 2:23 |
+| 15 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 |
+| 16 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 |
+| 17 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
+| 18 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
+| 19 | [DTF](https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DTF](https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga) | 2:18 |
 | 20 | [Truth Is Freestyle](https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Truth Is Freestyle](https://open.spotify.com/album/4N5TqJ1xIxCf9J8uU0KOaS) | 2:46 |
 | 21 | [Had To Ask \(feat\. Babyface Ray\)](https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Had To Ask \(feat\. Babyface Ray\)](https://open.spotify.com/album/5pkRLJesMpChyAZd4iENYJ) | 2:36 |
 | 22 | [DEEP END \(feat\. Don Toliver\)](https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Before The Rap](https://open.spotify.com/track/4m4WOnPOVpPfqJoMzzR5Xw) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Taleban vs\. Dooda](https://open.spotify.com/album/6mNpkjIjgsVbR1MJqxaY4I) | 2:18 |
 | 50 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
 
-Snapshot ID: `MCw1MzhiMjc3Y2FkOTU5NjcxNzA4OGM3YzRlZWQ5MjE1OTgwNDQxYzI2`
+Snapshot ID: `MCxmZWNiMDcyNjBhOWVhNmFkMzcyYjkxNmNlNDI3MTA3MzIwNmRjYzM1`

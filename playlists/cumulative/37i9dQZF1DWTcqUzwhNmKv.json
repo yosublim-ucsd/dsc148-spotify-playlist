@@ -4418,6 +4418,24 @@
     {
       "album": {
         "name": "Never Dawn",
+        "url": "https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289346,
+      "name": "Never Dawn",
+      "url": "https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu"
+    },
+    {
+      "album": {
+        "name": "Never Dawn",
         "url": "https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo"
       },
       "artists": [
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 289346,
       "name": "Never Dawn",
       "url": "https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg"

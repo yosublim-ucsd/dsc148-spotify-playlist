@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 755,310 likes - 142 songs - 6 hr 52 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 755,358 likes - 142 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

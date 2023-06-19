@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,473 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,571 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 33 | [Holding Me Down](https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Do You Feel O.K?](https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X) | 3:29 |
 | 34 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 |
 | 35 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 |
-| 36 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
-| 37 | [Like a Shadow](https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:55 |
+| 36 | [Like a Shadow](https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:55 |
+| 37 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 38 | [Lyrics Lie](https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:56 |
 | 39 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 |
 | 40 | [Instability](https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:45 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 47 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
 | 48 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
 | 49 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 |
-| 50 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
-| 51 | [medicine](https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [medicine](https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu) | 3:47 |
+| 50 | [medicine](https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [medicine](https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu) | 3:47 |
+| 51 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
 | 52 | [Untouchable](https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 3:05 |
 | 53 | [Hypochondria](https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:49 |
 | 54 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 75 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 76 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
 | 77 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
-| 78 | [Our Song](https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:11 |
-| 79 | [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 |
-| 80 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 |
-| 81 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 |
+| 78 | [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 |
+| 79 | [Our Song](https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:11 |
+| 80 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 |
+| 81 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 |
 | 82 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
 | 83 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
 | 84 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 92 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 |
 | 93 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
 | 94 | [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 |
-| 95 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 |
+| 95 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 | 96 | [Takeover](https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 2:58 |
-| 97 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
+| 97 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 |
 | 98 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
-| 99 | [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 |
-| 100 | [Guttermilk](https://open.spotify.com/track/3haZ5EU3Byy3l2LXtIYvPZ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/4Qpfwpwuh5LYyJJSKIVKzx) | 1:29 |
+| 99 | [Guttermilk](https://open.spotify.com/track/3haZ5EU3Byy3l2LXtIYvPZ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/4Qpfwpwuh5LYyJJSKIVKzx) | 1:29 |
+| 100 | [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 |
 
-Snapshot ID: `MCw3YzlkN2I3MGY5NzFlMjRlMTFlZjNkM2YwNTIyY2VhN2VjNjBlYWUy`
+Snapshot ID: `MCxlZWM0OGQ0ZTY1MGNmZmY0NzdkODg5NmMxYWI4YTRlYzBlODUxNzRl`

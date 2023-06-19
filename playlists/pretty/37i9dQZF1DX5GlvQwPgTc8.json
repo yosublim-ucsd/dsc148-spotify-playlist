@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRjNTc0ZmYzZDc3MjE3ZDY4OTk2ODllMzFmMDVhMjY5MTY2YzBk",
+  "snapshot_id": "MCwyMDc2YmM3OGEyZjI3NjQ1NGFlNDc3MGI3MjI0MjQ4YjIzOTBlMzc2",
   "tracks": [
     {
       "added_at": "2019-03-25 10:58:27",
@@ -397,26 +397,6 @@
       "url": "https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7"
     },
     {
-      "added_at": "2020-04-13 08:30:11",
-      "album": {
-        "name": "Astronomia",
-        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Astronomia",
-      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
-    },
-    {
       "added_at": "2019-03-25 09:43:38",
       "album": {
         "name": "My Love",
@@ -435,6 +415,26 @@
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "added_at": "2020-04-13 08:30:11",
+      "album": {
+        "name": "Astronomia",
+        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Astronomia",
+      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
     },
     {
       "added_at": "2020-09-07 09:37:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2018-09-23 12:12:32",
       "album": {
+        "name": "THE NIGHTDAY",
+        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
+    },
+    {
+      "added_at": "2018-09-23 12:12:32",
+      "album": {
         "name": "L'amour toujours (feat. Delaney Jane) [Ti\u00ebsto Edit]",
         "url": "https://open.spotify.com/album/7xHel31VzvhY5VoPFCiq6g"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 162461,
       "name": "L'amour toujours (feat. Delaney Jane) - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/4UutBLYMby6whu2bMYh9Oa"
-    },
-    {
-      "added_at": "2018-09-23 12:12:32",
-      "album": {
-        "name": "THE NIGHTDAY",
-        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
     },
     {
       "added_at": "2018-12-03 10:26:01",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6ufrOaf4v6Qady6GiIpQ0s"
     },
     {
-      "added_at": "2018-11-14 12:55:10",
-      "album": {
-        "name": "Walking With Elephants",
-        "url": "https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj"
-      },
-      "artists": [
-        {
-          "name": "Ten Walls",
-          "url": "https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg"
-        }
-      ],
-      "duration_ms": 325520,
-      "name": "Walking with Elephants",
-      "url": "https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG"
-    },
-    {
       "added_at": "2019-02-08 05:28:19",
       "album": {
         "name": "Cola",
@@ -699,6 +683,22 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
+    },
+    {
+      "added_at": "2018-11-14 12:55:10",
+      "album": {
+        "name": "Walking With Elephants",
+        "url": "https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj"
+      },
+      "artists": [
+        {
+          "name": "Ten Walls",
+          "url": "https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg"
+        }
+      ],
+      "duration_ms": 325520,
+      "name": "Walking with Elephants",
+      "url": "https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG"
     },
     {
       "added_at": "2019-03-25 09:43:38",

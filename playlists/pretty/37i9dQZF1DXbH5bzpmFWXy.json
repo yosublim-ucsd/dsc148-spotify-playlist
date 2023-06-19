@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Chino Pacas en portada.",
-  "num_followers": 132884,
+  "num_followers": 132930,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWY1ZGI1MGVmNTUyNTdiNzVhYTNkMDBkZTQwY2IzZjRhMmU3ZGJi",
+  "snapshot_id": "MCwwMmI0N2Q4ZjcxNjY5OWEyNWMzNjUyMzkxNmE4OTIzOWExNjg4YWZh",
   "tracks": [
     {
       "added_at": "2023-06-09 06:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Don Ismael",
-        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158938,
-      "name": "Don Ismael",
-      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Don Ismael",
+        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158938,
+      "name": "Don Ismael",
+      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "El Rayo",
-        "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
-      },
-      "artists": [
-        {
-          "name": "Asael gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
-        }
-      ],
-      "duration_ms": 218058,
-      "name": "El Rayo",
-      "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "El Rayo",
+        "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
+      },
+      "artists": [
+        {
+          "name": "Asael gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
+        }
+      ],
+      "duration_ms": 218058,
+      "name": "El Rayo",
+      "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco (En Vivo)",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2023-06-09 06:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-06-09 06:00:00",
       "album": {
-        "name": "30 Blindadas",
-        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
-      },
-      "artists": [
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "30 Blindadas",
-      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
-    },
-    {
-      "added_at": "2023-06-09 06:00:00",
-      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf"
+    },
+    {
+      "added_at": "2023-06-09 06:00:00",
+      "album": {
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
     },
     {
       "added_at": "2023-06-09 06:00:00",

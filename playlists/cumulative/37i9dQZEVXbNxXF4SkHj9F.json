@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 176454,
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "url": "https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 176454,
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "url": "https://open.spotify.com/track/7miSbL2vUkrkkrRZf1jcmq"
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -3770,7 +3770,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 197930,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/5oaQsszgxYAdABuXoWEOUe"
@@ -7754,7 +7754,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -11462,7 +11462,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -17817,6 +17817,24 @@
     },
     {
       "album": {
+        "name": "Steal The Show (From \"Elemental\")",
+        "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191779,
+      "name": "Steal The Show - From \"Elemental\"",
+      "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
@@ -18772,6 +18790,24 @@
       "duration_ms": 144933,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "album": {

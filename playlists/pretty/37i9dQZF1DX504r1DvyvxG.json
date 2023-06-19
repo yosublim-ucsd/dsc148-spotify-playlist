@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2603798,
+  "num_followers": 2604194,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmYyN2QwMTlhNzAyY2Q0NTY5ZGFkMmZmZjdkNDEzMzExZTZlMWMz",
+  "snapshot_id": "MCw3YWY5Zjk2ZGI5OTE3YjgwODY1MDFmZDUxOTUyNjU2NGUxY2I5NmY0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Good Times! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Me & Magdalena",
-      "url": "https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Best of Faces: Good Boys When They're Asleep",
         "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 214960,
       "name": "Ooh La La - 2004 Remaster",
       "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Good Times! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Me & Magdalena",
+      "url": "https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Watchman's Gone",
-      "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 178973,
       "name": "San Francisco Days",
       "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Watchman's Gone",
+      "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/0Z1S7FjbZJ6OQ9hBo25dLa"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Gemma Hayes",
+          "url": "https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
+      "duration_ms": 245775,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV"
     }
   ],
   "unique_name": "Classic Acoustic",

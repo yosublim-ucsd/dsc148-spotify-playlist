@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,219 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 31 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
 | 32 | [I'm Gonna Stomp, Mr Henry Lee](https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf) | [Eddie Condon](https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS) | [Presenting Eddie Condon](https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC) | 3:37 |
 | 33 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
-| 34 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
-| 35 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
-| 36 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
-| 37 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
-| 38 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 34 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
+| 35 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
+| 36 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
+| 37 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 38 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 39 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 40 | [Royal Garden Blues](https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Dukes At Disneyland](https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB) | 6:02 |
 | 41 | [Bill Bailey, Won't You Please Come Home?](https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [The Al Hirt Collection](https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp) | 3:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 | 55 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 
-Snapshot ID: `MCw5Y2YxYzliYWM3ZTg5NDQxNmYyYzdhMjNiMGZjOGY3NGY1ZTYzYzIx`
+Snapshot ID: `MCxmMTJmZTI1YTg5ZTI0NzVjNGQxYWRhZTVhNzg5OGM0ZDM1NThlY2Rm`

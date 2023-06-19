@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 8629,
+  "num_followers": 8648,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWFlMjg5MGI4ZTc5NzZkMjE1ZDJkZGI4YTJmNzVhYzgzNzI0OTFh",
+  "snapshot_id": "MCw4MDI4NmVlNmEyZGQ5ZGZkNjM2Zjk4NzI3NTk1NTM2OWVjODE1ODA3",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Adentro de la Disco (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Adentro de la Disco (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "TU ME QUIERES?",
         "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Ghetto Kumb\u00e9",
         "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 255976,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -727,6 +727,26 @@
       "duration_ms": 163840,
       "name": "NI\u00d1XS ROTXS",
       "url": "https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Se Me Nota (Agarrame)",
+        "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Se Me Nota (Agarrame) - Prod by B-One",
+      "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1003,22 +1023,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Noches X Madrid",
-        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
-      },
-      "artists": [
-        {
-          "name": "Sara Deop",
-          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Noches X Madrid",
-      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Saque Otro Tema",
         "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
       },
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Yo Soy De PR",
-        "url": "https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5"
+        "name": "Noches X Madrid",
+        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
       },
       "artists": [
         {
-          "name": "Jey Blessing",
-          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
-        },
-        {
-          "name": "Los Fantastikos",
-          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+          "name": "Sara Deop",
+          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
         }
       ],
-      "duration_ms": 201393,
-      "name": "Yo Soy De PR",
-      "url": "https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW"
+      "duration_ms": 217480,
+      "name": "Noches X Madrid",
+      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
     }
   ],
   "unique_name": "Latin Frequency",

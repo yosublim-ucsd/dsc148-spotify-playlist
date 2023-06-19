@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,936 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,990 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 10 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 |
 | 11 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:21 |
 | 12 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
-| 13 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
+| 13 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
 | 14 | [Papi Chulo](https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 2:55 |
-| 15 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
+| 15 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
 | 16 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
 | 17 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
 | 18 | [Latigazo](https://open.spotify.com/track/3c5sB8wjUpxJKKDaRrdGAH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 2:31 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 54 | [Dónde Están las Girlas](https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:32 |
 | 55 | [Reggae Respect \- Live](https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Gran Omar](https://open.spotify.com/artist/0Fb7RqTb9p5NCJx5yOTKJe) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:13 |
 | 56 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
-| 57 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 |
-| 58 | [El Cubo de Leche](https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:54 |
+| 57 | [El Cubo de Leche](https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:54 |
+| 58 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 |
 | 59 | [EL Desorden](https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 3:53 |
 | 60 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
 | 61 | [Donde Mi No Vengas](https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Homerun\-es](https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0) | 1:58 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 68 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
 | 69 | [Persígueme](https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:41 |
 | 70 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
-| 71 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
-| 72 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
+| 71 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
+| 72 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 73 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 74 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MCxjMWQ4NmI3MDQzYmU3YmZjYWEzNzAzZDY1Yzg3MzE3Zjg1ZTM1Nzgz`
+Snapshot ID: `MCw1NWUwOGFjNWRiMDk4NmIwZjYwMTUzYjg5NDc5MjNiZTg1M2VlNjIz`

@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 417992,
+  "num_followers": 418570,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzE1ZmFiOTYxMmNmNjhkMjQ2MjVkNGJmNTFmMmM0YTdmNWJmMTE1",
+  "snapshot_id": "MCxjMmUyY2VhMTAzM2ZhYmMyMWI1ZjM0OGUyODRmZWZiMDU5YWQyMTJl",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
     },
     {
-      "added_at": "2023-05-25 19:23:09",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
-    },
-    {
       "added_at": "2023-03-11 00:52:02",
       "album": {
         "name": "Year of the Caprese",
@@ -579,6 +563,22 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "added_at": "2023-05-25 19:23:09",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
     },
     {
-      "added_at": "2023-05-25 19:23:09",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
       "added_at": "2023-05-19 09:56:37",
       "album": {
         "name": "Seventeen Going Under (Deluxe)",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2023-05-25 19:23:09",
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2023-05-25 19:23:09",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/1hzh9Hz7urXIxfH0WztWI2"
-    },
-    {
-      "added_at": "2023-05-25 19:23:09",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1363,6 +1347,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+    },
+    {
+      "added_at": "2023-05-25 19:23:09",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-05-25 19:23:09",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-25 19:23:09",
       "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
-    },
-    {
-      "added_at": "2023-05-25 19:23:09",
-      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 153697,
       "name": "2AM",
       "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
+    },
+    {
+      "added_at": "2023-05-25 19:23:09",
+      "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
     },
     {
       "added_at": "2023-05-19 09:56:37",

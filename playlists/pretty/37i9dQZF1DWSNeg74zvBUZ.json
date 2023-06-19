@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18805,
+  "num_followers": 18804,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzhmOTFlNTRlMTI5NjU0M2YzNGYwNzFhMDE4Yjk2ODA3ZWNlNGM1",
+  "snapshot_id": "MCwwNGIzZDliNjllMjE1OWExMjAyMjFiNDYyN2MzN2ZmMTc5YzRjZmI2",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 226876,
-      "name": "Sometimes He's In My Dreams",
-      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 226876,
+      "name": "Sometimes He's In My Dreams",
+      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Jardin au fou",
-        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
       },
       "artists": [
         {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Le jardin",
-      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     }
   ],
   "unique_name": "Morning First Light",

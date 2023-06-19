@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 196835,
       "name": "El Dinero No Me Cambia - En Vivo",
       "url": "https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS"
@@ -1264,6 +1264,28 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
+    },
+    {
+      "album": {
+        "name": "Los Chiquinarcos (En Vivo)",
+        "url": "https://open.spotify.com/album/5fzhrKGlhdhCUiXQgtOXUz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164778,
+      "name": "Los Chiquinarcos - En Vivo",
+      "url": "https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk"
     },
     {
       "album": {

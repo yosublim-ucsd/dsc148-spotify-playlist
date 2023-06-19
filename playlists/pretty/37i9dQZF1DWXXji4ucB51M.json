@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104910,
+  "num_followers": 104909,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmRhZjM5MThmNDRkOTc1ODlmODBkM2E5OTFhNTVkOWM1ODY2ODRk",
+  "snapshot_id": "MCwzMDg2YWM1MzVlNmYzZTkxY2Q5ODg1Y2NlMjViZmY5MDkxNDVlZmQ4",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -751,26 +751,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Eleven (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Eleven (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Eleven (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Eleven (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 179978,
-      "name": "Cuz I Love You",
-      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Qu\u00e9 Pena",
         "url": "https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 212711,
       "name": "Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/5099x34vBakWpGkHourFxP"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 179978,
+      "name": "Cuz I Love You",
+      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "ALL ABOUT LUV",
-        "url": "https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp"
-      },
-      "artists": [
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "SOMEONE'S SOMEONE",
-      "url": "https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "SHE IS COMING",
         "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 219080,
       "name": "Mother's Daughter",
       "url": "https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "ALL ABOUT LUV",
+        "url": "https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "SOMEONE'S SOMEONE",
+      "url": "https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27"
     },
     {
       "added_at": "2020-08-24 22:19:29",

@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 39523,
+  "num_followers": 39558,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzEwNDViNTJhMjZlMDI0OTBlNTEwMzhhYWNiMmY0NjA5ODExMTFi",
+  "snapshot_id": "MCwyYjk2ZDE2ZjlhZjcyYTZhYzA5NmI1MTgwMWE5NDU5ZjA4MjAzNGUy",
   "tracks": [
     {
       "added_at": "2023-06-16 22:14:39",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
-        "name": "Finch In The Pantry",
-        "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
       },
       "artists": [
         {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 231098,
-      "name": "Finch In The Pantry",
-      "url": "https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc"
+      "duration_ms": 202066,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -487,34 +487,18 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
+        "name": "Finch In The Pantry",
+        "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
       },
       "artists": [
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
-        "name": "Song of the Traveling Daughter (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
-      },
-      "artists": [
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Backstep Cindy / Purple Bamboo",
-      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
+      "duration_ms": 231098,
+      "name": "Finch In The Pantry",
+      "url": "https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -531,6 +515,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
+        "name": "Song of the Traveling Daughter (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Backstep Cindy / Purple Bamboo",
+      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
         "name": "The David Grisman Quintet",
         "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 220293,
       "name": "Blue Midnite",
       "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
         "name": "Skip, Hop And Wobble",
         "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 299973,
       "name": "Last One on the Line",
       "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
-        "name": "The Cold Hard Facts",
-        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Baltimore Johnny",
-      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
+        "name": "Updraft",
+        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
-        "name": "Updraft",
-        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 356561,
-      "name": "Updraft",
-      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
+        "name": "Foggy Mountain Breakdown",
+        "url": "https://open.spotify.com/album/2Lz1b6QOD61yIxO1kPvK8q"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Orange Blossom Special",
+      "url": "https://open.spotify.com/track/404VTir71DUTCZL85ic4dn"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 292614,
       "name": "Creatures of Havoc",
       "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
-        "name": "Foggy Mountain Breakdown",
-        "url": "https://open.spotify.com/album/2Lz1b6QOD61yIxO1kPvK8q"
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 176240,
-      "name": "Orange Blossom Special",
-      "url": "https://open.spotify.com/track/404VTir71DUTCZL85ic4dn"
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
       "added_at": "2023-06-16 22:14:39",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-06-16 22:14:39",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2023-06-16 22:14:39",
-      "album": {
         "name": "The Gasoline Brothers",
         "url": "https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
+    },
+    {
+      "added_at": "2023-06-16 22:14:39",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
     },
     {
       "added_at": "2023-06-16 22:14:39",

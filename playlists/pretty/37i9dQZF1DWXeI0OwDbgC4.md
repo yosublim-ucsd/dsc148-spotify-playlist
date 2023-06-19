@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,270 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 47 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 48 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 | 49 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
-| 50 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
+| 50 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 
-Snapshot ID: `MCxkNDk2ZmM1YjY4MGJhMzEzYjlkOWE5OTc0YzlmOTRkYjRiNjMzZTNk`
+Snapshot ID: `MCw4NGQxYWIzNzA5NjFmM2VmM2Y1Zjg0N2IzZGNmM2E4ZjZhYzU1MDJi`

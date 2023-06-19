@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
@@ -2522,6 +2522,24 @@
       "duration_ms": 197854,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ydpPcCGhQ4Ox3H0ly0WcX"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "album": {

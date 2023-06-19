@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 96384,
+  "num_followers": 96509,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWVkZTFhMGM2NTVkMWQyMmFjZmRiYmQzMWQzNTM5NzI4NGFhZDA4",
+  "snapshot_id": "MCw0M2JjZWU3MDdiNTA3NmI3ZWM4NmVmYjQzY2M0NWUyNjI0NDJmNTdk",
   "tracks": [
     {
       "added_at": "2023-06-16 16:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Nabi",
         "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 359586,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1383,6 +1363,22 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+      },
+      "artists": [
+        {
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
       "artists": [
         {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Single Malt",
-        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
-      },
-      "artists": [
-        {
-          "name": "TOSZ",
-          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Single Malt - Radio Edit",
-      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 190140,
       "name": "Your Love (feat. BLAME)",
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
+      },
+      "artists": [
+        {
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        },
+        {
+          "name": "Mr White",
+          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "You Rock Me - Long Version",
+      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
         "name": "When We On",
         "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 332820,
       "name": "Tropicololo",
       "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        },
-        {
-          "name": "Mr White",
-          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
-        }
-      ],
-      "duration_ms": 372640,
-      "name": "You Rock Me - Long Version",
-      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
     },
     {
       "added_at": "2023-06-16 16:00:00",

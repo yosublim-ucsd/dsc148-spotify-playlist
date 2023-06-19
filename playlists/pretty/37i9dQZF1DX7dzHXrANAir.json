@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 95184,
+  "num_followers": 95248,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjJmYTFlYWYyYmI3ZmIxZjA4YmIxYmY5NDBkNzY4NTVjNzY3MGM5",
+  "snapshot_id": "MCwzYWM1YzQ5ZTdlZmY5MTQ2OGJkOGZmOTAwZmNmOTE1ZDg5ZjFjOGQ4",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -759,34 +759,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Step Step Step",
-        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+        "name": "Orph\u00e9e",
+        "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         },
         {
-          "name": "Aisha Burns",
-          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Jason Treuting",
-          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+          "name": "The Dirac Quartet",
+          "url": "https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL"
         }
       ],
-      "duration_ms": 241390,
-      "name": "Step Step Step",
-      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
+      "duration_ms": 148600,
+      "name": "De Luce et Umbra",
+      "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -815,22 +803,34 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Orph\u00e9e",
-        "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
+        "name": "Step Step Step",
+        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
       },
       "artists": [
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         },
         {
-          "name": "The Dirac Quartet",
-          "url": "https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL"
+          "name": "Aisha Burns",
+          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Jason Treuting",
+          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
         }
       ],
-      "duration_ms": 148600,
-      "name": "De Luce et Umbra",
-      "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
+      "duration_ms": 241390,
+      "name": "Step Step Step",
+      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -919,6 +919,30 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "L(oo)ping",
+        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Ghosts - Looping",
+      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "In Memory Of A Honey Bee",
         "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
       },
@@ -995,6 +1019,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Traveller (Lambert rework)",
         "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
@@ -1011,22 +1051,6 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1139,22 +1163,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
-        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 151695,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Close To Her",
         "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
@@ -1167,6 +1175,22 @@
       "duration_ms": 209558,
       "name": "Close To Her",
       "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
+        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 151695,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1267,30 +1291,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "L(oo)ping",
-        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Ghosts - Looping",
-      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "We All Have Places That We Miss",
+        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 310000,
+      "name": "Remembered Words",
+      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1367,26 +1371,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "We All Have Places That We Miss",
-        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Remembered Words",
-      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Sleepless Wake",
         "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 222187,
       "name": "Sleepless Wake",
       "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+        "name": "Rameau, etc",
+        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
       },
       "artists": [
         {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+          "name": "PAVANE",
+          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
         }
       ],
-      "duration_ms": 290856,
-      "name": "River Oblivion",
-      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
+      "duration_ms": 245365,
+      "name": "Rameau, etc",
+      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Rameau, etc",
-        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
       },
       "artists": [
         {
-          "name": "PAVANE",
-          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 245365,
-      "name": "Rameau, etc",
-      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
+      "duration_ms": 290856,
+      "name": "River Oblivion",
+      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
     }
   ],
   "unique_name": "Classical X",

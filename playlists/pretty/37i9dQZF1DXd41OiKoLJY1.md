@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: KYLIX Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,706 likes - 74 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,718 likes - 74 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [We'll Make It](https://open.spotify.com/track/5BQkDSq0Ede8OXMiDFbAPW) | [Ruuu](https://open.spotify.com/artist/0h8CTim59fwR1EVwYl5TbX) | [PLASMA](https://open.spotify.com/album/6Y29nbRz6o8Pl1wgaYZYUG) | 3:30 |
 | 74 | [elle](https://open.spotify.com/track/5wAGQb2h5RMuERTx29onYV) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2), [maki!](https://open.spotify.com/artist/6HgKaNv80DxlvjhSMoerAJ) | [elle](https://open.spotify.com/album/249VL2pUGJW0pNwnFz0eUO) | 3:08 |
 
-Snapshot ID: `MCwwMTE1N2JmMzQ2YzEwYzBlZWI4OGI5ZDc4M2Q1YzE1YzFjYzY1OWYx`
+Snapshot ID: `MCxmOTg2MjAxMDUzYWM4YTMzYWZkZjk2YTNkNDcyYjJhM2FhZjlhY2Rh`

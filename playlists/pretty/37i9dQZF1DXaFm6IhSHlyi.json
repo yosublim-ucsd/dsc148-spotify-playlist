@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 139999,
+  "num_followers": 140021,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJlNDk4ZDNmMjUyY2QzNmIwZDlkZTQyMzczZTM3MTZjYjgyOTc2",
+  "snapshot_id": "MCw2ZTk1NzRmODVhYmRkOTkxODFkMDFhMTZhMWQxNTY0MWQ2OGRjNDQ2",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kahit Maputi Na Ang Buhok Ko",
+        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok Ko",
+      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/11mioDjgfPQDIAXUV47ZJl"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kahit Maputi Na Ang Buhok Ko",
-        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok Ko",
-      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "At My Worst (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Accetto Miracoli",
+        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "In Mezzo A Questo Inverno",
+      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
@@ -1383,18 +1419,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Accetto Miracoli",
-        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
         }
       ],
-      "duration_ms": 225386,
-      "name": "In Mezzo A Questo Inverno",
-      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+      "duration_ms": 202386,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1419,22 +1455,6 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1483,26 +1503,6 @@
       "duration_ms": 225733,
       "name": "Truth Is (Spanish Version)",
       "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "100 Days My Prince (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 232083,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Zina",
         "url": "https://open.spotify.com/album/4tOUBy2cTlm0bliEb6ZeiU"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 148085,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7nPK9IbFaBZ698nz8oy5BV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "100 Days My Prince (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 232083,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kezbi Wara Kezbi",
         "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 169748,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Tilak",
         "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1879,22 +1895,6 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 169748,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
-      },
-      "artists": [
-        {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
-        }
-      ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Don't forget me (Prod. ROCOBERRY)",
         "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 193047,
       "name": "Don't forget me (Prod. ROCOBERRY)",
       "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+      },
+      "artists": [
+        {
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+        }
+      ],
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2243,22 +2243,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Simula",
-        "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
       "artists": [
         {
-          "name": "Aicelle Santos",
-          "url": "https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp"
-        },
-        {
-          "name": "Christian Bautista",
-          "url": "https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ"
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
         }
       ],
-      "duration_ms": 265377,
-      "name": "Simula",
-      "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2279,18 +2275,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+        "name": "Simula",
+        "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
       "artists": [
         {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+          "name": "Aicelle Santos",
+          "url": "https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp"
+        },
+        {
+          "name": "Christian Bautista",
+          "url": "https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ"
         }
       ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+      "duration_ms": 265377,
+      "name": "Simula",
+      "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
     },
     {
       "added_at": "2022-10-17 15:00:00",

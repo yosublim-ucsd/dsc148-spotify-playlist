@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ADOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,692 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,753 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 76 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 77 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 |
 | 78 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
-| 79 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
-| 80 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 79 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 80 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
 | 81 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 |
 | 82 | [Bon Voyage](https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 2:09 |
 | 83 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 84 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 85 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
 | 86 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
-| 87 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
-| 88 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
+| 87 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
+| 88 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
 | 89 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
 | 90 | [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 |
 | 91 | [Desire](https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Desire](https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG) | 4:06 |
 | 92 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
-| 93 | [Have A Nice Dream](https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1rMO9zw1kCbPn93sfKpsPL) | 4:08 |
+| 93 | [Aphrodite](https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:53 |
 | 94 | [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/track/2a9JaEQU7TPIddkwidBRHS) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/album/6ha08B8cRRuhzUnM6pnsJY) | 3:53 |
-| 95 | [Fool](https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 3:16 |
-| 96 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
-| 97 | [Aphrodite](https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:53 |
+| 95 | [Have A Nice Dream](https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1rMO9zw1kCbPn93sfKpsPL) | 4:08 |
+| 96 | [Fool](https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 3:16 |
+| 97 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
 | 98 | [Dalam Nirvana](https://open.spotify.com/track/5bE7ej5pcyP2QBuKGLbHpp) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [POP SEBLAY](https://open.spotify.com/album/4QUd17mSKbu7lOHBcPtiCW) | 4:15 |
 | 99 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 |
 | 100 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 |
 
-Snapshot ID: `MCxiODEzNzUyZmNiZTVjNjIwYmU4M2VkNjI5NTY2ZmMyOTQ4MzVjOThm`
+Snapshot ID: `MCwwNTUwM2Y5Mjk5NjEwN2Q3YTdiZWQwZmQxMmIxNGU5OGNiN2U5NjA1`

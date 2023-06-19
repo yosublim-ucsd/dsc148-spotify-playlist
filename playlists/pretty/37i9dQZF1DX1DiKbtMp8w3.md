@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 32 | [Boowhal\(부활\) \- Stage Comment 5](https://open.spotify.com/track/0VgcmYTIyyeWDRS4jfbvKV) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:06 |
 | 33 | [젊은 그대](https://open.spotify.com/track/2aWPMTVKeDlNdOmqwVTOqC) | [Kim Soo Cheol](https://open.spotify.com/artist/1a53QOnOG1EJ6ppKrnM97t) | [젊은 그대](https://open.spotify.com/album/2MZywjUwxsoFJp0jb8vJcy) | 3:29 |
 | 34 | [Boowhal\(부활\) \- Stage Comment 6](https://open.spotify.com/track/4KD74zcYQGc4cm1bn2Gm6Q) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 3:19 |
-| 35 | [Never Ending Story](https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [20th Anniversary Live In 2005](https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0) | 4:11 |
+| 35 | [Never Ending Story \- Live](https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [20th Anniversary Live In 2005](https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0) | 4:11 |
 | 36 | [Boowhal\(부활\) \- Stage Comment 7](https://open.spotify.com/track/2MGdJKGEN9mireV7hudDDP) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:58 |
 | 37 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
 | 38 | [Boowhal\(부활\) \- Stage Comment 8](https://open.spotify.com/track/66c3C1YCJgma9P4DoengeQ) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:07 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCwyYzZkYmUxNWEyYmFkNzg4M2Q4MzcyNzliNzIyMGEyM2FhMDEyYTc0`
+Snapshot ID: `MCw4MDNkZDc5ZDYzY2RkZDk2Mzk5MjhmNTFmZDMwNmIyY2JiZmQ4OTcy`

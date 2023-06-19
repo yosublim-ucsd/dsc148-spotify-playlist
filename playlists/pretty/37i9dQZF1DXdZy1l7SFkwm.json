@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 34783,
+  "num_followers": 34804,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTNjYWY3MmMxNDIzM2M5NThlNzg0NDY2YTQwYmYzOThhZWIzNWFi",
+  "snapshot_id": "MCxhMDc1ODgyYmM2NjRiM2VmM2ZjMGRkODNkNzFiZGE3ZDg1M2ZjNjM2",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 153663,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     },
     {
       "added_at": "2021-03-15 16:04:53",

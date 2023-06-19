@@ -10480,7 +10480,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 164826,
       "name": "Na Contram\u00e3o",
       "url": "https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6"
@@ -12217,6 +12217,24 @@
     },
     {
       "album": {
+        "name": "Estava No Abismo Mas Dei Um Passo Em Frente",
+        "url": "https://open.spotify.com/album/7wLBlDCN5tEBpbhhHmLJ8J"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mafama",
+          "url": "https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170558,
+      "name": "Pre\u00e7o Certo",
+      "url": "https://open.spotify.com/track/4CSB7RdBx6Jc8BFFiRFE6K"
+    },
+    {
+      "album": {
         "name": "Primeiro Beck Ela Me Mamou",
         "url": "https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc"
       },
@@ -12980,7 +12998,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
@@ -16982,7 +17000,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

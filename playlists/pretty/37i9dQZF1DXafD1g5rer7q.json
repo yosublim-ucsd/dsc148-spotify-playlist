@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 353930,
+  "num_followers": 354100,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM3ZDljODNiZTg0Y2NiMDIyMjU0NWM4YWU5ZjQyZDU1MmQ1YTNk",
+  "snapshot_id": "MCw2OGJmOTg0NTY4MDRiMjczMGM4ZjY2ZjAzNmZhMWU3MzBkZTFkMTcx",
   "tracks": [
     {
       "added_at": "2023-06-01 16:22:38",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -855,26 +855,26 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
-        "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
-      "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -899,26 +899,26 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+        "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
+        "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
         },
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 160794,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
+      "duration_ms": 230400,
+      "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
+      "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
     },
     {
       "added_at": "2023-06-01 16:22:38",

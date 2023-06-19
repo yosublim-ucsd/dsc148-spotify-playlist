@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,238 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,335 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 69 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
 | 70 | [I'll Be Seeing You](https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy), [Gary Versace](https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Night Songs](https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx) | 7:23 |
 | 71 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
-| 72 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
-| 73 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
+| 72 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
+| 73 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
 | 74 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
 | 75 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
 | 76 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MCwxYjIyOGFiZmZhZDY5ZjI4NDAyZjUyNjRjMjc4YWM1MzNkN2FhOWU0`
+Snapshot ID: `MCwzMmNjOTU0ZGY5MWE5ZDg3NTEyNDUwMGJkNDEwMzYxM2RmN2UzZDQz`

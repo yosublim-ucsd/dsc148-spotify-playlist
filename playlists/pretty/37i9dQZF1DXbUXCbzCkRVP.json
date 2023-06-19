@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 33910,
+  "num_followers": 33973,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTcwYmMwNDZjMzE3ZmE1M2I0ZDUyODdmZjIyY2Y2YjViNGUzYjUy",
+  "snapshot_id": "MCw4ZjlmOTc0NzU0MjNlMTFjMTU4ZThmMDAxZWRmNzc3YWFlM2YzYjMx",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 279400,
       "name": "Rude Mood",
       "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 201000,
       "name": "Christo Redemptor",
       "url": "https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Sweet Emma",
-        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
-      },
-      "artists": [
-        {
-          "name": "Michael Reiss",
-          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
-        }
-      ],
-      "duration_ms": 341854,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Don't Be Late",
         "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 166436,
       "name": "Don't Be Late",
       "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "duration_ms": 341854,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Mile End ll",
         "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Io",
-        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
-      },
-      "artists": [
-        {
-          "name": "Daniel Arena",
-          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267506,
       "name": "End Of The Blues",
       "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 418493,
-      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
-      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 418493,
+      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
+      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Grind",
-        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 76339,
-      "name": "The Grind",
-      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "duration_ms": 76339,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Alone With Yourself",
         "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 233382,
       "name": "Alone With Yourself",
       "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1203,6 +1207,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 122924,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Gaslighter's Ball",
-        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 190956,
-      "name": "Gaslighter's Ball",
-      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     }
   ],
   "unique_name": "Instrumental Blues",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 452336,
+  "num_followers": 452849,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGRhYWY2M2I4OTY1ZmFhODg1ZTM1OTgwZWE3MTE4Y2E1OTgzNzZl",
+  "snapshot_id": "MCxlMWMxNDliZjgwZjVlMzk0ZjA4MzJjYjg5MDc4YjQyZTI5MzFmOTc3",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "Transforma(dor)",
+        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 143461,
+      "name": "Transforma(dor)",
+      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Transforma(dor)",
-        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 143461,
-      "name": "Transforma(dor)",
-      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
       "artists": [
         {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Dia Clarear",
-      "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2023-06-16 03:00:00",

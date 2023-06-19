@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,683 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,904 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 39 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
 | 40 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
 | 41 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
-| 42 | [Quiet On Set](https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:15 |
-| 43 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 |
+| 42 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 |
+| 43 | [Quiet On Set](https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:15 |
 | 44 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 |
 | 45 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 | 46 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 84 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 |
 | 85 | [Choose A Life](https://open.spotify.com/track/206aJvufLWSF3RRJJonlFl) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Choose A Life](https://open.spotify.com/album/17lK7ASdyllINtO0BczUs2) | 3:26 |
 | 86 | [Don't Be Scared \(feat\. Takura\)](https://open.spotify.com/track/530JUX50nrszQU6q5RiWSw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:58 |
-| 87 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 |
-| 88 | [Bricks in the Wall](https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 3:27 |
+| 87 | [Bricks in the Wall](https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 3:27 |
+| 88 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 |
 | 89 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 |
 | 90 | [Hardware](https://open.spotify.com/track/79pWgbXGSFEFOx2TGufW1b) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Hardware](https://open.spotify.com/album/4934ZfzaB5aofYYJHdxwaX) | 3:49 |
 | 91 | [Mama Used to Say](https://open.spotify.com/track/5nBxSUHByokFink81qOwbx) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Mama Used to Say](https://open.spotify.com/album/1gYQbg0itVL6DyE4zA7oox) | 2:56 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 | 104 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 
-Snapshot ID: `MCxiODMwZjcyNWU0OTYxNTE1NDNmZjU5ODU1ODRkMzQ1MjExZjEzMTQ1`
+Snapshot ID: `MCw0NTdmOTYxNDQwY2VjMDQ3MDVhZTY1ZjQ0NzMxMTEyNGRlOGE5MmNj`

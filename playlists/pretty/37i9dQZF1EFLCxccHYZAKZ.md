@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 2 | [Lost & Found](https://open.spotify.com/track/5QyY3GbsJAJZrZlVLTQpay) | [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Lost & Found](https://open.spotify.com/album/5k8zsDqh0j89tukIFccej6) | 3:02 |
 | 3 | [Lightweight](https://open.spotify.com/track/2JXm9aNPEjD3AIyFf30tN9) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Lightweight](https://open.spotify.com/album/0bP954c3tUo8kH4c3dpg0f) | 3:02 |
 | 4 | [Bother Me](https://open.spotify.com/track/08vsue6MN8pSTrroi4IhFx) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Bother Me](https://open.spotify.com/album/1iNpleGrkaShoSW2VLJt7C) | 3:03 |
-| 5 | [Golden](https://open.spotify.com/track/4uIvIbeGjaLRVjGtxbIUUL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Golden](https://open.spotify.com/album/6uNPQgkGoW0XMZ55YFU0FO) | 2:16 |
-| 6 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
+| 5 | [Juice](https://open.spotify.com/track/6y13QPTkGol87GyA7PpCWj) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX) | [Juice](https://open.spotify.com/album/4xRTNQq8Liur3aYrGNnh4B) | 2:18 |
+| 6 | [Golden](https://open.spotify.com/track/4uIvIbeGjaLRVjGtxbIUUL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Golden](https://open.spotify.com/album/6uNPQgkGoW0XMZ55YFU0FO) | 2:16 |
 | 7 | [Utan dig](https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01) | [Linus S](https://open.spotify.com/artist/6bUbaWCjpjUl7pBQ4FQKgF) | [Utan dig](https://open.spotify.com/album/64F9k0bd7Zf2b5k2yd7XzQ) | 3:12 |
 | 8 | [Sundown](https://open.spotify.com/track/2GcFA2lRvsiq83UnWMGGeB) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Sundown](https://open.spotify.com/album/68gDsH0JmcQJhzu7cTaLZf) | 2:33 |
 | 9 | [Who You Are \(feat\. Robin Vane\)](https://open.spotify.com/track/4wgFtDrCUzu2d333k4Yu7K) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Better With You](https://open.spotify.com/album/5IRhCZtMZgz3jATXM0YEdI) | 2:43 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `MjgxMTYxMTAsMDAwMDAwMDAxNTRkMjIyNDA1MTI3ZDAwNzNkMGNmMmU1OThiNmUxNw==`
+Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDAzZDlhNTA2YzZhNjM3MGU3NDAxYTgyODAzZGJjMjljNg==`

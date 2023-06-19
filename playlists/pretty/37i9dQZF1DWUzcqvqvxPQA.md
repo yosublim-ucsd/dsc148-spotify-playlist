@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,605 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,611 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 21 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
 | 22 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 | 23 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
-| 24 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 |
-| 25 | [Love With Your Life](https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:30 |
+| 24 | [Love With Your Life](https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:30 |
+| 25 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 |
 | 26 | [You Still Do](https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [You Still Do](https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc) | 3:51 |
 | 27 | [I’ll Give Thanks](https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [I’ll Give Thanks](https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo) | 3:52 |
 | 28 | [Faith](https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 64 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
 | 65 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
 | 66 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
-| 67 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
-| 68 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 67 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 68 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
 | 69 | [Heart Stops Beating](https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [20XX](https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK) | 4:04 |
 | 70 | [Never Have I Ever](https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Never Have I Ever](https://open.spotify.com/album/4DAI16o6397wZrDloQqLYT) | 3:05 |
 | 71 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 90 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
 | 91 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
 | 92 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
-| 93 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
-| 94 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 93 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 94 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 95 | [No Other Love](https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:27 |
 | 96 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |
 | 97 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [Don't Feel Like Fighting](https://open.spotify.com/track/6NRGJserD825yXhwnnZ6ql) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Don't Feel Like Fighting](https://open.spotify.com/album/2HKxfWkS6Yxk7RjcLWIHgx) | 3:03 |
 
-Snapshot ID: `MCxkNGQxNDc1OTk0YzllNDE4M2ExM2VlZDI1ZGE0ZWNiYmVkNjA1OWJl`
+Snapshot ID: `MCxjNWYwZjcwNjMwZDVmNjhlYzQxYTAwMDA5NGZhOWU5ZTNmNzNmYzc1`

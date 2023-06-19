@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-305 songs - 18 hr 35 min
+306 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 | 2021-10-26 |  |
 | [Joshua](https://open.spotify.com/track/1JIJohWX0twBQoxgliDsTS) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Joshua](https://open.spotify.com/album/5IrqNXGVxct1p0ZacZ9GWx) | 3:31 | 2021-10-26 | 2022-07-29 |
 | [Joshua](https://open.spotify.com/track/6O1frpBVWLSIg6tKpeL7oa) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Autumnal Sads](https://open.spotify.com/album/4hcAuhCTa0pgMdbSazbqPO) | 3:31 | 2022-10-28 | 2022-11-12 |
-| [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 | 2022-07-08 |  |
+| [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 | 2022-07-08 | 2023-06-19 |
 | [Just The Same](https://open.spotify.com/track/3ujyLkOjxjuxQT4mlDKug2) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Just The Same](https://open.spotify.com/album/55ZqVHRVgomLyKCk9xKTO9) | 3:25 | 2021-10-26 | 2022-07-29 |
 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 | 2022-09-30 |  |
 | [Just The Same](https://open.spotify.com/track/5hmjpbBTy8TxV9wDKifSub) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:25 | 2022-07-08 | 2022-10-14 |
@@ -165,6 +165,7 @@
 | [Lost Without You](https://open.spotify.com/track/7nenN69yGXnrlOrjQrZSSw) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Valentines Day Songs](https://open.spotify.com/album/1aWzafCfTTaW1913Y0I3w3) | 3:45 | 2022-10-28 | 2022-11-13 |
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-07-08 |  |
 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 | 2022-12-09 |  |
+| [Love Like This](https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/2NqU0KLx0Wp0dYZywmV55z) | 4:10 | 2023-02-10 |  |
 | [Love Like This](https://open.spotify.com/track/24Axpf2jGwlzCrddAEiLgl) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/1wykiv2riNxF4i3gfrz3qI) | 4:10 | 2022-07-08 | 2023-06-16 |
 | [Love Like This](https://open.spotify.com/track/2FCckttvtgRkQHkeWHer6J) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/4ZxgR8Pmmvdjy7J8fmTMLp) | 4:10 | 2021-10-26 | 2022-07-29 |
 | [Love On The Brain](https://open.spotify.com/track/26QRPeQOgmIGLCQKgoUJkG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn) | 3:44 | 2022-02-08 | 2022-07-29 |

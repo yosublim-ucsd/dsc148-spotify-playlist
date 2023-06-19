@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEslczDHKhX.md) - [plain]
 | 59 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 60 | [Thanksgiving Theme](https://open.spotify.com/track/3REwKZrXTWHQ01jEaYMVmz) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 2:02 |
 
-Snapshot ID: `MCxlM2VkMmUzMmUzMWVkOTFiOGE2NDc0Yjk0NmEwMjA4Mjk3NzA2ZjM2`
+Snapshot ID: `MCw4OGYxZGY4OWQ5ZWFkYjEyMDgzZDM4NmU0YzM5MmY4YmMwOWFkMGY2`

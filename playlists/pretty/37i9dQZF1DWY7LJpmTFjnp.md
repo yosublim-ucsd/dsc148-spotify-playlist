@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Los Bunkers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,305 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,555 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 90 | [¿Qué Pasó?](https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [¿Qué Pasó?](https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W) | 5:25 |
 | 91 | [A la luz de las farolas](https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [A la luz de las farolas / Tren a Marte](https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA) | 3:45 |
 | 92 | [El Santuario](https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L) | [El General Paz & La Triple Frontera](https://open.spotify.com/artist/2OXcnoIOjCGuv9WmCblxuB), [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [El Santuario](https://open.spotify.com/album/6MWOkdCIK6SNDqKQ8ouAqE) | 4:04 |
-| 93 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 |
-| 94 | [Instintos Animales](https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 4:26 |
-| 95 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
+| 93 | [Instintos Animales](https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 4:26 |
+| 94 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 |
+| 95 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
 | 96 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
 | 97 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
-| 98 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
+| 98 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 99 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
 | 100 | [Santa Lucía \- En directo 2023](https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Santa Lucía \(En directo 2023\)](https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj) | 4:19 |
 
-Snapshot ID: `MCxjNTllNjEwNThhOTY3MDAwMDhkNjFlNDg1ZWMyOWU3NTEyYWU2MWY4`
+Snapshot ID: `MCxhZDRkMmUzYjAxOWQxYTg5ZDU2OGY1NzM1YzliYjY0MzYwZjVmMzc0`

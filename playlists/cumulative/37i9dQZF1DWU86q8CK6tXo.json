@@ -5192,7 +5192,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 225882,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf"
@@ -8884,6 +8884,24 @@
       "duration_ms": 161800,
       "name": "Letters from the Imaginary",
       "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "album": {

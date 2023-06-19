@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-65 songs - 4 hr 21 min
+66 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 | 2022-05-24 | 2022-10-13 |
 | [Note To Self](https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq) | 2:17 | 2022-05-24 | 2022-11-13 |
 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2022-05-24 |  |
-| [NOVV](https://open.spotify.com/track/10o2dzZBBMl0XUSeXtLUTk) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 4:17 | 2022-05-24 |  |
+| [NOVV](https://open.spotify.com/track/10o2dzZBBMl0XUSeXtLUTk) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 4:17 | 2022-05-24 | 2023-06-19 |
+| [NOVV](https://open.spotify.com/track/4XMN5KHIaXHJ0LGdqHHJ8U) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe) | 4:17 | 2022-05-24 |  |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-05-24 |  |
 | [On A Mountain](https://open.spotify.com/track/72CvvI5icHY81VKG0EkNxR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [On A Mountain](https://open.spotify.com/album/6PWbRLIiW7ufDn07HxJQjI) | 3:06 | 2022-05-24 |  |
 | [Only My Honesty Matters](https://open.spotify.com/track/2ips2RYfSiOdfDQMctNXIb) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ), [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [B.E.D](https://open.spotify.com/album/0iej9ho9Aro520crqw0Lzf) | 2:31 | 2022-05-24 |  |

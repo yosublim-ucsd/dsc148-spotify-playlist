@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 7665,
+  "num_followers": 7689,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmQ1OGFjNDVkYjUxMjA1YmNjNjQ5NWViNDg2ZDgwM2YxODAxZWVl",
+  "snapshot_id": "MCwwYmMwZjNlNjZhNjUyNTcyOWQ2NjBhYjZhZmU4YWFkNmM2OTM4M2U0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -663,18 +663,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Steppers",
-        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
+        "name": "Just A Matter of Slime",
+        "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
       "artists": [
         {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Steppers",
-      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
+      "duration_ms": 186894,
+      "name": "Thugged Out (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -695,22 +699,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Just A Matter of Slime",
-        "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
+        "name": "Steppers",
+        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
       },
       "artists": [
         {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
         }
       ],
-      "duration_ms": 186894,
-      "name": "Thugged Out (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
+      "duration_ms": 150720,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
     },
     {
       "added_at": "2022-10-01 16:17:17",

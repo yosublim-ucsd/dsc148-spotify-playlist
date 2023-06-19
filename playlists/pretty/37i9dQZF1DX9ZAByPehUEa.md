@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,438 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,532 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 29 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
 | 30 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 |
 | 31 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 |
-| 32 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 |
-| 33 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
+| 32 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
+| 33 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 |
 | 34 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
 | 35 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:25 |
 | 36 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 50 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 
-Snapshot ID: `MCxjOWM3MTQyYWM2ZDY4ODlhZDBjYTNmMDczZWU5OTRlOWJkMzdlYmY5`
+Snapshot ID: `MCxlMzYyNGJkODEzZmIzMjNmYWNjOTI1ZjBiNTQ2MWQ2YTFiM2JlZDAy`

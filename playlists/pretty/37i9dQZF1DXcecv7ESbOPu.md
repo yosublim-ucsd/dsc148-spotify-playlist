@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,089 likes - 112 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,095 likes - 112 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 58 | [Run It Up](https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay) | 2:48 |
 | 59 | [Let Me Know \(feat.CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 |
 | 60 | [RAINBOW](https://open.spotify.com/track/0a64yxcRWyJ9mcJOe7fNTj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [RAINBOW](https://open.spotify.com/album/1UVIRXLksbAlXmV7Onih5h) | 3:33 |
-| 61 | [Kill My World](https://open.spotify.com/track/6g3Hlvp2psAKXLP1Qs1IAL) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [People Are A Foreign Country](https://open.spotify.com/album/1u09ErnIWlIRk9G3HD76gj) | 3:48 |
+| 61 | [Kill My World](https://open.spotify.com/track/6g3Hlvp2psAKXLP1Qs1IAL) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [People Are a Foreign Country](https://open.spotify.com/album/1u09ErnIWlIRk9G3HD76gj) | 3:48 |
 | 62 | [Die Without Letting You Know](https://open.spotify.com/track/6hwBEYqEf5pvWmO2jktwqd) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Die Without Letting You Know](https://open.spotify.com/album/2VPAeyAozkhKXIW3yP3tdP) | 2:54 |
 | 63 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 64 | [Du gör mig dum](https://open.spotify.com/track/6PexDvPwa8N0ilWlIcQ7YX) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Lilla Namo](https://open.spotify.com/artist/2DsNd8GBB1y1J0XMq0nT6s) | [Du gör mig dum](https://open.spotify.com/album/2kuRvhjPdUJ0u4ZJpRL2V1) | 2:59 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 111 | [House of Cards](https://open.spotify.com/track/4gcHA9Wg6sV5TqBY6fEO1D) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [House of Cards](https://open.spotify.com/album/2WuXHncpRmLuzv1PQwDG2h) | 2:55 |
 | 112 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCwwODhhZDM1MDlmOTA1ZWJjYjc5YTZjOGU1N2VlZWU2YzlhODdiNDA3`
+Snapshot ID: `MCw0YmFjNjEyYmQ0OWIwZTk1ODQ5YWM2ZmYzMWVlNTQ5YWE2ODZlYjkz`

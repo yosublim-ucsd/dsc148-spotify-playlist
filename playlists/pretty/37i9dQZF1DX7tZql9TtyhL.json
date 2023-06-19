@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 416795,
+  "num_followers": 416975,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWQxMjM0MDJjMTRlZWY3ZTMzMmY4MDM5MTc0ZjVhODYyNGNlNmQ4",
+  "snapshot_id": "MCxlYzJjNmY4MGFmNmU2M2UxMmQxOWU4ZTE4M2EyMmU0MDg1ZTNiOGY5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 221653,
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Me Llamas (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 210322,
       "name": "Me Llamas (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Hoje Eu Vou Parar Na Gaiola",
         "url": "https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 177093,
       "name": "Hoje Eu Vou Parar Na Gaiola",
       "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2022-08-05 16:22:41",

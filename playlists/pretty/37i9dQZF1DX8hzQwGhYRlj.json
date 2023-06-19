@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 31450,
+  "num_followers": 31471,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzkyZmY0Nzc2N2NhMGNlMzg1M2Q5MmU2NDA5MGI0ZGY5Nzk1YmI1",
+  "snapshot_id": "MCwwZmE0NzJmODRmODUyMWQ0MzNlOGY1MjIzYTYyNGZjZjJhZWEzMTQ1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 90800,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
+      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 472947,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
       "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 90800,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
-      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
-      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 381466,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
       "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
+      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Schumann: Piano Concerto in A Minor, Op. 54",
         "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -839,8 +839,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Peer Gynt - Incidental Music; Norwegian Dances; Bridal Procession: Classic Library Series",
-        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
       },
       "artists": [
         {
@@ -848,13 +848,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Bridal Procession, Op. 19 No. 2",
-      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
+      "duration_ms": 52560,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
+      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -887,8 +887,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+        "name": "Grieg: Peer Gynt - Incidental Music; Norwegian Dances; Bridal Procession: Classic Library Series",
+        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
       },
       "artists": [
         {
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
         }
       ],
-      "duration_ms": 52560,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
-      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
+      "duration_ms": 211400,
+      "name": "Bridal Procession, Op. 19 No. 2",
+      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
-      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 3: Symphony in C Minor - Old Norwegian Romance With Variations",
         "url": "https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 440133,
       "name": "Symphony in C Minor, EG 119: II. Adagio espressivo",
       "url": "https://open.spotify.com/track/5fcDG7g1ZyUfxJ6X9c0H2i"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
+      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
     },
     {
       "added_at": "2022-09-30 04:01:00",

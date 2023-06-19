@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-700 songs - 1 day 11 hr 17 min
+701 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Or.spu evladiyim](https://open.spotify.com/track/0Hez3aD78FVCD8KFbUFQRc) | [cakal](https://open.spotify.com/artist/2kRZib1bJl6T8HzgrHXclm), [Kahpe Evladı Reckol](https://open.spotify.com/artist/6CK9CeiivSZu1Zfoj9Unyf) | [Or.spu evladiyim](https://open.spotify.com/album/6yKr4nxB5yKVRGNXL1bept) | 2:38 | 2021-05-31 | 2021-06-01 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-13 |
+| [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 | 2023-06-18 |  |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Padişah](https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bu Devirde](https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt) | 3:52 | 2023-05-14 | 2023-05-31 |
 | [Padişahım](https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S) | 2:33 | 2023-05-11 | 2023-06-03 |
@@ -537,7 +538,7 @@
 | [Rastgele](https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Rastgele](https://open.spotify.com/album/45Ti9P9oHIllZ96q94v8s3) | 2:17 | 2022-06-18 | 2022-09-23 |
 | [Riv Riv Riv](https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7) | 2:01 | 2022-01-04 | 2022-06-08 |
 | [Riv Riv Riv](https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1e4961lFYN6lPIcXtyFQT2) | 2:01 | 2021-08-29 | 2022-01-05 |
-| [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-06-17 |  |
+| [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-06-17 | 2023-06-19 |
 | [Romeo Ve Juliet](https://open.spotify.com/track/7iNYcYatvXRzCoYqD2Wlgo) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Arzular Ve Gözyaşları](https://open.spotify.com/album/56nPlOJB1WNKNatRwj04ot) | 2:58 | 2021-04-20 | 2021-05-16 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-04-23 | 2022-04-28 |
 | [RUN RUN](https://open.spotify.com/track/52jqDrHbXT9nvE4GwlmViQ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:07 | 2022-09-10 | 2022-09-25 |

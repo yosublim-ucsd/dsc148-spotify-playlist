@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "All Of My Love",
+        "url": "https://open.spotify.com/album/5pdOSD5odJMAxVME43mpnm"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267206,
+      "name": "All Of My Love",
+      "url": "https://open.spotify.com/track/7gtNdeQgBYPFJHadRxUfcd"
+    },
+    {
+      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5"
       },
@@ -180,6 +206,28 @@
       "duration_ms": 154800,
       "name": "Annihilator",
       "url": "https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI"
+    },
+    {
+      "album": {
+        "name": "Attracted",
+        "url": "https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Attracted",
+      "url": "https://open.spotify.com/track/6q2i1xuJRaqncz3x5gb18t"
     },
     {
       "album": {
@@ -463,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/62yPsxxcVys0acKI9ZSVHM"
       },
@@ -500,7 +570,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 212736,
       "name": "Body Shake",
       "url": "https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy"
@@ -1040,7 +1110,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 185538,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/79UqmV70OHe4iJwWgzZY3j"
@@ -1574,7 +1644,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 194074,
       "name": "Groover",
       "url": "https://open.spotify.com/track/56JN3nXWk5vDidy4u0mIz1"
@@ -1658,7 +1728,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 164688,
       "name": "Hot Shit",
       "url": "https://open.spotify.com/track/0vi0vTfQqpWyy90tOk4qyq"
@@ -2344,7 +2414,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 180000,
       "name": "Most Rappers",
       "url": "https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9"
@@ -2703,6 +2773,28 @@
     },
     {
       "album": {
+        "name": "Off Week Special",
+        "url": "https://open.spotify.com/album/3nHqThiSPmbFfZUxQuTz2K"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        },
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331875,
+      "name": "Roce",
+      "url": "https://open.spotify.com/track/68EdmTrrTvdUh1RP32OTsp"
+    },
+    {
+      "album": {
         "name": "Wanna Dance EP",
         "url": "https://open.spotify.com/album/2fvC5Y9cNUXetWyiJQJjSp"
       },
@@ -2816,7 +2908,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 308860,
       "name": "See The Light (feat. Fridayy)",
       "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
@@ -2878,6 +2970,24 @@
       "duration_ms": 359998,
       "name": "Shoot the Shot",
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "album": {
+        "name": "Sims",
+        "url": "https://open.spotify.com/album/6hu1vcrEGoSbAQiuGcg0xa"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202204,
+      "name": "Sims",
+      "url": "https://open.spotify.com/track/0DI3gCOZlviCHHRDrd6umk"
     },
     {
       "album": {
@@ -3552,6 +3662,28 @@
       "duration_ms": 184687,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "album": {
+        "name": "You Talkin'",
+        "url": "https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167598,
+      "name": "You Talkin'",
+      "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
     },
     {
       "album": {

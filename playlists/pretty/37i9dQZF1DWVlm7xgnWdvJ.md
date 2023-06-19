@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,830 likes - 102 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,856 likes - 102 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 101 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 | 102 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 
-Snapshot ID: `MCwwYjIzNGNlOTRmZjQ5NTU1ZmE4YmVmZjRmNDhhNjY2OTgyMTFmYmU1`
+Snapshot ID: `MCw5ZmE4ZjQ3MmY0OGFjMDI1NGZiYWQ2YjYyMzZlOGRiM2ZjOGMwMjUy`

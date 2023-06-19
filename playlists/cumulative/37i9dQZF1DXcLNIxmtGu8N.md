@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-73 songs - 5 hr 50 min
+74 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hit the Floor](https://open.spotify.com/track/1exaZpUIfmgdBstO3DhAY8) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Hit the Floor](https://open.spotify.com/album/0PeJ3LjVw8IilrIQYBzN9Q) | 3:41 | 2022-01-29 | 2022-07-02 |
 | [I Hurd It's The Bomb](https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 10:09 | 2022-01-29 |  |
 | [I Want a Girl](https://open.spotify.com/track/7i5AGqf1MX97LzPQLjDbFT) | [TCB Bounce Beat Kings](https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3) | [I Want a Girl](https://open.spotify.com/album/2Af2bJBhc5GoZnc3K3PuSj) | 5:09 | 2022-01-29 |  |
-| [In My Bag](https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 4:43 | 2022-01-29 |  |
+| [In My Bag](https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 4:43 | 2022-01-29 | 2023-06-19 |
+| [In My Bag](https://open.spotify.com/track/0zv7qVhuh3R0lH25K9c2uS) | [ABM Slow Bounce Kingz](https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm) | [Lockdown The Streets](https://open.spotify.com/album/4aTGArMlHJeQRoyyIovg0Z) | 4:43 | 2022-01-29 |  |
 | [Jersey Anniversary \(Sample\)](https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Radio Killaz Vol.2](https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63) | 0:46 | 2022-07-01 |  |
 | [Keep It Gangsta](https://open.spotify.com/track/0gQxAFk2tBuJPMiP39VCnU) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 7:50 | 2022-01-29 |  |
 | [Lay It Down](https://open.spotify.com/track/3wyJydA4NYUVBzi3hZeUt5) | [Reaction Band](https://open.spotify.com/artist/67cjHiRC2gsQWs3G0KZRnE) | [Greatest Hits](https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj) | 6:00 | 2022-01-29 |  |

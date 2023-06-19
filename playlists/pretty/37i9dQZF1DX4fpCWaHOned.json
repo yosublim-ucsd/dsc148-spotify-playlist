@@ -1,12 +1,12 @@
 {
   "description": "You're on top of the world. Don't forget it.",
-  "num_followers": 3753254,
+  "num_followers": 3753248,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDlmNDUzYjExNTk3OTBjYmUwMzI1MDI0NGExZDcwYThiMGIyNDg0",
+  "snapshot_id": "MCwxZjZmN2E3OWJhNTFhMTBlN2I2MjNkN2RhNjRiYzMzNWU3OGJkZjIy",
   "tracks": [
     {
       "added_at": "2023-06-09 13:22:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-09 13:22:26",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
-    },
-    {
-      "added_at": "2023-06-09 13:22:26",
-      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-06-09 13:22:26",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
     },
     {
       "added_at": "2023-06-09 13:22:26",

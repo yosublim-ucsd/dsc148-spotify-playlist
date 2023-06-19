@@ -616,10 +616,28 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 283402,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN"
+    },
+    {
+      "album": {
+        "name": "Lockdown The Streets",
+        "url": "https://open.spotify.com/album/4aTGArMlHJeQRoyyIovg0Z"
+      },
+      "artists": [
+        {
+          "name": "ABM Slow Bounce Kingz",
+          "url": "https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283389,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/0zv7qVhuh3R0lH25K9c2uS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,314 songs - 5 day 12 hr 43 min
+2,319 songs - 5 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Ashes](https://open.spotify.com/track/0KnoUvqj6W5SsE6vqqyzqO) | [Olivoix](https://open.spotify.com/artist/5dkV7cKtTnT8ZWWKC0SOKR) | [GODDESS the EP](https://open.spotify.com/album/6r3U5CbZ0n6IdVQ5WTNm8g) | 4:15 | 2022-04-08 | 2022-04-24 |
 | [astroman](https://open.spotify.com/track/0VrdyHqdN8ybOgz64DMWKN) | [Zimri](https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW) | [astroman](https://open.spotify.com/album/3yIpwCXIrs6jM0BWhmbwMx) | 2:21 | 2022-03-13 | 2022-03-31 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2021-07-11 |  |
+| [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-17 |  |
 | [ATTICS](https://open.spotify.com/track/1teIYf42bX3jT3lpPn5KKd) | [Diana Bidea](https://open.spotify.com/artist/0jxlc4VvGS9CXhDgJRtXmW) | [ATTICS](https://open.spotify.com/album/1x7LWVx6wowoOFcbpImeEy) | 3:16 | 2023-04-13 | 2023-05-06 |
 | [Attitude](https://open.spotify.com/track/5Q1ehXqFNBfWbGDXIGw6Pv) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Attitude](https://open.spotify.com/album/6b2aFLcRgVfz0vImU7sASa) | 2:01 | 2021-10-12 | 2021-10-28 |
 | [August 12th](https://open.spotify.com/track/45EmPoTxkIXNve1jm7oRTE) | [Night Teacher](https://open.spotify.com/artist/5XboTqSD1RnWR5vkwsHxDt) | [Night Teacher](https://open.spotify.com/album/4EKTpwT5LQlRz4UQ7ULk8v) | 4:44 | 2020-10-08 | 2020-11-03 |
@@ -381,6 +382,7 @@
 | [Cause You \- Audiophant Remix](https://open.spotify.com/track/74Gwjdty1Xnk32JFelywKE) | [Kai Gilberg](https://open.spotify.com/artist/2ZbqKME5RJGEoQcYK18u0f), [Audiophant](https://open.spotify.com/artist/3Snq7H5Np406AwJFCJcz6s) | [Cause You \(AudioPHANT RMX\)](https://open.spotify.com/album/30yabqVjDvEyMaZXvN04rt) | 3:10 | 2021-09-24 | 2021-10-09 |
 | [Caution](https://open.spotify.com/track/3vqkBNC9VJu23WhOAOIUio) | [Ethan Russell](https://open.spotify.com/artist/3MoGNeiVaOJvJSUzUsyKtc) | [It's Been Rough](https://open.spotify.com/album/0UCgT2KUhcpwaYMQe4YVk9) | 3:04 | 2023-05-26 | 2023-06-17 |
 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 | 2020-08-20 | 2023-02-12 |
+| [Celebrate](https://open.spotify.com/track/1FK8IoeJXZs9nhd1581l4i) | [Alan J](https://open.spotify.com/artist/4iVIoFwLhcfhtW4kaWLOf6) | [Celebrate](https://open.spotify.com/album/4KhbVWJJ9U8A4Vg9EzPBOM) | 3:18 | 2023-06-17 |  |
 | [Celestials](https://open.spotify.com/track/5DibC4NHEYNdk2SuFYy3j8) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [Celestials](https://open.spotify.com/album/1oWIABkbDlEJZLBSEUdCyi) | 3:05 | 2019-12-15 | 2019-12-27 |
 | [Centerfold \(Cory Enemy Remix\)](https://open.spotify.com/track/3sQxuF2rSIXkLpTm4zu101) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [Cory Enemy](https://open.spotify.com/artist/4dJlBSxhy0VNbtPt5qsFHO) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 2:32 | 2020-07-21 | 2020-08-02 |
 | [Certain Father](https://open.spotify.com/track/0IQiU1lqQwlCLlb0cnB2WS) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq), [Spencer Krug](https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG) | [Repeat / After This / Certain Father / Hold](https://open.spotify.com/album/4s0wI4QnRMp8L2CV3jfeEW) | 3:10 | 2023-02-03 | 2023-02-25 |
@@ -627,6 +629,7 @@
 | [Enough For Love](https://open.spotify.com/track/6TNhpscT5qcwIgXDm6TvFe) | [Shavvon Lin](https://open.spotify.com/artist/4Loka7w9615ZLjtSgYX314) | [Enough For Love](https://open.spotify.com/album/6z9jRf7rRR6O0PdeRs09bC) | 3:57 | 2022-09-10 | 2022-09-27 |
 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 | 2021-06-26 | 2021-07-11 |
 | [Enter Martian Pedestrian](https://open.spotify.com/track/4gZoYIiqL4sJKbY9zrP1s6) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [Enter Martian Pedestrian](https://open.spotify.com/album/5r1bdOZBr2fbYWZyDdeXHK) | 5:24 | 2022-03-18 | 2022-04-05 |
+| [Eres](https://open.spotify.com/track/0UHg3ilF28tOYPkvEFNKDZ) | [Marlon Morato](https://open.spotify.com/artist/0nqFO43aXcg9YIs2a46TX6) | [Eres](https://open.spotify.com/album/2nI4H931I7Z0IJDkUqb9gK) | 4:19 | 2023-06-18 |  |
 | [Eres Tú](https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL) | [ELENA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Eres Tú](https://open.spotify.com/album/5FvYepMzpVbIpVwiW7QDJb) | 3:30 | 2023-04-06 | 2023-04-29 |
 | [Error](https://open.spotify.com/track/6G5xwimzygf6guwvFpmptB) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Error](https://open.spotify.com/album/2PXTo7dgCnLXZxe9VPlR4c) | 3:52 | 2020-04-02 | 2020-04-20 |
 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 | 2022-07-15 | 2022-07-31 |
@@ -1878,6 +1881,7 @@
 | [Still Young](https://open.spotify.com/track/3GmmyTUsFCRAUScYFn6BKw) | [St\. Levi](https://open.spotify.com/artist/31Tt40PQuAgCQN3UN6vrAD) | [Still Young](https://open.spotify.com/album/20WkB1FPGPiJGBc5fANCFs) | 3:06 | 2022-09-16 | 2022-10-04 |
 | [Stolen Love](https://open.spotify.com/track/6WEljiBGH3k6ywCqhtEb08) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Stolen Love](https://open.spotify.com/album/6DkbpFdoKedFhVy3oi9W61) | 2:48 | 2022-01-21 | 2022-04-24 |
 | [Stop Me Thinking of You](https://open.spotify.com/track/11wKSDW1ayrbr5XaE80w4J) | [WAMI](https://open.spotify.com/artist/2qrqGisLb0cY61ual20l9y), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Stop Me Thinking Of You](https://open.spotify.com/album/2vHJvZ9Xx06PkS9wwIEfsk) | 3:06 | 2021-10-02 | 2021-10-17 |
+| [Stories](https://open.spotify.com/track/4EZqTGsY8UxFyr5GLRMBvO) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Stories](https://open.spotify.com/album/6Nd1ADacijcAndvjzV7dh9) | 2:46 | 2023-06-17 |  |
 | [Story](https://open.spotify.com/track/7jHqAeN50jGUywAz4VTWRm) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Story](https://open.spotify.com/album/3E4mc92fBvFU8JTN7820fC) | 3:48 | 2021-04-30 | 2021-05-16 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-07-11 |  |
 | [Strawberry Skies](https://open.spotify.com/track/2p1onANhkUkyMZKKigOUJu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies](https://open.spotify.com/album/1QSS3hCtXqTakiLJpIhppz) | 2:45 | 2020-04-29 | 2020-05-07 |
@@ -2319,6 +2323,7 @@
 | [Your Love](https://open.spotify.com/track/4yRhBp33z9EQLnqZHsyI1m) | [Mercedes Nicole](https://open.spotify.com/artist/2Zh5zvQdDOGdk9jQDBusfq) | [Your Love](https://open.spotify.com/album/2Cr9txqCo5U2xJ24wjw8OH) | 4:53 | 2022-03-11 | 2022-03-31 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-07-11 |
 | [Your Soul](https://open.spotify.com/track/5CfyyF1eKO5PWdBfbUtfqW) | [Thomas Lemmer](https://open.spotify.com/artist/01Ix2zdjR4PQ2eYMpclD9d) | [Your Soul](https://open.spotify.com/album/42u15BwX747YNux83gXTWK) | 2:55 | 2022-11-11 | 2022-12-03 |
+| [Your Time](https://open.spotify.com/track/7mIcFQuZWCoRUug5O1A2pK) | [Adam Weinberg](https://open.spotify.com/artist/1S5h7D2kXw2h2Cu4ap6uY9) | [Laugh, Cry, Grief, Hope](https://open.spotify.com/album/3zzjISrIkjaPAxUtN2YU8M) | 4:08 | 2023-06-18 |  |
 | [Zomer](https://open.spotify.com/track/5g3LVsOumXRzzrz5GBzojB) | [Sarah Burger](https://open.spotify.com/artist/4Ob3o1BKryQMrFexEHGO6a) | [Zomer](https://open.spotify.com/album/1YypCC1BqDb7ctMiOC7bpz) | 3:18 | 2021-06-04 | 2021-06-20 |
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-07-11 | 2023-02-12 |
 | [火](https://open.spotify.com/track/3VIFS0KM6EXUvXXCwU7lh9) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [火](https://open.spotify.com/album/2uTPzFLzReLtFPcqtMZB0d) | 3:38 | 2021-04-30 | 2021-05-16 |

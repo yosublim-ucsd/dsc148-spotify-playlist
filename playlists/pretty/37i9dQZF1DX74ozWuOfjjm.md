@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,350 likes - 88 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,351 likes - 88 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 5 | [Moment](https://open.spotify.com/track/1ra3LsbQiW7eGJLxRhiwVq) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Moment](https://open.spotify.com/album/0LLMGuXgV7YPLyeXyshnPj) | 2:39 |
 | 6 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 |
 | 7 | [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 |
-| 8 | [Honey](https://open.spotify.com/track/2pgc4XRR4yQq8ZcF00aOde) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Honey](https://open.spotify.com/album/1tNlhHGbNVnYMUIw9VoB2K) | 2:58 |
+| 8 | [Honey](https://open.spotify.com/track/0dCEJOvkHsIJMeLseG4LpK) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Endless Summer](https://open.spotify.com/album/2jN32X41GKugOYRTrJmMj2) | 2:58 |
 | 9 | [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 |
 | 10 | [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 |
 | 11 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 87 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
 | 88 | [Fuchsia](https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Fuchsia](https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f) | 3:24 |
 
-Snapshot ID: `MCw1ODFlNDBlYWU1YjYyMzVhZDgxZGQ0Njg3MGM4MzZkZjc2NTQxYjEw`
+Snapshot ID: `MCwzMjA3YmEyMjFhOWYxMjc5YmE2NGJmNTc3YWQ4ZjgwZmJiODQ3YmQx`

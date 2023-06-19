@@ -4,7 +4,7 @@
 
 > make it pop! cover: Lany
 
-667 songs - 1 day 9 hr 28 min
+668 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-11-12 | 2022-02-05 |
 | [Dramatic](https://open.spotify.com/track/1ECImIb0g5uPhKc4FLkHXa) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Dramatic](https://open.spotify.com/album/0fg6UIRoB0K5pLUU6XpWZy) | 2:48 | 2022-07-29 | 2022-08-06 |
 | [Dress](https://open.spotify.com/track/26ORKiTdampbfuv4Zno5su) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:23 | 2022-04-01 | 2022-04-09 |
-| [dry eyes](https://open.spotify.com/track/6owZhOUWIkdUycGYzH4FJj) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dry eyes](https://open.spotify.com/album/41SuhET3ihKEyqGRE9lL9z) | 2:45 | 2023-04-21 |  |
+| [dry eyes](https://open.spotify.com/track/5XILrkEOLaiQR5nFjHx7Hj) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dry eyes](https://open.spotify.com/album/02tDOiDAvupt4ZvwauY44b) | 2:45 | 2023-06-02 |  |
+| [dry eyes](https://open.spotify.com/track/6owZhOUWIkdUycGYzH4FJj) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dry eyes](https://open.spotify.com/album/41SuhET3ihKEyqGRE9lL9z) | 2:45 | 2023-04-21 | 2023-06-19 |
 | [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 | 2022-08-27 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-23 | 2023-02-11 |
 | [DUMP HIM](https://open.spotify.com/track/3uCz1ghL2RM8rDWDKSbH0Z) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [DUMP HIM](https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0) | 2:35 | 2022-09-16 | 2022-10-29 |

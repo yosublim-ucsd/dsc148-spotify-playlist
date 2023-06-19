@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 161396,
+  "num_followers": 161446,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmVkZDM2YTA2NjMyNGM3MjgwNmEwYjY0ZjI1MjEwOTRhMTdiNDFh",
+  "snapshot_id": "MCxjODlhZDJkMjliMWIyOTVjY2JhZDk2YzlmNDA4YzBiYjZhZmY1ZWZi",
   "tracks": [
     {
       "added_at": "2023-01-09 10:53:54",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Selected Ambient Works 85-92",
-        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 293751,
-      "name": "Xtal",
-      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
-    },
-    {
-      "added_at": "2023-01-09 10:53:54",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2023-01-09 10:53:54",
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 293751,
+      "name": "Xtal",
+      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
     },
     {
       "added_at": "2023-01-09 10:53:54",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Equals",
-        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 286451,
-      "name": "Equals",
-      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     }
   ],
   "unique_name": "4AM Chillout",

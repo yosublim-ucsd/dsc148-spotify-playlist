@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,829 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,810 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 45 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 |
 | 46 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
 | 47 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
-| 48 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
-| 49 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 |
+| 48 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 |
+| 49 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
 | 50 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
 
-Snapshot ID: `MCwwY2RiNDI2MGI1ZDJjY2RmNDVhOTA1MzdlNTFjN2Y5NTRlMjAwZGNh`
+Snapshot ID: `MCwyZmE4NjhmNWRkOThkMjBlYzExODk1NmUzMDU1N2IyZTQ5ZjhlODZm`

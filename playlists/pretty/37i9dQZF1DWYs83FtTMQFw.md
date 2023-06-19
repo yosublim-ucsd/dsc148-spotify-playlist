@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Metro Boomin, Lil Durk, The Weekend and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,224,287 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,224,450 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 96 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
 | 97 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
 
-Snapshot ID: `MCw4N2UyMWFhZWFjNjNkYzJhMDRhZDg2OGU5MDcwNzgxY2I1Y2FlNTNm`
+Snapshot ID: `MCw1ZGU3OGE3YWRkNmYwOWFlNjE2ZjIzZDk0ZTE1ZTQ5OTJkMDdhMTI1`

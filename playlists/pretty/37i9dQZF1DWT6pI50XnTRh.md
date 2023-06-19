@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,721 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,846 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 12 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 |
 | 13 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
 | 14 | [Theme From Shaft \- Remastered 2009](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
-| 15 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
-| 16 | [A Night to Remember](https://open.spotify.com/track/2xsXNMfcKLQxL5sQq4v7gH) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [The 12 Inch Collection](https://open.spotify.com/album/3sY9MPqUb0mSj1sujVdLZc) | 4:59 |
+| 15 | [A Night to Remember](https://open.spotify.com/track/2xsXNMfcKLQxL5sQq4v7gH) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [The 12 Inch Collection](https://open.spotify.com/album/3sY9MPqUb0mSj1sujVdLZc) | 4:59 |
+| 16 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
 | 17 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 |
 | 18 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 19 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 | 50 | [Let Me Love You](https://open.spotify.com/track/2omcm8YdAMlVWcxhJo9tQG) | [Bunny Mack](https://open.spotify.com/artist/2JZu13wsOrKnWcYukpE1pQ) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 7:49 |
 
-Snapshot ID: `MCwzNTUxZWMwYWQzY2JlZmY4MDE3ODVkMTUyMjA4YzliMDJmYzVlMTNi`
+Snapshot ID: `MCwwYmY0NjJlNTQ0MTYxNmY3OTJlYmJkZThiYTU2MTk1NTVlNDNjOGEw`

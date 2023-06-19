@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 110824,
+  "num_followers": 110867,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzJiMmZlN2Q3MzBhOTMxOTM0ZWRjMDVhMWUwNjhmNDU4MGFjMjQ3",
+  "snapshot_id": "MCw0MDY4NGM4OTE0MmJlNTgzMzJhMzFmNTdhMWNiN2ZjMzQ3ZmU2MDJk",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 498200,
       "name": "Ode for St. Cecilia's Day, HWV 76: Air: What passion cannot Music raise",
       "url": "https://open.spotify.com/track/28Lhq1AbMJVtbSQbWjF8zl"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
-        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "The Scholars Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Dixit Dominus Domino meo",
-      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -843,6 +843,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water & Fireworks Music",
+        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 60480,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
+      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 314066,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
       "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water & Fireworks Music",
-        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Prague Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 60480,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
-      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "John Eliot Gardiner Conducts Handel",
-        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Ren\u00e9e Fleming - Handel Arias",
         "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
       },
@@ -1279,6 +1255,30 @@
       "duration_ms": 292373,
       "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
       "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
+      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
         "url": "https://open.spotify.com/album/4wJY8J6zZCwbkz2m6h63MQ"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 261040,
       "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
       "url": "https://open.spotify.com/track/6mEr3K1z35IBp0U80Mr9Yg"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
-      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
     }
   ],
   "unique_name": "This Is Handel",

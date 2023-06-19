@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 29350,
+  "num_followers": 29378,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDA3OTI3YjQwZGM1NTAyZmEyYzFlM2QzMjUxMjBjYjZkNTFkNjJm",
+  "snapshot_id": "MCxkOTBiNDBkZjNiMTJlM2U3MWNmNDdhY2MxNTIzMjkxOTljY2E1NjM1",
   "tracks": [
     {
       "added_at": "2023-06-09 12:35:28",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Withdrawal",
-      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Blue Alibi",
         "url": "https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 281202,
       "name": "Blue Shit",
       "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Withdrawal",
+      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "For Organ and Brass",
         "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 446000,
       "name": "Mountain of Air",
       "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 243232,
-      "name": "The Eighteen Beautiful Memories",
-      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 243232,
+      "name": "The Eighteen Beautiful Memories",
+      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
         "url": "https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 465107,
       "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
       "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
     },
     {
       "added_at": "2023-06-09 12:35:28",

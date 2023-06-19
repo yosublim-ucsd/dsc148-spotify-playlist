@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. Cover: Q",
-  "num_followers": 2225265,
+  "num_followers": 2225161,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmI0NzQxNjlkY2YyZWY0MjdmMzk4MjU1MjMxMGZlZWMzMTI5ZDZm",
+  "snapshot_id": "MCw1NjkwYWQ5M2FlMDU5MDAyZTAzMTFmMzkwYzhjYTA2NzlkYThiZDk0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
-      "added_at": "2023-05-09 17:27:09",
-      "album": {
-        "name": "One Wayne G",
-        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "20191009 I Like Her",
-      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
-    },
-    {
       "added_at": "2023-06-02 00:47:28",
       "album": {
         "name": "Petals to Thorns",
@@ -603,6 +587,22 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "added_at": "2023-05-09 17:27:09",
+      "album": {
+        "name": "One Wayne G",
+        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "20191009 I Like Her",
+      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
     },
     {
       "added_at": "2023-05-11 23:52:26",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
+      "added_at": "2023-04-18 16:45:50",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "First Two Pages of Frankenstein",
@@ -759,22 +775,6 @@
       "duration_ms": 216426,
       "name": "Once Upon A Poolside (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/4xAHN13Q8MgKXO18rSyvzU"
-    },
-    {
-      "added_at": "2023-04-18 16:45:50",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-06-02 00:47:28",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 201174,
-      "name": "Hiding Out In The Open",
-      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
-    },
-    {
       "added_at": "2023-06-16 16:54:53",
       "album": {
         "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
@@ -1075,6 +1059,22 @@
       "duration_ms": 241661,
       "name": "A day in the water",
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Cuts & Bruises",
-        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Just To Keep You Satisfied",
-      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "To be honest",
         "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
       },
@@ -1157,20 +1141,20 @@
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "Cuts & Bruises",
+        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+      "duration_ms": 215906,
+      "name": "Just To Keep You Satisfied",
+      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1193,20 +1177,20 @@
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1223,22 +1207,6 @@
       "duration_ms": 173262,
       "name": "Best Disaster",
       "url": "https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1259,6 +1227,38 @@
       "duration_ms": 347713,
       "name": "True love (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
     },
     {
+      "added_at": "2023-05-19 03:05:34",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+    },
+    {
       "added_at": "2023-04-14 01:22:02",
       "album": {
         "name": "Everything Is Boring",
@@ -1371,22 +1387,6 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2023-05-19 03:05:34",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1469,20 +1485,20 @@
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-04-21 01:46:20",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
       "artists": [
         {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1521,20 +1537,20 @@
       "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
+      "added_at": "2023-06-16 16:54:53",
       "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+      "duration_ms": 222656,
+      "name": "Black Horse",
+      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
     },
     {
       "added_at": "2023-05-11 23:52:26",
@@ -1557,22 +1573,6 @@
       "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
     },
     {
-      "added_at": "2023-06-16 16:54:53",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 222656,
-      "name": "Black Horse",
-      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
-    },
-    {
       "added_at": "2023-06-02 00:47:28",
       "album": {
         "name": "More Photographs (A Continuum)",
@@ -1587,6 +1587,22 @@
       "duration_ms": 253162,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "All We've Ever Wanted",
+        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 183858,
+      "name": "All We've Ever Wanted",
+      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1621,22 +1637,6 @@
       "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "All We've Ever Wanted",
-        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 183858,
-      "name": "All We've Ever Wanted",
-      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Run To The Moon",
@@ -1653,20 +1653,20 @@
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-06-16 16:55:44",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+        "name": "heavun",
+        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+      "duration_ms": 191632,
+      "name": "heavun",
+      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1683,6 +1683,22 @@
       "duration_ms": 221360,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1707,26 +1723,6 @@
       "duration_ms": 177900,
       "name": "4am",
       "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
-    },
-    {
-      "added_at": "2023-04-14 01:22:02",
-      "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     }
   ],
   "unique_name": "Front Page Indie",

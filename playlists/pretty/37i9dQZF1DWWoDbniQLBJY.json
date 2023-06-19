@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2016547,
+  "num_followers": 2016538,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQxMWI5OGI2MTc0OGU4ZTk0MWUxMGRjNjQ5NmE1Y2I0Y2E0MDYy",
+  "snapshot_id": "MCw4MmY1YjdlYmJiNjE1ZDgzNDY1NjQ1ZDlhOGZkMzdkNmVkNjA4YjNk",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
-      },
-      "artists": [
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 228008,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 182453,
       "name": "Pongamos que hablo de Mart\u00ednez",
       "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 228008,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -427,6 +443,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 344666,
+      "name": "Vivir Sin Aire - Unplugged",
+      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -447,38 +479,6 @@
       "duration_ms": 238533,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258412,
       "name": "Volv\u00ed a Nacer - Live from Spotify",
       "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -699,6 +699,26 @@
       "duration_ms": 208057,
       "name": "EL LOBBY",
       "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "My Stupid Heart",
+        "url": "https://open.spotify.com/album/3dmsMK66JcTGZbWEZJRusw"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "My Stupid Heart - Mi Pobre Corazon",
+      "url": "https://open.spotify.com/track/1wUw0OzMdLMrzneOH3XUgu"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -751,26 +771,6 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "My Stupid Heart",
-        "url": "https://open.spotify.com/album/3dmsMK66JcTGZbWEZJRusw"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "My Stupid Heart - Mi Pobre Corazon",
-      "url": "https://open.spotify.com/track/1wUw0OzMdLMrzneOH3XUgu"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
+        "name": "Te quiero much\u00edsimo",
+        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
       },
       "artists": [
         {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+          "name": "Alex Granero",
+          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
         }
       ],
-      "duration_ms": 186966,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
+      "duration_ms": 240189,
+      "name": "Te quiero much\u00edsimo",
+      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Te quiero much\u00edsimo",
-        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
       },
       "artists": [
         {
-          "name": "Alex Granero",
-          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
         }
       ],
-      "duration_ms": 240189,
-      "name": "Te quiero much\u00edsimo",
-      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Jaguayano",
-          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1463,22 +1443,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Souvenir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         },
         {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Souvenir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+      "duration_ms": 185186,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1499,6 +1479,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Souvenir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Souvenir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1535,38 +1535,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Los Cuatro Actos Ac\u00fasticos",
-        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 260709,
-      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Agua Del Pozo",
-        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "De Camino",
-      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1587,6 +1555,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Los Cuatro Actos Ac\u00fasticos",
+        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 260709,
+      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Voy Cantando",
         "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 262050,
       "name": "Voy Cantando",
       "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Agua Del Pozo",
+        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "De Camino",
+      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
     },
     {
       "added_at": "2023-06-09 04:00:00",

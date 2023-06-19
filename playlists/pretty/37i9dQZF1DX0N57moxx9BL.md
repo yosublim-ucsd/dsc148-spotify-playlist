@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,167 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,304 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 20 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 |
 | 21 | [I'm Living Righteous](https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I'm Living Righteous](https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea) | 2:40 |
 | 22 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 |
-| 23 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 |
-| 24 | [Day by Day](https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Mirror Dimly](https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH) | 5:38 |
-| 25 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 |
+| 23 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 |
+| 24 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 |
+| 25 | [Day by Day](https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Mirror Dimly](https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH) | 5:38 |
 | 26 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 |
 | 27 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 |
 | 28 | [Deadman](https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 5:13 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 50 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 |
 | 51 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
 | 52 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 |
-| 53 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
-| 54 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 53 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 54 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
 | 55 | [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 |
 | 56 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 |
 | 57 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 80 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
 
-Snapshot ID: `MCxhOTljZmQ4YWFjYzQ4ZTRlZmVlNDk0NTdkMmRmOTM5Njc1OGM1Yjhm`
+Snapshot ID: `MCxmYzk4MWJkMDkwNmNjMjUxMjYwOTFlZGUyMGFjYmQ5OTNjYmExNTI1`

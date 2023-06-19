@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0\">Madison Ryann Ward</a>",
-  "num_followers": 60347,
+  "num_followers": 60422,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWFhMTRmNWYwYWZjMDE1ZjYxYjQ2MmRiNmI0ZDYzYzY4NTU2NTdl",
+  "snapshot_id": "MCxiMGYxNzVmMGQxYWRmNTMzNGFhMWRlOGJjOTgxOGI5N2Q4MTkxMDBi",
   "tracks": [
     {
       "added_at": "2023-04-21 11:13:40",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Growing Up",
-      "url": "https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0hwkfiwySqJlvVs45QXt8b"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 218400,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5PpSZdf23I1YK3qmmQgDjq"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 195034,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 204479,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "The Field",
         "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 140347,
       "name": "Only You Can Do It",
       "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Jesus Always",
-        "url": "https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 284833,
-      "name": "Jesus Always",
-      "url": "https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Ancient of Days (reimagined)",
         "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 241998,
       "name": "Ancient of Days - reimagined",
       "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Jesus Always",
+        "url": "https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 284833,
+      "name": "Jesus Always",
+      "url": "https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "The Family Album",
-        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "YOUR WILL",
-      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "MAN-UH",
         "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
       },
@@ -1667,22 +1651,34 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Everything Else But Rain (with Lucius)",
-        "url": "https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S"
+        "name": "The Family Album",
+        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
       },
       "artists": [
         {
-          "name": "Until The Ribbon Breaks",
-          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Everything Else But Rain (with Lucius)",
-      "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
+      "duration_ms": 283311,
+      "name": "YOUR WILL",
+      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+        "name": "Everything Else But Rain (with Lucius)",
+        "url": "https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S"
       },
       "artists": [
         {
-          "name": "Caz",
-          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+          "name": "Until The Ribbon Breaks",
+          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 200931,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
+      "duration_ms": 196866,
+      "name": "Everything Else But Rain (with Lucius)",
+      "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Lily of the field",
-        "url": "https://open.spotify.com/album/7reHJREiR01CtHh7YRdY3v"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 197072,
-      "name": "Lily of the field",
-      "url": "https://open.spotify.com/track/5r5Uf5K0bhSuImB5TpJvkB"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 233470,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Lily of the field",
+        "url": "https://open.spotify.com/album/7reHJREiR01CtHh7YRdY3v"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 197072,
+      "name": "Lily of the field",
+      "url": "https://open.spotify.com/track/5r5Uf5K0bhSuImB5TpJvkB"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "I Surrender All (Allt till Jesus)",
-        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        },
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "I Surrender All (Allt till Jesus)",
-      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
       },
@@ -1979,38 +1959,6 @@
       "duration_ms": 201851,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Livin' the Life",
-        "url": "https://open.spotify.com/album/6wtfaaQK2ggNSDEHui0fJK"
-      },
-      "artists": [
-        {
-          "name": "Manic Drive",
-          "url": "https://open.spotify.com/artist/3raES4AyYCX6XlbO6lEvco"
-        }
-      ],
-      "duration_ms": 201810,
-      "name": "Livin' the Life",
-      "url": "https://open.spotify.com/track/5aWIOisKB0WIqx5PwLy5AF"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Dont Let Me Go",
-        "url": "https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "Dont Let Me Go",
-      "url": "https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2047,6 +1995,38 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "Dont Let Me Go",
+        "url": "https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "Dont Let Me Go",
+      "url": "https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Livin' the Life",
+        "url": "https://open.spotify.com/album/6wtfaaQK2ggNSDEHui0fJK"
+      },
+      "artists": [
+        {
+          "name": "Manic Drive",
+          "url": "https://open.spotify.com/artist/3raES4AyYCX6XlbO6lEvco"
+        }
+      ],
+      "duration_ms": 201810,
+      "name": "Livin' the Life",
+      "url": "https://open.spotify.com/track/5aWIOisKB0WIqx5PwLy5AF"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "Our Salvation is Bound Up Together",
         "url": "https://open.spotify.com/album/54KPD58pTk4raKt7RwXlNk"
       },
@@ -2059,6 +2039,42 @@
       "duration_ms": 166325,
       "name": "Our Salvation is Bound Up Together",
       "url": "https://open.spotify.com/track/2aaBlsDmROA9D2BW7YdWRd"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "I Surrender All (Allt till Jesus)",
+        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "duration_ms": 192968,
+      "name": "I Surrender All (Allt till Jesus)",
+      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2079,22 +2095,6 @@
       "duration_ms": 96000,
       "name": "WAIT ON HIM - Funk Remix",
       "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2131,6 +2131,38 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "Jesus can Save them All",
+        "url": "https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu"
+      },
+      "artists": [
+        {
+          "name": "Make a Joyful Noisee",
+          "url": "https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM"
+        }
+      ],
+      "duration_ms": 273089,
+      "name": "Jesus can Save them All",
+      "url": "https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "I Came Home",
+      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "This Wild Earth (Subjects)",
         "url": "https://open.spotify.com/album/0XZTzEfubkS48pcQoOTbfm"
       },
@@ -2147,22 +2179,6 @@
       "duration_ms": 218120,
       "name": "This Wild Earth (Subjects)",
       "url": "https://open.spotify.com/track/7AdpVVMu4wK9cUKnpdWGPG"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2187,18 +2203,18 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
         }
       ],
-      "duration_ms": 230506,
-      "name": "I Came Home",
-      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2235,18 +2251,34 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Jesus can Save them All",
-        "url": "https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu"
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
       "artists": [
         {
-          "name": "Make a Joyful Noisee",
-          "url": "https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM"
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 273089,
-      "name": "Jesus can Save them All",
-      "url": "https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R"
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
+        "name": "Headfirst",
+        "url": "https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Headfirst",
+      "url": "https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2271,34 +2303,38 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Headfirst",
-        "url": "https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS"
+        "name": "Shadow of Your Wings",
+        "url": "https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y"
       },
       "artists": [
         {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "Alex Taylor",
+          "url": "https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Headfirst",
-      "url": "https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ"
+      "duration_ms": 157108,
+      "name": "Shadow of Your Wings",
+      "url": "https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A"
     },
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+        "name": "Notice",
+        "url": "https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK"
       },
       "artists": [
         {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+      "duration_ms": 202790,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2323,38 +2359,22 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
-        "name": "Notice",
-        "url": "https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK"
+        "name": "i feel like flying",
+        "url": "https://open.spotify.com/album/5Yj0WFmI0xViZngpgrMtJm"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Notice",
-      "url": "https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "Shadow of Your Wings",
-        "url": "https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
         },
         {
-          "name": "Alex Taylor",
-          "url": "https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi"
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
         }
       ],
-      "duration_ms": 157108,
-      "name": "Shadow of Your Wings",
-      "url": "https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A"
+      "duration_ms": 225666,
+      "name": "i feel like flying",
+      "url": "https://open.spotify.com/track/6yHrMYWcIrrD382ANC8o8M"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2375,26 +2395,6 @@
       "duration_ms": 324000,
       "name": "My Deliverer",
       "url": "https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "i feel like flying",
-        "url": "https://open.spotify.com/album/5Yj0WFmI0xViZngpgrMtJm"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        },
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "i feel like flying",
-      "url": "https://open.spotify.com/track/6yHrMYWcIrrD382ANC8o8M"
     },
     {
       "added_at": "2023-04-21 11:13:40",
@@ -2467,6 +2467,26 @@
     {
       "added_at": "2023-04-21 11:13:40",
       "album": {
+        "name": "My Heart Alone",
+        "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "Alex Taylor",
+          "url": "https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi"
+        }
+      ],
+      "duration_ms": 201358,
+      "name": "My Heart Alone",
+      "url": "https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc"
+    },
+    {
+      "added_at": "2023-04-21 11:13:40",
+      "album": {
         "name": "Ghost of a King // Summer Sessions",
         "url": "https://open.spotify.com/album/4hhMQ42AlCPWq2QxXAgMMh"
       },
@@ -2503,26 +2523,6 @@
       "duration_ms": 263168,
       "name": "Won\u2019t Settle",
       "url": "https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s"
-    },
-    {
-      "added_at": "2023-04-21 11:13:40",
-      "album": {
-        "name": "My Heart Alone",
-        "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
-        },
-        {
-          "name": "Alex Taylor",
-          "url": "https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi"
-        }
-      ],
-      "duration_ms": 201358,
-      "name": "My Heart Alone",
-      "url": "https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc"
     },
     {
       "added_at": "2023-04-21 11:13:40",

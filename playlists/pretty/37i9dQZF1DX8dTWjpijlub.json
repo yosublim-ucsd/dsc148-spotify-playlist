@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 27191,
+  "num_followers": 27389,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjdhMTRlNWYyZmYyMmZhMDdkMTE4OWE0MmZmYTc4NTZlYTY1NWM2",
+  "snapshot_id": "MCw2NjQxOWYyZTI2Mzc3YjczN2FlYWJlMTE0MjA0OTk4Y2E3MDZkYzMz",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -139,26 +139,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/04yB9kBsaEQgT8hFfcsQik"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/04yB9kBsaEQgT8hFfcsQik"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -335,26 +335,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 232048,
-      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+      "duration_ms": 236524,
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -379,26 +379,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 236524,
-      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
-      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+      "duration_ms": 232048,
+      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
     },
     {
       "added_at": "2022-11-04 04:00:00",

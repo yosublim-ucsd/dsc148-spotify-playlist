@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7560,
+  "num_followers": 7566,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzFlNjgyMDVmYzY3YjY1NzE3MGUwNjZlN2U0ZmM5MDNkZGJjMjRj",
+  "snapshot_id": "MCxhNTIxOTM0MGVkYTVlYjBhYzU3ZWRhZTY4ZDBhZWZjZWI2ODBhZWJl",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 197615,
-      "name": "Jalousie",
-      "url": "https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Bonhomme Pendu (Chapitre 2)",
         "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 235075,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 197615,
+      "name": "Jalousie",
+      "url": "https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le set up",
-        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 158660,
-      "name": "Univers parall\u00e8le",
-      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 193293,
       "name": "Dollaz",
       "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le set up",
+        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 158660,
+      "name": "Univers parall\u00e8le",
+      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Aujourd'hui ou jamais",
         "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 261537,
       "name": "Fanny",
       "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
+      },
+      "artists": [
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Jungle Music",
-        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "D\u00e9coller",
-      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Jungle Music",
+        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 265786,
+      "name": "D\u00e9coller",
+      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "La Coupe",
+        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        },
+        {
+          "name": "Tommy Kruise",
+          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
+        }
+      ],
+      "duration_ms": 172489,
+      "name": "Findsemaine",
+      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Canicule, Vol.1",
         "url": "https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP"
       },
@@ -1823,26 +1843,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Coupe",
-        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        },
-        {
-          "name": "Tommy Kruise",
-          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
-        }
-      ],
-      "duration_ms": 172489,
-      "name": "Findsemaine",
-      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
       },
@@ -1855,22 +1855,6 @@
       "duration_ms": 211696,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1891,6 +1875,22 @@
       "duration_ms": 170351,
       "name": "back",
       "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 213167,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     }
   ],
   "unique_name": "Les nouveaux classiques",

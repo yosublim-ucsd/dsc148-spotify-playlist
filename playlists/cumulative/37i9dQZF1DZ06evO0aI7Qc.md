@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 3 min
+98 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [El De La P](https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:16 | 2022-06-01 | 2022-10-13 |
 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 | 2022-06-01 | 2023-01-03 |
 | [El Del Palenque](https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4yWgittlnciR60xapf9IYH) | 3:23 | 2022-12-26 | 2023-02-05 |
-| [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-26 |  |
+| [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-26 | 2023-06-19 |
 | [El Doble R](https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Doble R](https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a) | 2:41 | 2023-01-08 | 2023-04-30 |
 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 | 2022-06-01 | 2022-10-13 |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-10-24 |  |
@@ -69,6 +69,7 @@
 | [La Tamalera](https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Tamalera](https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV) | 2:33 | 2023-05-02 |  |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 | 2023-02-04 |  |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-06-01 |  |
+| [Los Chiquinarcos \- En Vivo](https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Los Chiquinarcos \(En Vivo\)](https://open.spotify.com/album/5fzhrKGlhdhCUiXQgtOXUz) | 2:44 | 2023-06-18 |  |
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2022-06-01 |  |
 | [Los Pajaros \(En Vivo\)](https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Pajaros \(En Vivo\)](https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y) | 2:31 | 2022-08-09 | 2022-08-11 |
 | [Malas Rachas](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 | 2023-01-02 |  |

@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-127 songs - 7 hr 54 min
+128 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [จังหวะจะรัก](https://open.spotify.com/track/0ntdviIRIuOlRFnEZLWqNR) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/2DI0hATxWUbv0pRpmhbfwx) | 3:40 | 2023-02-10 | 2023-04-30 |
 | [จังหวะจะรัก](https://open.spotify.com/track/2dhMTwg7O8n4kFYLpCaLC4) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/5hjS0mLBF0f59Cq71mgjDe) | 3:40 | 2023-02-21 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2023-02-10 |  |
-| [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 | 2023-02-10 |  |
+| [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 | 2023-02-10 | 2023-06-19 |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2023-02-10 |  |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2023-02-10 |  |
 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 | 2023-02-10 |  |
@@ -131,6 +131,7 @@
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2023-02-10 |  |
 | [โรแมนติก \(Romantic\)](https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [โรแมนติก \(Romantic\)](https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84) | 4:00 | 2023-04-03 | 2023-05-16 |
 | [โลกอีกใบ](https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [โอ๊ต ปราโมทย์](https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw) | [LA LUNE](https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg) | 3:14 | 2023-02-21 | 2023-05-01 |
+| [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 | 2023-06-09 |  |
 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 | 2023-02-10 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2023-02-10 |  |
 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 | 2023-02-10 |  |

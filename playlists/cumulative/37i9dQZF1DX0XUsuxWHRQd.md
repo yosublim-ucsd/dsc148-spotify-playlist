@@ -4,7 +4,7 @@
 
 > New music from Gunna, Gucci Mane and Doja Cat.
 
-1,662 songs - 3 day 13 hr 46 min
+1,663 songs - 3 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-29 | 2022-06-18 |
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-02 | 2023-03-25 |
 | [FTP](https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [FTP](https://open.spotify.com/album/03WHzx89aK1pKO9GZzlSH7) | 2:42 | 2020-06-05 | 2020-06-12 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-18 |  |
 | [Full Circle \(feat\. The Firm, AZ, Foxy Brown & Cormega\)](https://open.spotify.com/track/3bNXPxxnbEoGQxEzS0N9NK) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [The Firm](https://open.spotify.com/artist/2Sk9ARejPHclTzcpuOqj0O), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Cormega](https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 3:51 | 2020-08-21 | 2020-08-30 |
 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:55 | 2023-01-20 | 2023-01-28 |
 | [Futsal Shuffle 2020](https://open.spotify.com/track/2Ec33AVlkTTq8BHFgBTdQs) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Futsal Shuffle 2020](https://open.spotify.com/album/4uTOUYhLrGRKkfxfPKTkuy) | 3:18 | 2019-12-13 | 2020-03-07 |
@@ -1194,7 +1195,7 @@
 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 | 2022-05-20 | 2022-07-16 |
 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 | 2019-06-28 | 2019-08-29 |
 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 | 2020-01-27 | 2020-02-14 |
-| [rodeo dr](https://open.spotify.com/track/2rjv9fXzpZDbB6lEeIoB3l) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:56 | 2023-06-16 |  |
+| [rodeo dr](https://open.spotify.com/track/2rjv9fXzpZDbB6lEeIoB3l) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:56 | 2023-06-16 | 2023-06-19 |
 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 | 2021-02-12 | 2021-05-15 |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-02-10 | 2023-02-19 |
 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 | 2022-02-12 |

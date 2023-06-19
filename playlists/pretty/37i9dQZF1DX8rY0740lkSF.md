@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,489 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,504 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 91 | [THE SECOND ACT \- X ver.](https://open.spotify.com/track/38hyBU2GzJMndiBpNUZl2A) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:11 |
 | 92 | [TAKE UP THE CROSS \- X ver.](https://open.spotify.com/track/4nswyQlRqmtbQRxiqKQBha) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:39 |
 
-Snapshot ID: `MCwzMGFjNTE1ODEwZjZkMTdjYzY5NzljMmNhNjU4ZjZmOGIwMzYwMmVm`
+Snapshot ID: `MCxjNmQ5YmVjZmE4NjQyOWM3MTdlZGY1MmFlY2U4MTQyNzRmOTI5NTI4`

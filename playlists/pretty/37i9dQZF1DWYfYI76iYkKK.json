@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 120367,
+  "num_followers": 120408,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjlhYzhjNTg4NjdmM2Y4OTBlZWE4MDlmNDQ2N2MxMzc3ZWNmMWZj",
+  "snapshot_id": "MCw5NzFhZWM3ZTBiY2UzZmEwZmFmYmUxYjJiOTU1MDM5NzhhOTc4ZGU4",
   "tracks": [
     {
       "added_at": "2023-06-15 16:00:00",
@@ -383,6 +383,38 @@
     {
       "added_at": "2023-06-15 16:00:00",
       "album": {
+        "name": "\u91cd\u62fe_\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
+      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+    },
+    {
+      "added_at": "2023-06-15 16:00:00",
+      "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u61f8\u65e5",
+      "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
+    },
+    {
+      "added_at": "2023-06-15 16:00:00",
+      "album": {
         "name": "Wordless Groans",
         "url": "https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW"
       },
@@ -411,38 +443,6 @@
       "duration_ms": 211110,
       "name": "\u5927\u6d77",
       "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
-    },
-    {
-      "added_at": "2023-06-15 16:00:00",
-      "album": {
-        "name": "\u7121\u4eba\u77e5\u66c9",
-        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "\u61f8\u65e5",
-      "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
-    },
-    {
-      "added_at": "2023-06-15 16:00:00",
-      "album": {
-        "name": "\u91cd\u62fe_\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
-      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
     },
     {
       "added_at": "2023-06-15 16:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-15 16:00:00",
       "album": {
-        "name": "Face II \u771f\u30fb\u88cf",
-        "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
-        }
-      ],
-      "duration_ms": 269990,
-      "name": "\u6700\u7f8e\u7684\u907a\u61be",
-      "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
-    },
-    {
-      "added_at": "2023-06-15 16:00:00",
-      "album": {
         "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
         "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2023-06-15 16:00:00",
+      "album": {
+        "name": "Face II \u771f\u30fb\u88cf",
+        "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
+        }
+      ],
+      "duration_ms": 269990,
+      "name": "\u6700\u7f8e\u7684\u907a\u61be",
+      "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
     },
     {
       "added_at": "2023-06-15 16:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-15 16:00:00",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 299588,
-      "name": "\u5929\u6c23\u9810\u5831",
-      "url": "https://open.spotify.com/track/4lvtoxQj42W8DxR9JHqxR3"
-    },
-    {
-      "added_at": "2023-06-15 16:00:00",
-      "album": {
         "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
         "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 255438,
       "name": "\u9752\u7a7a\u672a\u4f86",
       "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
+    },
+    {
+      "added_at": "2023-06-15 16:00:00",
+      "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 299588,
+      "name": "\u5929\u6c23\u9810\u5831",
+      "url": "https://open.spotify.com/track/4lvtoxQj42W8DxR9JHqxR3"
     },
     {
       "added_at": "2023-06-15 16:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-15 16:00:00",
       "album": {
-        "name": "\u9081\u5411\u4e09\u5341",
-        "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "\u6703\u4e0d\u6703 - \u4e0d\u63d2\u96fb\u7248",
-      "url": "https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh"
-    },
-    {
-      "added_at": "2023-06-15 16:00:00",
-      "album": {
         "name": "\u6084\u6084\u544a\u8a34\u4f60",
         "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
+    },
+    {
+      "added_at": "2023-06-15 16:00:00",
+      "album": {
+        "name": "\u9081\u5411\u4e09\u5341",
+        "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "\u6703\u4e0d\u6703 - \u4e0d\u63d2\u96fb\u7248",
+      "url": "https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh"
     },
     {
       "added_at": "2023-06-15 16:00:00",

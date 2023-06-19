@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,762 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,748 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,6 +119,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 109 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4nF0P6WaszHMhurQTjUmIp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 2:44 |
 | 110 | [Milk and Cookies \('till Santa's Gone\)](https://open.spotify.com/track/2Ocrrp9yiHYy08Qw0Ht4eo) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 2:41 |
 | 111 | [Shimmy Down The Chimney \(Fill Up My Stocking\)](https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Angels](https://open.spotify.com/album/4yjYRxRStBvBTUog8drzlM) | 4:21 |
-| 112 | [Medley: Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
+| 112 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 
-Snapshot ID: `MCxkZDUwNGQ3ODg0ZjM0OGY4MzdjNmU4NjZhZmZjMDNlYzI3NTFkOTZm`
+Snapshot ID: `MCxiYjZhYzRmNjBkZGU3YTg4YWI1MzA4ODUyNTlhNzE5YTY2NzE0ODgw`

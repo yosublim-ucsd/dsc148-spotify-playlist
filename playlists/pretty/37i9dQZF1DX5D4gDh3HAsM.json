@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 510829,
+  "num_followers": 510810,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2RiNDI2MGI1ZDJjY2RmNDVhOTA1MzdlNTFjN2Y5NTRlMjAwZGNh",
+  "snapshot_id": "MCwyZmE4NjhmNWRkOThkMjBlYzExODk1NmUzMDU1N2IyZTQ5ZjhlODZm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Little Jack Frost Get Lost",
-      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas Cookin'",
         "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "Little Jack Frost Get Lost",
+      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
     },
     {
       "added_at": "2021-11-12 15:48:58",

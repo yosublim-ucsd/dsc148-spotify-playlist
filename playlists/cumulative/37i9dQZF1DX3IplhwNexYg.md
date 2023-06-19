@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Hak Baker
 
-423 songs - 23 hr 50 min
+424 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 |  |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2022-10-13 | 2023-02-04 |
 | [The Dance You Sell](https://open.spotify.com/track/3qA9TSRQp8ImNqkl6gbwer) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/5SxaGaRMHhnRdTA4YU8xrK) | 4:02 | 2022-09-29 | 2022-10-14 |
-| [The Deep End](https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 3:17 | 2023-05-18 |  |
+| [The Deep End](https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 3:17 | 2023-05-18 | 2023-06-19 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 | 2022-09-26 |
 | [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-22 | 2022-10-13 |
 | [The Drop](https://open.spotify.com/track/6LYwgEoWRoiTI9kMl1vaZ4) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/4pu1o36fxMUVZK6FFTtGZt) | 2:58 | 2022-10-13 | 2022-11-14 |
@@ -412,6 +412,7 @@
 | [Weird Me Out](https://open.spotify.com/track/7u51xdzTY7W1PgaVMVSyIU) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 3:01 | 2022-08-18 | 2022-10-13 |
 | [What Do You Mean?](https://open.spotify.com/track/4U8pHHV7Mhq6qOEb3dsyZN) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What Do You Mean?](https://open.spotify.com/album/3ly2DjbPZP1C2PScvRaL8Y) | 3:43 | 2022-08-18 | 2022-10-07 |
 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-03-03 | 2023-05-24 |
+| [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-25 |  |
 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 | 2023-02-10 |  |
 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 | 2023-03-17 | 2023-05-09 |
 | [Where The Grass Is Greener](https://open.spotify.com/track/0HAT9ZgocZ3gN10Zo3bXl9) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Where The Grass Is Greener](https://open.spotify.com/album/1o4vVBNnaoOkPn15ElHkFL) | 3:41 | 2021-03-09 | 2022-01-17 |

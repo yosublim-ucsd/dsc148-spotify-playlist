@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 187 songs - 8 hr 26 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 188 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 185 | [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 |
 | 186 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 |
 | 187 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 |
+| 188 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 |
 
-Snapshot ID: `NzA0NSw2ODYxMDFjMDdiNjMxY2U5ZGUxOGIwOGEzYWEzNDFjM2U1Yjk2MTE2`
+Snapshot ID: `NzA0Niw0ZWIyZTZhMjZlN2M2OWY1OTJlZmZjNTlhMDA4ZWMwODJhMmViN2Ux`

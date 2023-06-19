@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467 likes - 33 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 3 | [All Good Junkies Go To Heaven](https://open.spotify.com/track/34njTrFgZhw9t0NEMMVFkU) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 4:14 |
 | 4 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
 | 5 | [shira](https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:57 |
-| 6 | [Cosmopolitan Blood Loss](https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:03 |
+| 6 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
 | 7 | [Black Nurse](https://open.spotify.com/track/2kzRsFga0hQ3u6IbGo0VfY) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:52 |
 | 8 | [Natural Born Farmer](https://open.spotify.com/track/2CQ3jtUjKDeoik9rKqE0Zh) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:06 |
 | 9 | [Ry Ry's Song \- 2009 Remaster](https://open.spotify.com/track/0FaL1Zoii3CVQtNx3QvDQ3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:32 |
-| 10 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
+| 10 | [Cosmopolitan Blood Loss](https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:03 |
 | 11 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
 | 12 | [my conscience weighs a ton](https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:44 |
 | 13 | [Pretty Lush \- 2009 Remaster](https://open.spotify.com/track/0HKPTrnaJNfBl3NmPiEY9o) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 2:59 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 32 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 | 33 | [You Think You're \(John Fucking Lennon\)](https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:16 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDBjNGYxYjQzOGFiMzVkMTVmYTA5OWFiOGU1ZmM3NDE3ZA==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDA0MTBlYTI4ZWViMjFmYmI1ZWNiMWVhYmI1OTcxZTI0Ng==`

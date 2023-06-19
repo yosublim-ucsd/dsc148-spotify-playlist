@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 314471,
+  "num_followers": 314518,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVlZTc0YjhhZjQzZGFmYzMyOTM0NzljYWU4M2M5MDQxNTYxMTc1",
+  "snapshot_id": "MCxkMmI0OTU2MTM5MzQxMjYxMjM0MjMyNmE5YzMzNTQzODFkNmNhOTk4",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1550,11 +1550,15 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 311216,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1582,15 +1586,11 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        },
-        {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
+      "duration_ms": 311216,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
     },
     {
       "added_at": "2023-05-05 18:26:22",

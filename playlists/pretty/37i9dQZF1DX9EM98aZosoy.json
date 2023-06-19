@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1260682,
+  "num_followers": 1260771,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmMzNjA3MDUzNTk2MzJkZTYyY2RjOWUyYTU0ZDVmYmJmZDk5Yjgz",
+  "snapshot_id": "MCwyZDk1NWNhNTFhNGZjOTRiNmRiNTBhYTkyYTlmZDU5NDQyYjhmNWQ2",
   "tracks": [
     {
       "added_at": "2023-06-07 14:00:00",
@@ -167,22 +167,26 @@
     {
       "added_at": "2023-06-07 14:00:00",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
         },
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2023-06-07 14:00:00",
@@ -243,26 +247,22 @@
     {
       "added_at": "2023-06-07 14:00:00",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2023-06-07 14:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-06-07 14:00:00",
       "album": {
+        "name": "ONLY 4 LIFE (Remix)",
+        "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        },
+        {
+          "name": "FABE BROWN",
+          "url": "https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "ONLY 4 LIFE - Remix",
+      "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
+    },
+    {
+      "added_at": "2023-06-07 14:00:00",
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2023-06-07 14:00:00",
-      "album": {
-        "name": "ONLY 4 LIFE (Remix)",
-        "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
-      },
-      "artists": [
-        {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
-        },
-        {
-          "name": "FABE BROWN",
-          "url": "https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "ONLY 4 LIFE - Remix",
-      "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
     },
     {
       "added_at": "2023-06-07 14:00:00",

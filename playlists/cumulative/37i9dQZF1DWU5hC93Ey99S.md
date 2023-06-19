@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-131 songs - 7 hr 24 min
+132 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Lost](https://open.spotify.com/track/5XFktAerFHxM4tp7EhzTrh) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Jack August](https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry) | [Lost](https://open.spotify.com/album/1QaaHgza1m23gXfowZ8ZHS) | 2:33 | 2023-04-13 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-13 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 |  |
+| [loveday](https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5) | [JHN](https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk), [a friend of mine](https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8) | [loveday](https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X) | 2:28 | 2023-06-15 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2023-04-13 |  |
 | [Meant To Be](https://open.spotify.com/track/3qYjAxjvzzlGinGsOV8RWu) | [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8) | [Meant To Be](https://open.spotify.com/album/2EYjefWs2a5hdQqrr0rE9E) | 2:50 | 2023-04-13 |  |
 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 | 2023-05-26 | 2023-06-16 |
@@ -120,7 +121,7 @@
 | [TAKE ME HIGHER](https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [REGULARITY](https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S) | 2:53 | 2023-05-26 |  |
 | [talk](https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [talk](https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF) | 3:10 | 2023-04-27 |  |
 | [Talk To Me](https://open.spotify.com/track/0w5ebrPN1s8eLSVfA63L20) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Jonas LR](https://open.spotify.com/artist/7qN5EMGrVqdjmYWdNJgbNO) | [Talk To Me](https://open.spotify.com/album/4GAXTvUhu1NvcP3cM5G3Kj) | 3:30 | 2023-06-01 |  |
-| [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-04-13 |  |
+| [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-04-13 | 2023-06-19 |
 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 | 2023-04-13 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-04-13 |  |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 | 2023-04-13 |  |

@@ -992,7 +992,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 195758,
       "name": "Ap\u017eavai",
       "url": "https://open.spotify.com/track/12X9GMNhoP6tSj5ai0Kujw"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 186305,
       "name": "At The Sun",
       "url": "https://open.spotify.com/track/5lUYNYtcW0Iq07TotDpEOO"
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -9656,7 +9656,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 155583,
       "name": "kalb\u0117sim\u0117s/myl\u0117sim\u0117s",
       "url": "https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH"
@@ -10620,7 +10620,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -11160,6 +11160,28 @@
       "duration_ms": 176300,
       "name": "Look at Me",
       "url": "https://open.spotify.com/track/382fDahGazmlx2R4vggG8Y"
+    },
+    {
+      "album": {
+        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+        "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+      "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
     },
     {
       "album": {
@@ -13680,7 +13702,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 197400,
       "name": "Nemyl\u0117jau tav\u0119s",
       "url": "https://open.spotify.com/track/3yeqYN4uzkXF034vZJfeAh"
@@ -14072,7 +14094,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -17612,7 +17634,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -21602,7 +21624,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 147190,
       "name": "Vakar Vakare",
       "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"

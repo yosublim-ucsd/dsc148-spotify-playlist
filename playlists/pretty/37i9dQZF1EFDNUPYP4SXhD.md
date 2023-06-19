@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 165 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072 likes - 165 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 58 | [Pensando en Ti](https://open.spotify.com/track/33Xd0gRmLMzStrrWccKwuH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 2:59 |
 | 59 | [Imaginándote \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2zUo98khDXusmqfflgXcoy) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Lider](https://open.spotify.com/album/4Yfy7qLIXR5UB7ItE28MIO) | 3:45 |
 | 60 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 |
-| 61 | [Pierde Los Modales](https://open.spotify.com/track/4HGDI0rQi1DtLgmt1x8tX3) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 |
-| 62 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
+| 61 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
+| 62 | [Pierde Los Modales](https://open.spotify.com/track/4HGDI0rQi1DtLgmt1x8tX3) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 |
 | 63 | [Embriágame](https://open.spotify.com/track/07YFRv1Rj2iTtA7NY3CTcY) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:39 |
 | 64 | [Así Soy Yo](https://open.spotify.com/track/6NfC2FKfsfzuLIF4lThw0A) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:46 |
 | 65 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 87 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 88 | [Amor Prohibido](https://open.spotify.com/track/6BEegAev4N2O6arBbXgtdd) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 4:09 |
 | 89 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
-| 90 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
-| 91 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
+| 90 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
+| 91 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
 | 92 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
 | 93 | [Video Llamada](https://open.spotify.com/track/7wQQLVAxrmY4fox5GKasHX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:35 |
 | 94 | [Pa' Pasar El Rato](https://open.spotify.com/track/5Ar46ySD4J2cSao1iM16wp) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 3:15 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `MjgxMTYxMTAsMDAwMDAwMDBkOGUwYzQ1NWE4OTVmOGM2ZjhmYTRmNDM0NjAyY2I2NA==`
+Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDBlZDgwOTg2ZWI0MjAyNDc3MzBkOWRiNGRkYTcyODUxNQ==`

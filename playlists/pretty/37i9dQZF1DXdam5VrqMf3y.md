@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,057 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,008 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 36 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 37 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 |
 | 38 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 |
-| 39 | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \- Spotify Singles \- Christmas](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \(Spotify Singles \- Christmas\)](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
+| 39 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
 | 40 | [Last Christmas \- Recorded at Spotify Studios NYC \- Live](https://open.spotify.com/track/5xEGUxCXZxRFicoMlDgn9v) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles \- Holiday \(Live\)](https://open.spotify.com/album/1LsoxRCERzWRpdxoPfyOPB) | 3:22 |
 | 41 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 |
 | 42 | [Please Come Home For Christmas](https://open.spotify.com/track/6PMhkA8o1fsn3fLCYuFp9r) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Please Come Home For Christmas](https://open.spotify.com/album/0RGbhid5X6YXTfm09Fezyw) | 2:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 78 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 79 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MCw4ZmE3NzBjMjhkMDBjNjhlODE4YzQxYjEwYWYzNmRkNDRhNmExZTY5`
+Snapshot ID: `MCw5ODUyYjA5NmQwYmYxYWVlNTkwMTdjMTI1ZjRmNjAyMDc1MGM5MjE0`

@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover: Muslim \- مُسلِم
 
-304 songs - 18 hr 18 min
+305 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hadal Ahbek](https://open.spotify.com/track/6nIGMTqiL0cZYyNa8gzj0e) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:29 | 2022-07-22 | 2022-09-19 |
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-10-11 | 2023-02-15 |
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/309aAWtW77WKiVXNVO5gGb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 3:26 | 2023-02-09 |  |
+| [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 | 2023-06-18 |  |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-12 | 2022-11-02 |
 | [Han AlAn](https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Han AlAn](https://open.spotify.com/album/1ew6D40gSEKZKWxbNGXAvC) | 3:40 | 2021-12-12 | 2022-02-07 |
 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 | 2023-06-14 |  |

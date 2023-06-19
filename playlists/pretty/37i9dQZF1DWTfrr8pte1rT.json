@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/",
-  "num_followers": 308241,
+  "num_followers": 308310,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjk4ZTVmNmQ2YmFlZWEyNjQxYWIzMzczNzJiY2EyNDc1MWY5YWY2",
+  "snapshot_id": "MCw5MGRiMGNmZjU2ZmY5YWI2NjgyNmRlZTMyZjA0MjhiZWE4ODU2YzU5",
   "tracks": [
     {
       "added_at": "2023-06-02 17:17:16",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 151232,
+      "name": "It's A Dream (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 151232,
-      "name": "It's A Dream (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Crusade",
         "url": "https://open.spotify.com/album/5jlfz88EPcULVoVMxD171B"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 171428,
       "name": "Crusade",
       "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1225,6 +1225,26 @@
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
+    },
+    {
       "added_at": "2023-06-02 17:17:16",
       "album": {
         "name": "Happy",
@@ -1259,26 +1279,6 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
@@ -1567,26 +1567,6 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Day One (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
-      },
-      "artists": [
-        {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 204978,
-      "name": "Day One - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1611,6 +1591,26 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Day One (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 204978,
+      "name": "Day One - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         },
         {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1779,22 +1779,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Baptize (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         }
       ],
-      "duration_ms": 250241,
-      "name": "Baptize - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-06-02 17:17:16",

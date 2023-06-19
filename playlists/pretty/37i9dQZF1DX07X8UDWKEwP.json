@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Natti Natasha",
-  "num_followers": 253828,
+  "num_followers": 253901,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDJhM2Y2ZWY0MzkyZDE2NzM4ODNlNTE3NTQ2Mzc5YzgyMWE1OTky",
+  "snapshot_id": "MCw5M2IyM2ZiODRmNjg4ZTZiOTc4YmY1YjNlNzUwMzYzMTc1MDhkOTNj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:32:32",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-06-16 04:32:32",
       "album": {
+        "name": "Esta Vida (Salsa Version)",
+        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
+        }
+      ],
+      "duration_ms": 223439,
+      "name": "Esta Vida (Salsa Version)",
+      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+    },
+    {
+      "added_at": "2023-06-16 04:32:32",
+      "album": {
         "name": "Herrera",
         "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS"
-    },
-    {
-      "added_at": "2023-06-16 04:32:32",
-      "album": {
-        "name": "Esta Vida (Salsa Version)",
-        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
-        }
-      ],
-      "duration_ms": 223439,
-      "name": "Esta Vida (Salsa Version)",
-      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
     },
     {
       "added_at": "2023-06-16 04:32:32",
@@ -915,22 +915,18 @@
     {
       "added_at": "2023-06-16 04:32:32",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
     }
   ],
   "unique_name": "el nuevo tropical",

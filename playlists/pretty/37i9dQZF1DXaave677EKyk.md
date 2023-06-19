@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,806 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,822 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCw0ODYxYzBkNDk2MDgzN2Y1ODgyZjZiZWJmOTJiNzAzZGNhZWNkNjJm`
+Snapshot ID: `MCxiMGViMjU1OTRmZWZmZDQyYTkyODU1NDBlNDAyZjg5ZmE1OWY0YWY2`

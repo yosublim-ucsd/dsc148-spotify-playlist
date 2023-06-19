@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Libianca
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,058 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,073 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 |
 | 90 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
 
-Snapshot ID: `MCw4YjYyODgwNmFmMzUwMTNiZmM4YTlkNGE2NjhkN2ZkZWE3YTRmMWY5`
+Snapshot ID: `MCwzMzA0MmY3NjkxNjc5ZjI2NGJlZjcxODgzZGY4ZDk5Y2ExYzc0MmUw`

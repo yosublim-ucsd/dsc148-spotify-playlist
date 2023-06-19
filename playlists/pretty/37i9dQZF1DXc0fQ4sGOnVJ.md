@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,889 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,919 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 66 | [Field Party](https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [JJ Lawhorn](https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 4:23 |
 | 67 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
 | 68 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 |
-| 69 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
-| 70 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
+| 69 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
+| 70 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 71 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 | 72 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
-| 73 | [Fast Cars](https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H) | [Diego Fresh](https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O) | [Fast Cars](https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY) | 2:46 |
-| 74 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 |
+| 73 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 |
+| 74 | [Fast Cars](https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H) | [Diego Fresh](https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O) | [Fast Cars](https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY) | 2:46 |
 
-Snapshot ID: `MCxlMDFkZTM4NmY2MDE0NjgwNWQ1NzRmOTQ0OTRmMTE0OTMzODVkMmYx`
+Snapshot ID: `MCwzMDU4MDVjNWZhMzM5MGY4Mzk2YTI0YzAwMTMxMzJiZGYxODIzYTA1`

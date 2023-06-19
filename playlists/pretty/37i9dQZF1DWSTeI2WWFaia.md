@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,375 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,618,434 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 41 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 42 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
 | 43 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 |
-| 44 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
-| 45 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
+| 44 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
+| 45 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
 | 46 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 47 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
 | 48 | [Art Talk](https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:17 |
 | 49 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 | 50 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
 
-Snapshot ID: `MCw4YjhkOWNmYmNlMmNkODhhZTVkNzNkZWVmNmZlMGQ1NDA4N2I5OGI2`
+Snapshot ID: `MCwxNzg0ODgxMzg3ZGI5OTZmNTdkNTg4YzUzYTU1ZGJjMTc5YTBiYzNj`

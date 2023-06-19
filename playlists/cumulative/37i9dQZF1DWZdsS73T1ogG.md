@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Mont
 
-644 songs - 1 day 10 hr 41 min
+645 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,10 +590,11 @@
 | [TRIPLE H \- REMIX](https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [TRIPLE H \(REMIX\)](https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI) | 4:45 | 2023-04-28 | 2023-05-27 |
 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2023-04-14 |  |
 | [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 | 2022-11-11 | 2023-01-10 |
+| [TU LA TIENES](https://open.spotify.com/track/7mGr665pnl56czu20KVroU) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [TU LA TIENES](https://open.spotify.com/album/2eT29jUyCd1xjNVr1DFYT9) | 2:49 | 2023-06-16 |  |
 | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/track/4WvUzMxcub8CWjvHyMuEXu) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/album/51JvtglRteGeqbA0j6UciV) | 2:57 | 2022-09-06 | 2022-12-03 |
 | [Tu Mamá](https://open.spotify.com/track/5VdVHZJzHcRVSs1vyUH1oB) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tu Mamá](https://open.spotify.com/album/5EdGxZQTBt0gjKa5ioxolF) | 2:47 | 2022-08-26 | 2022-11-26 |
 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 | 2023-02-03 | 2023-03-18 |
-| [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 | 2023-03-10 |  |
+| [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 | 2023-03-10 | 2023-06-19 |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-03-03 | 2023-04-29 |
 | [Tu Silueta](https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Tu Silueta](https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha) | 3:17 | 2023-01-13 | 2023-03-11 |
 | [Tu2Ru \- Reggaeton Version](https://open.spotify.com/track/1vTI9hSr1Mx32Yy4nHhncT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:56 | 2022-06-10 | 2022-07-30 |

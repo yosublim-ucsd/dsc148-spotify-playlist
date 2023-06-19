@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: あっこゴリラ \(AKKOGORILLA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,247 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,251 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 |
 | 50 | [Telefon](https://open.spotify.com/track/73uwU7sDSuwFrZlnWrtToF) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Telefon](https://open.spotify.com/album/3HNvc9pFtMiciNaIpJck83) | 4:44 |
 
-Snapshot ID: `MCxhMDY5Y2Y1MWU5NmY0ZWRjOWU3NzBiYWJiOWEyNWNmNjlmNjkxNGE0`
+Snapshot ID: `MCxkZWU3YjI3OTRhMGVhZmUyMDdiN2Q3YzA3MjQ2NWJkOTU5ZjcxY2Jj`

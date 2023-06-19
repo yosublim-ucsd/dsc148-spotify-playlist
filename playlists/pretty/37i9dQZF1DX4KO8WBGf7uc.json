@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 286901,
+  "num_followers": 287245,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2E0MmM0MWQ4MjgyOTExMDRjZjg0NWVlM2Y3MzZjMTBhZmU0NTEw",
+  "snapshot_id": "MCw2ZDk2ZWQ5NWEwYzY3MDgyMzg4MjgxOTY1YzkwY2QxYzBlNjE2ZDY4",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -715,46 +715,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 305962,
-      "name": "Que Mas Pues - Remix",
-      "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -791,6 +751,46 @@
       "duration_ms": 286506,
       "name": "Cuaderno",
       "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 305962,
+      "name": "Que Mas Pues - Remix",
+      "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Caramelo (Remix)",
         "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 165646,
-      "name": "Fresa",
-      "url": "https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
         "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
       },
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 165646,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
       },
@@ -1391,26 +1391,6 @@
       "duration_ms": 151373,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1431,6 +1411,26 @@
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "Detective",
+        "url": "https://open.spotify.com/album/7fZ5cqL7bbmkABHhgbWZDB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Detective",
+      "url": "https://open.spotify.com/track/5lFl0Aksww4t4CGiYYtpZz"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "T\u00fa No Amas",
         "url": "https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 273321,
       "name": "T\u00fa No Amas",
       "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Detective",
-        "url": "https://open.spotify.com/album/7fZ5cqL7bbmkABHhgbWZDB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Detective",
-      "url": "https://open.spotify.com/track/5lFl0Aksww4t4CGiYYtpZz"
     },
     {
       "added_at": "2023-06-16 03:00:00",

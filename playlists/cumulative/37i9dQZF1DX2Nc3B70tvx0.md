@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Cover: Q
 
-1,626 songs - 4 day 1 hr 35 min
+1,627 songs - 4 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2022-07-29 | 2022-09-23 |
 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 | 2021-12-10 | 2022-04-04 |
 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 | 2019-10-04 | 2020-03-21 |
-| [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-14 |  |
+| [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-14 | 2023-06-19 |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-11-10 | 2022-04-07 |
 | [Days Like These](https://open.spotify.com/track/2exuDqNVfSYuPEBAmogFeY) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Days Like These](https://open.spotify.com/album/3OIhcJ1dODYadOqISRc4SG) | 3:32 | 2021-08-19 | 2021-08-20 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-05-26\* | 2019-11-01 |
@@ -588,6 +588,7 @@
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-09 |  |
 | [Heat Lightning](https://open.spotify.com/track/6q2siYjkPyHLD9GqXRJWQR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Heat Lightning](https://open.spotify.com/album/45wp7GoaC2IVvTC8w70Hwx) | 2:51 | 2021-12-10 | 2022-01-22 |
 | [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2019-09-06 | 2019-10-04 |
+| [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 |  |
 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/3MysmIY9A5dXcj5hbBQsDS) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Sunday Self](https://open.spotify.com/album/0H3YnP2NCBgaHY7qbnIna9) | 4:17 | 2020-09-04 | 2020-12-04 |
 | [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 | 2020-12-04 | 2020-12-22 |
 | [Hello Hello Hello \- Polo & Pan Remix](https://open.spotify.com/track/0DWTIW018T4iqubyYdU43r) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Hello Hello Hello \(Polo & Pan Remix\)](https://open.spotify.com/album/55L7SoSuzXa9XbyQfrT9AJ) | 3:55 | 2020-12-04 | 2021-05-20 |

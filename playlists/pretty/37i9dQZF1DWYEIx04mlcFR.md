@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > ¡La Gen 23 está aquí! La nueva ola de artistas con Leon Leiden en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,030 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,049 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 | 75 | [No era para tanto](https://open.spotify.com/track/62m3GKHn5Q6d7Qnt6RBcSk) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [No era para tanto](https://open.spotify.com/album/5YbzZLp4ooWjIbgefT7CnM) | 3:51 |
 
-Snapshot ID: `MCwxZmFkNmQwMmRiNzMwZjljMjZjYjA3ZmY2MWM1NmM0ZGNhMGI5MTgw`
+Snapshot ID: `MCw0YjVmZDk1ZWIxNjEzY2JkNDgyYmQ5ZWU4ZGFkNjBjMmFjNDNiMWVl`

@@ -4,7 +4,7 @@
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 30 min
+67 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Love Drugs and Sex](https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:37 | 2023-01-18 |  |
 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 | 2023-01-18 |  |
 | [Me and My Guitar](https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:41 | 2023-01-18 |  |
+| [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 | 2023-06-18 |  |
 | [Money Conversations](https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:11 | 2023-01-18 | 2023-06-15 |
 | [Monica Lewinsky \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hTErxf8ZqFNGH0hZqEoAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:20 | 2023-01-18 |  |
-| [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 | 2023-01-19 |  |
+| [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 | 2023-01-19 | 2023-06-19 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-13 |  |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2023-01-18 |  |
 | [Needed That](https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 | 2023-01-18 |  |
@@ -71,7 +72,8 @@
 | [Timeless \(feat\. DJ SPINKING\)](https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM) | [TBA](https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi) | 3:04 | 2023-01-18 |  |
 | [Turn Off The Radio](https://open.spotify.com/track/1Jm9YFU7BLkDR2dSOb8ebB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:05 | 2023-01-18 | 2023-04-24 |
 | [WAKA](https://open.spotify.com/track/6ZyjQTlZxDtdjYKDwcAWNk) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 2:08 | 2023-01-18 |  |
-| [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2023-01-18 |  |
+| [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 | 2023-06-18 |  |
+| [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2023-01-18 | 2023-06-19 |
 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 | 2023-01-18 |  |
 
 \*This playlist was first scraped on 2023-01-19. Prior content cannot be recovered.

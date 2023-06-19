@@ -2589,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "En Nota",
+        "url": "https://open.spotify.com/album/5ptlZw4xjZ0P5c7EAs72jM"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "En Nota",
+      "url": "https://open.spotify.com/track/20Q3Oyu7B8C5CQklLSKha3"
+    },
+    {
+      "album": {
         "name": "Engorilao",
         "url": "https://open.spotify.com/album/3WiRJmN1HBpn4Rd9UX2K2d"
       },
@@ -4706,7 +4728,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 200058,
       "name": "Mente De Pecao - Remix",
       "url": "https://open.spotify.com/track/1IOOAeDyZwGYqnLQCsEKrC"

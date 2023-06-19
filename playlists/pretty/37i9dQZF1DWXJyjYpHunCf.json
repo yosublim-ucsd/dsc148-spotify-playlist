@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 827886,
+  "num_followers": 828119,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGU1Y2FmMjJmODU3ZjAzYThmZDZjNzI4OWZiYzJhY2E4Y2ZkNWFi",
+  "snapshot_id": "MCw5NWM4NThiNDBkMGZjYTA0ZTA3MGFlMjgzYjE2ODU4Nzg2NjIzMTRj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 292903,
-      "name": "The View Between Villages - Extended",
-      "url": "https://open.spotify.com/track/5ihBtaVVMqO5VqJA5wnmfy"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -703,18 +671,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
       "artists": [
         {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+      "duration_ms": 292903,
+      "name": "The View Between Villages - Extended",
+      "url": "https://open.spotify.com/track/5ihBtaVVMqO5VqJA5wnmfy"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -731,6 +699,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+      "duration_ms": 185583,
+      "name": "My Repair",
+      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -855,22 +855,6 @@
       "duration_ms": 212455,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "My Repair",
-      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -975,22 +959,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -1003,6 +971,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 171157,
-      "name": "18",
-      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 171157,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
     },
     {
       "added_at": "2023-06-16 04:00:00",

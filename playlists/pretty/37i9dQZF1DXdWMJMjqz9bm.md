@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,092 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,154 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 |
 | 100 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 
-Snapshot ID: `MCwyM2FjZjc0ZTZjY2M1NjA3YjNiYzBmZTBkYzhhODNjOWMzZDYyODhj`
+Snapshot ID: `MCxlNzQ3Y2U0N2NkMDZhYjkyOWU4YzdmZGViZDRkMDJiZGM2MTZiZWUx`

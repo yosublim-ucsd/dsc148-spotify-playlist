@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67087,
+  "num_followers": 67102,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM3YTA1ZjM5MDQwOGQ5MTFlZjk1YTliMThjYjkzNmYwNzA0YjFi",
+  "snapshot_id": "MCw5OGQ2MTZiM2ZlMDAzZmYwMmJiYzgyODFiNzI1NmM4MTE3MDk2NmQy",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -391,18 +391,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Dimman",
-        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
+        "name": "Hei Sommer",
+        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 217142,
-      "name": "Dimman",
-      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+      "duration_ms": 172516,
+      "name": "Hei Sommer",
+      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -487,22 +491,34 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Hei Sommer",
-        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
+        "name": "Dimman",
+        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
       },
       "artists": [
         {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        },
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Dimman",
+      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+      },
+      "artists": [
         {
           "name": "Syster Sol",
           "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 172516,
-      "name": "Hei Sommer",
-      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 189600,
       "name": "Mera tid",
       "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-06-08 22:00:00",

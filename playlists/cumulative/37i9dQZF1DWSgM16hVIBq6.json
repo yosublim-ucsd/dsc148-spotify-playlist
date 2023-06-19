@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203821,
+      "name": "Carcelero",
+      "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
+    },
+    {
+      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 250373,
       "name": "Rie y Llora",
       "url": "https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV"

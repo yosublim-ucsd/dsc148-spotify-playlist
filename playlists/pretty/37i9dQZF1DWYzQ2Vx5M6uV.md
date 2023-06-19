@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ozuna & Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,877 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,922 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 63 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 | 64 | [Yoyo](https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ) | [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P) | [Yoyo](https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR) | 2:36 |
 | 65 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 |
-| 66 | [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 |
-| 67 | [Prende](https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Flavors 2](https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2) | 3:14 |
+| 66 | [Prende](https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Flavors 2](https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2) | 3:14 |
+| 67 | [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 |
 | 68 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 | 69 | [Te Gusta](https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z) | [Young "D"](https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Te Gusta](https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V) | 3:26 |
 | 70 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 
-Snapshot ID: `MCwxMGY1NTJmNDAwOTUxZmUzMzZlYTFiNGRlNTUyZGYwNWFkNzA4YzY5`
+Snapshot ID: `MCxlMzQ1YjRhY2FjNWM4M2E5YTFlYzk1MTMxYjBkMjk1Yzk0MTMzMjcy`

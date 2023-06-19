@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Royal Blood",
-  "num_followers": 466362,
+  "num_followers": 466614,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRjMGIyZTBkMzlmYzI3YjJkMzljOWZiNmU4MzQzNGMwMTRhYTM3",
+  "snapshot_id": "MCwwYmVjYWY3YTFmZjU0MjQxMGVmODY5YjE1YTI2ZjEwZTU4NmM1NDY5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 228639,
       "name": "New Fang",
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Double Life",
         "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 143712,
       "name": "Double Life",
       "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Heart On",
-        "url": "https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Wannabe In L.A",
-      "url": "https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "daphne did it / the depths",
-        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "daphne did it",
-      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Sound & Color",
         "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
@@ -935,34 +903,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+        "name": "Heart On",
+        "url": "https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
         }
       ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+      "duration_ms": 135853,
+      "name": "Wannabe In L.A",
+      "url": "https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -983,6 +935,38 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "daphne did it / the depths",
+        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 202687,
+      "name": "daphne did it",
+      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 179447,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "added_at": "2023-06-09 04:00:00",

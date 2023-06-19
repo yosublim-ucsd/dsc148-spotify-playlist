@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring Cazzu & Young Miko \ud83d\ude08",
-  "num_followers": 27620,
+  "num_followers": 27685,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTkxYmE5YmUzMDM4YmU3ZTFjNzNkNTc2MzBlYzcwOTRkODY5NTQz",
+  "snapshot_id": "MCw0YzA0ODcxZDMxN2ZjZWVjNDAzZTNjZmYyNzI0NGMyYWQ1NzczOTNj",
   "tracks": [
     {
       "added_at": "2023-06-02 17:44:53",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-06-02 17:44:53",
       "album": {
-        "name": "LA SANTA",
-        "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 165285,
-      "name": "LA SANTA",
-      "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-06-02 17:44:53",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-06-02 17:44:53",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+        "name": "LA SANTA",
+        "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+      "duration_ms": 165285,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
     },
     {
       "added_at": "2023-06-02 17:44:53",

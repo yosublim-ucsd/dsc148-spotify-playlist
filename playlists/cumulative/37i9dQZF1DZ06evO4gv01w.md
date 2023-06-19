@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 23 min
+112 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,12 @@
 | [Blood Harmony](https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 4:05 | 2022-11-18 | 2022-11-25 |
 | [Blood Harmony](https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz) | 4:05 | 2022-08-05 | 2022-11-19 |
 | [Blue & Sentimental](https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Shawn Pelton](https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl) | [Late Night Basie](https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2) | 3:51 | 2023-04-16 |  |
-| [Blue Ridge Mountains](https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:51 | 2022-08-06 |  |
+| [Blue Ridge Mountains](https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:51 | 2022-08-06 | 2023-06-19 |
+| [Blue Ridge Mountains](https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 2:51 | 2023-06-18 |  |
 | [Blunt](https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:24 | 2022-08-05 | 2022-11-14 |
 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-13 |  |
 | [California King](https://open.spotify.com/track/6R6CYB7cTXHsDVIoat8gD0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:18 | 2022-09-28 | 2023-06-13 |
-| [Cast 'Em Out](https://open.spotify.com/track/4PNdcQNxEhUU6mQlMu3Amf) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-17 |  |
+| [Cast 'Em Out](https://open.spotify.com/track/4PNdcQNxEhUU6mQlMu3Amf) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-17 | 2023-06-19 |
 | [Come on in My Kitchen](https://open.spotify.com/track/579GL5nioUg1vxV1ilSFRR) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:11 | 2022-08-05 |  |
 | [Crown of Fire](https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:10 | 2022-08-05 |  |
 | [Danger Angel](https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:27 | 2022-08-05 | 2022-11-25 |
@@ -74,7 +75,8 @@
 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 | 2022-08-05 | 2023-03-27 |
 | [Kick the Blues](https://open.spotify.com/track/3Ew6JCug88Q7ErOEuivKvO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:26 | 2022-11-13 | 2023-02-16 |
 | [Lips as Cold as Diamond](https://open.spotify.com/track/6upK1XPCPnq0uO6hyLA0yE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:42 | 2022-11-13 | 2022-11-19 |
-| [Look Away](https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:24 | 2022-08-05 |  |
+| [Look Away](https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:24 | 2022-08-05 | 2023-06-19 |
+| [Look Away](https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 3:24 | 2023-06-18 |  |
 | [Mad As A Hatter \(Live In Concert\)](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 | 2022-08-05 | 2023-03-26 |
 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 5:12 | 2023-03-25 |  |
 | [Might as Well Be Me \- Audiotree Live Version](https://open.spotify.com/track/6xRzcMt6n6rRENi85kreGF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Larkin Poe on Audiotree Live](https://open.spotify.com/album/0OiEBU03Rq4OxtXL2M6VEy) | 4:21 | 2022-08-05 | 2022-11-14 |
@@ -114,7 +116,7 @@
 | [To Myself](https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Spring](https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp) | 3:48 | 2022-08-05 | 2022-10-13 |
 | [Tom Devil](https://open.spotify.com/track/2PuIl8FZD4khF7lAt4UK2t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-16 | 2023-06-18 |
 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 | 2022-08-05 |  |
-| [Wanted Woman / AC/DC](https://open.spotify.com/track/73bHNhi5S8ms9XHJLEXbIn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 4:50 | 2022-08-05 | 2023-06-15 |
+| [Wanted Woman / AC/DC](https://open.spotify.com/track/73bHNhi5S8ms9XHJLEXbIn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 4:50 | 2022-08-05 |  |
 | [We Intertwine](https://open.spotify.com/track/2wY8dr3fDqMEBc20C889bU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 4:04 | 2023-03-14 |  |
 | [When God Closes a Door](https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:29 | 2022-08-05 |  |
 | [Who Do You Love](https://open.spotify.com/track/1Vi3gGQLYS28QwyTNXz9Im) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 2:15 | 2023-03-20 | 2023-03-22 |

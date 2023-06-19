@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 54375,
+  "num_followers": 54425,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODliMDllYzNkYzVmYjViNzg1MTEzMDQ3NGY1ZjVlYWU5NTU5NDgx",
+  "snapshot_id": "MCwyNjhhNmQzM2JmMWRmOTRlODI1YmY2NTYwNDRmYmRjM2Q1NzEzZjYx",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -339,22 +339,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Que Me Importa",
-        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         },
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 208541,
-      "name": "Que Me Importa",
-      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+        "name": "Que Me Importa",
+        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+      "duration_ms": 208541,
+      "name": "Que Me Importa",
+      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Me Met\u00ed En El Ruedo (En Vivo)",
-        "url": "https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2"
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 174985,
-      "name": "Me Met\u00ed En El Ruedo (En Vivo)",
-      "url": "https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn"
+      "duration_ms": 193840,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "El Mensaje",
-        "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
+        "name": "Me Met\u00ed En El Ruedo (En Vivo)",
+        "url": "https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 193840,
-      "name": "El Mensaje",
-      "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
+      "duration_ms": 174985,
+      "name": "Me Met\u00ed En El Ruedo (En Vivo)",
+      "url": "https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "El Chino",
         "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 167439,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "F\u00e1cil Criticar (En Vivo)",
-        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
+        "name": "En Vivo Desde la Paz",
+        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 194253,
-      "name": "F\u00e1cil Criticar - En Vivo",
-      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
+      "duration_ms": 458442,
+      "name": "Popurri Boleros Cadetes - En Vivo",
+      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1671,18 +1667,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo Desde la Paz",
-        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
+        "name": "F\u00e1cil Criticar (En Vivo)",
+        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         }
       ],
-      "duration_ms": 458442,
-      "name": "Popurri Boleros Cadetes - En Vivo",
-      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
+      "duration_ms": 194253,
+      "name": "F\u00e1cil Criticar - En Vivo",
+      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
         "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Gotas de Agua Dulce",
-        "url": "https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 175438,
-      "name": "Gotas de Agua Dulce",
-      "url": "https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "A Cada Rato (En Vivo)",
-        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
+        "name": "Gotas de Agua Dulce",
+        "url": "https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
         }
       ],
-      "duration_ms": 185983,
-      "name": "A Cada Rato (En Vivo)",
-      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
+      "duration_ms": 175438,
+      "name": "Gotas de Agua Dulce",
+      "url": "https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2411,6 +2395,22 @@
       "duration_ms": 176650,
       "name": "La M\u00e1s Bonita de Todas - En Vivo",
       "url": "https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "A Cada Rato (En Vivo)",
+        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185983,
+      "name": "A Cada Rato (En Vivo)",
+      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo: Desde Los Cabos",
-        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "Alma Enamorada - En Vivo",
-      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Los De La Noria En Vivo",
         "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 142240,
       "name": "El Flaquito",
       "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Alma Enamorada - En Vivo",
+      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2627,26 +2627,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Flor Hermosa (En Vivo)",
-        "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Flor Hermosa - En Vivo",
-      "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "El Juan",
         "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
       },
@@ -2663,6 +2643,22 @@
       "duration_ms": 138703,
       "name": "El Juan - Vivo",
       "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "Basta Ya - En Vivo",
+      "url": "https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,477 likes - 155 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,492 likes - 155 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 154 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 |
 | 155 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MCwwOWQ2Yzc3NGY5ZmFhZTFmMDljMDdkMDliYzU1ZjNjNzYzYWIxOGNm`
+Snapshot ID: `MCxjMDNhZTU5NDYzOTc2OGY2YTU1ZmIzMzk3YjEwMzhhNzZjMDk2NGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sevendust on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,422,684 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422,865 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 26 | [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 |
 | 27 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 |
 | 28 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 |
-| 29 | [Never Dawn](https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo) | 4:49 |
+| 29 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 |
 | 30 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 31 | [Dark Waves](https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v) | 3:42 |
 | 32 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Into the Abyss](https://open.spotify.com/track/73fjFTOGycMPfGyWrIPXfg) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34) | 3:23 |
 | 75 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 |
 
-Snapshot ID: `MCw1NjU3ZTkxOTJiZDExMWZiYmExMTgzYzA0ZDE3NjRmMDRiMDRkM2Rk`
+Snapshot ID: `MCxmMGFlM2RiMGFkMzNlZDk0OTQ0OGZiOGQ4NzdlMGU3ZjE5Nzg3NWUw`

@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 259612,
+  "num_followers": 259775,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWQ5MDRhOWU0YjJjMDZlMDBlNTVlM2I2MGM2NmQ3YmQ2NjBhZmVl",
+  "snapshot_id": "MCwwNjhjMWExMzUzNzkzZWVmOTE0YTUzZGRiOTMyYzEyYTQxZWJhYjE3",
   "tracks": [
     {
       "added_at": "2023-05-15 18:59:47",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "On My Mind (Jorja Smith X Preditah)",
         "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Sex & Food",
         "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "The Virgins",
         "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 208946,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1475,6 +1459,22 @@
       "duration_ms": 207186,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Peur des filles (Montmartre Remix)",
         "url": "https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO"
       },
@@ -1735,38 +1755,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Leave It Alone",
-        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+        "name": "Duo",
+        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 171111,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
-    },
-    {
-      "added_at": "2023-05-19 18:50:51",
-      "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
-      },
-      "artists": [
-        {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "1986",
-      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
+      "duration_ms": 126700,
+      "name": "Duo",
+      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1789,20 +1789,20 @@
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-05-19 18:50:51",
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
+        "name": "1986",
+        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
         }
       ],
-      "duration_ms": 126700,
-      "name": "Duo",
-      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
+      "duration_ms": 212626,
+      "name": "1986",
+      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
     }
   ],
   "unique_name": "Soir\u00e9e",

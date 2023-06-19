@@ -1,12 +1,12 @@
 {
   "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Doja Cat\n",
-  "num_followers": 117005,
+  "num_followers": 117007,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWExNjBmMGJkNWNhYzA4Y2U5YmE0NmQ0MTEzZjJlYWEzYWVjYjZl",
+  "snapshot_id": "MCxlNTUxZjNjMTdkNDJkMzFiMGVkNGYxODFhM2JkMDY2YjI3MDdjZTBi",
   "tracks": [
     {
       "added_at": "2023-06-16 15:05:07",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 260962,
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 224803,
-      "name": "Curtains",
-      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "TUYA",
         "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "Never Ending Song",
-        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Never Ending Song",
-      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "DISPARA ***",
         "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+        "name": "Never Ending Song",
+        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
+      "duration_ms": 155202,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -475,6 +459,22 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "I like u",
-        "url": "https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "I like u",
-      "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "Angel (From Barbie The Album)",
         "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 123820,
       "name": "Angel (From Barbie The Album)",
       "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "I like u",
+        "url": "https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "I like u",
+      "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
         "name": "End Of Time",
         "url": "https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB"
       },
@@ -711,18 +727,22 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+      "duration_ms": 172536,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -747,26 +767,6 @@
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 172536,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
     },
     {
       "added_at": "2023-06-16 15:05:07",

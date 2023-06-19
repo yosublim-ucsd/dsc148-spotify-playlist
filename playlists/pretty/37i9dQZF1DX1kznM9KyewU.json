@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 67705,
+  "num_followers": 67788,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzYwZjZkYTkxNmZjMzhkMDJhMTMzZDViYmE4ZDU4NjcxYWQ4MWRk",
+  "snapshot_id": "MCxjZjNmNzY3NGNhMjUzMmUxMWJjNjM4NjNiYTIwNDIyYzM2ZjljNmYw",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Until It Sleeps",
-      "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 205693,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "90s Mixtape",
-        "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
       },
       "artists": [
         {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 219813,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj"
     }
   ],
   "unique_name": "90s Summer Rock",

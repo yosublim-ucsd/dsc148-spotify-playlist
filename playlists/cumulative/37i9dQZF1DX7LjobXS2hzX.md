@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Lost, Loud
 
-251 songs - 13 hr 12 min
+252 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-09 |  |
 | [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 | 2023-05-12 |  |
 | [Ce soir je danse](https://open.spotify.com/track/7A2RNX0JUMC9ZYWl7a5pyC) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:09 | 2022-07-09 | 2022-12-06 |
+| [Central Park La Fontaine](https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Central Park La Fontaine](https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl) | 3:20 | 2023-06-18 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-21 |  |
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-07-09 | 2022-07-16 |
 | [Ciao](https://open.spotify.com/track/0aZLOxHw1ZeGYH3xDDywaO) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Ciao](https://open.spotify.com/album/61sqiWB2Mjp38tQYvwVg5B) | 3:57 | 2022-07-09 | 2023-02-18 |
@@ -164,7 +165,7 @@
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-28 | 2023-03-25 |
 | [Molle twist vanille\-vanille](https://open.spotify.com/track/1ZYsc0atLLow4S6f6ugxLZ) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Molle twist vanille\-vanille](https://open.spotify.com/album/1wk0ZW3FAXjV95BM11YQlB) | 2:43 | 2022-09-30 | 2022-10-08 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 | 2022-07-29 | 2022-08-27 |
-| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-16 |  |
+| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-16 | 2023-06-19 |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-11-12 |
 | [Monnaie](https://open.spotify.com/track/6dRUldhAZbrETlX9N3eFzJ) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HuU0JaYvO2KeiezZH9F61) | 2:29 | 2022-10-21 | 2022-10-26 |
 | [N'y pense plus](https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:32 | 2022-09-23 | 2022-10-29 |

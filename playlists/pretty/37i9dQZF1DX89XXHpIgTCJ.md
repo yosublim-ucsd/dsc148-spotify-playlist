@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,177 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,695 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 48 | [It's Goin' Down \(feat\. Mike Shinoda & Mr\. Hahn\)](https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq) | [X\-Ecutioners](https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Mr\. Hahn](https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd) | [Built From Scratch](https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv) | 4:08 |
 | 49 | [Raise Hell](https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6) | 5:09 |
 | 50 | [Shame](https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 2:40 |
-| 51 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
-| 52 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
+| 51 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
+| 52 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
 | 53 | [Bring Tha Noize](https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 3:47 |
 | 54 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 55 | [Unfuck The World](https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 60 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 
-Snapshot ID: `MCwzNjU3MWYxNTg4YmMxZTU0NGMzZmNlMjgxN2RhODBlZWQxOTY4Njlh`
+Snapshot ID: `MCxjNWFhMWFlODRkZWI4MjhhM2M4YzgwYTQyMDBkNmQ5YTYxYTIwYmE5`

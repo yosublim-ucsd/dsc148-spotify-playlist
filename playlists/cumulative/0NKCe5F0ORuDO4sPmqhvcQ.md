@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-455 songs - 1 day 1 hr 34 min
+456 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2022-12-12 | 2023-01-30 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
 | [tacit](https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f), [Una Mey](https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo) | [tacit](https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn) | 3:08 | 2023-03-30 | 2023-04-01 |
+| [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [2livemafia](https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux) | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78) | 2:46 | 2023-06-18 |  |
 | [take me far away](https://open.spotify.com/track/7zwBK6O9AXWSjqC4y7POIj) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [take me far away](https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac) | 5:09 | 2021-11-22 | 2022-01-08 |
 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 | 2022-07-21 | 2022-07-23 |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-14 | 2023-01-30 |

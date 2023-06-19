@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,370 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,023 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Sugar Junky](https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Castle in Madness](https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc) | 2:05 |
 | 75 | [Galnia](https://open.spotify.com/track/3eM90CEzFz0LqRoQI6IVMr) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Galnia](https://open.spotify.com/album/6WHM2nvsIWkeW7tMnsPoPw) | 5:07 |
 
-Snapshot ID: `MCwyOTlmNjNjMmM3ODI3YzA0Mjk3MzdkNzBmNjg0NDIzOWZlOTBhMDIw`
+Snapshot ID: `MCw3MWZhMzYxOTIzOWViMDZjZGY5MDEzMGUwMTAxNTI2Njk4ZjBjZDE2`

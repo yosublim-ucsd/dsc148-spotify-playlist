@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 258209,
+  "num_followers": 258481,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTY1MWYwYWIwZTg0ZmRlNmY2OTcxNWI4NGE0ZTQxYjkxYzhmY2E3",
+  "snapshot_id": "MCxiYjViMjM3YWViOThmNWJmYjU0ZmIxMmQ3YTg0OTE4MTkwZDQyMjhm",
   "tracks": [
     {
       "added_at": "2023-06-09 07:45:52",
@@ -411,30 +411,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Rhi'N'B",
-          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
       },
@@ -451,6 +427,26 @@
       "duration_ms": 183000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -491,22 +487,26 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
       "artists": [
         {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
         },
         {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
+      "duration_ms": 158400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
       "artists": [
         {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
         },
         {
-          "name": "JAVID",
-          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
         }
       ],
-      "duration_ms": 551025,
-      "name": "Ala Moj Al Bahr - Javid Remix",
-      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1367,22 +1367,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
         },
         {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+          "name": "JAVID",
+          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
         }
       ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+      "duration_ms": 551025,
+      "name": "Ala Moj Al Bahr - Javid Remix",
+      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1795,30 +1795,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
-      },
-      "artists": [
-        {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        }
-      ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1859,22 +1835,26 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
       },
       "artists": [
         {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
         },
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
         }
       ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
+      "duration_ms": 176164,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1891,6 +1871,26 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "added_at": "2023-06-09 07:45:52",

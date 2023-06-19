@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,093 songs - 2 day 11 hr 31 min
+1,094 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Agosto](https://open.spotify.com/track/0wihfILRNOwE2156Shezc8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:19 | 2022-08-04 | 2022-08-10 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-31 | 2022-06-15 |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-05-09 | 2023-05-24 |
+| [Al Ritmo del Tigre](https://open.spotify.com/track/0tLkqnYeNJZjhCJAWRDtu9) | [Los Dinos de Chile](https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0) | [Ponguemosle Gueno Parientito](https://open.spotify.com/album/6zpZQDy1hC28mPCrM5BE1A) | 3:04 | 2023-06-18 |  |
 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 | 2022-10-02 | 2022-10-26 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2022-10-11 | 2022-11-13 |
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2023-05-05 |  |
@@ -1037,7 +1038,7 @@
 | [VIO CON LA POLI](https://open.spotify.com/track/6zDTcJ3LYsF499KJXWGTXI) | [Piromano El Del Flow Gitano](https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0) | [VIO CON LA POLI](https://open.spotify.com/album/0uwZw2WoMUTXnGo4oJyAo6) | 2:31 | 2022-08-30 | 2022-09-09 |
 | [Vista Al Mar](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Vista Al Mar](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-10-04 | 2022-12-15 |
 | [Visto](https://open.spotify.com/track/77dnbVCFQJSvQN7RDgtAaw) | [Cvssiel](https://open.spotify.com/artist/6kHKj1YilXYA5am661cwOo), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Visto](https://open.spotify.com/album/39jR0CmgEKsu1S2rjDp6ht) | 3:00 | 2022-09-14 | 2022-09-17 |
-| [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 | 2023-05-02 |  |
+| [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 | 2023-05-02 | 2023-06-19 |
 | [Vuelve](https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Vuelve](https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi) | 3:17 | 2022-12-23 | 2022-12-28 |
 | [Wacha Loca](https://open.spotify.com/track/2y3Bbr5MAmoVbLYuOBmQBQ) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [Wacha Loca](https://open.spotify.com/album/6nhk4ErONdKKmpcJE5k7CV) | 2:40 | 2022-07-30 | 2022-08-17 |
 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-02-14 | 2023-02-28 |

@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Jenny Lewis",
-  "num_followers": 406787,
+  "num_followers": 406858,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzNhNjlhNzQwZTU5Y2U4MjhhNDMyZmFlNTExZDc4MTgzNDM1ZTYy",
+  "snapshot_id": "MCxmMjdiYWMzMGYxZjBkZTE1YzY5MmUzMTUyMDA1OGNmOGI1YTE3YzVk",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+        "name": "Tip of the Sphere",
+        "url": "https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+      "duration_ms": 168736,
+      "name": "Absentee",
+      "url": "https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Tip of the Sphere",
-        "url": "https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG"
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
       },
       "artists": [
         {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 168736,
-      "name": "Absentee",
-      "url": "https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp"
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Bottle It Up",
         "url": "https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 185637,
       "name": "Bottle It Up",
       "url": "https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 254735,
       "name": "First Time",
       "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "To Love",
+        "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        },
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 216189,
+      "name": "Every Day's A Lesson In Humility",
+      "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "In The Blossom of Their Shade",
         "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
       },
@@ -1559,22 +1579,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1587,6 +1591,22 @@
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "To Love",
-        "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        },
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Every Day's A Lesson In Humility",
-      "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "How Long (Single Version)",
-        "url": "https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD"
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
       },
       "artists": [
         {
-          "name": "Sumbuck",
-          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 214234,
-      "name": "How Long (Single Version)",
-      "url": "https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB"
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "How Long (Single Version)",
+        "url": "https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        }
+      ],
+      "duration_ms": 214234,
+      "name": "How Long (Single Version)",
+      "url": "https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Fever Breaks",
         "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
       },
@@ -1959,22 +1975,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "The Jacket",
         "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
       },
@@ -1987,6 +1987,22 @@
       "duration_ms": 259181,
       "name": "Everything Is Simple",
       "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2059,22 +2075,6 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2179,38 +2179,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -2231,6 +2199,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2023-06-16 04:00:00",

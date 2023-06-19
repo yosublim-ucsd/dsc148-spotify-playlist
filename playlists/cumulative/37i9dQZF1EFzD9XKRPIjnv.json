@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/5z68JxvmwZISUCDN9g9iEZ"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221537,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/6HaNzxy9GLROCBl5aUjoKj"
+    },
+    {
+      "album": {
         "name": "To A Stranger",
         "url": "https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG"
       },

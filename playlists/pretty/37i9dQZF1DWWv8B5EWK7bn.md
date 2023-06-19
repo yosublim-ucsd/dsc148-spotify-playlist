@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,939 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,065 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 58 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 |
 | 59 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 |
 | 60 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
-| 61 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 |
-| 62 | [Shining Armor](https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 2:39 |
-| 63 | [Feedback Loop](https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Songs For Vienna](https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a) | 3:08 |
-| 64 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
+| 61 | [Shining Armor](https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 2:39 |
+| 62 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 |
+| 63 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
+| 64 | [Feedback Loop](https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Songs For Vienna](https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a) | 3:08 |
 | 65 | [Plans](https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:38 |
 | 66 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 |
 | 67 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
@@ -80,14 +80,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 70 | [Aplomb](https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR) | [Mt\. Mountain](https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4) | [Centre](https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7) | 4:40 |
 | 71 | [Painted the Room](https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Prize](https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k) | 4:13 |
 | 72 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
-| 73 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 |
+| 73 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 |
 | 74 | [I KNOW YOU'RE HAPPY](https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:15 |
-| 75 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 |
+| 75 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 |
 | 76 | [Heartlow \- Edit](https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i) | 3:38 |
 | 77 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
-| 78 | [Where Do We Begin?](https://open.spotify.com/track/6Tfsdsg4ct1743ozsFnars) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Where Do We Begin?](https://open.spotify.com/album/6CxdKMadvKTGLOGgTcELUL) | 5:40 |
+| 78 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 |
 | 79 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 |
-| 80 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 |
+| 80 | [Where Do We Begin?](https://open.spotify.com/track/6Tfsdsg4ct1743ozsFnars) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Where Do We Begin?](https://open.spotify.com/album/6CxdKMadvKTGLOGgTcELUL) | 5:40 |
 | 81 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 |
 | 82 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 83 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 | 100 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 5:11 |
 
-Snapshot ID: `MCw2ZWU2NThjMjFlYTE5NGI3YzRlZWU2M2ZiZGI4M2ZlMDhhZjE1NGJl`
+Snapshot ID: `MCwzYjQwYTU1MmY3N2Q5OTA0M2NkOGVjMWI2NGEzODg1ZTA3OWQ2YmUz`

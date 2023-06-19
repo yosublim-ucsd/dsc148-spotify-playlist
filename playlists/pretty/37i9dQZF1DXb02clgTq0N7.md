@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,695 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,806 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 61 | [El Sinvergüenza \(Con Banda Sinaloense\)](https://open.spotify.com/track/6mtpdwKaX6wQLqOgh6I6ys) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:02 |
 | 62 | [El Perro](https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Perro](https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp) | 2:04 |
 | 63 | [Botas Blancas](https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 2:48 |
-| 64 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
-| 65 | [El R\-R](https://open.spotify.com/track/0TptTiZJYohjInL5NFDbNX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:44 |
+| 64 | [El R\-R](https://open.spotify.com/track/0TptTiZJYohjInL5NFDbNX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:44 |
+| 65 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
 | 66 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 |
 | 67 | [Catarino y los Rurales](https://open.spotify.com/track/2I70vOEwCslFHPgubPRN67) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:15 |
 | 68 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 | 69 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 | 70 | [Hace Falta Alfredo](https://open.spotify.com/track/3AVWAizGEQ5z10Ac3Y1I4R) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Fuera De Serie](https://open.spotify.com/artist/7cBeYyUmgHMHbDO2Zr7utS) | [Emilio Garra](https://open.spotify.com/album/7eXf8TK9XzmQHmaGDlW7pv) | 3:04 |
 | 71 | [El Buho \(Con Banda\)](https://open.spotify.com/track/0gQ6d3HX8cmTGkqCeWZ2rZ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos \(Con Banda\)](https://open.spotify.com/album/11zljiGCObvgkdTxTBXKXM) | 2:55 |
-| 72 | [RDSD \(En Vivo\)](https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [RDSD \(En Vivo\)](https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH) | 3:05 |
-| 73 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
-| 74 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
-| 75 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
+| 72 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
+| 73 | [RDSD \(En Vivo\)](https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [RDSD \(En Vivo\)](https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH) | 3:05 |
+| 74 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
+| 75 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
 
-Snapshot ID: `MCwxNzAwM2E2ODI2NWVmYTljZDBhNWIyZTZjMmQ3MjQ5NmFiMjdkMTJm`
+Snapshot ID: `MCw0ZTE1MzNjODQ0Mjg2ZDAxZjg4ZTE2MGY3MzA4YTk2ZDM0ODgyYjdl`

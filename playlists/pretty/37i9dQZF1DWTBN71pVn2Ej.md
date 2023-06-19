@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,344 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,418 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Avalanche](https://open.spotify.com/track/67dhWqAOMjasWUDC9ja5Cc) | [Cloned Apparition](https://open.spotify.com/artist/5z85YDvDTI4PpjZ8t2sBuN) | [The Coming of Spring](https://open.spotify.com/album/4V6SRTKSzu3SCLqAksZkd9) | 3:01 |
 | 60 | [Will Logic](https://open.spotify.com/track/00LW0DTwNoaz3WoAyBz7cT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Will Logic](https://open.spotify.com/album/0hwP83C1hL6Pfj8CtSZdvF) | 2:17 |
 
-Snapshot ID: `MCw5ZmEzYjIxMzgwMjdhYTgzYzE2MzU0MzNjZWQ2NzAwNmI0YjY0NDRl`
+Snapshot ID: `MCw2ZmYyYWRlZmMyODBiY2MwMTczN2VjNDI1NDFmMjQyZDg1NWE1YzVi`

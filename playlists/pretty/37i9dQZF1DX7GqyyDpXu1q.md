@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Jason Isbell and the 400 Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,964 likes - 105 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,988 likes - 105 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 104 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 | 105 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MCw1M2FmY2ViYWUwMjYwYjE5OGEyZDhmOWU0Yzg5ZDU4OTI5MDZlMmRl`
+Snapshot ID: `MCxkYzg4YjhjNTgzMzg5OWQwMDUxZmMyM2I5NGE3ZjlmZDNlY2RkZmNk`

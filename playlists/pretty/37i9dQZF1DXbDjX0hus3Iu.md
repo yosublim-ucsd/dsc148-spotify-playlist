@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,329 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,447 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 28 | [Tuesday's Gone](https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 7:30 |
 | 29 | [I'm No Angel](https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 3:42 |
 | 30 | [Soulshine](https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1) | 7:47 |
-| 31 | [Keep On Smilin'](https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:57 |
+| 31 | [Dreams I'll Never See](https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 7:06 |
 | 32 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
 | 33 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 |
 | 34 | [Jessica](https://open.spotify.com/track/7AN22wQYwiCG49qYosygFq) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/0OCVL5FaQyJzR008B2Mvpr) | 7:31 |
 | 35 | [Highway Song](https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 7:30 |
 | 36 | [The South's Gonna Do It Again](https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:57 |
-| 37 | [Midnight Rider](https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back \(Deluxe Edition\)](https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT) | 4:27 |
-| 38 | [Dreams I'll Never See](https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 7:06 |
+| 37 | [Keep On Smilin'](https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:57 |
+| 38 | [Midnight Rider](https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back \(Deluxe Edition\)](https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT) | 4:27 |
 | 39 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Rockin' Into The Night](https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rockin' Into The Night](https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A) | 4:01 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 60 | [Jim Dandy](https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs) | [Black Oak Arkansas](https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU) | [High On The Hog](https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC) | 2:41 |
 | 61 | [\(Ghost\) Riders In The Sky](https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Platinum & Gold Collection](https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v) | 5:46 |
 | 62 | [Uneasy Rider](https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [16 Biggest Hits](https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz) | 5:18 |
-| 63 | [Don't Pass Me By](https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Open All Night](https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg) | 4:53 |
-| 64 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
+| 63 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
+| 64 | [Don't Pass Me By](https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Open All Night](https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg) | 4:53 |
 | 65 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
 | 66 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
 | 67 | [Country Side Of Life](https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:30 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 81 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 82 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
 | 83 | [Come On](https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS) | [Southern Bitch](https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR) | [Snake in the Grass](https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0) | 4:03 |
-| 84 | [Coming Home](https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji) | [Johnny Van Zant Band](https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR) | [The Johnny Van Zant Collection](https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe) | 4:05 |
-| 85 | [Island](https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:15 |
+| 84 | [Island](https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:15 |
+| 85 | [Coming Home](https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji) | [Johnny Van Zant Band](https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR) | [The Johnny Van Zant Collection](https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe) | 4:05 |
 | 86 | [Goin' Down South](https://open.spotify.com/track/6a8zQOJTMePV89Zp6LV8lD) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/4i4ExrDUBLGaPT8Kvbo3f1) | 6:10 |
 | 87 | [Rise of the Rebel](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 3:53 |
 | 88 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Mind Bender](https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 4:16 |
 | 100 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 
-Snapshot ID: `MCw0NjVmNWRiNDdiMGVkZDJmMDlkNTM4ZjljNzE0ZTc1YjMxNjY0YjQ0`
+Snapshot ID: `MCw0N2MxZTI0ZWE0Njc0NGVkYWViYjIyM2MzOWVkMjM2ZWVhOTZjZGI0`

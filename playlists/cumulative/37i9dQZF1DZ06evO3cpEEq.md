@@ -4,7 +4,7 @@
 
 > This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 51 min
+49 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 |  |
 | [Catching a Feeling](https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:57 | 2023-06-17 |  |
 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 | 2023-06-17 |  |
-| [Counting Back the Days](https://open.spotify.com/track/2XT6ElN6HiFFXCtzKulBFD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:49 | 2023-06-17 |  |
+| [Counting Back the Days](https://open.spotify.com/track/2XT6ElN6HiFFXCtzKulBFD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:49 | 2023-06-17 | 2023-06-19 |
 | [Country Girl \(In the Urban World\)](https://open.spotify.com/track/7pgPBsGjUAy5aOe6yN1uBS) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:12 | 2023-06-17 |  |
 | [Ernie's Daughter](https://open.spotify.com/track/6yepggqorn7eMEsDtmyDFk) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:48 | 2023-06-17 |  |
 | [Every Fool Has a Rainbow](https://open.spotify.com/track/1ya2GaDcFmCMnuCz6h55TB) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:40 | 2023-06-17 |  |
@@ -35,7 +35,7 @@
 | [No Mistakes](https://open.spotify.com/track/3WGQNR7QKwuIjljySDY8pF) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:24 | 2023-06-17 |  |
 | [No Such Luck](https://open.spotify.com/track/4clwEaV42XK0F7x1fmUSaz) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:59 | 2023-06-17 |  |
 | [Open Sea](https://open.spotify.com/track/0Yplqtaw3VsNLd8Sk2Juy3) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:20 | 2023-06-17 |  |
-| [Planet of Love](https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 3:58 | 2023-06-17 |  |
+| [Planet of Love](https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 3:58 | 2023-06-17 | 2023-06-19 |
 | [Seasons](https://open.spotify.com/track/6gg3zxmKDhhGVc6ILgHi8y) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:47 | 2023-06-17 |  |
 | [So Go On](https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 |  |
 | [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 |  |
@@ -53,6 +53,8 @@
 | [Two Wheels](https://open.spotify.com/track/7n6rC5g35upjUGJduXfg7f) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:50 | 2023-06-17 |  |
 | [Unsteady \(Ever Since You're Gone\)](https://open.spotify.com/track/1Sa9P4akqWOaUpO7VToYRW) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Unsteady \(Ever Since You're Gone\)](https://open.spotify.com/album/4OAj7vt8UTXxx0Ku0VPcTv) | 3:14 | 2023-06-17 |  |
 | [Wanna Go There](https://open.spotify.com/track/3sYuePEiE1wasUy6CKnDnR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:33 | 2023-06-17 |  |
+| [We'll Never Get Along](https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:48 | 2023-06-18 |  |
+| [Western Lullaby](https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:19 | 2023-06-18 |  |
 | [Where I Wanna Be](https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8) | [Nick Barker](https://open.spotify.com/artist/4VZy32PZdwxcefnsvE5PBM), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Where I Wanna Be](https://open.spotify.com/album/7GM1YkGnS0LoyImur8d3os) | 4:29 | 2023-06-17 |  |
 | [Where the Fruit Hangs Low](https://open.spotify.com/track/5sawOEIlyZa9ygPGttmKRb) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Shanley Del](https://open.spotify.com/artist/6vLfrPvPCIVcN7EZtnnrwl) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:17 | 2023-06-17 |  |
 

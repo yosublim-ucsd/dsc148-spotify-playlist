@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "$ix $ix",
+        "url": "https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "$ix $ix",
+      "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
+    },
+    {
+      "album": {
         "name": "5% Tint X Creature",
         "url": "https://open.spotify.com/album/4ZUIKfKaAWiH9hFa8RXkAC"
       },
@@ -424,7 +446,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 289892,
       "name": "Classicore",
       "url": "https://open.spotify.com/track/2ppnnVPKPAnFQ5fW3aQIpA"
@@ -576,7 +598,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 91826,
       "name": "DARK STEP",
       "url": "https://open.spotify.com/track/620A7hleDI0h2jDscp5P7s"
@@ -735,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Disturbia (Hardstyle)",
+        "url": "https://open.spotify.com/album/5FyCVU0aqky1Enl1xllt5z"
+      },
+      "artists": [
+        {
+          "name": "Way 2 Hard",
+          "url": "https://open.spotify.com/artist/2RVSrGAAmol8DMoIwEV4NQ"
+        },
+        {
+          "name": "Way 2 Fast",
+          "url": "https://open.spotify.com/artist/57Hj2cFlZMIv0KAxHZX4hT"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177254,
+      "name": "Disturbia (Hardstyle)",
+      "url": "https://open.spotify.com/track/3PKergQGYqsqWKDCxIDgwy"
+    },
+    {
+      "album": {
         "name": "Drive Forever",
         "url": "https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO"
       },
@@ -856,7 +900,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 147574,
       "name": "fast life",
       "url": "https://open.spotify.com/track/1Nvwf85oHWAtYztjqy573y"
@@ -922,6 +966,28 @@
       "duration_ms": 122181,
       "name": "FIVE O",
       "url": "https://open.spotify.com/track/5SZbLPei4iH9VTJCdNYZza"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/4keoQuXpVddhauneIBzePG"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Elina Born",
+          "url": "https://open.spotify.com/artist/70ANZII0p7JCQ4ArAesCbA"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/2Iks5m5CbOIjgOq129erIA"
     },
     {
       "album": {
@@ -1212,6 +1278,24 @@
       "duration_ms": 244394,
       "name": "Hit They Block",
       "url": "https://open.spotify.com/track/7fAzFEtjInkP8l2PZa4t2M"
+    },
+    {
+      "album": {
+        "name": "i love techno",
+        "url": "https://open.spotify.com/album/62nDfCUYCcRXB0vZNlyJ1f"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98223,
+      "name": "i love techno",
+      "url": "https://open.spotify.com/track/5QaUJb1TT12DtUWc7TyKq7"
     },
     {
       "album": {
@@ -1798,7 +1882,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 403264,
       "name": "Mitty",
       "url": "https://open.spotify.com/track/21cEiYR7VPYi2ZJ1u2OBgU"
@@ -2169,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Phonk Nation",
+        "url": "https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg"
+      },
+      "artists": [
+        {
+          "name": "Bgnzinho",
+          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163469,
+      "name": "Phonk Nation",
+      "url": "https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc"
+    },
+    {
+      "album": {
         "name": "PHONKY TOWN",
         "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
       },
@@ -2354,7 +2456,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 169001,
       "name": "RiCK (feat. Warhol.SS)",
       "url": "https://open.spotify.com/track/6qBAhW4zN4l7BzjkfT8bqD"
@@ -2988,7 +3090,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 224008,
       "name": "The Old East End Tonight - Jason Bye Remix Radio Edit",
       "url": "https://open.spotify.com/track/4Qaz7k8wA9iYuQ8p9BNp0j"
@@ -3165,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Undead",
+        "url": "https://open.spotify.com/album/5jspmhiTaJhY4lJui9P98i"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165685,
+      "name": "Undead",
+      "url": "https://open.spotify.com/track/3GDRUoekeEGhN1oq3vELoh"
+    },
+    {
+      "album": {
         "name": "VETEMENTS",
         "url": "https://open.spotify.com/album/3RzoYUYVjKMwtGme0QaUoz"
       },
@@ -3176,7 +3296,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 220000,
       "name": "VETEMENTS",
       "url": "https://open.spotify.com/track/3IqoexNro9681MK95oG8mq"
@@ -3194,7 +3314,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 136000,
       "name": "W8N",
       "url": "https://open.spotify.com/track/57e85DBMsqTqpfjTksOglv"
@@ -3368,6 +3488,32 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/3ZQV6SBH4fycT2xoPVQTL6"
+      },
+      "artists": [
+        {
+          "name": "speedthrax",
+          "url": "https://open.spotify.com/artist/77zz0X3DIBTNDQucaVrula"
+        },
+        {
+          "name": "Fxbii",
+          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128493,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/5Q9ZeDggWs7WFsIHBYXW6U"
     },
     {
       "album": {

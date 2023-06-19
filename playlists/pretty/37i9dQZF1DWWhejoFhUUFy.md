@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,741 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,987 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 66 | [Dil](https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dil](https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4) | 3:08 |
 | 67 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 |
 | 68 | [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 |
-| 69 | [Sooha Saaha](https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt) | [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:59 |
-| 70 | [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 |
-| 71 | [Nazdeek Aa](https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Nazdeek Aa](https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy) | 3:24 |
+| 69 | [Nazdeek Aa](https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Nazdeek Aa](https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy) | 3:24 |
+| 70 | [Sooha Saaha](https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt) | [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:59 |
+| 71 | [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 |
 | 72 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
 | 73 | [Sham \- Sunset Edition By Nikhil Dsouza](https://open.spotify.com/track/6C6pDXNyAUTVkM1us9jApO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Sham \(Sunset Edition By Nikhil Dsouza\)](https://open.spotify.com/album/3v24ZyDKEepP51BboVRMLd) | 1:10 |
 | 74 | [Zaroori Nahi](https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dhun](https://open.spotify.com/album/4WogXQVX9nOrjbaTzFXnGN) | 2:19 |
 | 75 | [Tere Jaisa](https://open.spotify.com/track/5se0sLcaUymYKRUm0lCBgt) | [Vaibhav Bundhoo](https://open.spotify.com/artist/2qV4ArHDzLVSdX6GWy5R1z), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Kota Factory: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/4Zp0BZ2ttqNsB92BjMJddM) | 5:12 |
 
-Snapshot ID: `MCw1YzIxMjJmMjc3ZDVmZGY5MDcwZjIwZGI4MjRlOGRlNDIxM2MzZTg4`
+Snapshot ID: `MCxiM2E1ODg5YTkzNzcyZDVkM2Q1YmQyNjk4NTQyYjRiOGE3NWY3YjQz`

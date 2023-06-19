@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Jeangu Macrooy
 
-697 songs - 1 day 18 hr 45 min
+698 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Nothing Can Tear Us Apart](https://open.spotify.com/album/41CHRf8V6yv9x53IQbN4Fp) | 3:55 | 2021-09-04 | 2022-07-29 |
 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [These Ways](https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq) | 3:55 | 2022-07-28 | 2022-09-23 |
 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 | 2020-03-25\* | 2020-04-24 |
-| [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-17 |  |
+| [Oceans Of Emotions](https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 3:53 | 2023-06-07 |  |
+| [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-17 | 2023-06-19 |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/69wwaC0Vfbhl3MeKp4Py0s) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [OCT 33 \(Live In Studio\)](https://open.spotify.com/album/6BFRRFR2abLgMbhNB3D5ZV) | 5:44 | 2020-08-25 | 2021-02-28 |
 | [Offering \- A COLORS SHOW](https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Offering \- A COLORS SHOW](https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a) | 3:08 | 2023-03-09 | 2023-06-08 |
 | [Oh Honey](https://open.spotify.com/track/2BFZeaXr1mWCQkC4I3ZKvc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:05 | 2021-12-16 | 2022-09-20 |

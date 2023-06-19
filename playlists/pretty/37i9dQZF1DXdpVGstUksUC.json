@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 512328,
+  "num_followers": 512510,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQ3MDdiZmU0MTYwMTdjNGQ1Yjc4NjMxYzU1MTEwOGUxMDFhYzdi",
+  "snapshot_id": "MCxkMmQ1ZTRhNjI1NmFhYWE3YTcyYmFlZjc0ZjAzODk0YjY3OGEyM2Yy",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Godzilla's / Eatin' Dust",
         "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 190800,
       "name": "Eatin' Dust",
       "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 300226,
       "name": "Let the Devil In",
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "GAUPA",
         "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 447680,
       "name": "Febersvan",
       "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 175580,
+      "name": "Boogeyman Blues",
+      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 175580,
-      "name": "Boogeyman Blues",
-      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
       "artists": [
         {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -855,6 +839,22 @@
       "duration_ms": 247013,
       "name": "Greenthumb",
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
-      },
-      "artists": [
-        {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Superjudge",
         "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 409466,
       "name": "Superjudge",
       "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2023-06-02 04:01:00",

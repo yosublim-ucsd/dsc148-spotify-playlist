@@ -4,7 +4,7 @@
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 30 min
+106 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Good Old Days](https://open.spotify.com/track/6hMOrk6GCHps5l9MPkQviM) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:09 | 2021-12-28 | 2023-05-28 |
 | [Good Old Days](https://open.spotify.com/track/51xvMcPCgVvsVethI8Jcav) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 3:10 | 2023-05-27 |  |
 | [Hard Road](https://open.spotify.com/track/2REJDTgmJgCnbm0uzKJhM7) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 3:50 | 2022-03-09 |  |
-| [Here We Are](https://open.spotify.com/track/22yPK2dGvhaGycPT9mECWF) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 2:40 | 2023-05-27 |  |
+| [Here We Are](https://open.spotify.com/track/22yPK2dGvhaGycPT9mECWF) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 2:40 | 2023-05-27 | 2023-06-19 |
+| [Here We Are](https://open.spotify.com/track/4HdfaXQLyzdMNICNmalvuV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 2:40 | 2023-06-18 |  |
 | [Hot and Dirty in the City \- 2006 Remaster](https://open.spotify.com/track/2xrxYSteGfxNUfUROIgPFn) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:11 | 2022-01-22 |  |
 | [I Don't Know What's Happened to the Kids Today](https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre](https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz) | 3:13 | 2021-12-28 |  |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2021-12-28 |  |
@@ -103,7 +104,8 @@
 | [When I'm on My Own You Are on My Mind](https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:25 | 2021-12-28 |  |
 | [When You're Lonely](https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 2:11 | 2022-02-09 | 2022-08-30 |
 | [Who Do You See](https://open.spotify.com/track/7rMcwxMWXeBsbXjSdnA28J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:04 | 2023-01-26 | 2023-03-25 |
-| [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/4Mi4smdYzAKzbVulBkJ81Z) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 3:13 | 2023-05-27 |  |
+| [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 3:13 | 2023-06-18 |  |
+| [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/4Mi4smdYzAKzbVulBkJ81Z) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB) | 3:13 | 2023-05-27 | 2023-06-19 |
 | [Why Isn't Love Enough](https://open.spotify.com/track/34PfD0OG540oYvqsDmnj3r) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:39 | 2022-01-17 | 2022-01-28 |
 | [Words](https://open.spotify.com/track/403OoxbU1lvuPlkaXMNxdc) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:22 | 2021-12-28 |  |
 | [You and I Should Be Together](https://open.spotify.com/track/4ms845MWQUI7CXPBeGpIZR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 3:01 | 2021-12-29 | 2022-03-25 |

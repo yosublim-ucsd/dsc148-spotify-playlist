@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-78 songs - 5 hr 30 min
+79 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 | 2022-11-28 | 2023-06-18 |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-11-28 | 2023-01-06 |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2022-11-28 |  |
+| [Ego](https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Ego](https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0) | 4:34 | 2023-06-18 |  |
 | [Hampa](https://open.spotify.com/track/6bE0o9hYUPYlokZIH79oM0) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Keseimbangan](https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo) | 4:58 | 2022-11-28 | 2023-04-10 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-11-28 |  |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2022-12-15 |  |
@@ -52,7 +53,7 @@
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2022-11-28 | 2023-06-08 |
 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2022-12-15 |  |
 | [Nala](https://open.spotify.com/track/3AdEZRmsa3zviTr2Whx3zI) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:20 | 2022-11-28 | 2023-02-04 |
-| [Nyaman Tak Cukup](https://open.spotify.com/track/2o3RmRoQ5ZrHrPYRHykS0e) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Nyaman Tak Cukup](https://open.spotify.com/album/7CxcxDQ9biYRFRTQ6rw53f) | 3:50 | 2023-06-09 |  |
+| [Nyaman Tak Cukup](https://open.spotify.com/track/2o3RmRoQ5ZrHrPYRHykS0e) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Nyaman Tak Cukup](https://open.spotify.com/album/7CxcxDQ9biYRFRTQ6rw53f) | 3:50 | 2023-06-09 | 2023-06-19 |
 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 | 2022-11-28 | 2023-06-12 |
 | [Percuma](https://open.spotify.com/track/2xwlzYTrYigKEZoErRtwGY) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Percaya](https://open.spotify.com/album/1oIXgt03Qmu1ZuSyQQUhJZ) | 4:07 | 2023-05-19 |  |
 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 | 2022-11-28 |  |

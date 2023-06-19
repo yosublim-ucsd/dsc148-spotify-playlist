@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: My Ugly Clementine
 
-1,240 songs - 2 day 20 hr 29 min
+1,241 songs - 2 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/1Ry0l6trESL8T4ddsRaYLE) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/1x07d6Pku1huI947LThmUg) | 2:38 | 2022-01-05 | 2022-02-03 |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-11-30 | 2023-01-05 |
 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 | 2022-08-03 | 2022-12-01 |
+| [An'da](https://open.spotify.com/track/2kXnGAd5HTPjdBcXdPewlG) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [An'da](https://open.spotify.com/album/1QIMREJO5VuRJX2sj1erQY) | 3:37 | 2023-06-07 |  |
 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 | 2023-04-05 | 2023-05-04 |
 | [Anapse Kenourio Mou Feggari](https://open.spotify.com/track/0zLGL3PXPpAcGrvoynJiTg) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [I Erotiki Natasa](https://open.spotify.com/album/7FKytWWNv7NnHCZe7B7KfM) | 2:59 | 2022-05-04 | 2022-06-01 |
 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 | 2022-07-06 | 2022-08-04 |
@@ -736,7 +737,7 @@
 | [Nucę to od lat](https://open.spotify.com/track/4pPj5faueYByaemvbKViEA) | [Klaudia Szafrańska](https://open.spotify.com/artist/5KQOO1nMW2y16wX56EDZep), [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Nucę to od lat](https://open.spotify.com/album/7zgk0fonkCMcxC78y0RzgY) | 3:14 | 2022-02-02 | 2022-03-09 |
 | [NUESTRO MUNDO](https://open.spotify.com/track/3VRmetOtPtNKLBrXBTJfc1) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Nuestro Mundo](https://open.spotify.com/album/5PdbzA2WYKvuy51gblXDOY) | 3:18 | 2023-01-04 | 2023-02-02 |
 | [Nueva York \(Tot\*\)](https://open.spotify.com/track/1z5TNHJ4WP2ftKhRpqdoNY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Nueva York \(Tot\*\)](https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE) | 2:34 | 2022-01-05 | 2022-02-03 |
-| [Numaani](https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Numaani](https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1) | 5:08 | 2023-05-03 |  |
+| [Numaani](https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Numaani](https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1) | 5:08 | 2023-05-03 | 2023-06-19 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-04-06 | 2022-05-05 |
 | [numbers](https://open.spotify.com/track/4ubJTB6JKhtrq51OBgOHK0) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [waiting room](https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR) | 3:15 | 2022-05-04 | 2022-06-01 |
 | [NVMD](https://open.spotify.com/track/48thhc20aBJZ2Vbn2lkXiM) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/25gTYGgwhn8Qnid5U0hOkQ) | 3:01 | 2022-05-04 | 2022-07-07 |

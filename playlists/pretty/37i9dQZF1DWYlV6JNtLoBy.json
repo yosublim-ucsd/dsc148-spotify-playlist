@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1067,
+  "num_followers": 1123,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIyOTg2MDA5NzkyODViNzM1ZGYyNWZiZmU5NDFhMTMwN2FlMDcx",
+  "snapshot_id": "MCw5MDAyODMxMTI1NzY5YjYyYTVjZjg5MGZlYzM3NzRiOWE1NGU1NTIz",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291657,
-      "name": "Tasted Of Your Power",
-      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Hapa Nilipo",
         "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291657,
+      "name": "Tasted Of Your Power",
+      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
-      "added_at": "2023-04-14 00:30:00",
-      "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc"
-      },
-      "artists": [
-        {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Yahwe Uhimidiwe",
@@ -799,6 +783,22 @@
       "duration_ms": 270968,
       "name": "Uliniumba Nikuabudu",
       "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+    },
+    {
+      "added_at": "2023-06-02 00:01:00",
+      "album": {
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Love Art Lust",
-        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+        "name": "Siteketei",
+        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
       },
       "artists": [
         {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
         }
       ],
-      "duration_ms": 160458,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
+      "duration_ms": 210076,
+      "name": "Siteketei",
+      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
     }
   ],
   "unique_name": "Sunday Service",

@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 133002,
+  "num_followers": 133128,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjk1N2IwZjYwY2YzYjdiYzQ1ZjQ0ODA2YjcxNWJmMzEyMzQ0MTkx",
+  "snapshot_id": "MCxjZDkxMWNkYTk2ZGVhZTQ4ZTBiYTk3MGI4Yzc5MTkyOTc1OGVlZDZi",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
         }
       ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -351,18 +347,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
       "artists": [
         {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
     },
     {
       "added_at": "2023-03-06 08:21:00",

@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 252196,
+  "num_followers": 252208,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2IwMTgyOTBjZmM5ZTQxYjUzNzI1NWZkZjU1YmRiODkwNmUwNGMw",
+  "snapshot_id": "MCw4Njk3NzNhYzYxMzNiNmQ4MWU3ZjhlZjgyZmU4ZDljMzFhMmE5NDY2",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Lonely City",
         "url": "https://open.spotify.com/album/12THdrTqf9HdZKA2P6FISA"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 157523,
       "name": "Lonely City",
       "url": "https://open.spotify.com/track/4q3biaQQoADspV16lbsfPH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 181210,
-      "name": "What They'll Say About Us",
-      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 181210,
+      "name": "What They'll Say About Us",
+      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "No Right To Love You",
-        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "No Right To Love You",
-      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "The Only Exception",
         "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "No Right To Love You",
+        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "No Right To Love You",
+      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Chosen Last",
         "url": "https://open.spotify.com/album/5k8vOLs3DDYQtprdAoeMIX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 241853,
       "name": "The Subway Song",
       "url": "https://open.spotify.com/track/3hzboXFECi8z5437v7wAWr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "With Love From",
-        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 248120,
-      "name": "Blue Dress",
-      "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 257493,
       "name": "Paper Airplanes",
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "With Love From",
+        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 248120,
+      "name": "Blue Dress",
+      "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
     },
     {
       "added_at": "2023-06-02 04:00:00",

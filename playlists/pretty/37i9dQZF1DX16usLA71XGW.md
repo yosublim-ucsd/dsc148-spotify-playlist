@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,931 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 |
 | 60 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
 
-Snapshot ID: `MCxjYmVmNjc3MTczMDlmZjZlZWY0YTdlMWM2MjJmZDEyNmEzNDA5ZDZh`
+Snapshot ID: `MCxkNzBlNDJlZGE2ZDEyODBhNGYyNDJjYzZkYTE1ZTUyNmY4YjA4ZDRh`

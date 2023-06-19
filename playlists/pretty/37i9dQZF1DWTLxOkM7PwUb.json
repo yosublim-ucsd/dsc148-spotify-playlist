@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 20860,
+  "num_followers": 20948,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWYzZDIwYjFiZmZmMWQzN2QzOGM1MzdhOWM0Zjg5YTliOGE5MzQ5",
+  "snapshot_id": "MCw5ODMwZTRlM2E3NmYyOWQ0ZjAyNWZmYTJhYzI2NjNlMjgwMmNhMDU5",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C14TORCE II",
-        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "C14TORCE II",
-      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti (Remix)",
       "url": "https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C14TORCE II",
+        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "C14TORCE II",
+      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1219,6 +1219,42 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1243,22 +1279,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Bonus Trap",
         "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 166346,
       "name": "Me Prefiere A Mi",
       "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1343,46 +1343,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Parte de Mi (feat. Lit Killah)",
-        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "Parte de Mi (feat. Lit Killah)",
-      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Mi Llamada (Remix)",
         "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
@@ -1423,18 +1383,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+        "name": "Parte de Mi (feat. Lit Killah)",
+        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+      "duration_ms": 194092,
+      "name": "Parte de Mi (feat. Lit Killah)",
+      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1451,6 +1415,42 @@
       "duration_ms": 143680,
       "name": "C14TORCE III",
       "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1495,6 +1495,22 @@
       "duration_ms": 208788,
       "name": "Roto",
       "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1559,26 +1575,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
-      },
-      "artists": [
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "OCTO",
-          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
-        }
-      ],
-      "duration_ms": 165332,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1599,6 +1595,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "OCTO",
+          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
+        }
+      ],
+      "duration_ms": 165332,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 158267,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Una Semana",
+        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Una Semana",
+      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Una Semana",
-        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Una Semana",
-      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Estrellas",
         "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 186461,
       "name": "Estrellas",
       "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2022-12-09 03:00:00",

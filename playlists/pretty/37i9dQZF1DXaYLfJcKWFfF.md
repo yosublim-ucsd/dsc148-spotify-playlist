@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=Lg6L9VDjQOGTTCeDLNATNw"> Baaba J</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,143 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,177 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 |
 | 50 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 |
 
-Snapshot ID: `MCwwOTBjMzA1NjdiMzVkODY1NTg3MWMwYzA4MmU2NTA3MzkzMjhkNjA4`
+Snapshot ID: `MCwzMmQ2ZDM2ODY2NjE5ODdlOWU4MTIyYzRkMWFlZjNlMzI5Mzk5MzMy`

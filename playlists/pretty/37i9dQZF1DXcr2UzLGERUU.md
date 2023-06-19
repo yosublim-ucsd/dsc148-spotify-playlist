@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,315 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,509 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 49 | [Beautiful Boy](https://open.spotify.com/track/5cUbs8a3T4f9xdTeBqrQCy) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \[The Complete Recordings\] \(Audio Only\)](https://open.spotify.com/album/5A5XFtOnsqgw9QzghVq5Lf) | 3:48 |
 | 50 | [How Deep Is Your Love](https://open.spotify.com/track/5d5wvlynqIjrIQBZ4XQsFJ) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa), [Anthony Uy](https://open.spotify.com/artist/14Hu7C5IfFOaLqEfCTM7hz) | [Covering the World \(2021\)](https://open.spotify.com/album/3u48TN7Z0Q5QRH8Q7KVFUW) | 3:31 |
 
-Snapshot ID: `MCxkZDQ2NWE5ZmMyZjI4NWJiOWIwNDg2MTAzYzE3NTAzN2MyYjYyOWQ5`
+Snapshot ID: `MCxkN2FjZjU1N2Q2N2UwNGE0NjMxNTE3ODExZTQzMmVhZjE5NWFmNTJh`

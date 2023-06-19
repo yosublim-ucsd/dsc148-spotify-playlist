@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,004 songs - 2 day 6 hr 9 min
+1,005 songs - 2 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#doyalike](https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN) | 3:03 | 2022-05-09 | 2022-06-23 |
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-07 | 2022-04-29 |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-06-28 | 2022-07-27 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-18 |  |
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-06-22 | 2022-07-18 |
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-04-07 | 2022-05-30 |
 | [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 | 2022-06-16 | 2022-06-26 |

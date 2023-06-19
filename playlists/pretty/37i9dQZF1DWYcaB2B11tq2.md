@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,470 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,513 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 9 | [Temprano yo te buscaré](https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:05 |
 | 10 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 11 | [El Nombre De Jesús](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
-| 12 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
+| 12 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
 | 13 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 |
-| 14 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
+| 14 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
 | 15 | [Es Por Tu Gracia](https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:22 |
 | 16 | [No Estoy Solo](https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Lo Que el Viento Me Enseño](https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5) | 4:34 |
 | 17 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 | 75 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
 
-Snapshot ID: `MCw1Y2M1NzgwMjc2NzYyNzdmOWVkNDQxOWQ3YjE5ZDU4MGMxOTM3ZWQ1`
+Snapshot ID: `MCwzY2U4NmM5YTQ3NzY2ODE0ODk2NmYyMGM0MDBkMTQxN2VhNWM1NmJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,472 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,475 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 38 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 |
 | 39 | [Signo Libra](https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:47 |
 | 40 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 |
-| 41 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 |
+| 41 | [Ni Como Amigos](https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:24 |
 | 42 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
-| 43 | [Ni Como Amigos](https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:24 |
+| 43 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 |
 | 44 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 |
 | 45 | [Ya Para Que](https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:19 |
 | 46 | [Mi Ultima Parranda \- En Vivo](https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 |
 | 50 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 |
 
-Snapshot ID: `MjgxMTY3NjksMDAwMDAwMDBiMmMxMGI5MzcxMmUzZWRjMjNjYzI3ZTJhZTkyYmYyOA==`
+Snapshot ID: `MjgxMTgyMjIsMDAwMDAwMDBkZDIxYzkwZmIxYzllMjY5MzM2ZjFjZmJhOTljZWE4Mg==`

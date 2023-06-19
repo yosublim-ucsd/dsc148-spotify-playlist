@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 117356,
+  "num_followers": 117501,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQ3OWFiYmY5Yzc5ZGUyOThlMzk3NzI1ODE1Nzg3NDg1NzUxZTA4",
+  "snapshot_id": "MCw0Mzg1ODFjY2I4Y2ZkMTRkZTZmYjI4N2JlNTQzNjczNTgwMjlkZTY4",
   "tracks": [
     {
       "added_at": "2023-06-13 12:56:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -519,18 +519,22 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+      "duration_ms": 184933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -691,22 +695,18 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 184933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -951,6 +935,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+      "duration_ms": 268173,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
         "name": "I Feel Foolish",
         "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 189186,
       "name": "I Feel Foolish",
       "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -1259,22 +1275,6 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander Quintet",
-          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander Quintet",
+          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2023-06-13 12:56:02",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-06-13 12:56:02",
       "album": {
+        "name": "Bing With A Beat",
+        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
+    },
+    {
+      "added_at": "2023-06-13 12:56:02",
+      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
-    },
-    {
-      "added_at": "2023-06-13 12:56:02",
-      "album": {
-        "name": "Bing With A Beat",
-        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
     },
     {
       "added_at": "2023-06-13 12:56:02",

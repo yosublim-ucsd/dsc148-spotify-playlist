@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/3WL91lURslAj9nT9qFMjP8"
+      },
+      "artists": [
+        {
+          "name": "Trifect",
+          "url": "https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ"
+        },
+        {
+          "name": "Redza",
+          "url": "https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/16jaBSbWIiHNR6fOBX9Mij"
+    },
+    {
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -514,7 +536,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
@@ -644,7 +666,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 251440,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
@@ -666,7 +688,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 173427,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
@@ -706,6 +728,28 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "album": {
+        "name": "Kembali Pulang",
+        "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207898,
+      "name": "Kembali Pulang",
+      "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
     },
     {
       "album": {
@@ -828,7 +872,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 181224,
       "name": "NVMD",
       "url": "https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk"

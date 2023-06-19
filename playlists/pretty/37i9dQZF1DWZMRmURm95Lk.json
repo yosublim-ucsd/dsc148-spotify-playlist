@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Johnny Marsiglia in cover.",
-  "num_followers": 33107,
+  "num_followers": 33118,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTU4NGU3MjQ1MjZlMTU5NTM4MGY4ZTIzZmNkOTMyZTQwYmEzM2Zk",
+  "snapshot_id": "MCw1YWRmOTI3YjhhMWRlNTVlODI2ZWUzNjQzMDBiMmJkNmNmOGY1NTVi",
   "tracks": [
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "Curre curre guagli\u00f2",
         "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 354506,
       "name": "Rigurgito antifascista",
       "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Innocente",
-        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
-      },
-      "artists": [
-        {
-          "name": "Lucariello",
-          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        }
-      ],
-      "duration_ms": 168409,
-      "name": "Africa Twin (feat. Don Joe)",
-      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1219,6 +1199,46 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "Anestetico (feat. Mezzosangue)",
+      "url": "https://open.spotify.com/track/5lplLpXqbf51XmAtaPWvTx"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "Innocente",
+        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        }
+      ],
+      "duration_ms": 168409,
+      "name": "Africa Twin (feat. Don Joe)",
+      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1347,6 +1367,30 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
+        "name": "Ti Pretendo XXX",
+        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
+      },
+      "artists": [
+        {
+          "name": "North of Loreto",
+          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 221380,
+      "name": "Ti Pretendo XXX",
+      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -1391,30 +1435,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Ti Pretendo XXX",
-        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
-      },
-      "artists": [
-        {
-          "name": "North of Loreto",
-          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
-        },
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 221380,
-      "name": "Ti Pretendo XXX",
-      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Brokenspeakers",
-          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
-        }
-      ],
-      "duration_ms": 242378,
-      "name": "Casse rotte (feat. Brokenspeakers)",
-      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1475,6 +1475,26 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Brokenspeakers",
+          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
+        }
+      ],
+      "duration_ms": 242378,
+      "name": "Casse rotte (feat. Brokenspeakers)",
+      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1539,26 +1559,6 @@
       "duration_ms": 253913,
       "name": "LACRIME DI COCCODRILLO :'=8)",
       "url": "https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "Anestetico (feat. Mezzosangue)",
-      "url": "https://open.spotify.com/track/5lplLpXqbf51XmAtaPWvTx"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "duration_ms": 143892,
+      "name": "Caramelle da uno sconosciuto",
+      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
         "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 143892,
-      "name": "Caramelle da uno sconosciuto",
-      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -1719,6 +1719,26 @@
       "duration_ms": 185880,
       "name": "Hashishin",
       "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1763,26 +1783,6 @@
       "duration_ms": 194727,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/5tq1fOs4kZnsdGzcrsx8DN"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
       },
       "artists": [
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
         }
       ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-06-15 22:01:00",

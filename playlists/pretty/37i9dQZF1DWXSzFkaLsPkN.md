@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Anubha Bajaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,467 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,558 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 42 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 |
 | 43 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 |
 | 44 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
-| 45 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
-| 46 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
+| 45 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
+| 46 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
 | 47 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 | 48 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
 | 49 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 59 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 |
 | 60 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
 | 61 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
-| 62 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 |
-| 63 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 |
-| 64 | [Kitaab](https://open.spotify.com/track/2xfvb6Y9GBxiFRhd0smDH7) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [Happy Pills](https://open.spotify.com/artist/4rgPItfFsz5c623LYz1OMA), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Kitaab](https://open.spotify.com/album/3ZWSMzAi8BROc92s2GEGKH) | 2:28 |
+| 62 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 |
+| 63 | [Kitaab](https://open.spotify.com/track/2xfvb6Y9GBxiFRhd0smDH7) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [Happy Pills](https://open.spotify.com/artist/4rgPItfFsz5c623LYz1OMA), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Kitaab](https://open.spotify.com/album/3ZWSMzAi8BROc92s2GEGKH) | 2:28 |
+| 64 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 |
 | 65 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 | 66 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 |
 | 67 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 74 | [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 |
 | 75 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 |
 
-Snapshot ID: `MCxmZTYzYzJlMDJkMDczNGQ5NmJjZGYyY2FkMzg3MWJiMzgwNjZlNWJk`
+Snapshot ID: `MCxhMDhjNmY3YzRmZTdlNGU1ZDI2ZTc2NjRmOGM5YTM2YzI2NzY3YTUx`

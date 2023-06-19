@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 18405,
+  "num_followers": 18411,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDM3NWNjZTBjMzM1NGM3MzYxYWU5NWIxMWYzOGRjYTYzYWQ0YmJl",
+  "snapshot_id": "MCwyMjRhNDYxOGM4NGY1NDZjYmFmNjFmNTcwZWJhMmJkZmY2ZTAzYzJl",
   "tracks": [
     {
       "added_at": "2023-05-24 22:54:50",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Afortunadamente No Eres Tu",
-        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Afortunadamente No Eres Tu",
-      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "Afortunadamente No Eres Tu",
+        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Afortunadamente No Eres Tu",
+      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Globoscopio",
-        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+        "name": "Once : Once",
+        "url": "https://open.spotify.com/album/2AqGAOVHtccc2xWkY4f2H8"
       },
       "artists": [
         {
-          "name": "Azul Violeta",
-          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+      "duration_ms": 148693,
+      "name": "El Final (bonus Track)",
+      "url": "https://open.spotify.com/track/0cSyNW1b4g7mpTjnJxeY2S"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Once : Once",
-        "url": "https://open.spotify.com/album/2AqGAOVHtccc2xWkY4f2H8"
+        "name": "Globoscopio",
+        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
       },
       "artists": [
         {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+          "name": "Azul Violeta",
+          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
         }
       ],
-      "duration_ms": 148693,
-      "name": "El Final (bonus Track)",
-      "url": "https://open.spotify.com/track/0cSyNW1b4g7mpTjnJxeY2S"
+      "duration_ms": 273266,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2023-05-24 22:54:50",

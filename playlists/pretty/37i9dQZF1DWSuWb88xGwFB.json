@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 27597,
+  "num_followers": 27616,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVlZTA3MzE2NzhjNmRiZjZiMzU1MTJjZjA3ZjZhODllMDc2MmFk",
+  "snapshot_id": "MCwyNjAyYTM2YTliMDZhNWFjYjllMmQ1MDdjNzNiNmJmYWU1NzEzNDM1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 390560,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 384000,
       "name": "Follow Me - Club Mix",
       "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Asuca (Remixes)",
-        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca - Tribal Mix",
-      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 325350,
       "name": "Love Thang - Cat Walk Mix",
       "url": "https://open.spotify.com/track/2AyTUoMOGcRYynqJlZpNjn"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca (Remixes)",
+        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca - Tribal Mix",
+      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 519505,
-      "name": "Higher State of Consciousness - DJ Wink's Hardhouse Mix",
-      "url": "https://open.spotify.com/track/6ITUI4fHeZe0ZokTL8wlml"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
+        "name": "Higher State Of Consciousness",
+        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
       },
       "artists": [
         {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        },
-        {
-          "name": "Wild Pitch",
-          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
         }
       ],
-      "duration_ms": 390986,
-      "name": "Rise From Your Grave - Wild Pitch Mix",
-      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
+      "duration_ms": 519505,
+      "name": "Higher State of Consciousness - DJ Wink's Hardhouse Mix",
+      "url": "https://open.spotify.com/track/6ITUI4fHeZe0ZokTL8wlml"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -611,6 +591,26 @@
       "duration_ms": 523906,
       "name": "Generate Power (feat. Paula Brion) - Wild Pitch Mix",
       "url": "https://open.spotify.com/track/4VYtkPup3WyqXsGNcV57lE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        },
+        {
+          "name": "Wild Pitch",
+          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
+        }
+      ],
+      "duration_ms": 390986,
+      "name": "Rise From Your Grave - Wild Pitch Mix",
+      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Spark Da Meth",
         "url": "https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 393200,
       "name": "Spark da Meth - Bangin Like a Benzi Mix",
       "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
-      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
+      "duration_ms": 379760,
+      "name": "Muzik - The Siren Mix",
+      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

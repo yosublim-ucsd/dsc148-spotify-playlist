@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,933 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,955 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 43 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 |
 | 44 | [Romance del Enamorado y la Muerte](https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Romance del Enamorado y la Muerte](https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js) | 3:34 |
 | 45 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
-| 46 | [La Llorona](https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 6:20 |
-| 47 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 |
+| 46 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 |
+| 47 | [La Llorona](https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 6:20 |
 | 48 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 49 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
 | 50 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 60 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 61 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
 | 62 | [La Tumba Falsa](https://open.spotify.com/track/5DW1e0gPIiSJuigtNy61e5) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 3:06 |
-| 63 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
-| 64 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
+| 63 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
+| 64 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
 | 65 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
 | 66 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 67 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 100 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 
-Snapshot ID: `MCw2N2QxYzY0MDlhOTc2MWNmYWI5ZTc4YzJjYzRhNjExNWU5OWNlODk0`
+Snapshot ID: `MCw3MjA4YTk4N2QyYTIwNWI3MTE4ZjEwZTVhYzI5ODE2Mjg5NjE2ZTEy`

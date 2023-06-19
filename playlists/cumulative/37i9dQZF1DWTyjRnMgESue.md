@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Catie Turner
 
-391 songs - 22 hr 19 min
+392 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-11 | 2022-03-12 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-19 | 2022-07-23 |
 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 | 2022-05-13 | 2022-11-24 |
-| [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-08-12 |  |
+| [Something to Someone](https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 | 2023-06-16 |  |
+| [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-08-12 | 2023-06-19 |
 | [Star Nation](https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Star Nation](https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG) | 4:06 | 2022-03-25 | 2022-07-29 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-22 |  |
 | [Still](https://open.spotify.com/track/5uhVnZboNh4duvA50RgNv5) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Kennecott](https://open.spotify.com/album/1VZyPPPoDtEr7riz03EoPP) | 3:56 | 2021-11-19 | 2022-07-12 |

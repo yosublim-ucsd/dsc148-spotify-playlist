@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,253 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,332 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 28 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 29 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
 | 30 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
-| 31 | [Don't Like.1](https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [G.O.O.D.](https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q) | 4:43 |
-| 32 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
+| 31 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
+| 32 | [Don't Like.1](https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [G.O.O.D.](https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q) | 4:43 |
 | 33 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 34 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 35 | [How You Every O Shot ?](https://open.spotify.com/track/1vqbMsvYzRfkrwVrE7Zsw1) | [Cj Goon](https://open.spotify.com/artist/0E2OAdXWJwyg9tXHO5V1dc), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [How You Every O Shot ?](https://open.spotify.com/album/11GN66ehziPUBqWBwciGH8) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 50 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
 
-Snapshot ID: `MCwzZjQwNzNkYmYyMDAzMDA5ODIzYzUzMzg2NWVkZDliMzhiODliMDli`
+Snapshot ID: `MCw4OWZjODI3M2RhNDgyYzUxZjZjNjBiOTZkMmRlYTQ0MjZmOWIzNTg3`

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE”>Dove Cameron</a>
 
-952 songs - 2 day 3 hr 17 min
+953 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-11-30 | 2023-01-05 |
 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 | 2022-10-05 | 2022-11-03 |
 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-07 | 2022-10-06 |
-| [FLATLINE](https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:45 | 2023-06-07 |  |
+| [FLATLINE](https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:45 | 2023-06-07 | 2023-06-19 |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-03-01 | 2023-04-06 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-05-04 | 2023-01-05 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-01 | 2023-04-06 |
@@ -481,6 +481,7 @@
 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 | 2022-07-06 | 2022-08-04 |
 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 | 2023-04-05 | 2023-05-04 |
 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-02 | 2022-12-01 |
+| [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 | 2023-06-07 |  |
 | [Light On In The Kitchen](https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Light On In The Kitchen](https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G) | 3:32 | 2023-04-05 | 2023-05-04 |
 | [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 | 2022-11-02 | 2022-12-01 |
 | [Lightning to Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/5HRyKKqVJcx3xOkaqKmX1a) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [EDC Orlando 2022](https://open.spotify.com/album/3tz1GLgKDQUEZaw9KYeaGb) | 2:58 | 2022-11-02 | 2022-11-13 |

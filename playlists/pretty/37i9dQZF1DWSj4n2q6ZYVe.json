@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 371291,
+  "num_followers": 371634,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDg0ZTc5MmUyYjVlYTczZTVlYTUwNjFmMGM5Yjg1NTA4MDdjNDc1",
+  "snapshot_id": "MCxkZjQ5ODNjYTRkNjE4ZGZhZDE0NTM5NThjMzQyYTViMjIzMWRkMWFh",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -47,22 +47,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Modjo (Remastered)",
         "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 307153,
       "name": "Lady - Hear Me Tonight",
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -167,6 +167,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "La Roux",
         "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 157432,
       "name": "Pjanoo - Radio Edit",
       "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "Episode ll",
+        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Little L",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
+      "duration_ms": 405693,
+      "name": "Played-A-Live (The Bongo Song)",
+      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Episode ll",
-        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 405693,
-      "name": "Played-A-Live (The Bongo Song)",
-      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+      "duration_ms": 295400,
+      "name": "Little L",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I'm Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Mr. Vain Recall",
         "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+      "duration_ms": 210973,
+      "name": "I'm Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -823,6 +807,22 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -859,22 +859,6 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "24 Carat Gold",
-        "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/1SdBWc2nHNZ3gHzGVQuqcl"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1119,22 +1103,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
         "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
@@ -1155,18 +1123,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All over the World - Whatever You Want",
-        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 214453,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1371,22 +1339,6 @@
       "duration_ms": 216893,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All over the World - Whatever You Want",
-        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/0pCZZa7f636OXB8jO0czci"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1723,6 +1675,34 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "ROMBORAMA",
         "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
       },
@@ -1787,6 +1767,38 @@
       "duration_ms": 445390,
       "name": "Moan - Trentem\u00f8ller Remix",
       "url": "https://open.spotify.com/track/7a4BMX5kI8P2CqXZrwoyrC"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A - Radio Version",
+      "url": "https://open.spotify.com/track/1bV3jw1mlVbPkzc9bCGCsl"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/2umCb31luuHifyrJVTio5S"
     }
   ],
   "unique_name": "Dance Hits 2000s",

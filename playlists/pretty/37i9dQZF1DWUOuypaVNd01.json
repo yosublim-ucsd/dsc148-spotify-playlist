@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Scooby",
-  "num_followers": 30542,
+  "num_followers": 30586,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZhMmJlMWMzMTUyY2JhMjlkNjZlMzAwZTY3NjI1Zjk2MDAxNzhi",
+  "snapshot_id": "MCw3NGRiYzM3ZDE2YWExNzMwMDY2NTYwYjIxZWIzY2QxNmU2NzZiYmZj",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Ra\u00fal",
         "url": "https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -503,6 +503,38 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Os Pitbull do Ano, Pt. 2",
         "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
@@ -531,22 +563,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
         "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 155942,
       "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
       "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        }
-      ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 112764,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Infravermelho",
         "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 112764,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "JOVEM OG",
         "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
       },
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Armamento do Ir\u00e3",
         "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Hip Hop Rare",
         "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 123802,
       "name": "Hip Hop Rare",
       "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -907,46 +927,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2023-06-16 03:03:00",

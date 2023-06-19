@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1491577,
+  "num_followers": 1491931,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODBjMjg1Y2ZkM2QxMDQ3ZmYzY2NjMWFlNTA2Mzg2Zjg3ZDM3ZDNl",
+  "snapshot_id": "MCxlODczNjc2OTdmZjY1ZjRmNGFkYWYyMDkzNmJjNzU5YWQ5NTNmOGM2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Tranquility Base Vol. 1",
-        "url": "https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 161249,
-      "name": "VLEKNO",
-      "url": "https://open.spotify.com/track/0C1BD8MccXokM9YIUDcjWm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Tranquility Base Vol. 1",
+        "url": "https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 161249,
+      "name": "VLEKNO",
+      "url": "https://open.spotify.com/track/0C1BD8MccXokM9YIUDcjWm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 320853,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Little Darling (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Risky Business",
-        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 320853,
-      "name": "Risky Business",
-      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+        "name": "Zara (ALPHA 9 Remix)",
+        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
         }
       ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+      "duration_ms": 218507,
+      "name": "Zara - ALPHA 9 Remix",
+      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Zara (ALPHA 9 Remix)",
-        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
       "artists": [
         {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "ALPHA 9",
-          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 218507,
-      "name": "Zara - ALPHA 9 Remix",
-      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Thermal / Oblivion",
         "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Metaphysical",
-        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 210725,
-      "name": "Radiation",
-      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1755,6 +1739,22 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 210725,
+      "name": "Radiation",
+      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Strangers (with Mansionair) [Tinlicker Remix]",
         "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-06-16 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,026 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,327 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 37 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 38 | [Recuerdos](https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:28 |
 | 39 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
-| 40 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
-| 41 | [Ojitos Mentirosos](https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Baila para Mí](https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj) | 3:37 |
+| 40 | [Ojitos Mentirosos](https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Baila para Mí](https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj) | 3:37 |
+| 41 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 42 | [Huele A Peligro](https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:52 |
 | 43 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 |
-| 44 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
-| 45 | [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 |
+| 44 | [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 |
+| 45 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 46 | [Aunque No Sea Conmigo](https://open.spotify.com/track/0zCpvH2HP9vvw8GC6wjDrt) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Quisiera Tener Alas](https://open.spotify.com/album/6HwwODofS26o2VDCLiaArE) | 3:38 |
 | 47 | [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 |
 | 48 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 93 | [El Guapo](https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:06 |
 | 94 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
 | 95 | [No Me Dejes Tan Solo](https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Lo Dejaría Todo](https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP) | 3:02 |
-| 96 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
-| 97 | [Esta Cobardia](https://open.spotify.com/track/71SLmnYBRF4ZTRedzfprim) | [Raúl Ortega y Su Banda Arre](https://open.spotify.com/artist/5rvYBGKUR316pVwwe2mxFa) | [Andan Diciendo](https://open.spotify.com/album/6qUKk1LaIxXxEhww3ewPdg) | 2:52 |
+| 96 | [Esta Cobardia](https://open.spotify.com/track/71SLmnYBRF4ZTRedzfprim) | [Raúl Ortega y Su Banda Arre](https://open.spotify.com/artist/5rvYBGKUR316pVwwe2mxFa) | [Andan Diciendo](https://open.spotify.com/album/6qUKk1LaIxXxEhww3ewPdg) | 2:52 |
+| 97 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
 | 98 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
 | 99 | [Un Angel](https://open.spotify.com/track/27zr6DtSt1DqfV2aVlkVDD) | [Banda Espuela De Oro](https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw) | [Los Mismos Pero No Iguales](https://open.spotify.com/album/74x1NJF19oqYd8hJv5iJ6n) | 3:08 |
 | 100 | [Qué Sabrosa Está](https://open.spotify.com/track/1RFumKyLtFKNeUjdRtV8J2) | [Mexicano](https://open.spotify.com/artist/5LsvX0qNNtRQgnkzJlKbwL) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 4:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 124 | [Cómo Sufro](https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 2:54 |
 | 125 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 |
 
-Snapshot ID: `MCxiMDU3YzllOTZjM2Y3YzhlN2I5MmU2ODY4ZWIxNjVhYzNiMjE5YjUx`
+Snapshot ID: `MCwyMDZhMjIwZDMxZTAyNzc1NmYwNTEwMzRmNmExYzk0Mzg4MGM0ZjJj`

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-272 songs - 14 hr 58 min
+273 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Hideaway](https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Hideaway](https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9) | 2:23 | 2021-11-19 | 2022-10-06 |
 | [High Life](https://open.spotify.com/track/2N6qMBL0E2G55pKKmkCDce) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [High Life](https://open.spotify.com/album/05zUsDDYlLrK2A0YDr0NOl) | 2:35 | 2022-04-15 | 2022-07-29 |
 | [HIGH VIBRATIONS](https://open.spotify.com/track/4DBessCobMSYVbwLPMKyiS) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [HIGH VIBRATIONS](https://open.spotify.com/album/6YZ3M6gH49cRT92zBUZxMw) | 4:40 | 2021-11-19 | 2022-01-08 |
-| [Hitta \(feat\. Juicy J\)](https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:50 | 2021-11-19 |  |
+| [Hitta \(feat\. Juicy J\)](https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:50 | 2021-11-19 | 2023-06-19 |
 | [Hold On](https://open.spotify.com/track/1O2CwX5f6BI8rTa7pGl3ri) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Hold On](https://open.spotify.com/album/1YIPX4twAosalmT9aEgFkH) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [Hollow](https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Hollow](https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd) | 4:00 | 2023-04-28 |  |
 | [House Party](https://open.spotify.com/track/1jlWSBiYHgEGsaHjkqdXvD) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [House Party](https://open.spotify.com/album/5OVi0XkGbwNOKSTumWQ3yH) | 3:25 | 2021-11-19 | 2022-01-08 |
@@ -172,6 +172,7 @@
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2021-11-19 | 2022-01-08 |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2022-07-29 |
 | [Paint Drippin'](https://open.spotify.com/track/4PVmcL4fRgOWjHYx9VYxD0) | [Elderbass](https://open.spotify.com/artist/282rYedOk9KV25lJ3HRSfR) | [Paint Drippin'](https://open.spotify.com/album/5OX6mZLSjHCPCn5UJcQ3hy) | 3:08 | 2021-11-19 | 2022-01-08 |
+| [PEACE LOVE & WUBZ](https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2) | 4:00 | 2023-06-09 |  |
 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5) | 4:00 | 2022-07-22 | 2023-06-02 |
 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/3YWJoMXUqK9SOHPFTSSQMj) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/2dEFkkBjhmbWc2VT3zkcgu) | 4:04 | 2021-11-19 | 2022-07-29 |
 | [Point Em Up](https://open.spotify.com/track/1GzeZBt9GXs9hAuopZGacR) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Point Em Up](https://open.spotify.com/album/4yd5nyBknTlyWv06KOyaRa) | 3:32 | 2021-11-19 | 2022-01-08 |

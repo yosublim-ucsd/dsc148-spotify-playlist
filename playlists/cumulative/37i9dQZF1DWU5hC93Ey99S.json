@@ -1399,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "loveday",
+        "url": "https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X"
+      },
+      "artists": [
+        {
+          "name": "JHN",
+          "url": "https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk"
+        },
+        {
+          "name": "a friend of mine",
+          "url": "https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148359,
+      "name": "loveday",
+      "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
+    },
+    {
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"

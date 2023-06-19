@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 19763,
+  "num_followers": 19777,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjYzNDI0MTI0NjQ5NThkMzdkYzA3N2UzZTkyMTZkNjI0NmQ4NWI0",
+  "snapshot_id": "MCw1NmRhMjJiZTE4OGQyMjU4MmE4ZjU4Y2IzNTA4NTY4NzVhYzMzNWE1",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
         }
       ],
-      "duration_ms": 287920,
-      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
-      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+      "duration_ms": 336253,
+      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
         }
       ],
-      "duration_ms": 336253,
-      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
+      "duration_ms": 287920,
+      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
+      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -711,6 +711,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+        },
+        {
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Standchen, TrV 114",
+      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
         "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 596640,
       "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
       "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
-        },
-        {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Standchen, TrV 114",
-      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -807,50 +807,6 @@
       "duration_ms": 348533,
       "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
       "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Elektra",
-        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Ekaterina Popova",
-          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
-        },
-        {
-          "name": "Olga Legkova",
-          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
-        },
-        {
-          "name": "Ekaterina Sergeeva",
-          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
-        },
-        {
-          "name": "Tatiana Kravtsova",
-          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Lia Shevtsova",
-          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
-        }
-      ],
-      "duration_ms": 369720,
-      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
-      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -907,6 +863,50 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Elektra",
+        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Ekaterina Popova",
+          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
+        },
+        {
+          "name": "Olga Legkova",
+          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
+        },
+        {
+          "name": "Ekaterina Sergeeva",
+          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
+        },
+        {
+          "name": "Tatiana Kravtsova",
+          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Lia Shevtsova",
+          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
+        }
+      ],
+      "duration_ms": 369720,
+      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
+      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -959,34 +959,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
         "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
@@ -1011,6 +983,34 @@
       "duration_ms": 270240,
       "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
       "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
-        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1736520,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/433MQfeWscw5iOydbZjy5c"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
+        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1736520,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
     },
     {
       "added_at": "2022-06-20 09:55:21",

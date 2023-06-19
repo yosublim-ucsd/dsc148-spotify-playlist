@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: The Teskey Brothers",
-  "num_followers": 361689,
+  "num_followers": 361706,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODk0MTc3OTgzODUyOTA0MWU4NmFmY2NiZmY3NmQ1OThhODY2YjNk",
+  "snapshot_id": "MCxkYTM3MDMyMDFkOWIyMWU0OWMyYjUzZmI1NTJiMjU0NTM2OTk4NDdm",
   "tracks": [
     {
       "added_at": "2023-06-15 23:06:22",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
     },
     {
+      "added_at": "2023-06-18 10:19:16",
+      "album": {
+        "name": "In Times New Roman...",
+        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 202776,
+      "name": "Paper Machete",
+      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+    },
+    {
       "added_at": "2023-06-15 23:06:22",
       "album": {
         "name": "Good Riddance (Deluxe)",
@@ -1243,22 +1259,6 @@
       "duration_ms": 181900,
       "name": "405",
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
-    },
-    {
-      "added_at": "2023-06-15 23:06:22",
-      "album": {
-        "name": "Paper Machete",
-        "url": "https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 202776,
-      "name": "Paper Machete",
-      "url": "https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W"
     },
     {
       "added_at": "2023-06-15 23:06:22",

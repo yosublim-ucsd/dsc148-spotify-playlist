@@ -1105,24 +1105,6 @@
     },
     {
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        }
-      ],
-      "date_added": "2022-06-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now)",
-      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "album": {
         "name": "100 Hits of the '90s",
         "url": "https://open.spotify.com/album/3DFnN7SaYffZ6BrSmIhtkR"
       },
@@ -1142,6 +1124,28 @@
       "duration_ms": 243800,
       "name": "Gonna Make You Sweat (Everybody Dance Now)",
       "url": "https://open.spotify.com/track/0kwENjv9F98MZLPEN3gCQT"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
       "album": {

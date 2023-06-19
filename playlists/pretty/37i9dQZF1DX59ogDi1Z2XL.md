@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,875 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,878 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Bora Bora](https://open.spotify.com/track/586guBKCSzccyYZVZduraw) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw) | [Big Screen](https://open.spotify.com/album/3fbMX5wfEMgo9jsGvxArf3) | 2:35 |
 | 100 | [My Fate](https://open.spotify.com/track/4iSq8Rg3fW1y7aqM6s0EJZ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Fate](https://open.spotify.com/album/4gVfJ19WRPnoGMnr88QImt) | 2:13 |
 
-Snapshot ID: `MCxmNzgxYWU4YTEyNGQ3ZjMyYTcyZDMxZTFlOGFlY2YxZWJmMjIyNmY3`
+Snapshot ID: `MCw0Zjk1OGI2MzkwOTc3Y2RiZTg0YzhjZTg3ZTVhMTFmMmE3MjJkZTNi`

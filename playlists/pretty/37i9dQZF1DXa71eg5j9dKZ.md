@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TIBASKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,076 likes - 125 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,083 likes - 125 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 124 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 |
 | 125 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
 
-Snapshot ID: `MCw3YTQ3M2RlNmU0MDY3YmUwOWJiOGMxZGRmZjIyNGUyYzk1YzMwZjhk`
+Snapshot ID: `MCxiYzJhMGVjODVhYTE5MjdhMDYyNGMzMDE0Y2ExYzA5YTg3NmNkN2Zm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,317 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,393 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 16 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 |
 | 17 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 |
 | 18 | [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 |
-| 19 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Sanjay Shetye](https://open.spotify.com/artist/0AF3OAHQv4N31m8hLNfdyP) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 |
+| 19 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 |
 | 20 | [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 |
 | 21 | [KHUD HAI FANAA..](https://open.spotify.com/track/6rsdxC2UGesM0NEj0cHi4s) | [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [KHUD HAI FANAA](https://open.spotify.com/album/63WdqfcOtJRipyygo2N8U5) | 4:27 |
 | 22 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/track/6hQieOPS0HX8OC9R4TadKm) | [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un), [Danish Sood](https://open.spotify.com/artist/5HH9WTgUzO8ZIiqrxPiwiv) | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/album/3H64nyK26KvB3I6hnKrudB) | 2:06 |
 | 75 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 
-Snapshot ID: `MCw1MGEzY2QwODc1YzA4YjBmMjM0OTI5YTQ1YzBkOTNhM2IwMDU5NGIw`
+Snapshot ID: `MCxlZGM3MDhjZmRkNzBkY2JkNjM3NTM3ZDdiOWZkOGM2YzhkNWRiZGEx`

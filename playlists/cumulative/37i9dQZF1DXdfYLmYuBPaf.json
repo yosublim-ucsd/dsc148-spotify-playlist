@@ -226,7 +226,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 256250,
       "name": "Dameek Majeb",
       "url": "https://open.spotify.com/track/5T2fEj5W670f2PfDtz1k8V"
@@ -248,6 +248,24 @@
       "duration_ms": 256250,
       "name": "Dameek Majeb",
       "url": "https://open.spotify.com/track/5cdWjSCgLeBKBiEnmHOkO0"
+    },
+    {
+      "album": {
+        "name": "Subhana (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256250,
+      "name": "Dameek Majeb",
+      "url": "https://open.spotify.com/track/6arNSmEgcqkNkUy5fYTFW2"
     },
     {
       "album": {
@@ -975,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Subhana (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298124,
+      "name": "Subhana",
+      "url": "https://open.spotify.com/track/1UZ7xcA5TnMaIqNWBnf8P9"
+    },
+    {
+      "album": {
         "name": "Subhana (Habibi Funk 012)",
         "url": "https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY"
       },
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-19",
       "duration_ms": 300500,
       "name": "Subhana",
       "url": "https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE"

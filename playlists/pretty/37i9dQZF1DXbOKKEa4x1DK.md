@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,647 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,657 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 43 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 44 | [Corazón en Soledad](https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L) | [Ala Jaza](https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW) | [Mamwali, Vol\. 2](https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e) | 3:31 |
 | 45 | [Con Los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 |
-| 46 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
-| 47 | [No Se Que Hacer](https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 4:13 |
+| 46 | [No Se Que Hacer](https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 4:13 |
+| 47 | [Como Te Olvido](https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Mi Historia](https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB) | 4:49 |
 | 48 | [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 |
 | 49 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 50 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
 | 51 | [Confundido](https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Merengues Del Casandra](https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR) | 4:47 |
 | 52 | [Donde](https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:37 |
 | 53 | [Corazón De Nadie](https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:07 |
-| 54 | [Como Te Olvido](https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Mi Historia](https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB) | 4:49 |
-| 55 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
-| 56 | [Que Cara Mas Bonita](https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 4:10 |
-| 57 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
+| 54 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
+| 55 | [Que Cara Mas Bonita](https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 4:10 |
+| 56 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
+| 57 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 | 58 | [Dicen](https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:45 |
 | 59 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 | 60 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 |
 
-Snapshot ID: `MCxkMzlhNjE4NGFlZTM1N2VkODljNzI5M2QyODE0NThmYTFiYjM4ZGUw`
+Snapshot ID: `MCwyMzJhZTEzZTY5Y2EzMzNiMmRkNjQ3MzJhOTAxOTVjODZmZjI5NmNj`

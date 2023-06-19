@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,929 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,936 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 17 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
 | 18 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
 | 19 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 |
-| 20 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
-| 21 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
+| 20 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
+| 21 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
 | 22 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
 | 23 | [We Don't Talk](https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:25 |
 | 24 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 27 | [Come Apart](https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 3:04 |
 | 28 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 |
 | 29 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 |
-| 30 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
-| 31 | [Mirror Dance](https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Mirror Dance](https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V) | 3:03 |
+| 30 | [Mirror Dance](https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Mirror Dance](https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V) | 3:03 |
+| 31 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 | 32 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
 | 33 | [Not There](https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2) | 3:22 |
 | 34 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 70 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
 | 71 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 |
 | 72 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 |
-| 73 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
-| 74 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
+| 73 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
+| 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 
-Snapshot ID: `MCw3ZTBmZGViMWZkZjU3ZWZhZTYwNzhjNTgyMGVjMmZmZjhiYzZmZjBh`
+Snapshot ID: `MCw5OWFmNjI0M2E5YTZkN2MzZTA0ZGY5ZDIwMGJlY2Y0OTAzNDY5ZGUx`

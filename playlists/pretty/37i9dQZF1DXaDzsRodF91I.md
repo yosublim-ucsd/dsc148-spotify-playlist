@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,352 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,387 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 48 | [I Want You Back](https://open.spotify.com/track/6N3HXCGF9y76A9l5zJYeJe) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [I Want You Back](https://open.spotify.com/album/7EzaGbmp7UEWJUutJgatjz) | 2:49 |
 | 49 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 50 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 |
-| 51 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
-| 52 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
+| 51 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
+| 52 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
 | 53 | [Closer](https://open.spotify.com/track/2Mfg9VKNW2txe2gNjIi1Az) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 4:12 |
 | 54 | [Everywhere](https://open.spotify.com/track/6CoviEJTThZGD6YjbA3q4c) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everywhere](https://open.spotify.com/album/5xMneXss8T6BWf9ppkZc3P) | 3:15 |
 | 55 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 81 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
 | 82 | [Peace Signs](https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Peace Signs](https://open.spotify.com/album/33oM16jRGfm4QzDalm6kFi) | 3:08 |
 | 83 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
-| 84 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 85 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
+| 84 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
+| 85 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 86 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
 | 87 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
 | 88 | [Two Tickets To Paradise \(2006\)](https://open.spotify.com/track/4m9sbj1CNZw5ANg1YTflH4) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
 | 100 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 
-Snapshot ID: `MCw2MzNkNDEzZWViMjBjZjBlOThhN2E3Nzc3ODkwZWZmZGVmOTRkYTRl`
+Snapshot ID: `MCxlNzBhOWYxY2Q3YTRjODNiMzc2NDA1MDI3ZWZiMWNjYjNjOTUyOGIw`

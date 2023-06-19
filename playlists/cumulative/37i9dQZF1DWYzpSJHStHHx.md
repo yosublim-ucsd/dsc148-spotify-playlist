@@ -4,7 +4,7 @@
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-240 songs - 13 hr 46 min
+241 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Queen's Parade](https://open.spotify.com/track/6sASGGyFiHJVsoWZCHYOsa) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Queen's Parade](https://open.spotify.com/album/6UIJUT0FM2GI9CdSEgVDk5) | 3:45 | 2021-02-05 | 2022-05-23 |
 | [Raspberry Jam](https://open.spotify.com/track/3i2pAVmEzBgJIHtIMkNQBJ) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/2L8OeILKoTrzQr8swQx2Ys) | 3:48 | 2021-02-05 | 2022-07-29 |
 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 | 2022-07-22 | 2023-03-02 |
+| [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 | 2023-05-22 |  |
 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 | 2023-03-01 |  |
 | [Rip Van Winkle](https://open.spotify.com/track/5zrQA1pPrlZfhy50ua01ez) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Dreams in the Rat House](https://open.spotify.com/album/42BEHqjwbFSpFZXzEauKiG) | 2:12 | 2021-02-05 | 2022-04-21 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-04-13 | 2023-03-02 |
@@ -223,7 +224,7 @@
 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 | 2021-02-05 | 2022-07-29 |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2022-07-22 | 2023-03-02 |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-02-05 | 2022-06-24 |
-| [unwind](https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [unwind](https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq) | 2:08 | 2023-05-26 |  |
+| [unwind](https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [unwind](https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq) | 2:08 | 2023-05-26 | 2023-06-19 |
 | [Valleys \(My Love\)](https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:56 | 2023-05-22 | 2023-06-06 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-02-05 | 2022-04-21 |
 | [Waiting on Summer](https://open.spotify.com/track/4OhTbBrGmuUzMImkJrzGjC) | [Stuck in Vacation](https://open.spotify.com/artist/5EHeaLUHACalZ0bNp1MCQD) | [Waiting on Summer](https://open.spotify.com/album/7LKQyGMMUkgQfzysQxQd0Z) | 2:45 | 2021-08-27 | 2022-04-20 |

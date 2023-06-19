@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Fefe Dobson
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,507 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,579 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Foregone, Pt\. 2](https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Meet Your Maker](https://open.spotify.com/album/4MULWYM7gQyBiJ2KeJ2PrY) | 4:30 |
 | 100 | [AUTOMATIC](https://open.spotify.com/track/3npR6Dg8NmwbEW9gU7jGCX) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [AUTOMATIC](https://open.spotify.com/album/5qEofzKKcDkOe2mcThqUco) | 2:33 |
 
-Snapshot ID: `MCxjNjVmMGU2NDRiNTJlNjVjZGFmNDI3NjEyMjk0NzRjZDRjNDUyYTY2`
+Snapshot ID: `MCw0NDUxYWE5NGExNzE4YzFmZWMyMDg2ODRiZTU3MDFlZThkMjhlYWM0`

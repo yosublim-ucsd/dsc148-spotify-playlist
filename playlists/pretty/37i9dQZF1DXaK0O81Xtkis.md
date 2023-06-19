@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Lany
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,158 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,166 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 55 | [MASOCHIST](https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [MASOCHIST](https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK) | 2:44 |
 | 56 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 | 57 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
-| 58 | [dry eyes](https://open.spotify.com/track/6owZhOUWIkdUycGYzH4FJj) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dry eyes](https://open.spotify.com/album/41SuhET3ihKEyqGRE9lL9z) | 2:45 |
+| 58 | [dry eyes](https://open.spotify.com/track/5XILrkEOLaiQR5nFjHx7Hj) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dry eyes](https://open.spotify.com/album/02tDOiDAvupt4ZvwauY44b) | 2:45 |
 | 59 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 |
 | 60 | [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 |
 | 61 | [Hello My Name Is](https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Hello My Name Is](https://open.spotify.com/album/2J1sl3AmTdeaDKIR0SWlUa) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 89 | [Call It Like It Is](https://open.spotify.com/track/1KtpAFiSZ9WO5RYI7F752Y) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Call It Like It Is](https://open.spotify.com/album/1G9K6xgvZvhVJ1vRVnzDLA) | 3:24 |
 | 90 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 |
 
-Snapshot ID: `MCxiMmM2ZmMxNDNjY2Y1NjllMGQ2NzJlNmVjZmIxNjFlNmMxM2U4YThj`
+Snapshot ID: `MCw4ZTYzNTQ5MjY0NTRhNzI3YTAyM2I0ZWU1MTAyYWM2Y2E5Nzk3NjZh`

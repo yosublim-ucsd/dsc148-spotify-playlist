@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Urias
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,410 likes - 58 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,308 likes - 58 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 33 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 |
 | 34 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 |
 | 35 | [Queer Lover](https://open.spotify.com/track/3qMzLvNE4c6eLCjimguK3Y) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV) | [Queer Lover](https://open.spotify.com/album/4KbPQ0i9FhiCQj8LoVRQDj) | 2:34 |
-| 36 | [Más animal \(feat\. iLe\)](https://open.spotify.com/track/1r9P5FDLAkUToEUTLEB4Lp) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Más animal \(feat\. iLe\)](https://open.spotify.com/album/7ArT5PzC6m1WEltOpd9Bma) | 2:57 |
+| 36 | [MÁS ANIMAL \(feat\. iLe\)](https://open.spotify.com/track/1r9P5FDLAkUToEUTLEB4Lp) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [MÁS ANIMAL \(feat\. iLe\)](https://open.spotify.com/album/7ArT5PzC6m1WEltOpd9Bma) | 2:57 |
 | 37 | [Overexposed](https://open.spotify.com/track/5R5KHwKv7QPau0ASPVaRaF) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Overexposed](https://open.spotify.com/album/6vxUpXnG1PfMhwyemBgVfU) | 2:28 |
 | 38 | [All Out](https://open.spotify.com/track/7762D9nItHqBA3L0YLz1XQ) | [Dez Mona](https://open.spotify.com/artist/0GbQe6Hey0uIZimRRQSVUf), [B.O.X](https://open.spotify.com/artist/4abBKHZr9UBTm28nCSvSMw) | [LUCY](https://open.spotify.com/album/0rOf7zkmRbsidYTfvyVIFV) | 4:23 |
 | 39 | [El Grillo](https://open.spotify.com/track/1oBA10UDgYhEXaGcYPoBl5) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [El Grillo](https://open.spotify.com/album/4LpNjaOgHmTJPr55TaKWKX) | 2:48 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 57 | [חזרה למציאות](https://open.spotify.com/track/105zU8MJxjQHOf9cRxDMZQ) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [חזרה למציאות](https://open.spotify.com/album/3bUjdo78ZOju0dCDKq8kOS) | 3:04 |
 | 58 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 |
 
-Snapshot ID: `MCwxMmFjMjAzZTEwNzIwNGU0OGY3NWFkMzkxNGM1MmQxNGJhMjk0M2Nk`
+Snapshot ID: `MCw5MDRkZjczNmViNWM1NGQwMzkyOTNhY2NiOWYwMDRmMmE0N2UyZjNi`

@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1609787,
+  "num_followers": 1609845,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2VkZDg5NmE3YjdmOWQyOWE5YTBlNzUwN2NhNDM0Y2RlYWNlYzc3",
+  "snapshot_id": "MCxmNjU0MGNiOGQ3YmFhODY0Y2U5ZDc3N2ViZjk2MzIxOTY3ZGQ1ZWRl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -561,22 +581,6 @@
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "oh, him",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 143640,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "HAUNTED",
-        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 137851,
-      "name": "HAUNTED",
-      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "HAUNTED",
+        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137851,
+      "name": "HAUNTED",
+      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 344344,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 185660,
       "name": "Serenade of Water",
       "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
     },
     {
       "added_at": "2023-04-28 04:00:00",

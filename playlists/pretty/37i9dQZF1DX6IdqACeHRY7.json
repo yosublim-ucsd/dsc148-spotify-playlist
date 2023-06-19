@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 147282,
+  "num_followers": 147301,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzdkZTU3YTUzYzZmYjk1MDM1NjQzZWUxYTI2ZDhiYTBjYjkwN2I3",
+  "snapshot_id": "MCxhZGJlMTQzNWZlZDgxNzAzZjQ3MmYzM2E5ODgzNGM5YmM5YzY1YTll",
   "tracks": [
     {
       "added_at": "2023-05-03 09:50:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 217161,
-      "name": "6 months",
-      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 217161,
+      "name": "6 months",
+      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 253011,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Stay Awake with Me (acoustic)",
-        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
-      },
-      "artists": [
-        {
-          "name": "Dan Owen",
-          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Made to Love You",
-      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 219967,
       "name": "Corners",
       "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Stay Awake with Me (acoustic)",
+        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Owen",
+          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Made to Love You",
+      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change",
-        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Is It Really Me You're Missing",
-      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "The Sun Will Come up, The Seasons Will Change",
+        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Is It Really Me You're Missing",
+      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "Something American",
         "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     }
   ],
   "unique_name": "Ren hygge",
