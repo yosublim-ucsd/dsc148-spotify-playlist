@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "98 Scary Sounds",
+        "url": "https://open.spotify.com/album/0DXn91b55vqlqbFvFf7PcI"
+      },
+      "artists": [
+        {
+          "name": "Sound Collective",
+          "url": "https://open.spotify.com/artist/01YYfa4Iz78Q93eHr0RSbv"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154506,
+      "name": "Ambience: Spooky Forest",
+      "url": "https://open.spotify.com/track/48zBAS5eTHhbpbzhsysfrr"
+    },
+    {
+      "album": {
         "name": "Creepy Background Music for Videos & Games (Halloween Party 2018, Best Selection of Scarry Horror Music, Instrumental Spooky Songs)",
         "url": "https://open.spotify.com/album/0El8S4BHbD3zP08mxF6okG"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 96626,
       "name": "Chase Pulse Faster",
       "url": "https://open.spotify.com/track/3RZ8eVoLhiqw47iMSR8MwJ"
@@ -211,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Halloween Horror Sounds: Very Creepy & Scary Mood, Spooky Sound Effect 2022",
+        "url": "https://open.spotify.com/album/03hu0ePSIAxOR5lhdrKG30"
+      },
+      "artists": [
+        {
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Choir of Devils (Horror Sound Effect)",
+      "url": "https://open.spotify.com/track/7qSYXNvMPvePwr3rRun4Zs"
+    },
+    {
+      "album": {
         "name": "Halloween Sounds",
         "url": "https://open.spotify.com/album/0pP66JntY31t633UrV660I"
       },
@@ -240,10 +276,46 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 73325,
       "name": "Creepy Halloween Organ",
       "url": "https://open.spotify.com/track/4MbvvWFMg76uY705nPJlQe"
+    },
+    {
+      "album": {
+        "name": "Halloween Horror Sounds: Very Creepy & Scary Mood, Spooky Sound Effect 2022",
+        "url": "https://open.spotify.com/album/03hu0ePSIAxOR5lhdrKG30"
+      },
+      "artists": [
+        {
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214410,
+      "name": "Creepy Little Girl Singing (Horror Sound Effect)",
+      "url": "https://open.spotify.com/track/6eqS8y8qnueb6D099eQV94"
+    },
+    {
+      "album": {
+        "name": "Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx",
+        "url": "https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi"
+      },
+      "artists": [
+        {
+          "name": "Horror Music of the Night",
+          "url": "https://open.spotify.com/artist/6QwoKweH3ySp3zSmpZpzPg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240558,
+      "name": "Creepy Music",
+      "url": "https://open.spotify.com/track/4G2sYg6ajM2aXeht06v9Mq"
     },
     {
       "album": {
@@ -258,10 +330,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 73258,
       "name": "Creepy Music Box",
       "url": "https://open.spotify.com/track/5wadCOTzHVQ0zYu9K9eW9l"
+    },
+    {
+      "album": {
+        "name": "Scary Halloween Sounds - Halloween Music",
+        "url": "https://open.spotify.com/album/0PmxDAWxIoit477d8jk7Kc"
+      },
+      "artists": [
+        {
+          "name": "Scary Halloween Sounds",
+          "url": "https://open.spotify.com/artist/03diemJmgU97kswAF7s8e6"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248922,
+      "name": "Creepy Sound Effects (Halloween)",
+      "url": "https://open.spotify.com/track/5NZFx4TSzcVy47d9CZ0Gzr"
     },
     {
       "album": {
@@ -330,7 +420,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 33982,
       "name": "Dark Tone Creepy Laughs",
       "url": "https://open.spotify.com/track/3jpBYn3guojBQpqtulW7ea"
@@ -446,7 +536,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 55102,
       "name": "From the Infernal Plane",
       "url": "https://open.spotify.com/track/0vS8ijnTU99lhykdFesI8v"
@@ -468,6 +558,24 @@
       "duration_ms": 338823,
       "name": "Frozen Screams",
       "url": "https://open.spotify.com/track/69zy9m6qmTheF1Sj4V4Vw5"
+    },
+    {
+      "album": {
+        "name": "Spooky Night Melodies",
+        "url": "https://open.spotify.com/album/00YNo0bImRZboflcSnPjGk"
+      },
+      "artists": [
+        {
+          "name": "Scary Sounds",
+          "url": "https://open.spotify.com/artist/1sqFEBIRgEhSl4ZDwIAQ1w"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ghost Sounds",
+      "url": "https://open.spotify.com/track/3PK8Q1jGOnilTZU4mk4wOl"
     },
     {
       "album": {
@@ -508,7 +616,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 73582,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/479YeOJFGmHqaJFHlTfPcv"
@@ -526,7 +634,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 60085,
       "name": "Ghostly Voices - Horror Sound Effect",
       "url": "https://open.spotify.com/track/7yvmnkTycWZzdw2eypwREY"
@@ -677,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Creepy Sound Effects",
+        "url": "https://open.spotify.com/album/0Z4ChW6Fo8SwWc0g5sgi0o"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Effects",
+          "url": "https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155945,
+      "name": "Halloween Party",
+      "url": "https://open.spotify.com/track/15asDn8RMTDAEo40H6XdJU"
+    },
+    {
+      "album": {
         "name": "Halloween Sounds",
         "url": "https://open.spotify.com/album/0pP66JntY31t633UrV660I"
       },
@@ -695,6 +821,42 @@
     },
     {
       "album": {
+        "name": "Scary Halloween Sounds - Halloween Music",
+        "url": "https://open.spotify.com/album/0PmxDAWxIoit477d8jk7Kc"
+      },
+      "artists": [
+        {
+          "name": "Scary Halloween Sounds",
+          "url": "https://open.spotify.com/artist/03diemJmgU97kswAF7s8e6"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401666,
+      "name": "Halloween Sounds (Scary Noises)",
+      "url": "https://open.spotify.com/track/5pFNaXisFmJ8NW2zqc8v3c"
+    },
+    {
+      "album": {
+        "name": "Halloween Sounds",
+        "url": "https://open.spotify.com/album/6gdnJpob0X1ZvPn59MgoYr"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sounds",
+          "url": "https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222102,
+      "name": "Halloween Sounds 6 Creepy Sound Effects",
+      "url": "https://open.spotify.com/track/0D6fFg42Xk06PonDZTXicd"
+    },
+    {
+      "album": {
         "name": "Spooky Halloween Sounds",
         "url": "https://open.spotify.com/album/5tuWyoE4ai1oXwi8DnCsYG"
       },
@@ -706,7 +868,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 61559,
       "name": "Halloween Soundscape",
       "url": "https://open.spotify.com/track/4rB8KBa3cxVTW8Yi57L5pC"
@@ -746,6 +908,28 @@
       "duration_ms": 200000,
       "name": "Halloween Wolves, Thunder, Wind",
       "url": "https://open.spotify.com/track/67PETcmS3LxtS7CktirC6z"
+    },
+    {
+      "album": {
+        "name": "Haunted and Scary Halloween Sounds (Best Halloween Party Collection 2018, Horror & Creepy Effects)",
+        "url": "https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc"
+      },
+      "artists": [
+        {
+          "name": "Halloween Effects Horror Library",
+          "url": "https://open.spotify.com/artist/1tIqtC8E6DsbnjKsoDQaGk"
+        },
+        {
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Haunted and Scary Halloween Sounds",
+      "url": "https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH"
     },
     {
       "album": {
@@ -814,10 +998,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 74302,
       "name": "Haunted House Sounds 1 Halloween Scary Sound Fx",
       "url": "https://open.spotify.com/track/7AIbAQpAVfis8yOHmpgNKY"
+    },
+    {
+      "album": {
+        "name": "Haunted Forest Ambience: Creepy Halloween Music full of Scary Sound Effects and Spooky Noises",
+        "url": "https://open.spotify.com/album/2XIDHYH5KMbeCnVsK48QY6"
+      },
+      "artists": [
+        {
+          "name": "Horror Music Collection",
+          "url": "https://open.spotify.com/artist/4PhTHcrcuHr6kihYKkYzxe"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Haunted Place: Ghostly Noises",
+      "url": "https://open.spotify.com/track/2TQuGXgfBuZ1I5xoo4bLOY"
     },
     {
       "album": {
@@ -911,6 +1113,32 @@
     },
     {
       "album": {
+        "name": "#1 Ominous Sounds to Give You Chills",
+        "url": "https://open.spotify.com/album/5meKG4MgP3CpXubX2weGx6"
+      },
+      "artists": [
+        {
+          "name": "Monster Mash Halloween",
+          "url": "https://open.spotify.com/artist/6B9xxpfiI7PGAnnDk59dwS"
+        },
+        {
+          "name": "Spooky Sounds For Halloween",
+          "url": "https://open.spotify.com/artist/5aFslAdRaWoMHgTVZe6t00"
+        },
+        {
+          "name": "Scary Halloween Music",
+          "url": "https://open.spotify.com/artist/6Y6fszlaYrTWIbaxQtdsGO"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120510,
+      "name": "In the Basement",
+      "url": "https://open.spotify.com/track/2M9XfHIsEYZg3DsZxYFBlm"
+    },
+    {
+      "album": {
         "name": "Halloween Ambience",
         "url": "https://open.spotify.com/album/4xmU4hVsK2KKnxfAfMRIC2"
       },
@@ -958,7 +1186,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 77173,
       "name": "Mansion in the Mist",
       "url": "https://open.spotify.com/track/6QIiUXvhADwiOVVdjR7GhZ"
@@ -1084,7 +1312,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 60574,
       "name": "Monster In the Attic - Scary Halloween Sound Effects",
       "url": "https://open.spotify.com/track/72UwRcHvUSquK0agwa8Vrb"
@@ -1181,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Scary Halloween Music \u2013 Halloween Party 2017, Spooky Sounds, Horror Effects, Dark Night",
+        "url": "https://open.spotify.com/album/2MIZoTEfdZRlDs0tcys4t6"
+      },
+      "artists": [
+        {
+          "name": "Halloween Music",
+          "url": "https://open.spotify.com/artist/4OfDxabDQVhfThUuSS19za"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Scary Ambient Music",
+      "url": "https://open.spotify.com/track/0bA4Yw9F1qVTGBsTxsaME0"
+    },
+    {
+      "album": {
         "name": "Scary Clown Music: Suspense Horror Sounds, Night at the Carnival with Carillon Creepy Songs",
         "url": "https://open.spotify.com/album/7uQAi1a2CQmfWdgjF6z1Qp"
       },
@@ -1214,6 +1460,24 @@
       "duration_ms": 200853,
       "name": "Scary Dungeon Sounds",
       "url": "https://open.spotify.com/track/0CqOE8IivihmGwVwZmMLS4"
+    },
+    {
+      "album": {
+        "name": "Halloween Sound Effects - 2 Hours of Scary Sounds",
+        "url": "https://open.spotify.com/album/7dhzoN4LA5Q7wLVr8ec4MR"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Labs",
+          "url": "https://open.spotify.com/artist/4IaGsjFO5d53p6OAhCDzTK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157120,
+      "name": "Scary Graveyard Soundscape",
+      "url": "https://open.spotify.com/track/24g6N8mGUZg3QhoLs2PqqB"
     },
     {
       "album": {
@@ -1264,7 +1528,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 62955,
       "name": "Scary Laboratory",
       "url": "https://open.spotify.com/track/0Wk3i5DKdwccMmIZFwurON"
@@ -1307,6 +1571,42 @@
     },
     {
       "album": {
+        "name": "Creepy Sound Effects",
+        "url": "https://open.spotify.com/album/0Z4ChW6Fo8SwWc0g5sgi0o"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Effects",
+          "url": "https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "Scary Night",
+      "url": "https://open.spotify.com/track/2iX1465gdctklflFCoLErj"
+    },
+    {
+      "album": {
+        "name": "Haunted Forest Ambience: Creepy Halloween Music full of Scary Sound Effects and Spooky Noises",
+        "url": "https://open.spotify.com/album/2XIDHYH5KMbeCnVsK48QY6"
+      },
+      "artists": [
+        {
+          "name": "Scary Halloween Night Ambient",
+          "url": "https://open.spotify.com/artist/1ufD35Phdijiuma3h02SdK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Scary Sounds: Unearthly Howls",
+      "url": "https://open.spotify.com/track/7b52hn2KNIxpRfyCK67N3o"
+    },
+    {
+      "album": {
         "name": "Halloween FX of Horror",
         "url": "https://open.spotify.com/album/7AvmbzZevCxbn6ytOvdA9b"
       },
@@ -1340,6 +1640,24 @@
       "duration_ms": 165500,
       "name": "Scary Spirits",
       "url": "https://open.spotify.com/track/5Ulwio7QImhKXPN7hExRND"
+    },
+    {
+      "album": {
+        "name": "Halloween Music Collection \u2013 Spooky Sounds for Halloween Party, Horror Effects, Scary Music, Halloween Hits",
+        "url": "https://open.spotify.com/album/2Vo2zsuFuREJH0ph8lWrvz"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Effects",
+          "url": "https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Scary Wind",
+      "url": "https://open.spotify.com/track/0FZ9cq6RgK9a3JOBh08IVB"
     },
     {
       "album": {
@@ -1380,7 +1698,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 69659,
       "name": "Sounds from the Attic",
       "url": "https://open.spotify.com/track/53j9uNkIT4pS3ZjIIONXv6"
@@ -1423,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Halloween Fun!",
+        "url": "https://open.spotify.com/album/1Ae0R31ca208qGlXW9hvZW"
+      },
+      "artists": [
+        {
+          "name": "Sing n Play",
+          "url": "https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Spooky \"E\" Sounds",
+      "url": "https://open.spotify.com/track/0EFD2TH09PDfcxv9q5h5iC"
+    },
+    {
+      "album": {
         "name": "Sounds for Trick or Treating",
         "url": "https://open.spotify.com/album/28zZvNZlpodymoABeP5y95"
       },
@@ -1459,6 +1795,46 @@
     },
     {
       "album": {
+        "name": "Happy Halloween 2017 - The Best Collection of Halloween Music, Scary Sound Effects, Scary Noises",
+        "url": "https://open.spotify.com/album/2uAS1lXFMFmyvBjkAcHZAm"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Effects",
+          "url": "https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB"
+        },
+        {
+          "name": "All Hallows' Eve",
+          "url": "https://open.spotify.com/artist/4QnjDSm3SaG06NXO7S3wiH"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146532,
+      "name": "Spooky Sounds",
+      "url": "https://open.spotify.com/track/38yBp8LEKKiHXKc6OCX1pP"
+    },
+    {
+      "album": {
+        "name": "Scary Night",
+        "url": "https://open.spotify.com/album/19MMpmL7LmfGQPWkM7clqA"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sounds",
+          "url": "https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170177,
+      "name": "Spooky Sounds",
+      "url": "https://open.spotify.com/track/75FfPTHYM7bQKdzUkoM3C6"
+    },
+    {
+      "album": {
         "name": "Noche de Terror - M\u00fasica Instrumental y Canciones de Miedo para Ni\u00f1os para Celebrar Halloween",
         "url": "https://open.spotify.com/album/2jfxXdH71DJF7iQqFho1sE"
       },
@@ -1481,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Halloween Nature Sounds: Haunted Forest - Fireplace with Thunder, Rain and Howling Wind, Halloween 2019 & Creepy Music",
+        "url": "https://open.spotify.com/album/4D8Nyqu2Oc3qcbV1jA94bX"
+      },
+      "artists": [
+        {
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219469,
+      "name": "Stalking Shadow",
+      "url": "https://open.spotify.com/track/7vmR79kT3Z5qsM8G46mCBG"
+    },
+    {
+      "album": {
         "name": "\u201cHey Ho for HALLOWEEN\u201d \u2013 32 Creepy Songs and Spooky Sound Effects for Seriously Scary Kids!!!",
         "url": "https://open.spotify.com/album/6ZjNSGYcy4AWFS9hg6Dlhv"
       },
@@ -1492,7 +1886,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 93493,
       "name": "The Bells - Sound Effect",
       "url": "https://open.spotify.com/track/6aYoBhljCfDIE5Sihsam4R"
@@ -1582,10 +1976,36 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 44167,
       "name": "The Ritual - Scary Halloween Sound Effects",
       "url": "https://open.spotify.com/track/3t3WTqvGNt6DdASqO2aV4u"
+    },
+    {
+      "album": {
+        "name": "Spooky Soundscapes: Terror Halloween",
+        "url": "https://open.spotify.com/album/5cenLy29LqHKZjZ86tAeD7"
+      },
+      "artists": [
+        {
+          "name": "Halloween Masters",
+          "url": "https://open.spotify.com/artist/5RB7kW5UrAcAd3UY3JCk7e"
+        },
+        {
+          "name": "Halloween Sounds",
+          "url": "https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo"
+        },
+        {
+          "name": "Halloween Party Album Singers",
+          "url": "https://open.spotify.com/artist/5C42n0qm7ELXsFdtre0e5q"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182689,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/2ZwYCSoBaBXrtlUpHMdXlw"
     },
     {
       "album": {
@@ -1618,7 +2038,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 86266,
       "name": "Thundering Gravediggers - Sound Effect",
       "url": "https://open.spotify.com/track/28rd1rWewEWzMsCyXjkM7H"
@@ -1697,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Halloween Shuffle Play - 150 Scary Sounds and Halloween Music",
+        "url": "https://open.spotify.com/album/4yh1SX3FF3zoXd3skJi7a5"
+      },
+      "artists": [
+        {
+          "name": "Halloween Sound Effects",
+          "url": "https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120656,
+      "name": "Werewolves - Scary Halloween Sound Effects",
+      "url": "https://open.spotify.com/track/2MuVNatNRdA5HPUHLzyo6D"
+    },
+    {
+      "album": {
         "name": "Who's Out There?",
         "url": "https://open.spotify.com/album/5ARWX6OYjnpNlZAu9grNi2"
       },
@@ -1708,7 +2146,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 114880,
       "name": "Who's Out There?",
       "url": "https://open.spotify.com/track/5fad6kMnqZky1fw8aomZm4"
@@ -1762,7 +2200,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 82000,
       "name": "Witches Coven - Sound Effect",
       "url": "https://open.spotify.com/track/3hQkpWkU9SfZkSCMKvxpk5"

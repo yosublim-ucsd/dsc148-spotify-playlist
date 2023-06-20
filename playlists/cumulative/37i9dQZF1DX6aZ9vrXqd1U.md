@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-256 songs - 18 hr 30 min
+257 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-09 |  |
 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 | 2022-07-27 |  |
 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 | 2022-07-27 | 2022-07-29 |
+| [Resolve](https://open.spotify.com/track/644M4CDzq23hv5gSspq6bX) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P フィーバー機動戦士ガンダム 逆襲のシャア](https://open.spotify.com/album/2Sic1dlGXEDPPYhAm2qP7E) | 4:13 | 2023-06-19 |  |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 |  |
 | [sharp ♯](https://open.spotify.com/track/70VRn9TesY8dkfxNnEOZhY) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/6mlqY4QJsj8XDIstWD7ZwS) | 3:39 | 2022-07-27 | 2022-07-29 |
 | [Silent Voice](https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH) | [Jun Hiroe](https://open.spotify.com/artist/48DGGQUllRMJBjK6ArNDkZ) | [Silent Voice](https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB) | 4:26 | 2023-04-21 |  |
@@ -180,7 +181,7 @@
 | [trust you](https://open.spotify.com/track/6yqFIahTpbNzLZQQ1CXzFg) | [Yuna Ito](https://open.spotify.com/artist/0yKgtrXFlFG2rbA5vamkC5) | [trust you](https://open.spotify.com/album/7KsuNLxai7E001DjtxTOHq) | 5:19 | 2022-10-17 | 2022-11-13 |
 | [Twinkle](https://open.spotify.com/track/4QqLWstl6wNg7d4gFBotEr) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Re:RISE \-e.p.\- 2](https://open.spotify.com/album/3A9kcsR97yv93IcRaGuGdB) | 4:22 | 2022-07-27 | 2022-07-29 |
 | [Twinkle](https://open.spotify.com/track/7Mmhlc7Uy8cXJ3NJJq7VVc) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Re:RISE \-e.p.\- 2](https://open.spotify.com/album/68cfv9QcZdp77dKxk4MtDZ) | 4:22 | 2022-07-27 |  |
-| [U.C\. ENGAGE no Theme](https://open.spotify.com/track/2HW0ejV182T2lCs1oCHnqg) | [Yuu Takami](https://open.spotify.com/artist/74jbHnIuyTbVFaESxssm7x) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack](https://open.spotify.com/album/58ylf9EBSiEcQsr1F0AEt8) | 2:48 | 2022-07-27 |  |
+| [U.C\. ENGAGE no Theme](https://open.spotify.com/track/2HW0ejV182T2lCs1oCHnqg) | [Yuu Takami](https://open.spotify.com/artist/74jbHnIuyTbVFaESxssm7x) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack](https://open.spotify.com/album/58ylf9EBSiEcQsr1F0AEt8) | 2:48 | 2022-07-27 | 2023-06-20 |
 | [Ubugoe](https://open.spotify.com/track/67nn4UD5fNA3mr8x8OC32I) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Ubugoe](https://open.spotify.com/album/6qCvYCgfFoHewD2lhYcjRN) | 6:15 | 2022-07-27 |  |
 | [UCエンゲージのテーマ](https://open.spotify.com/track/7tdzveqAJZqXSuVi44MoyB) | [Yu Takami](https://open.spotify.com/artist/4oRXIVHzzRQoU3bWevwkID) | [機動戦士ガンダム U.C\. ENGAGE Original Soundtrack](https://open.spotify.com/album/0RKXeDywMG08vbeE0tp7o9) | 2:48 | 2022-07-27 | 2022-07-29 |
 | [vestige \-ヴェスティージ\-](https://open.spotify.com/track/3HP9BI6rFPO41uSNVnTnjv) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [CLOUD NINE](https://open.spotify.com/album/6TSLuI1wZYcXkpQcymNWjW) | 5:24 | 2022-07-27 |  |

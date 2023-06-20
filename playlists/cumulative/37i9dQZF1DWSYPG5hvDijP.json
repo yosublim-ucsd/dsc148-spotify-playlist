@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127242,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm"
+    },
+    {
+      "album": {
         "name": "FUKA SARI RAAT",
         "url": "https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8"
       },
@@ -2442,6 +2460,32 @@
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"
+    },
+    {
+      "album": {
+        "name": "WZKD",
+        "url": "https://open.spotify.com/album/6fk68vB0oWyDoyTPW7Z0Gk"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183995,
+      "name": "WZKD",
+      "url": "https://open.spotify.com/track/3Gu3YTvfmGfNMNiI6FeTl2"
     },
     {
       "album": {

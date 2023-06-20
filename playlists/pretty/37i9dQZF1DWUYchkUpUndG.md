@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"> We Will Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,157 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,320 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 30 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
 | 31 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 32 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 |
-| 33 | [Blessings](https://open.spotify.com/track/0E7nx02VQ9ZzYMxuUhnuLQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Rudy](https://open.spotify.com/artist/29bGeu6BwNXuEZyaSjjQUs) | [Blessings](https://open.spotify.com/album/3EDcinXZPsoEBPPgqL27uD) | 3:22 |
+| 33 | [Blessings](https://open.spotify.com/track/0E7nx02VQ9ZzYMxuUhnuLQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Rudy](https://open.spotify.com/artist/5oENS3JKpjgNOBrkFKvZqI) | [Blessings](https://open.spotify.com/album/3EDcinXZPsoEBPPgqL27uD) | 3:22 |
 | 34 | [Heaven](https://open.spotify.com/track/3slJWsbIm0vJQ4kNoQGvIw) | [ODG Beatz](https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa) | [Heaven](https://open.spotify.com/album/7dyspGNk4WWiEA1Zx21r0N) | 1:24 |
 | 35 | [Mine](https://open.spotify.com/track/2XFT7XtqSG0lXrBT4aUxKb) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Mine](https://open.spotify.com/album/5WDozjL7F7vkVByckbjUeO) | 2:45 |
 | 36 | [Atmosphere Of You](https://open.spotify.com/track/7eR68heLEodTFSRV3NWQxI) | [Sabrina K.](https://open.spotify.com/artist/2GySt29ejIaENZf5sNgJQK) | [Atmosphere Of You](https://open.spotify.com/album/6ij1QUCcFIJPnKlarCPis0) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 | 50 | [Calling you](https://open.spotify.com/track/6B7GADwWCK1yPvZCz8fCAY) | [Peter Ifeanyi](https://open.spotify.com/artist/3CPXdR36B6K5gpdLCuil8g) | [Calling you](https://open.spotify.com/album/6TDAZ11fcm7CiIDnwfHRDZ) | 4:07 |
 
-Snapshot ID: `MCwyM2EzYjI2NDRiOTc3YWRjOWRiMzk1ZmZjNTE3NWZkNWNlMDhjZGU2`
+Snapshot ID: `MCxlOTRlNjkzYWE5NDVmYjNkNjdkYWZkZWMxNTgwYzZhOGYzMjEzZGRi`

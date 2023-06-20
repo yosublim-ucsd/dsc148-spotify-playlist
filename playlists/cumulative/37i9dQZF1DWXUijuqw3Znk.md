@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-349 songs - 20 hr 22 min
+350 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Back In Time](https://open.spotify.com/track/5TRr9ahTPMZQmTTvrTEw8u) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/1ZzV8Yt4fDGrbmLC7BC3yn) | 3:33 | 2022-05-11 | 2022-07-20 |
 | [Balance](https://open.spotify.com/track/3fyx5Gt2ikkQqQ5PzsG0zi) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Balance](https://open.spotify.com/album/3SfUy3CFyfEXkAOqfaBSmp) | 3:06 | 2022-05-11 | 2022-07-29 |
 | [Balance](https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Balance](https://open.spotify.com/album/25gboA881mwMrScGPLwvEI) | 3:06 | 2022-07-22 |  |
+| [Banghak](https://open.spotify.com/track/231ePCf9Z11mu8KjIJkhCl) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 3:25 | 2023-06-13 |  |
 | [Be a pro](https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:01 | 2022-05-11 | 2023-04-29 |
 | [Bibbidi bobbidi boo\(feat\. superbee\)](https://open.spotify.com/track/5jbouP6c0SEKcz9oxQYdBB) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Ghetto Superstars](https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb) | 4:32 | 2022-05-11 | 2022-07-22 |
 | [Birthday](https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR) | [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi), [Dok2, Jay Park](https://open.spotify.com/artist/2ihyiMD4W5L1cfnqDwlDlQ) | [Show Me the Money 6 Episode 3](https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa) | 4:14 | 2022-05-11 |  |
@@ -86,7 +87,7 @@
 | [Drama \(prod\. Kidstone\)](https://open.spotify.com/track/1O7B5qXJNerHlouNYQnNFK) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Never](https://open.spotify.com/album/7Ch8RqlX6xkhKOO13YaFcn) | 3:06 | 2022-05-11 | 2022-07-28 |
 | [Dream Chaser](https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co) | 4:33 | 2022-05-11 | 2022-07-26 |
 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 | 2022-07-22 |  |
-| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 |  |
+| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 | 2023-06-20 |
 | [El Dorado \(Feat\. Swervy\)](https://open.spotify.com/track/5irjZILh9ts7fWwpqU2DiU) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-22 | 2022-07-28 |
 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 | 2022-05-11 | 2022-07-29 |
 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 | 2022-07-22 |  |

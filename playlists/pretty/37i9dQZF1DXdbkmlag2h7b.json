@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632981,
+  "num_followers": 632989,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWFmMWEwNWY5ZTE4NjIxYjFjYzhiOTYwMTZhZjczNWUwMjE5Mjcx",
+  "snapshot_id": "MCw5Yzg2MjdiNTUxNmQ4OTE2NzZhMTYwYmFkMDMwOWViNzVlOTRhMzlj",
   "tracks": [
     {
       "added_at": "2023-06-02 15:58:17",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Charcoal",
+        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Such Owls As You",
+      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Charcoal",
-        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Such Owls As You",
-      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
-      },
-      "artists": [
-        {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
       },
       "artists": [
         {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
         }
       ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "The Shed",
         "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Surface",
         "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Open Sky",
-        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
-      },
-      "artists": [
-        {
-          "name": "Drift Far Away",
-          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
-        }
-      ],
-      "duration_ms": 267756,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Behind Your Eyes",
         "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
       },
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Tao of Flow",
         "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 121538,
       "name": "Bodh Gaya",
       "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
+      },
+      "artists": [
+        {
+          "name": "Drift Far Away",
+          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
+        }
+      ],
+      "duration_ms": 267756,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Lumiere",
         "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 168000,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW"
+      },
+      "artists": [
+        {
+          "name": "Bernard",
+          "url": "https://open.spotify.com/artist/0qIdo63s9m0JI8LOQFFb0f"
+        }
+      ],
+      "duration_ms": 112660,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Caleufu",
         "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 186542,
       "name": "Suhpratti",
       "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW"
-      },
-      "artists": [
-        {
-          "name": "Bernard",
-          "url": "https://open.spotify.com/artist/0qIdo63s9m0JI8LOQFFb0f"
-        }
-      ],
-      "duration_ms": 112660,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Mysterium",
         "url": "https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2023-06-02 15:58:17",

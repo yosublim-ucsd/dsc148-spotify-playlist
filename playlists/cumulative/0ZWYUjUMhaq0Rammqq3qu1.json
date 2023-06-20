@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 240000,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 135737,
       "name": "Bitch Is Fire",
       "url": "https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 155538,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR"
@@ -894,6 +894,24 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "album": {
+        "name": "Days Of Our Lives",
+        "url": "https://open.spotify.com/album/5yI5hrIg1rhNpUHkLgbW3u"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164186,
+      "name": "Days Of Our Lives",
+      "url": "https://open.spotify.com/track/4Uo8jiMvKtaB1MC1C5lpCc"
     },
     {
       "album": {
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 149760,
       "name": "Disciple",
       "url": "https://open.spotify.com/track/6MKrfKqsT88MxhwCyC7Tjz"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 168170,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/3RpXk1LylSSMccjNwpc18F"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 142080,
       "name": "Edge Of The Night",
       "url": "https://open.spotify.com/track/0PdDT8a5cEauXOW3di8GTg"
@@ -1204,6 +1222,24 @@
       "duration_ms": 193696,
       "name": "Every Little Thing (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/43vhLN5tXGWXBc7w6y47gd"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4wnlN2WYU4NeYV6IQ5hJNi"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166817,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2Px6ovf0vMZsH5SPPfgM1N"
     },
     {
       "album": {
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 185764,
       "name": "Hold On To My Love",
       "url": "https://open.spotify.com/track/729INrfxIsfZ5EVNFacZjD"
@@ -2376,10 +2412,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 156788,
       "name": "Love 2 U",
       "url": "https://open.spotify.com/track/5IdjonofmOR2iPNjAeQ0PW"
+    },
+    {
+      "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
     },
     {
       "album": {
@@ -2825,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/68pHOJeCrgiD4umWDpLsoJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/1AFskkVgMfkhohizncFNWI"
+    },
+    {
+      "album": {
         "name": "Older ft Jimmie Allen & Dixie D'Amelio",
         "url": "https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO"
       },
@@ -2954,6 +3026,28 @@
       "duration_ms": 178125,
       "name": "P.R.O.G.",
       "url": "https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "album": {
@@ -3220,7 +3314,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 202820,
       "name": "Rave Machine",
       "url": "https://open.spotify.com/track/4fciwBuNwHSuNFWZ9jf4EE"
@@ -3539,6 +3633,28 @@
     },
     {
       "album": {
+        "name": "See Your Face (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/2Ldc0NaOt4KCtMsaaCpwi9"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221695,
+      "name": "See Your Face (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/4Pbmk0yGKoDJm3kdMg3JWI"
+    },
+    {
+      "album": {
         "name": "She's Like The Wind (Through My Tree)",
         "url": "https://open.spotify.com/album/7EFzQfsEuC4a4HU61QZBP8"
       },
@@ -3808,6 +3924,24 @@
       "duration_ms": 203420,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/6d1qi3wCXXh6rAdp82m7NO"
+      },
+      "artists": [
+        {
+          "name": "Champagne Problems",
+          "url": "https://open.spotify.com/artist/4wRTu1QENd0JuJ2uW44Qo0"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0TVxYGhoA41WiJbxF7Ji47"
     },
     {
       "album": {

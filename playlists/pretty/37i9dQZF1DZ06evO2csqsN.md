@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,938 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [He Say She Say](https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say](https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq) | 2:24 |
 | 50 | [Infidelity](https://open.spotify.com/track/5amPd782GblY5yfFDQPFoJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coca Vango](https://open.spotify.com/artist/3GeZ2hxlimcfZ7v3qxf5UT) | [Infidelity](https://open.spotify.com/album/2O5qdzRQlEYhhDoZNdd2bP) | 4:19 |
 
-Snapshot ID: `MjgxMTgyMjEsMDAwMDAwMDAxOTg1NDhmMTY4YzljMzI0MDYwNzAwM2U2MzdkMjcxNg==`
+Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBhMDU3YTUxZDA3MDQ4N2RhMWRjMzdhNzBkNzNjODE2OQ==`

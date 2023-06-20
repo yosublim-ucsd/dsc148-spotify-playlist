@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 193243,
       "name": "Attakai",
       "url": "https://open.spotify.com/track/31oZ4m7CyWTwpYD7R6NPTz"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 119733,
       "name": "Blue Demons",
       "url": "https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 159000,
       "name": "Deep Mind",
       "url": "https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2"
@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "joy love",
+        "url": "https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "joy love",
+      "url": "https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii"
+    },
+    {
+      "album": {
         "name": "Kantan",
         "url": "https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 195223,
       "name": "Les Tropiques",
       "url": "https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 195987,
       "name": "Morning Tram",
       "url": "https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 170043,
       "name": "Persist Display",
       "url": "https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 212652,
       "name": "Phase Off",
       "url": "https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ"
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 92000,
       "name": "re-echo - Edit",
       "url": "https://open.spotify.com/track/4UthBu9ExYtrCZKpvMKYbO"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 204406,
       "name": "skies",
       "url": "https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW"
@@ -3483,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Tea Time",
+        "url": "https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h"
+      },
+      "artists": [
+        {
+          "name": "GRNY",
+          "url": "https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2"
+    },
+    {
+      "album": {
         "name": "Teenage",
         "url": "https://open.spotify.com/album/36awS9gqn1o5Z3qxpK7ADc"
       },
@@ -3530,7 +3566,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 188828,
       "name": "Thought Prince",
       "url": "https://open.spotify.com/track/4UPBPbvVQrJvoH1zYrbEYk"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 194380,
       "name": "time to cry",
       "url": "https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2"
@@ -3588,6 +3624,24 @@
       "duration_ms": 144864,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3XhyzrslQ0Nrm6RXegl520"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4y2Gbv7Ka2pyEpeokhpbNp"
+      },
+      "artists": [
+        {
+          "name": "Starioh",
+          "url": "https://open.spotify.com/artist/2B0nHj7UtM7LYDxIQlpCyl"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153375,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/61LvANafDgBcNYlQ9tz6yw"
     },
     {
       "album": {
@@ -3674,7 +3728,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 186081,
       "name": "Unknown Controlpanel",
       "url": "https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe"
@@ -3710,7 +3764,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 163888,
       "name": "Vacay - Tropical Jazz Mix",
       "url": "https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2"

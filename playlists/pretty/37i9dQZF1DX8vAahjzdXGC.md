@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,234 likes - 94 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,249 likes - 94 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 93 | [Summer Island](https://open.spotify.com/track/5TcyJI6GfqGB2X5vubJhrc) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [Snappy](https://open.spotify.com/artist/1T5E5tdCZl7tPsCtSHWjTE) | [Little Fox Adventure, Pt\. 2](https://open.spotify.com/album/0ATUccmNY87S7VDfjt3wde) | 2:52 |
 | 94 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 |
 
-Snapshot ID: `MCxkN2YxZGE4NWUzNGZjZmIxMGI2OWMxZWQzNWEwYTdmODU4NjEyODA1`
+Snapshot ID: `MCw2ZjA5YjFlZGJlNjdmMzZiOTk3YWU1NjBjMTVhMTBiYTVkNjhjZDQw`

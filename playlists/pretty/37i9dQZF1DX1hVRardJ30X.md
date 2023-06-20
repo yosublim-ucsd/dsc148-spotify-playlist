@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,437 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,539 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
 | 50 | [YO SOY ARTISTA, NO TU MAMÁ](https://open.spotify.com/track/0Zthk1jSf5vEGotWnrKegX) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [YO SOY ARTISTA, NO TU MAMÁ](https://open.spotify.com/album/4mKqpqHJpNb5mtfa056bIv) | 2:16 |
 
-Snapshot ID: `MCw4ODJhMzhhMjFmMDExNzM3YWFkZDlhMTEzZGFhM2M4NzU4NmIyOWRi`
+Snapshot ID: `MCxjNGE4ODUxMzkwMmQ5YzNkYmI2NThmNDdlMzczODEwZGUwZDBmM2Zj`

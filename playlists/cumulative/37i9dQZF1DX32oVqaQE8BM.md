@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-533 songs - 22 hr 40 min
+534 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Escape](https://open.spotify.com/track/3FEMzs5uAomMdS2i24VCD9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Escape](https://open.spotify.com/album/5AoBGsllGk1254c2UqTS2E) | 2:13 | 2022-11-25 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-10 | 2022-01-22 |
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-06-10 |
-| [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 |  |
+| [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2023-06-20 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 | 2022-07-22 |
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 | 2022-10-29 |
 | [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-04-28 |  |
@@ -364,6 +364,7 @@
 | [Puente Aéreo](https://open.spotify.com/track/6CRnWfWQuBdomKKZELkxtK) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Puente Aéreo](https://open.spotify.com/album/66R0udn5QbbdTX6G2z1ODs) | 1:55 | 2022-05-10 | 2022-08-20 |
 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [pulse rusher](https://open.spotify.com/track/5Ne7dzH1rPr07xZ9fR0u8n) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [pulse rusher](https://open.spotify.com/album/3S3Py6qJTUToP1RbKmGXsc) | 2:29 | 2022-09-16 |  |
+| [Pure Love](https://open.spotify.com/track/26bvQf4ljKD95E8EsAlBRq) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Pure Love](https://open.spotify.com/album/6FiKg8yY7tOK2txKXUpFcb) | 2:18 | 2023-06-19 |  |
 | [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 | 2022-09-16 |  |
 | [Purple Beach](https://open.spotify.com/track/3zxGVoaYUMzKTVqLYBwUt9) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Purple Beach](https://open.spotify.com/album/3enWSoGm1E6TXXbcPsvsh6) | 3:51 | 2022-05-10 | 2022-08-20 |
 | [Purrple Moon](https://open.spotify.com/track/6MwmKaO7GP7S4lvBVih5ed) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Purple Moon](https://open.spotify.com/album/2QOvtEbjkx6Lr0jLNS2rAn) | 1:56 | 2022-09-02 |  |

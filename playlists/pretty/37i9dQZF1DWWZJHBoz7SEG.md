@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La ola de calor está fuerte! 🥵 ¡Refréscate con lo nuevo de Don Omar, Doja Cat, Boza y Kenia Os, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,770 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,840 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 |
 | 50 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 |
 
-Snapshot ID: `MCxhMDYyNTMzMDk3YmE4YWNhMjIxODQ4ZjNhZmQ5ODIwYzJlYTQ0YzZj`
+Snapshot ID: `MCxiMzFmMDRhMjgxNjE1ZTg2MjgzNTc1OWM5NzNlZjU3NTVjY2Y4OTcw`

@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 180261,
+  "num_followers": 180348,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
+  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 149496,
       "name": "Whine & Jumping (feat. Patrice Roberts)",
       "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Practice",
-        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
-      },
-      "artists": [
-        {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Santorini (Toutouni)",
+        "url": "https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP"
+      },
+      "artists": [
+        {
+          "name": "Gamma",
+          "url": "https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM"
+        }
+      ],
+      "duration_ms": 110892,
+      "name": "Santorini - Toutouni",
+      "url": "https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Jub Jub",
         "url": "https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 191309,
       "name": "Jub Jub",
       "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Santorini (Toutouni)",
-        "url": "https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP"
-      },
-      "artists": [
-        {
-          "name": "Gamma",
-          "url": "https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM"
-        }
-      ],
-      "duration_ms": 110892,
-      "name": "Santorini - Toutouni",
-      "url": "https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Shake The Place",
         "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 186393,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Kan Kan Riddim",
         "url": "https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx"
       },
@@ -663,18 +647,42 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Mr. Fete - Single",
-        "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 231050,
-      "name": "Mr. Fete",
-      "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -735,6 +743,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Antilles Riddim (Soca 2012 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 198110,
+      "name": "Bacchanalist",
+      "url": "https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -759,26 +787,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Antilles Riddim (Soca 2012 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 198110,
-      "name": "Bacchanalist",
-      "url": "https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Turn Up",
         "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
       },
@@ -791,30 +799,6 @@
       "duration_ms": 160965,
       "name": "Big Bad Soca",
       "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -847,6 +831,22 @@
       "duration_ms": 285653,
       "name": "Pump Me Up",
       "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Mr. Fete - Single",
+        "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "Mr. Fete",
+      "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
+        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
+        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
       },
       "artists": [
         {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
+      "duration_ms": 218213,
+      "name": "Cheers to Life",
+      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -955,22 +959,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
-        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
       "artists": [
         {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Cheers to Life",
-      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Differentology",
         "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
       },
@@ -1163,54 +1179,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 211874,
-      "name": "Oh Yay",
-      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "YAGO",
         "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
       },
@@ -1231,18 +1199,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
       },
       "artists": [
         {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1259,6 +1227,38 @@
       "duration_ms": 173426,
       "name": "Funky Business",
       "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 211874,
+      "name": "Oh Yay",
+      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/44TtvNhgHgMAZqZzM16xDK"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 214000,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/7dlrEY8jBu2zCmfRvs4H1d"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/6XT9x7kz7EXVe5KdTZ3MtE"
+      },
+      "artists": [
+        {
+          "name": "Orlando Octave",
+          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/4J3oPu8QedCNLoG5Zv5tQy"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/6XT9x7kz7EXVe5KdTZ3MtE"
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
       },
       "artists": [
         {
-          "name": "Orlando Octave",
-          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/4J3oPu8QedCNLoG5Zv5tQy"
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1555,22 +1571,6 @@
       "duration_ms": 204298,
       "name": "Out and Bad",
       "url": "https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 257600,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
     }
   ],
   "unique_name": "Massive Soca Hits",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-11-15",
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "name": "Early Birds",
+  "name": "Morning Birds",
   "tracks": [
     {
       "album": {
@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "A Chit-Chat With Nature",
       "url": "https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY"
+    },
+    {
+      "album": {
+        "name": "The Chirping Zoo",
+        "url": "https://open.spotify.com/album/7np01dKDdR0gvslYyj5jmL"
+      },
+      "artists": [
+        {
+          "name": "Our Glorious Nature",
+          "url": "https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106326,
+      "name": "A Forest of Feathers",
+      "url": "https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 79975,
       "name": "Beautiful Birds Above the Canopy",
       "url": "https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 118604,
       "name": "Bird-watching",
       "url": "https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 94874,
       "name": "Birds & The Bees",
       "url": "https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 101000,
       "name": "Birds In The Woods",
       "url": "https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Birds Of Yosemite In The Morning",
       "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Blackbird Spring",
+        "url": "https://open.spotify.com/album/6ihSrqduirhISrBX6lb6qo"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Keiran",
+          "url": "https://open.spotify.com/artist/1FZ6XLGVsDbgwOmlKBQUmJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125242,
+      "name": "Blackbird Spring",
+      "url": "https://open.spotify.com/track/3IWDjWLsyMVX7ntfUBHEH6"
+    },
+    {
+      "album": {
         "name": "Blackbird Spring Ambience",
         "url": "https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h"
       },
@@ -232,7 +268,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 102840,
       "name": "blackbird spring ambience",
       "url": "https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp"
@@ -268,7 +304,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 79534,
       "name": "Close to Nature",
       "url": "https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf"
@@ -383,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Rainy Morning Bird Sounds",
+        "url": "https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163857,
+      "name": "Garden Rain",
+      "url": "https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5"
+    },
+    {
+      "album": {
         "name": "Birds by the Creek",
         "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
       },
@@ -394,7 +448,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 104651,
       "name": "Happy Birds",
       "url": "https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ"
@@ -412,7 +466,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 107839,
       "name": "Highway Birds",
       "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
@@ -448,7 +502,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 78019,
       "name": "Joyful Birds",
       "url": "https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc"
@@ -599,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Nature Spa",
+        "url": "https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz"
+      },
+      "artists": [
+        {
+          "name": "Mindwhisper",
+          "url": "https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Nature Spa",
+      "url": "https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6"
+    },
+    {
+      "album": {
         "name": "Lake Side Bird Sound",
         "url": "https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u"
       },
@@ -610,7 +682,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 151209,
       "name": "Ocean Winds And Birds",
       "url": "https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv"
@@ -671,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142498,
+      "name": "River Birds (Green Noise 220Hz HP)",
+      "url": "https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY"
+    },
+    {
+      "album": {
         "name": "Forest Bird Sounds Vol. 2",
         "url": "https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk"
       },
@@ -700,7 +790,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 104389,
       "name": "Spring Approaches",
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
@@ -725,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132472,
+      "name": "Still River - Green Noise",
+      "url": "https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0"
+    },
+    {
+      "album": {
         "name": "Summer Breeze Bird",
         "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
       },
@@ -736,7 +844,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 140610,
       "name": "Summer Breeze Bird",
       "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"

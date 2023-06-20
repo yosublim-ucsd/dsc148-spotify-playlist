@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 26984,
+  "num_followers": 26995,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjQ2YWVjNzU4YjhiMjg4ZjZhMjJhNWFiZjRhMjYwY2VjMjVjN2Vh",
+  "snapshot_id": "MCw0MzE2NWNlZDgyMWM4MWU1OGE3NzJiMDEwMjZhZGEzMzhkMDRjZTAz",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -231,6 +231,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
+        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        }
+      ],
+      "duration_ms": 165224,
+      "name": "Kimb\u00e9 sa nan rinw",
+      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "The Very Best Of Jackito (Pou ti moun yo)",
         "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
@@ -243,6 +259,22 @@
       "duration_ms": 292362,
       "name": "Je l'aime \u00e0 mourir",
       "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -263,22 +295,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
-        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
-      },
-      "artists": [
-        {
-          "name": "5Lan",
-          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
-        }
-      ],
-      "duration_ms": 165224,
-      "name": "Kimb\u00e9 sa nan rinw",
-      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -311,22 +327,6 @@
       "duration_ms": 395226,
       "name": "Libre D'aimer",
       "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -383,6 +383,30 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Kilot",
+        "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        },
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 309936,
+      "name": "Kilot",
+      "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Our Own World",
         "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 258090,
       "name": "Another Round - Zouk",
       "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Kilot",
-        "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
-      },
-      "artists": [
-        {
-          "name": "5Lan",
-          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        },
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 309936,
-      "name": "Kilot",
-      "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "3 Tou 9",
         "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 263414,
       "name": "Kenbe'l La",
       "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Mete'm alez",
-        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
-      },
-      "artists": [
-        {
-          "name": "Zo Konpa",
-          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
-        }
-      ],
-      "duration_ms": 293035,
-      "name": "Wet the hell map vini - Zouk",
-      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
     },
     {
       "added_at": "2020-06-03 18:17:45",

@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 177026,
       "name": "Tere Hi Hum",
       "url": "https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO"
@@ -2060,6 +2060,24 @@
       "duration_ms": 304125,
       "name": "Wo Mere Saath Saath",
       "url": "https://open.spotify.com/track/4duYnnrZthODike5XEcARR"
+    },
+    {
+      "album": {
+        "name": "Yahi Sach Hai",
+        "url": "https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA"
+      },
+      "artists": [
+        {
+          "name": "Yugm",
+          "url": "https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374062,
+      "name": "Yahi Sach Hai",
+      "url": "https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9"
     },
     {
       "album": {

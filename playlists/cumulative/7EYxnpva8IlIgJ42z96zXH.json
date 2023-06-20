@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0eV9eyfzJFmzO2ObZG9Wk0"
+      },
+      "artists": [
+        {
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169589,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2ry6dGGvtKIbKD1KNVAcsq"
+    },
+    {
+      "album": {
         "name": "All I Need (Franky Wah Remix)",
         "url": "https://open.spotify.com/album/0IHvUSCIdZeMXNeoFoSIPB"
       },
@@ -2938,7 +2960,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 181533,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/2HKF5jtc3fSUJpMfaYcCpI"
@@ -5106,7 +5128,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 186971,
       "name": "Goodbye (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/6qML6z7wxbPgRMh96Je0Uu"

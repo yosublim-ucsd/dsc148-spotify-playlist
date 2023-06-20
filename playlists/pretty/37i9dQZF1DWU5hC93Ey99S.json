@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 12679,
+  "num_followers": 12695,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhmODZjMWVjOGRjOGI5NTFiNWY5NjI5Y2YxODMwNGE4NGQyYzg4",
+  "snapshot_id": "MCw5OGI1MDA5YWZmNzkyNTNhOGE4MWQ4YjZhMTAxYzA2M2VhNTVhOTI0",
   "tracks": [
     {
       "added_at": "2023-06-15 22:01:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Lost My Mind (Wake Up)",
+        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 147673,
+      "name": "Lost My Mind (Wake Up)",
+      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Lost My Mind (Wake Up)",
-        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 147673,
-      "name": "Lost My Mind (Wake Up)",
-      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (Smile on My Face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -903,58 +887,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Paperplanes",
-        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 210234,
-      "name": "Paperplanes",
-      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 195757,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
       },
@@ -975,6 +907,74 @@
       "duration_ms": 136097,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Paperplanes",
+        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 210234,
+      "name": "Paperplanes",
+      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (Smile on My Face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1155,6 +1155,38 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 262015,
+      "name": "Save a Soul",
+      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Apart Of Me (feat. Devault)",
         "url": "https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y"
       },
@@ -1203,38 +1235,6 @@
       "duration_ms": 187126,
       "name": "Beautiful Morning",
       "url": "https://open.spotify.com/track/7hETh8TWWZ5u2oI0OhieCL"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 262015,
-      "name": "Save a Soul",
-      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Loved Ones",
+        "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Kratos (A Little Closer)",
         "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Loved Ones",
-        "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
+        "name": "BADDER",
+        "url": "https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe"
       },
       "artists": [
         {
-          "name": "Alex Adair",
-          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Loved Ones",
-      "url": "https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH"
+      "duration_ms": 184186,
+      "name": "BADDER",
+      "url": "https://open.spotify.com/track/0Q6vVLxQ6gl6NFMQka3Q9X"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "BADDER",
-        "url": "https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "BADDER",
-      "url": "https://open.spotify.com/track/0Q6vVLxQ6gl6NFMQka3Q9X"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "REGULARITY",
+        "url": "https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "TAKE ME HIGHER",
+      "url": "https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Esther (Duskus Romantic Edit)",
         "url": "https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J"
       },
@@ -1641,6 +1657,26 @@
       "url": "https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV"
     },
     {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "loveday",
+        "url": "https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X"
+      },
+      "artists": [
+        {
+          "name": "JHN",
+          "url": "https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk"
+        },
+        {
+          "name": "a friend of mine",
+          "url": "https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8"
+        }
+      ],
+      "duration_ms": 148359,
+      "name": "loveday",
+      "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
+    },
+    {
       "added_at": "2023-06-01 22:00:00",
       "album": {
         "name": "Little Love",
@@ -1671,22 +1707,6 @@
       "duration_ms": 190281,
       "name": "talk",
       "url": "https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "REGULARITY",
-        "url": "https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "TAKE ME HIGHER",
-      "url": "https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1763,26 +1783,6 @@
       "duration_ms": 123872,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
-        "name": "loveday",
-        "url": "https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X"
-      },
-      "artists": [
-        {
-          "name": "JHN",
-          "url": "https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk"
-        },
-        {
-          "name": "a friend of mine",
-          "url": "https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8"
-        }
-      ],
-      "duration_ms": 148359,
-      "name": "loveday",
-      "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
     },
     {
       "added_at": "2023-06-01 22:00:00",

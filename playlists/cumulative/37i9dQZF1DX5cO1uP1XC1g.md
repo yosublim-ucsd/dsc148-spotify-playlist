@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover: Muslim \- مُسلِم
+> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws?si=Yg4x1gyjQqerUYAXP4r6Xw">Wael Kfoury</a>
 
 305 songs - 18 hr 21 min
 

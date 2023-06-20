@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Pjotr & Melissa Lopes op de cover van dé Nederlandse pop playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,108 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,130 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry) | 2:43 |
 | 90 | [Oceaan](https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Oceaan](https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi) | 3:07 |
 
-Snapshot ID: `MCw3N2ZkYWFmMTUzMzM1YTVlOTk3NmNkOWY2YjgxN2FjMzFkNzNkMDU0`
+Snapshot ID: `MCwwYjMwYmM2Nzk3MzNlMDIyOGI3NDM3OTRjMzg0M2Y4MjJiMmU3ZGY4`

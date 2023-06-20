@@ -2,7 +2,7 @@
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music from Electronica to Techno\. Cover: ARTBAT
+> The best new electronic music from Electronica to Techno\. Cover: ARTBAT, Another Life
 
 1,995 songs - 7 day 12 hr 38 min
 

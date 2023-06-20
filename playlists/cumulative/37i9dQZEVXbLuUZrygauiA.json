@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
@@ -8682,6 +8682,24 @@
       "duration_ms": 186000,
       "name": "Hopelessly Devoted To You",
       "url": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b"
+    },
+    {
+      "album": {
+        "name": "Timbiriche",
+        "url": "https://open.spotify.com/album/1tYN9b0KEg8DnwFz9uPF4O"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209853,
+      "name": "Hoy Tengo Que Decirte Pap\u00e1",
+      "url": "https://open.spotify.com/track/2Yh87wCTg5rmDJySNWk0Rd"
     },
     {
       "album": {

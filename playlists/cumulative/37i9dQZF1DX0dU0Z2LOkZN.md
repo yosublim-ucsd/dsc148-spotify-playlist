@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-343 songs - 13 hr 27 min
+344 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-02-17 |  |
 | [Queen's Flower](https://open.spotify.com/track/6s1G9bpphtB9E4OijfWslZ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Queen's Flower](https://open.spotify.com/album/5bzw7GhCjD3ewcq0Pgng2M) | 2:22 | 2022-08-19 | 2022-10-29 |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |
-| [Rea\(L\)ove](https://open.spotify.com/track/6Pl77sVaKa2PrLsTSoVntF) | [athena](https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm) | [Rea\(L\)ove](https://open.spotify.com/album/6PWdS6cfkAQqf0GEA2IQE5) | 2:44 | 2023-01-06 |  |
+| [Rea\(L\)ove](https://open.spotify.com/track/3YJp8y2wgDruXSkTNvzzwI) | [athena](https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm) | [H.H.B.G.M IV](https://open.spotify.com/album/3c9I08sjYREkn4h6EI5c8l) | 2:44 | 2023-03-13 |  |
+| [Rea\(L\)ove](https://open.spotify.com/track/6Pl77sVaKa2PrLsTSoVntF) | [athena](https://open.spotify.com/artist/5LCmX0zahE0VcaMNHxLJqm) | [Rea\(L\)ove](https://open.spotify.com/album/6PWdS6cfkAQqf0GEA2IQE5) | 2:44 | 2023-01-06 | 2023-06-20 |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 |  |
 | [reception](https://open.spotify.com/track/4pIzD4Yd3dPbAt8h1muzEo) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Crunch FM](https://open.spotify.com/artist/7zapArBg2A8uBR2bPoqgcd) | [reception](https://open.spotify.com/album/3l24KWhweP65RZU17USXXC) | 3:50 | 2022-10-28 |  |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2021-11-11 |  |

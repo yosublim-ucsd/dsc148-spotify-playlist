@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vagabon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,426 likes - 185 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,418 likes - 185 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 184 | [Glitter 2](https://open.spotify.com/track/2NmIwfhMayON6aiKvUlKv2) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter 2](https://open.spotify.com/album/0L2Cx19eLGugnvTkGT6HMh) | 3:25 |
 | 185 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 |
 
-Snapshot ID: `MCxhNGQzNzAwZjU1ZDgxMGQwMWJkMmE5M2M5MWVhYmM2NTRlZDY5ZDIw`
+Snapshot ID: `MCw3ZjA1OWJhMzBiZjc0OWU2NGE1MTQxNTQ5M2ZmZTJmZmQxOTY2NDdh`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Streamflow",
+        "url": "https://open.spotify.com/album/0sQfyuAuP8HPE8HHyLCRxT"
+      },
+      "artists": [
+        {
+          "name": "Nature Trudge",
+          "url": "https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Arroyo (River)",
+      "url": "https://open.spotify.com/track/3jtIL1U6ENaRtAs2GYypJd"
+    },
+    {
+      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 182208,
       "name": "Deep River Rapids",
       "url": "https://open.spotify.com/track/1mAvT729YQGx7ICnlEEdhG"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 298497,
       "name": "Deerfield River",
       "url": "https://open.spotify.com/track/7KPje5zK1vRtKjFZROTqEl"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 110000,
       "name": "Fast Flowing River - Seamless",
       "url": "https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 111623,
       "name": "Rei\u00dfender Fluss",
       "url": "https://open.spotify.com/track/7cNFgZpEqvSURdwC7TQEIn"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 188549,
       "name": "River Zen",
       "url": "https://open.spotify.com/track/0JMkTafMJcSuInbp9KUHwT"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 91000,
       "name": "River's End",
       "url": "https://open.spotify.com/track/0NWV8TZt428m5nqOZahYLv"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 329833,
       "name": "Saco River",
       "url": "https://open.spotify.com/track/4YgTsLlh3dLNSIS5oRWkvj"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 118384,
       "name": "Steady River, Water on Rocks",
       "url": "https://open.spotify.com/track/0MwnX9BPBrIWPy76Sm5eUT"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 119898,
       "name": "Stream to the Waterfall",
       "url": "https://open.spotify.com/track/1kgabwYM9KxzRzcuxkjIq6"
@@ -1676,6 +1694,24 @@
       "duration_ms": 156000,
       "name": "Tha Chin (River)",
       "url": "https://open.spotify.com/track/1XNqqFV11ACz26hvxEz9FI"
+    },
+    {
+      "album": {
+        "name": "Close To the Water",
+        "url": "https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd"
+      },
+      "artists": [
+        {
+          "name": "Embrace the Rain",
+          "url": "https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "The Flowing Natural White Noise",
+      "url": "https://open.spotify.com/track/2uW912jA41Pnhw9WNqJv2p"
     },
     {
       "album": {

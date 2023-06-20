@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! <a href="spotify:artist:23n2oObsIrvqtcOVwhyT3o">Loupe</a> is EQUAL Netherlands ambassador for June
 
-996 songs - 2 day 4 hr 51 min
+997 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [Invincible](https://open.spotify.com/track/1WHK0kQxNqsBJySg4E2djx) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Invincible](https://open.spotify.com/album/6vPoWFO0UtMIGJvIbzmJIQ) | 2:54 | 2023-01-31 | 2023-03-01 |
 | [Irreplaceable](https://open.spotify.com/track/4E9p6oeUEkiCSnOP8dPLPF) | [PYN](https://open.spotify.com/artist/2E3GkyDBfEHrKhr1uKMeao) | [Irreplaceable](https://open.spotify.com/album/330JdwANKONvO458xhjgwv) | 3:02 | 2023-06-06 |  |
 | [Is This Love?](https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr), [Alex Kapranos](https://open.spotify.com/artist/43tffeOxONSbTQ888To7bE) | [Is This Love?](https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl) | 3:32 | 2023-06-06 |  |
-| [It's Getting Wild Getting Older](https://open.spotify.com/track/0G9fvf5rhuikgImXES2wbh) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [It's Getting Wild, Getting Older](https://open.spotify.com/album/7JS7iRw7VDZGIPaGU2Ik4i) | 2:36 | 2023-06-06 |  |
+| [It's Getting Wild Getting Older](https://open.spotify.com/track/0G9fvf5rhuikgImXES2wbh) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [It's Getting Wild, Getting Older](https://open.spotify.com/album/7JS7iRw7VDZGIPaGU2Ik4i) | 2:36 | 2023-06-06 | 2023-06-20 |
+| [It's Getting Wild, Getting Older](https://open.spotify.com/track/50fS9NwUGreEtuMepeJ1Em) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Do You Ever Wonder What Comes Next?](https://open.spotify.com/album/4ROCJwS5ApQbHrSjo9FWft) | 2:36 | 2023-06-06 |  |
 | [It's Not Real](https://open.spotify.com/track/1yDyQEAD9Nk53JBbURtBiS) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [It's Not Real](https://open.spotify.com/album/7qHbmea064KZHqNOOduHJU) | 3:47 | 2022-02-01 | 2022-03-08 |
 | [Jaguar](https://open.spotify.com/track/1Hkn14EoQWhQ0EycZscW0Y) | [Naduah](https://open.spotify.com/artist/1xGYbvUJwSKAkszVQJDzAd) | [Jaguar](https://open.spotify.com/album/7ASQqJY5tVHxqtPVDkdLUf) | 2:23 | 2023-06-06 |  |
 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 | 2022-09-06 | 2022-11-02 |

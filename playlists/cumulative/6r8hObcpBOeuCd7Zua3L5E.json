@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 168962,
       "name": "Addicted To You - Sped Up",
       "url": "https://open.spotify.com/track/3swMv2zHDd3PLECExrvfGE"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 101694,
       "name": "goingoutsad (Sped Up)",
       "url": "https://open.spotify.com/track/0mcWCh3DHsU2aGVul9yaw1"
@@ -1547,6 +1547,36 @@
     },
     {
       "album": {
+        "name": "It Wasn't Me (Sped Up)",
+        "url": "https://open.spotify.com/album/3yfgMJER6LGJcsVwCMlz7d"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rik Rok",
+          "url": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191741,
+      "name": "It Wasn't Me - Sped Up",
+      "url": "https://open.spotify.com/track/7G6XysOAhzcN5zkqO5pwXo"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
@@ -1920,6 +1950,24 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
+    },
+    {
+      "album": {
+        "name": "money trees (kendrick lamar, jay rock) [sped up version]",
+        "url": "https://open.spotify.com/album/06DI1LJGV0L0lU2NXClOlX"
+      },
+      "artists": [
+        {
+          "name": "sped up viral",
+          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322291,
+      "name": "money trees (kendrick lamar, jay rock) - sped up version",
+      "url": "https://open.spotify.com/track/7t8pIBENtMb98rnLulBFCk"
     },
     {
       "album": {

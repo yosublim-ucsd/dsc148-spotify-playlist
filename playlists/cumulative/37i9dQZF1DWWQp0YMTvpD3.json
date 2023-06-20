@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Fast Friends",
+      "url": "https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq"
+    },
+    {
+      "album": {
         "name": "Fauna",
         "url": "https://open.spotify.com/album/44eIDFdzVYc5Y3RyXMBin5"
       },
@@ -4864,6 +4882,24 @@
       "duration_ms": 151241,
       "name": "take off",
       "url": "https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW"
+    },
+    {
+      "album": {
+        "name": "Tea Time",
+        "url": "https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h"
+      },
+      "artists": [
+        {
+          "name": "GRNY",
+          "url": "https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2"
     },
     {
       "album": {

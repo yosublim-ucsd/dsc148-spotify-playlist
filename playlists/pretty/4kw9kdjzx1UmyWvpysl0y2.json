@@ -6,8 +6,44 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI2MixjMzBkMGQ4YjA4ZWQ5YzMxZjA0YjY0ZTIzZjc4M2I3OWY4MDdlODdm",
+  "snapshot_id": "NDI2OCwwZGIwOGUxMjI1MjQ3NjI1YzUxZmZjYThiNmQ2ZDA2N2FkNWNhNTFk",
   "tracks": [
+    {
+      "added_at": "2023-06-19 19:25:32",
+      "album": {
+        "name": "Got A Feeling",
+        "url": "https://open.spotify.com/album/1T4RZyOiEUKpSoY6zUAleQ"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        }
+      ],
+      "duration_ms": 211375,
+      "name": "Got A Feeling",
+      "url": "https://open.spotify.com/track/4gWxLRxRhMWQSo4gBXMQe4"
+    },
+    {
+      "added_at": "2023-06-19 19:21:53",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
+    },
     {
       "added_at": "2023-06-15 18:34:03",
       "album": {
@@ -1099,38 +1135,6 @@
       "duration_ms": 201000,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g"
-    },
-    {
-      "added_at": "2023-03-27 23:21:18",
-      "album": {
-        "name": "Riders in the Sky",
-        "url": "https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 282514,
-      "name": "Riders in the Sky",
-      "url": "https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru"
-    },
-    {
-      "added_at": "2023-03-24 16:19:42",
-      "album": {
-        "name": "u want me",
-        "url": "https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "u want me",
-      "url": "https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

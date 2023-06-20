@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,061 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,115 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [How I Feel](https://open.spotify.com/track/5EtsAKJgceaLk9X6OfU0xB) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Play Paul](https://open.spotify.com/artist/7lIIilMB5xwbRUeZY6QfuQ) | [How I Feel](https://open.spotify.com/album/0Zh0qIHtYQJNOI1ixL8Kcs) | 2:59 |
 | 75 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 |
 
-Snapshot ID: `MCxiYjY0NGIxZTQ4NzU1YmQ5NzVhNzYwMDg1ZDY2NTc5YWY2YjkzYzFl`
+Snapshot ID: `MCw5YzJmNDIzMGIwZDNmMzQwNzJjMjZkYWU1ZjI0Mzk3ZDZkNTE3YWQy`

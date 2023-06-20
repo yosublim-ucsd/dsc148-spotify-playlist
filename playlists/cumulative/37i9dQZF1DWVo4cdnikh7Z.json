@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 201194,
       "name": "Gnazhal Gnazhal Malare (Tamil)",
       "url": "https://open.spotify.com/track/7zs4XW6KEy8Hvfcl2YyItE"
@@ -11042,7 +11042,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 251541,
       "name": "Peranbae",
       "url": "https://open.spotify.com/track/0iBDiZDm3ODUz5p4XDqrBG"
@@ -11884,7 +11884,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 230202,
       "name": "Ram Sita Ram (From \"Adipurush\") [Tamil]",
       "url": "https://open.spotify.com/track/2ZNjljq2XCKo8LbmznIjFS"
@@ -13765,6 +13765,28 @@
     },
     {
       "album": {
+        "name": "Charles Enterprises (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/69xk8F3K8UtVCyM9rurGBx"
+      },
+      "artists": [
+        {
+          "name": "Subramanian K V",
+          "url": "https://open.spotify.com/artist/6XdWcXvnRw6ytf9SqMQX8j"
+        },
+        {
+          "name": "Mohanan Chittur",
+          "url": "https://open.spotify.com/artist/21khLPDMIKhM34TorJ8kwI"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205690,
+      "name": "Thangamayile",
+      "url": "https://open.spotify.com/track/0AJLyOcH05MdbblvF2wdk4"
+    },
+    {
+      "album": {
         "name": "Thangameeney (From \"Ripupbury\") - Single",
         "url": "https://open.spotify.com/album/6XCiUwOjOiKTKMfJzPv85u"
       },
@@ -14192,7 +14214,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 266209,
       "name": "Thee Thuliyilae (From \"Halal Shawarma\")",
       "url": "https://open.spotify.com/track/205dh9SbTujfOgiJ8V8Gvo"
@@ -16095,6 +16117,28 @@
     },
     {
       "album": {
+        "name": "Vannamayilae",
+        "url": "https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU"
+      },
+      "artists": [
+        {
+          "name": "A K PRRIYAN",
+          "url": "https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o"
+        },
+        {
+          "name": "Akshaya Shivkumar",
+          "url": "https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Vannamayilae",
+      "url": "https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf"
+    },
+    {
+      "album": {
         "name": "Vannarapettayila (From \"Maaveeran\")",
         "url": "https://open.spotify.com/album/3mKCbP8HJl2cDGb1TcjvvI"
       },
@@ -16950,7 +16994,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 202282,
       "name": "Yaayum Gnaayum",
       "url": "https://open.spotify.com/track/0ttkcK75OlPsU4MUQ3temk"

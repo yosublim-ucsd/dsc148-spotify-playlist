@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Supermassive and Ben Boas
 
-596 songs - 1 day 7 hr 51 min
+597 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-06-09 | 2022-07-22 |
 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 | 2022-06-09 | 2023-05-13 |
 | [Your Light](https://open.spotify.com/track/4y16eulJFqORdWwRjzwpvA) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Your Light](https://open.spotify.com/album/7cPS9Of4tAnUE3mdDdObny) | 3:41 | 2023-04-20 |  |
+| [Zara \- ALPHA 9 Remix](https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Zara \(ALPHA 9 Remix\)](https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl) | 3:38 | 2023-06-19 |  |
 | [Zombie \(THEMBA's Herd Mix\)](https://open.spotify.com/track/5Svn68YqlIFxTwOnRXgw6E) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie \(THEMBA's Herd Mix\)](https://open.spotify.com/album/34e9IHbnCHXCzpOLmSrtUV) | 3:46 | 2022-09-01 | 2022-09-30 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

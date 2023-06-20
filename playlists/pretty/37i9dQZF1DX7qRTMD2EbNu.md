@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS?si=\_bn36cCwR1ibGuYVXTz8jQ"> Nxwrth</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,049 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,059 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Fa Me Saa](https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fa Me Saa](https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4) | 3:05 |
 | 80 | [Next Move](https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR) | [Forever Boy](https://open.spotify.com/artist/1lyZ6cpt2PAztZxbZzx7iz), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Next Move](https://open.spotify.com/album/0psr5kCPCMwyjvtdsURhmu) | 2:42 |
 
-Snapshot ID: `MCwwMGExNzc2ZDQyZjVhY2M5M2RmZTc5MWZhNjY2NWM5YjYzNDI5YmI0`
+Snapshot ID: `MCxiOTM0ZmQ2ZDhmMWNlZDllMmZkNzc1MTMxNjUwMWIzYzI5NGQ5Nzkx`

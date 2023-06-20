@@ -2,7 +2,7 @@
 
 ### [Indie Party](https://open.spotify.com/playlist/37i9dQZF1DWTujiC7wfofZ)
 
-> 
+> All the indie disco platters that matter.
 
 270 songs - 17 hr 18 min
 

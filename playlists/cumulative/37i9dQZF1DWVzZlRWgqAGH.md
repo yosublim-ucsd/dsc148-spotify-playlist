@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Khamari
 
-885 songs - 2 day 4 hr 4 min
+886 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Be Here In The Morning](https://open.spotify.com/track/3ljqOjnJN5G9VcVz2p2WPW) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Let Yourself Be Loved](https://open.spotify.com/album/506h46ORfhACjYmXpUtV9U) | 4:04 | 2021-01-15 | 2022-04-21 |
 | [Be the One \- Remix](https://open.spotify.com/track/63BNGz21SvLvqmcPLXPDqr) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Be the One \(Remix\) \(feat\. Col3trane\)](https://open.spotify.com/album/0Ty7JL2JlfjVR9jXtnKIdy) | 3:11 | 2020-03-27 | 2020-06-20 |
 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 | 2020-04-05 | 2020-05-08 |
-| [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 | 2022-12-02 |  |
+| [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 | 2022-12-02 | 2023-06-20 |
 | [Belém](https://open.spotify.com/track/74D5pms3OKB8xEem6KwLdY) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Belém](https://open.spotify.com/album/7euwnYes5L8HOhZFg5hmFZ) | 2:05 | 2019-10-17 | 2019-12-05 |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2022-09-09 | 2023-03-04 |
 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 | 2023-02-03 | 2023-05-08 |
@@ -469,6 +469,7 @@
 | [Lover](https://open.spotify.com/track/6e0ztRweS9v9NO80uLVOII) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN) | [Daydreaming](https://open.spotify.com/album/6Utno1dWYGzcOC6cywLxDF) | 3:09 | 2020-05-22 | 2020-06-29 |
 | [Lucky Day](https://open.spotify.com/track/3Nbhub4M5X0hsaOFhTXt1J) | [Brett Riley](https://open.spotify.com/artist/7jtFAr3H8eYHrqRBthn4xp) | [Lucky Day](https://open.spotify.com/album/1zMQpohJOeWEJDADu7vm9g) | 2:29 | 2021-03-14 | 2021-03-22 |
 | [Luv Pact](https://open.spotify.com/track/4szrRplDCh0cxQ86zMz9Ob) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Luv Pact](https://open.spotify.com/album/1wB5TKoTSB4EfDZ3wVzE1B) | 2:56 | 2019-12-13 | 2020-02-20 |
+| [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 |  |
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-10-15 | 2022-10-13 |
 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 | 2022-10-14 |  |
 | [Ma Suz](https://open.spotify.com/track/6zZW8gOnaZmBNVWtbecJfK) | [Mohammed Zhang](https://open.spotify.com/artist/3PCpVfGL6tgSFv7zB24ryR), [SpaceBuddha](https://open.spotify.com/artist/7fsunBfmxdtjhECqx5RdAP), [Juan Smith](https://open.spotify.com/artist/6JHf4xe5xwL4QUdrwhx5k5), [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [Allstars \#1](https://open.spotify.com/album/1jVsDrzQqBOmyPsKNu1sxn) | 2:51 | 2020-04-04 | 2020-05-22 |

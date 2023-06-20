@@ -20977,6 +20977,28 @@
     },
     {
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r"
+      },
+      "artists": [
+        {
+          "name": "Phimi",
+          "url": "https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk"
+        },
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143739,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK"
+    },
+    {
+      "album": {
         "name": "Rivariunelmii (feat. Erika Vikman) [Vain el\u00e4m\u00e4\u00e4 kausi 12]",
         "url": "https://open.spotify.com/album/4cKD6GcON0JrXtrcJGpqys"
       },
@@ -21380,7 +21402,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 183926,
       "name": "Samaa taivasta katsotaan",
       "url": "https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi"
@@ -24274,6 +24296,28 @@
       "duration_ms": 166149,
       "name": "Tanssi Tytt\u00f6 Tanssi",
       "url": "https://open.spotify.com/track/7wAh8Hbsv4QX6AavYDcrhM"
+    },
+    {
+      "album": {
+        "name": "Tapoit mut (feat. Yks Kaisa)",
+        "url": "https://open.spotify.com/album/1YTgEPmF078uWHfNuoZRil"
+      },
+      "artists": [
+        {
+          "name": "Roope Salminen & Koirat",
+          "url": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+        },
+        {
+          "name": "Yks Kaisa",
+          "url": "https://open.spotify.com/artist/0430QGI2dMiTdUpEtGqEvv"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187700,
+      "name": "Tapoit mut (feat. Yks Kaisa)",
+      "url": "https://open.spotify.com/track/3fzEUmPYVpPyn42fQxLQEc"
     },
     {
       "album": {
@@ -27428,7 +27472,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 192716,
       "name": "V\u00e4likuolema",
       "url": "https://open.spotify.com/track/1v4jBEOmyYluJSBk6WUELN"

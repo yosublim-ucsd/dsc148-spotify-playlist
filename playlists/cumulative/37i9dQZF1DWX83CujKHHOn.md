@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-350 songs - 21 hr 44 min
+351 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [The Call](https://open.spotify.com/track/7mP2FJJ9btHH3fpAKlNtmJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Prince Caspian Flees \(Deluxe\)](https://open.spotify.com/album/4CgnFtfTSfL8l7JMgz0tBk) | 3:07 | 2022-01-05 | 2022-04-21 |
 | [The Fault in Our Stars](https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Fault in Our Stars](https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo) | 3:07 | 2021-12-06 |  |
 | [The Hardest Part](https://open.spotify.com/track/0hjANar01OL1RWox3nYT7k) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Peroxide \(Deluxe\)](https://open.spotify.com/album/2Q9EqYPv9qiUl9pbf5LLhS) | 4:02 | 2021-12-06 | 2022-07-22 |
+| [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 | 2023-06-16 |  |
 | [The Kindest Thing](https://open.spotify.com/track/1iZYLv8EeDqHogB1i6Y1Wl) | [Will Post](https://open.spotify.com/artist/5PKuqijZd1uy1EVKzPVwpT) | [The Kindest Thing](https://open.spotify.com/album/5mrIGOBXemSYCSf8R0RTcc) | 3:52 | 2021-12-06 | 2022-07-29 |
 | [the lonely](https://open.spotify.com/track/21JTgoZLDB2F4Fx0uRCmTL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 3:53 | 2022-01-05 | 2022-11-13 |
 | [The Love You Left Behind](https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [The Love You Left Behind](https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6) | 3:14 | 2021-12-06 | 2022-04-29 |
@@ -311,7 +312,7 @@
 | [Time Out](https://open.spotify.com/track/08e9dUkEQMYCrtvoeZhqhP) | [AJ Wander](https://open.spotify.com/artist/5fr3sYfFREtEo0KCnnionb) | [Time Out](https://open.spotify.com/album/6V2hNO0oVg0OiO0ewhK4Fk) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-10 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-06 | 2023-03-19 |
-| [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2022-01-05 |  |
+| [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2022-01-05 | 2023-06-20 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2022-12-23 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-06 |  |
 | [Trampoline \- Acoustic](https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Trampoline \(Acoustic\)](https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT) | 3:33 | 2021-12-06 | 2022-07-29 |

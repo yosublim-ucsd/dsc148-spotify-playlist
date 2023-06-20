@@ -1,15 +1,143 @@
 {
   "description": "Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!",
-  "num_followers": 85810,
+  "num_followers": 85798,
   "original_name": "Kids Music",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MzQ0MiwzNmZhNjliZmE2ZmE1OWQyNDZiZDc3MGJhMGEzZDE2YTc0NGY2Yjhm",
+  "snapshot_id": "MzQ0NCwyZmM1NzA5MWU2YmU1ZjY1MDBkZDQwMTc4NGQ2Yjc1MGMzYmVmY2I4",
   "tracks": [
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/584vzUonyxCAmQwmj9rOpr"
+      },
+      "artists": [
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/0F2oxMOVBd0gyr7AmW789L"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Steal The Show (From \"Elemental\")",
+        "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 191779,
+      "name": "Steal The Show - From \"Elemental\"",
+      "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Songs From The Hit YouTube Kids Show: Season One",
+        "url": "https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "You Just Got Detention",
+      "url": "https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "On Our Way (Original Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "On Our Way - Original Music from the Motion Picture",
+      "url": "https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Kamp Koral (Music from the Series)",
+        "url": "https://open.spotify.com/album/28VeN5zqeirjSLONzhnwte"
+      },
+      "artists": [
+        {
+          "name": "Kamp Koral Cast",
+          "url": "https://open.spotify.com/artist/3CHnJAHuxVudOER2h5bVJ8"
+        }
+      ],
+      "duration_ms": 29930,
+      "name": "Kamp Koral Theme Song",
+      "url": "https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "I Am A Bowl",
+        "url": "https://open.spotify.com/album/5nBXg3aG4PuD2TLEddV9Ww"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "duration_ms": 148215,
+      "name": "I Am A Bowl",
+      "url": "https://open.spotify.com/track/6CeyfBcEY4pSzKyfUIGiFW"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Disney Junior Music: Pupstruction",
+        "url": "https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI"
+      },
+      "artists": [
+        {
+          "name": "Pupstruction - Cast",
+          "url": "https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O"
+        }
+      ],
+      "duration_ms": 49789,
+      "name": "Pupstruction Main Title",
+      "url": "https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Bubble Guppies Bubble Bops Vol. 2!",
+        "url": "https://open.spotify.com/album/1dD72YRGV9dod0Qaq8un6V"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "duration_ms": 77367,
+      "name": "Bubblecity!",
+      "url": "https://open.spotify.com/track/6jv3QHGFCb6eBqFUTmGMhh"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Biddy Bom",
         "url": "https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb"
@@ -29,39 +157,7 @@
       "url": "https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "Kamp Koral (Music from the Series)",
-        "url": "https://open.spotify.com/album/28VeN5zqeirjSLONzhnwte"
-      },
-      "artists": [
-        {
-          "name": "Kamp Koral Cast",
-          "url": "https://open.spotify.com/artist/3CHnJAHuxVudOER2h5bVJ8"
-        }
-      ],
-      "duration_ms": 29930,
-      "name": "Kamp Koral Theme Song",
-      "url": "https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/6fNMqkYZorZILXsXXfO8bG"
-      },
-      "artists": [
-        {
-          "name": "Panda and Friends",
-          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
-        }
-      ],
-      "duration_ms": 180935,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Nursery Rhymes",
         "url": "https://open.spotify.com/album/7waNyJwNSwfNdWTaOckBkG"
@@ -77,23 +173,7 @@
       "url": "https://open.spotify.com/track/7Jqmh4XvYpFon2kFzRthWJ"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "Songs From The Hit YouTube Kids Show: Season One",
-        "url": "https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP"
-      },
-      "artists": [
-        {
-          "name": "MusicClubKids!",
-          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "You Just Got Detention",
-      "url": "https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Rugrats (Music from Season 1)",
         "url": "https://open.spotify.com/album/5fSobETSlUXgg9DaAdELE3"
@@ -109,10 +189,10 @@
       "url": "https://open.spotify.com/track/1dSQU6IM6rOWc68kZa8Q7V"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
-        "name": "Panda\u2019s Bus",
-        "url": "https://open.spotify.com/album/4eirXvLYN4NQliTGwGA1qS"
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/6fNMqkYZorZILXsXXfO8bG"
       },
       "artists": [
         {
@@ -120,12 +200,12 @@
           "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
         }
       ],
-      "duration_ms": 95071,
-      "name": "Panda\u2019s Bus",
-      "url": "https://open.spotify.com/track/6N6qWXQV8GaRtORPxFa5hR"
+      "duration_ms": 180935,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Go To Sleep",
         "url": "https://open.spotify.com/album/3KC84qwDEw7VuGBV4Roibl"
@@ -145,7 +225,7 @@
       "url": "https://open.spotify.com/track/0jvUB9ZhpQ8g7xA4mIanu7"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Noggin Knows: Songs About Big Questions",
         "url": "https://open.spotify.com/album/1sbK8c5skJ9HQOsIOoK9v4"
@@ -161,23 +241,7 @@
       "url": "https://open.spotify.com/track/4DmwB6YCmMOxWZhxg0Nonm"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "On Our Way (Original Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91"
-      },
-      "artists": [
-        {
-          "name": "Blue's Clues & You",
-          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "On Our Way - Original Music from the Motion Picture",
-      "url": "https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1"
@@ -193,7 +257,7 @@
       "url": "https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Play Along With Sam: We're Gonna Dance!",
         "url": "https://open.spotify.com/album/1wzpCQo4cJL2ICv9p4mkC0"
@@ -209,7 +273,7 @@
       "url": "https://open.spotify.com/track/2aTENCRUOZcG7zzAEhTEeo"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Disney Junior Music: Me & Mickey",
         "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
@@ -229,7 +293,23 @@
       "url": "https://open.spotify.com/track/2cZ0fR98bufCNz5bBxl45s"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
+      "album": {
+        "name": "Panda\u2019s Bus",
+        "url": "https://open.spotify.com/album/4eirXvLYN4NQliTGwGA1qS"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "duration_ms": 95071,
+      "name": "Panda\u2019s Bus",
+      "url": "https://open.spotify.com/track/6N6qWXQV8GaRtORPxFa5hR"
+    },
+    {
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "The Fairly Odd Parents",
         "url": "https://open.spotify.com/album/0TNzN5F4lsxUfnvFBcjI2E"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "United By The Music",
         "url": "https://open.spotify.com/album/3c6SLwBHPH8924a24k0x6I"
@@ -261,7 +341,7 @@
       "url": "https://open.spotify.com/track/5UnQqP50CLu6Rlzw27S2mI"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Wash Us",
         "url": "https://open.spotify.com/album/2hV7tkmF3ljKM0cHMFn3rl"
@@ -277,7 +357,7 @@
       "url": "https://open.spotify.com/track/2MNvaRGBl9sLGxP1VKNUQT"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Disney Junior Music: SuperKitties",
         "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/7sNz8djgmg2wkZMN9ozQPv"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Winter Wonder Jams",
         "url": "https://open.spotify.com/album/3Q01tBSLwBMS6LSABcplxd"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/3GlSbCm2GfBzkvDqACsEXJ"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Dinosaur Songs",
         "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Blue\u2019s Clues & You Nursery Rhymes Vol. 4",
         "url": "https://open.spotify.com/album/0NcoBxWnMK987oCOpMqgWT"
@@ -349,7 +429,7 @@
       "url": "https://open.spotify.com/track/4WmFFVyReDjC4SpjuQDDEb"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Here Comes Pippi Longstocking",
         "url": "https://open.spotify.com/album/6KCRazFgI6ZQKpVx42Lt7K"
@@ -369,7 +449,7 @@
       "url": "https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "VeggieTunes",
         "url": "https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx"
@@ -385,7 +465,7 @@
       "url": "https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Nick Jr. Fun Fiesta!",
         "url": "https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0"
@@ -405,7 +485,7 @@
       "url": "https://open.spotify.com/track/0UjOsc4uWZkjPJwOjGjQt4"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Eureka! Main Title Theme (From \"Disney Junior Music: Eureka!\")",
         "url": "https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Disney Junior Music: Alice's Wonderland Bakery",
         "url": "https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Hacky Smacky (Brush Your Teeth)",
         "url": "https://open.spotify.com/album/6HOk99up52yxXcBOmi3mgo"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/5rW7P3ZeKvQpJ09tSAfDLQ"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
@@ -477,7 +557,7 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "The Doc Is 10 (From \"Disney Junior Music: Doc McStuffins\")",
         "url": "https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Kids Sing Pete The Cat",
         "url": "https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/510ozdgI905xuxTAPvTYXG"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Spideys Don't Give Up (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
         "url": "https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ"
@@ -533,7 +613,7 @@
       "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "School of Rock (Original Music from the Series)",
         "url": "https://open.spotify.com/album/3SsHDfRaZOQqsnEYudPV4C"
@@ -553,7 +633,7 @@
       "url": "https://open.spotify.com/track/68uRn5hfyRhOGTdf2qYSLL"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Snow Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xwyAIxnln2pl0fus9a0tH"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/2XO6U3D3h3dnlEMq9jp6zy"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Fightin' Crimes, Spittin' Rhymes",
         "url": "https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/5okA8zg7xLkYHKLXjjL9IK"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3"
@@ -601,7 +681,7 @@
       "url": "https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "We're The Party",
         "url": "https://open.spotify.com/album/1gZ1kclQlS9km46hoDfB2E"
@@ -621,7 +701,7 @@
       "url": "https://open.spotify.com/track/5MPC3OsPWmxqg27O3WZpIc"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Meet The Alpha Beats (Official Soundtrack Album)",
         "url": "https://open.spotify.com/album/26Sb4jPOes5KjZsAeexcWT"
@@ -641,7 +721,7 @@
       "url": "https://open.spotify.com/track/3MeadeAORRkIN1ABuqsRaX"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Room 13",
         "url": "https://open.spotify.com/album/74rFiJryNQCCJk2P8lOVQs"
@@ -661,7 +741,7 @@
       "url": "https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -677,7 +757,7 @@
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Santiago\u2019s Sea Shanties Vol. 2",
         "url": "https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs"
@@ -693,7 +773,7 @@
       "url": "https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Firebuds Let's Roll (Firebuds Theme) [From \"Disney Junior Music: Firebuds\"]",
         "url": "https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE"
@@ -713,7 +793,7 @@
       "url": "https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Nick Jr. Fun Fiesta!",
         "url": "https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0"
@@ -737,7 +817,7 @@
       "url": "https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Nobody Like U (From \"Turning Red\")",
         "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
@@ -773,7 +853,7 @@
       "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -813,7 +893,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Busy Puppy (From \"Disney Junior Music: Mickey Mouse Funhouse\")",
         "url": "https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU"
@@ -833,7 +913,7 @@
       "url": "https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG"
     },
     {
-      "added_at": "2023-06-11 03:25:58",
+      "added_at": "2023-06-19 19:55:14",
       "album": {
         "name": "Songs for Kids: Classic Children's Music",
         "url": "https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq"
@@ -847,106 +927,6 @@
       "duration_ms": 83291,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "The MousePack \u2013 Mickey and Friends Singing Classic Standards",
-        "url": "https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw"
-      },
-      "artists": [
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        },
-        {
-          "name": "Minnie Mouse",
-          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
-        },
-        {
-          "name": "Daisy Duck",
-          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
-        },
-        {
-          "name": "Donald Duck",
-          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Think of Mickey Mouse",
-      "url": "https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 186726,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "The Jellyfish Song",
-        "url": "https://open.spotify.com/album/55Xgv4QxEO7WlwYrzbcTum"
-      },
-      "artists": [
-        {
-          "name": "GoNoodle",
-          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
-        },
-        {
-          "name": "Moose Tube",
-          "url": "https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa"
-        }
-      ],
-      "duration_ms": 191878,
-      "name": "The Jellyfish Song",
-      "url": "https://open.spotify.com/track/4xLq11ByjTEy4i2cwELqbp"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "That Girl Lay Lay (Music From Season 1)",
-        "url": "https://open.spotify.com/album/2lQuH7mxNzvX9MkF9B3Vg9"
-      },
-      "artists": [
-        {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
-        },
-        {
-          "name": "That Girl Lay Lay",
-          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
-        }
-      ],
-      "duration_ms": 33073,
-      "name": "Out The App",
-      "url": "https://open.spotify.com/track/50rLO1k7YC6YjbjiRgpshR"
-    },
-    {
-      "added_at": "2023-06-11 03:25:58",
-      "album": {
-        "name": "Rubble & Crew Theme Song",
-        "url": "https://open.spotify.com/album/2CLHf95bUTLq6QIvKJR07U"
-      },
-      "artists": [
-        {
-          "name": "Rubble & Crew",
-          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
-        }
-      ],
-      "duration_ms": 32241,
-      "name": "Rubble & Crew Theme Song",
-      "url": "https://open.spotify.com/track/4wQQXYAmFsS6xPDUf9FbnT"
     }
   ],
   "unique_name": "Kids Music",

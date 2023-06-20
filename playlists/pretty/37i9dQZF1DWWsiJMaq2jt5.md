@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Nosowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,504 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,595 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 48 | [Domino](https://open.spotify.com/track/00EN9DwDbhPehNLjsMtWVC) | [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Domino](https://open.spotify.com/album/6M7lFKyPb3PzOoT0WO491p) | 3:07 |
 | 49 | [SIXTEEN](https://open.spotify.com/track/2x4xuodiNG3Mfykj8v7jde) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SIXTEEN](https://open.spotify.com/album/60H3Z95knAU1oZautoERSN) | 3:01 |
 
-Snapshot ID: `MCwxZDViY2NkZTZlOWJlZjJmNGQ1M2RlMzIwMWQxNjFjNDQwMGZmMWIz`
+Snapshot ID: `MCw2NzQ3ZWJlNGZhOWM5ZjQ5ZTU4ZDY4MjY3NzYzMDFjMmVhNDRmZTYy`

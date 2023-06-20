@@ -4,7 +4,7 @@
 
 > FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-182 songs - 8 hr 10 min
+183 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 | 2023-06-12 |  |
 | [All My Heroes \- Radio Edit](https://open.spotify.com/track/0TRmtiR9q6XnYDzXmoMpGC) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 3:48 | 2023-06-12 |  |
 | [Alors En Danse](https://open.spotify.com/track/1HSbC5eHVxOfrj5ww98ZEc) | [Celarity](https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP) | [Alors En Danse](https://open.spotify.com/album/5KmRwVwUYlCqe0xO3pu4vi) | 1:39 | 2023-06-12 |  |
+| [Always Gonna Need You](https://open.spotify.com/track/3ehLFbbQgaoNUfwzhXfJR1) | [DJ Scottydog](https://open.spotify.com/artist/6qbipg6rddpVH6auKqStzc) | [Always Gonna Need You](https://open.spotify.com/album/2jdJ9OtnHA1Y2CiRzaInk4) | 3:35 | 2023-06-19 |  |
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 |  |
 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 | 2023-06-12 |  |
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |

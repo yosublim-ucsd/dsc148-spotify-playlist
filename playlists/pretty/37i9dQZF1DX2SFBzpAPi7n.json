@@ -1,15 +1,47 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MILLIC(\ubc00\ub9ad)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 213915,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 213982,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWY1ZGQ4MWY3Y2FmZTY5MTI0MjNlNTAzNGUzZjY0Yjg3YmFiNmIz",
+  "snapshot_id": "MCwyNmMxMGE3YTFhMTgyYzJhZmQxNWQ2OGViMjNhMGNmMDgzZTBiYjg2",
   "tracks": [
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "WE GO HIGH",
+        "url": "https://open.spotify.com/album/0JVq4vVvfai25hdLJhvHxz"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "WE GO HIGH",
+      "url": "https://open.spotify.com/track/2xiMbOHBJhAysqRSTLMYnk"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "~",
         "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
@@ -29,39 +61,7 @@
       "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
-      },
-      "artists": [
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Night overtime",
-        "url": "https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW"
-      },
-      "artists": [
-        {
-          "name": "CRYING NUT",
-          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Night overtime",
-      "url": "https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "INFP",
         "url": "https://open.spotify.com/album/6VvIurbhKuSuhOVVFY4iXd"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/53TbTPtP4Dw0zkTevQC4pZ"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "THE PARTY SONG",
         "url": "https://open.spotify.com/album/3r945C3WcZM28fra78rhqD"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -297,7 +297,23 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -333,55 +349,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 238494,
-      "name": "FAKE LOVE - Rocking Vibe Mix",
-      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -397,7 +365,39 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 238494,
+      "name": "FAKE LOVE - Rocking Vibe Mix",
+      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
@@ -413,23 +413,7 @@
       "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
@@ -445,55 +429,23 @@
       "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "NAN CHUN \ub09c\ucd98",
-        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
       "artists": [
         {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 229493,
-      "name": "NAN CHUN \ub09c\ucd98",
-      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "pueblo",
-        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "pueblo",
-      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
@@ -509,23 +461,39 @@
       "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+        "name": "NAN CHUN \ub09c\ucd98",
+        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+      "duration_ms": 229493,
+      "name": "NAN CHUN \ub09c\ucd98",
+      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -541,7 +509,7 @@
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -557,7 +525,23 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "pueblo",
+        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "pueblo",
+      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
@@ -573,23 +557,7 @@
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -605,42 +573,10 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Self-Portrait - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Let\u2019s Love",
-      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
       },
       "artists": [
         {
@@ -648,12 +584,28 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -669,23 +621,39 @@
       "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "Verse 2",
-        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
       "artists": [
         {
-          "name": "JJ Project",
-          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 235068,
-      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
-      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Let\u2019s Love",
+      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
@@ -701,7 +669,23 @@
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
@@ -717,23 +701,7 @@
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "DIVE",
-      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
-    },
-    {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
@@ -749,10 +717,26 @@
       "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "The End of Nightmare",
-        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
       },
       "artists": [
         {
@@ -760,12 +744,28 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 206819,
-      "name": "PIRI",
-      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "TO DIE FOR",
         "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
@@ -801,10 +801,10 @@
       "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
       },
       "artists": [
         {
@@ -812,12 +812,12 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2023-06-13 08:39:51",
+      "added_at": "2023-06-19 09:00:00",
       "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"

@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 497142,
       "name": "Celestial - Edu Schwartz Remix",
       "url": "https://open.spotify.com/track/2rDWBTZhpxHVYkIIIpffVV"
@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Nani Nani",
+        "url": "https://open.spotify.com/album/3XKDhPxJxnSdPFakkKJuk7"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404196,
+      "name": "Nani Nani",
+      "url": "https://open.spotify.com/track/7fxkzVcC4HC1ScmMQoiTmH"
+    },
+    {
+      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -3294,7 +3312,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 400000,
       "name": "Red Tree - Tebra Remix",
       "url": "https://open.spotify.com/track/4QjUPodE9OOPT9gLsJkziX"
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 427005,
       "name": "Season",
       "url": "https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 397979,
       "name": "Tolo - FNX Omar Remix",
       "url": "https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc"

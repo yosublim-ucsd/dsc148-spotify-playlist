@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 305938,
+  "num_followers": 306064,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWQ1M2Q4MGZiZGEwN2YwNjU3ZTNjM2YzMzg0NGNlYmVjZGE1ZWMz",
+  "snapshot_id": "MCwyNDE2M2JmNzFhMmRlMDNiODkxZjAxN2ZiYmU5NjM3OWMyMTk1Mjdj",
   "tracks": [
     {
       "added_at": "2023-06-16 16:02:51",
@@ -815,30 +815,6 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
-        "name": "Cups (Drunk in Love Pt. 2)",
-        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Wasback",
-          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
-        },
-        {
-          "name": "Edward V",
-          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
-        }
-      ],
-      "duration_ms": 163617,
-      "name": "Cups (Drunk in Love Pt. 2)",
-      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 168300,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
+        "name": "Cups (Drunk in Love Pt. 2)",
+        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "Edward V",
+          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
+        }
+      ],
+      "duration_ms": 163617,
+      "name": "Cups (Drunk in Love Pt. 2)",
+      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
     },
     {
       "added_at": "2023-06-16 16:02:51",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Sary",
-          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
         "name": "Wind Me Up",
         "url": "https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L"
     },
     {
       "added_at": "2023-06-16 16:02:51",

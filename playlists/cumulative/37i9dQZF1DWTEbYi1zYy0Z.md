@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-343 songs - 1 day 0 hr 14 min
+344 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [It's All Love](https://open.spotify.com/track/18WVeMD5nxYgy2O6Pj9AFO) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Focus](https://open.spotify.com/album/1eVlUYjKr4SlUidmQeIvbh) | 3:25 | 2020-10-30 | 2022-03-16 |
 | [It's My Time \(feat\. James Lloyd\)](https://open.spotify.com/track/6e5uZBOrr1YrYuiuUi6JdX) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [James Lloyd](https://open.spotify.com/artist/33EdGAT6HNpc9dFzyMGYje) | [It's My Time \(feat\. James Lloyd\)](https://open.spotify.com/album/2yg2w2w9ANObViZaRqbzbw) | 4:21 | 2020-10-30 | 2022-03-18 |
 | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/09n6x5PAuwNJW3pXNAn8I2) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/album/6SAjCD5XllDN8pmhUa6mgX) | 3:47 | 2021-01-22 | 2022-03-18 |
-| [It's You](https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [It's You](https://open.spotify.com/album/27mwWf8lLpu2v9jEvrOLLZ) | 4:19 | 2023-01-27 |  |
+| [It's You](https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [It's You](https://open.spotify.com/album/27mwWf8lLpu2v9jEvrOLLZ) | 4:19 | 2023-01-27 | 2023-06-20 |
+| [It's You](https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Message](https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG) | 4:20 | 2023-02-03 |  |
 | [It’s A Love Thing](https://open.spotify.com/track/15zX0XOLYS0GWnuXJe0jTa) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [XX](https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414) | 6:24 | 2020-10-30 | 2022-03-18 |
 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 | 2022-03-18 |  |
 | [Just a Taste](https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [HERO](https://open.spotify.com/album/3ZRYpCfUbMbwHPA39R2CJ1) | 4:00 | 2020-10-30 | 2022-03-15 |

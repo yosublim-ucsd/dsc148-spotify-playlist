@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "We Love Drum & Bass",
+        "url": "https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp"
+      },
+      "artists": [
+        {
+          "name": "Slipmatt",
+          "url": "https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342420,
+      "name": "Breaking Free",
+      "url": "https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm"
+    },
+    {
+      "album": {
         "name": "Rumble in the Jungle",
         "url": "https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 379906,
       "name": "No Good (Start the Dance)",
       "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"

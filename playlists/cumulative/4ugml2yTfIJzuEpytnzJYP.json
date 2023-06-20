@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Charu",
+        "url": "https://open.spotify.com/album/1ADKPhIEmCpWaXNeslYeFA"
+      },
+      "artists": [
+        {
+          "name": "Rey&Kjavik",
+          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483934,
+      "name": "Charu",
+      "url": "https://open.spotify.com/track/7zFSXAiV4pwPV7m6iFIYhI"
+    },
+    {
+      "album": {
         "name": "Chase The Vibe",
         "url": "https://open.spotify.com/album/0oN7CkEjR8eEDm90Hpu4O1"
       },
@@ -4155,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "Vanishing Point",
+        "url": "https://open.spotify.com/album/0RjwLoGe9oslfy3QYsbXt1"
+      },
+      "artists": [
+        {
+          "name": "Eastghost",
+          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
+        },
+        {
+          "name": "Onhell",
+          "url": "https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Vanishing Point",
+      "url": "https://open.spotify.com/track/0CeNIADHXHu3btTLzWaChr"
+    },
+    {
+      "album": {
         "name": "Vision Quest",
         "url": "https://open.spotify.com/album/3h04FoSQ3lsjPI1V0Qo0Wo"
       },
@@ -4268,6 +4308,24 @@
       "duration_ms": 178285,
       "name": "Westside",
       "url": "https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob"
+    },
+    {
+      "album": {
+        "name": "What You Do",
+        "url": "https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4"
+      },
+      "artists": [
+        {
+          "name": "tsou",
+          "url": "https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207902,
+      "name": "What You Do",
+      "url": "https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-1,783 songs - 4 day 0 hr 34 min
+1,784 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,6 +1252,7 @@
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2021-08-05 |  |
 | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/track/3sdYpdTTn4fdfu4cyisnt0) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/album/5H7ninGfbxKP554yChPCWw) | 2:28 | 2021-08-05 |  |
 | [punch22](https://open.spotify.com/track/4326hzXf5LEVuQb7K85Yud) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [punch22](https://open.spotify.com/album/2ykgrW56pBLH2qOFkQfaHY) | 2:24 | 2021-08-05 |  |
+| [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2023-06-19 |  |
 | [Punk Weight](https://open.spotify.com/track/6Ucjy0z1uO111RCUVXqhnn) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:24 | 2021-11-30 |  |
 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2021-09-15 |  |
 | [push it !](https://open.spotify.com/track/0plhPq0scNVwBDcpCwoMOV) | [Wido](https://open.spotify.com/artist/6liXmQhyT1nyUlVxnef0T3) | [push it !](https://open.spotify.com/album/04z2fLjbnHP1oPk4llQmRz) | 1:37 | 2022-02-04 |  |

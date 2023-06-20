@@ -998,10 +998,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 165668,
       "name": "Mpulira Bibyo",
       "url": "https://open.spotify.com/track/7BbgvMTsbkGZZZatPzMGxK"
+    },
+    {
+      "album": {
+        "name": "Mpulira Bibyo",
+        "url": "https://open.spotify.com/album/5521e4lmnpDuOJzBlWCZ9N"
+      },
+      "artists": [
+        {
+          "name": "Grenade Official",
+          "url": "https://open.spotify.com/artist/4t41SFTGtJALbIGWkD0V6t"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "Mpulira Bibyo",
+      "url": "https://open.spotify.com/track/32U5EgZoaJcsFtLoDPSOPi"
     },
     {
       "album": {

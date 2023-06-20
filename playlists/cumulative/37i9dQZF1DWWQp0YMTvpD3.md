@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-331 songs - 16 hr 37 min
+333 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2022-10-07 |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-10-12 | 2022-02-12 |
 | [Falling Short](https://open.spotify.com/track/6u9cWDkxbTXaqf4GZP5MHh) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/6yhHW85d9Z6D3uyvLZSZxI) | 3:23 | 2019-10-04 | 2022-02-12 |
+| [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 | 2023-06-19 |  |
 | [Fauna](https://open.spotify.com/track/0HB4kzAoxW1Xp2yueKZSio) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Fauna](https://open.spotify.com/album/44eIDFdzVYc5Y3RyXMBin5) | 2:12 | 2022-12-09 |  |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2021-10-12 | 2022-02-12 |
 | [Feet in Sand](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Feet in Sand](https://open.spotify.com/album/4YCnbj7uIHHXFmljXzkLCP) | 2:54 | 2022-09-02 |  |
@@ -273,6 +274,7 @@
 | [Tainted Tuesday](https://open.spotify.com/track/697kvLFUMf4eK85X1i1vTG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Tainted Tuesday](https://open.spotify.com/album/0Ktq1iZScnytfmO6wAxVDj) | 3:35 | 2021-10-26 | 2022-02-12 |
 | [Take Off](https://open.spotify.com/track/5oHL7Dl37tMi0YK2qATM5C) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Take Off](https://open.spotify.com/album/0RqZgPvRa2OE0KwgT1ad8e) | 2:39 | 2019-10-04 | 2022-02-12 |
 | [take off](https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [take off](https://open.spotify.com/album/3RtTbtee2kTycEr5JqLJvS) | 2:31 | 2022-10-28 |  |
+| [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 |  |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-02-11 |  |
 | [The girl with broken dreams](https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp) | 2:35 | 2022-10-28 | 2022-12-15 |
 | [The girl with broken dreams](https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM) | 2:35 | 2022-09-02 | 2022-11-20 |

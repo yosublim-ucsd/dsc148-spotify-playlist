@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: King Sis\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,031 likes - 295 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,165 likes - 295 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 71 | [Lost In You](https://open.spotify.com/track/4FIV2F2tHRskVGyd7FogoM) | [Nate Curry](https://open.spotify.com/artist/6nQU2fgCIK8xSFT8weMxP4) | [Lost In You](https://open.spotify.com/album/6S1TKL5u1C8ywztBlppGe7) | 1:51 |
 | 72 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 |
 | 73 | [Have It All](https://open.spotify.com/track/7fsycumEn2QSFDa3Irmd0z) | [Xian Bell](https://open.spotify.com/artist/1DD9ttmrDTrddo8JOqqS6z), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Have It All](https://open.spotify.com/album/4eEwuwdvehyexwQNY5nYps) | 3:15 |
-| 74 | [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 |
+| 74 | [Waste My Time](https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE) | 3:00 |
 | 75 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
 | 76 | [\(Oh\) My Days](https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Bloodlines](https://open.spotify.com/album/3i0jkvrg2HK1OOwDfRRCMJ) | 3:55 |
 | 77 | [Somethin' They Ain't Got](https://open.spotify.com/track/1p4gXdgpdsTzrCorjt6LOS) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Somethin' They Ain't Got](https://open.spotify.com/album/0xHGsoKZ3AHszM9oQL00kO) | 3:25 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 294 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 295 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCxlNWIzMzZjMGFmYTc4ZGJkZGJhYTNlNmUyNTQ1MGY0MTRmMTU3NTE5`
+Snapshot ID: `MCw0NmQ1YmE1YzYzNGY0YjRmNzk1ZTQ0OTVmYzZkYzFiNTJiNzIxYjQw`

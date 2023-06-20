@@ -2,7 +2,7 @@
 
 ### [Summer House 2023](https://open.spotify.com/playlist/37i9dQZF1DX05r4Oy3Ln97)
 
-> 
+> Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
 255 songs - 13 hr 1 min
 

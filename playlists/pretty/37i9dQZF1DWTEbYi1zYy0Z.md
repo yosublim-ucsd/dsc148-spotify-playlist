@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,150 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,206 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 24 | [Coastline Drive](https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656) | [Joe Plass](https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ), [Andy Warr](https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7), [Barry Aiken](https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H) | [Coastline Drive](https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9) | 5:21 |
 | 25 | [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 |
 | 26 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
-| 27 | [It's You](https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [It's You](https://open.spotify.com/album/27mwWf8lLpu2v9jEvrOLLZ) | 4:19 |
+| 27 | [It's You](https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Message](https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG) | 4:20 |
 | 28 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 |
 | 29 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
 | 30 | [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Let's Do This \(feat\. Nils\) \- Radio Edit](https://open.spotify.com/track/062XGbLtbdC2jyvuZdrgEx) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Let's Do This \(feat\. Nils\) \[Radio Edit\]](https://open.spotify.com/album/3iTgcSSsIGD7tIGFQndw53) | 3:51 |
 | 100 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
 
-Snapshot ID: `MCwwMzVjNDBlZjcyYTJmYzEyOGRlMGFiMDlhMmRmZWQ4NzYwOGZjOGQx`
+Snapshot ID: `MCxhYjliM2JkZGNkYjYxMTNhZWQ1MWNhYzg4MTRkZjEzNzM4ODhmMThk`

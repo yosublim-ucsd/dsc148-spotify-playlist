@@ -2845,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Chadurida Baligondu (From \"Melody Drama\")",
+        "url": "https://open.spotify.com/album/6UD6x8poTxYRvrCxFEL4Qj"
+      },
+      "artists": [
+        {
+          "name": "Kiran Ravindranath",
+          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225048,
+      "name": "Chadurida Baligondu (From \"Melody Drama\")",
+      "url": "https://open.spotify.com/track/1Rfawh8P5ICDU8EDttn8jb"
+    },
+    {
+      "album": {
         "name": "Champion - Title Track (From \"Champion\")",
         "url": "https://open.spotify.com/album/4YHcxV2nqBfUmjOGCM43iV"
       },
@@ -4634,7 +4656,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 139285,
       "name": "First Night Song (From \"Undenaama\")",
       "url": "https://open.spotify.com/track/2sauGfTXnww3eL9hCXKogs"

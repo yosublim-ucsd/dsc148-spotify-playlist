@@ -4,11 +4,11 @@
 
 > Deep beats to study to.
 
-167 songs - 16 hr 11 min
+168 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3010](https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [Doorways](https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE) | 3:48 | 2023-06-09 |  |
+| [3010](https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [Doorways](https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE) | 3:48 | 2023-06-09 | 2023-06-20 |
 | [Advanced Tree Surgery](https://open.spotify.com/track/7wKA5bDvy905su0NhqT3iF) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [Early Learning](https://open.spotify.com/album/0D1tRKR1toMB4zNM08MJwX) | 5:28 | 2022-03-22 | 2022-07-29 |
 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 | 2022-03-22 |  |
 | [Angostura](https://open.spotify.com/track/0sF7mQlKPDpGqCfZOi56iO) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Old Fashioned](https://open.spotify.com/album/6EbpUhJpOvPG1U0Y4qg0cS) | 6:12 | 2022-03-22 | 2022-07-24 |
@@ -109,6 +109,7 @@
 | [Never Forget](https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [See You When You Get There](https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr) | 6:04 | 2022-07-15 | 2023-06-10 |
 | [Never Forget](https://open.spotify.com/track/6vXoU9YnObvGb5hPP6GyeK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [See You When You Get There](https://open.spotify.com/album/0n7oMq3jgYKideJ5DYhuwq) | 6:04 | 2022-03-22 | 2022-04-21 |
 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 | 2023-06-09 |  |
+| [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 | 2023-06-09 |  |
 | [Obsidiana \- Hermetics Remix](https://open.spotify.com/track/4SGiOzqL7wtjMxXxamoiSx) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Hermetics](https://open.spotify.com/artist/4FOl3ytTF0JV9hh9rsv03u) | [Obsidiana \(Hermetics Remix\)](https://open.spotify.com/album/4UIZKra27fFgkSLBeFc2kg) | 6:42 | 2022-03-22 | 2022-07-29 |
 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 | 2022-03-22 |  |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-03-22 |  |

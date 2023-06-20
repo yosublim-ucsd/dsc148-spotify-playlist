@@ -1286,10 +1286,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 204545,
       "name": "When I Go",
       "url": "https://open.spotify.com/track/1ZD51kpXHiTNqymmz3Yy6b"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/48lHjI17WkWYLSrQyf4tLG"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "When I Go",
+      "url": "https://open.spotify.com/track/5EKXcCIPjXO0VxsQwArvd1"
     },
     {
       "album": {

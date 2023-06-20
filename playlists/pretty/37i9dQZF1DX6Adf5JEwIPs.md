@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz & Lalo Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,418 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,688 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [Hoy Toco La Luna](https://open.spotify.com/track/1AIp8XDmpIbtCuCMnSZt1v) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Hoy Toco La Luna](https://open.spotify.com/album/0T9bLYnoIJn0ffqbyhl83P) | 3:47 |
 | 36 | [Piña Colada](https://open.spotify.com/track/5Rgb8Ru9UMU6BMWl4pYmVv) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Piña Colada](https://open.spotify.com/album/3C5uJievyadss3JMIzrlPI) | 3:45 |
 | 37 | [Que Bendición](https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Que Bendición](https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB) | 2:29 |
-| 38 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/3u1omNkBA1MuYYCtQRyQaF) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Chuy Vega Jr](https://open.spotify.com/artist/0B3JaeffSunfTQOmZudfW7) | [Quedate Conmigo Esta Noche](https://open.spotify.com/album/0Shxtcexh5Xj5RF3xXKeja) | 3:10 |
+| 38 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/3u1omNkBA1MuYYCtQRyQaF) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Chuy Vega Jr](https://open.spotify.com/artist/6i7klt0gCQtLnOPtzxvLt8) | [Quedate Conmigo Esta Noche](https://open.spotify.com/album/0Shxtcexh5Xj5RF3xXKeja) | 3:10 |
 | 39 | [La Dieta](https://open.spotify.com/track/5nmdhdCwLBKTsPiKxdMDyl) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O) | [La Dieta](https://open.spotify.com/album/446iEs7DuQGHlYuTQMICqv) | 2:49 |
 | 40 | [Carta a Papá](https://open.spotify.com/track/7agjFt7zlGNBply74TFhaK) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Carta a Papá](https://open.spotify.com/album/1xkwvrfrJjdIE4MNL3Nkjm) | 2:35 |
 | 41 | [No te comparas](https://open.spotify.com/track/7HyCxqj6QSH6XDpyfooAlo) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Corazón Confundido](https://open.spotify.com/album/5TCnntTixw3ZRlIfghFYzE) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 | 51 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 |
 
-Snapshot ID: `MCxiMDFlMGQ2YjdmNGE5ZDQwZTk1NTg1NTA4MzYxNjBkOGE5YTAzM2Vl`
+Snapshot ID: `MCxhMGFmYTFhMjM4N2UyYjg3MTc0MjEzOTkyNjIxNzA5ZjczNTBmYjUw`

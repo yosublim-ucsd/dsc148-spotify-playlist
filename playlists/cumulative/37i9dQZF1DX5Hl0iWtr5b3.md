@@ -4,7 +4,7 @@
 
 > All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
 
-95 songs - 4 hr 53 min
+96 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [I'm Just George](https://open.spotify.com/track/7mq3v02LtHKsUSqWaZAypf) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:03 | 2023-05-04 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 | 2023-05-04 |  |
 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 | 2023-05-04 |  |
+| [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Spanish Version](https://open.spotify.com/track/7GgLzAU45zlpbl1c5FQeOE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Spanish Version\]](https://open.spotify.com/album/5aF9dL42UZ754k72o35CXW) | 4:55 | 2023-06-19 |  |
 | [In My Blood](https://open.spotify.com/track/3ZpdOnmZvlJVCuMGMYDNQO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:30 | 2022-03-25 |  |
 | [It Has Been Said \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/0Te3W2KaeN0pHE7zWvw3Ey) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:31 | 2022-03-25 |  |
 | [It's My Fault \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/2Yu1t33vjxWFbZTynPk1by) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 3:51 | 2022-03-25 |  |

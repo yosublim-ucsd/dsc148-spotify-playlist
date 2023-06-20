@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-221 songs - 14 hr 3 min
+224 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Careless](https://open.spotify.com/track/55EsRl8Q16Q73P74ymPoG3) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Mysterium](https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i) | 2:40 | 2022-02-11 | 2022-04-16 |
 | [CHAMELEON \- Saint Sinner Peak Remix](https://open.spotify.com/track/4M30jQ5ys2qHwYKDV4kV8P) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON \- Remixes](https://open.spotify.com/album/4p7TkKZy4dVg5KxxpFJr0H) | 4:44 | 2023-05-31 |  |
 | [Change of Pace](https://open.spotify.com/track/65zFynYpKoJtmCpjDtqv3S) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Ricochet](https://open.spotify.com/album/6RvWFOz4CH41Ka98jLXoge) | 3:56 | 2022-09-21 | 2022-10-01 |
+| [Charu](https://open.spotify.com/track/7zFSXAiV4pwPV7m6iFIYhI) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Charu](https://open.spotify.com/album/1ADKPhIEmCpWaXNeslYeFA) | 8:03 | 2023-06-19 |  |
 | [Chase The Vibe](https://open.spotify.com/track/3vH0K3jfGarjDwAwFioG9x) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Chase The Vibe](https://open.spotify.com/album/0oN7CkEjR8eEDm90Hpu4O1) | 3:07 | 2021-10-18 | 2022-02-28 |
 | [Clutch](https://open.spotify.com/track/2AtaNnfoySsOMA1etPWAa7) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Clutch](https://open.spotify.com/album/7qnWKWKXZ62wPIVMkVk5wZ) | 5:29 | 2022-09-15 | 2022-10-16 |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-11 | 2022-04-13 |
@@ -217,12 +218,14 @@
 | [Up in the Safe \- Mythm Remix](https://open.spotify.com/track/45UwlxaR2cVemGxdtJpk0D) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Up in the Safe \(MYTHM Remix\)](https://open.spotify.com/album/7quwFHbQD0LZZFAR1wuNdH) | 3:00 | 2022-09-23 | 2022-10-17 |
 | [Utopia](https://open.spotify.com/track/6hFx04XsHt99HQdO51w28Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Utopia](https://open.spotify.com/album/4TVo5m16Nw2x5B2uzHuuwh) | 3:29 | 2021-09-17 | 2022-04-16 |
 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 | 2022-04-26 | 2022-09-17 |
+| [Vanishing Point](https://open.spotify.com/track/0CeNIADHXHu3btTLzWaChr) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Vanishing Point](https://open.spotify.com/album/0RjwLoGe9oslfy3QYsbXt1) | 2:52 | 2023-06-19 |  |
 | [Vision Quest](https://open.spotify.com/track/78muRkn22ADBNBwDmDg4VM) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Vision Quest](https://open.spotify.com/album/3h04FoSQ3lsjPI1V0Qo0Wo) | 4:41 | 2022-04-15 | 2022-09-17 |
 | [Voice \- Mystic State Remix](https://open.spotify.com/track/7zEoRwiXCVFW3xA07RJGBS) | [Opus](https://open.spotify.com/artist/7gdAc6xAf30x3jD2UFbKK7), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Voice \(Mystic State Remix\)](https://open.spotify.com/album/48TlLtMlyiMm8yI7OdJX2P) | 4:13 | 2022-04-25 | 2022-08-23 |
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-25 | 2022-08-23 |
 | [War](https://open.spotify.com/track/0oyOinzQMX5h9NTLiVRYxR) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Spooky Stories EP](https://open.spotify.com/album/6lCGiwcpQCPuLqv5k3SDfO) | 4:34 | 2022-09-17 | 2022-10-17 |
 | [Way Of Life](https://open.spotify.com/track/30x0oEG0ZSNGzccTM6FHGT) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Way Of Life EP](https://open.spotify.com/album/1G34rlXSZIIzLo723IiZzi) | 4:42 | 2022-10-14 | 2023-05-27 |
 | [Westside](https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob) | [Untitld](https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd) | [Westside](https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD) | 2:58 | 2022-09-17 | 2022-10-17 |
+| [What You Do](https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ) | [tsou](https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i) | [What You Do](https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4) | 3:27 | 2023-06-19 |  |
 | [Whiplash](https://open.spotify.com/track/15iMqjEdEXXZkQP67eDaG9) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Whiplash](https://open.spotify.com/album/0b784gQ8Ytq8zAX1MLwG22) | 2:51 | 2022-10-14 | 2022-10-17 |
 | [Windhorse](https://open.spotify.com/track/60ERpJRWMWexY91Jw67wqP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [The Tale of Elegos](https://open.spotify.com/album/6KAma26Kpo2Ro79hLzGIuU) | 3:54 | 2021-10-28 | 2022-02-28 |
 | [Windhorse](https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Windhorse](https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu) | 3:54 | 2021-10-07 | 2022-02-28 |

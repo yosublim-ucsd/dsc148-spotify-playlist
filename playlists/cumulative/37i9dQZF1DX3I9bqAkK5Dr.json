@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 197666,
       "name": "Choosthunna Choosthunna",
       "url": "https://open.spotify.com/track/1KSM8nh7qcMk9DC9BxyMKt"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 209668,
       "name": "Kadilindi Kanne",
       "url": "https://open.spotify.com/track/2C2D5BKIrHbcGzHDrBNNTV"
@@ -730,6 +730,32 @@
       "duration_ms": 277329,
       "name": "Kalaganna",
       "url": "https://open.spotify.com/track/1snRYWGCeIzCKQXvpYQFhD"
+    },
+    {
+      "album": {
+        "name": "Kalavara paduthunnane",
+        "url": "https://open.spotify.com/album/0MdXOA8p3Utqvm1GaMo7jb"
+      },
+      "artists": [
+        {
+          "name": "Venkatesh Vuppala",
+          "url": "https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb"
+        },
+        {
+          "name": "Soma Rishitha",
+          "url": "https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa"
+        },
+        {
+          "name": "Sharath Chandra Thirunagari",
+          "url": "https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212788,
+      "name": "Kalavara Paduthunnane",
+      "url": "https://open.spotify.com/track/6NeNZwY4LyLfvV3whZgPsT"
     },
     {
       "album": {
@@ -832,6 +858,28 @@
       "duration_ms": 200942,
       "name": "Kilikki - Tribute to Team Baahubali",
       "url": "https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu"
+    },
+    {
+      "album": {
+        "name": "Kshaminchu",
+        "url": "https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz"
+      },
+      "artists": [
+        {
+          "name": "T\u00f6rk",
+          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
+        },
+        {
+          "name": "AKSH",
+          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "Kshaminchu",
+      "url": "https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r"
     },
     {
       "album": {
@@ -1006,7 +1054,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 166000,
       "name": "Manasara",
       "url": "https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n"

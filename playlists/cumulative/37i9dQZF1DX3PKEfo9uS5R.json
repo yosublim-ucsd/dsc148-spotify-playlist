@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw"
+      },
+      "artists": [
+        {
+          "name": "Sin & Logo",
+          "url": "https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237362,
+      "name": "drift",
+      "url": "https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR"
+    },
+    {
+      "album": {
         "name": "Duane",
         "url": "https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd"
       },
@@ -798,6 +816,24 @@
       "duration_ms": 143460,
       "name": "Faro",
       "url": "https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Fast Friends",
+      "url": "https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq"
     },
     {
       "album": {
@@ -1417,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "joy love",
+        "url": "https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "joy love",
+      "url": "https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ"
       },
@@ -1756,6 +1810,24 @@
       "duration_ms": 159403,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1oUaSDAtcWaSmTrSAA73Ae"
+      },
+      "artists": [
+        {
+          "name": "Salavant",
+          "url": "https://open.spotify.com/artist/4bPwvN46TZwzf5G00otLbO"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0hXnIr751Bx0Veiy9uqvvC"
     },
     {
       "album": {

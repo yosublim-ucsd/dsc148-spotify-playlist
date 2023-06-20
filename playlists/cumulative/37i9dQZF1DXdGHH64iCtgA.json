@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 271620,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh"
@@ -698,6 +698,24 @@
       "duration_ms": 352093,
       "name": "Crispy Bacon",
       "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
+    },
+    {
+      "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452853,
+      "name": "Dance Tonight Revolution Tomorrow",
+      "url": "https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh"
     },
     {
       "album": {

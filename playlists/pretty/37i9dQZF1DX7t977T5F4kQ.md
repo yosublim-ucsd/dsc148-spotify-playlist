@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=ulS3s1hHRSW6\_d0\-mS5SaQ">Kelvyn Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,583 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,601 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
 | 80 | [Celebrate](https://open.spotify.com/track/0EonV0jQGifRKj22ZBVY6l) | [Boomski Radio](https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Celebrate](https://open.spotify.com/album/37rh4lkXWmFNSKT4Sduw3y) | 3:05 |
 
-Snapshot ID: `MCw0YmQzZjg0MDMwZjY1N2M1NzY3NmI1M2RiZmRkNjA0OGYzNzllMzRk`
+Snapshot ID: `MCw1M2EzYWUwNmQwNDQ3M2U5N2VhODQ4Yjc4OTM4YzI5MDU2NTMxNjQ0`

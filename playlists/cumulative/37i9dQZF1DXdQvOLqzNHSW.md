@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-574 songs - 1 day 11 hr 29 min
+575 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Just Fly, Don't Worry](https://open.spotify.com/track/6uB3tMtnAkxqtm08NDNZAV) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 1:48 | 2023-06-15 |  |
 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 | 2022-10-28 |  |
 | [K.](https://open.spotify.com/track/36Zs84njjWZD3TGYE77WPC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [K.](https://open.spotify.com/album/33qYH2dRlz8DSCWFYZB1Fc) | 5:19 | 2020-12-21 | 2022-07-21 |
-| [Keep It On](https://open.spotify.com/track/68tLyae6074kjuWEU2kVDA) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Keep It On](https://open.spotify.com/album/5XHZOxIVPFXJfwGjl4ZMt4) | 4:27 | 2023-05-25 |  |
+| [Keep It On](https://open.spotify.com/track/68tLyae6074kjuWEU2kVDA) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Keep It On](https://open.spotify.com/album/5XHZOxIVPFXJfwGjl4ZMt4) | 4:27 | 2023-05-25 | 2023-06-20 |
 | [Kill Our Way to Heaven](https://open.spotify.com/track/65FY2nfsexBwSIYVzEZCKS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [La Belle Musique, Episode One](https://open.spotify.com/album/3RTds8OVU8t5X93B00EtCe) | 3:56 | 2020-12-21 | 2022-04-17 |
 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 | 2022-07-22 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-07-22 | 2022-10-04 |
@@ -551,6 +551,7 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-13 |  |
 | [Velour](https://open.spotify.com/track/1i2UwbdSxF0IBHCO0QxNGe) | [TEK.LUN](https://open.spotify.com/artist/3CE8Ux0j4kdaWpqCssKnVA), [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [Velour](https://open.spotify.com/album/1jY86WHjH6Hm0fXDfuONWC) | 2:45 | 2023-05-25 | 2023-05-27 |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2020-12-21 | 2022-10-01 |
+| [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 |  |
 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2022-07-08 | 2022-08-27 |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2020-12-21 |  |
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-07-22 |  |

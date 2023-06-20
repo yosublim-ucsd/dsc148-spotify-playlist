@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBkF7fHyaoI.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z"> &ME</a> gifts us with a beautiful & unique DJ mix to dance the night away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,755 likes - 15 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,768 likes - 15 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBkF7fHyaoI.md) - [plain]
 | 14 | [Lesson in Stoicism \- Mixed](https://open.spotify.com/track/1Hqq6n0qi1Tz0TrR69YOOw) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Lesson in Stoicism \(Mixed\)](https://open.spotify.com/album/1KD5kM1XSjcb8BohZyJsG0) | 3:06 |
 | 15 | [Under This Fantasy \- Jorkes Remix \- Mixed](https://open.spotify.com/track/5WwKNAff8LJA7C5LBrBpna) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK), [Jorkes](https://open.spotify.com/artist/0rbXjTwJW03nFB2qpZwAvY) | [Under This Fantasy \- Jorkes Remix \(Mixed\)](https://open.spotify.com/album/2Vkdz94HVVXNC7IEWh5ol0) | 5:01 |
 
-Snapshot ID: `MCxiNDc2ZjM2OWNlYWI3NTliOGQ0YjcxNzZjODA3NmE0ZjI0ZDg0ZmY5`
+Snapshot ID: `MCw2MjI5NTNkYjIyNmUxYjEzZjlmN2NiN2M4NDUxYTY1YjQ4NTM2MGMx`

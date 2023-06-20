@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Along Came You",
+        "url": "https://open.spotify.com/album/4W1QLtlQHhRDMlsIlANNf9"
+      },
+      "artists": [
+        {
+          "name": "Michael Lavigne",
+          "url": "https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "Along Came You",
+      "url": "https://open.spotify.com/track/6S89pQkAuxmU1MFUHIWuzE"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm"
       },
@@ -527,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM"
+    },
+    {
+      "album": {
         "name": "Ellipses",
         "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
       },
@@ -560,6 +596,24 @@
       "duration_ms": 168295,
       "name": "Fairway Drive",
       "url": "https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE"
+    },
+    {
+      "album": {
+        "name": "Fairy Wings",
+        "url": "https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb"
+      },
+      "artists": [
+        {
+          "name": "Jon Cossack",
+          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125934,
+      "name": "Fairy Wings",
+      "url": "https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY"
     },
     {
       "album": {
@@ -974,6 +1028,24 @@
       "duration_ms": 152990,
       "name": "Innamorarsi",
       "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
+    },
+    {
+      "album": {
+        "name": "Introspective",
+        "url": "https://open.spotify.com/album/2Mq0dTijsXUQmTB0A5tPp8"
+      },
+      "artists": [
+        {
+          "name": "Phlox Sage",
+          "url": "https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131411,
+      "name": "Introspective",
+      "url": "https://open.spotify.com/track/7d1CXUTMlMxmBWz3Mwsdvk"
     },
     {
       "album": {
@@ -1679,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Place to Remember",
+        "url": "https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8"
+      },
+      "artists": [
+        {
+          "name": "Rich Mortimer",
+          "url": "https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98403,
+      "name": "Place to Remember",
+      "url": "https://open.spotify.com/track/235xEvc5AelB56CsNzYew3"
+    },
+    {
+      "album": {
         "name": "Travelers",
         "url": "https://open.spotify.com/album/4xmZvsAbPgukLZBqVJX7th"
       },
@@ -1730,6 +1820,24 @@
       "duration_ms": 150000,
       "name": "Pour Vous",
       "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
+    },
+    {
+      "album": {
+        "name": "Prelude to Elegance",
+        "url": "https://open.spotify.com/album/4DiOIV9lYzorVb8SDsO4ys"
+      },
+      "artists": [
+        {
+          "name": "Paul Barber",
+          "url": "https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119570,
+      "name": "Prelude to Elegance",
+      "url": "https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE"
     },
     {
       "album": {
@@ -1996,7 +2104,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 131500,
       "name": "Seuls ensemble",
       "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
@@ -2183,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124930,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI"
+    },
+    {
+      "album": {
         "name": "Quiet Cove",
         "url": "https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL"
       },
@@ -2306,6 +2432,24 @@
       "duration_ms": 137361,
       "name": "The Garden Level",
       "url": "https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN"
+    },
+    {
+      "album": {
+        "name": "The little princess",
+        "url": "https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF"
+      },
+      "artists": [
+        {
+          "name": "Juno Erikson",
+          "url": "https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "The little princess",
+      "url": "https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2"
     },
     {
       "album": {

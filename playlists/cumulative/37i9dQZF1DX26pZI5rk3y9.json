@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
+      },
+      "artists": [
+        {
+          "name": "Nathan Cavaleri",
+          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322743,
+      "name": "Broken Lines",
+      "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
+    },
+    {
+      "album": {
         "name": "Broken Lines",
         "url": "https://open.spotify.com/album/09HbZ5nMFlQD9yeLDHUxh6"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 322743,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/6isCSAagqeyFiaJyvgajpc"

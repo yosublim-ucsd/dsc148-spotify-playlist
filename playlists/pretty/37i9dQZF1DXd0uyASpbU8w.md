@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=PBAFHo0PSNyThLORToY16A">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,992 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,028 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [Mandalorian](https://open.spotify.com/track/7DN3XdkOBIOHJHp8zTdsQj) | [Yan Solo](https://open.spotify.com/artist/1Oiea2hzGgw6aH7cATn1zi) | [Mandalorian](https://open.spotify.com/album/6cLWAw9a7WTBQ8FoHE1sZ9) | 7:36 |
 | 51 | [Smile](https://open.spotify.com/track/73A58WJLmuOpEyvpK2aK8w) | [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM) | [Smile](https://open.spotify.com/album/3szq0nUMpnDvCDTNo7rETP) | 3:57 |
 
-Snapshot ID: `MCw5OTJlM2U2NmY1OWRmNTRkOWZiNDdkODQ5MzI5OWI5ZTI0OWYyNWRk`
+Snapshot ID: `MCxlMDQzMjVlNjJjZWExYTBlMWJlODM1NzcyNTc1MjMxN2Q5ZmU2NmUz`

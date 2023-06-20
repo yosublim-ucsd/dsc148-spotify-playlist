@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Black Spirits: Festival Of New Black Poets In America",
+        "url": "https://open.spotify.com/album/7a1YK3qImW8STyefDCy8Yb"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24526,
+      "name": "Ladybird - Live At The Apollo Theater/1972",
+      "url": "https://open.spotify.com/track/7yTJtsQJ4UE0IvF7Zp9290"
+    },
+    {
+      "album": {
         "name": "MMM MMM (feat. ATL Jacob)",
         "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
       },

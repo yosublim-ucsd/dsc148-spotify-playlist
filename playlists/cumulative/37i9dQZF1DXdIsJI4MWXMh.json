@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Fue Dif\u00edcil",
+        "url": "https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224931,
+      "name": "Fu\u00e9 Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy"
+    },
+    {
+      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-174 songs - 15 hr 8 min
+175 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-13 |  |
 | [Footprints \(Remastered\)](https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Portrait](https://open.spotify.com/album/2VySoVcjtJ81MBjylAXmHL) | 7:29 | 2021-12-21 | 2022-04-21 |
 | [For my lady](https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl) | [For my lady](https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy) | 3:23 | 2023-03-16 |  |
+| [Frere Jacques](https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 3:09 | 2023-06-15 |  |
 | [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 | 2023-05-23 |  |
 | [Ginge](https://open.spotify.com/track/1zNREutkA7aZBqWGqMgl29) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/5VFcM7qzylqcPhnTbDHQEm) | 4:58 | 2021-12-21 | 2022-07-29 |
 | [Ginge](https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd) | 4:58 | 2022-06-30 |  |
@@ -79,7 +80,7 @@
 | [It Might as Well Be Spring](https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Yoav Eshed](https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:14 | 2022-06-02 | 2023-03-01 |
 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 | 2021-12-21 |  |
 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 |  |
-| [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 | 2023-03-07 |  |
+| [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 | 2023-03-07 | 2023-06-20 |
 | [Laura](https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r) | [Adam Nussbaum](https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi) | [Lead Belly Reimagined](https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R) | 4:47 | 2021-12-21 | 2023-03-08 |
 | [Let Love Be Genuine](https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Let Love Be Genuine](https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi) | 5:18 | 2023-02-07 |  |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |

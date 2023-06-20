@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 4 hr 25 min
+67 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 | 2022-05-24 |  |
 | [The Difference \- Willaris\. K Remix](https://open.spotify.com/track/3k45LqVsI4GoELWfOdd5eZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/album/3Svo8cKt8BQdIbJovBZ86w) | 3:19 | 2022-05-24 |  |
 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2022-05-24 |  |
-| [When I Go](https://open.spotify.com/track/1ZD51kpXHiTNqymmz3Yy6b) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Stars](https://open.spotify.com/album/2yYUpmLD0ePkmrErfSQCzL) | 3:24 | 2022-05-24 |  |
+| [When I Go](https://open.spotify.com/track/1ZD51kpXHiTNqymmz3Yy6b) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Stars](https://open.spotify.com/album/2yYUpmLD0ePkmrErfSQCzL) | 3:24 | 2022-05-24 | 2023-06-20 |
+| [When I Go](https://open.spotify.com/track/5EKXcCIPjXO0VxsQwArvd1) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Stars](https://open.spotify.com/album/48lHjI17WkWYLSrQyf4tLG) | 3:24 | 2022-05-24 |  |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-05-24 |  |
 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 | 2022-05-24 |  |
 

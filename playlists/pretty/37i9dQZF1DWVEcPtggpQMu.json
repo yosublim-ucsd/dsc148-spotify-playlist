@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=NSc5PqKLTKGtKxZlPDmBkg\">Cassper Nyovest</a>.",
-  "num_followers": 55903,
+  "num_followers": 55992,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmFkODdiOGU0YWNlNTMwZWVmODc4OGYyY2Q3MDZkZGY2ZjM4ZWVj",
+  "snapshot_id": "MCw4MjQ1MWZjOWZlNGMwZDFiMTFhMDZhYjYyZDExZTYwYzM0M2RmYzMy",
   "tracks": [
     {
       "added_at": "2023-06-15 21:59:00",
@@ -763,6 +763,26 @@
       "duration_ms": 213333,
       "name": "Shoda Ngami - Remix",
       "url": "https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw"
+    },
+    {
+      "added_at": "2023-06-19 08:31:42",
+      "album": {
+        "name": "The Return of Soshangane Skywalker, Vol. 2",
+        "url": "https://open.spotify.com/album/5T9MkoRRoBHsvKwK7zcaY7"
+      },
+      "artists": [
+        {
+          "name": "Carvo Cardo",
+          "url": "https://open.spotify.com/artist/3GzUUVmsUqlkaSfANSpKGF"
+        },
+        {
+          "name": "Kidd969",
+          "url": "https://open.spotify.com/artist/2bh1AfTffEwCiLrotYRhYF"
+        }
+      ],
+      "duration_ms": 223247,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1JJrt2Xrj1cyNWIG6p4VqK"
     },
     {
       "added_at": "2023-06-09 09:02:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Jeangu Macrooy
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,628 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,707 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 15 | [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 |
 | 16 | [Slow It Down](https://open.spotify.com/track/02sFZjfNx8PoBlRgZifQUG) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Slow It Down](https://open.spotify.com/album/36ZvISB24D2QaueXIz1Wks) | 5:10 |
 | 17 | [Imagine](https://open.spotify.com/track/3twYhdFChj2gHF0PZzDkHV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 2\)](https://open.spotify.com/album/6i6aGouu4Zr6BAcSGJI5JT) | 3:41 |
-| 18 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 |
+| 18 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 |
 | 19 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 |
 | 20 | [Are You into It](https://open.spotify.com/track/1tXvQnw1RNtcJDA36oFZYr) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Fuel to the Soul](https://open.spotify.com/album/1RgHDNuNWMDjp9DVdxYpOf) | 2:57 |
 | 21 | [You're My Girl](https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 74 | [Cherry](https://open.spotify.com/track/3ad5YheJ9rMdtQ6tjxWocI) | [James Sayer](https://open.spotify.com/artist/4gWPNRRA0vYlPxujZsFsKF) | [Cherry](https://open.spotify.com/album/2SE1UCUYgJkW2qdMEGO7wZ) | 2:53 |
 | 75 | [The Farmer](https://open.spotify.com/track/6E6BLeqT0pttSDS4OqP7e0) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [The Farmer](https://open.spotify.com/album/0x0EdZcQ8yFFD10KowmQSQ) | 3:17 |
 
-Snapshot ID: `MCw0NjMyZGRiM2EwYmFlMWQ4MDExMGVlODFmN2M4ZjJkNzkyZTU0ZmI0`
+Snapshot ID: `MCxhZThhOTZmYTc5YjY0ZDU5NDY5ZDA0ZDIxNzAyNzYyOTI1MDA4MzQ4`

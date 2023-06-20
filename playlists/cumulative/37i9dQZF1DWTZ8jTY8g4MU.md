@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-155 songs - 10 hr 12 min
+156 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [ركبوني فوق طياره](https://open.spotify.com/track/5Cz2OytkhByFhPubZVDXv5) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/04q2QDocqTA4o8vOvp9leU) | 5:14 | 2022-03-30 | 2022-11-03 |
 | [رهين الذكريات](https://open.spotify.com/track/1R6ZbF9uHDH9lkoaP0bvR9) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [رهين الذكريات](https://open.spotify.com/album/2alnpftldSK6UQLcNPzrt3) | 4:07 | 2023-02-22 | 2023-02-25 |
 | [روح الروح](https://open.spotify.com/track/3dcTAReKwy1FOUurL2H97I) | [ابو حنظله](https://open.spotify.com/artist/6VKZZWZui2euVAS6CbIbbj) | [روح الروح](https://open.spotify.com/album/6DEPTHShfyN0pfLapHQ8WC) | 3:10 | 2022-06-13 | 2022-12-14 |
+| [روح الروح](https://open.spotify.com/track/5aTyNGxklnVQSEDmnWf4mS) | [ابو حنظله](https://open.spotify.com/artist/6VKZZWZui2euVAS6CbIbbj) | [روح الروح](https://open.spotify.com/album/7LBsximZPE2j1U9lZdhPuS) | 3:10 | 2023-06-19 |  |
 | [روح ياخوان](https://open.spotify.com/track/6enpBkR6j3UrpImRSAG20s) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [روح ياخوان](https://open.spotify.com/album/26kTalsRnGK9WyNz4PinHx) | 5:13 | 2023-02-22 | 2023-02-25 |
 | [زله وحده](https://open.spotify.com/track/7sjZX9RQ3zY1C925ro4p9H) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [زله وحده](https://open.spotify.com/album/59TT0Uwjy06Ai5rFXBo7Ll) | 5:52 | 2022-08-31 |  |
 | [زله وحده](https://open.spotify.com/track/7wuYZNiyozTw03ITRSRc7j) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [زله وحده](https://open.spotify.com/album/4xErMLSD9NsxUn73wDwNxL) | 5:52 | 2022-03-30 | 2022-11-02 |

@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 174173,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/3xOiGSFA9YdlPJj03SRYXV"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 190733,
       "name": "Los Ojitos De Mi Elena",
       "url": "https://open.spotify.com/track/1DXMAe1PCJrXt6ZYYQFOpO"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 138226,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
@@ -1046,6 +1046,24 @@
       "duration_ms": 142640,
       "name": "No Porque Seas T\u00fa",
       "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9mame Los Ojos (Remasterizado)",
+        "url": "https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169593,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4rOVkiMwnw9j9dIoza5lKL"
     },
     {
       "album": {

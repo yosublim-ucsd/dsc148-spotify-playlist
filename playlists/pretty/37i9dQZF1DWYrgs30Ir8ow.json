@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Frenna",
-  "num_followers": 17106,
+  "num_followers": 17127,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTc3ZTZhMDk1ZjJhMjJlNDkwZTA0NTQ2OTFlMGQ3NzYzNGQwZTc0",
+  "snapshot_id": "MCxlNTYyZTExMzkyMjI4NmFmYzJjYzRlZWM4ZjA1MjkzOWNlNmZjZjNh",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -163,6 +163,30 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Feeling the Love Again (Explode)",
+        "url": "https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l"
+      },
+      "artists": [
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        },
+        {
+          "name": "Michael Rivera",
+          "url": "https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce"
+        },
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Feeling the Love Again (Explode)",
+      "url": "https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 261578,
       "name": "Kizomba (feat. Franglish, Jonna Fraser & Unleaded)",
       "url": "https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Feeling the Love Again (Explode)",
-        "url": "https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l"
-      },
-      "artists": [
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        },
-        {
-          "name": "Michael Rivera",
-          "url": "https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce"
-        },
-        {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Feeling the Love Again (Explode)",
-      "url": "https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd"
     },
     {
       "added_at": "2023-06-15 22:00:00",

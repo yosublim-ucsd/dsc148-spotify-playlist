@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 63117,
+  "num_followers": 63153,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRiZjE0MDQzOWYxMmJjYjNiNjE5ODg1YjczZGI3MjE0YWExMDJj",
+  "snapshot_id": "MCxmNjdjNjc5OTk2NGNmNDNlYjNmMjQ3MzY4M2UyOTJjMmY0OTk1YjA1",
   "tracks": [
     {
       "added_at": "2023-05-29 10:26:29",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Han Jan",
+        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 242982,
+      "name": "Han Jan - Edit",
+      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Work It (Soulwax Remix)",
         "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 286080,
       "name": "Work It - Soulwax Remix",
       "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "Han Jan",
-        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 242982,
-      "name": "Han Jan - Edit",
-      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 410880,
       "name": "I Go - Soulwax Remix",
       "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Bara Nova",
-          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
-        }
-      ],
-      "duration_ms": 334586,
-      "name": "My Lullaby for You",
-      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Sharevari",
         "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 523453,
       "name": "Iron 2021",
       "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Bara Nova",
+          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
+        }
+      ],
+      "duration_ms": 334586,
+      "name": "My Lullaby for You",
+      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "DIAMOND TAPE",
+        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 246101,
+      "name": "3AM IN CHELSEA",
+      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Club Eat",
         "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "DIAMOND TAPE",
-        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "3AM IN CHELSEA",
-      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "duration_ms": 452853,
+      "name": "Dance Tonight Revolution Tomorrow",
+      "url": "https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Blessed / Cleopatra Remixes",
         "url": "https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg"
       },
@@ -1775,26 +1791,6 @@
       "duration_ms": 398664,
       "name": "Blessed - Virgil Abloh Future-Jazz Remix",
       "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Abra",
-          "url": "https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia"
-        }
-      ],
-      "duration_ms": 271620,
-      "name": "Colourblind",
-      "url": "https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh"
     }
   ],
   "unique_name": "Runway",

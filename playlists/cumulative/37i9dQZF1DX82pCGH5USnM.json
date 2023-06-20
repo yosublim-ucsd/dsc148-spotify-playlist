@@ -8670,7 +8670,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 235826,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/1rY7EbYAhsGQfSlV4Bi7Kz"
@@ -10324,6 +10324,24 @@
       "duration_ms": 177611,
       "name": "skin shimmer",
       "url": "https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5"
+    },
+    {
+      "album": {
+        "name": "Slightly Irregular",
+        "url": "https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw"
+      },
+      "artists": [
+        {
+          "name": "longwayfromhome",
+          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Slightly Irregular",
+      "url": "https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j"
     },
     {
       "album": {

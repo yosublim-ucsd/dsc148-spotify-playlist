@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Sam Austins makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,696 likes - 101 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,688 likes - 101 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 101 | [Made Your Mama Cry](https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Made Your Mama Cry](https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c) | 2:38 |
 
-Snapshot ID: `MCw5OGU3NDAwZTEzNDg2OGU1OWNlNzY2NmQ5NDU0NWRiYzlhMWU5OGJi`
+Snapshot ID: `MCxlYjEwNjBlN2EyY2Q2ZTI1ZGU5OTUzMmJlNGRjMjFlZmVmNTNiZTBl`

@@ -10212,7 +10212,7 @@
     {
       "album": {
         "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY"
+        "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
       },
       "artists": [
         {
@@ -10223,6 +10223,24 @@
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180731,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
       "duration_ms": 181463,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c"

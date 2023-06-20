@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Close To the Water",
+        "url": "https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd"
+      },
+      "artists": [
+        {
+          "name": "Embrace the Rain",
+          "url": "https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Close To the Water",
+      "url": "https://open.spotify.com/track/1xP9ZeGYT6D20Mpw3phS88"
+    },
+    {
+      "album": {
         "name": "Esopus Creek",
         "url": "https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 98000,
       "name": "Forest Waterfall - Seamless",
       "url": "https://open.spotify.com/track/0NOpFrkdXNs8vI13WeS7F4"
@@ -239,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141694,
+      "name": "Hidden River",
+      "url": "https://open.spotify.com/track/1POqOx1gAFK8hazWhWOMtk"
+    },
+    {
+      "album": {
         "name": "Swedish Water Streams",
         "url": "https://open.spotify.com/album/0R1de3qcFqytuzgoRePMAF"
       },
@@ -250,7 +286,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 102000,
       "name": "Huge River - Seamless",
       "url": "https://open.spotify.com/track/11NG99zOBCi53U8DsVTSyG"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 118166,
       "name": "Rocky Waterfall",
       "url": "https://open.spotify.com/track/2uIO6in0n9d4ijRgQ0JjZH"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 210500,
       "name": "Soothing Forest Waterfall",
       "url": "https://open.spotify.com/track/4lWrHfVrp7PmP5bJ4CaiKo"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 118384,
       "name": "Steady River, Water on Rocks",
       "url": "https://open.spotify.com/track/0MwnX9BPBrIWPy76Sm5eUT"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 105528,
       "name": "Waterfall Distance",
       "url": "https://open.spotify.com/track/0vGRbGDwqrUmsdIJHT0B6p"

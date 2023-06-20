@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Jeangu Macrooy
 
-698 songs - 1 day 18 hr 49 min
+699 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,8 @@
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-28 | 2023-03-31 |
 | [Take Me Down To The River](https://open.spotify.com/track/6AtEB1oeOrQGuz8KeWzB8a) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Take Me Down To The River](https://open.spotify.com/album/705402Mi0vhq9gD2QVgbVp) | 2:43 | 2023-06-07 |  |
 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 | 2021-01-23 | 2022-04-29 |
-| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-30 |  |
+| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-30 | 2023-06-20 |
+| [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-07 |  |
 | [Take Time \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Untidy Soul](https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w) | 3:43 | 2022-01-27 | 2022-10-21 |
 | [Taking Off](https://open.spotify.com/track/0nkSKqUCfvf6ot0RapW9uu) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Taking Off](https://open.spotify.com/album/7hGrDXoFWMwu1ZzAeLHEhU) | 3:26 | 2023-06-07 |  |
 | [Talk](https://open.spotify.com/track/1HJ2LJYT0pTkt0tOkHGBbD) | [Noah Jaora](https://open.spotify.com/artist/55MeT25PvYzT71z71eWxVx) | [Talk](https://open.spotify.com/album/0A1ipBWloyH3yNAKtWVPnz) | 3:18 | 2020-08-10 | 2020-11-13 |

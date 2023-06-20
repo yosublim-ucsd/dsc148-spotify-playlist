@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,204 likes - 25 songs - 1 hr 42 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,205 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,8 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 23 | [Crestmoon](https://open.spotify.com/track/46laC2xpWtJSIBmFoFcpDm) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk), [Ego Death](https://open.spotify.com/artist/3ylzaJJItjsKnPkvy87cZp) | [Sanskrit EP](https://open.spotify.com/album/6uGEF0BjZ08mAk7jqHPeGP) | 3:27 |
 | 24 | [Head Rearranger](https://open.spotify.com/track/7HSnE5WcCrebbcZWTnTiPg) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Gallery Of Sound](https://open.spotify.com/album/78h5TmDIvJ6rBgLA3zOhoS) | 3:18 |
 | 25 | [Shake Junt](https://open.spotify.com/track/294cHNrHJPIfb5P6bmrgVf) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Snakes EP](https://open.spotify.com/album/63pVIy2B9lBCD5w2VknzzZ) | 4:13 |
+| 26 | [Charu](https://open.spotify.com/track/7zFSXAiV4pwPV7m6iFIYhI) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Charu](https://open.spotify.com/album/1ADKPhIEmCpWaXNeslYeFA) | 8:03 |
+| 27 | [Vanishing Point](https://open.spotify.com/track/0CeNIADHXHu3btTLzWaChr) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Vanishing Point](https://open.spotify.com/album/0RjwLoGe9oslfy3QYsbXt1) | 2:52 |
+| 28 | [What You Do](https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ) | [tsou](https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i) | [What You Do](https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4) | 3:27 |
 
-Snapshot ID: `MjIzNyxhM2JlMzVlYTc1Y2JiOWIzZmJiYTU4NzJmNmYzYjRiMTkwZDJhMTVk`
+Snapshot ID: `MjI0MCw1YmVmYzE3MjI5MDFiMWIzZjA0MTdkOGFmZTM3MWZiNzFjMTc4NmVh`

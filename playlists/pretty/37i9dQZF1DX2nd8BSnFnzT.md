@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,976 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,978 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 3 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
 | 4 | [Pensando No Oceano](https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [As Cartas Que Eu Nunca Enviei](https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4) | 4:38 |
 | 5 | [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 |
-| 6 | [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 |
+| 6 | [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí \- Vol\. 1](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 |
 | 7 | [Narciso](https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Narciso](https://open.spotify.com/album/4FLsDOobhQ9xRjNgyYHcFd) | 2:43 |
 | 8 | [Remédios](https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Remédios](https://open.spotify.com/album/5QyX1DXEcpmW6EIH3PPt2U) | 2:31 |
 | 9 | [Te Odeio](https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Cura](https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
 | 75 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 
-Snapshot ID: `MCxkMDA0NjNiM2Q3NzQxZjJiOTEyNWNlZjE2NjU5MGExNDAzMWUxMmIx`
+Snapshot ID: `MCw5NDZlMzVmNmM1MDk2ZDlmMzhjZWYyZTYyNWUwY2JkOTk1NWEyNTkx`

@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Always Gonna Need You",
+        "url": "https://open.spotify.com/album/2jdJ9OtnHA1Y2CiRzaInk4"
+      },
+      "artists": [
+        {
+          "name": "DJ Scottydog",
+          "url": "https://open.spotify.com/artist/6qbipg6rddpVH6auKqStzc"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Always Gonna Need You",
+      "url": "https://open.spotify.com/track/3ehLFbbQgaoNUfwzhXfJR1"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb"
       },

@@ -7950,10 +7950,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 156106,
       "name": "It's Getting Wild Getting Older",
       "url": "https://open.spotify.com/track/0G9fvf5rhuikgImXES2wbh"
+    },
+    {
+      "album": {
+        "name": "Do You Ever Wonder What Comes Next?",
+        "url": "https://open.spotify.com/album/4ROCJwS5ApQbHrSjo9FWft"
+      },
+      "artists": [
+        {
+          "name": "Loupe",
+          "url": "https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "It's Getting Wild, Getting Older",
+      "url": "https://open.spotify.com/track/50fS9NwUGreEtuMepeJ1Em"
     },
     {
       "album": {

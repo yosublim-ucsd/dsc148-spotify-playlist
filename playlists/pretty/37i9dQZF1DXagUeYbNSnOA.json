@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170487,
+  "num_followers": 170499,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjM5NjljZjE3Yjc5OTg0ZGUzOGMwNDQyMTdhZGRlOTlkZGJiYWM4",
+  "snapshot_id": "MCxjZTJlZjA4ZjFhODBiMzAxOWRkMzQ4YTIyZTU4YTIwOTg3MmI4MGFk",
   "tracks": [
     {
       "added_at": "2023-06-14 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Mi D\u00eda",
-        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
-      },
-      "artists": [
-        {
-          "name": "Joystick",
-          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
-        }
-      ],
-      "duration_ms": 213197,
-      "name": "Mi D\u00eda",
-      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Mi D\u00eda",
+        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
+      },
+      "artists": [
+        {
+          "name": "Joystick",
+          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+        }
+      ],
+      "duration_ms": 213197,
+      "name": "Mi D\u00eda",
+      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
+        "name": "Egyptian Romance",
+        "url": "https://open.spotify.com/album/58DXh1qxMNqffJp9TAey5A"
+      },
+      "artists": [
+        {
+          "name": "Acuario Cosmico",
+          "url": "https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "Egyptian Romance - Single Edit",
+      "url": "https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
         "name": "Puto Dolor",
         "url": "https://open.spotify.com/album/6KFc5WZfbluWAqFrfelZsd"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 129399,
       "name": "Puto Dolor",
       "url": "https://open.spotify.com/track/70NDK3N6tL7wc9isewlF6i"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
-        "name": "Egyptian Romance",
-        "url": "https://open.spotify.com/album/58DXh1qxMNqffJp9TAey5A"
-      },
-      "artists": [
-        {
-          "name": "Acuario Cosmico",
-          "url": "https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "Egyptian Romance - Single Edit",
-      "url": "https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
-        "name": "Reflejos",
-        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
-      },
-      "artists": [
-        {
-          "name": "Eleg\u00eda al Atardecer",
-          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
-        }
-      ],
-      "duration_ms": 236916,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
         "name": "Bien Pegao",
         "url": "https://open.spotify.com/album/5Z05D3PGbbNxbPFwX9QWep"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183911,
       "name": "Bien Pegao",
       "url": "https://open.spotify.com/track/1TSkSNmCN6r207Y3vOpETB"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
+      },
+      "artists": [
+        {
+          "name": "Eleg\u00eda al Atardecer",
+          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
+        }
+      ],
+      "duration_ms": 236916,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
     },
     {
       "added_at": "2023-06-14 05:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-06-14 05:00:00",
       "album": {
+        "name": "Disco Debut",
+        "url": "https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk"
+      },
+      "artists": [
+        {
+          "name": "Pol",
+          "url": "https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf"
+        }
+      ],
+      "duration_ms": 204175,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs"
+    },
+    {
+      "added_at": "2023-06-14 05:00:00",
+      "album": {
         "name": "La Vida, un Viaje",
         "url": "https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 316646,
       "name": "QUE ME AMES M\u00c1S",
       "url": "https://open.spotify.com/track/0vLqcjWHLFysQbTwGLmPD3"
-    },
-    {
-      "added_at": "2023-06-14 05:00:00",
-      "album": {
-        "name": "Disco Debut",
-        "url": "https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk"
-      },
-      "artists": [
-        {
-          "name": "Pol",
-          "url": "https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf"
-        }
-      ],
-      "duration_ms": 204175,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs"
     },
     {
       "added_at": "2023-06-14 05:00:00",

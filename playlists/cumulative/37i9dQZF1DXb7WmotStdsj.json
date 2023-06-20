@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 242926,
       "name": "Adieu El Ouzoubia",
       "url": "https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1"
@@ -2892,6 +2892,28 @@
       "duration_ms": 241110,
       "name": "\u0631\u0648\u062d\u0648 \u0644\u064a\u0647\u0627 \u0641\u064a\u062a \u0634\u0627\u0628 \u0639\u0628\u0627\u0633",
       "url": "https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi"
+    },
+    {
+      "album": {
+        "name": "\u0632\u0647\u0631\u064a \u0648\u0645\u064a\u0645\u0648\u0646\u064a",
+        "url": "https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh"
+      },
+      "artists": [
+        {
+          "name": "Cheb Mustapha",
+          "url": "https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1"
+        },
+        {
+          "name": "Tipo Belabbes",
+          "url": "https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258941,
+      "name": "\u0632\u0647\u0631\u064a \u0648\u0645\u064a\u0645\u0648\u0646\u064a",
+      "url": "https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg"
     },
     {
       "album": {

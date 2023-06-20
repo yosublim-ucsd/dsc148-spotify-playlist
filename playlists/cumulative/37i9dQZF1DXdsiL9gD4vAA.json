@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Ajnabee",
+        "url": "https://open.spotify.com/album/4UGDdDJ84KQ0V7zzEPoaay"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326660,
+      "name": "Ajnabee",
+      "url": "https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg"
       },

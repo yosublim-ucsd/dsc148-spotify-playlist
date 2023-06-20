@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > \*pinegrove shuffle intensifies\* Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,559 likes - 103 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,834 likes - 103 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 102 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 103 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCwzOTAzOGNjYjViYThlZDkzYzE4NWUxNzczYzFmZjEyZjUxMjgyN2Nm`
+Snapshot ID: `MCw5ZmNiMzhiMjA0M2Q0Y2Y1ZmMyMTQyMGVjNzIwODYyOGJhMmU3NTU4`

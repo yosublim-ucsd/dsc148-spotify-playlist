@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: CHO & Emms
 
-574 songs - 1 day 1 hr 50 min
+575 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 | 2022-10-20 | 2022-10-28 |
 | [Soms](https://open.spotify.com/track/5ZZIZrMLTS522ugFGeWccm) | [Remy](https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn), [Mas](https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT) | [Soms](https://open.spotify.com/album/7nXPkxb2RDVNWFchyw7uo5) | 2:22 | 2023-05-25 | 2023-06-02 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-13 | 2023-05-19 |
-| [soso](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 | 2023-05-18 |  |
+| [soso](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 | 2023-05-18 | 2023-06-20 |
+| [soso](https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 3:22 | 2023-06-14 |  |
 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2022-12-15 | 2023-02-10 |
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-10-13 | 2022-12-18 |
 | [Splash](https://open.spotify.com/track/0W5T6KsHZH1XfOTLnuWlgg) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Splash](https://open.spotify.com/album/5XxKAoAqJUAnVxpjswzcwN) | 2:08 | 2022-10-06 | 2022-11-26 |
@@ -527,7 +528,7 @@
 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 | 2022-07-14 | 2022-08-26 |
 | [Tuurlijk Voelt Ze Mij](https://open.spotify.com/track/5cwLimOJagMF4vAiZK60Wc) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Birthday Pack](https://open.spotify.com/album/38XUKcoyObX0WtOdIvbBFy) | 2:12 | 2022-11-07 | 2022-11-26 |
 | [U'r Bad](https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Dopeman](https://open.spotify.com/artist/3uPMES49lCQUHHnCaWaeLr) | [U'r Bad](https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX) | 2:26 | 2022-12-15 | 2023-04-07 |
-| [Uit De Ghetto](https://open.spotify.com/track/6zRHFkWlvJWJL4xdtZtTmN) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Uit De Ghetto](https://open.spotify.com/album/6zZdRNl00rDQLp2bpiFFi3) | 2:43 | 2023-06-08 |  |
+| [Uit De Ghetto](https://open.spotify.com/track/6zRHFkWlvJWJL4xdtZtTmN) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Uit De Ghetto](https://open.spotify.com/album/6zZdRNl00rDQLp2bpiFFi3) | 2:43 | 2023-06-08 | 2023-06-20 |
 | [Ulala](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Ulala](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2022-11-28 | 2022-12-09 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-06-01 |  |
 | [UNO](https://open.spotify.com/track/4OjKntAuj6ztxjwgXPu9QQ) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [UNO](https://open.spotify.com/album/0WaIrfyzHaOzTAb4jPjPGY) | 2:17 | 2022-08-25 | 2022-09-16 |

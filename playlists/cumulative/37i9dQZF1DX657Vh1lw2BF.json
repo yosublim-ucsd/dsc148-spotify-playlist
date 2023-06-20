@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 192182,
       "name": "Aerif Ealam",
       "url": "https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 220909,
       "name": "Alb Abyad",
       "url": "https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI"
@@ -168,6 +168,28 @@
       "duration_ms": 214804,
       "name": "Alhob Malik",
       "url": "https://open.spotify.com/track/3WgxnFv3nAsCdFaiRUdKbR"
+    },
+    {
+      "album": {
+        "name": "Aljawu Ahrkah",
+        "url": "https://open.spotify.com/album/5li76rsSP17tyl7C2xAEGr"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        },
+        {
+          "name": "Abdullah Alhameem",
+          "url": "https://open.spotify.com/artist/7tBqukCGsALuDvcw4yRfCZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Aljawu Ahrkah",
+      "url": "https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW"
     },
     {
       "album": {
@@ -626,6 +648,24 @@
       "duration_ms": 228750,
       "name": "EL Thoq AL Helw",
       "url": "https://open.spotify.com/track/1djs1SBvrnSFsuLySiGTHu"
+    },
+    {
+      "album": {
+        "name": "Enta",
+        "url": "https://open.spotify.com/album/4KMVSLQYqrR45A4lCRlkDJ"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203022,
+      "name": "Enta",
+      "url": "https://open.spotify.com/track/0vdAd6VLdK6Ln606IuirH6"
     },
     {
       "album": {
@@ -1116,7 +1156,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 198720,
       "name": "Kathurat Aalayh Alhumum",
       "url": "https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ"

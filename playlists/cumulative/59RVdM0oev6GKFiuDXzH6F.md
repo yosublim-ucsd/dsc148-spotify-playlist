@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-229 songs - 11 hr 3 min
+230 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-24 |  |
 | [State of Mind](https://open.spotify.com/track/4IFGiauDkB9nOiPrEw97F1) | [RYU & DANTE](https://open.spotify.com/artist/297i2RtGGQqofyuggOlE2l) | [State of Mind](https://open.spotify.com/album/4A8mUMRR5w7HoUALgYy0Pk) | 3:36 | 2023-05-12 |  |
 | [STRESS \- Andry J Remix](https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN) | [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi), [DJ Keys](https://open.spotify.com/artist/6dE1DevqS4To8Mb5VuvTbL), [Andry J](https://open.spotify.com/artist/2hAfluo80uBMGpmRI1kLF7) | [STRESS \(Andry J Remix\)](https://open.spotify.com/album/2m4fi5kR9BNloNaIS0hkeF) | 2:20 | 2023-03-31 | 2023-04-15 |
+| [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-19 |  |
 | [Surreal](https://open.spotify.com/track/4pYlVv7kVRH8CmU9pefdsE) | [Gotlucky](https://open.spotify.com/artist/0h3ZnunNbFkhUWGygorbVg) | [Surreal](https://open.spotify.com/album/57rt4sRTLfULAgMoZzqjvW) | 2:30 | 2023-05-28 |  |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-04-27 | 2023-05-24 |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-05-18 |  |

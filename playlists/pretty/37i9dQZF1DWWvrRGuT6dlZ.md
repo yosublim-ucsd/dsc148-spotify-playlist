@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Regina Song\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,046 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,047 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 110 | [stay](https://open.spotify.com/track/62pxANr0SHx8F59qDsd6rf) | [insy](https://open.spotify.com/artist/7dE8RqwRWd42hYIFYGLbDJ) | [stay](https://open.spotify.com/album/65DqTn1zP4NXsIek3dTozX) | 3:28 |
 | 111 | [warm udon](https://open.spotify.com/track/1ms370DnPCWGYZnskrpYlu) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi) | [candies](https://open.spotify.com/album/37bI4uV4mfgCvXFdq9nN8i) | 1:49 |
 
-Snapshot ID: `MCxiZmJhYWY2ODk0ZjlkYTRhNzI1ZGZlZTJkZDgxNjM0NjEyYjEyODQ5`
+Snapshot ID: `MCwxNmFlYmFjY2U4MzhlMWZjY2VhY2NhNGI0YjMzNjE4MDU0MmZhODQy`

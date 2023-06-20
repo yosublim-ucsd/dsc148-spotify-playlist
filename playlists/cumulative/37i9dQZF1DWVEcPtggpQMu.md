@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=NSc5PqKLTKGtKxZlPDmBkg">Cassper Nyovest</a>.
 
-533 songs - 1 day 5 hr 12 min
+534 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Sta Soft](https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Sta Soft](https://open.spotify.com/album/59Vl3fXba0pHYimUkuTzqV) | 3:25 | 2022-12-12 |  |
 | [Stack Up](https://open.spotify.com/track/4NffuNmrXK9kqWW846yENr) | [SlimPimp](https://open.spotify.com/artist/5bci5ZN0f3W5QZlkZr1ok0), [Mlue Jay](https://open.spotify.com/artist/3ong80qAS7HLPCbjfAXRO2) | [Zero Experience](https://open.spotify.com/album/3zGy84SUzyFSESyXqvEEgP) | 2:48 | 2022-07-08 | 2022-09-10 |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-12-12 |  |
+| [Stick](https://open.spotify.com/track/1JJrt2Xrj1cyNWIG6p4VqK) | [Carvo Cardo](https://open.spotify.com/artist/3GzUUVmsUqlkaSfANSpKGF), [Kidd969](https://open.spotify.com/artist/2bh1AfTffEwCiLrotYRhYF) | [The Return of Soshangane Skywalker, Vol\. 2](https://open.spotify.com/album/5T9MkoRRoBHsvKwK7zcaY7) | 3:43 | 2023-06-19 |  |
 | [Still](https://open.spotify.com/track/1R4ojHMaQU0T3cDGvsPmHo) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 3:29 | 2022-03-10 | 2022-04-01 |
 | [Street \- Live](https://open.spotify.com/track/40bHnFZ4wbTKo9JDYBDJMO) | [Yung Pride](https://open.spotify.com/artist/1QvzfURSNbYoxiLqqa9p2n) | [Street \(Live\)](https://open.spotify.com/album/5gsYnpQweexeWaK7FJg7QC) | 3:31 | 2022-02-03 | 2022-02-11 |
 | [Stronger](https://open.spotify.com/track/2zetch7a8zBaYtrZ15qnwo) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Stronger](https://open.spotify.com/album/1pPQAIpDEBMrbaLL1rFSpt) | 3:31 | 2023-06-18 |  |

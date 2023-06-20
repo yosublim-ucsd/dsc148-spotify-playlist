@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-313 songs - 17 hr 10 min
+314 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Back To Earth](https://open.spotify.com/track/3CUO0SWhrhiytjkKTfrMMj) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:01 | 2021-07-26 | 2022-07-27 |
 | [Back Up](https://open.spotify.com/track/3u2CXK1wTlyxRaY1WaxvVA) | [No Tourists](https://open.spotify.com/artist/0uBsS9dLSDqjW04F66Q6uI) | [Ultraviolet](https://open.spotify.com/album/4tkll1d7e1iMpgRzOmfFrQ) | 3:40 | 2021-07-26 | 2022-07-24 |
 | [Bag](https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 1:52 | 2021-10-01 | 2023-02-13 |
-| [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/632PCenoAviq31MsIh9eBM) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 2:43 | 2021-11-29 |  |
+| [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/632PCenoAviq31MsIh9eBM) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 2:43 | 2021-11-29 | 2023-06-20 |
 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2023-05-26 |  |
 | [bedroom floor \- Moods Remix](https://open.spotify.com/track/5i5LHbxQdOylqIx3Nxb17x) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [bedroom floor \(Moods Remix\)](https://open.spotify.com/album/6yxueMxDDOFGGARZeivkSj) | 2:55 | 2021-07-26 | 2022-07-29 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-01-27 | 2023-04-20 |
@@ -111,6 +111,7 @@
 | [Glitter](https://open.spotify.com/track/7agWuohVcbOkns4mv39sSR) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Glitter](https://open.spotify.com/album/72WGNkuPnGuedROSDXrfTl) | 2:51 | 2021-07-26 | 2022-07-07 |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2021-09-11 |  |
 | [Golden](https://open.spotify.com/track/72vRgf0oI9DQgyNMcB4qOB) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Golden](https://open.spotify.com/album/7IsikEbBC4flXX0jZKIezp) | 4:12 | 2021-07-26 | 2022-06-23 |
+| [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 | 2023-06-16 |  |
 | [Gonna Do](https://open.spotify.com/track/4hMgLl8bMkk9s33GWYzIb2) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Gonna Do](https://open.spotify.com/album/3jJjvCGzzqQHhZmCUgBK1C) | 2:25 | 2021-07-30 | 2022-04-13 |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-07-26 | 2022-07-20 |
 | [Got Em \(Sango Remix\)](https://open.spotify.com/track/52b5Bl2zPRRfZi7uinhGZR) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Got Em \(Sango Remix\)](https://open.spotify.com/album/5OukqaLZOrocuTI29rBiuO) | 3:41 | 2022-08-19 | 2022-08-27 |

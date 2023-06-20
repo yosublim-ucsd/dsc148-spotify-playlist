@@ -2,7 +2,7 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: Chara
+> 日本の女性アーティストの歌を特集。cover: 佐藤千亜妃
 
 1,444 songs - 3 day 21 hr 52 min
 

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-721 songs - 1 day 17 hr 15 min
+722 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Pink Sunrise](https://open.spotify.com/track/3sb8zAlAM6QM5VCvC8wOdx) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Pink Sunrise](https://open.spotify.com/album/5n716W7AzwaDWbQ4xuDntq) | 3:31 | 2020-12-02 | 2020-12-16 |
 | [Places](https://open.spotify.com/track/4bLzsR8A1cPUa2PCEebehR) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Places](https://open.spotify.com/album/3OkEuRKfQCYP7Kpko3ZWjk) | 2:21 | 2022-10-14 |  |
 | [Planet Erf](https://open.spotify.com/track/23PvmwEGxm8ENvPcFaaUCC) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:42 | 2022-04-15 | 2023-06-03 |
-| [Play Me](https://open.spotify.com/track/1rY7EbYAhsGQfSlV4Bi7Kz) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Play Me](https://open.spotify.com/album/22fUtAnCcO1YXREv81ilXX) | 3:55 | 2022-04-05 |  |
+| [Play Me](https://open.spotify.com/track/1rY7EbYAhsGQfSlV4Bi7Kz) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Play Me](https://open.spotify.com/album/22fUtAnCcO1YXREv81ilXX) | 3:55 | 2022-04-05 | 2023-06-20 |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 |  |
 | [Playthru](https://open.spotify.com/track/6gJmvaiNmOZWZoG7WRGJrO) | [Baron Grand](https://open.spotify.com/artist/1MmcsrLM2fdTjAf6tQu8SB) | [Remote Presence](https://open.spotify.com/album/3uZN27EbPINm5Pr8eHkA7F) | 3:07 | 2020-04-07 | 2020-11-19 |
 | [pleased as punch](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [pleased as punch](https://open.spotify.com/album/65ijOt7F7UB24RVOpELEXk) | 3:19 | 2022-12-23 |  |
@@ -575,6 +575,7 @@
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [skies](https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW) | [Setjet](https://open.spotify.com/artist/5blU4gW1Xn3kQ73i2brApA) | [skies](https://open.spotify.com/album/2mrrLqTtqzE0zm8cUQ9Ci7) | 3:24 | 2022-12-09 |  |
 | [skin shimmer](https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [skin shimmer](https://open.spotify.com/album/2DIDzDbyIq8rNX0VbnjCrG) | 2:57 | 2022-11-25 |  |
+| [Slightly Irregular](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [Slightly Irregular](https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw) | 2:56 | 2023-06-19 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-03-06 | 2022-01-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-09 | 2021-09-22 |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-20 | 2022-09-23 |

@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-168 songs - 8 hr 53 min
+169 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2023-05-05 |  |
 | [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-05-05 |  |
 | [Channels](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Channels](https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf) | 2:06 | 2023-05-05 |  |
+| [Ciel Bleu](https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Ciel Bleu](https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV) | 2:45 | 2023-06-19 |  |
 | [city parade](https://open.spotify.com/track/3Z6hzgUbB1EjqLPhiEkdpL) | [Jauq](https://open.spotify.com/artist/0lwiuBpQRgCFt8zC563wcp) | [jazzy night club](https://open.spotify.com/album/1qpZwZiOnqDB0XSeMJ8WSk) | 1:46 | 2023-05-05 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2023-05-05 |  |
 | [Cloudburn](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Cloudburn](https://open.spotify.com/album/5GHE6lBdu0U4Vk6UpJ79hq) | 2:30 | 2023-05-05 |  |
@@ -114,7 +115,7 @@
 | [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 |  |
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2023-05-05 |  |
 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 | 2023-05-26 |  |
-| [On You](https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [On You](https://open.spotify.com/album/4ueEYavC1Oasr5tRAPlYxj) | 4:24 | 2023-05-05 |  |
+| [On You](https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [On You](https://open.spotify.com/album/4ueEYavC1Oasr5tRAPlYxj) | 4:24 | 2023-05-05 | 2023-06-20 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2023-05-05 |  |
 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 | 2023-05-05 |  |
 | [Panorama](https://open.spotify.com/track/2KdKLnwFSmXPTFllAPXcQ4) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Panorama](https://open.spotify.com/album/5NRsQdDUtEx4l2shHW7yKm) | 2:49 | 2023-05-05 |  |

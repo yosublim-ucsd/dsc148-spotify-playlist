@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Ciel Bleu",
+        "url": "https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV"
+      },
+      "artists": [
+        {
+          "name": "YLLW",
+          "url": "https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Ciel Bleu",
+      "url": "https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw"
+    },
+    {
+      "album": {
         "name": "jazzy night club",
         "url": "https://open.spotify.com/album/1qpZwZiOnqDB0XSeMJ8WSk"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 264079,
       "name": "On You",
       "url": "https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT"

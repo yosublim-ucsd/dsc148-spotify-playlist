@@ -354,6 +354,24 @@
     {
       "album": {
         "name": "\u00c1mr",
+        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "Arcana Imperii",
+      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "album": {
+        "name": "\u00c1mr",
         "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
       },
       "artists": [
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 199240,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm"

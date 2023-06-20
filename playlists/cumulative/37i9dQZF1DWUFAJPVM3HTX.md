@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: King Sis\. Updates every Wednesday.
 
-1,385 songs - 2 day 23 hr 31 min
+1,386 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,7 +1302,8 @@
 | [Wake Up](https://open.spotify.com/track/2HwBTnJwIciESENvfiRYdw) | [D'mari Harris](https://open.spotify.com/artist/6rMZyhoEZxy9PXzp8ptuqd) | [The Prelude](https://open.spotify.com/album/39s7np5TuYJ8klPo2jGc39) | 3:08 | 2022-05-11 | 2022-07-02 |
 | [Walla](https://open.spotify.com/track/55HcTdeOk91pgrwzXoJVA0) | [Denise De'ion](https://open.spotify.com/artist/5ParVfWeW1G6hQYForkErf) | [Peace Of My Soul](https://open.spotify.com/album/5LAiUA1wULyyotoiLRZHSt) | 2:50 | 2023-03-31 |  |
 | [want you more](https://open.spotify.com/track/0zIuHmVNplQtTvYd3jxF31) | [Amaka Queenette](https://open.spotify.com/artist/7eYEOXDWwUBvBUD8BpRFuv) | [want you more](https://open.spotify.com/album/0HKKiz35H0v82Z4Mh0OUPi) | 4:34 | 2021-12-01 | 2022-01-13 |
-| [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-05-20 |  |
+| [Waste My Time](https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE) | 3:00 | 2023-05-20 |  |
+| [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-05-20 | 2023-06-20 |
 | [Waste No Time](https://open.spotify.com/track/1pqLOEfUhtpiwZh5hPMQpB) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Aligo](https://open.spotify.com/artist/3Uxu9FlhsNSPLfmXEurbFe) | [Waste No Time](https://open.spotify.com/album/0KBOUkdi56WwMOqTwdTkcx) | 3:48 | 2023-02-10 | 2023-05-06 |
 | [wasting](https://open.spotify.com/track/5ACFePwf0aIhieh3D6xC8r) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [wasting](https://open.spotify.com/album/77Jra4ODVhjybF694tHM7N) | 3:00 | 2022-08-19 | 2022-10-06 |
 | [Wasting Away](https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Wasting Away](https://open.spotify.com/album/1N9bfFra8XthSOIxiy7fAe) | 2:24 | 2022-08-26 | 2023-02-04 |

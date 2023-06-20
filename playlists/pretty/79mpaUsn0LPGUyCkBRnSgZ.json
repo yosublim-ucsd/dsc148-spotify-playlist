@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "OTExLGY4Y2IyNGVlODBiODlhY2E3MTk5YTg4OGI0Zjk1YjU4ZDc4NWUyOWI=",
+  "snapshot_id": "OTE0LDE0NzllMjAyNDY3MzJiZGY2OTBhOTk3YjU1NjJkODA5MzkwYTM3YWI=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3803,6 +3803,54 @@
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
+    },
+    {
+      "added_at": "2023-06-19 17:59:07",
+      "album": {
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 275317,
+      "name": "Sleeping Ute",
+      "url": "https://open.spotify.com/track/2PoqnzWrZku3y90o50wVNi"
+    },
+    {
+      "added_at": "2023-06-19 17:59:17",
+      "album": {
+        "name": "Yellow House",
+        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz"
+    },
+    {
+      "added_at": "2023-06-19 18:00:08",
+      "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Hangout at the Gallows",
+      "url": "https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY"
     }
   ],
   "unique_name": "Zacklog",

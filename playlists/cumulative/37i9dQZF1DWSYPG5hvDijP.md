@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover\- Munawar Faruqui
 
-116 songs - 6 hr 19 min
+118 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Fat Kid](https://open.spotify.com/track/2rYrke10PM98XvXoqJxIj8) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Fat Kid](https://open.spotify.com/album/0B9Kp31d5ACQZLfy5mYVqV) | 2:45 | 2023-03-29 | 2023-06-02 |
 | [First Time](https://open.spotify.com/track/3t12V5tOhYpII5lnsOPSWp) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Darcy](https://open.spotify.com/artist/3xvADMpYPWtCgilD8EljCp) | [First Time](https://open.spotify.com/album/7nst6x6pfFRYSYtBrw9BYp) | 2:55 | 2023-04-04 |  |
 | [Flex Kar](https://open.spotify.com/track/6Xt4fng2W4XDW2CWzGa0Nn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:41 | 2023-03-29 | 2023-04-17 |
+| [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 |  |
 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 | 2023-03-29 |  |
 | [GANGNUM](https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:50 | 2023-03-29 | 2023-04-17 |
 | [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 | 2023-04-04 |  |
@@ -122,6 +123,7 @@
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-29 | 2023-04-17 |
 | [Whoa There Nelly](https://open.spotify.com/track/6Rskn0hM0xj3t03foHpH7C) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [Whoa There Nelly](https://open.spotify.com/album/45IBRe4BcNOcF5RvTZGEn4) | 3:04 | 2023-03-29 |  |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-29 | 2023-04-17 |
+| [WZKD](https://open.spotify.com/track/3Gu3YTvfmGfNMNiI6FeTl2) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [WZKD](https://open.spotify.com/album/6fk68vB0oWyDoyTPW7Z0Gk) | 3:03 | 2023-06-19 |  |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-29 | 2023-04-17 |
 | [Zimmedaar](https://open.spotify.com/track/2OuL43cBc4phuvcU4vZcXP) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [A.O.D.](https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:04 | 2023-03-29 | 2023-04-17 |
 

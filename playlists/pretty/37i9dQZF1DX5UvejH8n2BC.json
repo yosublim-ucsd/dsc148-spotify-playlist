@@ -1,12 +1,12 @@
 {
   "description": "Female artists of Philadelphia International Records which is especially known for Philly Soul. Cover: The Jones Girls:\n",
-  "num_followers": 29527,
+  "num_followers": 29564,
   "original_name": "Women of Philly Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzViYTk4NzY5YWM3YWY4NWNmMTA3Y2NlNmFiMjY2N2ExM2RjNjJk",
+  "snapshot_id": "MCxkZTA5NGEzOGIxNjgwMzBjMzdmZjAzNjIxM2I0NjBjZTczMzM5Y2Y1",
   "tracks": [
     {
       "added_at": "2022-03-03 11:43:39",
@@ -143,70 +143,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Jones Girls",
-        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Who Can I Run To",
-      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 227160,
-      "name": "TSOP (The Sound of Philadelphia)",
-      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 298120,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "What Color Is Love",
         "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
@@ -227,6 +163,70 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "Sing About Life",
+        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+      },
+      "artists": [
+        {
+          "name": "The Ebonys",
+          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+        }
+      ],
+      "duration_ms": 330400,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "TSOP (The Sound of Philadelphia)",
+      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Who Can I Run To",
+      "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "The Legacy Of Phyllis Hyman",
         "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Jones Girls",
-        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
       "artists": [
         {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
         }
       ],
-      "duration_ms": 270786,
-      "name": "You Gonna Make Me Love Somebody Else",
-      "url": "https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH"
+      "duration_ms": 244973,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -275,18 +275,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Patti Labelle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u"
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 269706,
-      "name": "I Think About You",
-      "url": "https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G"
+      "duration_ms": 270786,
+      "name": "You Gonna Make Me Love Somebody Else",
+      "url": "https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "Patti Labelle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "I Think About You",
+      "url": "https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "Closer Than Close",
         "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Sing About Life",
-        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
         {
-          "name": "The Ebonys",
-          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 330400,
-      "name": "A Love of Your Own",
-      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+      "duration_ms": 291560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 291560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 296241,
       "name": "Was That All It Was",
       "url": "https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "The Spirit's In It",
-        "url": "https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -451,6 +435,22 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "The Spirit's In It",
+        "url": "https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "What Color Is Love",
         "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 298160,
       "name": "Nobody Could Take Your Place",
       "url": "https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Frantique",
-        "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
-      },
-      "artists": [
-        {
-          "name": "Frantique",
-          "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -519,18 +503,34 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Frantique",
+        "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
       },
       "artists": [
         {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+          "name": "Frantique",
+          "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
         }
       ],
-      "duration_ms": 263920,
-      "name": "No One Can Love You More",
-      "url": "https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2"
+      "duration_ms": 441666,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Patti Labelle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "You Are My Friend",
+      "url": "https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh"
     }
   ],
   "unique_name": "Women of Philly Soul",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/319226?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,960 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,979 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Wait for the season](https://open.spotify.com/track/14jkKW5OiVsHMzHGEeRn8p) | [Kohun Sisiters](https://open.spotify.com/artist/6GbuCgaGRqaxXXCJQnQnrC) | [Canon](https://open.spotify.com/album/63U8BhcuJwGT1WHGOMTZT7) | 3:31 |
 | 80 | [なりたいスター](https://open.spotify.com/track/5A7Ct9xnEP1gadsCYHYbem) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [なりたいスター](https://open.spotify.com/album/6CFmSJqmnpFw7kwKl3rCW6) | 1:51 |
 
-Snapshot ID: `MCwyYTc3M2M1N2I4ZTRjZDg3MDYxZDhkM2NhYzljNWM0MmM5Y2NkMzBh`
+Snapshot ID: `MCw2OGNiZGJhYTEyNDEwYWNlM2MwMzY5MTViYTBhNDMyZDNjOWQ4MDRm`

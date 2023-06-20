@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Closed to shadow",
+        "url": "https://open.spotify.com/album/7AQOl9RkQgZQY9Xdxg1zNn"
+      },
+      "artists": [
+        {
+          "name": "Tom Leaman",
+          "url": "https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115286,
+      "name": "Closed to shadow",
+      "url": "https://open.spotify.com/track/5EsZoxHaxhT4IxsYsa0l9T"
+    },
+    {
+      "album": {
         "name": "Corrente",
         "url": "https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E"
       },
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 74737,
       "name": "Ficelles",
       "url": "https://open.spotify.com/track/132Kp4GGfpNCDwiIOWygrg"
@@ -2687,6 +2705,42 @@
     },
     {
       "album": {
+        "name": "Morning Frost",
+        "url": "https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM"
+      },
+      "artists": [
+        {
+          "name": "Tom Merrall",
+          "url": "https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112692,
+      "name": "Morning Frost",
+      "url": "https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica De La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/7pJy6qLcQVxYYJ1bQXmCM4"
+      },
+      "artists": [
+        {
+          "name": "Scott Laudier",
+          "url": "https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119905,
+      "name": "M\u00fasica De La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY"
+    },
+    {
+      "album": {
         "name": "Nascondiglio",
         "url": "https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr"
       },
@@ -3610,6 +3664,24 @@
       "duration_ms": 134516,
       "name": "Serene Solitude",
       "url": "https://open.spotify.com/track/4HPckcgSQmxwMcAFOsJmGY"
+    },
+    {
+      "album": {
+        "name": "Shadows Cast Asunder",
+        "url": "https://open.spotify.com/album/1LaVIfUyiLKCxURtLnmtUo"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126662,
+      "name": "Shadows Cast Asunder",
+      "url": "https://open.spotify.com/track/4sFKNc6zO74tcqKt1x0pak"
     },
     {
       "album": {

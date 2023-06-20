@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,024 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,052 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 68 | [High Enough](https://open.spotify.com/track/6xpdm3roD6pYv6J5NWBulx) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Neurofire](https://open.spotify.com/album/5T10lmEkcXlEh9IlroOM9f) | 4:18 |
 | 69 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 70 | [Asmr](https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Double Penetration](https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1) | 2:50 |
-| 71 | [Do You Know \(I Go Crazy\)](https://open.spotify.com/track/4Z08iSbr5wXWsKUaY7BrsG) | [Angel City](https://open.spotify.com/artist/2u2rZtKdqVhHXK2xDC3dGO) | [Do You Know \(I Go Crazy\) \[Remixes\]](https://open.spotify.com/album/1gU7jm3yIY3JyOZZ425uex) | 6:51 |
+| 71 | [Do You Know \(I Go Crazy\)](https://open.spotify.com/track/4Z08iSbr5wXWsKUaY7BrsG) | [Angel City](https://open.spotify.com/artist/7cwm843vv3YM0XvGAf5zgL) | [Do You Know \(I Go Crazy\) \[Remixes\]](https://open.spotify.com/album/1gU7jm3yIY3JyOZZ425uex) | 6:51 |
 | 72 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
 | 73 | [Dove \(I'll Be Loving You\)](https://open.spotify.com/track/2YCesiSx9IgzW37uDAgtJ9) | [Moony](https://open.spotify.com/artist/1FXHK05nyBt3fmMYfQljRi) | [Dove \(I'll Be Loving You\)](https://open.spotify.com/album/6F27aWciswrYu0ZRZKGdaR) | 4:03 |
 | 74 | [SI QUIERES](https://open.spotify.com/track/5D4dCLzLPENujlx7fXLLP4) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [SI QUIERES](https://open.spotify.com/album/10abBenjM5Q4ZLGsq3qNnS) | 2:15 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 78 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MCwyOTMzYzIyZTNlMTBjYzg4OGY3ZWI3OThiMGFmNTlkNzM5ZjQ5YjY5`
+Snapshot ID: `MCwyYTFjNzdmN2M0MjdmNWY3YTIyMGI1OTc5YWU3NzIxMTZjZWQzNDU2`

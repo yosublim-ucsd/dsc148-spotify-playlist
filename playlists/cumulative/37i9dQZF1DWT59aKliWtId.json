@@ -3916,10 +3916,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 250840,
       "name": "Forgiving Ties",
       "url": "https://open.spotify.com/track/3pv0IJiSYPx531RuNSbtjR"
+    },
+    {
+      "album": {
+        "name": "Emotional Contracts",
+        "url": "https://open.spotify.com/album/1eAlZBKFhRBOIVugLGlxjd"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250840,
+      "name": "Forgiving Ties",
+      "url": "https://open.spotify.com/track/4KeytjJnD7zYA2e8S3oUJ3"
     },
     {
       "album": {

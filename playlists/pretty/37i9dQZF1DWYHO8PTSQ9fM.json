@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 293421,
+  "num_followers": 293859,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWQ0NzcxYzZiMWM3ZTUzYTg1ZWFjYjZkMTc5ZmMxZGM4N2VhMTZj",
+  "snapshot_id": "MCw3MTA5NzYzNWIzOTY5ZTU2MGFlNDRiYjk2MmU0YWNjNWQ2ZGQ2MmFk",
   "tracks": [
     {
       "added_at": "2023-06-15 23:00:00",
@@ -445,6 +445,26 @@
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
+      "added_at": "2023-06-19 12:39:33",
+      "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
       "added_at": "2023-06-15 23:00:00",
       "album": {
         "name": "WILI",
@@ -479,22 +499,6 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "LAYALI",
-        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 181507,
-      "name": "Reg Deg",
-      "url": "https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -873,28 +877,20 @@
       "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-19 12:39:33",
       "album": {
-        "name": "Habibi (Albanian Remix)",
-        "url": "https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj"
+        "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+        "url": "https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo"
       },
       "artists": [
         {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        },
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "DJ Gimi-O",
-          "url": "https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M"
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
         }
       ],
-      "duration_ms": 129589,
-      "name": "Habibi - Albanian Remix",
-      "url": "https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein"
+      "duration_ms": 190769,
+      "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+      "url": "https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr"
     }
   ],
   "unique_name": "Hot Hits Maghreb",

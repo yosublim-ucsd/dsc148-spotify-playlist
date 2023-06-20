@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,842 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,879 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 100 | [Over You](https://open.spotify.com/track/5sxaYBg4Om2jVNYiH1jbiS) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Over You](https://open.spotify.com/album/6Bs4k7VHSpHBxi5QoYNfxL) | 3:16 |
 
-Snapshot ID: `MCw0YjQxNjU5NTc2MTY0ZGYyNGJjMjBhNDEyNmM1MDY4MmE3ZmM0ZWU0`
+Snapshot ID: `MCw5NjI2YWMxNzZiNDQ0ODJjN2YxYjYyMDg2NGM5MGNmYWQyODUyZTk0`

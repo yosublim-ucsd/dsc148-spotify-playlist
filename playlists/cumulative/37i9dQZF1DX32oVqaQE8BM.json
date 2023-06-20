@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 165341,
       "name": "ethereal beach",
       "url": "https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh"
@@ -6526,6 +6526,24 @@
       "duration_ms": 149331,
       "name": "pulse rusher",
       "url": "https://open.spotify.com/track/5Ne7dzH1rPr07xZ9fR0u8n"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/6FiKg8yY7tOK2txKXUpFcb"
+      },
+      "artists": [
+        {
+          "name": "Miss u Lots",
+          "url": "https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/26bvQf4ljKD95E8EsAlBRq"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 25 years of "Never Say Never." Cover: Brandy
+> The most essential R&B songs from the 90s\. Cover: Brandy
 
 131 songs - 9 hr 55 min
 

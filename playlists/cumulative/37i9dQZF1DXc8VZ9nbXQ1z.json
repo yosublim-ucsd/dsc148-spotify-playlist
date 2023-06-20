@@ -71,6 +71,32 @@
     },
     {
       "album": {
+        "name": "Abandonado",
+        "url": "https://open.spotify.com/album/0SNfRpT7YCBd6i5I0si95S"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Da Mike",
+          "url": "https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352119,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/4ngQ5ka9uIfgj724T89fGp"
+    },
+    {
+      "album": {
         "name": "Abandonment Issues",
         "url": "https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb"
       },
@@ -346,7 +372,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 448620,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2SfuL6MWdfHkI00BnJvHyl"
@@ -394,6 +420,24 @@
       "duration_ms": 314754,
       "name": "Ardiente - Ardiente Vocal Mix",
       "url": "https://open.spotify.com/track/2FV17jHQk8VLBw2ihxFAay"
+    },
+    {
+      "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/6DicXAqLVARWKDcwa2xJJD"
+      },
+      "artists": [
+        {
+          "name": "Thee Suka",
+          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360005,
+      "name": "Army Of Angels",
+      "url": "https://open.spotify.com/track/2dnIq7FQEMEZc5KooZVFOy"
     },
     {
       "album": {
@@ -596,7 +640,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 441875,
       "name": "Benjamin's Bridge",
       "url": "https://open.spotify.com/track/7eKMhLssS2sj9TgQ5zooHA"
@@ -662,7 +706,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 429279,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP"
@@ -911,6 +955,32 @@
     },
     {
       "album": {
+        "name": "Closure (Da Capo Remix)",
+        "url": "https://open.spotify.com/album/2GeA9Jyw55B23Oza46uTrC"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Lisa M",
+          "url": "https://open.spotify.com/artist/5sHfCQraWdRFT6ctrXQU71"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432125,
+      "name": "Closure - Da Capo Remix",
+      "url": "https://open.spotify.com/track/7cu8ApnsJEQd55s5zLnnxv"
+    },
+    {
+      "album": {
         "name": "Colorblind (WhoMadeWho Remix)",
         "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
@@ -1098,7 +1168,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 377904,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1I1tcgZx6J1IHeZqWa3611"
@@ -1536,7 +1606,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 253680,
       "name": "Emayeda",
       "url": "https://open.spotify.com/track/2zcn52IVGQEcasQrqnIdbI"
@@ -1616,7 +1686,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 448522,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4q9UbxyYna7jBIwYwCpkJK"
@@ -2185,6 +2255,32 @@
     },
     {
       "album": {
+        "name": "Hometalk (Tau's 608 Remix)",
+        "url": "https://open.spotify.com/album/2MeACnZwYfpeQwg53mc9e2"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "TAU (BW)",
+          "url": "https://open.spotify.com/artist/4M43WLHD3zKA8Pe9XMpRPk"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194462,
+      "name": "Hometalk (Tau's 608 Remix)",
+      "url": "https://open.spotify.com/track/04XVSACKonvvxnhsBTJJqN"
+    },
+    {
+      "album": {
         "name": "Tusset (Edit)",
         "url": "https://open.spotify.com/album/2nPconwP8yA388alo8WUhU"
       },
@@ -2248,6 +2344,32 @@
       "duration_ms": 565063,
       "name": "Horizon Red - Black Coffee Remix",
       "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+    },
+    {
+      "album": {
+        "name": "House of Blessings",
+        "url": "https://open.spotify.com/album/4H1TPi17rOWuI20AcQWqbg"
+      },
+      "artists": [
+        {
+          "name": "Mobi Dixon",
+          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
+        },
+        {
+          "name": "Dj Vitoto",
+          "url": "https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD"
+        },
+        {
+          "name": "Verseless",
+          "url": "https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353305,
+      "name": "House of Blessings",
+      "url": "https://open.spotify.com/track/7u0aML7np1BV7x0SPtL0UI"
     },
     {
       "album": {
@@ -2866,7 +2988,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 483750,
       "name": "Journey To Motherland - Gumz Remix",
       "url": "https://open.spotify.com/track/6qfabnahC2NxddfjfRG0BN"
@@ -3835,6 +3957,28 @@
     },
     {
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/20NtnSIuyGh9W3ywaAWuyy"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382776,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
+    },
+    {
+      "album": {
         "name": "Moran",
         "url": "https://open.spotify.com/album/34ZvcVmC0rCsCQQEpUsBSf"
       },
@@ -4363,6 +4507,28 @@
     },
     {
       "album": {
+        "name": "Njenge Nkanyezi",
+        "url": "https://open.spotify.com/album/3nWkNVewhbdFIN3ctnpjrj"
+      },
+      "artists": [
+        {
+          "name": "Lemon & Herb",
+          "url": "https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w"
+        },
+        {
+          "name": "Tsholofelo",
+          "url": "https://open.spotify.com/artist/2vXaREJMMLUfEj5ziaEf0y"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Njenge Nkanyezi",
+      "url": "https://open.spotify.com/track/3p2xwxdNBSS8IhgHAsR5eh"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Beating",
         "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
@@ -4378,7 +4544,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 350000,
       "name": "No Rainbow",
       "url": "https://open.spotify.com/track/1AfjVOW1tXh1gLT0pJ5IMz"
@@ -4532,7 +4698,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
@@ -4792,7 +4958,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 385573,
       "name": "Perception",
       "url": "https://open.spotify.com/track/7AbkMpd8eiWVav6m814tlo"
@@ -5024,7 +5190,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 484889,
       "name": "Pushing Hard - Manoo Remix",
       "url": "https://open.spotify.com/track/7k3ks8WWK9wBCjpNLN1SVC"
@@ -5396,7 +5562,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 321322,
       "name": "Sand Traveller - Boddhi Satva Ancestral Soul Mix",
       "url": "https://open.spotify.com/track/1w6TyxucoRsRLd5DtfkWnD"
@@ -5839,6 +6005,28 @@
     },
     {
       "album": {
+        "name": "Start The Fire",
+        "url": "https://open.spotify.com/album/20z7W6isoaSoIT7P5jOmS4"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222903,
+      "name": "Start The Fire",
+      "url": "https://open.spotify.com/track/6NIX8pnaWGV7gDTpM0em4a"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/73jVx22vju0jH81J29UarS"
       },
@@ -6166,10 +6354,32 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 155125,
       "name": "The Harvest",
       "url": "https://open.spotify.com/track/3y7gWBoznU8eRzbHrhchEh"
+    },
+    {
+      "album": {
+        "name": "The Hi",
+        "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456097,
+      "name": "The Hi",
+      "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
     },
     {
       "album": {
@@ -6254,6 +6464,32 @@
       "duration_ms": 444299,
       "name": "The Past - Sascha Braemer Remix",
       "url": "https://open.spotify.com/track/3vYXCxuoiIPfHkXo0HyDlB"
+    },
+    {
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
       "album": {
@@ -6740,7 +6976,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 330676,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4voAxa0yckZ5rmwbSkZjwA"
@@ -6858,7 +7094,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 342000,
       "name": "Vulani - The Bassetti Remixes - Giorgio Bassetti Remix",
       "url": "https://open.spotify.com/track/1zCjH5RA69uD8E4th2wqnF"
@@ -6916,7 +7152,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 472200,
       "name": "Wangila",
       "url": "https://open.spotify.com/track/1EBtwghC5Z4rpXlh6mtWiO"
@@ -7030,7 +7266,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 481999,
       "name": "We Belong - Hyenah\u2018s So Much Love Remix",
       "url": "https://open.spotify.com/track/22klusw4Xxa2CP9Us09Gws"
@@ -7103,6 +7339,36 @@
     },
     {
       "album": {
+        "name": "Won\u2019t Say",
+        "url": "https://open.spotify.com/album/1tY81UZp9JETMhQsVcBz1t"
+      },
+      "artists": [
+        {
+          "name": "Re.You",
+          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
+        },
+        {
+          "name": "Jim Hickey",
+          "url": "https://open.spotify.com/artist/3MrP5NiUQ2Nb8Qdgt1i6LU"
+        },
+        {
+          "name": "SANREY",
+          "url": "https://open.spotify.com/artist/46annwDZfulXaz0NpFvGfl"
+        },
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416528,
+      "name": "Won\u2019t Say - Fiona Kraft Remix",
+      "url": "https://open.spotify.com/track/1XltH6YyKaM9CALWCEOSGE"
+    },
+    {
+      "album": {
         "name": "DUOII",
         "url": "https://open.spotify.com/album/56w6WDcxUQbnlaZGwCvoLs"
       },
@@ -7152,6 +7418,28 @@
       "duration_ms": 393060,
       "name": "Words - Cee ElAssaad Acid Remix",
       "url": "https://open.spotify.com/track/4LiIcgJzUsfCw2cA97DbZJ"
+    },
+    {
+      "album": {
+        "name": "Mhalamhala",
+        "url": "https://open.spotify.com/album/4GOgQiICB1COzZMix230BM"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323906,
+      "name": "Xurhisa",
+      "url": "https://open.spotify.com/track/3J9ShbGGoRMhl6a1xO75Kc"
     },
     {
       "album": {

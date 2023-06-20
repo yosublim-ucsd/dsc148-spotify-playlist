@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5aF9dL42UZ754k72o35CXW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Queen Charlotte's Global Orchestra",
+          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295960,
+      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Spanish Version",
+      "url": "https://open.spotify.com/track/7GgLzAU45zlpbl1c5FQeOE"
+    },
+    {
+      "album": {
         "name": "Bridgerton (Covers from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
       },

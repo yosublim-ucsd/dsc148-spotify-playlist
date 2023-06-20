@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=2RQQfnbdQy6PfmnM9el9Kw"> Bloody Civilian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,381 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,443 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 |
 | 70 | [Breathe](https://open.spotify.com/track/699RAgFdoNpI5o1TxAFjej) | [Shaun Mbah](https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb) | [Breathe](https://open.spotify.com/album/3NZ6PcH6TPgZRBZJjLzwE5) | 2:20 |
 
-Snapshot ID: `MCw3MjQ5NzhjZDdlNjhlNDUyZWM4NDYwOGVhNjYxOGIzMzhmNTVjYzhl`
+Snapshot ID: `MCxlNTM4ZDgwMmYyNTU3NTU0OWYxYzYwNmYzYTAzZWY2N2MzZTcyYmMy`

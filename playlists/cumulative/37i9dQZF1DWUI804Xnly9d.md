@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-101 songs - 5 hr 38 min
+102 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 |  |
 | [Tere Bin Laage](https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Tere Bin Laage](https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP) | 3:29 | 2023-05-17 |  |
 | [Tere Hawaale](https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Laal Singh Chaddha](https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9) | 5:46 | 2023-05-17 |  |
-| [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-17 |  |
+| [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-17 | 2023-06-20 |
 | [Thaame Rakhna](https://open.spotify.com/track/3Rp9U5qoyJNzYxLcEmMjfe) | [Prince Pratap](https://open.spotify.com/artist/6wP48O059dwfMpGloiaDra) | [Thaame Rakhna](https://open.spotify.com/album/51wJe8zQhvEfnowqzQZpiM) | 3:30 | 2023-06-15 |  |
 | [Titliyaan](https://open.spotify.com/track/1Ncb4Zv8xYCuC6EPHTS69t) | [Rock Paper Scissor](https://open.spotify.com/artist/46kcuAgO47TO6w9aMkYyMh), [Creative Fuss](https://open.spotify.com/artist/24CF30jDhMsWMPfjj63BaO), [Adhirath Sitoke](https://open.spotify.com/artist/4wIQ1CmQY1Tgoi1IGsZR75), [Pranav Joshi](https://open.spotify.com/artist/171ot79N1M9Rjbm12gMiwy), [Deval Parikh](https://open.spotify.com/artist/6N47RHaFTSFvBC0rc4XUNJ), [Dhrumil Pancholi](https://open.spotify.com/artist/2dY68o963TDOTfDsPjqzz9), [Sagar Shinde](https://open.spotify.com/artist/6N3qA59b9xiIP2qdUX40e0), [Akash Vyas](https://open.spotify.com/artist/2YgkDObS7yRNsMmGqlinPH), [Tathastu Bhangaokar](https://open.spotify.com/artist/6J10oZcw3AiOejNtJH1cO8), [Siddhant Suryvanshi](https://open.spotify.com/artist/2zolZilF6OKxGIRb8ozM38), [Vrushti Chauhan](https://open.spotify.com/artist/1LDn3Z8Zsly8iMgDGpsLeS) | [Titliyaan](https://open.spotify.com/album/0GO2GfFkbGOQM9EjPsbe81) | 4:04 | 2023-05-17 | 2023-05-27 |
 | [Tu Aisa Kaise Hai](https://open.spotify.com/track/0op7p4Q6gFh44KKeTaKocv) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:37 | 2023-05-17 |  |
@@ -107,6 +107,7 @@
 | [Waqt](https://open.spotify.com/track/3buNym71LEMqC24JqZjiwd) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:01 | 2023-06-12 |  |
 | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/track/6hQieOPS0HX8OC9R4TadKm) | [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un), [Danish Sood](https://open.spotify.com/artist/5HH9WTgUzO8ZIiqrxPiwiv) | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/album/3H64nyK26KvB3I6hnKrudB) | 2:06 | 2023-05-17 |  |
 | [Wo Mere Saath Saath](https://open.spotify.com/track/4duYnnrZthODike5XEcARR) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Wo Mere Saath Saath](https://open.spotify.com/album/64C0SHLVUXuDXuXFzoKBjT) | 5:04 | 2023-06-06 |  |
+| [Yahi Sach Hai](https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [Yahi Sach Hai](https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA) | 6:14 | 2023-06-19 |  |
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 |  |
 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 | 2023-05-17 |  |
 

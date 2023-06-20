@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Junior Zamora\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,487 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,499 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 |
 | 21 | [BAYYBEE](https://open.spotify.com/track/5BXc47CdELoot8LvmXKSdy) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH), [Izzy Mxntana](https://open.spotify.com/artist/7GAIcjNsFaCmVoeGal3Gjz) | [BAYYBEE](https://open.spotify.com/album/4CYX9wN5jZv8ZLDEV5THrj) | 2:12 |
 | 22 | [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 |
-| 23 | [Mi Día](https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Mi Día](https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7) | 3:33 |
-| 24 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 |
+| 23 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 |
+| 24 | [Mi Día](https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Mi Día](https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7) | 3:33 |
 | 25 | [me encontré](https://open.spotify.com/track/2MnNO6OX0AZxByx2WXo2AU) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [me encontré](https://open.spotify.com/album/4Sdxwp2KJdBwLIyBiBIWiv) | 2:46 |
 | 26 | [Decídete Ya](https://open.spotify.com/track/4iedbwRE826EbNbduXeODX) | [Nalo Neptuno](https://open.spotify.com/artist/0B8lDxfcYHwAvhgYivcLE9) | [Decídete Ya](https://open.spotify.com/album/4UB4sHxB0jKNHXbrHGNUii) | 2:14 |
 | 27 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 |
 | 28 | [Pistas](https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Pistas](https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h) | 3:08 |
-| 29 | [Puto Dolor](https://open.spotify.com/track/70NDK3N6tL7wc9isewlF6i) | [Kid Dolce](https://open.spotify.com/artist/2uftEzqvPp8ujxV1Xh1T1R), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [lschico](https://open.spotify.com/artist/2WBOQn0db0Zo2Ww73OS8DN) | [Puto Dolor](https://open.spotify.com/album/6KFc5WZfbluWAqFrfelZsd) | 2:09 |
-| 30 | [Egyptian Romance \- Single Edit](https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Egyptian Romance](https://open.spotify.com/album/58DXh1qxMNqffJp9TAey5A) | 2:59 |
+| 29 | [Egyptian Romance \- Single Edit](https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Egyptian Romance](https://open.spotify.com/album/58DXh1qxMNqffJp9TAey5A) | 2:59 |
+| 30 | [Puto Dolor](https://open.spotify.com/track/70NDK3N6tL7wc9isewlF6i) | [Kid Dolce](https://open.spotify.com/artist/2uftEzqvPp8ujxV1Xh1T1R), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X), [lschico](https://open.spotify.com/artist/2WBOQn0db0Zo2Ww73OS8DN) | [Puto Dolor](https://open.spotify.com/album/6KFc5WZfbluWAqFrfelZsd) | 2:09 |
 | 31 | [Salvaje](https://open.spotify.com/track/4poJASsAQ5WAi8565dHLOV) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Salvaje](https://open.spotify.com/album/0IPAKI1Q1PuyGRl5r8bFfX) | 1:36 |
 | 32 | [music to walk away to](https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [music to walk away to](https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF) | 3:01 |
-| 33 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 |
-| 34 | [Bien Pegao](https://open.spotify.com/track/1TSkSNmCN6r207Y3vOpETB) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Bien Pegao](https://open.spotify.com/album/5Z05D3PGbbNxbPFwX9QWep) | 3:03 |
+| 33 | [Bien Pegao](https://open.spotify.com/track/1TSkSNmCN6r207Y3vOpETB) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Bien Pegao](https://open.spotify.com/album/5Z05D3PGbbNxbPFwX9QWep) | 3:03 |
+| 34 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 |
 | 35 | [Relax](https://open.spotify.com/track/50nOege5wZgsARHydcDt9w) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Relax](https://open.spotify.com/album/6Wa5Mv3MDKXO2SDcNT0U8z) | 2:59 |
 | 36 | [Invisible](https://open.spotify.com/track/3KWMGpql85yMwaX2i2i4NT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Invisible](https://open.spotify.com/album/7mCzqBbsF9gAiKPn2AZEyg) | 3:59 |
 | 37 | [Los Quietos](https://open.spotify.com/track/6giN2giobpr3EBaGpXr2jp) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Los Quietos](https://open.spotify.com/album/64GjFvBaZbuazhtB653Qri) | 3:16 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [Escape](https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Escape](https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE) | 3:17 |
 | 40 | [Tormenta](https://open.spotify.com/track/0qn59rMBlBDiGqYRGTQ9Ad) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Tormenta](https://open.spotify.com/album/0rmIJRIgJh2o3pEXeTRFpM) | 3:23 |
 | 41 | [T Amo](https://open.spotify.com/track/3nMJ9HFjOqRaAlb6emFah5) | [Santi Valencia](https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX) | [T Amo, Me Odias ??](https://open.spotify.com/album/04Uh64r1eEy4KZLEiICPIy) | 2:51 |
-| 42 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 |
-| 43 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
-| 44 | [Magnetismo](https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo) | [Le Montro](https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS) | [Magnetismo](https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r) | 2:48 |
-| 45 | [QUE ME AMES MÁS](https://open.spotify.com/track/0vLqcjWHLFysQbTwGLmPD3) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [QUE ME AMES MÁS](https://open.spotify.com/album/02qeWYaKjDSztR8J0gLXJ9) | 5:16 |
-| 46 | [Big Bang](https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Disco Debut](https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk) | 3:24 |
+| 42 | [Big Bang](https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Disco Debut](https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk) | 3:24 |
+| 43 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 |
+| 44 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
+| 45 | [Magnetismo](https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo) | [Le Montro](https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS) | [Magnetismo](https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r) | 2:48 |
+| 46 | [QUE ME AMES MÁS](https://open.spotify.com/track/0vLqcjWHLFysQbTwGLmPD3) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [QUE ME AMES MÁS](https://open.spotify.com/album/02qeWYaKjDSztR8J0gLXJ9) | 5:16 |
 | 47 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 |
 | 48 | [Mirror Mirror](https://open.spotify.com/track/1UkfHQTU3fFxWiodNnaENa) | [The Mañanas](https://open.spotify.com/artist/0FGyNRcUfWjBuMFvJ6WaN2) | [3000](https://open.spotify.com/album/0JI1U3nwaRZdvx77KpSqUA) | 2:48 |
 | 49 | [Nómada](https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d) | [Neomadas](https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H) | [Nómada](https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP) | 4:21 |
 | 50 | [Rayo De Mayo](https://open.spotify.com/track/4Vw5SSZbKzZVwfkwoLuz0q) | [El Banner](https://open.spotify.com/artist/1TqMGmr38iMBZiTOj4erkB) | [Rayo De Mayo](https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F) | 3:21 |
 
-Snapshot ID: `MCxhMjM5NjljZjE3Yjc5OTg0ZGUzOGMwNDQyMTdhZGRlOTlkZGJiYWM4`
+Snapshot ID: `MCxjZTJlZjA4ZjFhODBiMzAxOWRkMzQ4YTIyZTU4YTIwOTg3MmI4MGFk`

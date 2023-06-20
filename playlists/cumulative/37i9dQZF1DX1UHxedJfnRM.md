@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-134 songs - 9 hr 58 min
+135 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 | 2022-05-13 |  |
 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 | 2022-05-13 |  |
 | [Sin Ti](https://open.spotify.com/track/60Lkn19mTVKexNrbIvqgos) | [La Perú Salsa All Star](https://open.spotify.com/artist/6LraR5S4VeqSQ5NflpY0GI) | [Juntos en Lo Mejor](https://open.spotify.com/album/4QYksnq4JOQhxeOCQCiffK) | 5:27 | 2022-05-13 |  |
-| [Sincero \(Versión Salsa\)](https://open.spotify.com/track/5Zqw6aZ5zqVcpo1D9rFxhD) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/4VeUVQDF5zX4oyELx7ewIA) | 3:05 | 2023-04-27 |  |
+| [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 | 2023-05-12 |  |
+| [Sincero \(Versión Salsa\)](https://open.spotify.com/track/5Zqw6aZ5zqVcpo1D9rFxhD) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/4VeUVQDF5zX4oyELx7ewIA) | 3:05 | 2023-04-27 | 2023-06-20 |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-05-13 | 2023-05-11 |
 | [Sobrio](https://open.spotify.com/track/29GaFL3B4650i21U2rbC6h) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Sobrio](https://open.spotify.com/album/3dlegWqWB5ChqSrQKLiR6h) | 4:11 | 2022-05-13 |  |
 | [Te Dejo Libre](https://open.spotify.com/track/2RFF5DiKhaHPGha0YhUtRb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/5Vq3L6xD3iDFJ9iCrZofxt) | 3:56 | 2022-07-15 | 2022-09-20 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover: Muslim \- مُسلِم
+> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws?si=Yg4x1gyjQqerUYAXP4r6Xw">Wael Kfoury</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,225 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,545 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 49 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 |
 | 50 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 |
 
-Snapshot ID: `MCxjYTc4OGIxN2RlMTM0MWZjYWEzMzIxNjc1YzQ2MTUwNWU5MjQ4MzRm`
+Snapshot ID: `MCw1YTlhYWRlNTZjNDVhODZjODkzNGE5ZDEwNTQ0MGFjNDJmNDM5MTc5`

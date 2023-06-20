@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 127842,
+  "num_followers": 127883,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmI5NDk2NjM0ZjY1NWE5MjFhMDAyNzJiZGMwYmVkZGUxOTA2M2Y2",
+  "snapshot_id": "MCxhZWU1NWNlYmVkMmZjM2E3YmU1NzM1YjFhOGI1ZWMyZjQ3NjYxYTk1",
   "tracks": [
     {
       "added_at": "2023-05-03 06:47:29",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "I'll Be Okay",
         "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
         "name": "Byen",
         "url": "https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD"
       },
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
-      },
-      "artists": [
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        }
-      ],
-      "duration_ms": 265192,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "It's Album Time",
         "url": "https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 268440,
       "name": "Strandbar",
       "url": "https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
+      },
+      "artists": [
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 265192,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
         "name": "This Time, This Place\u2026",
         "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 464200,
       "name": "This Time, This Place\u2026",
       "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Maurissa Rose",
-          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
-        }
-      ],
-      "duration_ms": 199272,
-      "name": "Feel It - Edit",
-      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 330106,
       "name": "Ok, Kjor Romskip - Original Mix",
       "url": "https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Maurissa Rose",
+          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
+        }
+      ],
+      "duration_ms": 199272,
+      "name": "Feel It - Edit",
+      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Baby Can't Stop",
-        "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Christabelle",
-          "url": "https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re"
-        }
-      ],
-      "duration_ms": 371333,
-      "name": "Baby Can't Stop",
-      "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "Like a Petal but Not Really",
         "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 401066,
       "name": "Flott Flyt",
       "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Baby Can't Stop",
+        "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Christabelle",
+          "url": "https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re"
+        }
+      ],
+      "duration_ms": 371333,
+      "name": "Baby Can't Stop",
+      "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
         "name": "Maskindans",
         "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 214404,
       "name": "Maskindans - Radio Edit",
       "url": "https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
+        "name": "The Point At The End Of Infinity",
+        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
+      },
+      "artists": [
+        {
+          "name": "Of Norway",
+          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "The Point At The End Of Infinity",
+      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
         "name": "Motown",
         "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
-        "name": "The Point At The End Of Infinity",
-        "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
-      },
-      "artists": [
-        {
-          "name": "Of Norway",
-          "url": "https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "The Point At The End Of Infinity",
-      "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
     },
     {
       "added_at": "2023-05-03 06:47:29",

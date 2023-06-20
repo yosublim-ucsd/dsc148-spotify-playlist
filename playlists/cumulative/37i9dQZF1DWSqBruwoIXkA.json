@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Broken Boy",
+        "url": "https://open.spotify.com/album/4yKpHQsz079iso3TkkSzm6"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137201,
+      "name": "Broken Boy",
+      "url": "https://open.spotify.com/track/11f28RF6aCH4UvCHTC9N1V"
+    },
+    {
+      "album": {
         "name": "Brokenhearted Birthday Girl",
         "url": "https://open.spotify.com/album/7jqLZHaOhQAyLU9Qt2pqSB"
       },
@@ -7110,7 +7128,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 225446,
       "name": "Roles Reversed",
       "url": "https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ"

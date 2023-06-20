@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,206 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,277 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 2 | [Stand On It \(feat\. Philthy Rich, Mac J & 4 rAx\)](https://open.spotify.com/track/6apHoG0pxkO5UFCZIpTmN7) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [The Mekanix](https://open.spotify.com/artist/0sJOeCMBvIDiHJ9Ct5h7IF), [Philthy Rich](https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3), [Mac J](https://open.spotify.com/artist/35jCvzv4P88FtaqOVXezKk), [4 rAx](https://open.spotify.com/artist/4f0JIvLda5Q2TeqaOJaW68) | [Soakin Game](https://open.spotify.com/album/4nkOCaoK62y6u4dYdEXsix) | 3:54 |
 | 3 | [Underrated](https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G) | 2:35 |
 | 4 | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/track/3CyMDd2MLUwAa0nQoScVYC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/album/77vh60o8P1QO1Qd3Slu2YD) | 2:49 |
-| 5 | [Monte Carlo](https://open.spotify.com/track/1gvuQuIOv3YAtxwR89XMuI) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [SURF OR DROWN Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 2:56 |
+| 5 | [Monte Carlo](https://open.spotify.com/track/1gvuQuIOv3YAtxwR89XMuI) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 2:56 |
 | 6 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 |
 | 7 | [Cruisin In LA](https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Cruisin In LA](https://open.spotify.com/album/5PXmTtfSFf2yrQ0VF7Doe2) | 2:42 |
 | 8 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 64 | [Scarface](https://open.spotify.com/track/41SlxBsxeBBBGcXP2Nvdjg) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Scarface](https://open.spotify.com/album/2P5n2dXWJqVBWO2ZFgSUOV) | 1:55 |
 | 65 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 
-Snapshot ID: `MCwxYjUzYjU1NWY4MWM1M2YxMjdhZDk2NTgzYWNmZjIxYjFmNDM5NzE3`
+Snapshot ID: `MCwxODRhM2UzYzZkM2FjNWRiYjAxNjVkMmY5OWRhNzllZWQxNzg3ODdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Don Diablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,294 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,309 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 63 | [Make Me Feel](https://open.spotify.com/track/4qA6QraYvbvzDPoxBKTzBn) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Desno](https://open.spotify.com/artist/3uEc4hn0m78m2IUWbjzeGb), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Make Me Feel](https://open.spotify.com/album/3PrDUva48XthnMZAjs9tOL) | 2:24 |
 | 64 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 |
 
-Snapshot ID: `MCw2M2ZkODYwODE2YTk2YmM0NDhkMzBkMjU4MGJmOGExZDA4ODNhNmE2`
+Snapshot ID: `MCwxYzg0ZjIxZTVmZGIzMDhkOGQ5Y2M2MGQwN2QxN2JjM2RmZjI1OWYw`

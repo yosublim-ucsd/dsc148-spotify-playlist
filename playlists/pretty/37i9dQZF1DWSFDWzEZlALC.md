@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Casper
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,120 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,529 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Rote Pille, blaue Pille](https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Rote Pille, blaue Pille](https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL) | 2:43 |
 | 75 | [INTERNETFREUNDIN](https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [INTERNETFREUNDIN](https://open.spotify.com/album/5DozG3LzjrMYw3wNIj17gH) | 2:32 |
 
-Snapshot ID: `MCw4NzJmNmYzNTJlYjY3N2Y0M2Y4NzUzNzkyNmZjMGY3NDk0YWIyMDc2`
+Snapshot ID: `MCxjNDhlMjFiZDlmMjg4YmMzZTAzZTY1NTY3YTNjZWYyODgwOWU5ZTMy`

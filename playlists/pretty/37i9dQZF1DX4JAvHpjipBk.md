@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Black artists across the globe in celebration of Juneteenth\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,122,754 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,122,958 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 28 | [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 |
 | 29 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
 | 30 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 |
-| 31 | [YKWSF](https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SURF OR DROWN Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 3:04 |
+| 31 | [YKWSF](https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 3:04 |
 | 32 | [Off My Mind](https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [SAM WHITE](https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf) | [Off My Mind](https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc) | 2:48 |
 | 33 | [John Punch](https://open.spotify.com/track/1IembnBFI8mU6tvzSfGeWR) | [Dukes Of Roots](https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [John Punch](https://open.spotify.com/album/52ImP4fwZy7EX5r6qRzY66) | 4:21 |
 | 34 | [BACKSEAT](https://open.spotify.com/track/5JNGhSPsiuHyXmLVfDWbpf) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [I Wish](https://open.spotify.com/track/6B9CHx53Xn4NIJ2hzrXrkB) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [I Wish](https://open.spotify.com/album/1vX4HacHiiH4cyrikTq36f) | 3:00 |
 | 100 | [Don't Call Back](https://open.spotify.com/track/0j68W2w3iMmeQPoIDiTJlK) | [Tiko](https://open.spotify.com/artist/0iv7RfSxMSAvCzCVnxys6g), [Jayden](https://open.spotify.com/artist/6zMVJe4pAghL7FKN1QNO0h) | [Don't Call Back](https://open.spotify.com/album/3dHoX7xDQeNxpYw8xZEn8C) | 2:35 |
 
-Snapshot ID: `MCw2OTk0ZDQ1M2ViZGVmNDdlNWExYTc2ODYxZTU5NTNmZDAyZWRjNzEz`
+Snapshot ID: `MCxhNmFiYTY3OGY3Y2VlODY4NmFjZWJkMjFiZDNjYjE0ZGEwYTI3NGZj`

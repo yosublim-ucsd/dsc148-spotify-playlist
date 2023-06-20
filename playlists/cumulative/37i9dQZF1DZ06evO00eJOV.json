@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Lungisa Indaba Yakho",
+        "url": "https://open.spotify.com/album/6w68ueDtrd4yHlNCpMh8qP"
+      },
+      "artists": [
+        {
+          "name": "Vuyo Mokoena",
+          "url": "https://open.spotify.com/artist/4loUWAsdxGk2U4Du8mdiNH"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363636,
+      "name": "Lungisa Indaba Yakho - Live Recorded",
+      "url": "https://open.spotify.com/track/38ebJKDgF2KYeGX1WuOibu"
+    },
+    {
+      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -648,7 +670,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 237666,
       "name": "Ngiyakuthanda Papa Wemba",
       "url": "https://open.spotify.com/track/4C0GA7K5qTaqpfssY9AEvs"

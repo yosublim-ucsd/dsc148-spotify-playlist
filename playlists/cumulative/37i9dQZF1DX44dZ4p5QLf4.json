@@ -6231,6 +6231,32 @@
     },
     {
       "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518557,
+      "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
+      "url": "https://open.spotify.com/track/3Gm0VzTqEbbHF5B92Ntkz4"
+    },
+    {
+      "album": {
         "name": "Clear Water (feat. Deantoni Parks, Jeff Parker, Sanford Biggers)",
         "url": "https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE"
       },
@@ -6250,7 +6276,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-20",
       "duration_ms": 518557,
       "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
       "url": "https://open.spotify.com/track/56eTskuiyoqncdHa48gKot"

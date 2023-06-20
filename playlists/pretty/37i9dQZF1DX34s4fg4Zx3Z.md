@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Juliet; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,223 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,237 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 29 | [Rung Động Lần Nữa](https://open.spotify.com/track/6xCzt8vaZMRgeS6CT8h4Nd) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [HuuBui](https://open.spotify.com/artist/1IesmZl59OwxHAQs3DwOh4) | [Rung Động Lần Nữa](https://open.spotify.com/album/5YHvEAowUqOhtCNHiMRCS3) | 3:06 |
 | 30 | [MAI MAI](https://open.spotify.com/track/2hBERr1FrSzZD78reQl0UK) | [Tee G](https://open.spotify.com/artist/4x7PL3qkv5slbZe8OwnRvq), [shi](https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ) | [MAI MAI](https://open.spotify.com/album/1UbBinKwyfxf0RSDUtMePZ) | 2:24 |
 | 31 | [last day on earth](https://open.spotify.com/track/0jLQeN30gdbLXOp7mGwAnA) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 2:52 |
-| 32 | [Quá Thích Anh Rồi](https://open.spotify.com/track/5Rz7qtwwck377ABbqmRWzN) | [Naly](https://open.spotify.com/artist/3TlLMqnd5iIx8wVLJJVErP), [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz) | [Quá Thích Anh Rồi](https://open.spotify.com/album/2xXTb3nWpSDoOLpgDD2lUq) | 3:37 |
+| 32 | [Quá Thích Anh Rồi](https://open.spotify.com/track/5Rz7qtwwck377ABbqmRWzN) | [Naly](https://open.spotify.com/artist/4vibiu8IKKOrziHCPgWuMB), [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz) | [Quá Thích Anh Rồi](https://open.spotify.com/album/2xXTb3nWpSDoOLpgDD2lUq) | 3:37 |
 | 33 | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/track/6bv1AmKHLlAKEn3d1a702t) | [Jackie Njine](https://open.spotify.com/artist/3taOSFlvxaSINTTnKhjMQz) | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/album/1bow0knZOT43RlETgxu9Sd) | 3:53 |
 | 34 | [hôn anh đi](https://open.spotify.com/track/3Yk8KUFgdyUm0KIMadZ94e) | [Hoāng](https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf) | [hôn anh đi](https://open.spotify.com/album/10ZV1R3K4BxsrZLT4UqEaz) | 2:28 |
 | 35 | [Tại Sao Không Nói](https://open.spotify.com/track/1N4T4aZm8lIEAqL2oSafId) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [Tại Sao Không Nói](https://open.spotify.com/album/3rTrGvjT9ZMERZqLPlWVBh) | 4:49 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [Gonna be you](https://open.spotify.com/track/1qGD0pluRScUcMhojxeyrk) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [CHU](https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid) | 4:18 |
 | 101 | [wish you had](https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [wish you had](https://open.spotify.com/album/3ceo5JbawMnBg8XorYrFxN) | 3:21 |
 
-Snapshot ID: `MCxjMjdjMmUyNmIzMzg4ODQ3MGI3MTBlZjVjOThlYjM5ZGVhZGU0MmI0`
+Snapshot ID: `MCwzZDg1NTQ1OGQ3NTQxY2NhYWZkMDgwZjQzNzg1MGVmZjQ2YmY5MTg5`

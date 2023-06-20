@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 24199,
+  "num_followers": 24256,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmQ5YmEwODllZWFlNjY3ZTk2MjMyZjEwZTFhMWZhMWZjZjBkYjEw",
+  "snapshot_id": "MCw5NDMxOWY5MzRkMDExNDZkN2FmZDliNzhmOTliMzA5YTNhMmY3YWE3",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -119,6 +119,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
         "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 174998,
       "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
       "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "Okami Original Soundtrack (Vol. 4)",
         "url": "https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 142853,
       "name": "Ripples in the Calm",
       "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
         "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 126280,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -643,26 +643,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
-        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
-      },
-      "artists": [
-        {
-          "name": "M-TWO Inc.",
-          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
-        },
-        {
-          "name": "designwave co.,ltd.",
-          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
-        }
-      ],
-      "duration_ms": 102607,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 126226,
       "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
+        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "duration_ms": 102607,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -727,18 +727,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+        "name": "E.X.TROOPERS - END OF CONVERSATION",
+        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
       "artists": [
         {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        },
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
         }
       ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
+      "duration_ms": 298874,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
+      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -759,22 +763,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "E.X.TROOPERS - END OF CONVERSATION",
-        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
       },
       "artists": [
         {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        },
-        {
-          "name": "Saori Hayami",
-          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
         }
       ],
-      "duration_ms": 298874,
-      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
-      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
     },
     {
       "added_at": "2021-06-30 15:18:23",

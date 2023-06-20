@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:637853CZ5FohFDeBONa2D7">Maura</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,007 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,014 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Clara](https://open.spotify.com/track/3dZxdF4oBB0zayJuvQ01oN) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [Clara](https://open.spotify.com/album/1ZnbZLBhdfXxiiqeOSadNg) | 2:28 |
 | 55 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 |
 
-Snapshot ID: `MCxiOGQ5MzkyMjE1MTkwNTlkYjlkMjQ5Y2MzMGJkNTU2MDllYmU0NDg1`
+Snapshot ID: `MCw0MDQ1MjhkOGI2ZDU2ZmMyMDBiNzUyYzVkMDMxOTA3NjAyNDhjMzFl`

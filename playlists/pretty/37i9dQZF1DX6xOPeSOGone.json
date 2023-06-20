@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Billy Joel",
-  "num_followers": 3588033,
+  "num_followers": 3588085,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTY2MzE0YzQwZDI0OTc0MTI2YzMwNTUwNTY0ZmY4YmFjOGRkNmRk",
+  "snapshot_id": "MCxlMmVmODdjOGJiNjdlZTQwNjRlYWMwZDkwMDYzNDdmYTMzZGRiYzc3",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 262906,
       "name": "You're the Only Woman - You & I",
       "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Cool Night",
         "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218826,
       "name": "Cool Night",
       "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Underdog",
-        "url": "https://open.spotify.com/album/4kCaBxoVlLShsmGny6xwOT"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/6ZJqKg4MuBzg5M5g9yeeuV"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Moonlight Feels Right (2023 Remaster)",
         "url": "https://open.spotify.com/album/7B1iZzW15r079wH2Q7oYu7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 221066,
       "name": "Moonlight Feels Right - 2023 Remaster",
       "url": "https://open.spotify.com/track/4LEHKN2fPgz1uDJKacHIEO"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/4kCaBxoVlLShsmGny6xwOT"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6ZJqKg4MuBzg5M5g9yeeuV"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Bish",
-        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Everybody Needs Love",
-      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Goodbye Girl",
         "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 187840,
       "name": "Never Let Her Go",
       "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Bish",
+        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
     },
     {
       "added_at": "2023-03-20 17:07:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 47 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 26 | [Diamante Rubi](https://open.spotify.com/track/3IA66NZnwvk2tNdAUKNToQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:38 |
 | 27 | [Toque de Amor](https://open.spotify.com/track/2LUBygSITjXkY1D0ozjhdS) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 2:58 |
 | 28 | [Reggae Juntinho](https://open.spotify.com/track/33Xp1gdWmJe7gIDePPvAbp) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Reggae Juntinho](https://open.spotify.com/album/5XtVthzSIz5YRcjBusQ0TA) | 4:15 |
-| 29 | [Mundo Melhor](https://open.spotify.com/track/0p22eZo9otCwJtqC7RLmc9) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:38 |
-| 30 | [Mundo Populoso](https://open.spotify.com/track/1u8C46BhyaIiTWiAVPq68K) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:08 |
+| 29 | [Mundo Populoso](https://open.spotify.com/track/1u8C46BhyaIiTWiAVPq68K) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:08 |
+| 30 | [Mundo Melhor](https://open.spotify.com/track/0p22eZo9otCwJtqC7RLmc9) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:38 |
 | 31 | [Rasta no Topo](https://open.spotify.com/track/270TXSoQdITbBAqf5WSJpb) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 4:08 |
 | 32 | [Curador](https://open.spotify.com/track/3j0KxlP0MuRfvkiO4SoGM5) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Little Roy](https://open.spotify.com/artist/2trprGWyY8Y0Gjd7OtfLdU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 3:27 |
 | 33 | [Amar É Bom](https://open.spotify.com/track/60QKV4AxI5xyrOiJLjdma8) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Ashanti Roy](https://open.spotify.com/artist/7BHabBDR7zhcb8EKxWOxkq) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:12 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 46 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 47 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `MjgxMTg5OTAsMDAwMDAwMDBiMDBjOWZjMjVkNzg4YjhmODIwN2FkY2VjOWZkMWY4OQ==`
+Snapshot ID: `MjgxMjA0MzAsMDAwMDAwMDBmYjBhOTdhOTdlMDcxNzgyMzhiMDBlMTAwYzA1M2FiZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 27203,
+  "num_followers": 27208,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0",
+  "snapshot_id": "MCw1MWUxYzUyN2U5ODM3NDEwYmY3YjU5NGE1MmM3MDUzZDFlYzgxYjZi",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "Bitte Bitte",
+        "url": "https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Bitte Bitte",
+      "url": "https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 192591,
       "name": "Durch die Nacht",
       "url": "https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "Bitte Bitte",
-        "url": "https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "Bitte Bitte",
-      "url": "https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Rosa Pillen",
-        "url": "https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN"
-      },
-      "artists": [
-        {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
-        }
-      ],
-      "duration_ms": 136879,
-      "name": "Rosa Pillen",
-      "url": "https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Feuer",
         "url": "https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 174995,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Rosa Pillen",
+        "url": "https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+        }
+      ],
+      "duration_ms": 136879,
+      "name": "Rosa Pillen",
+      "url": "https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV"
-      },
-      "artists": [
-        {
-          "name": "Brenda Blitz",
-          "url": "https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd"
-        }
-      ],
-      "duration_ms": 155942,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Is it weird?",
         "url": "https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181451,
       "name": "Is it weird?",
       "url": "https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV"
+      },
+      "artists": [
+        {
+          "name": "Brenda Blitz",
+          "url": "https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd"
+        }
+      ],
+      "duration_ms": 155942,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lose My Mind EP",
-        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
+        "name": "Ein fragiles System",
+        "url": "https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "Bipolar Feminin",
+          "url": "https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX"
         }
       ],
-      "duration_ms": 381960,
-      "name": "Lose My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
+      "duration_ms": 147406,
+      "name": "Sie reden so laut",
+      "url": "https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Ein fragiles System",
-        "url": "https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF"
+        "name": "Lose My Mind EP",
+        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
       },
       "artists": [
         {
-          "name": "Bipolar Feminin",
-          "url": "https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX"
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
         }
       ],
-      "duration_ms": 147406,
-      "name": "Sie reden so laut",
-      "url": "https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas"
+      "duration_ms": 381960,
+      "name": "Lose My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
     },
     {
       "added_at": "2023-06-06 22:00:00",

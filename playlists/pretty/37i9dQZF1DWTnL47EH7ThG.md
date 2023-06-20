@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,600 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,618 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 39 | [All Natural](https://open.spotify.com/track/6ti0huIVHb1J9JiwKbj7vM) | [Overkissed](https://open.spotify.com/artist/4m194iCkQ1ow7ijhuu9lk3) | [Porn Cuts](https://open.spotify.com/album/1KgBNDMEyu45mrAcG5y5rE) | 3:35 |
 | 40 | [Toxic](https://open.spotify.com/track/7lEaKSYmt8AQ9A9zqzfayM) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue \(After Hours Deluxe\)](https://open.spotify.com/album/2YgVEpyUtHUdr5pLHDhuPX) | 1:51 |
 | 41 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
-| 42 | [Rhodes Island](https://open.spotify.com/track/0N9swinqUb8x2jLvlVtRLB) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/0yKfh88KH5q4cH4IS1Exyc) | 6:01 |
+| 42 | [Rhodes Island](https://open.spotify.com/track/0E4mi5uLF3ekA5Y3qtZRtS) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/12KfWjfzBPV6ka9DgjSoXh) | 6:01 |
 | 43 | [Red Room \- Nick Hakim Remix](https://open.spotify.com/track/57VDhn2DUPl1rXuQF3bvgs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 4:59 |
 | 44 | [Meadows in Japan](https://open.spotify.com/track/0ksuu1T1H6ce6md796lU0i) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/0REInqUEj53H3tJjx1ku4Q) | 2:48 |
 | 45 | [O Fim](https://open.spotify.com/track/4hX1h5KW8J6JlzzHrCNpWJ) | [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Taís Feijão](https://open.spotify.com/artist/1xZ9bLUO7Aaci66Gwpf00t) | [Laroyê](https://open.spotify.com/album/6drmFnntxB3LgB0djtQw1L) | 4:00 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MCxiZTkwN2I2YjczZGI4YWExYmQxZmU4YjFmMDg0MzQ3YTM5NWU2OWUw`
+Snapshot ID: `MCxlZDU5NjYzZTE3YzZkMmQ3NDkxOGE0ZGYyY2UxZjE5ZjU0MGM2MmJl`
