@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 191613,
       "name": "Above Light",
       "url": "https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT"
@@ -852,6 +852,42 @@
       "duration_ms": 113173,
       "name": "Coming Closer",
       "url": "https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe"
+    },
+    {
+      "album": {
+        "name": "Conscious",
+        "url": "https://open.spotify.com/album/3wp7uBll4dmd2U8Qd7LuLD"
+      },
+      "artists": [
+        {
+          "name": "Kjell S\u00f8nksen",
+          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176267,
+      "name": "Conscious",
+      "url": "https://open.spotify.com/track/0NpvwAPp3lxlBxy72gXAuK"
+    },
+    {
+      "album": {
+        "name": "Consilium",
+        "url": "https://open.spotify.com/album/7pS00vJKlwX2kFPlTx51kJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Consilium",
+      "url": "https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ"
     },
     {
       "album": {
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 121500,
       "name": "Moj najbolji prijatelj",
       "url": "https://open.spotify.com/track/1Ul3umwrsaKrjraG3isTVg"
@@ -4841,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124930,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI"
+    },
+    {
+      "album": {
         "name": "Sunnebovals",
         "url": "https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx"
       },
@@ -5094,6 +5148,24 @@
       "duration_ms": 137361,
       "name": "The Garden Level",
       "url": "https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN"
+    },
+    {
+      "album": {
+        "name": "The letter",
+        "url": "https://open.spotify.com/album/0TiRvvmrH6z4yAMRICchhY"
+      },
+      "artists": [
+        {
+          "name": "Volker Anderson",
+          "url": "https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "The letter",
+      "url": "https://open.spotify.com/track/2DTroZVuzZfdKJJg9gG7G6"
     },
     {
       "album": {
@@ -5760,7 +5832,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 155500,
       "name": "wandering bird",
       "url": "https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR"

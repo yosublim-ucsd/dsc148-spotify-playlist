@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,987 likes - 120 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,210 likes - 120 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 |
 | 120 | [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 |
 
-Snapshot ID: `MCwxZWU3YmZkYmE0MzRhNjkyN2ZmMTBiMGU4Zjk4NTYzZWViNmZlMDgy`
+Snapshot ID: `MCwxODFlMWVhNzNlZjAyZTI4MWFlODYzNjQxMDg2MDZlNjQ2MTkyZjA3`

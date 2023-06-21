@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Rayi Putra, Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,052 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,067 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Dancing In September](https://open.spotify.com/track/3PExB0N7a56JkDdFGZ6PV8) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Dancing In September](https://open.spotify.com/album/5wOgkWFVu8su1tW6135VQ5) | 4:10 |
 | 50 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 
-Snapshot ID: `MCxlMTdkZGI5MTVjMmNkODA2OWQ3OGIyMmRjNjQ1NTk4NTM2Yzk4MjU0`
+Snapshot ID: `MCxlNTQwMTU4Mjc2OGZiMWY2OTIyODczOWY2ZjAwNGUyZTNjYTc1YjNi`

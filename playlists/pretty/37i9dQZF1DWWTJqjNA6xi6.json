@@ -6,10 +6,74 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2UxMTY5Y2QwNWFkY2IzMzVjYjMzYmMzMzBmNTMzYjdjOTkyZjA3",
+  "snapshot_id": "MCxhYmQ3M2Y0ODJhMWFmYmNjYjAzOGRjNDY3MjEwZGZjN2I2YjNjMjkz",
   "tracks": [
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 6",
+        "url": "https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "duration_ms": 169753,
+      "name": "I'm the Boss Of My Body (A Song About Consent)",
+      "url": "https://open.spotify.com/track/3DgBMvR9r2wSKmZLbonB1g"
+    },
+    {
+      "added_at": "2023-06-20 19:34:35",
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 6",
+        "url": "https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "duration_ms": 166024,
+      "name": "Jumping Party",
+      "url": "https://open.spotify.com/track/0qoc3u7qsrmOaAVKluotX1"
+    },
+    {
+      "added_at": "2023-06-20 19:34:35",
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 6",
+        "url": "https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Summer of Fun",
+      "url": "https://open.spotify.com/track/7EZfOWQ1eaVmKC7NTROaXO"
+    },
+    {
+      "added_at": "2023-06-20 19:34:35",
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 6",
+        "url": "https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "12 Months Make A Year",
+      "url": "https://open.spotify.com/track/3CU8QwAntpcc1WALlbVxWs"
+    },
+    {
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 5",
         "url": "https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX"
@@ -25,7 +89,7 @@
       "url": "https://open.spotify.com/track/5YOOEo0itNGgaMCSs9oha6"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 5",
         "url": "https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX"
@@ -41,7 +105,7 @@
       "url": "https://open.spotify.com/track/4r42EiTyHU9OJNlSS1b0wS"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 5",
         "url": "https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX"
@@ -57,7 +121,7 @@
       "url": "https://open.spotify.com/track/4VSdkLjHs7arQUoCyxTQ2h"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 5",
         "url": "https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/1qsDyHmh6PK2IsGr4kea2I"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
@@ -89,7 +153,7 @@
       "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 1",
         "url": "https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 4",
         "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
@@ -121,7 +185,7 @@
       "url": "https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
@@ -137,7 +201,7 @@
       "url": "https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 1",
         "url": "https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF"
@@ -153,7 +217,7 @@
       "url": "https://open.spotify.com/track/7uloNNWf75NUhvJPQrqymF"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
@@ -169,7 +233,7 @@
       "url": "https://open.spotify.com/track/5Z2oDrMUuTKQmygwDPPHI8"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 1",
         "url": "https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF"
@@ -185,7 +249,7 @@
       "url": "https://open.spotify.com/track/4m92BYji23YHvv00N5XAXL"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/7BuMcS6Ym4VQsGzMpJ0lIK"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/32FtZpPu2cMr4t5HqVZzh4"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
@@ -233,7 +297,7 @@
       "url": "https://open.spotify.com/track/63DpK6dZZkPAHiH1OV9KF5"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 4",
         "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/7Go2RKeKgTkwhZ7i2r931R"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 4",
         "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/2mixShNf2zlXIInwxIT14o"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/3neIWarw2da7neX8fDMWsi"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 1",
         "url": "https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/3txvpQLGkFNvQv3TRFZt5G"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 4",
         "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/2x6UI2qPGH8UJ1Dd6hMR6l"
     },
     {
-      "added_at": "2022-08-19 07:00:00",
+      "added_at": "2023-06-20 19:34:35",
       "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"

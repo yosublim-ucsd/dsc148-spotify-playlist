@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,220 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,230 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 99 | [Blue Dress](https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:08 |
 | 100 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
 
-Snapshot ID: `MCw3Y2IwMTgyOTBjZmM5ZTQxYjUzNzI1NWZkZjU1YmRiODkwNmUwNGMw`
+Snapshot ID: `MCw4Njk3NzNhYzYxMzNiNmQ4MWU3ZjhlZjgyZmU4ZDljMzFhMmE5NDY2`

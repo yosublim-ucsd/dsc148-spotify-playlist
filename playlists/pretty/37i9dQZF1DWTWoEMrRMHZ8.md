@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Ana Vilela
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,475 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,497 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 98 | [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 |
 | 99 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MCxlNjVjZjg4ZDFlZDVkODNkYzFiMDI3M2M1YzgzZjdjNjQ3MjU5ODk0`
+Snapshot ID: `MCw0ZmNlMDM0NmVjMjliNGMxOTVkNmMyNGFhYTYzMjU3NzQ3NWIxZTI3`

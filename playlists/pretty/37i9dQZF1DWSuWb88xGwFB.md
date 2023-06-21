@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,629 likes - 75 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,654 likes - 75 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 75 | [Muzik \- The Siren Mix](https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Muzik](https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ) | 6:19 |
 
-Snapshot ID: `MCxmZDVlZTA3MzE2NzhjNmRiZjZiMzU1MTJjZjA3ZjZhODllMDc2MmFk`
+Snapshot ID: `MCwyNjAyYTM2YTliMDZhNWFjYjllMmQ1MDdjNzNiNmJmYWU1NzEzNDM1`

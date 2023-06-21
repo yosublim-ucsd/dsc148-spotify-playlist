@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,695 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,720 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 98 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 |
 | 99 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 |
 
-Snapshot ID: `MCw5OGI1MDA5YWZmNzkyNTNhOGE4MWQ4YjZhMTAxYzA2M2VhNTVhOTI0`
+Snapshot ID: `MCxiMDhmODZjMWVjOGRjOGI5NTFiNWY5NjI5Y2YxODMwNGE4NGQyYzg4`

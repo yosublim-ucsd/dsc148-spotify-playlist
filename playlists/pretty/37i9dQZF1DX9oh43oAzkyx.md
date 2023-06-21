@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,735 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,309 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 76 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 |
 
-Snapshot ID: `MCwxMzIxM2U3MGRlYTU5NDJiYTljZTdjZGQ5ZjRmZGIxNmQ5Nzg5ZDFl`
+Snapshot ID: `MCwyNWYwOWMyNTAzY2JhYzJlODk3MTNjOGU4ODlhZjBkOTc1MDhkNmQ0`

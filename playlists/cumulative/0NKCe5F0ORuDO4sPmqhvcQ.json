@@ -7971,6 +7971,24 @@
     },
     {
       "album": {
+        "name": "Tear It to Pieces",
+        "url": "https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w"
+      },
+      "artists": [
+        {
+          "name": "Nightly Gatherings",
+          "url": "https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175570,
+      "name": "Tear It to Pieces",
+      "url": "https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9"
+    },
+    {
+      "album": {
         "name": "TEAR ME UP",
         "url": "https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa"
       },

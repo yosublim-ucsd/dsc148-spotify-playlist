@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,806 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,843 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Kid \- Acoustic](https://open.spotify.com/track/1n15CYNOGJqq87jdRHVO0P) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid \(Acoustic\)](https://open.spotify.com/album/4XcxA1QI4KB8XBKz9SRcyS) | 4:06 |
 | 100 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 
-Snapshot ID: `MCwyMGU1N2I0ZDc0OTg5YTk4NWU0ODY2NGM4NDVhMGUzOTA1NjdmNzVm`
+Snapshot ID: `MCwxY2JmMzc5YmEzZGUxNWZhZGY0MzdiMGFmN2IzZDljMDljN2I0Mzk1`

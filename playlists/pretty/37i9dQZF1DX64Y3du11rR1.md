@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,581 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,657 likes - 125 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 82 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 |
 | 83 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/41cvkLPs8vQsE5SV0CFSKL) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The One That Got Away \(Acoustic\)](https://open.spotify.com/album/0b5suEzWGGu0Zof4Z87s7P) | 3:17 |
 | 84 | [Frozen](https://open.spotify.com/track/5bGkeM9o4GAtOLeafHhHpm) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Frozen](https://open.spotify.com/album/0Gn6fMwduv7GHXGXfY30OP) | 3:55 |
-| 85 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
+| 85 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 86 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
 | 87 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 |
 | 88 | [Somebody Else \- Acoustic](https://open.spotify.com/track/4kQXMVjoZ9yMibLZq5Aqi5) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Somebody Else \(Acoustic\)](https://open.spotify.com/album/60yTwLjZhRPILr6Muqnt7I) | 2:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 124 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 | 125 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 
-Snapshot ID: `MCxkMDE0ZjY3ZDdkNDk0YzRkNGRmZWIzZTcwZjAzNGUwMTg3NDljN2Q0`
+Snapshot ID: `MCxjODA1MTkyYzhkYWVkZTAzM2MzODA0YTJkZTBiYzhiZjI1OWRlZGFi`

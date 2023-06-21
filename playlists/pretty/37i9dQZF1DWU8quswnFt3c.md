@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,307 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,281 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 80 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 |
 | 81 | [Về Với Em](https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn) | [Võ Hạ Trâm](https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga) | [Về Với Em](https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D) | 4:29 |
 
-Snapshot ID: `MCwzNTlhZWFjNjBjZDRiY2I3MjE4ODllNWY2YTZhNTg2OGI3M2VhMjA4`
+Snapshot ID: `MCw2YzYxN2QwYjI2OTMzODVmM2NjOTU3ZWY5ZDVlY2E2ZWIzZDM1YmQ0`

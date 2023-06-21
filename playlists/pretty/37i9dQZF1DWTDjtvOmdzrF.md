@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,281 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,373 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
 | 75 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 |
 
-Snapshot ID: `MCw2OWJmMDYwOTZmMGY5M2QyYTMzZTkyMzZmZjBjMmJmMGExM2JlOTdi`
+Snapshot ID: `MCw5ZGE1MzZhNWNhZGQ1MWM0MjliNzYwYTczYjMzMjA4MGNiNDNjNDQx`

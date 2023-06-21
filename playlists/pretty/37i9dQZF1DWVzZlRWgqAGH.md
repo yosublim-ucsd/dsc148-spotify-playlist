@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,825 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,969 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Pick Your Tears Up](https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Pick Your Tears Up](https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI) | 2:48 |
 | 100 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
 
-Snapshot ID: `MCwwNTA4MGViMDYzNGI3YTE0Y2Y4MzZlZGUyZGVlYzA5YzdhZWRmZjk5`
+Snapshot ID: `MCxjMDRmOWQ2N2VhYzUxN2E4OGU5ZmFhMDNjNWI2NmI3MDc2YmEwNjE2`

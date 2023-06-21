@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Ritmo latino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,603 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,990 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 74 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 |
 | 75 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 |
 
-Snapshot ID: `MCxmZDA0OGZlNTkzYTUxYThlZmMxODhlMmM2ZmU3YzBkNTdiM2FmYTI3`
+Snapshot ID: `MCw5ODg0ODQ1OTRhNTIzMGQ1ZDJjN2FlY2E1MTBhNTViMzBhZmIwM2U2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,809 likes - 250 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,981 likes - 250 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Puritano](https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Puritano](https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC) | 3:06 |
 | 250 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 |
 
-Snapshot ID: `MCwxNzVkYjNjMmRlY2NlYWRiZmJjMWZlMjdjZTc3ZjE5ODc2NDlhNWZk`
+Snapshot ID: `MCwxNTAyM2QxNGYwMDA0ZjUwMDQxODcwMGIyYmI5M2U0MzdmMjA3OGU5`

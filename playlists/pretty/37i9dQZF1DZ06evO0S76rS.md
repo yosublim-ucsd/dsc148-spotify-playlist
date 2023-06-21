@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,110 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,189 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 25 | [Un Caso Social](https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Niche Con Cuerdas](https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6) | 5:17 |
 | 26 | [Un Alto en el Camino](https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:48 |
 | 27 | [Han Cogido la Cosa](https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Golpe de Folklore](https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi) | 4:42 |
-| 28 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 |
-| 29 | [Un Día Después](https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 5:26 |
+| 28 | [Un Día Después](https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 5:26 |
+| 29 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 |
 | 30 | [Búscame](https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:17 |
 | 31 | [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 |
 | 32 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 45 | [Solo Tu Sabes](https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:44 |
 | 46 | [Atrateño \- Versión Sinfónica](https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 5:59 |
 | 47 | [Mi Machete](https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 5:27 |
-| 48 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
+| 48 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
 | 49 | [La Gota Fria](https://open.spotify.com/track/6vBTEjh3IriR0Hb9tKV8iR) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Preparate](https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR) | 5:24 |
-| 50 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
+| 50 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBkYjlhNTU2N2I2NzNkNjAxMzBlMDU2YzE2MWU2YzIzMA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDAyY2ZiOTU1OTk0MjY4NWIwZGQ1MmM4YzA4NTdlNDU0Mg==`

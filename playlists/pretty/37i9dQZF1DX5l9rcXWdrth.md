@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,907 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,073 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 50 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 
-Snapshot ID: `MCxlMzM3MjBlOGY3OTY5N2FmMjA4NmU2Y2M2YzIxYjQ3ZTZkMmFmMTkz`
+Snapshot ID: `MCw5YWZlZTM2ODUwNjA3ZmUxZTMzMzEyMzM1YTEzY2JhMmNkNTQ0YmIz`

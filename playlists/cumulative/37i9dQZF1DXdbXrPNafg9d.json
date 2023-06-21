@@ -38918,10 +38918,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 171173,
       "name": "High In Brighton",
       "url": "https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3"
+    },
+    {
+      "album": {
+        "name": "High In Brighton",
+        "url": "https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "High In Brighton",
+      "url": "https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k"
     },
     {
       "album": {

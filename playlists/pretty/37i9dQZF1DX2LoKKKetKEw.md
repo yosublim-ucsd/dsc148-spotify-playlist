@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,290 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,438 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Your Mind \- Special Version](https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Your Mind \(Special Version\)](https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0) | 2:54 |
 | 100 | [NOMO \(Never On My Own\)](https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [NOMO \(Never On My Own\)](https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La) | 2:14 |
 
-Snapshot ID: `MCxkNDllNzg5OTU3OWQ3MzI3MjZjNDFiMTcwMjEyM2ZkNTc0OGU4YWYz`
+Snapshot ID: `MCxkOTcyYmRhNDQ0YjkzMGU3ZTRkMzMzOTUwZjQ4MjgwNjJjNDExMmI3`

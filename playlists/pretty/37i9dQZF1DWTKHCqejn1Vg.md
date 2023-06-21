@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,103 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,135 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
 | 60 | [company](https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [company](https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF) | 2:08 |
 
-Snapshot ID: `MCw3MTg1MTQ3N2JkZTM0YmQzMWQxMTg4ODUwOTk2ZWQ0ZjM2MTA1MDk5`
+Snapshot ID: `MCwyODI5NGJiMzczOTlhMjVkNTI3ZDkyMzc3YjZmMjRiMTlmMDg5ZDY2`

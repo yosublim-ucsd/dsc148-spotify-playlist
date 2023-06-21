@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 123617,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn"
@@ -3744,6 +3744,24 @@
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110086,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4"
     },
     {
       "album": {

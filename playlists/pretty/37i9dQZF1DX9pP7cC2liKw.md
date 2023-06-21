@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,074 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,387 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 |
 | 70 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 |
 
-Snapshot ID: `MCw5NTYxYWM5M2M5ZmZhNjA4OGRjNWJjYjY0ZDE5MWU4ZWQwZTk3MDg2`
+Snapshot ID: `MCwyNmEyNmQ2YjJlOGNiZTU2NjlhMDQ5NTI2N2VlNGI5M2U3NzgxODUx`

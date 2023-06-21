@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > Catch your biggest flex to these summer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,110 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,126 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 | 49 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
 | 50 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 |
 
-Snapshot ID: `MCxiMDE1MDkzNWZiMzU4MWZhMTQ2MDRhZjU4OWEyODk5NzMxNzA5ZWZl`
+Snapshot ID: `MCxmMjdkMDAwMzNlYTEzMDcyMDYyODFjNzlmOTkyMTMxMTE0ODA3ZDhm`

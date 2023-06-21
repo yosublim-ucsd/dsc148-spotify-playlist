@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,607 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,728 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
 | 100 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 
-Snapshot ID: `MCxkMWU3NjUyMjhlY2UwMjgwMjAxODM1ZGM0NDg1NTYxYTk1MTM3MTZh`
+Snapshot ID: `MCw3ODE3NzhkODIzZWNiZDMwNzU3YzQxMTMyODE4NTJmYmU5OTEyNTNi`

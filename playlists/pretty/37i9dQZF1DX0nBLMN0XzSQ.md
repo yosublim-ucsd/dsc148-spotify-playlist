@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,853 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,851 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 80 | [You're The One That I Want \- Remastered 2022](https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH) | [Olivia's Greatest Hits \(Vol\. 2 / Deluxe Edition / Remastered\)](https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby) | 2:50 |
 
-Snapshot ID: `MCxkNWIwMzRlOWIzN2ZjMDdiMWVhNWJlOGRkN2VjM2JlMjk2YTBlYzMx`
+Snapshot ID: `MCw1YWM0ZjAwZWE4OWM1MTI2YWNhOTlkMWFhNDhjMWEyZjg5OGRkM2Q5`

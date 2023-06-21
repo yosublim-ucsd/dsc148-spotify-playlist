@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,530 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,579 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [2055](https://open.spotify.com/track/664cU3y63AUikovlndCaNE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 2:03 |
 | 100 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 
-Snapshot ID: `MCxmNWZmYmMzNDgxNWVmOTIyOGNjZWQ4YzljZGNlMTJlMDIwODgxNzc2`
+Snapshot ID: `MCw1ZmM0YTA2ZTEzMDE2ZjU2MTNmODdlY2E5ZTFkZTUwNGNlMjkzNWQ4`

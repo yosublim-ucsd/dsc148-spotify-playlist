@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,518 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,652 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
 | 100 | [Poquita fe](https://open.spotify.com/track/2R6AW2RKOFf4dqycfBAtIt) | [Cuarteto Almanaque](https://open.spotify.com/artist/3mDraoH8A5o3wS7dfOtIqs) | [20 Éxitos: Época de Oro de los Tríos Vol\. 1](https://open.spotify.com/album/0Yzpkc8BNVgQuihyrJykZA) | 2:53 |
 
-Snapshot ID: `MCxkNjRmMTM3YWEwNjllYTUwZmQyNTM0ZTE0MTdjZWVjNjBmNDc1Yzc0`
+Snapshot ID: `MCxiOWJiMWZkYTAxOTRlMTAxZjJkNWQyMjdiM2I2YTJhMzQ0MzlmMTgz`

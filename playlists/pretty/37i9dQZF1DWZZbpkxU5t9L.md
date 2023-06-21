@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Conton Candy
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,949 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,972 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 44 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 |
 | 45 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
 | 46 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
-| 47 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/1TSN3GfeK8z5PmrhMXuzOp) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 |
+| 47 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 |
 | 48 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 |
 | 49 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 |
 | 50 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 
-Snapshot ID: `MCxjMmIzYmY0NzdiMzcwOTI0OTAyNjc4NzdkZDE3NTEwMWRkZmUxNzgw`
+Snapshot ID: `MCw3NWRlMjdjMzAwNDM1YWI4NWQ3YjQ5YmY2NDAwNGMwY2M4ZjJmNmNk`

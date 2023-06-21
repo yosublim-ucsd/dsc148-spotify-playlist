@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,717 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,998 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 99 | [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 |
 | 100 | [Song 2](https://open.spotify.com/track/1LQLoQjIOBI5WzMBI39v8y) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Song 2](https://open.spotify.com/album/7426vX25zJ9jZxGII3WAvp) | 2:01 |
 
-Snapshot ID: `MCxjOTdiNzlhMDk5OTE4MGYwOTc2NGE5ZDI5NWVhN2Q1YzFmODRiZTkx`
+Snapshot ID: `MCwxMjIwZWJkMTY1YWRmYTMzZjg4M2YyM2RmYzkxN2E4ODQxOGI4OGI2`

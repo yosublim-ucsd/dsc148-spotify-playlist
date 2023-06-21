@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,677 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,753 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [Lovedog](https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:48 |
 | 100 | [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 |
 
-Snapshot ID: `MCwxMTdmYjYzZDQyYzkyNDQ2ZjhlMmU2Mzg0NTFhM2M4OTBhZDA3NWIx`
+Snapshot ID: `MCw2ZTA2Yzg4MDM2ZGM4ZTI3N2UzMWY5NjkyYjU0MGRiOWRmZmM0M2I3`

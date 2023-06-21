@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-116 songs - 5 hr 4 min
+117 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aves del bosque y lluvia](https://open.spotify.com/track/1spz2ba2kDuHL6HrPZC6Cn) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:30 | 2021-11-11 |  |
 | [Aves del bosque y lluvia ligera](https://open.spotify.com/track/6uS10tj1xSGwpOaxvvgwoo) | [Hector's Nature Sounds](https://open.spotify.com/artist/33BDxeH7SAKTv1gJAol8wk) | [Ruido del bosque: pájaros y lluvia](https://open.spotify.com/album/2qEkPg5waJBvxjBX1E8v0p) | 1:55 | 2021-11-11 | 2023-06-20 |
 | [Beautiful Bird & Rain Noise](https://open.spotify.com/track/2pmugk13iWAVy280WYWOj8) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Beautiful Bird & Rain Noise](https://open.spotify.com/album/6fJw6eP08VlrQ0BUDagv8L) | 1:56 | 2021-11-11 | 2023-06-20 |
-| [Before Sunrise \(Birds In The Rain\)](https://open.spotify.com/track/5ONr2pQX2T4F14hQYb7Qjt) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:16 | 2023-06-19 |  |
+| [Before Sunrise \(Birds In The Rain\)](https://open.spotify.com/track/5ONr2pQX2T4F14hQYb7Qjt) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:16 | 2023-06-19 | 2023-06-21 |
 | [Bird Of Prey In Rain \- Seamless](https://open.spotify.com/track/2zx68fVUdFNxXucoyonBxE) | [Wet Feathered Friends](https://open.spotify.com/artist/0Ijxat55Vixh6PJvZJZPkB) | [Birds In The Wet](https://open.spotify.com/album/3Z0mEyfnRL4TCz03KUBSy7) | 2:37 | 2022-03-29 |  |
 | [Birds & Rain Loop Asmr](https://open.spotify.com/track/6N8Ziz91GxoVKj9gU2wRfI) | [Best Rain Sounds ASMR](https://open.spotify.com/artist/1UbP72nKVxMLhSsuqoD02m) | [Birds & Rain Loop Asmr](https://open.spotify.com/album/00YnSGxgLXk4tWeDW6kGDd) | 2:16 | 2021-11-11 |  |
 | [Birds Bathing In Rainstorm](https://open.spotify.com/track/29ry81Bqr6v6WfSYykdk1e) | [The Nature Of Sleep](https://open.spotify.com/artist/5vRKeZ7zo5UP0awLNAi32m) | [The Nature Of Rain](https://open.spotify.com/album/0OMpxBs2S0Al3NOJLagqyU) | 2:40 | 2021-11-11 |  |
@@ -63,6 +63,7 @@
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2021-11-11 |  |
 | [Mellow Forest Rain](https://open.spotify.com/track/2bTcONpqEDdYvaFmJQWuEI) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:48 | 2021-11-11 |  |
 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 | 2021-11-11 |  |
+| [Mori no Tori](https://open.spotify.com/track/5brFjtlGhCNhDXkfquy4qY) | [Shiroma Rin](https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9) | [Mori no Tori](https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm) | 2:13 | 2023-06-20 |  |
 | [Morning Glory \- Rain & Birds](https://open.spotify.com/track/1HI5Uc6JRIhMgyngerFaNS) | [Nature Sound Designer](https://open.spotify.com/artist/7iXPrSY7jJniwLawoqPMNQ) | [Morning Glory \- Rain & Birds](https://open.spotify.com/album/6Afo2S4HGSNqogsYywwEyX) | 2:47 | 2021-11-11 |  |
 | [Nap In The Rain](https://open.spotify.com/track/6GB1I9WVvjrWhDgOI595mS) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Drops Coming Down](https://open.spotify.com/album/1T3VkxiXiDshgFu3J0ymhi) | 2:38 | 2021-11-11 |  |
 | [Nature Sounds Rain](https://open.spotify.com/track/2IGId8l4oOzxgrzbTKqv76) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Relaxing Rain Fall](https://open.spotify.com/album/72p5eBCH1z736JhO4GoRhv) | 1:48 | 2021-11-11 | 2023-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,657 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,803 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
 | 50 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 
-Snapshot ID: `MCw2MWM4MTVhOTNlMzAyMjY0Y2U2ZDNmOTYwYTU5ZGQ0MWQ1MTJlZDEz`
+Snapshot ID: `MCwyM2EzYzA0MWVlZmM3NmNkZTQ3NGNhMjFiMTM4YmIwYzdjM2FlYTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,103 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,161 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
 | 100 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
 
-Snapshot ID: `MCwxYjk1YmQ2OWM2OTkzMGNiNDBjNGI5NTYwMTQyNmUxZmFhZjRiZmNi`
+Snapshot ID: `MCwyYWE0Nzk2NjQwYzI5ODE4OGFlZjg4MWYyMDdiZTFhMDIxZDNlZmEw`

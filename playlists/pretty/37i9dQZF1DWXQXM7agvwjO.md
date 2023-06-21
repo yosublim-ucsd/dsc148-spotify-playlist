@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ADOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,820 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,889 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Dancing In The Breeze Alone](https://open.spotify.com/track/4C8GsOcCM1oynQgIj5GNBf) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Dancing In The Breeze Alone](https://open.spotify.com/album/0WgP3hgxtqeacKwosCO1vU) | 4:27 |
 | 100 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 |
 
-Snapshot ID: `MCxiODEzNzUyZmNiZTVjNjIwYmU4M2VkNjI5NTY2ZmMyOTQ4MzVjOThm`
+Snapshot ID: `MCwwNTUwM2Y5Mjk5NjEwN2Q3YTdiZWQwZmQxMmIxNGU5OGNiN2U5NjA1`

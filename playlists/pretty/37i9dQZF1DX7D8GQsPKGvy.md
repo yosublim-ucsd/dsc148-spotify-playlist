@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,815 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,139 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Still Falling For You \- Jonas Blue Remix](https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Still Falling For You \(Jonas Blue Remix\)](https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM) | 3:08 |
 | 100 | [Nothing Breaks Like a Heart \- Don Diablo Remix](https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Nothing Breaks Like a Heart \(Don Diablo Remix\)](https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF) | 3:36 |
 
-Snapshot ID: `MCw3YTlmNzhmMjhjMDQ3ODQ5NDgzMWUwZTg5NDAyZDZhMmVlYzY2YTU2`
+Snapshot ID: `MCxjZTE4YjUzZjNmZDg0NTkzOTMyNGFhMDRmYzZjZDA4Y2Y1NjhhOGE4`

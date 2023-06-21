@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,739 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,838 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 149 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 150 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 
-Snapshot ID: `MCxmYTI0MDEwNjYxYzRhMTYyNjFlNGJmZjJiZjhkY2E3NmE2M2ZiMmQ2`
+Snapshot ID: `MCxlMTAwMjA5N2FhZDRmYWJhYWVhMDg5MGYzMjk0NTUzYTgwZDBmYzNk`

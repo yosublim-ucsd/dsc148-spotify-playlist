@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,233 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,281 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Setembro](https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Pulling Off The Covers](https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4) | 4:08 |
 | 100 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 |
 
-Snapshot ID: `MCxlM2YwZTg1MDgxNmVmZmJlZmQ4N2EwMjA4MTdjNDEzMDllYTU4NjVk`
+Snapshot ID: `MCw3N2VjYjk3YTcwNWM1ZDI1NmVjY2YxZTI5MTcxMWUzZGEyYzJiMWY5`

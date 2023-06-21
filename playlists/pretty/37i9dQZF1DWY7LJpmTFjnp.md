@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Los Bunkers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,763 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,964 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
 | 100 | [Santa Lucía \- En directo 2023](https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Santa Lucía \(En directo 2023\)](https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj) | 4:19 |
 
-Snapshot ID: `MCxjNTllNjEwNThhOTY3MDAwMDhkNjFlNDg1ZWMyOWU3NTEyYWU2MWY4`
+Snapshot ID: `MCxhZDRkMmUzYjAxOWQxYTg5ZDU2OGY1NzM1YzliYjY0MzYwZjVmMzc0`

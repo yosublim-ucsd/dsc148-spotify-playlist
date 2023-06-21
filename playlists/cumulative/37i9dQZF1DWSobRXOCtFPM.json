@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "20HZ (Remixes)",
+        "url": "https://open.spotify.com/album/3f9mgadeL04VN4LIwtDOgL"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "20HZ - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/4OMCH12g8VOh1Rqoy9ResS"
+    },
+    {
+      "album": {
         "name": "Accelerate",
         "url": "https://open.spotify.com/album/5Lusm3Pd6yI36T2OU0laov"
       },
@@ -74,6 +96,24 @@
       "duration_ms": 494328,
       "name": "Acid Dip",
       "url": "https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp"
+    },
+    {
+      "album": {
+        "name": "Alien Tek",
+        "url": "https://open.spotify.com/album/6ZIb6JLvP1ykwCwm2xTdDV"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318293,
+      "name": "Alien Tek",
+      "url": "https://open.spotify.com/track/1gNXsxP6jac7aRfOCSkMUb"
     },
     {
       "album": {
@@ -171,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Ascent (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376915,
+      "name": "Ascent - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0"
+    },
+    {
+      "album": {
         "name": "Moogmentum",
         "url": "https://open.spotify.com/album/2pnvkYVuAbAJyNCV82rKLh"
       },
@@ -240,7 +302,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 436764,
       "name": "Belgium (Josh Wink Remix)",
       "url": "https://open.spotify.com/track/0u0FirAekGc7ZwQPS1NjNC"
@@ -1345,6 +1407,32 @@
     },
     {
       "album": {
+        "name": "In My Heart (Carl Cox Remix)",
+        "url": "https://open.spotify.com/album/14Sr0sWU85bqAA9uPeNOUd"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471493,
+      "name": "In My Heart - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/7H823ThTNZdVFpfiJCjl1f"
+    },
+    {
+      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/16N2y3KI0P2lL7iFo45WjD"
       },
@@ -1368,6 +1456,36 @@
       "duration_ms": 416071,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/5TLCWDk3OqCe9mTPEJFbgU"
+    },
+    {
+      "album": {
+        "name": "Inferno (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/7pPduuWSydgIvuedhlPvWk"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358320,
+      "name": "Inferno - Space 92 Remix",
+      "url": "https://open.spotify.com/track/1cxWcExZyZRqV0YUcSJc15"
     },
     {
       "album": {
@@ -2129,6 +2247,32 @@
     },
     {
       "album": {
+        "name": "Poem for the Planet (Steve Bug Remix)",
+        "url": "https://open.spotify.com/album/2USJTl1pjuQ33ftvtkdbv5"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        },
+        {
+          "name": "Ursula Rucker",
+          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+        },
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566674,
+      "name": "Poem for the Planet (Steve Bug Remix)",
+      "url": "https://open.spotify.com/track/1VKSl8H6jUA0WqaPqtJwl8"
+    },
+    {
+      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/7ymTHkrWxZPXaVuZGfz75e"
       },
@@ -2232,6 +2376,28 @@
       "duration_ms": 447626,
       "name": "Realize - Original Mix",
       "url": "https://open.spotify.com/track/0WlHwzg4dnOEDaEi4jvey0"
+    },
+    {
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "album": {

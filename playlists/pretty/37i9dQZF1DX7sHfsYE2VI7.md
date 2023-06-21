@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,912 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,963 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [Dance](https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 4:34 |
 | 70 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 
-Snapshot ID: `MCxiMmRlZmUxNDExNjUyNTZlYjY0MTIyYTcyYWM3NDU2MWFiMDM3ODUx`
+Snapshot ID: `MCwxMDdkNzMwZGEzYzc2OTdjNzUxODJjODY2YjFkYmIyYTNiN2VmYTNl`

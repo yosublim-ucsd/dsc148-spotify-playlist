@@ -4,7 +4,7 @@
 
 > Brand new music from Asake \(pictured\), Doja Cat, Tom Grennan and more!
 
-4,205 songs - 9 day 11 hr 47 min
+4,206 songs - 9 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1630,11 +1630,12 @@
 | [High](https://open.spotify.com/track/4aLoyjHI2UfR55tJwgAj6J) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [High](https://open.spotify.com/album/7m8hVydvqkepqCj2WjffvS) | 2:36 | 2022-12-09 | 2022-12-16 |
 | [High](https://open.spotify.com/track/65Avi8zZuGDCvzBRmy9OEs) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [High](https://open.spotify.com/album/7iiew00ODnDRbVtHg91l4C) | 3:59 | 2022-12-09 | 2022-12-16 |
 | [High Hopes](https://open.spotify.com/track/1gKGqVhYeqPxmSxU7vtTy7) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [High Hopes](https://open.spotify.com/album/0ulgj0BFbcLjjPLthj98Sj) | 2:57 | 2023-04-27 | 2023-05-05 |
-| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 |  |
+| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
+| [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-16 |  |
 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 | 2023-05-25 | 2023-06-02 |
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-20 | 2023-04-28 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-24 | 2023-03-03 |
-| [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:20 | 2023-06-15 |  |
+| [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:19 | 2023-06-15 |  |
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2022-11-18 | 2022-11-25 |
 | [High Tones](https://open.spotify.com/track/3t24v3y8GxyNExl2Y4wSIP) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [High Tones](https://open.spotify.com/album/1ksEjv3uBAWXLr6WuvxCCD) | 2:42 | 2023-06-15 |  |
 | [Higher](https://open.spotify.com/track/2gQNGZHJMXMLO4zx5htcxE) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Higher](https://open.spotify.com/album/41P8vJo5H0WWwvPXSMGyGn) | 2:53 | 2023-06-01 | 2023-06-09 |

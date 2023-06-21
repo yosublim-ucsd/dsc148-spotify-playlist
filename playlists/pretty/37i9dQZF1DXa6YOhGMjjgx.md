@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The best of today's true alternative rock scene\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,016 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,042 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
 | 100 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
 
-Snapshot ID: `MCxhN2MyN2JhODU1MGM5OTViNTU2MjJkYjBmNDAwNjI5M2JmY2RiOTBm`
+Snapshot ID: `MCwxYWEwZjFlNjBjMjc3ZTg1MGM0OWU3YWU5YTk3MmRhNDJmY2JhOTJm`

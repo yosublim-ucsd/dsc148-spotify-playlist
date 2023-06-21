@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,516 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,752 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
 | 75 | [Giving It All \(To You\)](https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Giving It All \(To You\)](https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc) | 3:54 |
 
-Snapshot ID: `MCw1NGM1ZjFiZTdiNDhhMjMzMGM3NDc2ZTBlZjYzNmYxNzE3NjMzMzI5`
+Snapshot ID: `MCwyYjljYzIwM2RhYmFiMjA3ODY5MjdjNjQxYjYzN2EyZmVhY2Q2ODkw`

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-535 songs - 22 hr 54 min
+536 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-06-07 |  |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2022-06-07 |  |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-06-07 | 2022-09-15 |
+| [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-20 |  |
 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 | 2022-06-07 |  |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2022-06-07 |  |
 | [I Promise You This](https://open.spotify.com/track/3q0OFkCGpCB8XND1BKnnkL) | [Jenifer Tremblay](https://open.spotify.com/artist/0VnIScjCdDU0cmMZTTEnrf) | [I Promise You This](https://open.spotify.com/album/22fgElZ2UTCJHLkol5HfW4) | 2:09 | 2022-06-07 | 2022-09-15 |
@@ -377,7 +378,7 @@
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2022-06-07 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2022-06-07 | 2022-09-24 |
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2022-06-07 |  |
-| [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 |  |
+| [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 | 2023-06-21 |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-06-07 | 2022-09-15 |
 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 | 2023-04-23 |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-06-07 | 2022-07-20 |

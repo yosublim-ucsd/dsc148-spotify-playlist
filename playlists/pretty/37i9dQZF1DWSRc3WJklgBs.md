@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,891 likes - 196 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,083 likes - 196 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 195 | [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 |
 | 196 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 |
 
-Snapshot ID: `MCwyMjBiMTliYzUxMzJhY2Q4YjNhZTUwZGIwYmRjNDhjYzMzMDc1NTBk`
+Snapshot ID: `MCwyODQ0OTM5ZmUxYzU1YzI0MTNkMDIyMmM5Y2M4ZTg0Mjk5YjYxOGY1`

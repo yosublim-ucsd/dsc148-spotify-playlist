@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Zino Vinci
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,383 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,475 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
 | 60 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 |
 
-Snapshot ID: `MCwxODAxZWVlNzY2ZjFjNzAxZWJiOGVmZTdiOWIxYTdiNWMwZWM1MjEw`
+Snapshot ID: `MCxmZjA1MjQwMmQxYTVlN2U1NzExNzUzMWU3MDc3NzE4YjJiZTBmMzk0`

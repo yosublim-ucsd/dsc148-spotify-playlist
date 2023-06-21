@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nilipek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,444 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,445 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 17 | [Padişahım](https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S) | 2:33 |
 | 18 | [Günahsa Günah](https://open.spotify.com/track/5mbI2XPHNhcW6yK1p66lzO) | [Yeliz Açıkel](https://open.spotify.com/artist/5z2Rk1qdf6ErbI9ZD0lf0k) | [Günahsa Günah](https://open.spotify.com/album/1et1dtMuKu9F5WgWzKQHFn) | 2:44 |
 | 19 | [Anne](https://open.spotify.com/track/2iSumSvCahwV8odkFsQN5A) | [Atiye](https://open.spotify.com/artist/56g1u3Bu0S5072aksxyBei) | [Anne](https://open.spotify.com/album/3aDAFejJ8bwhEDl5LypT8t) | 3:23 |
-| 20 | [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 |
+| 20 | [Neden](https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF) | 1:55 |
 | 21 | [1 Hafta](https://open.spotify.com/track/2v7ouEYQokJ9LrrV0elbOm) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS) | [1 Hafta](https://open.spotify.com/album/4chIqOwSTztEWtClE6Nmxn) | 2:49 |
 | 22 | [Haydar Haydar](https://open.spotify.com/track/6fxBMyqw0627Z0dma2EsPY) | [Niran Ünsal](https://open.spotify.com/artist/1BvyGRrehtERIWjXKsgzWo) | [Haydar Haydar](https://open.spotify.com/album/5796uo96TvZMxGjF3jfiq0) | 5:56 |
 | 23 | [Gel Gönül Gidelim](https://open.spotify.com/track/7sHgE73MmjkEecp5XuGWtt) | [Sabahat Akkiraz](https://open.spotify.com/artist/64ij9owifHXh2rvuCGIEV7) | [Harabati](https://open.spotify.com/album/4BsHAsw94DfUzVwdqyUsU6) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Sufle](https://open.spotify.com/track/0DsIKCV17WrO5qWff6oi9f) | [Seren Serdar](https://open.spotify.com/artist/4wU7vmDFAuLIPSYiqgM7Xb) | [Sufle](https://open.spotify.com/album/5IEf0ghCKhO7vYoJbJZRqk) | 3:18 |
 | 50 | [April Waltz](https://open.spotify.com/track/3WI0O1mbESmgv8TVHV86D7) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [Patterns](https://open.spotify.com/album/1DufTsOWXSqJPpUGrRAg1C) | 3:20 |
 
-Snapshot ID: `MCw4ZDUxYjllMDA0ZmQ0Zjg0NTljOTIwNjkyMTVlMTQ0Mjk5ZGQyY2Mx`
+Snapshot ID: `MCxmNWFiYjIxZWYzODE3OGE4NmFiMTg3YWE2OGViYmM4YmFkODc0ZGVj`

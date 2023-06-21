@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,583 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,750 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
 | 70 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 
-Snapshot ID: `MCxmM2U2MmIxYjJmYjMwMzRiOWQ1NTgzMDFkNmM4YWZiZDFiYmYzZjk2`
+Snapshot ID: `MCxkODczM2EyZWNiZmU5NTQ0MTViMWE2MmZiM2QyMTRiZjFlNmNkNTY5`

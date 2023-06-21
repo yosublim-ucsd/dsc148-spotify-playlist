@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,002 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,077 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Oh Na Na](https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Oh Na Na](https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko) | 3:23 |
 | 100 | [SÁBADO](https://open.spotify.com/track/5SjaZNwy1DpttK1lLk1r3j) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:58 |
 
-Snapshot ID: `MCxiN2EzYWJmZDY2ODExNTY5MGJiYzU5ZGRiMTAyMWU3N2JhZjUzYWY3`
+Snapshot ID: `MCw0ZjMzZWI2ZjQ3OGU3MzkwMWZlMzQ4N2NmY2FjN2E5ZDRlMzJlOWFh`

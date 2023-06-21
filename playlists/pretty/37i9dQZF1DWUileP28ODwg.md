@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,731 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,940 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 |
 | 100 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 |
 
-Snapshot ID: `MCwxYzE2NWNhZWIwODgwYjQ0ZDNiNTU2N2FkYTVkMmJhYmMxYmVlMGMw`
+Snapshot ID: `MCxhN2I1ZDc5NWE4NGU4YTA2Mjc1NDFiNjUxZjY2ZTU5ZjFmMzgxOWJl`

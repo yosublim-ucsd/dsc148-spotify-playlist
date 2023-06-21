@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,447 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,550 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 50 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
 
-Snapshot ID: `MCxkMGE2NmU3OTZjZTg4ZWI3ZGE3NjI0MjAxMTJmODA0YzU0MjdhY2M4`
+Snapshot ID: `MCw2ZjFjNmQzNzVjOWFiNDQwZTA4ODcyMDExMWMzMjk5MmZkNzdjNzc4`

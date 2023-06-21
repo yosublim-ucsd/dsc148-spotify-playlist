@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Asake \(pictured\), Doja Cat, Tom Grennan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,263 likes - 144 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,284 likes - 144 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 10 | [Filth](https://open.spotify.com/track/1U2WGdxYan1IYc70bY4jXJ) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Filth](https://open.spotify.com/album/66qcdkRaTQ7gcIEcABTM4Q) | 2:50 |
 | 11 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 12 | [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 |
-| 13 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 |
+| 13 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 |
 | 14 | [DTF](https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DTF](https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga) | 2:18 |
 | 15 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 |
 | 16 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
 | 17 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 |
 | 18 | [Side Effects](https://open.spotify.com/track/3M90pvbJs8R4Ki5pTJUyhS) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Side Effects](https://open.spotify.com/album/4dzLBHQWjH8KPqHsow0AkY) | 3:03 |
 | 19 | [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 |
-| 20 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:20 |
+| 20 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:19 |
 | 21 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 22 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 |
 | 23 | [pay ur bills](https://open.spotify.com/track/1G3onwb5hFsUifaJQIXb8e) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [pay ur bills](https://open.spotify.com/album/4IvIJ10ma2QkfCpqxNPrXp) | 2:02 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [Other Side](https://open.spotify.com/track/0XQCSeMewgwRdAUiZlMdFB) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Other Side](https://open.spotify.com/album/6stbeO8ul2jP9PZwxUSaoL) | 2:08 |
 | 144 | [Runaway](https://open.spotify.com/track/2LeuPP8lfPi5YtqK2jv8VH) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Runaway](https://open.spotify.com/album/0nHYvEBLnYbIApQLBIS4f3) | 3:04 |
 
-Snapshot ID: `MCw1MWJkZDBiMWQwMjNlNGQyMzQyNDc3NDc1ZGRjN2EzN2QzOWJmYWM0`
+Snapshot ID: `MCxlNGFmMWViN2FiMzZlY2Y5NmM3NjQ1NzQwYTIwNGE4MDU0NTBjMDll`

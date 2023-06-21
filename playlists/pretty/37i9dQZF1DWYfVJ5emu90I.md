@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,598 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,636 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 |
 | 50 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 |
 
-Snapshot ID: `MCw4Y2ZkNTllN2FmOTZjZGUxYjc5MDU2ZTE0NzNhOGRhZTQxOGZkMGVk`
+Snapshot ID: `MCwyMDQ5MDdhODA3NmZhOGU0MjFlY2UwODBjOGY1YWM0NDNiYTRhMzky`

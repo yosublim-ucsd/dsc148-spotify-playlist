@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,424 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,419 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Sleep in the Woods ASMR, Pt\. 1](https://open.spotify.com/track/4PEGrSOKelsInQ0gxasGkJ) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [Sleep in the Woods ASMR, Relaxing Head, Neck and Shoulders Massage and Tapping](https://open.spotify.com/album/4z13Tzzo5YF0lkAWlAgl7F) | 3:36 |
 | 100 | [Tapping Hard Foam Fast](https://open.spotify.com/track/05NU7RkOVJV72mBj22rHQV) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [Tapping Triggers](https://open.spotify.com/album/79CPjwbFCfa1KeZPce4Pu1) | 2:05 |
 
-Snapshot ID: `MCwwOTBiMmIyMjE5MmI2ZjE5Yzg4NGYyZjFhNjM2NjljNTYxYWFmNzQ3`
+Snapshot ID: `MCxlZmJlNWY0OGU5YjI0N2JkNDNmZjEwZmI3MjA5MWI4MjRlMTE0YWM4`

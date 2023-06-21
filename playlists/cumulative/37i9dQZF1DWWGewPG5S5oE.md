@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: JABBERLOOP
 
-167 songs - 13 hr 52 min
+168 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Good Thing Will Happen](https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta) | [Light Music Society](https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q), [Yu KUga](https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s) | [From Where The Sun Rises](https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z) | 6:45 | 2023-03-28 | 2023-04-19 |
 | [Goreezin'](https://open.spotify.com/track/0EqXbkxKfOpJl6XfqNOkwu) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Goreezin'](https://open.spotify.com/album/2flFBbyybmmy7nB4NTnWWd) | 5:29 | 2022-09-06 | 2022-10-19 |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
-| [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 |  |
+| [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-06-21 |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
 | [here](https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [gnome](https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV) | 5:36 | 2022-10-18 | 2023-05-31 |
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
@@ -108,6 +108,7 @@
 | [Serendipity](https://open.spotify.com/track/0j7iNGrIc7Sye3rMbpPn8h) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Serendipity](https://open.spotify.com/album/54t9EAdUVqNEPyZTD0y43y) | 5:56 | 2023-05-23 |  |
 | [Session zero \- Feat\. 馬場智章](https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP) | [HHMM](https://open.spotify.com/artist/1XPTvuhra2ygPO1E9UQcfi), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Session zero \(Feat\. 馬場智章\)](https://open.spotify.com/album/4TFS3YoYDhYzieXw6PQWms) | 3:16 | 2023-02-21 | 2023-04-19 |
 | [She's A Rainbow \- Live](https://open.spotify.com/track/4o0FeJv0qP71n5JfgKZSgL) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Making Us Alive \(Live\)](https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y) | 5:52 | 2022-09-27 | 2022-11-16 |
+| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 |  |
 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 | 2023-05-02 |  |
 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 | 2022-09-06 | 2022-09-13 |
 | [So Tender](https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 6:16 | 2023-01-17 | 2023-01-25 |

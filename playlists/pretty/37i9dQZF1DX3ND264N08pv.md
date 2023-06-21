@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,050 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,127 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Enemy Contact](https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Enemy Contact](https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu) | 3:40 |
 | 100 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 |
 
-Snapshot ID: `MCw2NzE0NmFlMTg4NzVhOWQzMmRlNGZkYzI3OTg0NjA3NDIxMWU2YzBm`
+Snapshot ID: `MCw4OGQ3OWVhZGYwMDVlMjFmZDQ4NmI1OTZlYWZkMzU0M2JiMzAzZDA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Young Miko & Nicki Nicole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,506 likes - 101 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,901 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 46 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
 | 47 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
 | 48 | [Municiones](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Municiones](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
-| 49 | [Campeones](https://open.spotify.com/track/3utEkGqMuYMK6xMxHZOaCp) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Campeones](https://open.spotify.com/album/16KR6ii9PcY77QlUqSf9Y3) | 3:20 |
+| 49 | [Campeones](https://open.spotify.com/track/3utEkGqMuYMK6xMxHZOaCp) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Campeones](https://open.spotify.com/album/16KR6ii9PcY77QlUqSf9Y3) | 3:20 |
 | 50 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
 | 51 | [SR DE LOS CIELOS](https://open.spotify.com/track/3iug2F7ByIBMVkmLGgt3ir) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:54 |
 | 52 | [Tú Eres Loca?](https://open.spotify.com/track/279CFygxzwjumv9FTG25jn) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Tú Eres Loca?](https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X) | 4:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 100 | [Pa' ganá](https://open.spotify.com/track/5gJ3lOJPUrbX5MsQxUAgaK) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Pa' ganá](https://open.spotify.com/album/01pnaYwlDIVi7EEyxX1Jm3) | 3:06 |
 | 101 | [Desahogo](https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:01 |
 
-Snapshot ID: `MCw0MWYxOGNhYTU0YzNlYTNlODJmNjM5NmVkNGU0NmQyZGUxNjczMmRk`
+Snapshot ID: `MCxlNzMzNjM1YWE3MmYwODY1NWQyZGJjZjc5YzhmZjMxZTFmNTI2MjI0`

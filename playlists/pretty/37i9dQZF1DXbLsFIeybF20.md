@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,522 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,510 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 | 50 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 
-Snapshot ID: `MCw1YWI2YTBlMjY3NTE3ZmI1ODg4N2RhNjc3NWM2ZmYxN2MwM2UzZmJi`
+Snapshot ID: `MCw5ZWM5YzBkZTFlOTA5YjkzYzFlYzg0OTJlNTY5N2FmZWY3YzM3NWVl`

@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 187785,
       "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
       "url": "https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8"
@@ -12000,6 +12000,36 @@
       "duration_ms": 227522,
       "name": "Nodutha Nannane",
       "url": "https://open.spotify.com/track/7JrHv5IwagpdpTvGCTiycP"
+    },
+    {
+      "album": {
+        "name": "Nooraru Rangiro (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/3u1UkHWmR0tfm9GA2N80HR"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Nagesh Kundapura",
+          "url": "https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Nooraru Rangiro (From \"Paramvah\")",
+      "url": "https://open.spotify.com/track/6J1TFwhIUNiPizswwZ6rEx"
     },
     {
       "album": {

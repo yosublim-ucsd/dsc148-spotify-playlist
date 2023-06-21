@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,105 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,355 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Hoy Quiero Confesar](https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:25 |
 | 100 | [Deja](https://open.spotify.com/track/5kagFOpEGvv3gi5DgPyPX4) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Aparentemente](https://open.spotify.com/album/1pXqrfucKSsABnhOGmTJ7U) | 4:53 |
 
-Snapshot ID: `MCw0M2FkNGNhNzQ4NjUwYmYzZTJlNDEyM2E1NzI1NDFjMmEzYTcyY2E5`
+Snapshot ID: `MCxiYjkzNWUwNmNkYjcxMTA1ZTJjMDY2NDAzYzVlZWIxYzdiN2Y1Mzg3`

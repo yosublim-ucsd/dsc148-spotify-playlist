@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,359 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,431 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
 | 90 | [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 |
 
-Snapshot ID: `MCwwOGZiYjVjYTQ0YWYzMDM0OTVhNGM4ZDRjNWU4NGM1YTJiYmNiYTBh`
+Snapshot ID: `MCwyMzliMjY5ZTM0NzU2ZjJhNTA2NzAyMjY2OTU1NDBlMjc5MzlkNGVm`

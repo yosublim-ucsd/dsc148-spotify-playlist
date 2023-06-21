@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,972 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,065 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
 | 50 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 
-Snapshot ID: `MCxiYmZjYTY0ZDE2NjE5ZjY1ZTU5M2U2OGI1NzRkZGE5N2Q2YTEzZTFk`
+Snapshot ID: `MCw2MjNlN2E2ZWMxNTM3NTUzNzcyMzMwNWZiMDA5MmY4OWI2Y2YyMjFm`

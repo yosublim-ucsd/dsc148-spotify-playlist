@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,817 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,831 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
 | 60 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
 
-Snapshot ID: `MCw5MjA5MDEwMWRiOTY5NDMyNWJjM2I2ODA0NDMyN2ZhYjJlZTk5NTMz`
+Snapshot ID: `MCxjMWNmNGIxNjYwYTgxNjk4OTkxMzdkMmZmNWIyNDE2OTc5ZjU5YTFk`

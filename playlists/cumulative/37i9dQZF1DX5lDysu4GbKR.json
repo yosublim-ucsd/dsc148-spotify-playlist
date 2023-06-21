@@ -1407,20 +1407,24 @@
     },
     {
       "album": {
-        "name": "I Can't Make You Love Me (Live at the Auckland Town Hall)",
+        "name": "I Can't Make You Love Me (feat. Nick Dow) [Live at the Auckland Town Hall, featuring Nick Dow on Piano]",
         "url": "https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6"
       },
       "artists": [
         {
           "name": "TEEKS",
           "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "Nick Dow",
+          "url": "https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca"
         }
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273727,
-      "name": "I Can't Make You Love Me - Live at the Auckland Town Hall",
+      "name": "I Can't Make You Love Me (feat. Nick Dow)",
       "url": "https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n"
     },
     {

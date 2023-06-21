@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,442 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,477 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 9 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
 | 10 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
 | 11 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 |
-| 12 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
+| 12 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 13 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
 | 14 | [Help!](https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Help!](https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ) | 3:56 |
 | 15 | [I'm So Tired...](https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [I'm So Tired...](https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK) | 2:55 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 109 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
 | 110 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 
-Snapshot ID: `MCw3ZjdmNDU5ODQ1Y2E3OWJmYzliYTcyNjE4YWFjZDM5Mjg3NDM3OTlh`
+Snapshot ID: `MCw3NWFkNDA1ZDU2ZDI4ZWNkZDE3M2E1ZmUyNDMyMmVlODhmZWZhNjcx`

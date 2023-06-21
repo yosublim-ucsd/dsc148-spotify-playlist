@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,037 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,019 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 |
 | 100 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 |
 
-Snapshot ID: `MCxiYjIzZmMwMWUyNDVmNTBiMTE0NTg2ZWM5NGM2YWEyZWQ2ZDUxNGNl`
+Snapshot ID: `MCw3OGFhZTUzYzFkYzAyMWJjNWY4YmVjNGQ3MzIyMDNhYzc2Y2E5MzI0`

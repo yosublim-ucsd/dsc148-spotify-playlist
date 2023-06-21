@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,102 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,139 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 |
 | 100 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 
-Snapshot ID: `MCxkNzRkYTZiMDU5YzI1MTVlZjRiZjEwYjM4YmE5YmIxMzFkZjIzYTIz`
+Snapshot ID: `MCw3ZDczOWQ1NGZmN2VmYmZmMzlmMmE2YmI0YzI1MGIyMDNhYzI0MzM4`

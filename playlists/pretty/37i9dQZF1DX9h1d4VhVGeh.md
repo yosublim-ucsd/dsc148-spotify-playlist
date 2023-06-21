@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,160 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,259 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 99 | [Halalalalaya](https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c) | [The Chehade Brothers](https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ) | [Halalalalaya](https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi) | 2:17 |
 | 100 | [Mustaheel](https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mustaheel](https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65) | 3:09 |
 
-Snapshot ID: `MCxlYTRjODQ0YjNjZWIxMDAwN2FiMzgyYTUzZWZkMWNiMjQyMTI0YWFh`
+Snapshot ID: `MCwwMzExNDBjMDU1ZTk5NDRkYzNmNjk5MDU0MjQ2ZTRiYjI2YjFmN2Vl`

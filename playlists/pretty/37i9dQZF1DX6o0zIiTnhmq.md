@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,240 likes - 50 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,483 likes - 50 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 3 | [Ram Siya Ram](https://open.spotify.com/track/71hjdkWEDFxESRWPDvDMNb) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Adipurush](https://open.spotify.com/album/6E4a5L8GGEk560bbHlM2VP) | 3:50 |
 | 4 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 |
 | 5 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 |
-| 6 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
-| 7 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
-| 8 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 |
-| 9 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
-| 10 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 |
-| 11 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 |
-| 12 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 |
-| 13 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 |
+| 6 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
+| 7 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
+| 8 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
+| 9 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 |
+| 10 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
+| 11 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 |
+| 12 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 |
+| 13 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 |
 | 14 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 |
 | 15 | [Om Shanti: Mantra for Peace](https://open.spotify.com/track/0uRzptpVnUqMLvz7ZrhMgP) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:00 |
 | 16 | [Om Sahana Vavatu \(Shanti Mantra\)](https://open.spotify.com/track/0qMsQ5dt3QUgA0iJiNCT5r) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 | 50 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 |
 
-Snapshot ID: `MCxiNzFhMjEwMDhlMzA0ZWJiZDc1NDRiYjUyOThlZTBiZmNiOGQ4ZDIx`
+Snapshot ID: `MCwzYjhlMDhhZjU4ZjJkZDM4Mzc2NDQ3NmQ2NTQ2ZmQxYTY3MGFlZGE4`

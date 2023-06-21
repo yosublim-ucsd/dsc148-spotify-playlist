@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: A Boogie Wit da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,475 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,498 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 |
 | 100 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
 
-Snapshot ID: `MCw5NjhmYTZmZTdjZjc2ZDUzYTQ0MjBhYzQxYzJkOTExYjk0ZDFmM2Rl`
+Snapshot ID: `MCxlNThiN2ExMjY3M2UzYTJiMWU5MzNjNzNkYzcwYTk2MDg2NTcyNzE4`

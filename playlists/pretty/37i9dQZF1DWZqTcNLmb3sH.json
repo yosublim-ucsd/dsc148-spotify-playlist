@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49760,
+  "num_followers": 49772,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRiOWZiNTAyZGExODU4YWIzMjNjMTY2NWZiOTFkM2FmYzYxZDhm",
+  "snapshot_id": "MCxkY2ExOGE3YmRiMTRjNWMyNjRkZmM0NDM5Nzk5MGI1ZDg4MWMwMzRi",
   "tracks": [
     {
       "added_at": "2023-05-29 08:32:58",
@@ -107,6 +107,34 @@
       "duration_ms": 238461,
       "name": "Endu Endendu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
+    },
+    {
+      "added_at": "2023-06-20 09:34:38",
+      "album": {
+        "name": "Nooraru Rangiro (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/3u1UkHWmR0tfm9GA2N80HR"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Nagesh Kundapura",
+          "url": "https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Nooraru Rangiro (From \"Paramvah\")",
+      "url": "https://open.spotify.com/track/6J1TFwhIUNiPizswwZ6rEx"
     },
     {
       "added_at": "2023-06-07 04:40:04",
@@ -1627,22 +1655,6 @@
       "duration_ms": 269713,
       "name": "Malegaala Bantu Saniha (From \"Pranayam\")",
       "url": "https://open.spotify.com/track/6vKoE9pjqjiziMhEOOaNXS"
-    },
-    {
-      "added_at": "2023-03-15 11:10:37",
-      "album": {
-        "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
-        "url": "https://open.spotify.com/album/4O8tIcK8FTWjGraD0q6KAB"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        }
-      ],
-      "duration_ms": 187785,
-      "name": "Baanadariyalli Hode Yelli (from \"Baanadariyalli\")",
-      "url": "https://open.spotify.com/track/5mmgqY4iWniZeCKL0vkiK8"
     }
   ],
   "unique_name": "Latest Kannada",

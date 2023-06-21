@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,674 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,723 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 135 | [Please Love Me \- Mono](https://open.spotify.com/track/0XQWZGT2B9VmiJ4d9wiTzO) | [Reverb LTD](https://open.spotify.com/artist/7JKPZ0c5Bicj1rYHfjUbJU) | [Please Love Me](https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U) | 2:30 |
 | 136 | [That Day When She Needed Me](https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS) | [The Performers](https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI) | [Best of Ace: Soul Harmony](https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a) | 2:41 |
 
-Snapshot ID: `MCxkNWFhZWI1ZjNiMGRjZjBhYTlhZjhhYmI2OGE3ZGJiMjZlMzUyYzE4`
+Snapshot ID: `MCw3OTU3NWJlZDBlZmUxMGIxZjc0ODZkNjYyNWJhNTk0ZWIxMmQ4Nzg4`

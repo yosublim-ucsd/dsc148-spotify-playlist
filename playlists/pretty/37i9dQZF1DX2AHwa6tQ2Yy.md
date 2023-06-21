@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,330 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,352 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
 | 70 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 
-Snapshot ID: `MCw3ZDYyN2U2ZjUwYjU0Nzg0YThjMDQ1NDU4MGI1Y2RiZGNiYjMxNTQ1`
+Snapshot ID: `MCwxZDJhNDQ2MTdlZWU4MTM5YzE5MWNiZGQzYmI3ODhiYTQ5ZjkyOWZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,322 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,325 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 26 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
 | 27 | [虹](https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:58 |
 | 28 | [ファイアスターター](https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 |
-| 29 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
+| 29 | [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 |
 | 30 | [INSIDE OF ME](https://open.spotify.com/track/2kI6bq6q3Ab0FlYFHWInAE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 |
 | 31 | [雨上がりに咲く花](https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:43 |
 | 32 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 |
-| 33 | [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 |
+| 33 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
 | 34 | [STORY](https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 |
 | 35 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 |
 | 36 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 50 | [Hold It, Buster!! 〜Battle of Rap〜](https://open.spotify.com/track/4rdBB2adAtweJmY76Haoxw) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [I Wanna Be...](https://open.spotify.com/album/3ymMxpfCF7NC6aqWktAe7n) | 3:28 |
 | 51 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDA3NzFlY2QxZTNkYmYxZGEyODdiMjFkODdhNDc5M2MyYg==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA0YmI3YzVjYjhhZmI2ZDI4N2YwMjcyNGEwZDRhOGNiMw==`

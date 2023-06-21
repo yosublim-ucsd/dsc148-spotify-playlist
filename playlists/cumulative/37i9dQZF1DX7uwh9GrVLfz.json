@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "CLASSICS",
+        "url": "https://open.spotify.com/album/30xI41xe0EWuvlIomwWpmy"
+      },
+      "artists": [
+        {
+          "name": "Four Get Me A Nots",
+          "url": "https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7kfTazB74bkjKkRjPl8Moh"
+    },
+    {
+      "album": {
         "name": "NEW MYTHTAKES",
         "url": "https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 132028,
       "name": "MMN",
       "url": "https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw"

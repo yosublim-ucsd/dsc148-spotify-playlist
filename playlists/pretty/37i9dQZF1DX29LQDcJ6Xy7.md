@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,823 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,954 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
 | 100 | [For the Beaten](https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [For the Beaten](https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T) | 3:31 |
 
-Snapshot ID: `MCwwYTNhMTFlYzc2OGYyZjU3ZGU3Nzk5ZTczYzAwNmNlYzU3M2YwMDM1`
+Snapshot ID: `MCxlNTlhNmY0ZTVkOTNlNmIwNWVjMzRiNmRlODQwNzQ2MjBiMjQ0M2Ey`

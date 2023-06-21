@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,410,545 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,410,624 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix](https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \[Tiësto Remix\]](https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt) | 2:26 |
 | 100 | [Don't Forget My Love \- John Summit Remix](https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:30 |
 
-Snapshot ID: `MCxmMmFkMzgzYmE2YjNhOWJkNzM0NWZhZTMxMWM5ZjRiNWJjNmEyOTEx`
+Snapshot ID: `MCwzOGE4YTM3Nzg5YzVjMDlkYmZmZDViNGEzODE5ODJkYjQ2NzFhYWEw`

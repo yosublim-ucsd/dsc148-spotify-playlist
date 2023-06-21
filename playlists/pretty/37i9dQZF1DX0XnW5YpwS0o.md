@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,184 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,299 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 99 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 100 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb) | 3:50 |
 
-Snapshot ID: `MCxlODY5YTg5ODkyYTRiZTNlNzhlNDE5NWY2ZWIwYmNhZmM0ZTViZDZi`
+Snapshot ID: `MCxiN2ZlZjE3NGRiMjRlMGQwNzExZWM3M2ZjYTFiYzNkYjQ2YjNmMWI1`

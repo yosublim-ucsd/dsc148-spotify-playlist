@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Juliet; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,237 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,260 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [Gonna be you](https://open.spotify.com/track/1qGD0pluRScUcMhojxeyrk) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [CHU](https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid) | 4:18 |
 | 101 | [wish you had](https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [wish you had](https://open.spotify.com/album/3ceo5JbawMnBg8XorYrFxN) | 3:21 |
 
-Snapshot ID: `MCwzZDg1NTQ1OGQ3NTQxY2NhYWZkMDgwZjQzNzg1MGVmZjQ2YmY5MTg5`
+Snapshot ID: `MCxjMjdjMmUyNmIzMzg4ODQ3MGI3MTBlZjVjOThlYjM5ZGVhZGU0MmI0`

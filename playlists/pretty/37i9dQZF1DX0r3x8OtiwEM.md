@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,401 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,536 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 |
 | 60 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 
-Snapshot ID: `MCwwNzU5ZGUzMGFkZWM2NzI0YjFkZjFjNjFmYjQ5NTlhNzk1ZDRhYzM4`
+Snapshot ID: `MCxmMDY0MjkxYzE2MTc4ZDA5OGZhMWM1NzRmZGE0MTE3MzNkOGNlNTFm`

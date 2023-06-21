@@ -41,7 +41,7 @@
     },
     {
       "album": {
-        "name": "Love Revolution",
+        "name": "LOVE REVOLUTION",
         "url": "https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl"
       },
       "artists": [
@@ -2138,10 +2138,36 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 168000,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/0R3oEc5KL9XaTxMoCh43Rj"
+    },
+    {
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/4J5cklG87bOfyeMtjxWWVo"
+      },
+      "artists": [
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/65wSHx7bVjeqWfRz6gHSVO"
     },
     {
       "album": {

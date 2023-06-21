@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Aitana",
+  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Manuel Turizo, Sebasti\u00e1n Yatra, Be\u00e9le",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 180453,
       "name": "Bailando por Ahi",
       "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 199138,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 142400,
       "name": "CARDIO",
       "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
@@ -1267,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "album": {
         "name": "Frases de Taza",
         "url": "https://open.spotify.com/album/23pMTEWByeeckQXeXuPqFd"
       },
@@ -1308,6 +1330,24 @@
       "duration_ms": 172200,
       "name": "GALGO",
       "url": "https://open.spotify.com/track/5zfUKIkOzlbzPNOsQD9VGC"
+    },
+    {
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
     },
     {
       "album": {
@@ -1825,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
+    },
+    {
+      "album": {
         "name": "Me Da Bastante Miedo",
         "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
       },
@@ -1876,7 +1934,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
@@ -1898,7 +1956,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 202250,
       "name": "Me He Pillao x Ti",
       "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
@@ -2308,7 +2366,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 160871,
       "name": "Ni la mitad",
       "url": "https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q"
@@ -2370,6 +2428,24 @@
       "duration_ms": 178106,
       "name": "No Quiero A Nadie",
       "url": "https://open.spotify.com/track/3FPqolx3Gbz8bynQyKpnrJ"
+    },
+    {
+      "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "album": {
@@ -2534,6 +2610,24 @@
       "duration_ms": 166153,
       "name": "PAS",
       "url": "https://open.spotify.com/track/4NiPgL5Vicj6rVks2Ismc5"
+    },
+    {
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "album": {
@@ -2795,6 +2889,46 @@
     },
     {
       "album": {
+        "name": "Semanas",
+        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176587,
+      "name": "Semanas",
+      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
+    },
+    {
+      "album": {
+        "name": "Sexo en la playa",
+        "url": "https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225697,
+      "name": "Sexo en la playa",
+      "url": "https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy"
+    },
+    {
+      "album": {
         "name": "SI ELLA SUPIERA",
         "url": "https://open.spotify.com/album/4MTPsE7cVMXfxZAjsTopE3"
       },
@@ -2868,7 +3002,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 183073,
       "name": "Sin Antifaz (feat. Rayden)",
       "url": "https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w"

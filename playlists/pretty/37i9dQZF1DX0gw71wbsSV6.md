@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,672 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,687 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 20 | [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 |
 | 21 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 |
 | 22 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
-| 23 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 |
+| 23 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 |
 | 24 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 25 | [just like you](https://open.spotify.com/track/41Rk18JqD8CbBcWM8VH0kk) | [黃小楨](https://open.spotify.com/artist/36nWYFJVxfbpEenzbQRPZr) | [just like you](https://open.spotify.com/album/6KSYGpRBRafRV0jQh4oayC) | 2:50 |
 | 26 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 50 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 
-Snapshot ID: `MCxhOTFjZjljNjA4YjY4MWU1YmU5NmQwMGM0MjE3NTkzMjY0ZTk3YmYy`
+Snapshot ID: `MCxmMGRjMmFjMjhlMGU4YzA1OGI2YzlkNWI1N2NkNDc0MWYyYmE2NWVm`

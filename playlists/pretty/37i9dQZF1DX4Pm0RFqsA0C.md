@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,874 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,886 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 149 | [중독 Deep Sorrow](https://open.spotify.com/track/3MuiFHZtmoSiNIfO7AF767) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Wedding \- The 6th Album](https://open.spotify.com/album/2z3PuFKRY0tH0XOIzZzfoF) | 4:35 |
 | 150 | [해석남녀](https://open.spotify.com/track/6p5cxU5TOjWQU9UfozgIq9) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:22 |
 
-Snapshot ID: `MCw1NTJjODAxM2FhYzYxMWU1YmM4MzA3NjY3NmIyNjM5NTYwY2VmZjU5`
+Snapshot ID: `MCw4ZWY0NWZlNjM4MjgzNjYzYTE3MDcxYjA0YWM4ZmUyNDhhNTVlNjZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,088 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 99 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 |
 | 100 | [All I Wanna Do \(K\) \(Feat\. Hoody & Loco\)](https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:36 |
 
-Snapshot ID: `MCw5OGZjNTMxMTJhYzNhZWIwMzEwM2Q3MjRlMWYzNzYzMTc4NTUzZGU4`
+Snapshot ID: `MCxiZDY5Mjk2ZWYyZTkxNDJhNjgwZDUzNGFkYjlhMzAyODQzYzMzYzdl`

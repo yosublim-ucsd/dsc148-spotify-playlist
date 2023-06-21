@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  <a href="https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=IhEOvc51SFWgEJXxlaMT3g">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,229 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,355 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Here All the Time \(feat\. Maranda Curtis\)](https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 6:02 |
 | 80 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 
-Snapshot ID: `MCwwZjFjNWJjYzM4MjQwN2ZhNjhkNjM0NDZkNTJlNWVlMDU3MGM5ODc4`
+Snapshot ID: `MCw2MjIwZjc1YjkwMTE3Y2ExNWMxYzIzMTkzNmI3MWE4MmQ3ZWIwMDUy`

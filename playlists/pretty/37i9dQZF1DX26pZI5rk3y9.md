@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,609 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,611 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 49 | [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 |
 | 50 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
 
-Snapshot ID: `MCwwYzU4ZWI4NGY1MjUwNTg0OGNlZTkzMzA1YzE3YWI0MzhlZDM4YTJl`
+Snapshot ID: `MCwxYWQ1MWUzZjgzNjUwNTk5OWNhM2NhNmZkMGQ4OTMyNTczYjQ0Zjlh`

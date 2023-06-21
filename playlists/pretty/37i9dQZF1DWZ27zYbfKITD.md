@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,178 likes - 76 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,289 likes - 76 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 75 | [Vagrant's Rest \(A Place to Call Home\)](https://open.spotify.com/track/72OyVUVfEVFl3Iy7rebahm) | [e.hillman](https://open.spotify.com/artist/5I4vi0vVJXlwNMg9EDry3V) | [Ashen \(Original Soundtrack\)](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) | 3:22 |
 | 76 | [Miss Jackson](https://open.spotify.com/track/7hKxwj5xPv2TK8u2hCuMYz) | [Guy Farley](https://open.spotify.com/artist/7zPWhKdOZpsBTGSSee5DsM) | [Silver Skates \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6rXyVJElsZ0YcB2oo9KiRr) | 2:15 |
 
-Snapshot ID: `MCwxNDRmNDMxYTA4ZjVjNDlhZGZkM2U1MmRiMmM5NGFiZDhiYjgxMThi`
+Snapshot ID: `MCw4MGM5MzM0ZDI2ZjJhOWMxMzRjN2ZjNWI3NmZlMTAzMGQ4MGQ4ZWIz`

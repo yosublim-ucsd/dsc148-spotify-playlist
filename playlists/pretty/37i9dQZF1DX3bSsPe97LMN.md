@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz & Tania Dominguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,992 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,010 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [7 Días](https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [7 Dias](https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz) | 2:38 |
 | 75 | [Los Medios Suenan](https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Los Medios Suenan](https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x) | 2:29 |
 
-Snapshot ID: `MCxmOWI5ZjVkY2I4NDEzZGI5YTZmZjIwNDU1MmE1Y2YyYmVlMDY5Yzlm`
+Snapshot ID: `MCw1YTRkOWRmYzFmYmVmNTg4OGU4MDQyMjNiYjE3ZDgyMjRlZmQxMDAz`

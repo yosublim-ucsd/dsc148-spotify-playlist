@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,397 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,407 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
 | 50 | [Sunch'u T'ikitay \- Remastered](https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu) | [Los Kjarkas](https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN) | [Lo Mejor de los Kjarkas](https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9) | 3:36 |
 
-Snapshot ID: `MCw2MzlhZWZiMjEyNGJmZjU1NmJjMTk0ZjBhOTg5NzE2NmE0MDYxOWM5`
+Snapshot ID: `MCxkY2U0MWM1NTBmMjZjMzI2NjZkNDc4MGYzOGJiNmE4OTAxY2FhNTRh`

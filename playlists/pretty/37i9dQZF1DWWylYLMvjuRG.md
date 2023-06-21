@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,111 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,984 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 150 | [Rise](https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:14 |
 
-Snapshot ID: `MCw3YTFlMWE5NGZhNjQ2NTI4NzFkZjc4ZDczYTI5ZmRhYTYzNzQ5NWVi`
+Snapshot ID: `MCxmMzU4YjhjZDZhMDVlZjQ0ZGMxMThkM2IwMGE3Y2Y3Y2M0MGVhNDZm`

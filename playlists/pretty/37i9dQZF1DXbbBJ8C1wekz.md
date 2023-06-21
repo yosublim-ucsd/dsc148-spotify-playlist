@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,886 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,010 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 60 | [212 Vip](https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [212 Vip](https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms) | 2:12 |
 
-Snapshot ID: `MCw3MDI5YjI1ZDBiZDIyMzMyNmM3MzJmZGQzNTM2YzgyMmFhYmMwYThh`
+Snapshot ID: `MCw5OTYzMWMzODJmNGM4YWEzZWY3M2NlMDc3YmI2ZDljNDA0NzlhYTMz`

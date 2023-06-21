@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4948,6 +4948,28 @@
       "duration_ms": 199230,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/68dKbiuX4lBXoDDyNqJPMV"
+    },
+    {
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "album": {
@@ -12948,6 +12970,28 @@
       "duration_ms": 225749,
       "name": "Loupe\u017e",
       "url": "https://open.spotify.com/track/7IMD7ypXHVs1sNPzr9uVKE"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0RggOTIp37mrKNq04zB8I4"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        },
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/48dz8C2SNCkNCy7DkU9tZE"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3X8QD30bR4Yl8j47uPZqqK"
     },
     {
       "album": {

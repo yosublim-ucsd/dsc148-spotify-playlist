@@ -2,7 +2,7 @@
 
 ### [Verano 2023](https://open.spotify.com/playlist/37i9dQZF1DX9gKTxAbfFfX)
 
-> Tu banda sonora de este verano\. Foto: Aitana
+> Tu banda sonora de este verano\. Foto: Vicco
 
 126 songs - 7 hr 5 min
 

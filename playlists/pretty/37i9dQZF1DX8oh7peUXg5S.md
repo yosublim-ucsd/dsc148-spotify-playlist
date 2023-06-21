@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,944 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,109 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 100 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
 
-Snapshot ID: `MCxhZGVhMTNkZDBkOWU2YzMxMzE5NmU4MTdmOWNiODRmMGI2YzdjMjFl`
+Snapshot ID: `MCxiNDlkY2YyN2Q4YTUwMTUzZDdjMTk3NDNjODljZTBhNzZjZDE1NGFj`

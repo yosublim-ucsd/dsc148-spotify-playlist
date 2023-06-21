@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,445 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,485 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 |
 | 150 | [LEVIATHAN](https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2) | [GRUMGULLY](https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [LEVIATHAN](https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o) | 2:43 |
 
-Snapshot ID: `MCxlYWE5MmE2YmVhMGE4M2NjOWI0ZjEzODlhODhhODljOTNmYzJiYjBj`
+Snapshot ID: `MCxlYTFiMDBlZmU2ZDBiNTZiZjQ2YmZkMDA3ZTYyNjE2YjAzZjYyMTA2`

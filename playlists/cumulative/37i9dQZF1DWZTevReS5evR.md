@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-117 songs - 6 hr 52 min
+118 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-06-07 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2023-03-24 |  |
 | [Badut](https://open.spotify.com/track/5oDymvDdBB5vHpgHHo9CRY) | [Nur Muhammad Rachman Raafi](https://open.spotify.com/artist/35GthN9Rx4whxW4x1voiZf), [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Badut](https://open.spotify.com/album/5PjIYQD3XITQ3kij6O0Sgq) | 5:51 | 2023-03-24 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2023-06-20 |  |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-04 |  |
 | [Biar Menjadi Kenangan](https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Biar Menjadi Kenangan](https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c) | 5:13 | 2023-06-14 |  |
 | [Bound](https://open.spotify.com/track/0AqE2nClzllWavHbkC2AeZ) | [The Ponderosa Twins Plus One](https://open.spotify.com/artist/4U8RRuQqYoeXH2JuTr6QMM) | [2+2+1=](https://open.spotify.com/album/0h9QJZLoc9UmlVRGd8qbh3) | 3:16 | 2023-03-24 | 2023-04-01 |

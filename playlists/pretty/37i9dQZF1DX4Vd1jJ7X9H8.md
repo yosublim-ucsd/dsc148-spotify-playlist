@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,961 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,170 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 |
 | 100 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
 
-Snapshot ID: `MCxjOWQ5MDRhOWU0YjJjMDZlMDBlNTVlM2I2MGM2NmQ3YmQ2NjBhZmVl`
+Snapshot ID: `MCwwNjhjMWExMzUzNzkzZWVmOTE0YTUzZGRiOTMyYzEyYTQxZWJhYjE3`

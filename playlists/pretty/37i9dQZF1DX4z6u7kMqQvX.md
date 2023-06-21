@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,318 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,345 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Ya ni mis amigos me contestan](https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Ya ni mis amigos me contestan](https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b) | 3:15 |
 | 100 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 
-Snapshot ID: `MCw2ZTE4NGVhZmVkYmZiNjUyZTJjZTViZmUwYmQxOGEyMjA1YzA0MzI1`
+Snapshot ID: `MCw1ZGYzZjY0ODg4YTQ0MTQ3YTIxYzJkNGVmMDM2NTI1ZmRkMzk1ZDAz`

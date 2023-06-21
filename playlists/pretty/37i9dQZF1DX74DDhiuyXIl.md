@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,449 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,486 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
-| 2 | [我也曾經想過這樣殺了我自己](https://open.spotify.com/track/0EnZoHb1YWRz0hHGcLG2EK) | [Neci Ken](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [我也曾經想過這樣殺了我自己](https://open.spotify.com/album/3qFxKNSLM7YAzn45ElvWbT) | 4:48 |
+| 2 | [我也曾經想過這樣殺了我自己](https://open.spotify.com/track/0EnZoHb1YWRz0hHGcLG2EK) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [我也曾經想過這樣殺了我自己](https://open.spotify.com/album/3qFxKNSLM7YAzn45ElvWbT) | 4:48 |
 | 3 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 |
 | 4 | [潮光\(《逆水寒》五周年推廣曲\)](https://open.spotify.com/track/3LsHqNi3DK2i8K8RBkK7GQ) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [潮光](https://open.spotify.com/album/2rxrXojvyNnKmZY3UAOVla) | 3:34 |
 | 5 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 |
 | 75 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
 
-Snapshot ID: `MCxiZTkxOTg3MTkxOGMwMjRkY2E2MjA4N2Y0Y2NlNjE1Y2FlYjM4Y2Nk`
+Snapshot ID: `MCxlMzU0MWM0OTYxYzQ1MDdmYTY2NDRiNjZkOTY5ODQ0YThkODk5YjRk`

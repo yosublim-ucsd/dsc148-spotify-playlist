@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > A collection of hits that will have you singing every word\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,942 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,995 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [If I Was a Cowboy](https://open.spotify.com/track/7eqCfMp6Lle7Ij3QjOwrya) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:14 |
 | 100 | [Can't Help Myself](https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Boys](https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C) | 2:38 |
 
-Snapshot ID: `MCw4MTVlMTY5NzAxNDhjYjc5NjJmNTBhYzkwOTdhYTQ0MGZiMGVlYzIw`
+Snapshot ID: `MCw5NzY4MzU0NDUwMjhiN2Q5NGM2OGNmYTRkNGRhNzNmODIxYmNjNmY1`

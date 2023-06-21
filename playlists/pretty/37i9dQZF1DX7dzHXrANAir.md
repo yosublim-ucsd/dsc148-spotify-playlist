@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,311 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,377 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Drang](https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr) | [Elv](https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu) | 2:41 |
 | 80 | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 |
 
-Snapshot ID: `MCw2MjJmYTFlYWYyYmI3ZmIxZjA4YmIxYmY5NDBkNzY4NTVjNzY3MGM5`
+Snapshot ID: `MCwzYWM1YzQ5ZTdlZmY5MTQ2OGJkOGZmOTAwZmNmOTE1ZDg5ZjFjOGQ4`

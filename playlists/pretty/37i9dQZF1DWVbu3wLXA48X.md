@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Sigur Rós
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,956 likes - 74 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,964 likes - 74 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 73 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:22 |
 | 74 | [Fare Thee Well My Dearest Dear](https://open.spotify.com/track/13PyP4V5A44QVPlLZ9a2wk) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Archangel Hill](https://open.spotify.com/album/3D1ay6vbbFAhpaZcDnKFDp) | 3:16 |
 
-Snapshot ID: `MCxjY2E1NzYyZWRmODEzODQ4M2EzMzczNzEzNjdiMmMyN2IyYjU2ZDUz`
+Snapshot ID: `MCxkMzMyZDI1NWYyMTlmNmI0NzQ3NDM4NjQ5NWNmZTAzYzFmNTIwMDdj`

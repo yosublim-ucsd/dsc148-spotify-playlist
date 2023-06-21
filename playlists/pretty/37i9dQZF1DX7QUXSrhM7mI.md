@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to snuggling on the sofa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,441 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,529 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 64 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 |
 | 65 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 |
 
-Snapshot ID: `MCw2N2Q0M2EwNzE0NTNlYmI4NTEwYjE5OTk3NjE4MjFhMjI5NWU5YmFk`
+Snapshot ID: `MCw3MTNjN2FkZDkzODA2ZjA5MWQwMzgzYjFlZDEwYzkwOWU5ZTY1OGQ2`

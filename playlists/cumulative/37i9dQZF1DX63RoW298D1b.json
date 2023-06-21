@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 170000,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/3z64a9dJWCBWpRgDnrs7qn"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 98467,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/4FJ7BBCJ5Nxo1p8dtWq93K"
@@ -694,6 +694,24 @@
       "duration_ms": 180889,
       "name": "Hopelessly in Love",
       "url": "https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110086,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4"
     },
     {
       "album": {
@@ -1043,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "album": {
         "name": "Open arms",
         "url": "https://open.spotify.com/album/0ZHswhDjOfZRtA3YtiSjL1"
       },
@@ -1054,7 +1090,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 178654,
       "name": "Open arms",
       "url": "https://open.spotify.com/track/4qufmy2V1ME55htSqPeSXq"

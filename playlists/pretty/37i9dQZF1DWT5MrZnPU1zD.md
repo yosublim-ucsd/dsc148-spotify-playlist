@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,237 likes - 93 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,446 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 92 | [GFYK Remix \(feat\. Rich The Kid\)](https://open.spotify.com/track/4Zbb7Aimn5Rjp4hNq4OIhd) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [GFYK](https://open.spotify.com/album/6oosJmjVYU3g81Kc7zMNvj) | 2:53 |
 | 93 | [Burnt Out \(feat\. Famous Dex\)](https://open.spotify.com/track/2GBSHo9elAhxPAth48W5zL) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Burnt Out \(feat\. Famous Dex\)](https://open.spotify.com/album/6yVQ3KNcs5fT0UOMkXTRcK) | 3:33 |
 
-Snapshot ID: `MCw4NTZiOTc0Nzc5MjdmNWJiYTdiY2I0OTI3Zjk4ZmQxMjZhNjVlOTMx`
+Snapshot ID: `MCxmZDc4Y2JjNzAwZGEyZGRkZTdmNzFjN2JiMDA4NTJmZmY2ZjNjNTU0`

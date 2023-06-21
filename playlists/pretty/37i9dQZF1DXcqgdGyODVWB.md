@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,348 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Rosas](https://open.spotify.com/track/0C4H8wdTbI0yMMJCWX7O8h) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Indestructible](https://open.spotify.com/album/0rIK68jJ4GKAYjLaHHzczH) | 2:59 |
 | 100 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
 
-Snapshot ID: `MCxmYWQ4YzdiYmE2NjdjMWU0YmM5NDJjNTMxYjIzMjY5ZmRmZDg0Nzc1`
+Snapshot ID: `MCwyZDRjOWJlYWU1OTYwZmM4MGYzYTY4OTY0NWU3YzkwYWVhOWI3MTVm`

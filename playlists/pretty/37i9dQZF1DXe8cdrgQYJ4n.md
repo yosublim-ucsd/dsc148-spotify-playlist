@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,323 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,333 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [Missing You \(feat\. Dvwn\)](https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [a tempo](https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno) | 3:13 |
 | 60 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
 
-Snapshot ID: `MCw5NTdjYzQ5ZDM2MmUyYzQyZDNiNTNjOTZlNDE1MGE3OGJiOGIzNzQ5`
+Snapshot ID: `MCw3NDhmOWExMmU0MWVkNjBlNGQ5OWI5MDE5ZTU0ZjZhOTViZDViYTFj`

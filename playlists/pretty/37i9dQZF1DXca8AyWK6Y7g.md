@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,428 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,494 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 |
 | 150 | [Tattoos & Therapy](https://open.spotify.com/track/6F4Ox9In57PS1Wb3A7MfL5) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l) | [Tattoos & Therapy](https://open.spotify.com/album/1NXOPPFLlbmbSJnWMwHkvQ) | 2:46 |
 
-Snapshot ID: `MCxmMWM0OWY1MDExMTUwYTg0ZDdiZjE5Yzg0NzcwZTVhMmZkMWNjNDRm`
+Snapshot ID: `MCxiMjU0MmU4NTQ0ZDA4Mjc0MzAxZGYzM2YxNGM2MzNmMDJlM2IyMWZk`

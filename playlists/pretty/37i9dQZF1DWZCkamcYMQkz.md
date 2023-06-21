@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,610 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,722 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 |
 | 100 | [He's My Guy](https://open.spotify.com/track/5Po3D0fxlUpQTciXYWOmnJ) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:13 |
 
-Snapshot ID: `MCwxNWQ3OWFiYmY5Yzc5ZGUyOThlMzk3NzI1ODE1Nzg3NDg1NzUxZTA4`
+Snapshot ID: `MCwwYjY2YWI4M2Y4Mzc4MmZhMWJhNDI4Y2EzNTM2YjQxODIyMDhjZTU2`

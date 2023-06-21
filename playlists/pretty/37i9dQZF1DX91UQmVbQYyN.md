@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,820 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,064 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 100 | [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 |
 
-Snapshot ID: `MCwyMWNiNWMyMWQzZGJiMzAzNzViM2M1ZGUwNWIxOTlmZjE5ODI0MjM3`
+Snapshot ID: `MCw2ZmMyZTExMTU1YWViYWQ1MGQxZDE2MTlkNjNmZTc1YzQ4MTdjYWU0`

@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 171785,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
@@ -8898,6 +8898,24 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Sir",
+      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
     },
     {
       "album": {

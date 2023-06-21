@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-152 songs - 7 hr 17 min
+158 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,14 @@
 | [Birds In The Woods](https://open.spotify.com/track/2TJvCm7NNBJBSKQJWNEj3D) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:51 | 2023-03-03 |  |
 | [Birds Love Rain](https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 | 2022-03-25 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2022-03-25 |  |
+| [Birds Singing By The River](https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:02 | 2023-06-20 |  |
 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 | 2022-03-25 |  |
 | [Blissful Brook \(Rain\)](https://open.spotify.com/track/3fEv1aGc7IsFlDUUrxIsWL) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 3:12 | 2022-03-25 |  |
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-03-25 |  |
 | [Calm Forest Water](https://open.spotify.com/track/35byLuPZqmmsYM9U1hubfS) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Forest of Tranquility](https://open.spotify.com/album/0rJxtAj8SOB3P5gST1XQOn) | 3:38 | 2022-03-25 | 2022-04-29 |
 | [Calming Forest Sound](https://open.spotify.com/track/5QzFhfsgLVN9UKyfGV3RH9) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:55 | 2022-03-25 |  |
 | [Calming Wave Sound](https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu) | [Catching Sleep](https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2) | [Water Sounds](https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW) | 3:50 | 2022-03-25 |  |
+| [Calming Wilderness Ambience](https://open.spotify.com/track/6veM8JPEjyUSeqLb4BwfxZ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Mystical Nature Harmony](https://open.spotify.com/album/3rOT3U6HkIzAqqu0MIp2hF) | 1:57 | 2023-06-20 |  |
 | [Cheerful Rain](https://open.spotify.com/track/2BBD54IBeXwbTTsgbeibgI) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 3:00 | 2022-03-25 |  |
 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 | 2022-03-25 |  |
 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 | 2022-03-25 |  |
@@ -107,6 +109,7 @@
 | [Rainbow Birds](https://open.spotify.com/track/23zePFyNcPwF4kJso7fvdL) | [Feathern](https://open.spotify.com/artist/4UMeJ5VDtxl2J8ENVSsn1T) | [Rainbow Birds](https://open.spotify.com/album/4Jmpz2unBIOR6WJf6jbfAr) | 3:11 | 2022-03-25 |  |
 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 | 2022-03-25 |  |
 | [Rainforest During The Night](https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Myanmar Rain](https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR) | 3:28 | 2022-03-25 |  |
+| [Rainforest Serenade](https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Calming Rainforest Paradise](https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS) | 2:24 | 2023-06-20 |  |
 | [Rainy Bird Watching](https://open.spotify.com/track/5u2m64wLvLfKaQzE7v82KX) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Dream Rain](https://open.spotify.com/album/0mToNLq2Y6LR4M9diREzg2) | 4:03 | 2022-03-25 |  |
 | [Rainy days and rainy nights](https://open.spotify.com/track/61CisvCUB10noyCW0aqarL) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2022-03-25 |  |
 | [Rainy Nights](https://open.spotify.com/track/6NjY2QmltNePODQYrqPXYE) | [Night FX](https://open.spotify.com/artist/1dZ9mvDheQ7JxOi6iyia0T) | [Rainy Nights](https://open.spotify.com/album/71hbKiEU2dYzoMxmw4BHYL) | 2:53 | 2022-03-25 |  |
@@ -129,6 +132,7 @@
 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 | 2022-03-25 |  |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 | 2023-06-20 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2022-03-25 |  |
+| [Songs of the Forest](https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 4:11 | 2023-06-20 |  |
 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2022-03-25 |  |
 | [Soothing Rain](https://open.spotify.com/track/5B7KrnudyvVieOvbrXG9Gs) | [Nuwan](https://open.spotify.com/artist/5Ntegr8o61PSRvEl9sazRU) | [Umbrella Sounds](https://open.spotify.com/album/4QzTCRjIsx21xIL0L8JaHi) | 2:39 | 2022-03-25 |  |
 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2022-03-25 |  |
@@ -148,6 +152,8 @@
 | [Tempête profonde](https://open.spotify.com/track/1mSKUbvJG5Gmde0Kh9RDeQ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:58 | 2022-07-04 |  |
 | [The Cuckoo by the Lagoon](https://open.spotify.com/track/6jwd9j7uqU3uo7VQTEgxZQ) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:09 | 2022-03-25 | 2023-06-20 |
 | [The Singing Birds](https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:32 | 2022-03-25 |  |
+| [The Sounds of Nature](https://open.spotify.com/track/3gAE1tbD6F2oNPB2Ae1sal) | [Nature Nerd](https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO) | [The Forest Symphony](https://open.spotify.com/album/7cdf3vtNr1DFNvuJ3ZgczE) | 1:49 | 2023-06-20 |  |
+| [The Wind in the Woods](https://open.spotify.com/track/5L9z8yjjAtFZS9sHubdeAo) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 3:50 | 2023-06-20 |  |
 | [Thundershowers](https://open.spotify.com/track/3A0SqSPthn9oXan3S0mlHz) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Heavenly Thunders](https://open.spotify.com/album/7olIjrUJ2u5QomIJUcFGr2) | 2:38 | 2022-03-25 |  |
 | [Tranquil Stream](https://open.spotify.com/track/4xhbt3EVgOnXeBZHiMXea2) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Woodland Waters](https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y) | 2:16 | 2022-03-25 |  |
 | [Tropical Forest](https://open.spotify.com/track/34v7cD6VR3fVYguedQ1wuh) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 1:57 | 2022-03-25 | 2023-06-20 |

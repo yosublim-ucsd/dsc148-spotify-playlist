@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,366 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,567 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Reet Petite](https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:49 |
 | 150 | [Hot Stuff \- Single Version](https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:45 |
 
-Snapshot ID: `MCxkYTJiNmNlN2YzOGFkYjFlZGRlMWQxOGFjYTQ2YzExNmY5ZDUzZTdi`
+Snapshot ID: `MCxjNWQzMjY0Mzg3MWVkNGYyODVkZWE2Y2IyNjZlZjliYzA5ZTFlMDll`

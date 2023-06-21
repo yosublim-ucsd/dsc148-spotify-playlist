@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,282 likes - 250 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,426 likes - 250 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Seaside](https://open.spotify.com/track/0puUf8o9DMPD3ew6cX7UZt) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:26 |
 | 250 | [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 |
 
-Snapshot ID: `MCw0YTgyNTUwYzVmMzhkYjEzMDEyMmI2NWIzOWViMDYyYzBlYjdhNzIz`
+Snapshot ID: `MCxhMWZhYWUwZjI4MzRiZmU5YjQ0NDQ0ZjllMTMzNGMyODgzNWZmNWY5`

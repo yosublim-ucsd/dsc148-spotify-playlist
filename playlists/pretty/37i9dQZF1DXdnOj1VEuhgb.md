@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,620 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,326 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 |
-| 2 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 |
-| 3 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 |
-| 4 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
-| 5 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 |
+| 1 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 |
+| 2 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 |
+| 3 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 |
+| 4 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 |
+| 5 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
 | 6 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |
 | 7 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 |
 | 8 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 10 | [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 |
 | 11 | [YAN YANA](https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [YAN YANA](https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8) | 3:34 |
 | 12 | [VODKA FONDIP](https://open.spotify.com/track/0C2rVFW9WdSmrVYWg3L1sW) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [VODKA FONDIP](https://open.spotify.com/album/3WH5psQkne6BRJB99r1hDx) | 2:13 |
-| 13 | [KÜL](https://open.spotify.com/track/5APeJmSITQTYuDJsVFETKY) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [KÜL](https://open.spotify.com/album/1O7VrMR3QXz17WS3pUQ6Gh) | 2:51 |
-| 14 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 |
-| 15 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
-| 16 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 |
-| 17 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 |
-| 18 | [Maganda](https://open.spotify.com/track/3bAgUE5CHWkTwdQS9WuemI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Maganda](https://open.spotify.com/album/5wDBhrXiPniSnYFDU9kej3) | 1:38 |
-| 19 | [HAYRAN KALICAN](https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAYRAN KALICAN](https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk) | 1:37 |
+| 13 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 |
+| 14 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
+| 15 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 |
+| 16 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 |
+| 17 | [Maganda](https://open.spotify.com/track/3bAgUE5CHWkTwdQS9WuemI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Maganda](https://open.spotify.com/album/5wDBhrXiPniSnYFDU9kej3) | 1:38 |
+| 18 | [HAYRAN KALICAN](https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAYRAN KALICAN](https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk) | 1:37 |
+| 19 | [KÜL](https://open.spotify.com/track/5APeJmSITQTYuDJsVFETKY) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [KÜL](https://open.spotify.com/album/1O7VrMR3QXz17WS3pUQ6Gh) | 2:51 |
 | 20 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 |
 | 21 | [FİTİLİ BOMBALA](https://open.spotify.com/track/1kDgYo2ypuNyZO62VCqoR9) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [FİTİLİ BOMBALA](https://open.spotify.com/album/1t4wig5EguMrDLMbnlmAC2) | 2:40 |
 | 22 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 |
 | 50 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MCwyODBhYTdhM2U2ODg4MTIxNjcwOGU3YTU1ODQzNjZmM2IyNDA1YTdm`
+Snapshot ID: `MCwwODc0ZjZmMjJlZmU1ZGIyNDQ3MjMyMjA0YjAzOTVlZTE1YTNiNmRi`

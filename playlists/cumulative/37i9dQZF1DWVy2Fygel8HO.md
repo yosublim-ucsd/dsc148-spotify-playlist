@@ -4,11 +4,12 @@
 
 > Soft, soothing piano for you and your baby.
 
-99 songs - 4 hr 2 min
+101 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7Am\. Mattina](https://open.spotify.com/track/4XCllplNqVdOZQXn28Xe83) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [7Am\. Mattina \(Dreaming of Chopin\)](https://open.spotify.com/album/1Hxzv6PAmHIa1Inn9mWVhM) | 3:58 | 2023-05-09 |  |
+| [A burnished stone](https://open.spotify.com/track/0F8SuamdgugyK1UWMM2clz) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A burnished stone](https://open.spotify.com/album/002uBgCwLK0STGuPGxnsWj) | 1:52 | 2023-06-20 |  |
 | [A love Diary](https://open.spotify.com/track/6wHoQBzV27mxCxj6O6ZiEt) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [A love Diary](https://open.spotify.com/album/4iMXEYAl0NcvMEUtoK1qu2) | 2:27 | 2023-05-09 |  |
 | [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2023-05-09 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2023-05-09 |  |
@@ -21,6 +22,7 @@
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 |  |
 | [Circles](https://open.spotify.com/track/3MnM36tXNPNP49cUxhHrtD) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Circles](https://open.spotify.com/album/4DZ886WDUnLriERKMmAbt8) | 2:17 | 2023-05-09 |  |
 | [Close your Eyes](https://open.spotify.com/track/6koJtjGt395U7QwSpoPZBn) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Close your Eyes](https://open.spotify.com/album/3aAxFLIoHyNo9FgAdrcGv7) | 1:46 | 2023-05-09 |  |
+| [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-06-20 |  |
 | [Continuum](https://open.spotify.com/track/6r8KQsw5w6xLPgCcz5f9gX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Continuum](https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV) | 1:21 | 2023-05-09 |  |
 | [Copenhagen Lullaby](https://open.spotify.com/track/7DEtUcuVDrjKf2VaVwarV5) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Copenhagen Lullabies](https://open.spotify.com/album/6LjSPzTlsMM0eOwWrnAzTx) | 2:25 | 2023-05-09 |  |
 | [Dandelion Lullaby](https://open.spotify.com/track/08qJ7igtZJPpvS1kNZz9yV) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:11 | 2023-05-09 |  |

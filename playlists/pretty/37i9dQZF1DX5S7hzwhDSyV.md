@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,740 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,846 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
 | 100 | [After You've Gone](https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX) | [Benny Goodman Quintet](https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 3:03 |
 
-Snapshot ID: `MCw1NzA3ODlkM2ZhMTAyMWIyNDEwM2I3NTkxNTBiZWMwMzQzMTg5N2Jj`
+Snapshot ID: `MCw0MzE4NTU0NTllNWQ2ZTZmNzFmMmJkNGVhZDVlNDNmMzM3ZjkyZTJk`

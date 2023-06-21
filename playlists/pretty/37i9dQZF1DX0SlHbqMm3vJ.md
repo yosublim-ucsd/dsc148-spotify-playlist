@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Simi
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,199 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,343 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 |
 | 80 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 
-Snapshot ID: `MCw3YzdkNTAzODZiNmEzMTc0NTNmOGIwMGFjNGI3OTU1ZGExNzU0N2Y5`
+Snapshot ID: `MCxhZWFjMjdhNmQ2NjU4NmE3NWRlY2VhOTVmMjVlYzAzMzU3NjljNTY3`

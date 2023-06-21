@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,837,630 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,840,065 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 |
 | 100 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 
-Snapshot ID: `MCxkZmMyYzM5OGI2MjQ3ODA4MzY3OWY4NTAwNDdjODRiYWVmMjc2NzAw`
+Snapshot ID: `MCxjNDdkYWJiNzlkMmY3ZWM2ZjE4YjQ0ODVmYjhkZDY2YjgxYjdhMzJj`

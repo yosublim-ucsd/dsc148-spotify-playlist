@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-589 songs - 1 day 1 hr 40 min
+590 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-07 | 2023-06-02 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-02-01 | 2022-09-16 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2021-12-07 |  |
-| [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 |  |
+| [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 | 2023-06-21 |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2023-02-09 |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 |  |
 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2021-12-07 | 2023-05-09 |
@@ -215,6 +215,7 @@
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-02-15 |  |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-09-16 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2021-12-07 | 2022-06-08 |
+| [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-20 |  |
 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 | 2021-12-07 |  |
 | [I Can't Meet U](https://open.spotify.com/track/0Iygz7s7yEU8RBvFmfFRKW) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [I Can't Meet U](https://open.spotify.com/album/26rZqvlW6EAdOs8hFsRS67) | 2:48 | 2021-12-07 | 2022-09-24 |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 |  |

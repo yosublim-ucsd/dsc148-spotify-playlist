@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,375 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,383 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
 | 100 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |
 
-Snapshot ID: `MCxiYTcwYWQ0YzQ4ZTg4MDczZWJiZGUwYzQ0NjA4OGM2MWJkZjQxMjVi`
+Snapshot ID: `MCw4ZDQzNmNhOGQyZGNhNTZkNzAyMzg4YTFlODQ4MGNjYzEyOTY0MzNm`

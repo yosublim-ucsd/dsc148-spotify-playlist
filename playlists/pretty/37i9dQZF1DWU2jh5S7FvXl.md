@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,710 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,728 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 | 99 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 | 100 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 
-Snapshot ID: `MCw4NjcwNmQ2Y2IxODY5MDIwZjE5YmY1NjUxZjUyN2EzY2M5NjNlZWMy`
+Snapshot ID: `MCwyZjRiOGUzMzMyNDA3M2RkNDEzNzFmMWZlNTVkNGJmMmMyYzA4NDhl`

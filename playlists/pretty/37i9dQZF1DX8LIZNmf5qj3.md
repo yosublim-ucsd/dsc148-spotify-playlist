@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,241 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,269 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 10 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
 | 11 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
 | 12 | [Conflicted](https://open.spotify.com/track/00lBoVt4v5hRyQrzyViPAM) | [ZYA](https://open.spotify.com/artist/47jxHbc1ZT6mCQ2c5N7DYm), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Conflicted](https://open.spotify.com/album/023XKPdnotxl7hpt5U9eFv) | 4:28 |
-| 13 | [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 |
+| 13 | [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 |
 | 14 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 | 15 | [No Feelings](https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [No Feelings](https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w) | 2:49 |
 | 16 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 50 | [Don't Pretend](https://open.spotify.com/track/72bDTsc9WjlNnz40H5pu0w) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 1](https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV) | 2:25 |
 
-Snapshot ID: `MCxiOWZhNDYyNjEwMzc5ZWE2NzJmZjc2NjFlZDRmNjI5MmY1YzY0MzFl`
+Snapshot ID: `MCw5MjkwYzQ4Yzc4YWMzNDhkZGI1ZTJkMDJiNTQ3NjJmYjFjMDYxZDg3`

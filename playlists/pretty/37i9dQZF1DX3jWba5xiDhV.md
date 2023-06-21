@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,967 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,259 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Come On Closer \- \(Dub Version\) Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP) | [Pineapples](https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL), [Douglas Roop](https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY) | [Come On Closer \(2020 Remaster\)](https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL) | 6:30 |
 | 75 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
 
-Snapshot ID: `MCw1YWVkNTNmZDc5M2ZlOGUxYTgxMmEyZmVlMGRjNTQwYjIwZjkwM2Zh`
+Snapshot ID: `MCw4OTFkN2RiODU1NTAzMDcyZTQ0OGRkNjNmZDc2MjZkMzgzMDY3NDc0`

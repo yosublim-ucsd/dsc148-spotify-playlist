@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Vagabon
 
-5,433 songs - 13 day 6 hr 22 min
+5,434 songs - 13 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2093,7 +2093,8 @@
 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-21 | 2022-04-16 |
 | [High Five](https://open.spotify.com/track/6rbVTDom9bD9CVnpWfBHFb) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4) | 2:47 | 2022-10-21 | 2022-12-03 |
 | [High Hopes \(feat\. Omar Apollo\)](https://open.spotify.com/track/5dl8x4xLEzZC0f927WBTUG) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:02 | 2020-09-25 | 2020-10-30 |
-| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-16 |  |
+| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-16 | 2023-06-21 |
+| [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-16 |  |
 | [High In The Grass](https://open.spotify.com/track/5nxjwpFLJiiWSIXZDPNQXH) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [High In The Grass](https://open.spotify.com/album/2vHokUIMJPf1a3YOlS9Mjn) | 4:05 | 2021-05-29 | 2021-07-17 |
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-21 | 2023-06-03 |
 | [High Priestess](https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [High Priestess](https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8) | 3:13 | 2022-05-20 | 2022-06-26 |

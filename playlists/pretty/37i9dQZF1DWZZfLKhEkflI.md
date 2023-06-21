@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,082 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,098 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [HAITIAN FIGHT SONG](https://open.spotify.com/track/4SFxuKuxZmC4KLZ7WR9P3o) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Jazz Side of MOTOWN 1961\-1967](https://open.spotify.com/album/1oTEHd804ugxM8LRGCgXIU) | 7:58 |
 | 75 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 
-Snapshot ID: `MCw4ZmM1YjFhOTQ2Yzc1NzM5MzI3NjgxMjVjMmQ2OWNiOGI2MTlmMzk5`
+Snapshot ID: `MCwwOWI2ZWNlZDlkMjdjM2MyOTBiNmIxZGQ3YWQ2NTk5MDFjYzg3NTA4`

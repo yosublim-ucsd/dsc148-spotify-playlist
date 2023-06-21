@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,458 likes - 125 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,588 likes - 125 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Create Something](https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Far From Forever](https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n) | 3:29 |
 | 125 | [Things You Can't Control](https://open.spotify.com/track/5UjEmU8sBAJEr1q34eHqc4) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:04 |
 
-Snapshot ID: `MCxiZGY4YTU5YTM5NTE5ZTMzOWYwM2EzYzNkYTM2ODg2MTNkZGQ0NWY3`
+Snapshot ID: `MCxhZjgyNThhNmU0ZTI5YTY1ZGE5YjJmZDk2OWQ0OTY0MzczNjcwODY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,649 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,778 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 |
 | 100 | [Lavender Haze \- Jungle Remix](https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:55 |
 
-Snapshot ID: `MCxjZTM1YmNkN2Q2Njc2NTAzMmIyNjg1NjZlYmQzYzczZWUzNzhmNzYx`
+Snapshot ID: `MCwyMGZhNTQ3YmY1NGY4ZjIyODllOTY4OWE2MmViZGJlN2NkZTlkMGY3`

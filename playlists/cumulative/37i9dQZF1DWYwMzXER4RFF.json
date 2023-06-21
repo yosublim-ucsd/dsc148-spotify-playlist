@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "All Gas No Brakes",
+        "url": "https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247350,
+      "name": "All Gas No Brakes",
+      "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
+    },
+    {
+      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
@@ -1652,6 +1670,24 @@
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
+    },
+    {
+      "album": {
+        "name": "Fester",
+        "url": "https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha"
+      },
+      "artists": [
+        {
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349211,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
     },
     {
       "album": {
@@ -3852,7 +3888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
@@ -4623,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Slab",
+        "url": "https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108880,
+      "name": "Slab",
+      "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+    },
+    {
+      "album": {
         "name": "Slow (Loud)",
         "url": "https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8"
       },
@@ -5028,7 +5082,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 299068,
       "name": "Suntan",
       "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"

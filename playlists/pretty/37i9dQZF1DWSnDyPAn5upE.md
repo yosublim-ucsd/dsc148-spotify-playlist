@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,534 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,573 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 99 | [Paradise Lost](https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 3:23 |
 | 100 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 |
 
-Snapshot ID: `MCwxMzIzMGJlMDQxMGZhZTczYzdlYjk5MDFkYWYxODFiYmU4MjczMzBh`
+Snapshot ID: `MCxjZWM2MTM1ZDRlYjM0MzQ0ZmQwYTI1OTE4MmUzNjUzMjdhMjU0MTlh`

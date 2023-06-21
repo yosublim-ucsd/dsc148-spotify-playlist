@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,266 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,497 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
 | 70 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 |
 
-Snapshot ID: `MCwxNmY0MTZlZGQ3MTdhNjI3OWIwNzc4NzdjOTZiMzE2MjIwOGEzMjgz`
+Snapshot ID: `MCxhZTExMGQzMmJlYWVlMmYyZjhlY2EyY2JlY2Y1MjQ4NDExOGUyZjlk`

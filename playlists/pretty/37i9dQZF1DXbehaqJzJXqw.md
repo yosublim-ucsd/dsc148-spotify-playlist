@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,972 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,420 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |
 | 100 | [Tu t'laisses aller](https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Les deux guitares](https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC) | 3:41 |
 
-Snapshot ID: `MCwwM2U2OGQwMjFmYzQ5ZWQwMjE2M2FkM2Y5ODBjMGRhMmY1NmMzMWNl`
+Snapshot ID: `MCxkYzdmZGI3ZTlhY2U4M2JkNjFlOWEwY2MwYWNkZTAxYjZjYzdlZjJl`

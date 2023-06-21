@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 106529,
+  "num_followers": 106556,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjNjYzQ2ZjEzMTRiYjdhOWUxNWQxMTYwMmU1ZDJkYWY5MjAwODQ1",
+  "snapshot_id": "MCxlN2Q0ZjE2ZmU3MmE2NzAwZDFlYTYxYzEzNjBiYjRhNzJmYmRlNWU5",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -286,6 +286,10 @@
         {
           "name": "ICF Worship",
           "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dave Kull",
+          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
         }
       ],
       "duration_ms": 304226,

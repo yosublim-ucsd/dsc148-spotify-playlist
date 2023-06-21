@@ -4,11 +4,12 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,130 songs - 2 day 10 hr 25 min
+1,131 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Flawless' Do It Well Pt\. 3 \(feat\. Summer Walker\)](https://open.spotify.com/track/6Ok5DivyUJjsLVUUWLzz6o) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:51 | 2020-04-29 | 2020-05-01 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-20 |  |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-19 | 2022-07-13 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-10-10 | 2021-10-14 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-13 | 2022-06-04 |
@@ -572,7 +573,7 @@
 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 | 2020-07-25 | 2020-07-29 |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2019-06-08 | 2019-07-03 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2021-05-03 | 2022-04-13 |
-| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-06-05 |  |
+| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-06-05 | 2023-06-21 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-05-29 |  |
 | [LMK](https://open.spotify.com/track/4s0hDz7zGgZUav9EvzyLsB) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/0TBztHupwqjak5J0ugWBxQ) | 3:08 | 2020-06-13 | 2020-08-05 |
 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-19 | 2022-11-13 |

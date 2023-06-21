@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,704 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,709 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
 | 50 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 |
 
-Snapshot ID: `MCxmMTFjZDlhNzFjMTRiZjA5MGNhNjdmZTJlODdmOTA2ZTNjNzQ5YTdm`
+Snapshot ID: `MCw4YTRjNDU5OThjNjQxYzRhNGE1ZDE5OGFiMWViY2ExYmZiODFlNmY0`

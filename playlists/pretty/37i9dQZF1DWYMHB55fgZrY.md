@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Enjambre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,501 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,626 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Surf Mongol](https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:37 |
 | 100 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
 
-Snapshot ID: `MCw2ZjJmZmY3OGFjODU4ZWU2NTBjMTJjNzFjNzkxZTc4Y2M2MDZlZWMy`
+Snapshot ID: `MCxhNTY4YmRjMGIzYTE0NzllZThhMDBmMjJmYjlmYjdiODc3OTk5MWE4`

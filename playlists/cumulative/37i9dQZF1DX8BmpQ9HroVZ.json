@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest local and global tracks in Pakistan. ",
+  "description": "The hottest local and global tracks in Pakistan. Cover - Kaifi Khalil",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
+    },
+    {
+      "album": {
+        "name": "9:45",
+        "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
+      },
+      "artists": [
+        {
+          "name": "Prabh Singh",
+          "url": "https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117606,
+      "name": "9:45",
+      "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
       "album": {
@@ -462,7 +484,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
@@ -827,6 +849,32 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/58DxQJGOJI8GLWqLNOVswH"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Ziggy Bonafide",
+          "url": "https://open.spotify.com/artist/776GUqSRgbmdcDvpnmtfdr"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR"
+    },
+    {
+      "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
       },
@@ -1064,6 +1112,28 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
+    },
+    {
+      "album": {
+        "name": "Duur",
+        "url": "https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "Duur",
+      "url": "https://open.spotify.com/track/7Ee3A2Q4UcHiUDrd3aGi6a"
     },
     {
       "album": {
@@ -2333,6 +2403,46 @@
     },
     {
       "album": {
+        "name": "Mansoob",
+        "url": "https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Mansoob",
+      "url": "https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb"
+    },
+    {
+      "album": {
+        "name": "Marjaniey (1)",
+        "url": "https://open.spotify.com/album/5AEBVGeMey0FryxyiSlPma"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200148,
+      "name": "Marjaniey",
+      "url": "https://open.spotify.com/track/3wpQ6qv3QiEVujhvwW40nY"
+    },
+    {
+      "album": {
         "name": "Mazaak",
         "url": "https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU"
       },
@@ -2774,6 +2884,24 @@
       "duration_ms": 260000,
       "name": "Pain Killers",
       "url": "https://open.spotify.com/track/0fFRf7HYEIz1cGszXONTAy"
+    },
+    {
+      "album": {
+        "name": "Pardesi",
+        "url": "https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234793,
+      "name": "Pardesi",
+      "url": "https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z"
     },
     {
       "album": {
@@ -3370,7 +3498,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"

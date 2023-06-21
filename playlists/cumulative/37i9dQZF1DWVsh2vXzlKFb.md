@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-410 songs - 23 hr 8 min
+411 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2023-05-25 |  |
 | [Seventeen Going Under \- Edit](https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 3:57 | 2022-03-24 | 2023-05-20 |
 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 | 2021-08-13 | 2023-05-26 |
-| [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 | 2023-05-19 |  |
+| [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 | 2023-05-19 | 2023-06-21 |
 | [Sick](https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Sick](https://open.spotify.com/album/5l0kOd4WdDI44FLnEgpBkC) | 3:17 | 2021-08-13 | 2022-07-29 |
 | [Silhouettes](https://open.spotify.com/track/3asPRXvHMHqyxvLCkaW5k3) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Inflorescent](https://open.spotify.com/album/1rt1wud5H03IsmAx29ysJp) | 3:41 | 2022-03-24 | 2022-04-20 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-03-24 | 2022-10-07 |
@@ -318,6 +318,7 @@
 | [Sugarcane](https://open.spotify.com/track/7mlmzmjgcAr6UA2py7i8Ki) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Sugarcane / Lonestar](https://open.spotify.com/album/0ICkndpxzUb1HJfl6w3HfH) | 3:30 | 2021-08-13 | 2022-07-08 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-08-13 | 2022-07-29 |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-08-13 | 2023-05-20 |
+| [SUMMERTIME](https://open.spotify.com/track/0UBNROlanekYidsMRfsABY) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [SUMMERTIME](https://open.spotify.com/album/61ICLQ74AmVJkwFxLgYR3v) | 3:52 | 2023-06-21 |  |
 | [Summer’s Gone](https://open.spotify.com/track/3ZmmNtWDEXRObjU8fp2RH7) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Summer’s Gone](https://open.spotify.com/album/7xQeDiXXO7gf1CZkx4ttS4) | 3:37 | 2022-03-24 | 2022-07-23 |
 | [Sun](https://open.spotify.com/track/0fdaCKYxdhL0SAlNM2yZq2) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 3:07 | 2022-08-25 | 2023-05-20 |
 | [Sun](https://open.spotify.com/track/29KWrCNVzf8MEDOa43CWlC) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon \(Deluxe Version\)](https://open.spotify.com/album/40O9S4MHoVfKZcbyfk62lg) | 3:07 | 2022-08-25 | 2022-11-13 |

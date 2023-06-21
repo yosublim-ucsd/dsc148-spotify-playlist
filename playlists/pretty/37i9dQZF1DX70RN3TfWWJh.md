@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh,
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,805,510 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,805,715 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 100 | [Red Flags](https://open.spotify.com/track/6W3UEFq0oD8EBILiyn9B48) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:21 |
 
-Snapshot ID: `MCwwZTA4MDllMGZmZjRkY2JjZDA3MjZhNWVkMjVkZjBkNTg5YTBmMzJj`
+Snapshot ID: `MCxkYmRkZTcxM2VhZTU3MzhhYjg0ZmUyZTgwNDAxYTVlZWJhODUyZWQ1`

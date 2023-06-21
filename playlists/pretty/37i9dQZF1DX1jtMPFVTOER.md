@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,966 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,016 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 100 | [sleeping at the party](https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh) | [sleeping at the party](https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT) | 2:35 |
 
-Snapshot ID: `MCwwMTFjMjBiMzE5NDk0NmNhN2UyMmQ4YTE2OTY3ZTY0M2U2ZTZmZjgy`
+Snapshot ID: `MCxlZjVhNTBiZTJjMDg1YjVlZGFmZDhlMWY0MTdjYmJjZjBlNTM0ZGEz`

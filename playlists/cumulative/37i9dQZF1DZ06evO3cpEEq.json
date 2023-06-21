@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 230706,
       "name": "Cartwheel and Climb",
       "url": "https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 256413,
       "name": "Girl in the Mall",
       "url": "https://open.spotify.com/track/6XTfDbMxKApnYww9YOs3r0"
@@ -456,6 +456,24 @@
       "duration_ms": 267161,
       "name": "Kate Kelly",
       "url": "https://open.spotify.com/track/7nVpVHikACep6aSRdrRbBc"
+    },
+    {
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Landing Lights",
+      "url": "https://open.spotify.com/track/7EhTh6rmZY0FXnc1QFYUpE"
     },
     {
       "album": {
@@ -710,10 +728,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 156632,
       "name": "Strawberry Footprints",
       "url": "https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1"
+    },
+    {
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Summerfly",
+      "url": "https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn"
     },
     {
       "album": {
@@ -934,7 +970,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 228066,
       "name": "We'll Never Get Along",
       "url": "https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6"

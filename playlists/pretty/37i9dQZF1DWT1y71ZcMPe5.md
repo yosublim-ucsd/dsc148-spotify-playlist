@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,331,607 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,331,727 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 |
 | 50 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 
-Snapshot ID: `MCw2MjZkODViZmU1YmE0YmFiYjc3ODkyNjRhMGYwNGQ0MTZiMTYzZjE3`
+Snapshot ID: `MCwzZmRiYzUwNzBhN2VkYjhjNjNlMDM3Y2E3NTcxMDU2ZjUxNTk0MTU0`

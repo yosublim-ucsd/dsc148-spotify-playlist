@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,198 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,225 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 24 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 |
 | 25 | [Running Up That Hill](https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:36 |
 | 26 | [I Gotta Feeling \- Redo Version](https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:39 |
-| 27 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 |
-| 28 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 |
+| 27 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 |
+| 28 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 |
 | 29 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
 | 30 | [Cold Heart](https://open.spotify.com/track/4MuYqqmUdc2i21E0hCLFvg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:24 |
 | 31 | [HandClap](https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:05 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 48 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 |
 | 49 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 |
 | 50 | [Boy’s a liar](https://open.spotify.com/track/77dqc8jtCbVyyxiEX5yzY2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Boy’s a liar](https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d) | 1:58 |
-| 51 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 |
-| 52 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 |
+| 51 | [Hey Ya! \- Redo Version](https://open.spotify.com/track/0LsQmzBACogw2KWIzetVZf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:55 |
+| 52 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDAxNzg4MjgwOTBmZDBmNThiYTM1ZDZmNjRiZDY4NjY1MA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDAzMmJiYWNlZjA0N2ZjNzllOGUwODJlYjdlZDM0YmZmYw==`

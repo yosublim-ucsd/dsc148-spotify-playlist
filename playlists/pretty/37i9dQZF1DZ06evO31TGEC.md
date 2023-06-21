@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,870 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,894 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 3 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 |
 | 4 | [La Noche Perfecta](https://open.spotify.com/track/7cQu1Br0VrCs193cn3eyTO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:07 |
 | 5 | [La Caspa Del Diablo](https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Caspa Del Diablo\-Corridos A Toda Ley](https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD) | 2:36 |
-| 6 | [A Ti Sí Puedo Decirte](https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:12 |
+| 6 | [Si Te Agarran Las Ganas](https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 2:47 |
 | 7 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
 | 8 | [Mi Todo](https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:42 |
 | 9 | [Sueño De Amor](https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 3:13 |
-| 10 | [Si Te Agarran Las Ganas](https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 2:47 |
+| 10 | [A Ti Sí Puedo Decirte](https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:12 |
 | 11 | [Recostada En La Cama](https://open.spotify.com/track/50tmOF513elS7K3HrwYq29) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:02 |
 | 12 | [Detrás De La Puerta](https://open.spotify.com/track/68WPRlpdGLyUHv9H4fF5hG) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:00 |
 | 13 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 23 | [Tengo Celos](https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 2:51 |
 | 24 | [Entre Cobijas](https://open.spotify.com/track/6Ef0Re9Eg9sxZFkc6og8hk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:21 |
 | 25 | [Apártame Esta Noche](https://open.spotify.com/track/66be5ntuUbU6eDY31jSuOO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:23 |
-| 26 | [Hola Mi Amor \(Mariachi\)](https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mi México Para El Mundo](https://open.spotify.com/album/23r76axU3JSU045PYMWqIq) | 3:10 |
-| 27 | [Quisiera Ser Un Mago](https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 2:56 |
+| 26 | [Quisiera Ser Un Mago](https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 2:56 |
+| 27 | [Hola Mi Amor \(Mariachi\)](https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mi México Para El Mundo](https://open.spotify.com/album/23r76axU3JSU045PYMWqIq) | 3:10 |
 | 28 | [Como Te Extraño](https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 3:02 |
 | 29 | [Esa Muchacha Me Gusta](https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 2:56 |
 | 30 | [Te Amo](https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:52 |
 | 31 | [Dime Una Y Otra Vez \(Versión Remasterizada De 2021\)](https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Apasionado \(Remasterizado 2021\)](https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO) | 3:12 |
 | 32 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
 | 33 | [Sí Te Llamé](https://open.spotify.com/track/1FOiBAz7YauO4EfjzjxI54) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:42 |
-| 34 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
-| 35 | [Andamos Borrachos](https://open.spotify.com/track/1zHDb51oC8fz6uWfw6xNhD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/4WiQNWTAwkLG5Bzr6NQ5Ry) | 2:19 |
+| 34 | [Andamos Borrachos](https://open.spotify.com/track/1zHDb51oC8fz6uWfw6xNhD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/4WiQNWTAwkLG5Bzr6NQ5Ry) | 2:19 |
+| 35 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
 | 36 | [Porque Eres Mi Reina \(Mariachi\)](https://open.spotify.com/track/2xaQrRwSJj77U7D5Kl7E2g) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mi México Para El Mundo](https://open.spotify.com/album/23r76axU3JSU045PYMWqIq) | 2:51 |
 | 37 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
 | 38 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 50 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/5bquzZnV00bIi7pTZZPeKy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Favoritas](https://open.spotify.com/album/4A3hrXyS9pAqrwbp0zK0ws) | 2:44 |
 | 51 | [Corrido del Pollo](https://open.spotify.com/track/3UENYsPCMjUFLfuaSDpJpY) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Entre la Mafia](https://open.spotify.com/album/2QjXU5AHNFqdmJoPiF9YkR) | 2:05 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDAwNDI2ODA4MjA4MGQ0ZDQ2MTY2MWFmYjRmYzM1ZWVkYw==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDAzNTJiNzljY2YyYWY4YmVhYWUzZGFlM2M2OGJlMzU2Yw==`

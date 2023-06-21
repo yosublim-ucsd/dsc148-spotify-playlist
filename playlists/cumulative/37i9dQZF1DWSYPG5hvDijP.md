@@ -2,9 +2,9 @@
 
 ### [Taaza hai bro!](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover\- Munawar Faruqui
+> New Hip Hop from India\. Cover\- Srushti Tawade
 
-118 songs - 6 hr 24 min
+119 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 |  |
 | [BORN TO WIN](https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 3:11 | 2023-04-28 | 2023-06-02 |
 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 | 2023-04-21 |  |
+| [Breakfast Over Bae](https://open.spotify.com/track/4uy0AcPDykYTM6OfCwBxKY) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breakfast Over Bae](https://open.spotify.com/album/6qV3Lv1pXk3NeLY8W2HQPJ) | 2:35 | 2023-06-20 |  |
 | [Broken Dreams](https://open.spotify.com/track/5qoxoGIbLCLSMJXpxr5COw) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:17 | 2023-03-29 | 2023-04-17 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-29 | 2023-04-17 |
 | [Bura / Bhala](https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Bura / Bhala](https://open.spotify.com/album/3Weyfjbzr8k74d0eBPH5dS) | 3:03 | 2023-03-29 | 2023-04-17 |

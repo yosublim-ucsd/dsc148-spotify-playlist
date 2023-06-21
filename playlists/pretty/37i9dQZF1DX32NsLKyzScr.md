@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428,666 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429,329 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 |
 | 100 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 
-Snapshot ID: `MCwzODdiNTdiZTBjOWFkNGE0NmYzNjkwY2YwODgyMWZkNzAyNDYxOTg2`
+Snapshot ID: `MCw2ZDc0OTI3MmI0ODM2ZGNkM2Q3YTgxZWM5YjhkNmRlZGM3ZDQ4ODI3`

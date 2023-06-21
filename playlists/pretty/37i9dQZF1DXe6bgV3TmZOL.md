@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,240,236 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,240,816 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [Chaos And Earthquakes](https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X](https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm) | 3:45 |
 | 150 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 
-Snapshot ID: `MCw2NjFiMDZhOGMxNWViMDE3YjZlNWNhOWM5MDQ3NWVlODIwZDIxMjFl`
+Snapshot ID: `MCxkMjQxZGIxZWRkNjg0ZmYwOThkYjU2NmM1OTMyODIwY2QxNDM0ODc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,331 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,347 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
 | 75 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 
-Snapshot ID: `MCxiYThiMmY1NDdjNmE0NDg2OGFhZjRhZjRjMGRhYzI0OTQxODA0MzQx`
+Snapshot ID: `MCxkM2U0ZDIxMzgwOTYzNzkwNzc3ZGRkNGE2YmYzMTk2NjliODk5YTdm`

@@ -4,10 +4,11 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-298 songs - 14 hr 44 min
+299 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-20 |  |
 | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 | 2022-05-06 | 2023-03-22 |
 | [5am](https://open.spotify.com/track/7aQoQ3CJbk1BGgfqSefBcc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Aly Ryan](https://open.spotify.com/artist/5mNeTzDooOzKaMD0yxajVf) | [5am](https://open.spotify.com/album/1sSa92trBzdodxfhe2U2c7) | 2:43 | 2022-10-07 | 2023-03-18 |
 | [About to Rise](https://open.spotify.com/track/3YSZOxK0KWsH91kbTvlNvp) | [Rejort](https://open.spotify.com/artist/3rIFd9P7IrTVkRb42awFfQ), [Brian Minor](https://open.spotify.com/artist/5G88X6pyN4cVy9FCqTj0Px) | [About to Rise](https://open.spotify.com/album/62LgtqTQBtAGyUMfVxVLx3) | 3:11 | 2022-05-06 | 2022-07-28 |
@@ -145,7 +146,7 @@
 | [Kissed by the Sun](https://open.spotify.com/track/58mNefoSsSkSC15ly4ZEMu) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [Kissed by the Sun](https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE) | 2:47 | 2022-05-30 | 2023-05-16 |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-05-06 |  |
-| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 |  |
+| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 | 2023-06-21 |
 | [Let Go \- Radio Edit](https://open.spotify.com/track/0oYBG9S6VAKLlNZm3TH0LH) | [Roken](https://open.spotify.com/artist/4D1p1yzMg6CpJYkV4m9999), [BLANE](https://open.spotify.com/artist/301wVPignZNHLb3h8zdCmJ) | [Let Go](https://open.spotify.com/album/4clFGkkOCBeF0YYzMoIvxx) | 3:12 | 2022-06-24 | 2023-05-05 |
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [Lies](https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM) | 3:16 | 2022-05-13 | 2022-06-03 |

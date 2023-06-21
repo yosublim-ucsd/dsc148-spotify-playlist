@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 150 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 150 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 | 149 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
 | 150 | [Save That Shit](https://open.spotify.com/track/64PgpLHuQK3UJ5qZ875Vei) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:51 |
 
-Snapshot ID: `MCw1N2EzNTJhZWIxYTE3MDJlMWM2N2JmOGJmYTEzNjY3ODk3MmE4NGUw`
+Snapshot ID: `MCw5ZTc4N2M5ZGU0OTlhNDg2YjZiNWZhZTZhNDk1YjJiNzMwODI0NWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,776 likes - 500 songs - 1 day 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,847 likes - 500 songs - 1 day 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 499 | [Soft Rain](https://open.spotify.com/track/5X7GoPJvTxS5TcjF21oskS) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Soft Rain](https://open.spotify.com/album/4Foh44rplupTKb3rPj5siU) | 3:44 |
 | 500 | [Half to the hills](https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Half to the hills](https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj) | 2:36 |
 
-Snapshot ID: `MCw3YjFlNTFmMjhhMmNiMDkxM2U4Y2Q4NWMzZmE1NWQ0NzJhNGMxNWQ3`
+Snapshot ID: `MCwxZTc1YTAyYjJmZGU5ZTQ1Mzg2NjIxZjhkNmE5ZjQwMThiZTI4ODMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,886 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,938 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 99 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 |
 | 100 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 |
 
-Snapshot ID: `MCw3MjE4ZjM0NjE5ZDM2ZTllNTc1ZTFiZDhlNDQyYTM1NjJjNGRkZDhj`
+Snapshot ID: `MCw0NWYzOTY3Y2VhMDgzMWJhOWMxYjQ1ZTk1OWFiMmY1MzRhNGJmNGU1`

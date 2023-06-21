@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,623,885 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624,599 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 | 149 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
 | 150 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 
-Snapshot ID: `MCxlYzJhZDUxYmUyMzM1YTA4YTliMjVlZGY2ZjE3MjVkYTg5NGRiYzhk`
+Snapshot ID: `MCwyNzk1M2NiN2NmMzRiNTdhMzY0OTQwMjY1MDhjMTRkYmNiNmRiOTlm`

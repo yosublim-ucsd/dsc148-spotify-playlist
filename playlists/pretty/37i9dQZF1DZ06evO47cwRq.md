@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,450,909 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,451,698 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 49 | [Guilty All the Same \(feat\. Rakim\)](https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 5:55 |
 | 50 | [Not Alone](https://open.spotify.com/track/737yse38y2hsWQeNRrLaMY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Not Alone](https://open.spotify.com/album/5WeoTn1XJXrLrDGQoDgOQv) | 4:12 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDAyMTI3Y2I4YmVjNTA3YmE0MzY5OWMwYmEzMmU4ZjM4Ng==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDAzOTEzOTg4MWExNmIwODQxZWIyNTAzZWViMjM1NjEzZA==`

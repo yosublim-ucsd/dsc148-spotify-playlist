@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,759 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,802 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Above the Salt](https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Above the Salt](https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE) | 3:46 |
 | 70 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
 
-Snapshot ID: `MCxhN2NmMDdiMzA1YzA4M2ViYjUyMGIzMDQ1ZmJkMWFhODBhNzA0OGQ5`
+Snapshot ID: `MCwwODRhMGZlOWNmY2VkNGMyZjc4NWJjYjMxNTU1NTMzMGJkMmM3Yzgw`

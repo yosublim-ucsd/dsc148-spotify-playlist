@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,066 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,112 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 |
 | 50 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 |
 
-Snapshot ID: `MCxiYzkzNjQwYjAzNGQwNDc2MzliMTgwOGMxODkyMjA4MGNhMjBhYjg1`
+Snapshot ID: `MCxmNmZlNzQ4OTM2YjZhMDViMzI1NDQ4Y2ExYTI2N2NkMTQ1ZGEzM2Qz`

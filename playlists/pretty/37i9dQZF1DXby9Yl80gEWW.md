@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,585 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,624 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Blackberry Blossom](https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 2:36 |
 | 100 | [The Green Fields Of Glentown, Le Reel des Nouveaux Mariés, Flash Away The Pressing Gang](https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [Your Daughters & Your Sons](https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C) | 4:25 |
 
-Snapshot ID: `MCw2MzEwNDViNTJhMjZlMDI0OTBlNTEwMzhhYWNiMmY0NjA5ODExMTFi`
+Snapshot ID: `MCwyYjk2ZDE2ZjlhZjcyYTZhYzA5NmI1MTgwMWE5NDU5ZjA4MjAzNGUy`

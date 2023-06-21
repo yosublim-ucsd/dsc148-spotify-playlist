@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,280 likes - 200 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,400 likes - 200 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 |
 | 200 | [Vector](https://open.spotify.com/track/3lUsa3cE5uE45ndz8CAAPB) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Vector](https://open.spotify.com/album/2pZ1JENtpc3fNuKfjjQXeC) | 3:45 |
 
-Snapshot ID: `MCwxN2U2ZjI0MGUwODk0OGViNTc4OGQwZDk3N2ZhY2FhYjA5YmM3ZDZk`
+Snapshot ID: `MCw4YjlmY2VkNzA4MjhkNDhjY2E2M2RlMzE3OGMxZjIzOWU3NDE4MmJm`

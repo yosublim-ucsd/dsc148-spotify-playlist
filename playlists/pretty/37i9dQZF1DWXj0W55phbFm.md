@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,495 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,536 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MCwwY2QyNjFhYmNjMTk4N2U2YWUxNzJiYmFiMTI3YTZiMzk3NWMyNGIx`
+Snapshot ID: `MCxlNjk4MWM3MDQyZjdmNGRmMGMxMDAxY2ZlMTBjZTIxZWQ2YmYzMWY4`

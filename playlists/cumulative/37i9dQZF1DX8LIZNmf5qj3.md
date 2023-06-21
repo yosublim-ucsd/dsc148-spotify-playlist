@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-163 songs - 8 hr 57 min
+164 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-12-22 | 2023-02-10 |
 | [Razor Blades](https://open.spotify.com/track/6C3jUhCmyGk4IMHquseryI) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Razor Blades](https://open.spotify.com/album/3O4cMy4fjaEmut0hbdqtuV) | 3:01 | 2023-03-23 | 2023-05-20 |
 | [Replacement](https://open.spotify.com/track/4sesuIEYPhGwC2daNc0PkU) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Replacement](https://open.spotify.com/album/06t68XIDG4eI0cXsxZHEek) | 2:32 | 2023-06-08 |  |
-| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-15 |  |
+| [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 | 2023-06-15 |  |
+| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-15 | 2023-06-21 |
 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-05-11 |  |
 | [SAYIN MY NAME](https://open.spotify.com/track/33VbOW0lg4HTcavV8cJPxr) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:27 | 2023-03-02 | 2023-06-16 |
 | [Scars On My Skin](https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Scars On My Skin](https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0) | 3:04 | 2023-01-26 | 2023-03-25 |

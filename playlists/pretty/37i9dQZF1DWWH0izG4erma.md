@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS! Cover: Pecos & the Rooftops
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,666 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,661 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
 | 100 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
 
-Snapshot ID: `MCwzOGJlZWMyYTYwYWMyYTdlNzI5YzVmYmEyNTRmYzU0NTA2MDkzODVh`
+Snapshot ID: `MCw4ZDQ4NDA1YTdlYzEwYjdiM2Y5YjAwMjFkYTJkNjE1NTk1OTRkMzE3`

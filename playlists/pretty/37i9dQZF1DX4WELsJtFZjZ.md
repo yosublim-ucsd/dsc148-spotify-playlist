@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,524 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,088 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
 | 150 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 
-Snapshot ID: `MCwyYmFhNzZhOTFiNDI0OGM4OTFlNGE1ZGI4MTdlNWRlYTkzOGZkMjI1`
+Snapshot ID: `MCwxNmRkN2EzMGE0MjczZDZiZGI3ZGUxNTEzZjMzN2NmZTJhZTRiMjAy`

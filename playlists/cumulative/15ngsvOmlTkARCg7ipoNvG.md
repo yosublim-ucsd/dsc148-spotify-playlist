@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-991 songs - 22 hr 21 min
+992 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Evening Meditation](https://open.spotify.com/track/4bRGUQP2Vx68zL3XCBPEIL) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:22 | 2022-01-20 |  |
 | [Evening Mist](https://open.spotify.com/track/5EHS7TNb51pUSDKuUbhKZy) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:19 | 2022-01-12 |  |
 | [Evening Silence](https://open.spotify.com/track/0J6JZJur9NNslm3O1FKGhm) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge](https://open.spotify.com/album/5u3hkO1dmz33867mOmSvmH) | 1:22 | 2022-01-12 |  |
+| [Everlasting](https://open.spotify.com/track/5qCnWiR74NovsB91Bovwqx) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Everlasting](https://open.spotify.com/album/63uglnrcvtp0Rq0rZRPXku) | 1:01 | 2023-06-20 |  |
 | [Everlasting Hope](https://open.spotify.com/track/627VlJ5NQcUPniUWZ9wDjH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Inner Beauty](https://open.spotify.com/album/6weKQrpQ7Pi4wLKdvQEuD8) | 1:00 | 2022-06-05 |  |
 | [Everything I Lost](https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Memoir Collections II \- Dream Journal](https://open.spotify.com/album/7uEPmMVoqbXy8JJ6GTDHFM) | 2:39 | 2022-01-12 |  |
 | [Everything Is Fleeting](https://open.spotify.com/track/26NGo7kxvXamqiGCJtd4m0) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:39 | 2022-01-12 |  |

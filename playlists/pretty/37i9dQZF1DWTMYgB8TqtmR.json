@@ -1,15 +1,15 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 728453,
+  "num_followers": 728501,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjEwYTg2MWI0ZTNkOWE5MzQyMzk2YzFmYWI4MmZjNmM5OWIwMWZh",
+  "snapshot_id": "MCwxMGE5YTQ5Y2VmZDA1ZTY2ZjFlNDFlNzBjMTM4ZGJlMzI2YTBkZWFl",
   "tracks": [
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Occhi D\u2019Amore",
         "url": "https://open.spotify.com/album/0MBYnWVqa6trbDCCKuP1QB"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1Tx7TwXLu2BQIAz0SRzf2k"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Gl\u00f6mmer att gl\u00f6mma",
         "url": "https://open.spotify.com/album/7nJ3twbm6IQyYCbb0b2rit"
@@ -45,23 +45,23 @@
       "url": "https://open.spotify.com/track/2k6rdaUYg1SF9MipMM7wij"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
+        "name": "Andas in andas ut",
+        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
       },
       "artists": [
         {
-          "name": "Bianca Ingrosso",
-          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 190904,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M"
+      "duration_ms": 156760,
+      "name": "Andas in andas ut",
+      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Vill va med dig",
         "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
+      },
+      "artists": [
+        {
+          "name": "Bianca Ingrosso",
+          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
+        }
+      ],
+      "duration_ms": 190904,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
@@ -137,39 +153,7 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Andas in andas ut",
-        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "Andas in andas ut",
-      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Ser du hur bra jag m\u00e5r",
         "url": "https://open.spotify.com/album/19aHEnRCAFS4xjYtjGyeiE"
@@ -185,7 +169,7 @@
       "url": "https://open.spotify.com/track/3ULKS0ZKaf4rylg736VvMD"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "\u00d6ver Broarna",
         "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
@@ -209,27 +193,7 @@
       "url": "https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Genom eld (Spotify Singles)",
         "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
@@ -245,23 +209,23 @@
       "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
-        "name": "Gr\u00e4t",
-        "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 194394,
-      "name": "Gr\u00e4t",
-      "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
@@ -285,7 +249,43 @@
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "Gr\u00e4t",
+        "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 194394,
+      "name": "Gr\u00e4t",
+      "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "F\u00e5nga mig n\u00e4r jag faller",
         "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
@@ -301,23 +301,7 @@
       "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Dum av dej",
-        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
-      },
-      "artists": [
-        {
-          "name": "Naod",
-          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Dum av dej",
-      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -333,59 +317,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Midsommar (feat. Alex J\u00e4rvi)",
-        "url": "https://open.spotify.com/album/1ECGZ6pGYSwHQ9sAvOuBxq"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        },
-        {
-          "name": "Alex J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
-        }
-      ],
-      "duration_ms": 124050,
-      "name": "Midsommar (feat. Alex J\u00e4rvi)",
-      "url": "https://open.spotify.com/track/1SxgDDNJ7ObfIdmqp8YWoi"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "CATWALK",
-        "url": "https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "CATWALK",
-      "url": "https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "M\u00e5ndagsbarn (Spotify Singles)",
-        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "M\u00e5ndagsbarn - Spotify Singles",
-      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Beroendeframkallande",
         "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
@@ -401,7 +333,7 @@
       "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Mitt hj\u00e4rta sl\u00e5r",
         "url": "https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V"
@@ -417,7 +349,7 @@
       "url": "https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
@@ -441,7 +373,7 @@
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
@@ -461,7 +393,7 @@
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -485,7 +417,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "2015",
         "url": "https://open.spotify.com/album/3NBxtU1YIACo3KYk8LLza4"
@@ -501,7 +433,23 @@
       "url": "https://open.spotify.com/track/0P1TGA6W7GAng1a97T1ILG"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "Dum av dej",
+        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Dum av dej",
+      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Det \u00c4r Jag Inte Du",
         "url": "https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7"
@@ -517,7 +465,59 @@
       "url": "https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "Midsommar (feat. Alex J\u00e4rvi)",
+        "url": "https://open.spotify.com/album/1ECGZ6pGYSwHQ9sAvOuBxq"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        },
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "duration_ms": 124050,
+      "name": "Midsommar (feat. Alex J\u00e4rvi)",
+      "url": "https://open.spotify.com/track/1SxgDDNJ7ObfIdmqp8YWoi"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "CATWALK",
+        "url": "https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "CATWALK",
+      "url": "https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
+      "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
+    },
+    {
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Starkare",
         "url": "https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
         "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Under n\u00e5gon ny",
         "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Som En V\u00e4n",
         "url": "https://open.spotify.com/album/7mpQIRGwiQ65MPGWnxWXNl"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/7z3aLAMvGk5Dmn0c3iA2cb"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "JA HOPPAS",
         "url": "https://open.spotify.com/album/5LnAgqISItXMdOn2y3dlGM"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/367OEGavo6GRpELfLi4QQB"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Koppla Av",
         "url": "https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Lilla B",
         "url": "https://open.spotify.com/album/28MPRpCxLmy4OTCvvhFtAW"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/2c8wnqPxPUXtxNSJN9b4cS"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "\u00c5lderdomshemmet",
         "url": "https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "VULGAR (with Madonna)",
         "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Triple A (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf"
     },
     {
-      "added_at": "2023-06-15 22:00:00",
+      "added_at": "2023-06-20 13:29:06",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"

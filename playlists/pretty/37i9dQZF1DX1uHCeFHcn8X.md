@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,591 likes - 250 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,544 likes - 250 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 |
 | 250 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 |
 
-Snapshot ID: `MCw3OTVlN2VhYTk5ODZiOTQ1OWNmZDk0Nzc5NTllZjYxZjg1MjE5NjZm`
+Snapshot ID: `MCw2ZDc2NThhYjUxN2Q2MDQ3Yjk5N2Y5NTQ3ZGE3ZTQxOWJjYjNiMGI4`

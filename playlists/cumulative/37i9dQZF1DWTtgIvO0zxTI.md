@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Corina Smith
 
-106 songs - 5 hr 44 min
+107 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Salao](https://open.spotify.com/track/3JLbeyprwCHlUOKczf2kMH) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Salao](https://open.spotify.com/album/5khOl6i8Dw3h9NJJfYMQe8) | 2:44 | 2022-03-11 | 2022-09-10 |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-11 | 2022-05-28 |
 | [Si Biri Bop](https://open.spotify.com/track/2Od4ynLerbqcKtjAdbX16Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Si Biri Bop](https://open.spotify.com/album/6W64HOtZtKsCRarGz334y1) | 2:55 | 2023-03-17 |  |
-| [Solo Tú](https://open.spotify.com/track/2qY0Tamp1fZD1uNaDIkBXX) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/6XxzGB7U9Zl3jwMNWWPHRC) | 3:12 | 2023-02-02 |  |
+| [Solo Tú](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 | 2023-06-20 |  |
+| [Solo Tú](https://open.spotify.com/track/2qY0Tamp1fZD1uNaDIkBXX) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/6XxzGB7U9Zl3jwMNWWPHRC) | 3:12 | 2023-02-02 | 2023-06-21 |
 | [Sombras](https://open.spotify.com/track/3n1q0ZMDSQTOyMEA392xvb) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Sombras](https://open.spotify.com/album/1HxEUIH5r1qXLISfPGhVko) | 2:55 | 2022-03-11 | 2022-04-23 |
 | [Sube El Radio](https://open.spotify.com/track/65WEmeLfmXMnbkNTMx0SS8) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Sube El Radio](https://open.spotify.com/album/2dn8aV3yvngbfiFP0XCQyU) | 3:20 | 2022-03-11 | 2022-04-09 |
 | [t kiero](https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [t kiero](https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W) | 2:28 | 2022-12-23 |  |

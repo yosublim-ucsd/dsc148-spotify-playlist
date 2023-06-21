@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz & Lalo Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,688 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,932 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
 | 20 | [¿Y Cómo Te Olvido?](https://open.spotify.com/track/5VMzgWmkXzb3XwWoPxhW1T) | [Grupo La Etiqueta](https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [¿Y Cómo Te Olvido?](https://open.spotify.com/album/1feQjB8e2umRFebmNwMnYv) | 3:27 |
 | 21 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 |
-| 22 | [Suerte](https://open.spotify.com/track/75AiW64Nm3BcfNKQE8GDNi) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), ["El Obama" Carlos Anderson](https://open.spotify.com/artist/5vfJmJj6214cO31mVLrq8E) | [Suerte](https://open.spotify.com/album/3mOQQA5iyb4R8rwkx5wFCx) | 2:45 |
+| 22 | [Suerte](https://open.spotify.com/track/75AiW64Nm3BcfNKQE8GDNi) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [Suerte](https://open.spotify.com/album/3mOQQA5iyb4R8rwkx5wFCx) | 2:45 |
 | 23 | [Varios Años](https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Varios Años](https://open.spotify.com/album/3l4D4Td34r9gRSkNkbzt1S) | 2:48 |
 | 24 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 25 | [Ismael](https://open.spotify.com/track/1jOixQntDqp404fVAkbW1j) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Seleccion De Corridos Belikos Vol.1](https://open.spotify.com/album/5ekfZrzwF3iXZnQhuEK0bS) | 2:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 | 51 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 |
 
-Snapshot ID: `MCxhMGFmYTFhMjM4N2UyYjg3MTc0MjEzOTkyNjIxNzA5ZjczNTBmYjUw`
+Snapshot ID: `MCxiMDFlMGQ2YjdmNGE5ZDQwZTk1NTg1NTA4MzYxNjBkOGE5YTAzM2Vl`

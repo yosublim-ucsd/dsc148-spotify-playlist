@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-313 songs - 18 hr 58 min
+314 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Chasing Spirits](https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Chasing Spirits](https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa) | 2:44 | 2023-04-27 | 2023-06-12 |
 | [Clementine](https://open.spotify.com/track/4Up73IctyyhfsqsKmAdJ7Z) | [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Clementine](https://open.spotify.com/album/4Chqj5iMNiWuga9jhvSmrC) | 2:34 | 2023-02-23 | 2023-03-01 |
 | [Close to you](https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr) | 3:40 | 2022-10-20 | 2023-03-01 |
-| [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 | 2023-03-07 | 2023-06-14 |
+| [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 | 2023-03-07 |  |
 | [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 | 2023-03-07 | 2023-03-09 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2023-04-20 | 2023-05-26 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-30 |  |
@@ -170,12 +170,12 @@
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-23 | 2023-04-21 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 | 2022-10-20 | 2022-12-15 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 | 2023-03-07 |  |
-| [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2022-10-25 | 2023-06-11 |
-| [Love, All You Need Is Love](https://open.spotify.com/track/4K7WXlChhItbqXajy4tCQT) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [MEMORABLE](https://open.spotify.com/album/0t7smPakMfCncHjpEbOkPa) | 3:27 | 2023-04-20 |  |
+| [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2022-10-25 |  |
+| [Love, All You Need Is Love](https://open.spotify.com/track/4K7WXlChhItbqXajy4tCQT) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [MEMORABLE](https://open.spotify.com/album/0t7smPakMfCncHjpEbOkPa) | 3:27 | 2023-04-20 | 2023-06-21 |
 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 | 2022-10-20 |  |
 | [Lullaby \- Acoustic](https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby \(Acoustic\)](https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB) | 3:57 | 2023-04-20 | 2023-04-26 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-04-20 | 2023-04-26 |
-| [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-18 |  |
+| [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-18 | 2023-06-21 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-10-20 |  |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-18 |  |
 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 | 2023-03-16 | 2023-04-21 |
@@ -304,7 +304,7 @@
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [冬と夏の間](https://open.spotify.com/track/0z8N4vP6CAQtPR2dynPEPh) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [春を待つ僕ら4](https://open.spotify.com/album/29dDBzJz0UQAnFy7m0wExv) | 3:04 | 2023-02-14 | 2023-03-01 |
 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 | 2023-03-28 | 2023-04-21 |
-| [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 |  |
+| [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 | 2023-06-21 |
 | [夏の僕にも](https://open.spotify.com/track/5G03XwPjaOXFKNstuMAul9) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [夏の僕にも](https://open.spotify.com/album/2CnBGbNazCkeBAUs44hXOG) | 3:16 | 2022-10-20 | 2022-11-09 |
 | [夜のむこうまで](https://open.spotify.com/track/0vhaAcMgmPPjfClsYsHjFc) | [たけとんぼ](https://open.spotify.com/artist/7eb00dGlGaLZbbd1rQiU3O) | [夜のむこうまで](https://open.spotify.com/album/6XvZWa2y2deWwvdtigWCaq) | 4:14 | 2023-02-14 | 2023-02-16 |
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-22 |  |
@@ -321,5 +321,6 @@
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-01-26 | 2023-02-22 |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-02-08 |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
+| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 |  |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

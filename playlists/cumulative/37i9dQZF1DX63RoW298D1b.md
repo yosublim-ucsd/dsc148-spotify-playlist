@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-100 songs - 4 hr 9 min
+102 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Calme et Contenance](https://open.spotify.com/track/4gAmmCM6bhlVe4KVI98ASM) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [Calme et Contenance](https://open.spotify.com/album/53Z0IEFddmjPTCgJibGVvj) | 1:55 | 2023-05-09 |  |
 | [Calming Sky](https://open.spotify.com/track/1A3lmCXtc1NCYmxgPDxnQJ) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Calming Sky](https://open.spotify.com/album/5sF1p2bO9lZne7G6qUepO9) | 3:06 | 2023-05-09 |  |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 |  |
-| [Carpet](https://open.spotify.com/track/3z64a9dJWCBWpRgDnrs7qn) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [The Drawing Board II](https://open.spotify.com/album/4EY1Ee8FpxReZsWxJVPnSv) | 2:50 | 2023-05-09 |  |
+| [Carpet](https://open.spotify.com/track/3z64a9dJWCBWpRgDnrs7qn) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [The Drawing Board II](https://open.spotify.com/album/4EY1Ee8FpxReZsWxJVPnSv) | 2:50 | 2023-05-09 | 2023-06-21 |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 |  |
@@ -36,7 +36,7 @@
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-05-09 |  |
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2023-05-09 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 |  |
-| [Farewell](https://open.spotify.com/track/4FJ7BBCJ5Nxo1p8dtWq93K) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [Farewell](https://open.spotify.com/album/78yo6whvPqHfNZ4WZJcW5M) | 1:38 | 2023-05-09 |  |
+| [Farewell](https://open.spotify.com/track/4FJ7BBCJ5Nxo1p8dtWq93K) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [Farewell](https://open.spotify.com/album/78yo6whvPqHfNZ4WZJcW5M) | 1:38 | 2023-05-09 | 2023-06-21 |
 | [flor](https://open.spotify.com/track/1ftHK8HKEueKLkKY61TJFr) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw) | 3:04 | 2023-05-09 |  |
 | [Follow the Light](https://open.spotify.com/track/5ZBKGYQu4Z0U69UE2MNNMN) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Follow the Light](https://open.spotify.com/album/2v87Aa7L3NsKjr3G0OpPx9) | 1:53 | 2023-05-09 |  |
 | [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-05-09 |  |
@@ -46,6 +46,7 @@
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2023-05-09 |  |
 | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR) | [Oscar Johansson](https://open.spotify.com/artist/23tMk4k83BihntN9bkQ2K1) | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/album/1g8Cg2tX8F6vuflRgaGL1o) | 1:56 | 2023-05-09 |  |
 | [Hopelessly in Love](https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Hopelessly in Love](https://open.spotify.com/album/0pU42ES2MpgobwRjLE6Rib) | 3:00 | 2023-05-09 |  |
+| [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-20 |  |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2023-05-09 |  |
 | [I Belong Here](https://open.spotify.com/track/1sJlo3mVGO7kcbEJRKfeKy) | [Aaron Robichaux](https://open.spotify.com/artist/3zRgmmYtwT4BURJ2sMTaAH) | [I Belong Here](https://open.spotify.com/album/4z4fvQsDi3rAYd4SVBp9q5) | 2:13 | 2023-05-09 |  |
 | [immaginiamo \(Whatever we imagine\)](https://open.spotify.com/track/5jWtDmmaeWplwwR3xVG3EE) | [Bilotte](https://open.spotify.com/artist/5phoB4H00M1a1s1Fwi7AkO) | [immaginiamo \(Whatever we imagine\)](https://open.spotify.com/album/3Z67xtahu1bOLuQdN55WmA) | 2:30 | 2023-05-09 |  |
@@ -65,7 +66,8 @@
 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 | 2023-05-09 |  |
 | [Morro Da Saudade](https://open.spotify.com/track/4vXsKnpFye30mrSj3QqMjb) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Bob Marconi](https://open.spotify.com/artist/3C0kjCJadbdNXJXJmjzEn5) | [Morro Da Saudade](https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw) | 2:49 | 2023-05-09 |  |
 | [New Joy](https://open.spotify.com/track/434bUY0izo0oDWZgs9QEb7) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Horse Teeth](https://open.spotify.com/album/31WT0zYnQLseWQPfmCTYt7) | 1:57 | 2023-05-09 |  |
-| [Open arms](https://open.spotify.com/track/4qufmy2V1ME55htSqPeSXq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Open arms](https://open.spotify.com/album/0ZHswhDjOfZRtA3YtiSjL1) | 2:58 | 2023-05-09 |  |
+| [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 | 2023-06-20 |  |
+| [Open arms](https://open.spotify.com/track/4qufmy2V1ME55htSqPeSXq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Open arms](https://open.spotify.com/album/0ZHswhDjOfZRtA3YtiSjL1) | 2:58 | 2023-05-09 | 2023-06-21 |
 | [Oslnivý](https://open.spotify.com/track/3Sb2MXhccqLN6jqZEWSxDB) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Oslnivý](https://open.spotify.com/album/7aLiMkw1IoofXKM3Cf2XGy) | 2:18 | 2023-05-09 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2023-05-09 |  |
 | [Promise](https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU) | [Morten Lidahl](https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT) | [Promise](https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr) | 2:11 | 2023-05-09 |  |

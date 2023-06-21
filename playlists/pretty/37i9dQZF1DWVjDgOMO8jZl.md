@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,925 likes - 29 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,929 likes - 29 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 28 | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/track/4KYe7UW8G9LQqGTn8V52cf) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/album/6NeVjxs2Jg6e83nMTpjFcP) | 1:42 |
 | 29 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 |
 
-Snapshot ID: `MCw2YzAxOGYyY2JiYzA2YzMwOTdmYzIwZjc4OGZiODYwYTI0NjdiOWY4`
+Snapshot ID: `MCw4ZjlhNDdlOWQ4YWI1ZTgxYWM3ZGFkNmY1ODEzZWJjYTcxZDliZmQ5`

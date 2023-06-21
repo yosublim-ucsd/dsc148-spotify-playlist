@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,933 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,986 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Beber Para Esquecer](https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beber Para Esquecer](https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K) | 3:03 |
 | 80 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 |
 
-Snapshot ID: `MCw1MjVmODc0MTI2Y2QzNjRhNGI4ZjMzMDFhMTllMWUyY2E1ZDk4ZjA5`
+Snapshot ID: `MCw1MDkzMTc3M2E0NTZjMThjNGJhOGI0NTBkYThiM2VhYWNmYjExMzk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Hak Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,524 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,522 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
 | 80 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 |
 
-Snapshot ID: `MCwzN2QzMmQwNTc0ZjViODkwMzQyZTYzN2NhMTY2Mjg4MmM4OGU2NTc0`
+Snapshot ID: `MCwzOTk1MmE1MGRlNDc3MjBiMDY0MWFhYmVlZTVjMTJjMzRhNTJmNTNh`

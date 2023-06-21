@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,788 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,796 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
 | 60 | [Home](https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [In Between](https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU) | 3:58 |
 
-Snapshot ID: `MCw0ZWRmZGE3NTg4MDE1MmQ3YWVmZmU1Njk1NTc4N2IzMDQ1ZDQyM2U4`
+Snapshot ID: `MCwzNTgwZDkyZTM5MWJkZTVhM2ZkMDgwZmYxNjIxYjllZGY4OWJkN2E3`

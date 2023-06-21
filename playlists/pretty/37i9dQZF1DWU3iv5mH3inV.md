@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Angel Dior & Braulio Fogón
+> Dembow dominicano to el día\. Foto: Angel Dior & Braulio Fogón
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,392 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,457 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 149 | [El Con Con](https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [A.C.](https://open.spotify.com/artist/0nEAytOgLVljiBx1pj4uWy), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6) | [El Con Con](https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf) | 2:36 |
 | 150 | [Yo Lo Cojo](https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Yomel el Meloso](https://open.spotify.com/artist/2qdnRKcNyUSQ5D0wDjqmSj) | [Yo Lo Cojo](https://open.spotify.com/album/5cghx4B50p7CpM3uO3AVF5) | 3:08 |
 
-Snapshot ID: `MCxiOTRkNjUxMjhhNWRlOWQ0ZjgyYmQwOTQ3NzAzZTJiMDIzNWQxMjAx`
+Snapshot ID: `MCxhMDUyMmM1MThmZTczZmRlYTBjNmNiYWZiNjQ2ZWE0MjU0MDg3YjRk`

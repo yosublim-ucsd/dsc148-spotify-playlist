@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,140 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,243 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 |
-| 2 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
+| 2 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
 | 3 | [Intriga](https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Essa Minha Vida Bandida](https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH) | 2:32 |
 | 4 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 5 | [Engana Dizendo Que Ama](https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 69 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 70 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCwzZjJmYTM2YTU2MmMwOTk1NWM0OTk5OTY0N2U5ZDkxOWQ0ZTQxMWM4`
+Snapshot ID: `MCwzYTIxYTU5YzhkZGRmMWFlY2RjMWE4MTNhNDBjMzIzMzUzMmZmNDBj`

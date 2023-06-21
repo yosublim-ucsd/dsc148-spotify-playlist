@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> jocelyn ❤️‍🩹
+> one margarita imma open my legs
 
 1,124 songs - 2 day 10 hr 55 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,806 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,827 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 100 | [City Song](https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 3:42 |
 
-Snapshot ID: `MCw1YzEyMGQ5ZjlkMTQyY2U0NTY3ZDI3NTUwNTgyOTM4OTFjMzg0ZDY0`
+Snapshot ID: `MCwxNzM3NjU4ODFmYzRlMGFjMDQ2MWYxZjhiMjU1MTk3MDYwM2ZhNjU2`

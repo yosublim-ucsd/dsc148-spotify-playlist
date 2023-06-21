@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,548 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,575 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 |
 | 100 | [Don't Look Any Further \- Single Version](https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 4:03 |
 
-Snapshot ID: `MCw1ZmRiOTUyMjdmZDAxN2EyZTliZTM2NzU4NmIyNmNlNjNjMWVjZGE0`
+Snapshot ID: `MCxjZDQwYTFjMmNjM2VlZTA2ZjRlNWZkOTgyODY3MDVjMDNmNWQ3ZmY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,617 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,645 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 119 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 120 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 
-Snapshot ID: `MCw2Mjg3MDBjODdiYTNjMGY2YzI0OTg1MzU4MzA3NzI4MWVlZTkwYTQ0`
+Snapshot ID: `MCwxZmUyMDkwNGE5ZTZiOTlkMjg2NjQ5MzI1Njg1ZGMyMjFlZTdkZjA3`

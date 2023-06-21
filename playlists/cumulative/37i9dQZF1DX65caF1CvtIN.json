@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 135913,
       "name": "Bastille",
       "url": "https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 201901,
       "name": "Bells",
       "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 134010,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 150624,
       "name": "Divide Us",
       "url": "https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 115335,
       "name": "Every Waking Moment",
       "url": "https://open.spotify.com/track/24Eavl6flA0caVwQDtXnAq"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 207022,
       "name": "Le monde d'apr\u00e8s",
       "url": "https://open.spotify.com/track/2LogPLwx0fU2tmZAWeFt51"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 167043,
       "name": "Maurice",
       "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "album": {
         "name": "Orpheus",
         "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 147874,
       "name": "Painting A Texture",
       "url": "https://open.spotify.com/track/4vd1101k8rmE0zjtjO6t5U"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 148653,
       "name": "R\u00f3s",
       "url": "https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 211794,
       "name": "Willmine",
       "url": "https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Diferente Nivel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,292 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,397 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
 | 125 | [Amor Maldito](https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Amor Maldito](https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb) | 3:09 |
 
-Snapshot ID: `MCw5MTljNTQ5M2UxYTgxOWU2YzVlZWJiYWVkNzQ2ZDJmNjZiY2JjNDZh`
+Snapshot ID: `MCw0M2I1ZWVkNzg2ZjdmYmJmNWUwYTNkOGM2MzBlMjJlODQ4YWZiOWJk`

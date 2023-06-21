@@ -2,9 +2,9 @@
 
 ### [Crash Course](https://open.spotify.com/playlist/37i9dQZF1DX3YlUroplxjF)
 
-> A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
+> A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-399 songs - 22 hr 50 min
+401 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 | 2023-01-25 |
 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 | 2022-04-01 |  |
 | [Deceiver](https://open.spotify.com/track/14R7BhSQeZB00InVzISMG3) | [The Beautiful Monument](https://open.spotify.com/artist/5YYn3EOeF8wTDb2ctUsHJ7) | [Deceiver](https://open.spotify.com/album/676aqXPYgLGL3fmZwMXOE0) | 3:05 | 2021-11-30 | 2022-07-06 |
+| [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-20 |  |
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2021-11-30 |  |
 | [Demons](https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Let Light Overcome](https://open.spotify.com/album/1eaAMaWcmbP6YsZhUsbbkN) | 3:36 | 2021-11-30 | 2022-12-03 |
 | [Devastate and Recalibrate](https://open.spotify.com/track/7pp7yIiPMv2q58BufR99gw) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Devastate and Recalibrate](https://open.spotify.com/album/6OAprKmfC8hI3G7oTFNfQQ) | 3:56 | 2021-11-30 | 2022-07-16 |
@@ -153,7 +154,7 @@
 | [Grey Place](https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV) | [The Boogie Down South](https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT) | 4:00 | 2023-01-27 | 2023-03-18 |
 | [Grit](https://open.spotify.com/track/2dWsxSNq5v8R4RDPYgHR72) | [All Faces Down](https://open.spotify.com/artist/0IohuWvOYtIiMCLsIXal8m) | [Grit](https://open.spotify.com/album/5Fzd9giUJk3cjCfCnpYZV8) | 3:26 | 2021-11-30 | 2022-04-19 |
 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 | 2022-12-13 |  |
-| [Guttermilk](https://open.spotify.com/track/3haZ5EU3Byy3l2LXtIYvPZ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/4Qpfwpwuh5LYyJJSKIVKzx) | 1:29 | 2023-03-17 |  |
+| [Guttermilk](https://open.spotify.com/track/3haZ5EU3Byy3l2LXtIYvPZ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/4Qpfwpwuh5LYyJJSKIVKzx) | 1:29 | 2023-03-17 | 2023-06-21 |
 | [Guttermilk](https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c) | 1:29 | 2022-12-13 | 2023-05-01 |
 | [Hallelujah](https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Hallelujah](https://open.spotify.com/album/6oHrvAdPdbYUW6PVR1zngr) | 3:01 | 2021-11-30 | 2022-07-29 |
 | [Happy Ending](https://open.spotify.com/track/4EtkoeMFTvOEGI3XLodioJ) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Happy Ending](https://open.spotify.com/album/4eI3rjABoUAbyse0dY40Tt) | 3:42 | 2022-03-11 | 2022-07-25 |
@@ -318,7 +319,7 @@
 | [SENSE AGAIN](https://open.spotify.com/track/3707JCg368dfwEnevPlqpr) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [Flip Phone Fantasy](https://open.spotify.com/album/0Usgtnb9x0c1NXTFNABFf9) | 3:03 | 2021-11-30 | 2022-07-25 |
 | [Separation](https://open.spotify.com/track/46MroZ6OGJef6YKyABvk2R) | [Vagrants](https://open.spotify.com/artist/4WLao04vBPdHGLJS5YIogU) | [Separation](https://open.spotify.com/album/775vVZBPc4LrvVBDdE4GpS) | 3:59 | 2021-11-30 | 2022-07-27 |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2021-11-30 | 2022-07-22 |
-| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 |  |
+| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 | 2023-06-21 |
 | [Shadow The Day](https://open.spotify.com/track/7h5y4boQvUezQktpDFWvYK) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [SIOIS](https://open.spotify.com/album/1PAtw7zQhKsMkvg1KQhdcv) | 3:26 | 2021-11-30 | 2022-06-15 |
 | [Shadows](https://open.spotify.com/track/2j5zbp4uYmaRwTqIQ0jxcu) | [We Set Signals](https://open.spotify.com/artist/4XM7gdCotrXDsX0MA1LwAP) | [Abandon Hope](https://open.spotify.com/album/2eNBAkxoEyh1pZ1eayNUs0) | 2:48 | 2022-01-21 | 2022-05-02 |
 | [Shake The Fear](https://open.spotify.com/track/0vriVSMC39p9PAysEw8Pbh) | [Words Like Wildfire](https://open.spotify.com/artist/4fL5vxgHJhwg6tRS6nqrv0), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Classic Tragedy](https://open.spotify.com/album/2RDhBkMPSRCaIOiN3XsLqE) | 3:06 | 2021-11-30 | 2022-07-27 |
@@ -389,6 +390,7 @@
 | [Untouchable](https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 3:05 | 2023-03-17 |  |
 | [Useless Hands](https://open.spotify.com/track/4RaO6AytPosGrVFMKLZznb) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Useless Hands](https://open.spotify.com/album/6b8Vk2RmN89BMFCqVSfaaz) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Velvet Dreams](https://open.spotify.com/track/6EX9kqSPHt2oJKnWiiYADD) | [A Boy Named John](https://open.spotify.com/artist/7fYxDRNZREuC9Dht93kX5G) | [Velvet Dreams](https://open.spotify.com/album/5FuYsZlepb3G4NxazH0HlP) | 4:06 | 2021-11-30 | 2022-07-07 |
+| [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-20 |  |
 | [Walk On](https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Walk On](https://open.spotify.com/album/5854MVXCfaOOY1GHuZJEjg) | 3:34 | 2021-11-30 | 2022-07-28 |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-03-17 |  |
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-19 | 2023-04-14 |

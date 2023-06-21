@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Yama Warashi on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,291 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,318 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Sweet](https://open.spotify.com/track/7m94SkZHuCLsK6bIv30hpO) | [Gorgeous](https://open.spotify.com/artist/2K57diiymPKJypIp168Mk9) | [Sapsucker](https://open.spotify.com/album/5WFzyaIAtYGfYgG5jWNGWj) | 1:43 |
 | 100 | [Inverted](https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [fabric SELECTS II](https://open.spotify.com/album/3hX7qAayJqtgrkVf8Rz00I) | 4:30 |
 
-Snapshot ID: `MCw3NzRmOGQ2NzYyNzcyZjczYTQ3ZDc3YzJhYTNmYzYzZDhhOGJlMTg0`
+Snapshot ID: `MCw2NzI1NGFjZWY1Y2MzMDViODMzOTE0Mzk5ZWRmMDA4NzU4YWNkMWE4`

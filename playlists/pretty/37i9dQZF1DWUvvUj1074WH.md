@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > ¡Qué traigan más cheve que nos sobran copas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,509 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,870 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 149 | [Lobo\-hombre en París](https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Mil Siluetas](https://open.spotify.com/album/5HI7WlqeosN86R0o1TOfCI) | 3:52 |
 | 150 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
 
-Snapshot ID: `MCw1MzliYTkxNmJmZjhjOGM1MTdlNDEyYzAyYmVjOTgwNWRhYTNhOTVj`
+Snapshot ID: `MCw3MmI5NjYxYTk2NzE2OWVmNjYzZDQyMmJhZDlmMDA1NzNiMTIyODJl`

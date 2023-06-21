@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > tasha e kyan, tracie e gregory é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,028 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,010 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 |
 | 50 | [RIO SUL](https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:20 |
 
-Snapshot ID: `MCxmNjg2ODVlNmVkOTg3ZTMyZWMyNDliYTY3MWE5ZDQyZGU3NjExM2U1`
+Snapshot ID: `MCxkYjdmZjhlNzZmNjRkNDEyNmZlN2Y5YjViMzFiMWVjNzk4ZjUyMTMx`

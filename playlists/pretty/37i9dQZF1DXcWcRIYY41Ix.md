@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,568 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,626 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 98 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 |
 | 99 | [Para la pena no](https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Para la pena no](https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez) | 3:45 |
 
-Snapshot ID: `MCxhOGQzY2RhZTg5NWFiYmU5MDhlMWM4ZDZlZDRjNDFiYzA4YTYxYTll`
+Snapshot ID: `MCw1YjE1YzJhZWI0N2YyYjlkMzExY2VlNTQ4MDkzZjNhZDhkNzkxODU2`

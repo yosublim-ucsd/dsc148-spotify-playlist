@@ -25033,6 +25033,24 @@
     },
     {
       "album": {
+        "name": "Middle of the Night",
+        "url": "https://open.spotify.com/album/19YCI3DBhpf9r47UxQylH7"
+      },
+      "artists": [
+        {
+          "name": "Shy Olson",
+          "url": "https://open.spotify.com/artist/1VPLAsqWhrQ2aW2KDHYcvr"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Middle of the Night",
+      "url": "https://open.spotify.com/track/7uhUEDSvsh5xmzciywmo1v"
+    },
+    {
+      "album": {
         "name": "Waiting Blues",
         "url": "https://open.spotify.com/album/42q7gmr0J6wJGIKHWo3rAN"
       },

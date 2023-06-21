@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,797 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,063 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
 | 100 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
 
-Snapshot ID: `MCwxNWFmYmY4MjA1MDMyNzhjNWRkNDM0NmFhZDFiYjdjNTYxNTk4NDhj`
+Snapshot ID: `MCwxNmE4YmU2Y2ExY2ExNzQzZDA1Zjk4ZTcyMDcyNjI0ODhhN2JiN2Rj`

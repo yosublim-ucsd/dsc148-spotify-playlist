@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 101732,
+  "num_followers": 101757,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDgyMSw5ZWUzNmE5NDVjZTFkYWQyODk1M2YyMzAzYTRjODBjYzIzZDE1ZjNh",
+  "snapshot_id": "NDgyNSxlZWJhNjA3NzUxZjE1ODI2ZWJmOThhMmFmMWNkN2ZkZDAzMTQxYWIz",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -271,6 +271,22 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-06-20 13:43:50",
+      "album": {
+        "name": "Middle of the Night",
+        "url": "https://open.spotify.com/album/19YCI3DBhpf9r47UxQylH7"
+      },
+      "artists": [
+        {
+          "name": "Shy Olson",
+          "url": "https://open.spotify.com/artist/1VPLAsqWhrQ2aW2KDHYcvr"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Middle of the Night",
+      "url": "https://open.spotify.com/track/7uhUEDSvsh5xmzciywmo1v"
     },
     {
       "added_at": "2023-05-31 13:50:48",

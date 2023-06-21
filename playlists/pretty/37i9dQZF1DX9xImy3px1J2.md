@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,208 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,291 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 74 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 75 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 |
 
-Snapshot ID: `MCw2YzFkN2U1MTk1MjBmY2Y4MTRiMmIxYjA4Y2U0OTVkMjU1OTc1Y2Iz`
+Snapshot ID: `MCw1NWVmNjFhZDVlN2Y4MDZmZTg2YWVlNWE3OWJlMzVhOGU2M2I2MWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Kinto Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,760 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,896 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
 | 50 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 
-Snapshot ID: `MCxlZWNkZWM3OGE4NTU2OTUzOWI3MDFjYzFlNzgwNzg5ZDJjNzRlZGFi`
+Snapshot ID: `MCwxNGQ0MjljMDNmZjU2ZjBmZTQyMTc4NzVjMjYwYTA2MDAxMzljMWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,915 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,024 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Lute Suite in E Minor, BWV 996: III\. Courante \- Arr\. for Harp](https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Isabelle Perrin](https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3) | [Bach: Isabelle Perrin & Shigenori Kudo](https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9) | 2:27 |
 | 100 | [Partita No\. 1 in B\-Flat Major, BWV 825: V\. Menuet I & II](https://open.spotify.com/track/2efsatoWRINqBXizkqvqCu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Bach: Partitas Nos\. 1, 5 & 6](https://open.spotify.com/album/0xIKZI6Fg8EYJTpL0x5JJt) | 3:17 |
 
-Snapshot ID: `MCw1NzEzYjQxMTFjOWRhNmRmODdjMDQwOTM3OTg1N2Q2YjdmMTlhN2Fk`
+Snapshot ID: `MCxkZjFkOWY2MWVhMDdlMWM3NWY2YTYwMDAyNWE4ZjA3Y2QyNTQ3NmVm`

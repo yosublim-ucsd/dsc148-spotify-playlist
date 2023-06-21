@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Little Richard: I Am Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xR73ACoQV35rILeYhBM3w"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr"
+    },
+    {
+      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
       },

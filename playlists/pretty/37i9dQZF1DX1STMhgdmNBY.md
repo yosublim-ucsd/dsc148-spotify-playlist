@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,079 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,147 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [I Got a Mind to Give up Living](https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 4:58 |
 | 70 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 
-Snapshot ID: `MCw4NGRmYTIzZDQyMDI4ZjhhMzljNmZkZWZiMzY0YjkyMDRkNmFhMDk2`
+Snapshot ID: `MCw5ZDI4Nzk3MWU1YWZhZjZlZDE3NGJkYmMzMGY4ODYzZTQ2NzliMmJm`

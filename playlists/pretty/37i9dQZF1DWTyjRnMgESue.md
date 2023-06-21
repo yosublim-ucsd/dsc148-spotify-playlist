@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Catie Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,079 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,147 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
 | 100 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
 
-Snapshot ID: `MCxmMDI3ZmI0Y2ViNjIxNWExYjc1YmVhYzExYzkyMDhhZjgwNDVhMjg5`
+Snapshot ID: `MCw0ZmVmZDAxNmVkYmIzMzNlNzQ3YzUwMTA3NTYxYWZhYTM0ZTg1MjJm`

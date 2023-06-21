@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,740 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,774 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 |
 | 100 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 |
 
-Snapshot ID: `MCxiMmQ5NjlhOGMwMWY2YTE2ZjRkYTA2ZTBmNTQ1YTYxZDI2NDhlZTcx`
+Snapshot ID: `MCwxMGU0MGUwYzM2M2RhYjVkMmI0OTczMjcwZjFiOTYwNTBhY2JiNTQ5`

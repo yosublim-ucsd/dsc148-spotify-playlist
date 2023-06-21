@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,065 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,268 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
 | 90 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 |
 
-Snapshot ID: `MCwyNzdhMGY3ZjljOWZhMmQzY2E2Y2UyNmRlNzIxM2NhZjQ2ZGE2ZDVh`
+Snapshot ID: `MCwzNTJhYWI1NWRiMTVjNGM2OWI3MTdmZWVmZDRiYmU1MTJiMWQ4Mjc5`

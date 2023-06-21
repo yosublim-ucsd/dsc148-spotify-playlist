@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. meet me @ the altar
 
-566 songs - 1 day 4 hr 18 min
+567 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-10 |  |
 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 | 2022-03-31 | 2023-01-13 |
 | [In The End](https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Wretched and Divine: The Story Of The Wild Ones](https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO) | 3:48 | 2022-10-20 | 2022-11-01 |
-| [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/track/1vBodoZzpnmQcYgFVILW6Y) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/album/0dxOtwV3kxe5V7G1fUwLTA) | 3:26 | 2023-05-18 |  |
+| [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/track/1vBodoZzpnmQcYgFVILW6Y) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/album/0dxOtwV3kxe5V7G1fUwLTA) | 3:26 | 2023-05-18 | 2023-06-21 |
+| [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/track/2Io9qBI9Ke9zY0xoxKNoY2) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [CRUSHED!](https://open.spotify.com/album/5DIlFNiikrzx0l70tiJh75) | 3:26 | 2023-06-15 |  |
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-04 | 2023-01-27 |
 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 | 2022-10-20 | 2022-11-01 |
 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 | 2022-08-11 | 2023-03-18 |

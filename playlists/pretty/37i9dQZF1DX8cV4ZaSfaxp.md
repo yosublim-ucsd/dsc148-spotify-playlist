@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Choi HEART\(최하트\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,987 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,043 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 |
 | 100 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 
-Snapshot ID: `MCxjYTNlYzEyMDI0MTBjNTBhMzE0MmYwZTAzZTllNDljOGY1ZDY0NTMy`
+Snapshot ID: `MCxkOTIwNzkzNjI2NzgzMWUwNjI2YmRkZDEyNzI4ZDYzNTVlMDM5YTRh`

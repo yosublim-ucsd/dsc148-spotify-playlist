@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,619,689 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,620,167 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
 | 100 | [Honesty](https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi) | 3:11 |
 
-Snapshot ID: `MCxlYWNmYWVlNDc0OTY3YTM4Zjc2ZmJkMjUxYTMxOTk1MTM0MWRhMzc2`
+Snapshot ID: `MCw1Mzk4NGNlM2U2NTk1YWNiNGMxMjJlMzg2OWY4YTYwNzU4MTNiOTRh`

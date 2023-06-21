@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,653 likes - 400 songs - 1 day 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,721 likes - 400 songs - 1 day 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Flight \(Slow\)](https://open.spotify.com/track/6Nw6PMW4vKujeHj3Q2wZck) | [Roberta Piket](https://open.spotify.com/artist/7bpPpC3Sr6XbvmWvJXusEO), [Harvie S](https://open.spotify.com/artist/4VUN8x6ggBQmQOiO9Ui1fe), [Billy Mintz](https://open.spotify.com/artist/0x93sQfixNNuX3utx7cU25) | [You've Been Warned](https://open.spotify.com/album/44uZLWz6KGCIYN9kHNgIuO) | 2:41 |
 | 400 | [On a Misty Night](https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 5:44 |
 
-Snapshot ID: `MCwyOTYxNTBhNDY4MDM2MTk2NjY2YzhmMjUyNzQyODY2OWVmZmNkYjk2`
+Snapshot ID: `MCxhMmVjY2ZmMjJjM2YxNWMyNTY1ZDA1YTY1ZTM3N2IzYjE5MTY5ODc3`

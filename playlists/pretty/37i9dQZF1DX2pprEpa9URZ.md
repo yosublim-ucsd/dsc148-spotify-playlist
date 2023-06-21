@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,772 likes - 75 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,034 likes - 75 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 |
 | 75 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
 
-Snapshot ID: `MCw4OGYwODgzODVjMGI2NmJjYjRlMWVhMTJiYTEyYTRlYjk1YjdlY2Ey`
+Snapshot ID: `MCwzZmI0MmViMjM2NjE3ZWQ0ZGM1MjdjZjU4ODAyMmY1MDAxZWMzYjcw`

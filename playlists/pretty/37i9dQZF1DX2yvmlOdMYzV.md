@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,370 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,520 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 |
 | 100 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 |
 
-Snapshot ID: `MCw4NTM2MTdlYjUzMGJhMjAwZTFjZDE4ZDg0NDQ4MzMxYTJhMmU2Zjkz`
+Snapshot ID: `MCw3MjdmZTJiOTg1NjI4ODE3YTQzM2E0OTRiM2FiYmZkNDA2ZjVhMDU0`

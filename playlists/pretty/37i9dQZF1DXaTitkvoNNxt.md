@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,790 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,954 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 99 | [Cooler Than Me \- Single Mix](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:33 |
 | 100 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
 
-Snapshot ID: `MCwwYWQ2ODhhZTUzZmQ0ZTcyMDQ2ZDNkNTJiYTg4YWQyM2MwZWI5Zjgx`
+Snapshot ID: `MCwwYzZjNTY1NGNjNDMyNmRjNGY2M2MzM2Q2MGQxNDJlMTUzODNhZDg1`

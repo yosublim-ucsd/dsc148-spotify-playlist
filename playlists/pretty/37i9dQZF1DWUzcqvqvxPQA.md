@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,619 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,624 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [Don't Feel Like Fighting](https://open.spotify.com/track/6NRGJserD825yXhwnnZ6ql) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Don't Feel Like Fighting](https://open.spotify.com/album/2HKxfWkS6Yxk7RjcLWIHgx) | 3:03 |
 
-Snapshot ID: `MCxkNGQxNDc1OTk0YzllNDE4M2ExM2VlZDI1ZGE0ZWNiYmVkNjA1OWJl`
+Snapshot ID: `MCxjNWYwZjcwNjMwZDVmNjhlYzQxYTAwMDA5NGZhOWU5ZTNmNzNmYzc1`

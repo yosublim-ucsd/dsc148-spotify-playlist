@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,084 likes - 150 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,152 likes - 150 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 |
 | 150 | [The Lady Is A Tramp](https://open.spotify.com/track/7qI9rBX4NGyEt6z6nwnwhi) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 4:52 |
 
-Snapshot ID: `MCw1ZGE1Yjk2NmNjMGNlMjUyZTQ1MGQ4YWVmMzg4MzZiY2YyODdkODg2`
+Snapshot ID: `MCxjMWRhOWJkMjU0MWE5ZjVlMjkyZDNkZjM0MmY3NjIyZDAwYWNmODFm`

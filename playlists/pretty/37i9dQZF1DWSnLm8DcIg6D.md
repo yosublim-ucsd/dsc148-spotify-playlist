@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 
 > I do what I wanna, I go when I gotta \- Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,334 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,366 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 79 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 |
 | 80 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 |
 
-Snapshot ID: `MCxmZGZkMGU3NmMzYjhjMzQ3MjgyMmFiMmJiOTlhZGNlY2IzZmFmMWYw`
+Snapshot ID: `MCw3NjhmN2Q4NjMxM2RlNjhlMDQwMTY1ZTVlMzQzMDI2NzhiOGFiYzhh`

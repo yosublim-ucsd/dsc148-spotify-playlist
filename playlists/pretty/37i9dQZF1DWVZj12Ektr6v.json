@@ -1,12 +1,12 @@
 {
   "description": " To the world, this is NCT! We are NCT DREAM! ",
-  "num_followers": 267156,
+  "num_followers": 267916,
   "original_name": "This Is NCT DREAM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTJlZjY1YjI1YjM1ZmU5MTExYmQzYTVlZTgwMDlhMzQ4NDc1OTAx",
+  "snapshot_id": "MCw1ZmNiNGJhYWZhNDMzYWJjZjNiM2JmOGNmMzI3NDE3MTkzODNlZjUw",
   "tracks": [
     {
       "added_at": "2023-06-19 09:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Beatbox (English Version)",
-        "url": "https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0"
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Beatbox - English Version",
-      "url": "https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9"
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -59,8 +59,8 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Candy - Winter Special Mini Album",
-        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+        "name": "Beatbox (English Version)",
+        "url": "https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+      "duration_ms": 205120,
+      "name": "Beatbox - English Version",
+      "url": "https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9"
     },
     {
       "added_at": "2023-03-24 04:01:00",

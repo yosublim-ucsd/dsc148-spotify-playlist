@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,719 likes - 600 songs - 1 day 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,822 likes - 600 songs - 1 day 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 599 | [No, No, Nanette: Tea for Two](https://open.spotify.com/track/58GXcqIVvW76uwM7EVOy5X) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:07 |
 | 600 | [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 |
 
-Snapshot ID: `MCwzOWJiZTUyNDY2ZjYzYTM0ZTEyYjNjZDVhZjExMzc3NWE2ZmY2NDRm`
+Snapshot ID: `MCxjMzg1NGM5ZDlmYTVmNWNjY2ZlY2UxMjRkOWI5NzQ1MDEyZWY3ZGI3`

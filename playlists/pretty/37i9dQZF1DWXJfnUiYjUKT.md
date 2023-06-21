@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,350 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,281 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 79 | [Contact High](https://open.spotify.com/track/5ULZhxrES8OfXytmJCXRZF) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Everywhere and Nowhere At All](https://open.spotify.com/album/2uOPryvECNtwJgjde1i3cf) | 3:49 |
 | 80 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 |
 
-Snapshot ID: `MCwzMGI5YTQxYTNiZTkxMWIzYWFmZmUyMjU5ZDNiZjMwYWZlOTkxMzRh`
+Snapshot ID: `MCwzYThhZTVkYzM2YjI3YWI3YmFjMGRjZDc2YmFlODQ3ODkwOWU0YTQz`

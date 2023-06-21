@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016,501 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,470 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
 | 100 | [De Rodillas \- Acústico](https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [De Rodillas \(Acústico\)](https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp) | 4:28 |
 
-Snapshot ID: `MCxlNTQxMWI5OGI2MTc0OGU4ZTk0MWUxMGRjNjQ5NmE1Y2I0Y2E0MDYy`
+Snapshot ID: `MCw4MmY1YjdlYmJiNjE1ZDgzNDY1NjQ1ZDlhOGZkMzdkNmVkNjA4YjNk`

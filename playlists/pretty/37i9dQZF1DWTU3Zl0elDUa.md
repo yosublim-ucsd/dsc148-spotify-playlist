@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,728 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,040 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 | 60 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 
-Snapshot ID: `MCw2ZDJmYWQ2M2U5YjM5MTgyMTU4NjVlOGI4ODc0OTAyZTBlNTQyODgy`
+Snapshot ID: `MCw5ZGY4MDQyZDYxOWZlNGE0ZWE4N2NjODEwMWNkMDM3NzI3YzVhODJh`

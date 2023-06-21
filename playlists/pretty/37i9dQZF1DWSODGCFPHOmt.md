@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,744 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,743 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |
 | 80 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
 
-Snapshot ID: `MCxmZDBiZTkwNzEyMTM0M2EwMjc1Y2ZjMzNiOGE5NTg0Y2U0YmY0YjA0`
+Snapshot ID: `MCxlZTFhZjJiMzM3NWYwY2E1MTNkOTYzODVjYzNkYjE2NzYyYzczNmEx`

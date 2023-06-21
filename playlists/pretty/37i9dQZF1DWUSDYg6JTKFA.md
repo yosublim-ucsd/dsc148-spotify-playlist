@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,990 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,079 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [Hallelujah Here Below](https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:03 |
 | 65 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
 
-Snapshot ID: `MCxhMGQ1NTdmZDgyYmE2NTFkNTlkOTA2YTE5NjRmOGRhOGVmYmRhODlk`
+Snapshot ID: `MCwyMmE3MjZiMTVlNmI1NzE1ZGI2NmI1MWE3MmQ2ZmI5OTA2ZDI4MTkz`

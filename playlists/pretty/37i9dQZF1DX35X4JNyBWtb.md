@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,616 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,069 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Drop It](https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Drop It](https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi) | 2:55 |
 | 150 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
 
-Snapshot ID: `MCwyZGYwZDJiNjI5ZDBjNjhmMmU5NWUzYzZiNmE5YzlkZWQzYjg4MDlh`
+Snapshot ID: `MCwwMjIyNTVlYjViYTExNzg4ZmIyNTJkNzU4OTc2ZjYxNTNjOTQ4OGQz`

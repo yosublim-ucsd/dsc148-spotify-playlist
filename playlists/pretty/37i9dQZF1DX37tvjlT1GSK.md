@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Perdidos de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,251 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,331 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 | 100 | [Cuando Te Ame \- En Vivo](https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5 \(En Vivo\)](https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ) | 3:55 |
 
-Snapshot ID: `MCxlNTdhNjVmZTAzMWE0ZGFlODYyOGU2MWVmMmY5ZTM1MGY2MWY5ZTE4`
+Snapshot ID: `MCxiYTA1ZjVlMTlkMzUzNDNiMmVmZmMxZmVhNGI0MDliOGM0ZDkzN2Rh`

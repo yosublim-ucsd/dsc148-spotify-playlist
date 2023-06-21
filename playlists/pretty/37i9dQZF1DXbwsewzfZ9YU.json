@@ -1,12 +1,12 @@
 {
   "description": "open the pit. cover: Zulu",
-  "num_followers": 9947,
+  "num_followers": 10116,
   "original_name": "the Breakdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTBhZGIxMjA4NGY0MDQ4OWVmZTAxZGVkZTIzZjk4ZmEyZjZjM2Q0",
+  "snapshot_id": "MCw2OWJiZDJkOTA2YmI5NzgwYjIxNmVmMDI5YWI4OWZkNzU3NzQyZjhj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Trouble The Water",
-        "url": "https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 135208,
-      "name": "We Came To Play",
-      "url": "https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Diaspora Problems",
         "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
       },
@@ -169,20 +153,20 @@
       "url": "https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-06-20 18:34:20",
       "album": {
-        "name": "New Lords",
-        "url": "https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz"
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO"
       },
       "artists": [
         {
-          "name": "Mindforce",
-          "url": "https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei"
+          "name": "Fury",
+          "url": "https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0"
         }
       ],
-      "duration_ms": 76172,
-      "name": "New Lords",
-      "url": "https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD"
+      "duration_ms": 228008,
+      "name": "Vie",
+      "url": "https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -203,34 +187,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+        "name": "Trouble The Water",
+        "url": "https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
         }
       ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Cry Your Eyes Out",
-        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 147475,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
+      "duration_ms": 135208,
+      "name": "We Came To Play",
+      "url": "https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -251,50 +219,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Chunker",
-        "url": "https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 257941,
-      "name": "Chunker",
-      "url": "https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Knife in the Dirt",
-        "url": "https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj"
-      },
-      "artists": [
-        {
-          "name": "Judiciary",
-          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Knife in the Dirt",
-      "url": "https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Apology Denied",
-        "url": "https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB"
-      },
-      "artists": [
-        {
-          "name": "Bad Blood",
-          "url": "https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53"
-        }
-      ],
-      "duration_ms": 141054,
-      "name": "Apology Denied",
-      "url": "https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -315,18 +251,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "WORLD OF MALICE",
-        "url": "https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn"
+        "name": "New Lords",
+        "url": "https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz"
       },
       "artists": [
         {
-          "name": "UnityTX",
-          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+          "name": "Mindforce",
+          "url": "https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei"
         }
       ],
-      "duration_ms": 204046,
-      "name": "WORLD OF MALICE",
-      "url": "https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj"
+      "duration_ms": 76172,
+      "name": "New Lords",
+      "url": "https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Cry Your Eyes Out",
+        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 147475,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -347,6 +299,86 @@
       "duration_ms": 142311,
       "name": "Delete It",
       "url": "https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "WORLD OF MALICE",
+        "url": "https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn"
+      },
+      "artists": [
+        {
+          "name": "UnityTX",
+          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+        }
+      ],
+      "duration_ms": 204046,
+      "name": "WORLD OF MALICE",
+      "url": "https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Knife in the Dirt",
+        "url": "https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Knife in the Dirt",
+      "url": "https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Songs for the Willow",
+        "url": "https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Apology Denied",
+        "url": "https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB"
+      },
+      "artists": [
+        {
+          "name": "Bad Blood",
+          "url": "https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53"
+        }
+      ],
+      "duration_ms": 141054,
+      "name": "Apology Denied",
+      "url": "https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Chunker",
+        "url": "https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Chunker",
+      "url": "https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -423,22 +455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Songs for the Willow",
-        "url": "https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Torn From Your Silhouette",
         "url": "https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4"
       },
@@ -467,6 +483,22 @@
       "duration_ms": 221516,
       "name": "Idealized",
       "url": "https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dust to Dust",
+        "url": "https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS"
+      },
+      "artists": [
+        {
+          "name": "Year of the Knife",
+          "url": "https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q"
+        }
+      ],
+      "duration_ms": 140640,
+      "name": "Ctrl+C",
+      "url": "https://open.spotify.com/track/1jTxqpySVTE0xT4r4DKC7O"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -615,18 +647,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dust to Dust",
-        "url": "https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS"
+        "name": "Shape Me",
+        "url": "https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31"
       },
       "artists": [
         {
-          "name": "Year of the Knife",
-          "url": "https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q"
+          "name": "Ambleside",
+          "url": "https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y"
         }
       ],
-      "duration_ms": 140640,
-      "name": "Ctrl+C",
-      "url": "https://open.spotify.com/track/1jTxqpySVTE0xT4r4DKC7O"
+      "duration_ms": 207000,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -879,22 +911,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Spaced Jams",
-        "url": "https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt"
-      },
-      "artists": [
-        {
-          "name": "SPACED",
-          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
-        }
-      ],
-      "duration_ms": 121131,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Free LSD",
         "url": "https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "a kiss for every hornet",
-        "url": "https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y"
-      },
-      "artists": [
-        {
-          "name": ".gif from god",
-          "url": "https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5"
-        }
-      ],
-      "duration_ms": 214317,
-      "name": "a kiss for every hornet",
-      "url": "https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Depictions of Chaos",
         "url": "https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 149000,
       "name": "Brain Wavez",
       "url": "https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Shape Me",
-        "url": "https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31"
-      },
-      "artists": [
-        {
-          "name": "Ambleside",
-          "url": "https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Wash Away",
-      "url": "https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Haymaker",
-        "url": "https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS"
+        "name": "Spaced Jams",
+        "url": "https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt"
       },
       "artists": [
         {
-          "name": "Throwdown",
-          "url": "https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN"
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
         }
       ],
-      "duration_ms": 181173,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20"
+      "duration_ms": 121131,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1"
     }
   ],
   "unique_name": "the Breakdown",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. El David en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,496 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,500 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
 | 80 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
 
-Snapshot ID: `MCxmMzY3Yzc1M2QzYmQyODNiOWQxOWQ3MWJkMjg4OWYyMzAzMjAzNzFh`
+Snapshot ID: `MCw2Y2M4NWY1NjVmMDQ2MmYzZWUwYjNiMDFmOTk4OThjYmFmZDliZTU4`

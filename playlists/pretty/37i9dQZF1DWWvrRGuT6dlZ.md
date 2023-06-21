@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Regina Song\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,047 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,051 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 23 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 |
 | 24 | [memories \(of you\)](https://open.spotify.com/track/3vHwqrJgqLTa9dhvj439IH) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [memories \(of you\)](https://open.spotify.com/album/2T2vXYmKbTPl5ospNYic5b) | 2:38 |
 | 25 | [Candy Mind](https://open.spotify.com/track/2VhGLKaCoYmFXxDDhYTZwJ) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [SENNA](https://open.spotify.com/artist/7y7JSh3skPdhrkXziDTTyL) | [Candy Mind](https://open.spotify.com/album/5OPJd5ThX4DM2p7aKcO2Kc) | 3:05 |
-| 26 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 |
+| 26 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 |
 | 27 | [lake buena vista](https://open.spotify.com/track/5OGCgTXFPqhPG4fHGBWImi) | [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [lake buena vista](https://open.spotify.com/album/2aJ7krpbAknVOwYFwEbWLK) | 2:58 |
 | 28 | [Someone](https://open.spotify.com/track/5uNmtBDW9ByH9SleOnuE9H) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [Someone](https://open.spotify.com/album/2Z7Ci8LiAQkvPBCyHVKv81) | 2:04 |
 | 29 | [In Love With A Stranger](https://open.spotify.com/track/6AVF4P4HHQdRUQsqly1VWG) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger](https://open.spotify.com/album/3qpLVDFsG622yX5FDBttHB) | 2:40 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 110 | [stay](https://open.spotify.com/track/62pxANr0SHx8F59qDsd6rf) | [insy](https://open.spotify.com/artist/7dE8RqwRWd42hYIFYGLbDJ) | [stay](https://open.spotify.com/album/65DqTn1zP4NXsIek3dTozX) | 3:28 |
 | 111 | [warm udon](https://open.spotify.com/track/1ms370DnPCWGYZnskrpYlu) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi) | [candies](https://open.spotify.com/album/37bI4uV4mfgCvXFdq9nN8i) | 1:49 |
 
-Snapshot ID: `MCwxNmFlYmFjY2U4MzhlMWZjY2VhY2NhNGI0YjMzNjE4MDU0MmZhODQy`
+Snapshot ID: `MCxiZmJhYWY2ODk0ZjlkYTRhNzI1ZGZlZTJkZDgxNjM0NjEyYjEyODQ5`

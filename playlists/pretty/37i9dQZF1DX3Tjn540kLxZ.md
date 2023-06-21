@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > all\-day bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,114 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,148 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 149 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
 | 150 | [Honey Sweet](https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 3:35 |
 
-Snapshot ID: `MCw2MTQ4N2Y0YzNhMGI4NDhhOTUzMWE1MWIyNzkxM2RmMGViNjNkYjM1`
+Snapshot ID: `MCxiNzhjODY2NDE4OWQ5MjFhYmUzZTk4MzljNzhiYzAwOTA5ZDczZjY1`

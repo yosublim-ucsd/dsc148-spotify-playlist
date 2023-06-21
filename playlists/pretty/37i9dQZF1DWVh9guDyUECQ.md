@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,337 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,398 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
 | 100 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 
-Snapshot ID: `MCw0MmM5MTc2N2Y3NmRiZDBhNzEwYmZlMTJjYWM1NTAzZGUyNzJkYTA4`
+Snapshot ID: `MCxjOWFiZTdiZWI0ODYyN2MxODRmM2Y2YWM0MzQ3NjBjNDQ0YzFiNzBk`

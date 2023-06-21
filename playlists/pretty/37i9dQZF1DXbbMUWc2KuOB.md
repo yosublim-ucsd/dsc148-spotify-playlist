@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,099 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,194 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [기억해줘요 내 모든 날과 그때를 \- Instrumental](https://open.spotify.com/track/5FpiFLEC7Mhs3IiDthp5LZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:47 |
 | 50 | [내 목소리 들리니 \- Instrumental](https://open.spotify.com/track/42czxmtVtQsM7L3oFv74OH) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Hotel del Luna \(Original Television Soundtrack\) Pt.9](https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh) | 4:31 |
 
-Snapshot ID: `MCwzNTVhYjFlNzkxNmRhNmJlMmExYWNhMDdjMzY1MTExMTA5MjRiNTgz`
+Snapshot ID: `MCwyZjc3ODQwMjY3MjkzNGY3ZWM1ZTY5NGQwNzNiMzg2NWVjNWI4NTg2`

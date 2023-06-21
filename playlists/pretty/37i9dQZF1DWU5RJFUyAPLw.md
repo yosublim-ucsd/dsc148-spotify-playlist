@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,405 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,430 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 49 | [Cero Conflicto](https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Cero Conflicto](https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn) | 3:22 |
 | 50 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
 
-Snapshot ID: `MCxlY2VlN2Y5NmFlNjJhNzRiOWQwMDIwNzNiZTI4NDM5Njk2MGZiNGEx`
+Snapshot ID: `MCxmZDcyMzRhYWI1NWQ4NzcyZDI4OTc1ODM4N2ZlOTlkODAzYzcwNzA4`

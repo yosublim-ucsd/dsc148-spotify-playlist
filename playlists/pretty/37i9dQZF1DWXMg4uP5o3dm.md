@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Layto
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,256 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,408 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
 | 100 | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG) | 2:34 |
 
-Snapshot ID: `MCwyZmNjYzNjMDhiNmJkMjM5NTUwNGRlOGZmYmM5ZDQ4OTk2NjlkMzMw`
+Snapshot ID: `MCwxNDdhMjA5MjgwMmViZjY3NGE5Njk2NGU4MzNhODMyMDUxY2Q0OWVm`

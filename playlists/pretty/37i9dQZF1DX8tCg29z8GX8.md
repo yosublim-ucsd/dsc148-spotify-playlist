@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,912 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,925 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 80 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
 
-Snapshot ID: `MCxlNDFiZTNkZWFiYjE2MTIxZDZmNmUyYzNjZTlmMWQxYWE1MTIyNjkz`
+Snapshot ID: `MCwxZGFkYjM5M2YzYjAzNGRiYzQ5ZDcxZWZkYjdkMWI1MDU0NDViYjkx`

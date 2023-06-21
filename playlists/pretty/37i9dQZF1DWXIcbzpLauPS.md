@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Make Them Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,889 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,041 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [A.N.X.I.E.T.Y.](https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [A.N.X.I.E.T.Y.](https://open.spotify.com/album/4Qiu3xzymfFETMN7yEDCP3) | 2:59 |
 | 75 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 |
 
-Snapshot ID: `MCwzMjA5ZmExZGVjODFhNjA3ZTY0ZjUyYzE3NjE4YTZjN2Y3ZDVlNDRh`
+Snapshot ID: `MCw4YjU1ZTljZDQzMDIzZGI1MDY2YjQ1NDQ5NGZlNGRmMzhkNDRlNWYx`

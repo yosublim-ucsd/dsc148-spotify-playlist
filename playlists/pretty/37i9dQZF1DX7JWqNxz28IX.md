@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,743 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,783 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Come mi vuoi](https://open.spotify.com/track/6Isz6e91LJDEFDg88FHKKE) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Come mi vuoi](https://open.spotify.com/album/1WfCPHnRKs9wcXVQ9yHZQY) | 3:02 |
 | 100 | [LE PAROLE GIUSTE](https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp) | 2:47 |
 
-Snapshot ID: `MCxiOThlMDNlZTljYWM5NzQ5YjYwMmNkOGMzNWVlNjIzMDhlY2U4YzM1`
+Snapshot ID: `MCwxYmU2MjhmNjVmODA2YTIwZThiMzgyNTllZmFlOGQxZTY5MjFiYWRj`

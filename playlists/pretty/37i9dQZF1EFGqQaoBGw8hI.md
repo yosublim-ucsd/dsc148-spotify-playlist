@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,185 likes - 576 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187 likes - 576 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,8 +308,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 298 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 |
 | 299 | [Candlelit Bedroom](https://open.spotify.com/track/6Qnsg5wtIChYf7wuLaMvgi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:13 |
 | 300 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
-| 301 | [Grimsby](https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:46 |
-| 302 | [When I Was Tealby Abbey \- Stereo Mix](https://open.spotify.com/track/4NdfWmWp4zLdDu4R7FXwF4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 2:36 |
+| 301 | [When I Was Tealby Abbey \- Stereo Mix](https://open.spotify.com/track/4NdfWmWp4zLdDu4R7FXwF4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 2:36 |
+| 302 | [Grimsby](https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:46 |
 | 303 | [Shine On Through](https://open.spotify.com/track/6alVOFBQtlXKUnkvpLkVsE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:45 |
 | 304 | [I've Seen The Saucers](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 |
 | 305 | [Belfast](https://open.spotify.com/track/7tiHWkAxAOeqEkFxQ31MhA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 6:30 |
@@ -331,8 +331,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 321 | [Just Like Noah's Ark](https://open.spotify.com/track/4ebWknUfhc3lY4BtarK1z0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:33 |
 | 322 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
 | 323 | [Western Ford Gateway](https://open.spotify.com/track/1Z7m7TZgy7Nd0MpvEws7hT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:15 |
-| 324 | [Sweat It Out](https://open.spotify.com/track/7tuP0f0jiZT7fHg3VyDDrJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:38 |
-| 325 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 324 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 325 | [Sweat It Out](https://open.spotify.com/track/7tuP0f0jiZT7fHg3VyDDrJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:38 |
 | 326 | [Long Way From Happiness](https://open.spotify.com/track/1RrUfClcLFugXnTUrw8erj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:46 |
 | 327 | [Freaks In Love](https://open.spotify.com/track/5bZbZQRl6rO5pw65cRc5nQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:31 |
 | 328 | [Earn While You Learn](https://open.spotify.com/track/6fXCYDVsvwhL7HlaSWoM14) | [Lord Choc Ice](https://open.spotify.com/artist/2Jf2fY8K4N4CFihlvZZzFl) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 6:46 |
@@ -439,8 +439,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 429 | [Soul Glove](https://open.spotify.com/track/38sTwkSHVBMnbijbygSmSM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:31 |
 | 430 | [Two Rooms At The End Of The World](https://open.spotify.com/track/0Qjv3FuTDNVA7ROf3UM3ib) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:39 |
 | 431 | [Les aveux](https://open.spotify.com/track/6XO3Py5mQVYNNqju9feA0L) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Paris, France \(Remasterisé en 2004; Edition Deluxe\)](https://open.spotify.com/album/793ULWe5RCII1FKS6rzgFg) | 4:15 |
-| 432 | [Big Man In A Little Suit](https://open.spotify.com/track/36td1HRvPJWqkkMv4VIVwd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:29 |
-| 433 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 432 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 433 | [Big Man In A Little Suit](https://open.spotify.com/track/36td1HRvPJWqkkMv4VIVwd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:29 |
 | 434 | [Tu Cancion](https://open.spotify.com/track/2p3UQ4UGsY8i6zFulWOMXw) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Yo Soy](https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs) | 4:51 |
 | 435 | [Two Of A Kind \- Arranged Band Version](https://open.spotify.com/track/0YxvSWhJ3OwaeaGEldssBn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:24 |
 | 436 | [Seasons \- From “Friends” Soundtrack](https://open.spotify.com/track/3YOkHFf9pxsvd649JYKNqh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:56 |
@@ -585,4 +585,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 575 | [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 |
 | 576 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `MjgxMjA0NDAsMDAwMDAwMDAxNGIwNmQwNjZiZTU5MmI4MDU0YWQwOTViNDliNzBlNw==`
+Snapshot ID: `MjgxMjE4ODAsMDAwMDAwMDBiMTJhYmY3MDQzN2QwNWUwN2Q5YmQyNDdlMmJkODBiZA==`

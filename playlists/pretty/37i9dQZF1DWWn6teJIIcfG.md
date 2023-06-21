@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,163 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,238 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Andante spiniato in G: Allegro maestoso](https://open.spotify.com/track/5ol0EvR9aNThftRoereISI) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chill With Chopin](https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV) | 4:54 |
 | 60 | [A la manière de\. \. \. Chabrier](https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Werner Haas](https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq) | [Ravel: Complete Music for Piano Solo/Piano Concertos](https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw) | 2:25 |
 
-Snapshot ID: `MCxkMTVjZTU2ODAwYzdkOWRlZjU1MTYyYTU1YWNiZWJhNDgyNGFjNGMx`
+Snapshot ID: `MCw1ZWZiNjA4ZmUzYzk4NmFhM2FmNmQ4MzJiODU4OGFiNzVmNWQxNzg1`

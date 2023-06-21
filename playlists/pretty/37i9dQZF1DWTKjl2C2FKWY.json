@@ -1,12 +1,12 @@
 {
   "description": "Soft acoustic sounds for your massage session.",
-  "num_followers": 85442,
+  "num_followers": 85477,
   "original_name": "Acoustic Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjdmNDU5ODQ1Y2E3OWJmYzliYTcyNjE4YWFjZDM5Mjg3NDM3OTlh",
+  "snapshot_id": "MCw3NWFkNDA1ZDU2ZDI4ZWNkZDE3M2E1ZmUyNDMyMmVlODhmZWZhNjcx",
   "tracks": [
     {
       "added_at": "2023-06-15 09:52:53",
@@ -187,17 +187,21 @@
     {
       "added_at": "2023-06-15 09:52:53",
       "album": {
-        "name": "I Can't Make You Love Me (Live at the Auckland Town Hall)",
+        "name": "I Can't Make You Love Me (feat. Nick Dow) [Live at the Auckland Town Hall, featuring Nick Dow on Piano]",
         "url": "https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6"
       },
       "artists": [
         {
           "name": "TEEKS",
           "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "Nick Dow",
+          "url": "https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca"
         }
       ],
       "duration_ms": 273727,
-      "name": "I Can't Make You Love Me - Live at the Auckland Town Hall",
+      "name": "I Can't Make You Love Me (feat. Nick Dow)",
       "url": "https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n"
     },
     {

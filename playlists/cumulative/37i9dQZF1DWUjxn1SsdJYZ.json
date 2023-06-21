@@ -4433,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Laced Up",
+        "url": "https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202221,
+      "name": "Laced Up",
+      "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
+    },
+    {
+      "album": {
         "name": "LAST LAUGH!",
         "url": "https://open.spotify.com/album/1eynf1278QDBsSAmmG042K"
       },

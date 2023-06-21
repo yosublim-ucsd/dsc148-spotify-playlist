@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw"> Boj </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,955 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,996 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Na mumu dey love](https://open.spotify.com/track/0o5B6MU0IWSTjuHlU7o2fH) | [Oshey](https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Diyo Matalo](https://open.spotify.com/artist/6r1jcx4ViBUzoT5NxN6MU2) | [Na mumu dey love](https://open.spotify.com/album/6Xugn0UqitOJ6JrAFEbwg7) | 3:57 |
 | 70 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 |
 
-Snapshot ID: `MCxjZGQ2N2YwOWU3Yzg3ZTBkOTYxMDVhMjc3MWEzYmEwOTFhMjg1MTZj`
+Snapshot ID: `MCwyN2ZmYjJlM2M0ZGY4ZDkyMzAyNTI1NmM2MzgzNzBlNWQ1NmJmN2M2`

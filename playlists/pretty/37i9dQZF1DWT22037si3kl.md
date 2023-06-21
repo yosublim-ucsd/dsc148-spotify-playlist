@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,792 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,185 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Grana](https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Grana](https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT) | 2:13 |
 | 50 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 |
 
-Snapshot ID: `MCxjOWQwODhmZjg5ZmQyOGVhZjg0YjQyY2FjNWVlNjkzOGJhMjVmNTJh`
+Snapshot ID: `MCwyYzZhMGM5NDlmN2FiY2ExMmM5ZWY5OTM3YWE4MGFmYzVkYTk2OWNl`

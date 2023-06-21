@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Dua Lipa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,069 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,524 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
 | 100 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `MCxlOTI5ZDk0NmI5YTY4YjVjMWU1ZTE0ZTA4NmM5MjQ0MmVlYTY3NDhi`
+Snapshot ID: `MCxhYTVhNWYxOTJiMmYwZmM1NTI1MzViNmU3OTRiNDU3ZTZiMTdlZjU0`

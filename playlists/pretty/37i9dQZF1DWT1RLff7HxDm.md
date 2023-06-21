@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,201 likes - 60 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,265 likes - 60 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 60 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
 
-Snapshot ID: `MCxkZWMxNWI5Mjc4ZGQwMjExYmI1NGFmNWNjNjFjM2QyYjU1ZTRjY2M1`
+Snapshot ID: `MCxkMTUyM2ZiZDE1NDNiYTU4ODU0MGE1NzJjMzQ3MWI1YjllMTA3MjRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Macha Kiddo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,042 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,070 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [La Noche](https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ) | [G\-Flux](https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Hey Cosmo](https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9) | [La Noche](https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM) | 4:00 |
 | 75 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
 
-Snapshot ID: `MCwyMzFhNjJiMmQ2ZjhjODE5MjdiMGM2ZDQ5Mzc0MTMwMzViNTM4OWY3`
+Snapshot ID: `MCxlNjEzNTZjMjUyZGVlMTI4MGI5MDMxMWIxNDkwNTQzMWM5MjBiOGRl`

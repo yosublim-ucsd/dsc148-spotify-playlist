@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250,695 likes - 60 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,251,232 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |
 | 60 | [Reflection](https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Reflection](https://open.spotify.com/album/2cX4zlGQSTwgL6b2ia98m6) | 6:13 |
 
-Snapshot ID: `MCxlYmI4NzZjMDMwODlmYjVhZmQ2Njc3OWM3OTZjZTFlMzc4OWI2ZWE3`
+Snapshot ID: `MCw0N2JjMjY3MzIxYzRkNzA2NGE1ZDYwYzJkZDViYTFlZTM0NDY2YzQ0`

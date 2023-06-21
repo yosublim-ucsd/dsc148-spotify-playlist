@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 
 > ¡Estos son los hits que acompañan la fiesta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,787 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,932 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 | 99 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
 | 100 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 |
 
-Snapshot ID: `MCxjNmY0NzA3YmYyNjEzY2Y5OWZlOTNmOGJkNmE4YTk3MzRkNDRhMWRl`
+Snapshot ID: `MCxlN2Q4NjZmY2QzMjkwMjk3YmQxODdkMTg4ZTU3NmEwNWJkZWQwMDM3`

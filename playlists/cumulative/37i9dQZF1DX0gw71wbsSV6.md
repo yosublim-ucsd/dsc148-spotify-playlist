@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-181 songs - 11 hr 5 min
+182 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2023-05-18 |  |
 | [Good Luck](https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Eimosezu/Good Luck](https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz) | 3:50 | 2023-01-19 |  |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-01 | 2023-01-20 |
-| [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-09 |  |
+| [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-09 | 2023-06-21 |
 | [Hann kemur í kvöld](https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann kemur í kvöld](https://open.spotify.com/album/3bEKyiLUiaG3KUQ4ruMUHz) | 5:44 | 2023-03-08 | 2023-03-09 |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2023-03-23 | 2023-04-21 |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-01 |  |
@@ -187,6 +187,7 @@
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 |  |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-23 | 2023-04-03 |
 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 |  |
+| [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 |  |
 | [雨](https://open.spotify.com/track/6WkMbJVTMyMWSQpCetvkyX) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [雨](https://open.spotify.com/album/47EQMgwBhI5ARxtBNB7Ruj) | 5:09 | 2022-11-08 | 2023-01-20 |
 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 | 2023-01-12 | 2023-02-12 |
 

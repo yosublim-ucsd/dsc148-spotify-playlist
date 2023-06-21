@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,317 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,626 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
 | 75 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 
-Snapshot ID: `MCw5OWJjOTU1MmEyMWFlZWM4Zjc3YzgxOWRiZDdhMGY5ZTkzYTIyOGI2`
+Snapshot ID: `MCw0NjFlYWJmZjkyZWEwYjcwYzZjMzgwNTBmZWQ1MjEwZGVkYmU5N2Nh`

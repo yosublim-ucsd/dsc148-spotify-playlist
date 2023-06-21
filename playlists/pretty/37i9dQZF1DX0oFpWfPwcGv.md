@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,901 likes - 75 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,938 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 75 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 
-Snapshot ID: `MCwzMmZjMDI0NTZmMzEyMzAwYWRiMTZhY2EzMzdlMmE5NDA0ZDZhYzk3`
+Snapshot ID: `MCw2ZTRmNWQ2MDA5N2YxMGU5YjFkY2RhMWE5ZTZkODBlYTZhMDQyZjM5`

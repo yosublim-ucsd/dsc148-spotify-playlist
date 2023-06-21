@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,114 likes - 170 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,164 likes - 170 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Martins Ferry](https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu) | [Henry Woods](https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz) | [Martins Ferry](https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj) | 3:16 |
 | 170 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
 
-Snapshot ID: `MCwzZmMxNDk5ODU1NWIzZjk2ZTJjMzEzZWRhMDNhM2M4NTI5M2E3YWRl`
+Snapshot ID: `MCw2M2ZkZWY0OGI0YTFhZWYwNWQyY2UyMTFiOWIxYzk2MGQ2MTc4YmRh`

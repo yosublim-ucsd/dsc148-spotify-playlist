@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-330 songs - 20 hr 45 min
+333 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adore](https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP) | 5:03 | 2022-06-16 |  |
 | [Adore](https://open.spotify.com/track/43v9n2WUgrDi4Z4wiEEV8h) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/6c3UkztmOmW2GtunSNN3NZ) | 5:03 | 2022-03-11 | 2022-04-02 |
 | [Akinesia \- She Past Away Remix](https://open.spotify.com/track/4jW4rvf9e4BebkHQxrBsPT) | [Deathsomnia](https://open.spotify.com/artist/3EcmhzfSBJJDtEVCdmVg9N), [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Akinesia \(She Past Away Remix\)](https://open.spotify.com/album/5zujKFULRSNCEtjSbHysUp) | 4:08 | 2022-03-11 | 2022-04-17 |
+| [All Gas No Brakes](https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [All Gas No Brakes](https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9) | 4:07 | 2023-06-20 |  |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 | 2021-12-06 | 2022-07-23 |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2022-06-16 |  |
 | [American Dreaming](https://open.spotify.com/track/6qFP8XKvS3zHq8KwjfEPNT) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [American Dreaming](https://open.spotify.com/album/5VnCDYP1xurFM8OyJ1KPJp) | 3:20 | 2022-03-11 | 2022-04-19 |
@@ -50,7 +51,7 @@
 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 | 2022-06-16 |  |
 | [Book](https://open.spotify.com/track/6lpyYxV1Hd72S4ezzA47fb) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Book](https://open.spotify.com/album/1tfymjAd3g5Uz08K9qCmrh) | 2:00 | 2021-12-06 | 2022-07-29 |
 | [Broke](https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN) | 8:01 | 2022-06-16 | 2022-11-10 |
-| [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 | 2022-11-18 |  |
+| [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 | 2022-11-18 | 2023-06-21 |
 | [Broke](https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/4JCVC1iVEc4FsN8HT8V2ZH) | 8:01 | 2021-12-06 | 2022-07-29 |
 | [Broken Homes](https://open.spotify.com/track/3OGPJxSWbjASAj0iR7rOCw) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Broken Homes](https://open.spotify.com/album/6deOAiLcYOUfZbaxMA4JrQ) | 4:22 | 2021-12-06 | 2022-07-29 |
 | [Calling It](https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Signal](https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS) | 2:29 | 2022-06-16 |  |
@@ -99,6 +100,7 @@
 | [Eskimo](https://open.spotify.com/track/3mMZ246ez4FASvVd4TIMz8) | [Uhr](https://open.spotify.com/artist/6pQa6NWUgW8Dp1KyFlGJs1) | [Eskimo](https://open.spotify.com/album/4aX109AfBZeMv89K4liUFo) | 1:34 | 2022-03-11 | 2022-07-02 |
 | [Everything Is Great](https://open.spotify.com/track/12l74YlyXFIMB4Th2j7u8Y) | [SERF](https://open.spotify.com/artist/3AHSGaERoeo0QGCb7QxmQW) | [Everything Is Great](https://open.spotify.com/album/6lwo9ZWMrK0rsLNrpXh4ut) | 4:20 | 2021-12-06 | 2022-07-25 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-06 | 2023-06-20 |
+| [Fester](https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Fester](https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha) | 5:49 | 2023-06-20 |  |
 | [Fine Dining](https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Fantasy Island](https://open.spotify.com/album/1nJK1gMPEJHS1L3TYWDfQI) | 2:35 | 2021-12-06 | 2022-07-28 |
 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 | 2023-02-24 |  |
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2022-11-18 | 2023-04-20 |
@@ -220,7 +222,7 @@
 | [Ownership](https://open.spotify.com/track/1ZrLIERdiwRtLpNB2egOHj) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [Ownership](https://open.spotify.com/album/2utZjk2T8s2p2T2jLd3a3L) | 3:29 | 2021-12-06 | 2022-07-24 |
 | [Paddling](https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Paddling](https://open.spotify.com/album/12cKLUnzTxo6ToFGjSEv5v) | 6:15 | 2021-12-06 | 2022-07-26 |
 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 | 2022-06-16 | 2022-12-17 |
-| [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 | 2023-02-24 |  |
+| [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 | 2023-02-24 | 2023-06-21 |
 | [Pain Killer](https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Beyondless](https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9) | 3:39 | 2021-12-06 | 2022-07-29 |
 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 | 2021-12-06 | 2022-07-28 |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 |  |
@@ -263,6 +265,7 @@
 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 | 2023-02-24 |  |
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-02-03 | 2023-04-17 |
 | [Skeleton Key](https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Skeleton Key](https://open.spotify.com/album/3Ttd4RpgA0mZq7rxGIvc3A) | 3:41 | 2021-12-06 | 2022-07-29 |
+| [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 | 2023-06-20 |  |
 | [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 | 2022-11-13 |
 | [Sludge](https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Sludge](https://open.spotify.com/album/4fVcSFvdj9XflGQ4HVhLYI) | 5:00 | 2021-12-06 | 2022-07-28 |
 | [Solid State](https://open.spotify.com/track/20Aun7R1lVk1AmL3ibxScC) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 3:00 | 2021-12-06 | 2022-05-19 |
@@ -284,7 +287,7 @@
 | [Strong Enough](https://open.spotify.com/track/3zCp3vtCQD11S9VyqHVQlN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [Let’s Not Fight ! b/w Strong Enough](https://open.spotify.com/album/2h37G8TLnjMalTMQJeJFMD) | 3:11 | 2021-12-06 | 2022-07-17 |
 | [Sunglasses \- Edit](https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Sunglasses](https://open.spotify.com/album/5mfH9Qe9rtjrLBpLE6zL2P) | 4:36 | 2021-12-06 | 2022-07-27 |
 | [Suntan](https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan](https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm) | 4:59 | 2021-12-06 | 2022-10-29 |
-| [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 |  |
+| [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 | 2023-06-21 |
 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 | 2023-02-24 |  |
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-12-06 | 2022-07-29 |
 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 | 2022-06-16 |  |

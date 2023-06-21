@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,919 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,991 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
 | 125 | [More I See](https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:03 |
 
-Snapshot ID: `MCw1YzdmYmQzOWYxZGY0YWJiNzE1YmQ3ZTBmYmFhOTU5MTAzZTc4NDIw`
+Snapshot ID: `MCw3N2I0OGFjOGUwZDMwZDQwMzNhZTNlZWNlNThhMzJhZDA5NGY3Mjc0`

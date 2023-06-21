@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,497 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,543 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Até Que Nada Mais Importe](https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Michel Oliveira](https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH) | [Até Que Nada Mais Importe](https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f) | 2:56 |
 | 70 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 
-Snapshot ID: `MCxjNjdiNGJiZDM4ZDc0ZGIxNjExZjQ4N2E1NDZkN2NhZmYwYjY0MGM3`
+Snapshot ID: `MCxmOThlMmQ2NThkNjdlMDFlNTlmYmY5OTRmYTVjYzkxNjU1NjZhZjQ5`

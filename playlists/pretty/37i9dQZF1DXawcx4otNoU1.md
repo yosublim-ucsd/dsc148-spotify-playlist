@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,728 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,866 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 150 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
 
-Snapshot ID: `MCxmOGM4N2RmNDMwYjA3NWRlYjQ5NGJmNjE1NTM1Yzg4NmQ0NzEyMDFk`
+Snapshot ID: `MCwxODQzZTE1M2JjYzA3M2Y5YTY3ZjAyMWIxZjVjYWNmZTcxODBmZjIz`

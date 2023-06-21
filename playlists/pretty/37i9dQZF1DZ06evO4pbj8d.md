@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,562 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 2 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 3 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
 | 4 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
-| 5 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
+| 5 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 6 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
 | 7 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 |
-| 8 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
+| 8 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 9 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 | 10 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 11 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 39 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
 | 40 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 |
 | 41 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
-| 42 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
+| 42 | [Poison](https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:56 |
 | 43 | [No Turning Back](https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [No Turning Back](https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0) | 3:48 |
 | 44 | [Power \- From the Al Sharpton Documentary LOUDMOUTH](https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Power \(From the Al Sharpton Documentary LOUDMOUTH\)](https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7) | 3:14 |
 | 45 | [too high](https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:16 |
-| 46 | [Poison](https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:56 |
+| 46 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
 | 47 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 |
 | 48 | [Hope](https://open.spotify.com/track/2cid9gPwIOMa4fYTreyLtl) | [Dominic Balli](https://open.spotify.com/artist/2QCtK2hdxxcU1BU5Npa8Zu), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Give Me the Truth](https://open.spotify.com/album/3yOlYe0Rc57s41Te9z1JPY) | 4:03 |
 | 49 | [lost](https://open.spotify.com/track/7bvq2OKntVXLVnbEIo0nOx) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:24 |
 | 50 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBhMWYyNzNhM2MwNWEzZjg2NzUwMDdjZmJiODAwZGU3OA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBhMTY0NTJjMmRhNzcyZTc5OGViOTExN2IwMjQ4MzdhMg==`

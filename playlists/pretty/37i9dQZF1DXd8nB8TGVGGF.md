@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,788 likes - 118 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 118 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 117 | [Lonesome Whistle Blues](https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 3:04 |
 | 118 | [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 |
 
-Snapshot ID: `MCw3ODhjOWJhOTliMmE4ZWZhOTNiYzg0NjRjNjc2ZDBkZmU1OWViZDM1`
+Snapshot ID: `MCxlYTU0MmQyODBlN2JkZGVlNDU3Y2IyNDU0ZGE4NTVkNzJiYjdhNTEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Darius Rucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,156,151 likes - 95 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,156,250 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
 | 95 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 |
 
-Snapshot ID: `MCxjYjk2NzA5MTcwMDI4MGM3NDMwNDk5OTNiNGUyMjE4M2UwNTlmZTI0`
+Snapshot ID: `MCwzZDFjYTQ5ZjM3ZjU2ZTY1ZmQ3NWRhZDJjZTlmMmNiY2E0NzI0M2M0`

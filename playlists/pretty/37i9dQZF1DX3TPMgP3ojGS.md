@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,118 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,277 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
 | 100 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
 
-Snapshot ID: `MCw3ZjBlNzA5ZTQ2Nzk4ZWI5OGM0Njk5NmMwNDI4YjRhNWM2MDAwY2Qy`
+Snapshot ID: `MCw2ZjRiYWRmMGYxNGI1OGVkNmFiMmNmYTY3NmZhZTYwYzA4MTFkNDMy`

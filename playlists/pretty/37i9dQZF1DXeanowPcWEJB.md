@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,686 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,747 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [La Luz](https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:46 |
 | 100 | [En el Último Trago](https://open.spotify.com/track/0qyqbhpeDTVKVwdfkeppj6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:16 |
 
-Snapshot ID: `MCxmYzlmOGI4MjZjMThjZDhlN2U5MTIxZWNjYjAyZjhlYzk1MjVkYjEz`
+Snapshot ID: `MCwyMDYxMDIwMDhlOWFmMTZkNGYxMjM1ODM5ZGRlMTE4NTE4MjJmN2Rm`

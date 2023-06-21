@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 boys](https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [100 boys](https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO) | 3:16 | 2023-06-16 |  |
+| [100 boys](https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [100 boys](https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO) | 3:16 | 2023-06-16 | 2023-06-21 |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-02-04 | 2022-02-26 |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-09-24 |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |

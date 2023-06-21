@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,777 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Blood Sweat & Tears](https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [Blood Sweat & Tears](https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o) | 4:01 |
 | 100 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 
-Snapshot ID: `MCw0ODYzNGU3NGU1MDgwYTUxYWVhYzc4Y2I3Yjk1ODY0YjNlM2E5NjQ2`
+Snapshot ID: `MCw5Mjk2MjI2YmU2YmQwNjQ0M2IxYWNmOWE3YmFkMGU2MjU2MjlhYTYx`

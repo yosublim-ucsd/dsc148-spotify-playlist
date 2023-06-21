@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,714 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,094 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Wake The Dead](https://open.spotify.com/track/58U3KUbCdpTEoZtGNnQBOa) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Wake The Dead](https://open.spotify.com/album/4Vj1dLfWkEUm16doIG5Z1z) | 3:17 |
 | 100 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
 
-Snapshot ID: `MCwwZGU4YWFjYmM0ZDRjYzkxYjJkYTRlNjk2OTQyMGQ2ZjE2ZDE0OWE3`
+Snapshot ID: `MCw2NTZiNDEzNTIwN2UzOWMyY2NjMGY3ZjZjZjAwYWYzZWRkNWM5Mjdh`

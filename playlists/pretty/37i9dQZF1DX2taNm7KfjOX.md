@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Sumbuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,621 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,714 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 |
 | 150 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
 
-Snapshot ID: `MCxjYzY5OTZmZGExMjc5ZmRkMGZiOTVlZWJhY2U4ODRhYmQ1OGRkOGE1`
+Snapshot ID: `MCwxODhjMDIzYWIzN2NiMTM2ZWJkYjY4NTI4ODFlZWMyZGU0NzRhNDFm`

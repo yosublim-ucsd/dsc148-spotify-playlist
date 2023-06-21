@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Liquid Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,005 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,040 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
 | 50 | [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 |
 
-Snapshot ID: `MCwxN2IyNzZmZmJiYzhjNDMyYWU2MDgwODA5Y2M5YmYwMTU4NDBkOWU4`
+Snapshot ID: `MCwzN2YzZjAwMDc4ODJhNTBkYzMyMGM1ZTQyMjI4ZjMzMGQ4ZWUyYTY0`

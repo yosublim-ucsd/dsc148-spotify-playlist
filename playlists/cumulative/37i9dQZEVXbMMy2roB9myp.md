@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-568 songs - 1 day 6 hr 58 min
+569 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [Bien Chula](https://open.spotify.com/track/7xrfbORzJICHtRJtNTpkdc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Bien Chula](https://open.spotify.com/album/0Lfi1JYvyfmnet3moWcC10) | 2:52 | 2021-11-07 | 2021-12-11 |
 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 | 2021-05-24 | 2021-11-03 |
+| [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 | 2023-06-20 |  |
 | [Bottas](https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:28 | 2022-12-03 | 2022-12-05 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-23 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-23 | 2021-05-24 |
@@ -144,7 +145,7 @@
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-06-05 |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-27 | 2023-01-16 |
 | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx) | 3:24 | 2023-03-25 |  |
-| [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 | 2023-06-19 |  |
+| [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 | 2023-06-19 | 2023-06-21 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 | 2023-05-21 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2023-05-20 |  |
 | [Dos Besitos](https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Dos Besitos](https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58) | 2:29 | 2022-11-03 | 2023-05-18 |

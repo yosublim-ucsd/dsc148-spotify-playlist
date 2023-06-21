@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Ceilings (arr. piano)",
+        "url": "https://open.spotify.com/album/25q58qrmESNApR2aVHSc5I"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148949,
+      "name": "Ceilings (arr. piano)",
+      "url": "https://open.spotify.com/track/4APasGM4QM39lYXiUZVD7A"
+    },
+    {
+      "album": {
         "name": "Vitamin String Quartet Performs Coldplay's Viva La Vida",
         "url": "https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3"
       },
@@ -2756,6 +2774,24 @@
       "duration_ms": 190588,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS"
+    },
+    {
+      "album": {
+        "name": "Theme From The Deer Hunter",
+        "url": "https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR"
+      },
+      "artists": [
+        {
+          "name": "Anton Byers",
+          "url": "https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170551,
+      "name": "Theme From The Deer Hunter",
+      "url": "https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z"
     },
     {
       "album": {

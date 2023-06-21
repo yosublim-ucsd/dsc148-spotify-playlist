@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. The Dare
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,123 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,335 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 99 | [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 |
 | 100 | [What Katie Did](https://open.spotify.com/track/4ujUbvyGtlXFuGzCPwp8At) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:49 |
 
-Snapshot ID: `MCw5ZjhiNWU4NDdmNTIyZGMzOGVjOWY1YjRlNWVhYzIxNWQ1YTg0NTU1`
+Snapshot ID: `MCw4YWU4YjdiMGE3NjAyYTlmZDk5Mjk0ZDVhMDdiOGRmYmE5ZGYzNGE4`

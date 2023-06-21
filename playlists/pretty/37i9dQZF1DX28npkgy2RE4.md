@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,929 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,993 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [This Is Your Life](https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 4:13 |
 | 150 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 |
 
-Snapshot ID: `MCxjMzNhNjlhNzQwZTU5Y2U4MjhhNDMyZmFlNTExZDc4MTgzNDM1ZTYy`
+Snapshot ID: `MCxmMjdiYWMzMGYxZjBkZTE1YzY5MmUzMTUyMDA1OGNmOGI1YTE3YzVk`

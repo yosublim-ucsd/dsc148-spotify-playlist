@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,599 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,661 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 |
 | 100 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
 
-Snapshot ID: `MCw1MmQ5ODZhYmFlMTg0NTZlMjdiYmI5YjExZTM1MTZjOTBjMzIyY2Qw`
+Snapshot ID: `MCw1ZGFkOTU1ODE4MDYyNDMzNjhmOWM3M2VhZGYxNWJiN2FmZjQ3ZGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,855 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,860 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 49 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
 | 50 | [Used](https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Used](https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr) | 3:53 |
 
-Snapshot ID: `MCxjNTYyNTE2ZWU0NjljNzlhMjJkYzYyMjJmZjY3YzdjYjkyODk3YmQ1`
+Snapshot ID: `MCxlZWUxNTQwZjlmNGZmNDU0OGJlOGYyMjEzM2JlNDc4ZTg0MmU5NDZk`

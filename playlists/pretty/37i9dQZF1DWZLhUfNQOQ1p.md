@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,461 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,560 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 74 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 |
 | 75 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
 
-Snapshot ID: `MCwwNDgwZjc3OWVmNjlkYzc0ZDFlNDMwMTlkYjNkODJkMzMyZDVhYTRl`
+Snapshot ID: `MCw4OGIxODc0NDE3ODJkOGU5ZGViZjFkYjllZjE5MTY0Mjg5ZjkxZWEx`

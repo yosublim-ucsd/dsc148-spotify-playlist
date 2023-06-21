@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: William Beckmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,594 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,650 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
 | 100 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 |
 
-Snapshot ID: `MCxjMzQ1YTQ5ODFhNTU3MGI5YjA0MGVhZDdjY2IyYWIzYjY5NmVlNDRj`
+Snapshot ID: `MCw3Y2E2OTc2OGY1NzgyNTc1ZDdmYjE1NDRhZWMzZjFiN2U3NzhkNmFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,231 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,508,533 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 | 100 | [One Hundred Punks \- 2002 Remaster](https://open.spotify.com/track/0dejbz6pvFcYYuJMGcM5Wt) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:07 |
 
-Snapshot ID: `MCw1ZWUwNGNmZTc1NzhlOWJmZDM5ZTA1YTA1ZmVmYjdlMDA3OWRmNzIw`
+Snapshot ID: `MCxmZGE0MjUxNTgyZDdkODE3NzZkYWExMDI2YzFlOTU2Zjc5MjI4ODAy`

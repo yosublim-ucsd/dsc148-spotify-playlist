@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,728 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,516 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
 | 100 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 |
 
-Snapshot ID: `MCxiZTg3MTE2Y2ZjZGZmOWUzMzY3YzY5Y2VkMjQ4ODcyZDIyNjg4NzRh`
+Snapshot ID: `MCxhOTRmM2YzNmM4MzQ5NjY4NzI0OGE1OTMzNTBiYjhhMTFhOGRhMjgw`

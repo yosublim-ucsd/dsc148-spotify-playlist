@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bSkinny Brown(\uc2a4\ud0a4\ub2c8 \ube0c\ub77c\uc6b4))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bPENOMECO(\ud398\ub178\uba54\ucf54))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -408,6 +408,24 @@
       "duration_ms": 212200,
       "name": "23",
       "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "23 Pt.2",
+      "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
     },
     {
       "album": {
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 113084,
       "name": "Blessin",
       "url": "https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 199210,
       "name": "Boutta Go",
       "url": "https://open.spotify.com/track/3VIiiCkbV437uiieLmrxyM"
@@ -6524,7 +6542,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 179420,
       "name": "genius complex",
       "url": "https://open.spotify.com/track/6LOSm4BBw3mM9jT7zl1utx"
@@ -6554,6 +6572,32 @@
       "duration_ms": 246600,
       "name": "gganbu (Feat. YUMDDA, ASH ISLAND) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/4XI5Kdm1zdSFxdIGd9xUVT"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "viceversa",
+          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264653,
+      "name": "Ghost (Feat. \uac1c\ucf54, viceversa)",
+      "url": "https://open.spotify.com/track/4HM22JAZV3nf9RI6PLgpdz"
     },
     {
       "album": {
@@ -17740,7 +17784,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 165376,
       "name": "TAG (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/1Stv6ROELu0XpyvJLsUH1j"
@@ -19452,7 +19496,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 266344,
       "name": "Warrior (Prod. sAewoo)",
       "url": "https://open.spotify.com/track/0GmP4Q5RsowghUZRpGjaLq"
@@ -20442,6 +20486,24 @@
       "duration_ms": 186000,
       "name": "Wrecker ft Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6M2R8LHcCdlnDw45AbWsMS"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
     },
     {
       "album": {

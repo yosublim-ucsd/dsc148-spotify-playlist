@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Barbi Recanati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,709 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,723 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Trencaclosques](https://open.spotify.com/track/4MK2oQefzVE54Eo92m6iMG) | [montefuji](https://open.spotify.com/artist/4wHs8HiIEJ1jlhxZulc6YH) | [Trencaclosques](https://open.spotify.com/album/2rTW8CMknOOK8ZwSgSYqqf) | 3:11 |
 | 49 | [Esperanza](https://open.spotify.com/track/21QxBQOBZivXe26OmmyJCb) | [Niño Lobo](https://open.spotify.com/artist/2IOAaEywXWpTjSsJfUc5pi) | [Esperanza](https://open.spotify.com/album/3GtJh9OglHDJvYVrXm5Opm) | 4:15 |
 
-Snapshot ID: `MCw3NmFjZDQ2YTI0ODQ3Y2ExYWU0NDRjZWFhOGM0ODJlNzAxMTlhNmI4`
+Snapshot ID: `MCw2ZDhhNTcyMzZlOTVmZmMzMTU4ZTVhOTYxYzQ2YTMxYThiNzhhNzI4`

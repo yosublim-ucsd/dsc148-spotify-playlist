@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,615 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,733 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 | 100 | [América](https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [América](https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro) | 4:30 |
 
-Snapshot ID: `MCwxMWVkZTFhMGM2NTVkMWQyMmFjZmRiYmQzMWQzNTM5NzI4NGFhZDA4`
+Snapshot ID: `MCw0M2JjZWU3MDdiNTA3NmI3ZWM4NmVmYjQzY2M0NWUyNjI0NDJmNTdk`

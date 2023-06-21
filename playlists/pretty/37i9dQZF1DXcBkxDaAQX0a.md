@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,302 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,349 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
 | 75 | [Fentanyl \- Stripped](https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 3:19 |
 
-Snapshot ID: `MCxhMTVjYjZhNmZkNDExMzhmYWU3ZjNjNzk5ZTRjMDJmZTViZjdkMTE3`
+Snapshot ID: `MCw1ZWUzYTQ2YmNhYTcxZTc1MTNmN2IxZjhhZWQzYWRmYzg1ZjQxNTk3`

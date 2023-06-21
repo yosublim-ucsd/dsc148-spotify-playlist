@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,902 likes - 500 songs - 1 day 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,037 likes - 500 songs - 1 day 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
 | 500 | [Scrapple From The Apple](https://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 2:41 |
 
-Snapshot ID: `MCw1ZGJiZmIwYTNmMDZlMjc1ZjI1Nzk4OWEwNGQ5MDc3MDc2MDkzMTU2`
+Snapshot ID: `MCw1MWE5ZDkwZjc4ZmMzZjAzM2JlNTg2M2RkMjQyMDI1NWQwYjM1NDA4`

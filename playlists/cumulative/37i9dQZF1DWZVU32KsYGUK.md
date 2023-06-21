@@ -4,7 +4,7 @@
 
 > Restaurant style background music for chill dinner ambiance.
 
-316 songs - 13 hr 38 min
+320 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dulcinea](https://open.spotify.com/track/41GPX9Sl8plXLofQAIbjSS) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dulcinea](https://open.spotify.com/album/3irIiK7LtZnnm16g8EX29i) | 2:30 | 2022-05-20 |  |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-27 | 2022-12-06 |
 | [Dustsceawung](https://open.spotify.com/track/6nA3Rq6zvadWTW8H9wuoS8) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Dustsceawung](https://open.spotify.com/album/5VEskKPrAs8A43c0Vn6cQ9) | 1:52 | 2022-08-03 |  |
+| [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-20 |  |
 | [Elderflowers](https://open.spotify.com/track/5LXArjUq89I6gByE5u44k5) | [Ryu Ito](https://open.spotify.com/artist/1hIFiZqCoq6Az71hQ8xkTz) | [Elderflowers](https://open.spotify.com/album/3SR9dXr1wEIvr9m9zEXm1h) | 2:09 | 2022-04-27 | 2022-12-06 |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-27 |  |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-27 |  |
@@ -84,6 +85,7 @@
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-04-27 | 2023-05-10 |
 | [Eyes wide open](https://open.spotify.com/track/1DeqedzpBEzb1A9PbrZ601) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Eyes wide open](https://open.spotify.com/album/3IMsQyfEDLaZfzcaJgq7bQ) | 2:02 | 2022-12-05 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-27 |  |
+| [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-06-20 |  |
 | [Field trip](https://open.spotify.com/track/4dtgMavxb4LCIJeTmQ5GUI) | [Roman Melass](https://open.spotify.com/artist/4YWm9hzqB5RDVrrQm01zzu) | [Field trip](https://open.spotify.com/album/30ozVFrsS8qqDuDZuBpZqk) | 2:23 | 2022-04-27 | 2022-06-07 |
 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2022-04-27 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-27 |  |
@@ -121,6 +123,7 @@
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2022-04-27 |  |
 | [I Am Here](https://open.spotify.com/track/6pXYmnJROexnkjfPZU8QEA) | [Soetkin Milbouw](https://open.spotify.com/artist/1QRCe2LSWp2iLzLycqzsWO) | [I Am Here](https://open.spotify.com/album/5attuLLTFRoKJCQb4BFgjh) | 2:43 | 2022-06-06 |  |
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2022-04-27 | 2022-05-21 |
+| [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 | 2023-06-20 |  |
 | [I Wrote You A Song](https://open.spotify.com/track/59qHsSncWfBdugXAp2E5AH) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:03 | 2022-04-27 | 2023-04-06 |
 | [Illusion of Time](https://open.spotify.com/track/7whzU6Np1WNa5X9N2KJ317) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Illusion of Time](https://open.spotify.com/album/5Yn8aw8P6ZXUQhs9plL8zr) | 2:18 | 2022-08-09 |  |
 | [Improvisation Avant de Dormir](https://open.spotify.com/track/0rW3BEyJmywFjOgG1J9dPO) | [Charles Faure](https://open.spotify.com/artist/3ONJjReGP3f6w68Gj7H1Im) | [Improvisation Avant de Dormir](https://open.spotify.com/album/5cNkeXOpDpvVgcIEf4l5fm) | 2:48 | 2022-11-24 |  |
@@ -212,6 +215,7 @@
 | [Portrait](https://open.spotify.com/track/4Ld5s7QdOY0mvuM0zHbnu5) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Travelers](https://open.spotify.com/album/4xmZvsAbPgukLZBqVJX7th) | 2:47 | 2022-04-27 | 2022-08-30 |
 | [Portraits Of Jane](https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Portraits Of Jane](https://open.spotify.com/album/5NOzttfi0gigAsCfWweEC0) | 2:13 | 2022-04-27 | 2022-06-07 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-04-27 |  |
+| [Prelude to Elegance](https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Prelude to Elegance](https://open.spotify.com/album/4DiOIV9lYzorVb8SDsO4ys) | 1:59 | 2023-06-20 |  |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-04-27 | 2022-06-07 |
 | [Purity](https://open.spotify.com/track/3nfhbwdfbK19V3vwRTAcoo) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Purity](https://open.spotify.com/album/1p7XvsfWUHq4ApCRN0zOaB) | 2:27 | 2022-04-27 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-04-27 |  |

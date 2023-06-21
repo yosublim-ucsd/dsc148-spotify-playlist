@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,880 likes - 82 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,908 likes - 82 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
 | 82 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 |
 
-Snapshot ID: `MCwzNmJiNTAxMWU0NDVkYjE2MGRjMTIxMmEwNmEwNmRjMWFmOWMxOGQx`
+Snapshot ID: `MCw0ODQ4NmM3OGJjZWI1N2UzODA3OTJiZDM0ZWYwNGU3MWQ4OWJmZGVj`

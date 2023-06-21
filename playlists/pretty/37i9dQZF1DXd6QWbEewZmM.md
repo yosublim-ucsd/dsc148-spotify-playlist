@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,716 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,045 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
 | 100 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 |
 
-Snapshot ID: `MCw0YmI3YzlmY2QxZDQwZmI0YjA4MWFlNTI2MjFlYWIzMzRjNjcyZDUw`
+Snapshot ID: `MCxkYzY3NWIwZTdlMGVmMDk4NWNjNWJjMTUzOTQxNjA1MmU4ZDc2ODYw`

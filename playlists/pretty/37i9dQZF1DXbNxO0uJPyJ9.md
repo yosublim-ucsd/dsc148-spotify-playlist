@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,777 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,950 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
 | 80 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 |
 
-Snapshot ID: `MCxjYTE1ZTBmN2U2OWJjNjhjOGRlYWNmYjA5N2YxNGQ2ZmVjMmJmMDU3`
+Snapshot ID: `MCw4M2Y1ZGJmZjljMzA3M2ViMjA3MmRhYTMzOWRkZmM3NjA1MmM5OTVm`

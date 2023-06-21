@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,913 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,969 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
 | 70 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
 
-Snapshot ID: `MCwwYTY5NmRkMjFiZTcxNGFjNGM1NGRjOGUxN2QzYTQ0NGYxMGNjNjk4`
+Snapshot ID: `MCw1MmFmM2UwMDI3YWRkZDY5N2M3OWY1ZTU4N2VjYWQwNTMzNGJhNzNl`

@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nilipek.
 
-764 songs - 1 day 16 hr 57 min
+765 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,8 @@
 | [Ne Güzel](https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ne Güzel](https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE) | 2:49 | 2022-09-06 | 2023-01-04 |
 | [Ne Mesele](https://open.spotify.com/track/7ow3ll66n4SMDtqkIGgqiC) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Ne Mesele](https://open.spotify.com/album/1AkegU5oPVIvUdZuLQpTlX) | 2:31 | 2022-07-05 | 2022-07-14 |
 | [Ne Söyledi Tanrı Sana](https://open.spotify.com/track/65qmhywcv699mXlwJyNefa) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Ne Söyledi Tanrı Sana](https://open.spotify.com/album/6vq00jX5AjelUlymxdOC7Q) | 3:27 | 2023-01-03 | 2023-02-01 |
-| [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 | 2023-06-06 |  |
+| [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 | 2023-06-06 | 2023-06-21 |
+| [Neden](https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF) | 1:55 | 2023-06-06 |  |
 | [Neden](https://open.spotify.com/track/6fJvg1n95FCu6vRB2xP1dH) | [Tuğçe Türker](https://open.spotify.com/artist/6Z8HhuPI82uubrWMs7BymI) | [Neden](https://open.spotify.com/album/3Oirxdyhh5XqN5FNtToPIz) | 2:28 | 2023-01-31 | 2023-04-05 |
 | [Neden İnanasın](https://open.spotify.com/track/7JSl9VxIl9M6Jq8NFrhGUC) | [Ani](https://open.spotify.com/artist/1w7GXnVAbouWJoSGQ1gSJz) | [ANİ](https://open.spotify.com/album/5bELaeJr7w7NMEhF0HBq7e) | 3:12 | 2023-01-31 | 2023-04-05 |
 | [Neden Neden](https://open.spotify.com/track/5ms86L1MvMdoKQk4wtLXYr) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Neden Neden](https://open.spotify.com/album/6a2Km2FGYbwuXDr8GnwZxp) | 3:52 | 2022-10-04 | 2022-11-02 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-501 songs - 1 day 5 hr 10 min
+502 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-14 | 2022-08-26 |
 | [Falling Apart \- VIP](https://open.spotify.com/track/31mifD96EdMow5Clmci2cN) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Falling Apart \(VIP\)](https://open.spotify.com/album/0qleNFLwuuOTO0XnW8bZD4) | 3:36 | 2022-12-16 | 2023-03-18 |
-| [Falling Asleep](https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Falling Asleep](https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA) | 3:21 | 2023-03-28 |  |
+| [Falling Asleep](https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Falling Asleep](https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA) | 3:21 | 2023-03-28 | 2023-06-21 |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |
 | [Falling Off](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off](https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L) | 3:45 | 2022-08-24 | 2022-11-01 |
 | [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 | 2023-03-03 |
@@ -316,6 +316,7 @@
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |
 | [Nirvana \- Tisoki Remix](https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Nirvana \(Tisoki Remix\)](https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL) | 2:58 | 2022-12-01 | 2023-03-02 |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
+| [No Rules](https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [No Rules](https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx) | 9:07 | 2023-06-21 |  |
 | [No Service](https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [No Service](https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD) | 3:00 | 2023-02-16 | 2023-05-05 |
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |
 | [Nobody Knows](https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 2:57 | 2022-11-19 | 2022-11-22 |
@@ -466,7 +467,7 @@
 | [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 | 2022-09-02 | 2022-11-05 |
 | [Turn Back The Clocks](https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 3:28 | 2022-11-19 | 2023-02-17 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
-| [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 |  |
+| [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |

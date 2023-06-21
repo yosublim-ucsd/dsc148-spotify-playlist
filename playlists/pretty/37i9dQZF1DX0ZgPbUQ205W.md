@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,538 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,590 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 |
 | 100 | [La Petite Reine](https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78) | [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL) | [Absinthe](https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr) | 2:13 |
 
-Snapshot ID: `MCw5N2I5YjVjZDYxNTNmNGQxODNiNjViY2ZmMTZhOTgxYTJkOWU1YjUy`
+Snapshot ID: `MCw0MzhlMGEwMTdiNDg5ZmRjM2EyMzU5MzMyYzg5NTIyMGVmMjQ0YWZh`

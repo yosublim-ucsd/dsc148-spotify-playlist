@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,804 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,890 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 |
 | 100 | [Who Dat Boy \(feat\. A$AP Rocky\)](https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:25 |
 
-Snapshot ID: `MCxiMGExZDVjZGZhMDRkYjc4YmExMDA0MmU2Yzc4MDlkYWY1NWVjZGQ5`
+Snapshot ID: `MCxkNDA3YWMwYWNmNmZjOTFiNjJkMDQ4MmEzMzA3NTY1YTkwNjRkMDM3`

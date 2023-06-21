@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Some bops to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,087 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,130 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 149 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 |
 | 150 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 
-Snapshot ID: `MCwyYTRiZTRkYmFjNmYyMWNlMjFhZDkwMzlmYjc0OWRiYjcwMmU1OGM5`
+Snapshot ID: `MCwzOGY4YTUxMmI1ZmU1OWMzNmUyM2RiMzc2MTY1YmY0OTgxMjExZTc0`

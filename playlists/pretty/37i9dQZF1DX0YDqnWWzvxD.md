@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,631 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,727 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 100 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 
-Snapshot ID: `MCw4MGNlMjJkZTdjOTQ1N2ViMjhmMjM1ZGI4MTg3ZGFlZDM2NDY2ZDNl`
+Snapshot ID: `MCw3MGY5OWU0ZGQyMmJlMjdjY2Q3YmMyY2QwYmI2ZWE5OTI4MGU4ZjZk`

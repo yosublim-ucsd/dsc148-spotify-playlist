@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,601 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,666 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Grita Tierra](https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ) | [UN Live](https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Sandesh Manuel](https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Hna Nidia Macías](https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp) | [Grita Tierra](https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z) | 4:35 |
 | 100 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 
-Snapshot ID: `MCwzMmIxYWM2OGIxZGRmODI2ZDE5YWJjZmJhZjBiYjA0MDY4OWY2NjBm`
+Snapshot ID: `MCw5MDMxODQwYWMyYzI5N2Q1ZWNmMjc1MzUyMWE3ZTgyOTQyMmU1YzAw`

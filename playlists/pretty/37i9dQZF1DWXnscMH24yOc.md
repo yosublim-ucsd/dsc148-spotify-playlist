@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,753 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,853 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Show Me The Meaning Of Being Lonely](https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [For The Young](https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B) | 4:09 |
 | 100 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 
-Snapshot ID: `MCwzMjM4MmVmMmNhOWI3OGE5MWVjNTg1MWQ0OTgzOTI1ZWNlMjAwODhi`
+Snapshot ID: `MCw2YjQ2MDQ3MzIzZDZhYmI4NDEyNGJlYmM3NDM1ZDQyY2MyMmI3MDE3`

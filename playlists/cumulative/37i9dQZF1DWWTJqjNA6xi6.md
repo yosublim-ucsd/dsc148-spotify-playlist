@@ -4,10 +4,11 @@
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-40 songs - 1 hr 47 min
+44 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 Months Make A Year](https://open.spotify.com/track/3CU8QwAntpcc1WALlbVxWs) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 6](https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40) | 2:45 | 2023-06-20 |  |
 | [Action!](https://open.spotify.com/track/4VSdkLjHs7arQUoCyxTQ2h) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 5](https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX) | 2:36 | 2022-08-19 |  |
 | [Action!](https://open.spotify.com/track/4cIatWQ19eqVidOQq8HqON) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 2:36 | 2022-08-19 | 2022-11-17 |
 | [Bedtime Stories](https://open.spotify.com/track/2x6UI2qPGH8UJ1Dd6hMR6l) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:20 | 2022-08-19 |  |
@@ -26,6 +27,8 @@
 | [Good Good Day](https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:37 | 2022-08-19 |  |
 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-03-03 | 2022-11-17 |
 | [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 | 2022-08-19 |  |
+| [I'm the Boss Of My Body \(A Song About Consent\)](https://open.spotify.com/track/3DgBMvR9r2wSKmZLbonB1g) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 6](https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40) | 2:49 | 2023-06-20 |  |
+| [Jumping Party](https://open.spotify.com/track/0qoc3u7qsrmOaAVKluotX1) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 6](https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40) | 2:46 | 2023-06-20 |  |
 | [Learn Colors / Aprende Colores](https://open.spotify.com/track/4r42EiTyHU9OJNlSS1b0wS) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 5](https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX) | 2:22 | 2022-08-19 |  |
 | [Learn Colors / Aprende Colores](https://open.spotify.com/track/6ZRk8w5n6BMtdYfjB6O8pI) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 2:22 | 2022-08-19 | 2022-11-17 |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 | 2022-08-19 |  |
@@ -34,6 +37,7 @@
 | [Making Friends](https://open.spotify.com/track/4ku99b4tEvQAfps4L8z6Rn) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:40 | 2022-03-03 | 2022-11-17 |
 | [Sharing With You](https://open.spotify.com/track/1Zlt0kJjGNjqgKKRlErr5P) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 3:34 | 2022-03-03 | 2022-11-17 |
 | [Sharing With You](https://open.spotify.com/track/63DpK6dZZkPAHiH1OV9KF5) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 3:34 | 2022-08-19 |  |
+| [Summer of Fun](https://open.spotify.com/track/7EZfOWQ1eaVmKC7NTROaXO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 6](https://open.spotify.com/album/7F807Xx9x9Ib4y8Zzp1q40) | 2:27 | 2023-06-20 |  |
 | [Thank You!](https://open.spotify.com/track/2mcPaZYZkXZX0jKq8mvbal) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:18 | 2022-03-03 | 2022-11-17 |
 | [Thank You!](https://open.spotify.com/track/7uloNNWf75NUhvJPQrqymF) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:18 | 2022-08-19 |  |
 | [The Gratitude Attitude](https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:41 | 2022-03-03 | 2022-11-17 |

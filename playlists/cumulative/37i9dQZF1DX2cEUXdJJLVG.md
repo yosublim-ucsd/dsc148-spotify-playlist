@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-255 songs - 15 hr 23 min
+256 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Quebrada](https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Nine Tenths of the Law](https://open.spotify.com/album/2ehRDCZKKkHRsZ76faCl3N) | 4:19 | 2022-10-14 |  |
 | [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 | 2022-09-09 | 2022-10-19 |
 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 | 2022-09-09 | 2022-09-16 |
+| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-06-20 |  |
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2022-10-14 |  |
 | [Right Here](https://open.spotify.com/track/5nmyyyNkAE472yWNFICqaC) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Passionate Persistence](https://open.spotify.com/album/4xcLKcCidXCPqIaOnvJWcu) | 3:09 | 2022-09-09 |  |
 | [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 | 2023-04-20 |  |

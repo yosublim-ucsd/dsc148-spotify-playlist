@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 140873,
       "name": "Forgery",
       "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 204999,
       "name": "It Might Be Painful, but I Still Love It.",
       "url": "https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8"
@@ -3548,6 +3548,24 @@
       "duration_ms": 240940,
       "name": "river relief",
       "url": "https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8"
+    },
+    {
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/6bKz6IAUcZBXo4CulgbQV5"
+      },
+      "artists": [
+        {
+          "name": "luz",
+          "url": "https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/2znUvInSCRzXIg8CG4ppNc"
     },
     {
       "album": {
@@ -6667,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30a6\u30ec\u30ab",
+        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "\u30a8\u30a6\u30ec\u30ab",
+      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30ea\u30fc\u30c8 (Self Cover)",
         "url": "https://open.spotify.com/album/0AoQARqFCT8XiO0kVKdTAl"
       },
@@ -9245,6 +9281,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30c0\u30fc\u30e1\u30f3\u30bf\u30ea\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/4v0IPktCIEZCtqh6Z0fvGB"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225083,
+      "name": "\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5usrW9VzreLcGpj3R3mtJo"
+    },
+    {
+      "album": {
         "name": "\u9593\u4e00\u767a",
         "url": "https://open.spotify.com/album/1OmxRf8VOCmablACDWI6vF"
       },
@@ -10661,6 +10715,44 @@
     },
     {
       "album": {
+        "name": "\u5b9a\u547d",
+        "url": "https://open.spotify.com/album/2HDvGnfRxf0KJYltrfg6E6"
+      },
+      "artists": [
+        {
+          "name": "V.W.P",
+          "url": "https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1"
+        },
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        },
+        {
+          "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+          "url": "https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U"
+        },
+        {
+          "name": "\u6625\u733f\u706b",
+          "url": "https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l"
+        },
+        {
+          "name": "\u5e78\u795c",
+          "url": "https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233300,
+      "name": "\u5b9a\u547d",
+      "url": "https://open.spotify.com/track/3mYzoSnYTgehtoO54zLFJ7"
+    },
+    {
+      "album": {
         "name": "\u5be1\u6b32",
         "url": "https://open.spotify.com/album/0xogwlxq2FQYlB8ZWavdvI"
       },
@@ -11020,7 +11112,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
@@ -12412,7 +12504,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 185822,
       "name": "\u751f\u5b58",
       "url": "https://open.spotify.com/track/6nUFA6RjYu2i7um1C4Mx9V"

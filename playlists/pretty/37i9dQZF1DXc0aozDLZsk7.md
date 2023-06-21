@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,746 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,744 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Tough](https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Tough](https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT) | 3:49 |
 | 80 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 |
 
-Snapshot ID: `MCw2ZDk0ZDM5M2RiMzE4YzE4ZWY0ODFhMWQ3NmViNDAxNDMxYTRjNDI0`
+Snapshot ID: `MCwyZGY1NzBjNTNjMzI3YjgyMTQ3ZGNkODYxNGY1OWJiN2Q2ZmNlZTY2`

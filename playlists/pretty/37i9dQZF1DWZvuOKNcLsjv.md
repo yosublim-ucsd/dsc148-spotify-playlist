@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Leigh\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,322 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,392 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Bubble](https://open.spotify.com/track/2z0GNBjMSx3HJLdRKkBg6S) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Bubble](https://open.spotify.com/album/6ns8AeeWp3tOmgPQ9EpIW1) | 2:58 |
 | 100 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
 
-Snapshot ID: `MCxkZmEzNGNiNzlhNjMzODc1MmU3MGRlYTQzZGZhZTk2ZmI0MTliNzdm`
+Snapshot ID: `MCw0ZmY1YjVhODk0NzVlMDJiODM5NTAwMjBkMTE5YzE5ZWQ0ZTViMDk2`

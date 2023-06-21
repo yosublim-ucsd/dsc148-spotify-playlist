@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -1850,6 +1850,24 @@
       "duration_ms": 224842,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD"
+    },
+    {
+      "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "album": {
@@ -2592,6 +2610,24 @@
       "duration_ms": 143402,
       "name": "Butakera",
       "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "album": {
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -5476,7 +5512,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 256768,
       "name": "Donde CRJ - Remix",
       "url": "https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V"
@@ -6568,6 +6604,24 @@
       "duration_ms": 290566,
       "name": "Ella Ya Me Olvido - Radio Edit",
       "url": "https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4"
+    },
+    {
+      "album": {
+        "name": "EME",
+        "url": "https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "EME",
+      "url": "https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI"
     },
     {
       "album": {
@@ -10399,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Le Va Doler",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153645,
+      "name": "Le Va Doler",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -12613,6 +12685,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM - FR PUNK (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/5nDBdYLH01BFQTCTrXARwA"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83576,
+      "name": "MONTAGEM - FR PUNK - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5gB7sGit8xwBrcWKx3hHHk"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
       },
@@ -12642,7 +12736,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
@@ -13540,7 +13634,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 244720,
       "name": "No Es Que Me Quiera Ir",
       "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
@@ -14132,6 +14226,28 @@
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "album": {
+        "name": "Nunca Tuve Tanto",
+        "url": "https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169409,
+      "name": "Nunca Tuve Tanto",
+      "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"
     },
     {
       "album": {
@@ -16489,6 +16605,24 @@
     },
     {
       "album": {
+        "name": "Topo Gigio",
+        "url": "https://open.spotify.com/album/4lJP4EdigfZqtboEhJz8Mf"
+      },
+      "artists": [
+        {
+          "name": "Topo Gigio",
+          "url": "https://open.spotify.com/artist/4VRf73oEPQ4kniW6RuuypG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149397,
+      "name": "Quiero Parecerme a Mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/1yVhsdkHVUStr2nbRpJrky"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK"
       },
@@ -17313,6 +17447,28 @@
     },
     {
       "album": {
+        "name": "Se fue la luz",
+        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Se fue la luz",
+      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "album": {
         "name": "Se Te Va A Caer La Baba",
         "url": "https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo"
       },
@@ -17484,6 +17640,28 @@
       "duration_ms": 189681,
       "name": "September",
       "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
+    },
+    {
+      "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119184,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
       "album": {
@@ -18048,7 +18226,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 174250,
       "name": "Si, Si Eres Tu",
       "url": "https://open.spotify.com/track/5vdbHnYhtraFF6vM9ZmenK"
@@ -19038,7 +19216,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -19136,7 +19314,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 155513,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"

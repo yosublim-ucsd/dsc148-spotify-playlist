@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,110 likes - 90 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,133 likes - 90 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 89 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 |
 | 90 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 |
 
-Snapshot ID: `MCw2MTlhNWFlNDc3MDVlZjJlZjY0MmQwOThmNDBkYTBlMThhZjA0NjYw`
+Snapshot ID: `MCwxZWRjNGMyNTVjYTYxY2QxNGViYjdmNjVmOTA3ZWI1NTM0Yzc1MmNh`

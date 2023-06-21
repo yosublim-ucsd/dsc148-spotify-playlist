@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
@@ -4479,6 +4479,28 @@
     },
     {
       "album": {
+        "name": "brinks!",
+        "url": "https://open.spotify.com/album/1dBsMynGvvMPiC0GJdf53L"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "brinks!",
+      "url": "https://open.spotify.com/track/1BNxzMUjlKaRLxrUkHIVfo"
+    },
+    {
+      "album": {
         "name": "Brotou no Baile",
         "url": "https://open.spotify.com/album/6zVLn50KohcFWYI7FNKket"
       },
@@ -5198,7 +5220,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
@@ -5832,6 +5854,28 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6J3HNhDBIwEX11bX8hzx5u"
+    },
+    {
+      "album": {
+        "name": "Colossenses e Suas Linhas de Amor",
+        "url": "https://open.spotify.com/album/6xnUAOdr8WYsW2dkNM8IwF"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494767,
+      "name": "Colossenses e Suas Linhas de Amor",
+      "url": "https://open.spotify.com/track/6VaYotbPQyjCl6Vhq6RV81"
     },
     {
       "album": {
@@ -6720,7 +6764,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7414,7 +7458,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 140860,
       "name": "Devolve as Correntes / Invis\u00edvel",
       "url": "https://open.spotify.com/track/7qrQs4rPGCXnwNyLn2YVCT"
@@ -8354,6 +8398,24 @@
       "duration_ms": 108922,
       "name": "Ela Quer Fumar Do Rush",
       "url": "https://open.spotify.com/track/047tt3ZTrLAPh4W5hExOet"
+    },
+    {
+      "album": {
+        "name": "Ela Sabe Que \u00c9 o Henry N\u00e9?",
+        "url": "https://open.spotify.com/album/2CxxK082gGgQdIVaYjsJV1"
+      },
+      "artists": [
+        {
+          "name": "Hits Show",
+          "url": "https://open.spotify.com/artist/3B8NbwiC5bv1dQqaow8D4m"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83156,
+      "name": "Ela Sabe Que \u00c9 o Henry N\u00e9?",
+      "url": "https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3"
     },
     {
       "album": {
@@ -10977,6 +11039,32 @@
     },
     {
       "album": {
+        "name": "Garota Absurda",
+        "url": "https://open.spotify.com/album/5LBmWTfHo5zlsoth1p5nsW"
+      },
+      "artists": [
+        {
+          "name": "Souffran",
+          "url": "https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112008,
+      "name": "Garota Absurda",
+      "url": "https://open.spotify.com/track/23Dssnc0RVjsICs9JNGRZX"
+    },
+    {
+      "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
       },
@@ -12094,7 +12182,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 155369,
       "name": "Hope This Song Is For You (From the Netflix Film \u2018A Beautiful Life\u2019)",
       "url": "https://open.spotify.com/track/3gOPaJJHoZiTi24moIyJyZ"
@@ -12653,6 +12741,28 @@
     },
     {
       "album": {
+        "name": "India Safada",
+        "url": "https://open.spotify.com/album/6fujen8DPGyBSlhLG8gL3h"
+      },
+      "artists": [
+        {
+          "name": "DJ FELYPINHO 013",
+          "url": "https://open.spotify.com/artist/6ReTdS1woQ2Qx7h8VwXRgS"
+        },
+        {
+          "name": "DJ Neguinho Do Uno",
+          "url": "https://open.spotify.com/artist/3W1sH4SS7SNrYpJCvVIhF1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154264,
+      "name": "India Safada",
+      "url": "https://open.spotify.com/track/0pmmXORtaCBGHcGJiLMhqZ"
+    },
+    {
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -12790,6 +12900,40 @@
       "duration_ms": 172693,
       "name": "Interessante",
       "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
+    },
+    {
+      "album": {
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
     },
     {
       "album": {
@@ -13952,6 +14096,32 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
+        "name": "Limitado",
+        "url": "https://open.spotify.com/album/50ec60lL8WRQH77Wqx1rXt"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183892,
+      "name": "Limitado",
+      "url": "https://open.spotify.com/track/3zSJaVOG3CScUJ4UdPi6IN"
     },
     {
       "album": {
@@ -16040,7 +16210,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
@@ -16539,6 +16709,36 @@
     },
     {
       "album": {
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
+        "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
+    },
+    {
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -16699,6 +16899,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM - FR PUNK (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/5nDBdYLH01BFQTCTrXARwA"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83576,
+      "name": "MONTAGEM - FR PUNK - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5gB7sGit8xwBrcWKx3hHHk"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
       },
@@ -16728,7 +16950,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
@@ -17082,6 +17304,24 @@
       "duration_ms": 212884,
       "name": "Mo\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
+    },
+    {
+      "album": {
+        "name": "MTG - DA IDADE M\u00c9DIA MEDIEVAL (PIKE DE BH)",
+        "url": "https://open.spotify.com/album/55tY247c0dT1B5FFeUnvU5"
+      },
+      "artists": [
+        {
+          "name": "Dj Esmiti",
+          "url": "https://open.spotify.com/artist/2JlF4XgutELcoXCSZbsPA2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172620,
+      "name": "MTG - DA IDADE M\u00c9DIA MEDIEVAL (PIKE DE BH)",
+      "url": "https://open.spotify.com/track/0vsi1D9KnDD5utUZWpwyLD"
     },
     {
       "album": {
@@ -20194,7 +20434,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
@@ -20654,6 +20894,36 @@
       "duration_ms": 208910,
       "name": "PERSONNALITE",
       "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
+    },
+    {
+      "album": {
+        "name": "Belial",
+        "url": "https://open.spotify.com/album/3uLFEWcaTwDdrbW1JjChNn"
+      },
+      "artists": [
+        {
+          "name": "Peralta",
+          "url": "https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "MC Estudante",
+          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178843,
+      "name": "Pers\u00e9fone",
+      "url": "https://open.spotify.com/track/3u9FHHLrJ9st71IIXnSXCb"
     },
     {
       "album": {
@@ -26330,7 +26600,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -27927,6 +28197,24 @@
     },
     {
       "album": {
+        "name": "Ritmo dos Crias",
+        "url": "https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f"
+      },
+      "artists": [
+        {
+          "name": "Dyamante DJ",
+          "url": "https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "Vai Novinha Ah Ah Ah",
+      "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"
+    },
+    {
+      "album": {
         "name": "Vai Polly",
         "url": "https://open.spotify.com/album/5zWaWRjYdIrqL9vydTQ30N"
       },
@@ -29458,7 +29746,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 109137,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e"

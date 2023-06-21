@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Speakers Corner Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,104 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,190 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 |
 | 75 | [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 |
 
-Snapshot ID: `MCwwYzZmMjgzZDc3YTg1NzQ5NTk3MGJkN2NhM2Y0NzI1OTg3OGI5NzVl`
+Snapshot ID: `MCxhOTIwMDc5M2M3OGZmY2JlNTgxZjYzZWY5ZjMzNjNjMThlMjlhMzUw`

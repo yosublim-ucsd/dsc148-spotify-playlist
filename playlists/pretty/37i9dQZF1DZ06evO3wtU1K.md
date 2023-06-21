@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,856 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,875 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 18 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 19 | [Something Has To Break \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 |
 | 20 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
-| 21 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 |
-| 22 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 |
+| 21 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 |
+| 22 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 |
 | 23 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 24 | [God's About To Do It \- Live](https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:11 |
 | 25 | [Fill Me Up / Overflow \- Medley/1 Mic 1 Take](https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [1 Mic 1 Take](https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
 | 50 | [Warrior Of Heaven \- Live](https://open.spotify.com/track/7eozoUQaZ40JCzdVQboEBU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 6:55 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBkNTdmMDUzNjIwMTU2OWI4ZmU0NWQzZTIzNmY2OTU2OA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBiZGY2MThlN2M0ZDM3YjFkOTNiNjhlODVmZWU5MmMwMQ==`

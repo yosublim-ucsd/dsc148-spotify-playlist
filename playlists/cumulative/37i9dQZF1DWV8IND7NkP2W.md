@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-608 songs - 1 day 3 hr 26 min
+609 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [ame](https://open.spotify.com/track/3Aof4M4zDeX2KPORAHfKFH) | [babaroa](https://open.spotify.com/artist/7AIZziu2N7IegfZyEPoQp7) | [ame](https://open.spotify.com/album/1KLCgbxZkoBFsoTEnLi7XV) | 4:51 | 2021-12-23 | 2022-07-26 |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2021-12-23 |  |
 | [Andromeda](https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Andromeda](https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid) | 1:53 | 2021-12-23 | 2022-12-03 |
-| [Another Dream](https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Another Dream](https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8) | 2:51 | 2021-12-23 |  |
+| [Another Dream](https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Another Dream](https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8) | 2:51 | 2021-12-23 | 2023-06-21 |
 | [Another Moment](https://open.spotify.com/track/7iKRSD3veF495sEM174M97) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy) | [Another Moment](https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL) | 4:08 | 2021-12-23 | 2022-07-23 |
 | [ao](https://open.spotify.com/track/12V8V1jdcg3ah1CoelwNm8) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [ao](https://open.spotify.com/album/2ThJpeNGPpcWwBVXDGfEtu) | 2:40 | 2023-04-27 |  |
 | [Aquamarine](https://open.spotify.com/track/6lzL8uBR5CMV25mC8mOgPA) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Aquamarine](https://open.spotify.com/album/52z4GzIPY0zJyf6NtEVUbD) | 3:37 | 2022-01-06 | 2022-07-28 |
@@ -472,6 +472,7 @@
 | [shunmin](https://open.spotify.com/track/1k1V89wZNDMD6HwrFTjJPR) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [shunmin](https://open.spotify.com/album/1ju1tXBlpwn5VaWqN5DtGY) | 3:22 | 2023-03-23 |  |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-23 | 2023-03-25 |
 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
+| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 |  |
 | [Skip](https://open.spotify.com/track/34N17xMTier5nIm0ETF1xD) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Late Night](https://open.spotify.com/album/6zmkMxBuSxAEC9Hm6vDNQi) | 3:00 | 2021-12-23 | 2022-04-19 |
 | [Skylight](https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q) | [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Skylight](https://open.spotify.com/album/4XzwXAqKC43RXOtCJGkvfU) | 2:09 | 2022-01-13 | 2022-04-12 |
 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 |  |

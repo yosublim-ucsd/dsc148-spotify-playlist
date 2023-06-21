@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,933 likes - 200 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,092 likes - 200 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 199 | [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 |
 | 200 | [told me](https://open.spotify.com/track/38wpbGL1NsOSAozXlbhgIV) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [told me](https://open.spotify.com/album/1t52lOjkvnLLD03bhlCAv0) | 3:29 |
 
-Snapshot ID: `MCxhNzdjODJjZDkxZWI2ZmRiMTkwZTdjMmM5NTA4YWVkNjVjNjE3ZjJi`
+Snapshot ID: `MCxmZTk4MzJjMTc5ZTFhMjg2ZDcyY2U3MzUyMWM0Y2JlN2RjNjc1YTFj`

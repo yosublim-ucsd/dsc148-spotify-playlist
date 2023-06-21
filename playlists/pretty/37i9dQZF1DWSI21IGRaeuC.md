@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,089 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,124 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 |
 | 75 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
 
-Snapshot ID: `MCw3NzVkY2FkZDdiZWE2ZTc5YTkxZWNmY2E5NDIxMWQ4NzBjYmYzM2Qz`
+Snapshot ID: `MCxiYjRmZjlhODg1YmY3NzZkMTgwMWI5NmY5MTE0ZTk5OTYwZGE0YTVl`

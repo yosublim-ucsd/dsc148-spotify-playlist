@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0">Sammie Ekpoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,700 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,732 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
 | 50 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 
-Snapshot ID: `MCwxYzcwODhjN2ZmMzA5MzJhNTExNjg3MmMyNWQwODEyNzM5ZjY0NzZk`
+Snapshot ID: `MCw2MTJhNjllNmNiNDc4ZjQ1ZGMyNjg5MTNiMDdmMTcwNDAxMjRlMWYx`

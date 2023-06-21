@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:JOO SEOL OK\(주설옥\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,825 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,883 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [파란 봄](https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Dunia \- Into A New World, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX) | 4:11 |
 | 100 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 
-Snapshot ID: `MCw1OWM0MmRlMjcwMDE0ODc0ZmRlNGZhOGZjZjE2MzBjOWUxZDc0ZjJj`
+Snapshot ID: `MCw1MDRmMjc0NDYxOTUxYWQ2NjQ4NzY5MzQwNTIzOTJiZjRlOTU2Zjg4`

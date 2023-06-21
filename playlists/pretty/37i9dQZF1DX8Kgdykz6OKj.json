@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1132581,
+  "num_followers": 1132891,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzU2NmIxYjQ4ODliMzUwZjIwZmZjMjAxZTJhNTZhZjQyZmI0YmZi",
+  "snapshot_id": "MCxjYjM3YTljNzZiMzlhNWJjNGE4YTY4MTgzMzQ1NDM5NzM4NTUzYzQ1",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
       },
@@ -1847,6 +1827,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1863,22 +1859,6 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -2031,6 +2011,34 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Dispo II Dispo",
+        "url": "https://open.spotify.com/album/0hqzuv2DZlCur5iLv8IkHz"
+      },
+      "artists": [
+        {
+          "name": "Flatpocket",
+          "url": "https://open.spotify.com/artist/1C3kvlK0zb8LkXCu5KQSAn"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Lazy Jones",
+          "url": "https://open.spotify.com/artist/28rEEGnYrfwBxrVVUsolgX"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "duration_ms": 92053,
+      "name": "One from the Tap",
+      "url": "https://open.spotify.com/track/7yKwYibH6UtJfM1Cz1zOuI"
     }
   ],
   "unique_name": "Jazz Rap",

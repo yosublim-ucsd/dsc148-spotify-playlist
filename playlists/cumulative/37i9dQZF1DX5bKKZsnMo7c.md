@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-252 songs - 13 hr 45 min
+253 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bust Your Kneecaps](https://open.spotify.com/track/5QjoIwD2oUBUUlrHpZa1nZ) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Pomplamoose Live](https://open.spotify.com/album/3dA0Ge9uyMIyGrUV2qQg50) | 3:16 | 2022-05-17 |  |
 | [Butch 4 Butch](https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/66kse7y7d7ycufUwpUr184) | 2:58 | 2022-06-07 | 2023-06-03 |
 | [Butch 4 Butch](https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC) | 2:58 | 2022-05-17 | 2022-07-29 |
-| [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2022-05-17 |  |
+| [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2022-05-17 | 2023-06-21 |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-05-17 | 2022-07-25 |
 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 | 2022-05-17 | 2022-11-26 |
 | [Can I Have a Ride Home? I'm at a Party and I Don't Know Any1](https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Nightmare on Weed Street](https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG) | 1:51 | 2022-05-17 | 2022-06-25 |
@@ -111,13 +111,14 @@
 | [gravity](https://open.spotify.com/track/2hFqVkrBelXGVLaaTKHrjY) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [gravity](https://open.spotify.com/album/6xjOlvvlcBxUGiCWWGNeBv) | 3:52 | 2022-08-05 | 2022-12-10 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-25 |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 | 2022-08-09 |
-| [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 |  |
+| [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-02-25 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-31 | 2022-11-30 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-06 | 2023-01-21 |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
-| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 |  |
+| [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
+| [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-15 |  |
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 |  |
 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 | 2023-01-06 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |
@@ -222,7 +223,7 @@
 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 | 2022-05-17 | 2022-12-10 |
 | [Soft Boy](https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Soft Boy](https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4) | 2:17 | 2022-10-06 |  |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-02 | 2023-02-17 |
-| [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 |  |
+| [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 | 2023-06-21 |
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 | 2022-07-16 |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2022-05-17 | 2022-12-10 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-17 |  |

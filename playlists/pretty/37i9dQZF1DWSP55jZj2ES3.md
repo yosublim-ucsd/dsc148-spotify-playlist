@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie dance and alternative hip\-hop for a mellow time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,574 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,711 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 100 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 |
 
-Snapshot ID: `MCwzNTliYWU2ZjExZDBjMGUyNWFiZDlmN2NiZjI5NzA3Mjk4N2NlNTBh`
+Snapshot ID: `MCwzN2NkYzhlZjI2MzBhZDUwZGZmOGYyMDYyMDk2YjliMzBkNDg3MTgx`

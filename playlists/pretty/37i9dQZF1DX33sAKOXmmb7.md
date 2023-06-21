@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,762 likes - 120 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,826 likes - 120 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 119 | [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 |
 | 120 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
 
-Snapshot ID: `MCxhMDM5MmQ3MmVhM2YwMDkzZTQ5NmI3ZDMwNGVjMDU5YmEyMTdiYTA3`
+Snapshot ID: `MCxiNmY2ZDQ5YmM5Y2Y3YTVlZmE2ODc3MzdmYjQ1YWI3YmQzNzZiNmRl`

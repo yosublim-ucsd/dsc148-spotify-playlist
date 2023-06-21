@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,800 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,003 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 80 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 
-Snapshot ID: `MCw3MjA2NjNiZDQ0MTk4MjU4YTkwODkwMzExY2I0NjMxYjFkOTgzNTMy`
+Snapshot ID: `MCw5ZGE4MTQwYmQxZmM2ZjY5NDAxMjQxOGU0ZWYxN2U2MDY2ZmRiZjIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DROELOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,479 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,559 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [lovely2\*](https://open.spotify.com/track/123954RVtblgBxIcwOLwSM) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [LOVELY2\*](https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug) | 2:35 |
 | 125 | [David Blaine](https://open.spotify.com/track/1JxBGu7qTwjGdog2CQhY7d) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [David Blaine](https://open.spotify.com/album/0v2LdD40ZuNY63LEmRsbrV) | 3:17 |
 
-Snapshot ID: `MCxmNjE4MjdmNjQxZmMzNGIzMTkzN2JmODE2NzdlN2EwMGU1OWU2YmY5`
+Snapshot ID: `MCw3OWU0Mjc2ZDUxZjIzMzNjMjM5YzAyM2Q1MjJmOWI3ZmJkYTI1OTIz`

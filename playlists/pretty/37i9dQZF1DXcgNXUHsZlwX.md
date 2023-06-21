@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,718 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,760 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 |
 | 100 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 |
 
-Snapshot ID: `MCw1NGU0OTJhZWU0OTIyOWFkMWQ5MzBmYjEzNjU2ODhlMzI4OGU1YTli`
+Snapshot ID: `MCw4NWZkOWJlZDM2ZTZlNjk5NGFiMjY5ZDlhYTRlMzk4Y2ZkZWIzMTU5`

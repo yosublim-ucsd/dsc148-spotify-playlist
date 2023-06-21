@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles, Margem Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,740 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,837 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
 | 80 | [Quem Sou Eu Sem Você?](https://open.spotify.com/track/54Dw2XPvYm2LlWx9n2jqjr) | [Jujubita](https://open.spotify.com/artist/3bo6KIZeJRIscQKaeqroVg) | [Quem Sou Eu Sem Você?](https://open.spotify.com/album/5E8SijDUIc5m9rt6zuTfTF) | 2:40 |
 
-Snapshot ID: `MCwxZWZlOTk2MGE2MDc4MGY5OWZmNDI3YjQ0ZjE2MjNlZTQwZjFkMWU0`
+Snapshot ID: `MCwwMWE1OGFhZWRmOWFkMTc1MjEwNmM3NTZhZmUxOTA1NTYxY2Y1YzFj`

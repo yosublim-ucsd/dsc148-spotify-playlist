@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,105 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,178 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Me Leva](https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h) | [Anttónia](https://open.spotify.com/artist/6ljjgnmjb0ayUyMaXVAwf7), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Me Leva](https://open.spotify.com/album/1LB7ZCjFraDVz6f99To24u) | 2:54 |
 | 80 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 |
 
-Snapshot ID: `MCxjODRlMWM4NTBiNDZjYTNhMGE3ZWM5MzhhNDUwYzY4MTcxYTg0Zjkw`
+Snapshot ID: `MCw5MDkzMTg1NDYyYTQ4MzRiYzgyNDY4Yjk4Y2ZhZDVmODBkMDliZWE4`

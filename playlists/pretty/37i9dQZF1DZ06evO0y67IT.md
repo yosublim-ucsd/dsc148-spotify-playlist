@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,646 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,651 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 |
 | 50 | [Spark](https://open.spotify.com/track/0B1DLVAVc2yM9IXJS2vy7G) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Zero](https://open.spotify.com/album/4P4KShJRERTru62QQ8WnO6) | 3:39 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBjMDkxYmU2YjVjNWJjZGE5MDkyMWU5MTE4NzAyNzFhOA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBlMGU3ZDU1YzE5MDA3ZTBlYThlMmUyYzYwYTY0NzRiZg==`

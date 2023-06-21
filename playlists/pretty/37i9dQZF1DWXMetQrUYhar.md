@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,152 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,184 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 |
 | 125 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 |
 
-Snapshot ID: `MCxhMTJkZjhmMTA5YmIxZjhhYzZlNGJiODk3NDA3Mjc3YjA2Yjc4NTNm`
+Snapshot ID: `MCw4ODc0OTExNDA2MTFlYjdkYTY2M2I0NWZiNTkwNzA3YzMyZGEwYzMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,147 likes - 162 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,399 likes - 162 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 53 | [BROTHER'S KEEPER](https://open.spotify.com/track/0EFqyquwXcNadazZ2zaRmw) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [BROTHER'S KEEPER](https://open.spotify.com/album/6RuwYiHlxcxS8aor7PwuTr) | 2:36 |
 | 54 | [Light Your Light](https://open.spotify.com/track/1nJvndyJtILLvRKC428rAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis](https://open.spotify.com/album/0EuclPLvAGjgMyVG9xkvoE) | 3:24 |
 | 55 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 |
-| 56 | [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 |
+| 56 | [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 |
 | 57 | [Always](https://open.spotify.com/track/0ETSkT4dr5MjSEugPu8yLm) | [LeVelle](https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Promise To Love](https://open.spotify.com/album/6zkaALTuAQrZsq0sK16y4P) | 3:58 |
 | 58 | [10FT](https://open.spotify.com/track/7CNTVxQDAma8lVqAxBLKPI) | [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [10FT](https://open.spotify.com/album/77Rmp58si3hxeVSdPpVcxK) | 2:17 |
 | 59 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 161 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
 | 162 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
 
-Snapshot ID: `MCxiOGRhOTc3NmFkNjcyYWJhZjEwNGY5MjQ0MjA3YzVkMjA0ZWNjNzAz`
+Snapshot ID: `MCxjNGMyM2I2MWMyMGZhNGE0MmRhMTcyZjQ5MWZmYjdhMTEzYTRkZTc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,079 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,109 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 85 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 |
 | 86 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
 | 87 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 |
-| 88 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
+| 88 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tamara Fontijn](https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
 | 89 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
 | 90 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 | 91 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Long Way Home \- From The Motion Picture “Father Stu”](https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Long Way Home \(From The Motion Picture “Father Stu”\)](https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi) | 3:26 |
 | 100 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 |
 
-Snapshot ID: `MCxlOWY4YTNkNjczMjQwMDQ0MmQ0YjQ3ZjM4ZDFhZDYwMDhiODhhYTQ4`
+Snapshot ID: `MCwyOGZjYjczZTM0MDJiOWM0Y2NlMzJkOTZlNDAyYWY0YzRkZDE2ZGJh`

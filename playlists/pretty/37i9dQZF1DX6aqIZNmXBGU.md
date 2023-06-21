@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Demon From Hell](https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 1:29 |
 | 60 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 
-Snapshot ID: `MCxjZDQyYjFjMTQ4MDFjNjYwYTkwNjA1YWY3YTUyMzA1ZTdlYWFhYmY1`
+Snapshot ID: `MCw2ODQxMjRhN2RkNDdjZmI3YzNiNzM4YzgwOGUzNzc0ZDYyMDQ2Yzgw`

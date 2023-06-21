@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "(still) WON'T4GETU",
+        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374116,
+      "name": "(still) WON'T4GETU",
+      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "album": {
         "name": "Snatch! OFF 071",
         "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
       },
@@ -136,7 +162,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 274285,
       "name": "Back To The Old School",
       "url": "https://open.spotify.com/track/0mhhe7r3JF7T2SmfqHQPAZ"
@@ -209,6 +235,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391384,
+      "name": "Bigger Than Prince - Classmatic 2k23 Remix",
+      "url": "https://open.spotify.com/track/6ESrIpipgBBSQ0KyOL4Mrc"
+    },
+    {
+      "album": {
         "name": "The Chapters of Green Velvet",
         "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
       },
@@ -224,6 +272,46 @@
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bigger Than Prince - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
+    },
+    {
+      "album": {
+        "name": "Bodytude EP",
+        "url": "https://open.spotify.com/album/6srvZir6UuxLaHyv6FjdaP"
+      },
+      "artists": [
+        {
+          "name": "Nasser Baker",
+          "url": "https://open.spotify.com/artist/6hKT9qsYMOZTJHqxVkXagx"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208583,
+      "name": "Bodytude",
+      "url": "https://open.spotify.com/track/5NiIVd7FbKuEQz0vZgO7nz"
     },
     {
       "album": {
@@ -293,6 +381,42 @@
     },
     {
       "album": {
+        "name": "Chevere EP",
+        "url": "https://open.spotify.com/album/4IlDQWdejihTdkEUeXcL9F"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390227,
+      "name": "Chevere",
+      "url": "https://open.spotify.com/track/3hjYp8ZFlMGvcpof8rYwqs"
+    },
+    {
+      "album": {
+        "name": "Come Inside",
+        "url": "https://open.spotify.com/album/4oYkkUDqunEDxc568njPFy"
+      },
+      "artists": [
+        {
+          "name": "Somersault",
+          "url": "https://open.spotify.com/artist/3HuqCfwe0sSgpinXEhZGrS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363303,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/2a4iPuWMHpHAmkJr79ALui"
+    },
+    {
+      "album": {
         "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
       },
@@ -319,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Criseide",
+        "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383562,
+      "name": "Criseide",
+      "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
+    },
+    {
+      "album": {
         "name": "Dance Or Die",
         "url": "https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR"
       },
@@ -334,7 +480,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 376794,
       "name": "Dance Or Die",
       "url": "https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE"
@@ -436,7 +582,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 185806,
       "name": "Eggs Over My Hammy",
       "url": "https://open.spotify.com/track/3Ab12ofJ6E4VTMNAddQ1rL"
@@ -622,7 +768,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 291428,
       "name": "Got That",
       "url": "https://open.spotify.com/track/3aE9BUxoqzgE46rIuALUll"
@@ -640,7 +786,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 350769,
       "name": "Hip Slide",
       "url": "https://open.spotify.com/track/3oVOSw202HcZpthNBHeaVX"
@@ -720,7 +866,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 422495,
       "name": "I Don't Know - Oscar L Remix",
       "url": "https://open.spotify.com/track/5VsP5bT40qa0o5gyEazaYV"
@@ -847,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Blazing Kiss EP",
+        "url": "https://open.spotify.com/album/0RxG3wv7Vgq6Eo5M6ZHMfD"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476065,
+      "name": "KissShower",
+      "url": "https://open.spotify.com/track/5Rif3fzd4QRwZzFVppnyyt"
+    },
+    {
+      "album": {
         "name": "Paradise Garage: Inspirations",
         "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
       },
@@ -876,7 +1040,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 424918,
       "name": "L Gang",
       "url": "https://open.spotify.com/track/375VFI7dmwezY3OHLBcDb6"
@@ -1134,7 +1298,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 390000,
       "name": "Mamita",
       "url": "https://open.spotify.com/track/5a2bRvsHVTp2wWhKCyQvyE"
@@ -1156,6 +1320,32 @@
       "duration_ms": 616000,
       "name": "Memories - Original Mix",
       "url": "https://open.spotify.com/track/16W1pX4XrDrJzeyVYV8Qe8"
+    },
+    {
+      "album": {
+        "name": "Mend (Tim Green Remix)",
+        "url": "https://open.spotify.com/album/288XUOYLg6bwAepmPq9Oju"
+      },
+      "artists": [
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
+        {
+          "name": "Kind Heaven Orchestra",
+          "url": "https://open.spotify.com/artist/6dkiSKpthy17kV9ULDrULp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548633,
+      "name": "Mend - Tim Green Remix",
+      "url": "https://open.spotify.com/track/0uIMPt0HyX14me3wdavzs0"
     },
     {
       "album": {
@@ -1200,6 +1390,24 @@
       "duration_ms": 440106,
       "name": "Mode - Richy Ahmed Remix",
       "url": "https://open.spotify.com/track/7LNBV0CoqYKjZUTbyGJH6v"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4DgX5zqJxkSMILsMh6VmwQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Mystro Love",
+          "url": "https://open.spotify.com/artist/2cBLpuw6FM3O0VPnQZnLoX"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6YaWfNNxMK9NhgZd7juBlb"
     },
     {
       "album": {
@@ -1312,10 +1520,36 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 406752,
       "name": "Penguin Hit Squad",
       "url": "https://open.spotify.com/track/0BInMeLs6MQ1qlMdyWLzkb"
+    },
+    {
+      "album": {
+        "name": "Penguin Hit Squad (Claude VonStroke Remix)",
+        "url": "https://open.spotify.com/album/3ejzxC21LTjfX8Gu1WvUzD"
+      },
+      "artists": [
+        {
+          "name": "Mike Kerrigan",
+          "url": "https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE"
+        },
+        {
+          "name": "n808",
+          "url": "https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf"
+        },
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354285,
+      "name": "Penguin Hit Squad - Claude VonStroke Remix",
+      "url": "https://open.spotify.com/track/6OfgBGFF8L8SRfUjP1CIG7"
     },
     {
       "album": {
@@ -1330,7 +1564,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 360000,
       "name": "Planet W",
       "url": "https://open.spotify.com/track/3ROTsehvKzF2jwm0qYfTYW"
@@ -1396,6 +1630,24 @@
       "duration_ms": 199680,
       "name": "Rendez-Vu - Marco Lys Remix - Edit",
       "url": "https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI"
+    },
+    {
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/59CuamVrMPFI7xPYYnw6UQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Repeater",
+      "url": "https://open.spotify.com/track/67BEklbFc8XS1xxQrU7RAO"
     },
     {
       "album": {
@@ -1486,7 +1738,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 338007,
       "name": "Shake It Shake It - Nb's Flatline Mix",
       "url": "https://open.spotify.com/track/1G9AW7LKj1JhX4JVMRZeWN"
@@ -1508,6 +1760,28 @@
       "duration_ms": 238275,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m"
+    },
+    {
+      "album": {
+        "name": "Simulator",
+        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220375,
+      "name": "Simulator",
+      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
       "album": {
@@ -1618,10 +1892,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 399146,
       "name": "Talking Walls - Dub",
       "url": "https://open.spotify.com/track/0CEui1Dh1RtgE3kVHEvS4J"
+    },
+    {
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/1WmOoKIUql5xpIltTDYs2S"
+      },
+      "artists": [
+        {
+          "name": "Plastic Robots",
+          "url": "https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/32yVZFsBw4pR4YTsEC57Lu"
     },
     {
       "album": {
@@ -1724,6 +2016,32 @@
       "duration_ms": 338603,
       "name": "The Horn Song - Cajmere Remake",
       "url": "https://open.spotify.com/track/0RPXHiLI9JBLOcUOeocvqZ"
+    },
+    {
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
       "album": {
@@ -1902,7 +2220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 191820,
       "name": "We Give Thee Honor",
       "url": "https://open.spotify.com/track/0ZNail0sBLDyANc8rboHhs"

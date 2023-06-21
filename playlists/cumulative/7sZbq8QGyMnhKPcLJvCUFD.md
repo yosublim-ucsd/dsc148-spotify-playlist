@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-295 songs - 14 hr 49 min
+296 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [To The Top](https://open.spotify.com/track/7jAzWNVwhqJLm7Y13t0mnp) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [To The Top](https://open.spotify.com/album/4Nrg9Rk5iLeiLnRgNVtkiX) | 2:40 | 2022-04-28 | 2023-04-28 |
 | [To The Top \- JJL Remix](https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [To The Top \(JJL Remix\)](https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p) | 3:02 | 2022-08-19 | 2023-04-28 |
 | [Tonight](https://open.spotify.com/track/5HButdKodhRVg82OnkeI3I) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Tonight](https://open.spotify.com/album/11spxNqtn2Nz7Y3tJUPIyN) | 2:32 | 2022-09-06 | 2023-04-28 |
+| [Too Far](https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Too Far](https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc) | 2:23 | 2023-06-20 |  |
 | [Too Hot To Handle](https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Too Hot To Handle](https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l) | 2:15 | 2022-07-28 | 2023-04-28 |
 | [Trust Me](https://open.spotify.com/track/7psbubFtP18fobEg1wYYTu) | [Blackryst](https://open.spotify.com/artist/4QxhZGr3RazauGRW2f2Y5N) | [Trust Me](https://open.spotify.com/album/66U7wvqr4YpV2CYWRuGwRM) | 2:36 | 2023-02-24 |  |
 | [Try Again](https://open.spotify.com/track/4flLtCXV7u5UrKU82Ts20T) | [Goodknight.](https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM) | [Try Again](https://open.spotify.com/album/4TROC7IgMT7vPvcD3R1isC) | 2:30 | 2023-01-18 | 2023-04-28 |

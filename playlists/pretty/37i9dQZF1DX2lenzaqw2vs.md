@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Zemmoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,597 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,608 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 69 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
 | 70 | [Encontrándome](https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr), [Gamay](https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa) | [Encontrándome](https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq) | 2:55 |
 
-Snapshot ID: `MCw4ZWI0NGUzMTg5M2M0ZmVhMDQ2YWI2NTFhNDFlMWRlZjRlZTU3ZDJi`
+Snapshot ID: `MCw5ZDcyMWU0MjE5M2FjOThhNDk1MzE0NjdjODQ3ZmUwYzE4ZjE1NDU4`

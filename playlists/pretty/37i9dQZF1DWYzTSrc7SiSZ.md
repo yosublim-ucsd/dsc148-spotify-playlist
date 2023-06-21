@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,666 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,752 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Electricidad \(2:21am\)](https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 3:57 |
 | 100 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
 
-Snapshot ID: `MCw0MTBlNDI2MGQ4M2RmYTZlZjNkODhjNGMxY2M1ZTVkMTVhYmY2NjUz`
+Snapshot ID: `MCw3YmU4YzQ4MDJkMGM2OWM0ODY0NzIzOTU3MjZiNzhhODk5ZTc2OTUx`

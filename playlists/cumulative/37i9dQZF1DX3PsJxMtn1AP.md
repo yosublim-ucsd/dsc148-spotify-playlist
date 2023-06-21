@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-157 songs - 10 hr 19 min
+158 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Judgment Bolt](https://open.spotify.com/track/2CqvXeAza1v6jxhauVxT2k) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [Darklife](https://open.spotify.com/album/4FLvXR2NkxZDNCLgVJQ1Q8) | 4:32 | 2023-01-05 | 2023-03-23 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-24 |  |
 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:42 | 2023-02-28 | 2023-04-09 |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-20 |  |
 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 | 2023-03-31 |  |
 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 | 2023-03-22 | 2023-05-27 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/2JGvSzxJASZkdGxOVPQ0sP) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:01 | 2023-01-13 | 2023-03-30 |
@@ -135,7 +136,7 @@
 | [Slugs of Love](https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v) | 4:07 | 2023-04-14 | 2023-05-24 |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-14 |  |
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-01-06 | 2023-03-25 |
-| [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 | 2023-04-11 |  |
+| [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 | 2023-04-11 | 2023-06-21 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-20 | 2023-04-01 |
 | [Strong Emotions](https://open.spotify.com/track/5vESv7xXAIhEL9UA1N6uav) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Strong Emotions](https://open.spotify.com/album/4VuK9WBr3m6VgYorAK69iE) | 3:47 | 2023-03-16 | 2023-04-09 |
 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 | 2023-01-07 | 2023-03-25 |

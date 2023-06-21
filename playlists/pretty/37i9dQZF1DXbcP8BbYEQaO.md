@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,400 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,464 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 74 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
 | 75 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 
-Snapshot ID: `MCxkOTEzNjgyMjg4ZDdiN2Y5ZjFhZDk0ZDE0NjQwOGQxNWQ3MTkzMjRj`
+Snapshot ID: `MCw1ODAwODUwNjEyN2IwNTYwYWJhMzA5ZDhkNjk2ZjFiZjQzMjAyOWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,205 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,214 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
 | 52 | [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 |
 
-Snapshot ID: `MCxkNmE5YjM5MDA2ZjBiZDQyZjI5YWU1ODUzMmNjYWNiM2M5MmNkYTlj`
+Snapshot ID: `MCw4OThkODJjNDlhMzAxZTE4NDY1ZWNkZWIwYzJiZmUwNTE4ODA4ZWQ5`

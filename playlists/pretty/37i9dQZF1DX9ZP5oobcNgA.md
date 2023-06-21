@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,912 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,937 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Gideon, Pt\. 3: Air\. Let the Trumpet's Sound Inviting](https://open.spotify.com/track/6mEr3K1z35IBp0U80Mr9Yg) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [David Cordier](https://open.spotify.com/artist/7c3xuGGE9BOGOaefba2Jqt), [Barbara Hannigan](https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq), [Stephan MacLeod](https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY), [Linda Perillo](https://open.spotify.com/artist/38WMUWJLSoiJvA8geyx1GS), [Knut Schoch](https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA), [Nicola Wemyss](https://open.spotify.com/artist/5I2BCNklyqXTXRFu8ImG0I), [Junge Kantorei](https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO), [Barockorchester Frankfurt](https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC), [Joachim Carlos Martini](https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp) | [Handel: Gideon \(Compiled and Arr\. by J\. C\. Smith\)](https://open.spotify.com/album/4wJY8J6zZCwbkz2m6h63MQ) | 4:21 |
 | 61 | [Keyboard Suite No\. 3 \(Set I\) in D Minor, HWV 428: VI\. Presto](https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23) | 4:07 |
 
-Snapshot ID: `MCw5MzJiMmZlN2Q3MzBhOTMxOTM0ZWRjMDVhMWUwNjhmNDU4MGFjMjQ3`
+Snapshot ID: `MCw0MDY4NGM4OTE0MmJlNTgzMzJhMzFmNTdhMWNiN2ZjMzQ3ZmU2MDJk`

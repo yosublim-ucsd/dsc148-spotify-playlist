@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,452 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,566 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH) | 2:53 |
 | 100 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 
-Snapshot ID: `MCwxZmJjOTdhZDA5NjgzMjViMDI2NjViOGRkMmIxMGY5OTU1ZTk2Y2Ez`
+Snapshot ID: `MCwxNDA5ZmQ0NTQ2OWM1OWEyZTIyNDAyNTJiNzE0YmYyMjZkNmEyZmRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,249 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,363 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9) | 2:42 |
 | 50 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
 
-Snapshot ID: `MCxiZjM3ZDljODNiZTg0Y2NiMDIyMjU0NWM4YWU5ZjQyZDU1MmQ1YTNk`
+Snapshot ID: `MCw2OGJmOTg0NTY4MDRiMjczMGM4ZjY2ZjAzNmZhMWU3MzBkZTFkMTcx`

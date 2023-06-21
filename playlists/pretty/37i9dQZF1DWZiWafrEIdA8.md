@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,403 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,406 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 | 50 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
 
-Snapshot ID: `MCwxM2NiODRkMDc3ZDAzZTU0ODcwNGY1MGIzNTEzNDY4OGFlMjYyMWM5`
+Snapshot ID: `MCxiNjUzN2M4YjJkYTI1MTliOTIyM2U1N2Y5OTM5YWNjNTgzMWMzNWU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Jessie Murph and Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,494 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,931 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 |
 | 100 | [Bets On Us](https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bets On Us](https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5) | 3:00 |
 
-Snapshot ID: `MCw1NjRjZTQwYmRmOTQ1ZGM5NTYzYWVjZTM5MmY5ZTVkMjVhYWRjOWFi`
+Snapshot ID: `MCw1OWU3ZmI0ZTAyNGYxY2JkNWM0N2MzYjhlOTQ3NTg2YWRkYzFmYzc2`

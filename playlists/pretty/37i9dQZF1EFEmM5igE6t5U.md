@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 18 | [Looking for Paradise \(feat\. Alicia Keys\)](https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 4:30 |
 | 19 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 |
 | 20 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
-| 21 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
-| 22 | [Like You'll Never See Me Again](https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 5:15 |
+| 21 | [Like You'll Never See Me Again](https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 5:15 |
+| 22 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
 | 23 | [A Woman's Worth](https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:03 |
 | 24 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
 | 25 | [Brand New Me](https://open.spotify.com/track/0827eActpDYORuhgvWB0oY) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:53 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 102 | [Why Do I Feel so Sad](https://open.spotify.com/track/1sfU9JyyzGBiByxyv6g8ef) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:25 |
 | 103 | [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 |
 | 104 | [Authors Of Forever](https://open.spotify.com/track/13BHxtf5YIEODKlf8wRyXp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:37 |
-| 105 | [Harlem's Nocturne](https://open.spotify.com/track/1B6dE1LulqFg6OjHIVBv3r) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 1:43 |
-| 106 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
+| 105 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
+| 106 | [Harlem's Nocturne](https://open.spotify.com/track/1B6dE1LulqFg6OjHIVBv3r) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 1:43 |
 | 107 | [101](https://open.spotify.com/track/7wMPExYjxfDzu4SWDUt7dQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 6:27 |
 | 108 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 |
 | 109 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgxMjA0MzAsMDAwMDAwMDAwYTE1NzNmODMxOGQ5MWM3MmNlNDE1YTNhZTgwNjZkNQ==`
+Snapshot ID: `MjgxMjE4NzAsMDAwMDAwMDA2ZTFkNzU2NjVkOTYwZTMyN2IzOTdjOTY1MDJlZmUzMg==`

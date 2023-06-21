@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,900 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,030 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 99 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 |
 | 100 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 |
 
-Snapshot ID: `MCw2ZDY2YjQ5NmZjNjYzNDE5YzJkNDZhY2ZjM2MwMjUxYTExM2NjNDY2`
+Snapshot ID: `MCw0ZTVmN2I2Y2QyYWZlOTU5ODU2ZDMwZTZiNGY3ZjVlYjZkMjU5MzVm`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-430 songs - 1 day 0 hr 27 min
+431 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2021-12-27 | 2022-04-09 |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2021-07-29 | 2022-05-08 |
 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 | 2022-02-03 | 2022-02-16 |
-| [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-16 |  |
+| [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-16 | 2023-06-21 |
 | [Cumbia](https://open.spotify.com/track/4wR4cWUWnGUaAE0U4taZJv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Cumbia](https://open.spotify.com/album/2JKIif1ahgh5O8WmmqZm26) | 3:57 | 2023-06-17 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-02-22 |  |
 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 | 2022-11-12 | 2023-02-05 |
@@ -124,6 +124,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-23 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 | 2023-05-14 |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-05-22 |
+| [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-20 |  |
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2021-03-29 | 2021-11-21 |
 | [El Último Romántico](https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Último Romántico](https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT) | 4:11 | 2022-11-14 | 2023-05-14 |
 | [Ela me Falou Que Quer Rave](https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [DJ Nikolas Alves Exclusive](https://open.spotify.com/artist/23buF7CmOZll8oQveAvsut), [DJ Kaioken](https://open.spotify.com/artist/1aQbanZ6xPrOtTYtsMdm3Q), [DJ Gege](https://open.spotify.com/artist/2BvV4u6AUwFCrAriUIo9Sm) | [Ela me Falou Que Quer Rave](https://open.spotify.com/album/7oquoqetiWHdL6JIp7LrEw) | 3:55 | 2021-11-16 | 2022-03-13 |

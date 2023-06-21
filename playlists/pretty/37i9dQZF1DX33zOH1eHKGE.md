@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,023 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,033 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 99 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 | 100 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 
-Snapshot ID: `MCw5ZmVjYTQ3NzgyMDhlODY0YTQ5MTc1YmZiNjUyYzQxZDVjN2QyYWYz`
+Snapshot ID: `MCwyYmM2ZDRjNTRmZDQwNjE2ZWQ2ZjRhNzhmZGFmNzE2ZGJlMGIyNDIz`

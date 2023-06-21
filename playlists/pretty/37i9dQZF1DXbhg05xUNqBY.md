@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,089 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,290 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 70 | [Precious](https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 6:07 |
 
-Snapshot ID: `MCwxMjFjZDQ2MWYzMzk4ZDJjNmMxMmVlNzVkODQwZWY3NGE1MWI4YWE0`
+Snapshot ID: `MCw3M2UyNjUwOTQ2ZTEyMDNmOWQ2NDUxM2I0NDEwY2QxOTNlZDk1ZDc0`

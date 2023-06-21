@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Gondwana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,881 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,968 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
 | 100 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 |
 
-Snapshot ID: `MCw1ZGRjMDVlMDM2Njc4MWE0N2FiZDU2Y2RmN2Q3NDBmNWY3NGZiNGY3`
+Snapshot ID: `MCwyMTc5YjdiYWMzNjNmMjc3OTY2ZmZkM2FjM2M1YTQwNzVlOTMxMjdh`

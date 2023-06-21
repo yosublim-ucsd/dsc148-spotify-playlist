@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,152 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,205 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 79 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
 | 80 | [Magdalena](https://open.spotify.com/track/5TSZARtbGtoYOHLFDqeYLG) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/2K8wTPG1Ca0CadebWMf2Jo) | 4:15 |
 
-Snapshot ID: `MCxjY2E2MDkxM2FmYTgzM2YzZGIxOWE3Zjg4ZDdlOTFjMzVhYzVhZmJl`
+Snapshot ID: `MCxhMmQ0ZTQyZjNiZmY0ZGUyMTg1MDhkMDY3YTIzOTQ5NDNjMWY5YjAy`

@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Mansoob",
+        "url": "https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Mansoob",
+      "url": "https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb"
+    },
+    {
+      "album": {
         "name": "Cookie",
         "url": "https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP"
       },

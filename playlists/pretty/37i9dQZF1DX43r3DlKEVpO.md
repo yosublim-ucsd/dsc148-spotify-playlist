@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,237 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,240 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Era Uma Vez \- Ao Vivo](https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 1:28 |
 | 100 | [Odara \- Remix](https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Bicho](https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV) | 7:16 |
 
-Snapshot ID: `MCxiZjdmYzlhMTU2NjE4MTM5ODcwMjA0MTkzMTRkMWVlZDk4Njc2YTFh`
+Snapshot ID: `MCw2Y2EzY2I2NTI4MGE1ODY2NGY2M2Y4ZDA2OWQwMTYzNjI2NTE0MjRm`

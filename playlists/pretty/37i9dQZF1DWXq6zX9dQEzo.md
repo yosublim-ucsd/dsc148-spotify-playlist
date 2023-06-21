@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,760 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,027 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Out With a Bang](https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Out With a Bang](https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm) | 2:15 |
 | 150 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 |
 
-Snapshot ID: `MCwxOWJhYTUxMDZmNmUyMTJhZmUyNTgwYTVlODE1NmU1OTlkYWQzMmM1`
+Snapshot ID: `MCwwZTU3NDk1NGNhOWFhYTk0ZWM2MzM0YTYwNzc5YWEzMjkxNTQyZTAx`

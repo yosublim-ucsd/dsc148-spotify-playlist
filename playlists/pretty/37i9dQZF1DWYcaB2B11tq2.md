@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,567 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,659 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
 | 75 | [No Te Olvides](https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Inlight](https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc) | [No Te Olvides](https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue) | 4:09 |
 
-Snapshot ID: `MCw1Y2M1NzgwMjc2NzYyNzdmOWVkNDQxOWQ3YjE5ZDU4MGMxOTM3ZWQ1`
+Snapshot ID: `MCwzY2U4NmM5YTQ3NzY2ODE0ODk2NmYyMGM0MDBkMTQxN2VhNWM1NmJk`

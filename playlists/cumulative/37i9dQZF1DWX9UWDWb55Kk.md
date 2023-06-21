@@ -4,13 +4,13 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-365 songs - 23 hr 16 min
+366 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Happens\) Sometimes](https://open.spotify.com/track/4cWafPsRizm6woL5j4HNTD) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [\(It Happens\) Sometimes](https://open.spotify.com/album/23NV5QnY8URqUo0CxX5bfK) | 3:22 | 2021-09-01 |  |
 | [0594 Help](https://open.spotify.com/track/0PAzo1j8xHJTGGLulS9Tus) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [0594 Help](https://open.spotify.com/album/7grAKSZRAEyc9P7N0osrl8) | 3:46 | 2022-11-24 |  |
-| [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [Love Revolution](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 | 2021-09-01 |  |
+| [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 | 2021-09-01 |  |
 | [05:00AM JUNGLE CHASE](https://open.spotify.com/track/2YG8An3j5Nj4jFaiU2Po7T) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/3Tq2KqnwNUJtlbEz26bcx5) | 3:35 | 2021-09-01 | 2023-05-03 |
 | [1982](https://open.spotify.com/track/7KwWxaYacPDQpbGoMGLE4L) | [Vimala](https://open.spotify.com/artist/6Jx5WE8A0eq0ByRqipIliK) | [1982 / Cost](https://open.spotify.com/album/4FjfRAg1jBGSoqe5AdXd40) | 4:00 | 2022-11-24 |  |
 | [1987](https://open.spotify.com/track/3MVNjBeejT21nOXQuLkkYN) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [2AM](https://open.spotify.com/album/1BV9NiFeRP50Dmt6JBqsWz) | 8:27 | 2022-11-29 |  |
@@ -117,7 +117,8 @@
 | [Emoji](https://open.spotify.com/track/4dzSYGqu0Yx4vjGAt7XWQG) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Emoji](https://open.spotify.com/album/1ZQ8y3JuZIKgAcEqkca5ZO) | 3:21 | 2022-04-08 |  |
 | [En Busca de Ti](https://open.spotify.com/track/0BuZzrJQuVjvJqkaOBOYrL) | [Zazo & Gxurmet](https://open.spotify.com/artist/2Nqj0SeShPGwB7O88EOvTM), [JUANIH SOUTH](https://open.spotify.com/artist/4P9bSsLwn31NnduS5HyGKd) | [Daruma](https://open.spotify.com/album/2av5SECIzmVl6OfLvu1q1m) | 3:42 | 2021-09-01 |  |
 | [En el Aire](https://open.spotify.com/track/1VlzZItaahN8ESgTXglCTH) | [Cintia Lund](https://open.spotify.com/artist/11YXmkNb9SN2uaL1pSl4v8), [Digital 21](https://open.spotify.com/artist/4S60Ij7SOsHlb5CjypbD4k) | [En el Aire](https://open.spotify.com/album/4whePJR97KuDcDcQTrEi2E) | 2:51 | 2022-04-08 |  |
-| [En El Aire](https://open.spotify.com/track/0R3oEc5KL9XaTxMoCh43Rj) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [En El Aire](https://open.spotify.com/album/7F1pGls6j13r2Z4vi3awZB) | 2:48 | 2021-09-01 |  |
+| [En El Aire](https://open.spotify.com/track/0R3oEc5KL9XaTxMoCh43Rj) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [En El Aire](https://open.spotify.com/album/7F1pGls6j13r2Z4vi3awZB) | 2:48 | 2021-09-01 | 2023-06-21 |
+| [En El Aire](https://open.spotify.com/track/65wSHx7bVjeqWfRz6gHSVO) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [En El Aire](https://open.spotify.com/album/4J5cklG87bOfyeMtjxWWVo) | 2:48 | 2021-09-01 |  |
 | [En el Aire](https://open.spotify.com/track/6HUKvqvzgh1cr83BqlqrzA) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Amapola](https://open.spotify.com/album/2rRs2vFcgJkKr5nCatnKaR) | 3:06 | 2021-09-01 |  |
 | [Erase](https://open.spotify.com/track/7KlWOmJoyO4436M96CvVwe) | [Kap Bambino](https://open.spotify.com/artist/2EsL7l54h5MZm34uFVsRQi) | [Dust, Fierce, Forever](https://open.spotify.com/album/0RpVFEcebdZqFSCF3KIf0p) | 3:30 | 2022-04-08 |  |
 | [Estrellica](https://open.spotify.com/track/1uFsbYxgTWZZ5QdAEoVRmr) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Estrellica](https://open.spotify.com/album/3uCeRLWnh6N5J8641dUj89) | 3:25 | 2022-11-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,537 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,626 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Cavallini \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Crack Musica](https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B) | 4:11 |
 | 100 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
 
-Snapshot ID: `MCwzYzc1NWUwZTk5Y2QxZjk0ZDQxODk1MzM0NzFlNTg3NmJlNzUxMzky`
+Snapshot ID: `MCxmYTVmOTc5MjljMDFmYTNlYzNjMzc5ODIwYWE3MWViNDRmMTI3MzYz`

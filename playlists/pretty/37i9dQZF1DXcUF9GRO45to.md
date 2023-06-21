@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,794 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,823 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 |
 | 100 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 |
 
-Snapshot ID: `MCw0ZWQ2ZTVjMjJiM2M4MjFkZDYwOTRiZTBjN2E5ODNjYmE1NTU5YzE1`
+Snapshot ID: `MCxmZTc1MmEyNzI3OGFjNTAyMTBjY2QzZmFjNDljYWUxNWM0NjU5ZTA2`

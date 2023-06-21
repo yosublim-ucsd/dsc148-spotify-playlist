@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: SUNGMIN\(성민\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,830 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,843 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 |
 | 100 | [You Have Your Own Scent](https://open.spotify.com/track/3cWedKElHdS1FRqRxotCXG) | [김범룡](https://open.spotify.com/artist/3MZvm7q6VKYUPElvBNeZt5), [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [You Have Your Own Scent](https://open.spotify.com/album/2dR1f7KpW6G8gKgL88pguV) | 3:35 |
 
-Snapshot ID: `MCwzM2RlZWY3ODUzODY5YzFhODMxNTE5NDg0NmNiMzc2ZjBjMTI4ZTY0`
+Snapshot ID: `MCxlZGNhOTFkMTQ4NGNhZTY5YzgwN2U4OTZhNzU1MjA4Y2VkYTgwMzYy`

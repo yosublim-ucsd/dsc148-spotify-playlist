@@ -4,10 +4,11 @@
 
 > The hottest new pop with all the drops\. Cover: Leigh\-Anne
 
-592 songs - 1 day 5 hr 27 min
+593 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-20 |  |
 | [001](https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/1YcrrT5zuAkzJx0ztbwdsV) | 3:06 | 2022-09-30 | 2022-12-24 |
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-09 |  |
 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 | 2023-04-07 |  |
@@ -153,7 +154,7 @@
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-03 | 2023-05-20 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-02 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-11-11 | 2023-04-15 |
-| [Emotional](https://open.spotify.com/track/28OuT154ysQYZq73lOkw1k) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Emotional](https://open.spotify.com/album/06985CKz2b49EwVHFWFfu3) | 3:21 | 2023-04-14 |  |
+| [Emotional](https://open.spotify.com/track/28OuT154ysQYZq73lOkw1k) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Emotional](https://open.spotify.com/album/06985CKz2b49EwVHFWFfu3) | 3:21 | 2023-04-14 | 2023-06-21 |
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 |  |
 | [Energy](https://open.spotify.com/track/4MTdcaWxn8tNq1G27R5QEk) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Energy](https://open.spotify.com/album/3BGHrulAzot1NlU8l8hWPV) | 2:40 | 2023-05-12 | 2023-06-10 |
 | [Enough To Drink](https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Enough To Drink](https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf) | 2:18 | 2023-01-13 | 2023-03-25 |

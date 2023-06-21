@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Usted Señalemelo en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,487 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,525 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ) | 3:52 |
 | 100 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
 
-Snapshot ID: `MCxlZTRmNDEyZTQzZGI0Y2YxMjU4ZTg1MDE4ODgxYjljY2VhMzNmNGQ0`
+Snapshot ID: `MCwwZDgzZDA0ZTU4NmZkMjhmMzVkNzFmM2M2Y2I0ZTU5MTlhMjcxYzJi`

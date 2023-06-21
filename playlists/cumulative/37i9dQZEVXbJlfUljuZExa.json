@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Broken Melodies",
+        "url": "https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Broken Melodies",
+      "url": "https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -3740,7 +3758,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 352186,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
@@ -7014,7 +7032,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -11796,7 +11814,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2"

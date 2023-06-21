@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,476 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,489 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 64 | [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 |
 | 65 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxkMGU3YzI4YTU1M2FkZWEyNTI0MDgxNzE4ODVkY2ExMWJhMmVjMzgw`
+Snapshot ID: `MCxhMmYwYTE4N2EzZWZlYTI5NzM1N2YxOTIzNjBmOTVmMGNlNmQ3YTlh`

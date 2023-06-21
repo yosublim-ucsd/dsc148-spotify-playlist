@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: BRELAND
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,105 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,138 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 99 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 100 | [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 |
 
-Snapshot ID: `MCw2ZDBkNjgyMWY0ZjQ3MDVmOWQ2YzdiZTE1ODgzMDgxM2JkNjkzOTgx`
+Snapshot ID: `MCxlYTcxZTliZDkzMzBlNzJmYTIwMDllYTBmNzFmZTQ4NWNjZmFjYzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,329 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,476 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 | 74 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 |
 | 75 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
 
-Snapshot ID: `MCxmYjU2YWJlNzI4NDdjYzliNGJlNGJiMzMzYzc3NmIwNDUxZDQwMTAw`
+Snapshot ID: `MCw4NjcyZmVkOGJlYzY4MGE4YzMzN2U1MWM3YTZhNWVkYWY2NmQzMTFj`

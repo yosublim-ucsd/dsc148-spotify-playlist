@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,239 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,304 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 60 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 
-Snapshot ID: `MCxhNGYxYjE3ZDQ5YWFiMzZlYmFjNjZkZGJmMDVkMTY1YTI1OWEyNTM5`
+Snapshot ID: `MCxiYWQ4Y2ZhYmJjMzYzMTBhOTQ1NzVlNDEzMTQ2NDBkMGI2ZDk3ODE2`

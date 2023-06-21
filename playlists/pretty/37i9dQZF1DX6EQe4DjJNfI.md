@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,723 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,736 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Me liga](https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Me Liga](https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT) | 2:43 |
 | 75 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 
-Snapshot ID: `MCxjZWRjMjNlMWY2NzM0YjNlMGVjM2I1ZjA5YTg0MmU1MmJjYmM4NGIx`
+Snapshot ID: `MCw5OWYxNjk5ZmY1MDZkMTkzZTgzNjJiODc4YzQ4Yjg0ZjQwNmQ0NzM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,872 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,888 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 |
 | 100 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |
 
-Snapshot ID: `MCw4ODAzMmJiZjA1MGU4ZjQ4ZDQ0NzRjZDVlZGVjMDg3MjhkYzBkY2E1`
+Snapshot ID: `MCwyNTM3YmYwZTRhZGQyN2U2MTQwMjg0MjM0MmJmYjg0NWYzMTAyYzcw`

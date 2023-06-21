@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aquele rodízio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,543 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,712 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 99 | [Lovezinho](https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi) | [Kamargão](https://open.spotify.com/artist/3EY7HU2OQYbmh5FdqUlDQI), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/7guyK8SG84ysWJtA5IT1ec) | 2:15 |
 | 100 | [Nosso Quadro](https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Nosso Quadro](https://open.spotify.com/album/2UcCoH8S3vHlaY27uLsxmc) | 2:53 |
 
-Snapshot ID: `MCw2N2I0ZTU4ODFhN2NlOThjZGIzZjI3MzkyMzY1ZGI4NWViNWZhMTk4`
+Snapshot ID: `MCxiYTU0MTQ1NjNlNDYxYmExYjllOTEwZDBiMjA1ZjY1MmRlNTc0NmY4`

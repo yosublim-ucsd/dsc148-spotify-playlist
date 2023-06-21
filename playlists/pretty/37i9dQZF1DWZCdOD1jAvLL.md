@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,299 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,409 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 |
 | 80 | [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 |
 
-Snapshot ID: `MCwwMThmN2Y2ZjY2MDlhNGQ1ZWQ0NTI0MjVmMzQxMDM3ZWNlMmQ5OTIz`
+Snapshot ID: `MCxiNjU0NDRkZWNhN2M4ZmNjNzNmMmVmOTc1ZGZmZjAzOTBmNDU1NDI0`

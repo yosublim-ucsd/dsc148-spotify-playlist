@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "9MM",
+        "url": "https://open.spotify.com/album/2Vy0cXlJ5FHhVb1S69o4TN"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/3EYVgA1fsZ3ZrcE5vpIzYf"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -786,7 +808,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 160055,
       "name": "AGAPI",
       "url": "https://open.spotify.com/track/72bjMYZpSvvqReSTN0UakQ"
@@ -8872,7 +8894,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 186111,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
@@ -13824,7 +13846,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 155159,
       "name": "Machete",
       "url": "https://open.spotify.com/track/02tWHxp6srYncEZjbDXur4"
@@ -14976,7 +14998,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 189087,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/2FCqyniLVmMNQ5IrUkjd8e"
@@ -15144,7 +15166,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 178369,
       "name": "Mi Milas",
       "url": "https://open.spotify.com/track/40lIiCUnIwQZy6Xe7YQRCk"
@@ -19300,6 +19322,10 @@
         {
           "name": "TOQUEL",
           "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
       "date_added": "2023-06-17",

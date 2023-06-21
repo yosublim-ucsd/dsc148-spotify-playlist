@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 118551,
+  "num_followers": 118589,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgxYTE4Zjg5ZjMxY2EwOGRmMjk3OWU3OGNkNjAzODYzMDM5MGI0",
+  "snapshot_id": "MCw0YmNiNDRhZGEzNjQ1OWZiZGRmZjBhYmUwNTNkYTk3ZjllNDE5MDdj",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -170,6 +170,10 @@
         {
           "name": "ICF Worship",
           "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dominik Laim",
+          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
         }
       ],
       "duration_ms": 150213,

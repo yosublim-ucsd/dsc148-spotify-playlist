@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,821 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,875 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 124 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 |
 | 125 | [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 |
 
-Snapshot ID: `MCwyOWU5Y2YxNGU3NmJlNjdmNTkxYjQ4MTkwY2Q1YzgyMjgwMTgzZjYz`
+Snapshot ID: `MCxkMjRhNDc5MDRlYWU2NThiNWI3NmIwYjUxZTZmOWM2NDRkNWVhODQz`

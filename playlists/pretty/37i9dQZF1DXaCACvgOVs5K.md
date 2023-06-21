@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,417 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,428 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 |
 | 100 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 
-Snapshot ID: `MCw4ZjlhMmQ3ZTcyOGRhNTZhNmI0OTNmYjE4MDdjODgyNmVmY2JlN2Uz`
+Snapshot ID: `MCwyZGNhMzVkYmIwZDJiN2UxZTU4Mzk3NzZlMjIwMTU1NjNmNDVjM2Rl`

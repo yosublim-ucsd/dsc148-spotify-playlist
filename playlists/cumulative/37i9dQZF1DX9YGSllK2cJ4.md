@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-321 songs - 14 hr 25 min
+327 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-08-25 |  |
 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 | 2022-08-01 | 2023-04-05 |
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-08-01 | 2022-11-15 |
+| [Alone](https://open.spotify.com/track/7d8Jy5Xhu4yIYc2dGHPLe0) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Alone](https://open.spotify.com/album/3zJy4dqlo8tLhb5aOE9LUd) | 2:34 | 2023-06-20 |  |
 | [Amelia](https://open.spotify.com/track/0bdJQ3zKl2JfnFRYXGpPgZ) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Amelia](https://open.spotify.com/album/2OTzot2xyJqHg3x07R5YJZ) | 2:13 | 2023-03-14 | 2023-03-23 |
 | [Anda](https://open.spotify.com/track/6OOCHxYAV8SpXTiY6SzThW) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Ros](https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k) | 1:59 | 2023-01-27 |  |
 | [Andante](https://open.spotify.com/track/0fNGCAEPZdUC54hT9lq3vm) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Andante](https://open.spotify.com/album/1dVKEClXUepZ5CSQJRChUd) | 2:55 | 2022-11-14 |  |
@@ -73,6 +74,7 @@
 | [Entering](https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Entering](https://open.spotify.com/album/2EoKBXAOzplEACZ4PXmK4I) | 1:49 | 2022-12-20 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-08-01 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-25 |  |
+| [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 | 2023-06-20 |  |
 | [Eurytmi](https://open.spotify.com/track/2nMjde4kw1yuDyNnu9GJTO) | [Ola Claësson](https://open.spotify.com/artist/3MFfHtQUhTuey7urPpdWqQ) | [Eurytmi](https://open.spotify.com/album/6uLzK7fzvPskfWDDCwLoEj) | 2:39 | 2022-08-01 |  |
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-08-01 |  |
 | [Eventus Memoria](https://open.spotify.com/track/4fGktu4RYSYuF05at1ToLu) | [Adelaide Fleur](https://open.spotify.com/artist/4Na9Ks6Pua1oqm1kv3qGum) | [Eventus Memoria](https://open.spotify.com/album/6RDIJwN77xFkVrkHelxNUW) | 2:07 | 2022-12-05 |  |
@@ -235,6 +237,7 @@
 | [Say Something](https://open.spotify.com/track/7mbVCa3RJ9fPAkssAkrQ2j) | [Lukas O' Kane](https://open.spotify.com/artist/72CucnBc9khzpqxeA6Npkp) | [Say Something](https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA) | 3:47 | 2022-08-01 | 2022-12-06 |
 | [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 | 2023-02-21 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2022-08-01 | 2022-09-13 |
+| [Serenity](https://open.spotify.com/track/0rSwr6MHxlu6A22OMptCO1) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Serenity](https://open.spotify.com/album/2pymoaxhmNVZSlS10YZrvn) | 2:23 | 2023-06-20 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2022-08-01 | 2022-12-06 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-08-01 |  |
 | [Sincero](https://open.spotify.com/track/2Vvwncoakogkxiq9HQCfFn) | [Isidret](https://open.spotify.com/artist/15fWBJeHIPIGbepQRrmISq) | [Sincero](https://open.spotify.com/album/31IAQeGcnIUlhKpk16mSmx) | 2:38 | 2022-08-25 |  |
@@ -267,11 +270,13 @@
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2022-08-01 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2022-08-01 |  |
 | [Sweet Memories](https://open.spotify.com/track/7vv3UtPoCPKD5WO7Y74Ixz) | [Salvatore Altavilla](https://open.spotify.com/artist/1fdryWe2TzsSVCIBB46nCv) | [Sweet Memories](https://open.spotify.com/album/7vjIEiPtRQDjaS5CTWYFBm) | 2:31 | 2022-10-04 | 2023-04-05 |
+| [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 | 2023-06-20 |  |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-01 |  |
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-20 |  |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2022-08-01 | 2022-09-13 |
 | [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 | 2023-01-31 |  |
 | [The Lantern Lighter](https://open.spotify.com/track/1hGglWU022gMZGk38kyDlQ) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [The Lantern Lighter](https://open.spotify.com/album/2qoWjGZxC8e0uuyYrBGxq7) | 2:57 | 2022-10-04 |  |
+| [The letter](https://open.spotify.com/track/2DTroZVuzZfdKJJg9gG7G6) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [The letter](https://open.spotify.com/album/0TiRvvmrH6z4yAMRICchhY) | 2:25 | 2023-06-20 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-08-01 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-20 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-08-01 | 2022-11-15 |
@@ -293,6 +298,7 @@
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-08-01 | 2022-10-25 |
 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 | 2023-01-31 |  |
 | [Tune from the Film by Lana Gogoberidze: When Almonds Blossomed](https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 2:08 | 2022-08-01 | 2023-05-04 |
+| [Two birds](https://open.spotify.com/track/66s4fv5w7UUF3mF78bsxTX) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Two birds](https://open.spotify.com/album/2wE6gH2DFlaP0mEEUZcU4M) | 2:33 | 2023-06-20 |  |
 | [Ubi Est](https://open.spotify.com/track/5pLSlgg03xSKkCYMOfmHty) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Ubi Est](https://open.spotify.com/album/54UmMhNKBxFFL67jLyWrVI) | 2:06 | 2022-08-01 | 2022-11-15 |
 | [Un esprit vide](https://open.spotify.com/track/70hhkbMZsG1d0sEwMPzMfk) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [Un esprit vide](https://open.spotify.com/album/28xxY2jYebRL2x24Qa3jTE) | 3:03 | 2022-12-05 |  |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-08-01 | 2022-09-13 |

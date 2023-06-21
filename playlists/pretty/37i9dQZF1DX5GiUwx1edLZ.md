@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,384 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,396 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
 | 100 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 |
 
-Snapshot ID: `MCwwNTI2ZTdiYjA2ZGUwN2ZjNzY0YjY0MjZlNWM2NThmODM2MmJhYTM5`
+Snapshot ID: `MCw2YTI4MjgxOGIzNTg4NDc1NWM5N2UyNjJlMjkwNmI3YTA4ZGI1M2Qx`

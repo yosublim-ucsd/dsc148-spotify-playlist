@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,149 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,367 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 99 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 100 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
 
-Snapshot ID: `MCw1ZDljNTg2YWRmODViZmMxNDJiODFmNDFmODlhZjg2NjQwNzIxMmI4`
+Snapshot ID: `MCwwODAxNjdkNWZlMzE1MDg1MmQyNDBhNWQ3MDkyNjU2Y2JjZGI4MTcy`

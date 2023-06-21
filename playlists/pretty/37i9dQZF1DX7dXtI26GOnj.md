@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,898 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,105 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 |
 | 75 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
 
-Snapshot ID: `MCw5ZDczZjk5MmQ2OGRlNDgwNDA0YmRlZDA5YmIxZTcwNDY0NGY1ZDY4`
+Snapshot ID: `MCxkMTUwYWU0ZjRkYmRmZDVlYzYyMWM0NWNmNTJkZDgxZjk5YjE3Y2Yw`

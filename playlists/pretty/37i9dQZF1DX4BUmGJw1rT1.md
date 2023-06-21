@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,838 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,922 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 |
 | 100 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 |
 
-Snapshot ID: `MCwxYjc2OWU2MjVlMjk5MTRhM2ZhZTdkMTM0MDIzYTYwNjgwZGZiNDc1`
+Snapshot ID: `MCwwMjdiMmZjMGZjMGUwNjJkN2U1YzFjYTg1NDJhNjQ3YmVjNGRkNThh`

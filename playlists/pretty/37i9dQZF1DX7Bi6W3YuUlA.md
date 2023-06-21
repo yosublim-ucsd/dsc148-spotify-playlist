@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,588 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,668 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 |
 | 100 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 
-Snapshot ID: `MCwyMWQ4YzMxZDE4Zjg4MmE4MjAzNzUzZGQ2MjExMWZiYTc3NGQxZWVj`
+Snapshot ID: `MCwyNDliYjY5Y2VjZTExNzVkMjQzYjRkZWU0NWIxMTBlZjkzMmJjOGI0`

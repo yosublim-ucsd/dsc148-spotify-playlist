@@ -2,17 +2,18 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: HotWax
+> Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-182 songs - 10 hr 29 min
+184 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 | 2023-01-13 |  |
+| [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 | 2023-01-13 | 2023-06-21 |
 | [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 | 2023-01-06 |  |
 | [All Talk](https://open.spotify.com/track/3q7M84onWH32v6oP4oOlP6) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [All Talk](https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo) | 2:55 | 2022-07-29 | 2022-09-10 |
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 | 2022-12-24 |
 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 | 2023-03-02 | 2023-05-19 |
+| [ANUBIS \- Radio Edit](https://open.spotify.com/track/3p5K420THOCUqI51zRsFn9) | [SHADE UK](https://open.spotify.com/artist/42CxhYLSebXZKt2iQckVQE) | [ANUBIS \(Radio Edit\)](https://open.spotify.com/album/4pIyeeREJYe3p54ItQYYqE) | 3:18 | 2023-06-20 |  |
 | [Anxiety](https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ) | [Anxiety](https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy) | 3:55 | 2022-07-29 | 2022-09-10 |
 | [Asking For It](https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/1VqTE3b7QFnITPMhCQJgXX) | 2:19 | 2023-03-24 |  |
 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-09 | 2023-04-30 |
@@ -58,7 +59,7 @@
 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 | 2022-11-18 |  |
 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 | 2022-07-29 | 2023-01-14 |
 | [F.E.A.R](https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [F.E.A.R](https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz) | 2:08 | 2022-12-23 |  |
-| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-09 |  |
+| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-09 | 2023-06-21 |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 | 2022-11-18 |  |
 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 | 2023-03-25 |
@@ -144,6 +145,7 @@
 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 | 2022-07-29 | 2023-01-06 |
 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 | 2022-09-09 | 2023-03-03 |
 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 | 2022-08-19 | 2023-03-03 |
+| [Street Trash](https://open.spotify.com/track/1qP2OWFLbP3CHJo5Se0kXB) | [Eight Sins](https://open.spotify.com/artist/5M7auDu0v1IOATDBxQVfIM) | [Street Trash](https://open.spotify.com/album/0MuYBRehP3E7fu9fDLjMdS) | 3:05 | 2023-06-20 |  |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-09 | 2023-03-25 |
 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-23 |  |
 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 | 2023-01-27 |  |

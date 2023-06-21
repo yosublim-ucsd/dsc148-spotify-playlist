@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: シガー・ロス\(Sigur Rós\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,974 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,972 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 79 | [Sunshine!](https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Sunshine!](https://open.spotify.com/album/1wh6d2qvnS769wK1IEeXE1) | 3:18 |
 | 80 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 |
 
-Snapshot ID: `MCw4YjZmMzE2OTM3N2M4ZjA2N2QzYzhmZGI3YzljNTM5NWRiOTYwMDdj`
+Snapshot ID: `MCw5MjBjY2Q1ZDI2Zjc2MjY5NmRhYjhlYTUwODhiZTEwMGIxZGNjZjJh`

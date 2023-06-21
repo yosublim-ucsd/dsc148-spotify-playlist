@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -7354,10 +7354,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/3qKAvJrWWMu7varZBacrml"
+    },
+    {
+      "album": {
+        "name": "OneShot",
+        "url": "https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq"
+      },
+      "artists": [
+        {
+          "name": "msht",
+          "url": "https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152925,
+      "name": "OneShot",
+      "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
     },
     {
       "album": {
@@ -9600,7 +9618,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/0iEQO1tSHccw1N3rl0Kcpv"
@@ -19210,7 +19228,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 136000,
       "name": "\u0421\u0438\u043b\u0443\u0435\u0442",
       "url": "https://open.spotify.com/track/0mbcTZx7O3AuzGUq6gr8cP"
@@ -20654,7 +20672,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"

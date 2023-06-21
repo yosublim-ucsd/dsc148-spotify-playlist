@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,624,487 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624,851 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 | 100 | [Back To The Roots](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Back To The Roots](https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT) | 4:46 |
 
-Snapshot ID: `MCxlYzgzY2ZmZWI4NjI3ODBkNjVkM2FkMmJjNjAxZTYyODIyMGFiYzhh`
+Snapshot ID: `MCw2YTUwOWMxNGY4MjQ2YWI0ZjhhMjliY2ZhYjY3MGQ0ZTM2OWFlZjQ4`

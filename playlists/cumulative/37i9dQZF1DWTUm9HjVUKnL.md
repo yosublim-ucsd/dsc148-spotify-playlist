@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,071 songs - 2 day 17 hr 34 min
+1,072 songs - 2 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [Time Fades Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Q10SEM1HMoKmghrvjMcaP) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 6:17 | 2022-07-05 |  |
 | [Time Fades Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4k8gS9jSq9707NumLSkssT) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 6:17 | 2022-01-19 | 2022-07-29 |
 | [Tipsy \- Spotify Singles](https://open.spotify.com/track/5SjcWE3c7dn0xQbrRLeczT) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:41 | 2022-01-19 |  |
+| [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-20 |  |
 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0CLtsfTgbVXORxfwqUbcVc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 3:35 | 2022-01-19 | 2022-07-29 |
 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2a15kXT1K2oDf5Ejran3bH) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 3:35 | 2022-07-05 |  |
 | [tonite \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 5:44 | 2022-01-19 |  |

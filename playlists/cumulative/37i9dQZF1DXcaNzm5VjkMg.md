@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-84 songs - 5 hr 41 min
+85 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Rest of My Life](https://open.spotify.com/track/299xFG2FLCNNM6JVBTB2s7) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/1C0qOGb1Yo9r57b150NAXT) | 4:26 | 2023-02-03 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2023-02-03 |  |
 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 | 2023-02-03 |  |
+| [Sampai Kita Tua](https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sampai Kita Tua](https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI) | 4:35 | 2023-06-20 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-02-03 |  |
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2023-02-03 |  |

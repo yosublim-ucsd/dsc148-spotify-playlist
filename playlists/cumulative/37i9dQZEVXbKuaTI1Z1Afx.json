@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 428713,
       "name": "Ascensionism",
       "url": "https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe"
@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
         "name": "My Soul",
         "url": "https://open.spotify.com/album/2JHP97iEYtvOar1lUQOcQe"
       },
@@ -5609,6 +5627,28 @@
     },
     {
       "album": {
+        "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
+        "url": "https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
+      "url": "https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU"
+    },
+    {
+      "album": {
         "name": "Cowboys Did Cocaine",
         "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
       },
@@ -6055,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
       },
@@ -6200,7 +6258,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -8072,7 +8130,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 154096,
       "name": "Emo Boy",
       "url": "https://open.spotify.com/track/4lHTUKJSuhY2dxPqE2Nu46"
@@ -9716,7 +9774,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 248066,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/3hL1kg1aSLuh3siwWI11sV"
@@ -11858,7 +11916,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
@@ -13311,6 +13369,24 @@
     },
     {
       "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
+    },
+    {
+      "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
       },
@@ -14199,6 +14275,32 @@
     },
     {
       "album": {
+        "name": "Johnny Dang (with Paul Wall & DRODi)",
+        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "album": {
         "name": "Tana Talk 4",
         "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
@@ -14684,6 +14786,32 @@
       "duration_ms": 190460,
       "name": "Koinu no Carnival -From \"Minute Waltz\"-",
       "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "album": {
+        "name": "The Krusty Pack",
+        "url": "https://open.spotify.com/album/68IgfE4Q34VLSDrv8MhqqD"
+      },
+      "artists": [
+        {
+          "name": "Kash Krabs",
+          "url": "https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP"
+        },
+        {
+          "name": "Oddwin",
+          "url": "https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa"
+        },
+        {
+          "name": "Sauceward",
+          "url": "https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112464,
+      "name": "KRUSTY KREW ANTHEM (BACK ON THE GRILL)",
+      "url": "https://open.spotify.com/track/5fLwJEG6J7V6MS2gE833Le"
     },
     {
       "album": {
@@ -15674,6 +15802,24 @@
       "duration_ms": 187653,
       "name": "Letter To An Old Poet",
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
+    },
+    {
+      "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
       "album": {
@@ -18668,7 +18814,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
@@ -19945,6 +20091,24 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
+    },
+    {
+      "album": {
         "name": "October Passed Me By",
         "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
       },
@@ -20798,7 +20962,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
@@ -21372,7 +21536,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 282013,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe"
@@ -21603,6 +21767,32 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
+    },
+    {
+      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -21694,7 +21884,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 359816,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/1hOnhCNpvBTML6vieRGaio"
@@ -22216,7 +22406,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 252158,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m"
@@ -23156,7 +23346,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
@@ -25239,6 +25429,28 @@
     },
     {
       "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
+    },
+    {
+      "album": {
         "name": "star tripping",
         "url": "https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR"
       },
@@ -26748,6 +26960,24 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "album": {
+        "name": "That Part",
+        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174052,
+      "name": "That Part",
+      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
     },
     {
       "album": {

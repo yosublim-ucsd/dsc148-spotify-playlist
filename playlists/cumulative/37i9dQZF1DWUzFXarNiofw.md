@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Ambré
 
-1,162 songs - 2 day 14 hr 6 min
+1,163 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,8 @@
 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 | 2023-03-31 | 2023-06-10 |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 | 2022-07-30 |
 | [Risky](https://open.spotify.com/track/2ZSLDwHIXr5yWI9d3iZr7R) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Risky](https://open.spotify.com/album/0tskRa5YB9FfD0z9K6JvWF) | 2:39 | 2023-02-17 | 2023-04-09 |
-| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-09 |  |
+| [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 | 2023-06-09 |  |
+| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-09 | 2023-06-21 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 | 2023-05-13 |
 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 | 2022-07-09 | 2022-08-30 |
 | [Rollercoaster](https://open.spotify.com/track/5nDNj7aBdekBb9X7h2Nugi) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/4iS0UU37Huv1EJCRoZ0Ppx) | 3:33 | 2022-07-09 | 2022-09-03 |

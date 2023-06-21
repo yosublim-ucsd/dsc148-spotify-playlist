@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,865 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,094 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 |
 | 100 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 
-Snapshot ID: `MCwxOTRjMGIyZTBkMzlmYzI3YjJkMzljOWZiNmU4MzQzNGMwMTRhYTM3`
+Snapshot ID: `MCwwYmVjYWY3YTFmZjU0MjQxMGVmODY5YjE1YTI2ZjEwZTU4NmM1NDY5`

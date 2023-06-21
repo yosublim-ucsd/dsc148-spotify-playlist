@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,073 likes - 64 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,131 likes - 64 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
 | 64 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 
-Snapshot ID: `MCxmMzZkODA1NjNlYjY4NGI4NWEzNGMyNGMzZDg0ZThlYzU0Y2IxYjVk`
+Snapshot ID: `MCxmNWEyZmIxNTEyOTAwYTk3NmNjYTg4MjY5ZWIyMDk5ZWE3OThlZWM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,359 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 31 | [slow down](https://open.spotify.com/track/7u7oJiGYQZ2Xef6hUKNZdb) | [Ame lil melo](https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN), [LUSH CARABINER](https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu) | [slow down](https://open.spotify.com/album/6Xru0jm5NpwERXQfG5eqM8) | 2:33 |
 | 32 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 33 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
-| 34 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/1TSN3GfeK8z5PmrhMXuzOp) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 |
+| 34 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 |
 | 35 | [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 |
 | 36 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 | 37 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [SHIRANKEDO](https://open.spotify.com/track/6ctuvjSpWsuY64Db3XVV7p) | [NBSK](https://open.spotify.com/artist/5ZgcfbWT9FmgXCGAEFocpu) | [SHIRANKEDO](https://open.spotify.com/album/50jKgnGadc6pN3jqsOOGsb) | 3:33 |
 | 50 | [Ice](https://open.spotify.com/track/35bVBWVGUYQOIXp1PuxjuP) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Ice](https://open.spotify.com/album/4saUb4i5zdfxATnxA5ONQv) | 1:56 |
 
-Snapshot ID: `MCw3MDljZDRmYjIxZDQyMGZlZjE4MGJlOWFmMDdkNTU4ZTdmNmYxNzQw`
+Snapshot ID: `MCxmNzA2ZGIyMzllZWZhNjRlYzU1NjRlNmEwNDk1YjYyZTgzOWVhMzRh`

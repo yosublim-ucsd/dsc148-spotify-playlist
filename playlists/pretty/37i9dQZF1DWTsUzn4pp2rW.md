@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,299 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,375 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Christmas Time Is Here](https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt) | [U3](https://open.spotify.com/artist/5ovgMXlBdlYdEZ2mQDqOU9), [Cynthia Lin](https://open.spotify.com/artist/4daaUucayZ59b8C4Hea47M), [Ukulenny](https://open.spotify.com/artist/5ZFFIbdDrRvXXgGeRnOANp), [Abe Lagrimas, Jr.](https://open.spotify.com/artist/2YrcT6uG6wP88zpSZd7gwt) | [Christmas Time Is Here](https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr) | 3:29 |
 | 150 | [Inner City Blues](https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Inner City Blues](https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY) | 4:53 |
 
-Snapshot ID: `MCxlNTFkNDk2N2VkOTI0ZDM2Y2E5ZWYzOWRhN2RkNzA4NjBmY2I5OTZl`
+Snapshot ID: `MCxmMDNjZGY2OGI1ZDBmZmQ4MzdlZjk3ZWNlZTE2YmFkNmM4YmIzNWVi`

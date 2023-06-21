@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,482 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,556 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Catfish](https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Catfish](https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0) | 3:51 |
 | 100 | [Help Me](https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Essential Sonny Boy Williamson](https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc) | 3:08 |
 
-Snapshot ID: `MCw4MWE3NDlhM2M4ZjYwNTZmYzFlN2MwZjE2MzlkOWI4N2VhYzg3ZGM2`
+Snapshot ID: `MCw3ODg2ZDdlNzVkNWE4Nzc5Mjg0NzFkYjRkOTQ0ODcwZjdjNzQxODY2`

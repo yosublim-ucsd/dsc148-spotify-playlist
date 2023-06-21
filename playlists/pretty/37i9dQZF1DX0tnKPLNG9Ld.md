@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,115 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,368 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Destination Moon \- 1997 Remaster](https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 2:35 |
 | 100 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 
-Snapshot ID: `MCxjYjE5NjU3MmUyMTkyMmVhMTAxMDdlODY2ZDVkZDc3Mzc0MWQyNGVm`
+Snapshot ID: `MCw4MGUyNjliMjYxYjAzNThjMWZjYTdlZDJkNjNkODIzNDk0MDg0YzM4`

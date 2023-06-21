@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,504 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,618,581 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 |
 | 50 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 
-Snapshot ID: `MCw4YjhkOWNmYmNlMmNkODhhZTVkNzNkZWVmNmZlMGQ1NDA4N2I5OGI2`
+Snapshot ID: `MCwxNzg0ODgxMzg3ZGI5OTZmNTdkNTg4YzUzYTU1ZGJjMTc5YTBiYzNj`

@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-480 songs - 22 hr 34 min
+481 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Knowing My Place](https://open.spotify.com/track/47rTwdDCVoZLQ2MAKFv6Ih) | [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [Knowing My Place](https://open.spotify.com/album/4U9t43T1XA8gD01blShlaA) | 2:17 | 2023-02-23 | 2023-06-16 |
 | [La Fiesta](https://open.spotify.com/track/7qVud7Bjs5syXGRwGgoIz4) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [MARIA SIOKE](https://open.spotify.com/artist/758HahCuuTj7WqRyb3vbTR), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [La Fiesta](https://open.spotify.com/album/4312yRlG6ZEGL1nLObRVEM) | 3:32 | 2022-03-21 | 2022-05-06 |
 | [La Vida Loca](https://open.spotify.com/track/4KVh7P5ovX38gjRZIY8nzd) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [La Vida Loca](https://open.spotify.com/album/3W0ibdeYmMs462YZNCcUqt) | 2:26 | 2023-02-09 |  |
+| [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2023-06-20 |  |
 | [LAST LAUGH!](https://open.spotify.com/track/6mOtvVZfMGlwS45csISlXs) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [LAST LAUGH!](https://open.spotify.com/album/1eynf1278QDBsSAmmG042K) | 2:07 | 2022-10-27 | 2022-12-02 |
 | [Leave Me Alone](https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Leave Me Alone](https://open.spotify.com/album/1kuECkKxX11NNa4U0u7izc) | 4:15 | 2022-07-25 | 2022-11-04 |
 | [Lemme Know](https://open.spotify.com/track/2cpqEOmplWCWwh0kzSCyHU) | [Kootsie Don](https://open.spotify.com/artist/6t2pf289HxzUYQKc7nCzd2) | [Lemme Know](https://open.spotify.com/album/5bAvHMNCW1qgWYfn3ij7Sy) | 2:22 | 2023-04-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,039 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,151 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 |
 | 60 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 
-Snapshot ID: `MCw0MDRlZjA3Mjc5MWM1YjgwN2JiMDVkZTliMWU4YTVjYWU3M2Q3MTI4`
+Snapshot ID: `MCxlMTc2NjdiYTY3ZTA3YWNhMTI4ZjQzODE1NmM4MWIzNzEwYWU0YWM3`

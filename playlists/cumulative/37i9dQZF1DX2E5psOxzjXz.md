@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-190 songs - 10 hr 56 min
+191 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lovesick](https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Lovesick](https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0) | 3:04 | 2021-12-06 | 2022-09-06 |
 | [Mahi Ve](https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Mahi Ve](https://open.spotify.com/album/34aSTfoU0Y48pSE51JjpWQ) | 2:53 | 2021-12-06 | 2023-02-13 |
 | [Mann Mein Tu](https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Mann Mein Tu](https://open.spotify.com/album/68gFrMFNTNTxLa8Nmm9Lx0) | 2:59 | 2022-11-30 |  |
+| [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 | 2023-06-20 |  |
 | [Marijuana](https://open.spotify.com/track/1C9DajYq19423BwN85bNf0) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 | 2022-11-30 |  |
 | [Mast](https://open.spotify.com/track/5dHGX2pviaNnlSKk54Stc1) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mast](https://open.spotify.com/album/3oYoSAIV7hSpYxKkJOU3xW) | 4:00 | 2022-05-20 | 2022-06-11 |
 | [Mein Hoon](https://open.spotify.com/track/2gU0WQqw8sN39k58r9l3cX) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Mein Hoon](https://open.spotify.com/album/2e7VmVvCxZhBCHIQVGeO6B) | 2:59 | 2021-12-06 | 2023-03-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,982,613 likes - 300 songs - 1 day 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,983,983 likes - 300 songs - 1 day 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 299 | [Juju \- Rudy Van Gelder 24 Bit Mastering / 1999 Digital Remaster](https://open.spotify.com/track/7Ke18a4dLDyjdBRNd5iLLM) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 8:35 |
 | 300 | [If You Could See Me Now](https://open.spotify.com/track/2QZtOFPATNgKpUJiGUARZk) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Very Best Of Chet Baker](https://open.spotify.com/album/04Fc4mXiG39cAa7JvcyuhC) | 5:18 |
 
-Snapshot ID: `MCxiYjBkNGJkMDFmYjJjZTI2YmM3MDA2ZDg2ZGY5MmIxOGFhODI3MjAz`
+Snapshot ID: `MCw1YmNlNWQ3ZGRlZTI4NTBjZTY0MGIzZWZkNzIyNTZlMGMzYjIxZWIz`

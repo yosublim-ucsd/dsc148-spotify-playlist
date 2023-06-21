@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,946 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,423 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 70 | [Preciso me encontrar \- Original Motion Picture Soundtrack "Diários De Intercâmbio"](https://open.spotify.com/track/0vUZ7NmyFsAUNb2NgHRdox) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Preciso me encontrar \(Original Motion Picture Soundtrack "Diários De Intercâmbio"\)](https://open.spotify.com/album/1AGfGXPfd68ytghke2h73Z) | 2:07 |
 
-Snapshot ID: `MCw3YmY1ZmZkNzA3OGEwZjk1YWJmOGNhZGI1YjFjZTYxNDE1NGFhY2Vk`
+Snapshot ID: `MCxlMGJhNGUxMzMxZjkwZGZhNTEyNGJmYTc2OTFhM2ZmMDcxYTA1OGU3`

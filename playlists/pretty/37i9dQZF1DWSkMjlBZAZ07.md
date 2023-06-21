@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,964,265 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,964,368 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 |
 | 100 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 |
 
-Snapshot ID: `MCxiNzQwNzM0OGQ5YTNjNzY0MDc1MGU3MzY4MWNhMDkxNGNhNjY1MzFm`
+Snapshot ID: `MCxkNzU1Mzg2ZTI3YmEwZmEyYjRkNWY5YTI0NjgyYWJjY2M3N2ZiNDI2`

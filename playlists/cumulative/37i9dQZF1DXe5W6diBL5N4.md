@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: EXO\)
+> Enjoy the freshest K\-Pop new releases \(Cover: KIM JAE HWAN\(김재환\)\)
 
-5,675 songs - 13 day 15 hr 58 min
+5,680 songs - 13 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2296,6 +2296,7 @@
 | [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-05-31 | 2022-06-14 |
 | [I'm In Love With You](https://open.spotify.com/track/3EfFvE7K1JloJ04JpdXPbm) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [The Law Cafe \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/2RCStSzGOnfe6RrPI77qNz) | 3:26 | 2022-09-26 | 2022-11-07 |
 | [I'm in love you](https://open.spotify.com/track/7caCfwwNW1KyjmC29W3E2C) | [SeoDaHyun \(tripleS\)](https://open.spotify.com/artist/6NEEmLZEda7n5paqlYTO4v) | [Reborn Rich \(Original Soundtrack\), Pt\. 3](https://open.spotify.com/album/0fqZ2Nnm9az1DcWWSTAFIO) | 3:58 | 2022-12-05 | 2022-12-22 |
+| [I'm lonely on Island](https://open.spotify.com/track/54pcUIMIoDAT9D9HPtjkci) | [mermerme](https://open.spotify.com/artist/43ukUMamqpTHSVtDJEyGXy) | [soft ballad](https://open.spotify.com/album/6WpV4XvCobBbcd6m2kUIjj) | 3:48 | 2023-06-20 |  |
 | [I'm more sorry and miss you](https://open.spotify.com/track/7msemixUTWOgjA4fo264HN) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [I'm more sorry and miss you \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/3h20mUKsi77I2hkMB32M3m) | 3:11 | 2022-04-19 | 2022-05-03 |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-22 | 2022-11-07 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-05-02 | 2022-05-10 |
@@ -2503,6 +2504,7 @@
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-16 |
 | [Jungle Book](https://open.spotify.com/track/2QNxGMJy3UQ8xdNIudigK4) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [Souly](https://open.spotify.com/album/4SlS2ZALLrHaOclG2raFdK) | 2:57 | 2023-01-20 | 2023-02-01 |
 | [Jungle Radio](https://open.spotify.com/track/3iM5JCKDQ3hXKeZJlSdoyj) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Gold](https://open.spotify.com/album/7aE17WkOefqT6vrYHWSzR7) | 3:53 | 2023-02-28 | 2023-03-28 |
+| [JUST](https://open.spotify.com/track/6BnXzugaOlaGYug6Ia60Og) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [JUST](https://open.spotify.com/album/5cmk5NcTMQByxxkHjQXIUf) | 3:02 | 2023-06-20 |  |
 | [Just](https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Just](https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ) | 3:41 | 2023-04-14 | 2023-05-03 |
 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 | 2022-09-26 | 2022-11-07 |
 | [Just A Dancer](https://open.spotify.com/track/2hyMwrgQBUHEBPnvJmITsg) | [SUNYE](https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX) | [\[Genuine\]](https://open.spotify.com/album/2HBxRQqGizwA9UveoLz3QP) | 3:21 | 2022-07-27 | 2022-08-10 |
@@ -2919,6 +2921,7 @@
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-04 | 2022-07-12 |
 | [Lucky](https://open.spotify.com/track/2vkIWmipLaZy1nfSypw3pe) | [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn) | [Lucky](https://open.spotify.com/album/0z5nVqnFyFcCi8DOAyDuf6) | 3:57 | 2023-04-17 | 2023-05-03 |
 | [Lucky \(feat\. HANHAE\)](https://open.spotify.com/track/4cap8r3pvNFqLoenkZTNjw) | [KittiB](https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [Lucky \(feat\. HANHAE\)](https://open.spotify.com/album/1QjLsDOBr7h9FKS37YpXci) | 3:02 | 2022-09-05 | 2022-10-15 |
+| [Lucky! \(Feat\. BOBBY\)](https://open.spotify.com/track/7Dkd6dOucVUJR9UIBjfMz4) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [J.A.M \(Journey Above Music\)](https://open.spotify.com/album/41Bgf7dnlIef4ktFlHrl3u) | 3:20 | 2023-06-20 |  |
 | [Lucy](https://open.spotify.com/track/5pNWDMh1bZ3NT7a2wCIKCQ) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [DICE](https://open.spotify.com/album/3fFiQcWrFBXquCtmmgoNTo) | 3:23 | 2023-01-24 | 2023-02-15 |
 | [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 | 2023-04-24 | 2023-06-20 |
 | [Luminous](https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Poong, the Joseon Psychiatrist OST Part.4](https://open.spotify.com/album/0K7sbRFoVG6tH1f52CfqMl) | 3:19 | 2022-08-23 | 2022-09-03 |
@@ -3302,6 +3305,7 @@
 | [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 | 2022-12-22 |
 | [NI](https://open.spotify.com/track/1YPBwYpIgQHTaNA7Lzbju7) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [NI](https://open.spotify.com/album/5Dr99ei10zLhwbmYS4ndhf) | 3:19 | 2023-01-05 | 2023-02-01 |
 | [Night](https://open.spotify.com/track/0HbySZ9UP98xpI39bMNtOm) | [CHAD BURGER](https://open.spotify.com/artist/6EZqsmA360jcppzfDAV3Td) | [그 시절이 행복해서, 지금의 내가 있다.](https://open.spotify.com/album/433BXjdz9Vw8ZtFD0aBa9s) | 2:55 | 2022-12-05 | 2022-12-22 |
+| [Night](https://open.spotify.com/track/3uPapkDYsrq0VRkTZ7auux) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Lies hidden in my garden, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0z67WGg4tbjLo6gZkpaFYy) | 2:46 | 2023-06-20 |  |
 | [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2022-12-26 | 2023-01-12 |
 | [Night \(feat\. 채은\)](https://open.spotify.com/track/721RX9IZguSS7VouzDHU3n) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [채은](https://open.spotify.com/artist/5MDk2Ue9mmybptQmC4A6xd) | [Night](https://open.spotify.com/album/1Gv4BPovwdvwxkWQU0wwrk) | 3:18 | 2022-11-03 | 2022-12-22 |
 | [Night Born](https://open.spotify.com/track/5l4iGEexFl1eDujbIqD0hZ) | [WEDER](https://open.spotify.com/artist/6q9ipb6DMncdBQmtCaTAF7) | [NERA](https://open.spotify.com/album/5VKmWXptR2aiYFGDMeh2kJ) | 3:41 | 2023-03-28 | 2023-05-03 |
@@ -5587,6 +5591,7 @@
 | [아지랑이 \(Art\. JFLAMINGO\)](https://open.spotify.com/track/7DaOiYUd5Umfw6fW1WiP7z) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. JFLAMINGO](https://open.spotify.com/album/4vYkQz96LqrVJoeQGjGj44) | 3:24 | 2022-11-14 | 2022-12-22 |
 | [아지랑이 Tingle](https://open.spotify.com/track/14HsXw1flWI5glqecG9mSS) | [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [CAFE TAPE 02](https://open.spotify.com/album/1Vt7GY3NrITSZ22PPOLBXu) | 3:21 | 2023-01-26 | 2023-02-15 |
 | [아직도 너를 사랑하나 봐 \(feat\. 림호, 이상히\)](https://open.spotify.com/track/0boZXqaS3JqgbNgsSbd6BT) | [K\. Flower](https://open.spotify.com/artist/4fl5iU2GyOJDqtIOVgch5l), [림호](https://open.spotify.com/artist/1H8MsPj1ImLG9l1cZMKiKu), [이상히](https://open.spotify.com/artist/2zRpFDMLnX7p7ZkhS6038x) | [I guess I still love you](https://open.spotify.com/album/0abbIwV3kuTZktYqO1HJVT) | 2:58 | 2023-05-15 |  |
+| [아프지마 Be Yourself](https://open.spotify.com/track/21vuWOOtFORPGEZ21MCKS5) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [아프지마 Be Yourself](https://open.spotify.com/album/38nEiXDvguHsLIAE7rPlmI) | 2:45 | 2023-06-20 |  |
 | [안 할래요](https://open.spotify.com/track/1PGMcoa5KlNkI2EtmTEXvm) | [덕환](https://open.spotify.com/artist/4adCEeLGpMEq48Ym8ni7Rk) | [안 할래요](https://open.spotify.com/album/5BHfMG7NC86bTJWashmQnv) | 3:24 | 2022-11-03 | 2022-12-22 |
 | [안개 속 어디로](https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0RbcfAVkoy1nKigpkLmUaC) | 3:51 | 2022-07-16 | 2022-08-10 |
 | [안아줄게요](https://open.spotify.com/track/6lXNvkpJpWJSKH5ivYuGFM) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [수상한 작업실 Episode 1](https://open.spotify.com/album/4Q0qgHpfQUUHZ4XxfWDpgp) | 3:03 | 2023-01-03 | 2023-02-01 |

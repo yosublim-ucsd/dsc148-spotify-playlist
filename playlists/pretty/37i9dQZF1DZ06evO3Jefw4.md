@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,610 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,843 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 28 | [Smile](https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:46 |
 | 29 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
 | 30 | [STARSTRUKK \(feat\. Katy Perry\)](https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [WANT \(Deluxe\)](https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN) | 3:22 |
-| 31 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
-| 32 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
+| 31 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
+| 32 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 33 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 34 | [This Is How We Do](https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:24 |
 | 35 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 |
 | 50 | [Walking On Air](https://open.spotify.com/track/0RCsGhR44nFVAd5WiZZcGq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:42 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDBjMjFjMmFhOTMxYTVmODJlYjBlNGE4ODViOGUwZWM4MQ==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBkYmNiZjA2Njg4OGY4NmE1YzUyYTY2Y2JmZThmZmZmOA==`

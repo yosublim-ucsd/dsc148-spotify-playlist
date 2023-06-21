@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,004,300 likes - 150 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,004,491 likes - 150 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 149 | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO) | 2:24 |
 | 150 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 |
 
-Snapshot ID: `MCw2MTI3MDJjOTgzZDY2ZjllN2I0YTQzZWM1YmIzMDgzYjg1NmUxMGNh`
+Snapshot ID: `MCxiMjhiZjAwNjBmODgzZjk4NmUyZDhhZGYyMzE5YzJmYTgwYTU2MmUz`

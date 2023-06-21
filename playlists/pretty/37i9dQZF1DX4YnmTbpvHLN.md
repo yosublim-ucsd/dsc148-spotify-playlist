@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,780 likes - 300 songs - 18 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,782 likes - 300 songs - 18 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 299 | [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 |
 | 300 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 |
 
-Snapshot ID: `MCwwMmI4ZGMwNWY2ODA4YmVhMzc3NTIxMzIyNmY0NDMyNTBkOTE5ZTIx`
+Snapshot ID: `MCwwYTAxMDliZWQzYTVjNjc4ZDAxZTVkMjkwZmUyYTFjODY1OTQwMjgx`

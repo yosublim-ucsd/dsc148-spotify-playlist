@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,648 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,199 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
 | 100 | [do or die \(feat\. carolesdaughter\)](https://open.spotify.com/track/0x3UMvAP7cNqccSicFaBim) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [good grief](https://open.spotify.com/album/75y0jr3uig59oDXrVuDc65) | 2:51 |
 
-Snapshot ID: `MCw5ZTA5ZGVlNGYwYzY5MDY3ZDk0ZjEwMTc0OWNhZjI3ZjlkOGEzMTVk`
+Snapshot ID: `MCxlOWQxZDllNDI4NmJiZDY0Mzk1OWVjMjQ2OGI5ZjI5MDFmYTE3NTBl`

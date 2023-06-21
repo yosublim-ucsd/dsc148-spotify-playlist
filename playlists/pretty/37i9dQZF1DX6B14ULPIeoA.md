@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,186 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,230 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Historia de un Amor](https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 3:20 |
 | 100 | [Con Tus Besos](https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Con Tus Besos](https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E) | 2:38 |
 
-Snapshot ID: `MCxlY2JiYWRhOGVhZGEyZDBhZTVhNjM5NDYyNjY0Mjc3YTJhYWQ3Yjli`
+Snapshot ID: `MCxkOWM0ZDg3Y2M3YjI1MDYwZDc5ODM0NzQ0YjE0ZGFkMGQyOGZiM2Rl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Shaka Ponk
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,354 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,501 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Bae](https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Bae](https://open.spotify.com/album/7nklb4pTharrigbkpKw6Td) | 2:28 |
 | 50 | [To A Mouse](https://open.spotify.com/track/5fLHPjaaylY2pNa25odM5U) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [To A Mouse](https://open.spotify.com/album/0VpFwTHSRXM4gjR2XwNtLK) | 3:22 |
 
-Snapshot ID: `MCwxMWFlYWFhNDA5MTQ1NTI3YjUwNGM5YjJlODA3ZjRkYmNkZmE3OWQy`
+Snapshot ID: `MCw1ZmI3YzQ5MzJhYjMzMDk1MDNjODdlMzMzMzlkMjZlZjFkMTU5YzAx`

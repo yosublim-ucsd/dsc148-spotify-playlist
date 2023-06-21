@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,459 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,557 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Cinema Love](https://open.spotify.com/track/28yYvFeocTDYzao76YVB75) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7) | 3:48 |
 | 125 | [Big Ideas](https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Ocean by Ocean](https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55) | 4:26 |
 
-Snapshot ID: `MCw1ZWM5NGIwY2YyOTIwNTFmYmE2ZjY5NDE1NzMyMmUyYzY3MjdiMWNk`
+Snapshot ID: `MCw5YjhlNmE1ZGRlNzhlOGQ4OTI5MzM2NDg1MDYwMmQ0ZDYyNmQwYzIx`

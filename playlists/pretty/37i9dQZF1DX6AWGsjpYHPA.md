@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,660 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,753 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 |
 | 75 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
 
-Snapshot ID: `MCxiNTNhNDJjOTFiOWVhMTliN2IwNjI4ZjA3NmYzZDExNTJlMTFkMzg5`
+Snapshot ID: `MCw4OTJkNGFjYjdiMTEzMzE2YzBmNDMxZGNmODAwMTAwNTcyZWQwYWIw`

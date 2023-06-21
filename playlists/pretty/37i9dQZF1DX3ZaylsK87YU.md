@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,158 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,358 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Restless](https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [The House You're Building](https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN) | 4:55 |
 | 100 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
 
-Snapshot ID: `MCxkMjhlZjA3NWQ2N2U3NjRkMmI4M2Q5ZmM4MThlZTdmZTA4ZGFiNTdi`
+Snapshot ID: `MCwzMjJmNWMzOWNhY2VlNjk3NThhNzMxNDE5OWQ5NWIyM2QzMjE5ZmFl`

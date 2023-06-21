@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Texas' own Parker McCollum is taking over to celebrate the release of his new album "Never Enough"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,175 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,273 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 100 | [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 |
 
-Snapshot ID: `MCw5OTE5MzFhNDZmMTc5ZmNkMGQwZDMwMjkyYzkzNTViMDIwMmQzMDE5`
+Snapshot ID: `MCxlMzY4ZTIxNzJjZjAxN2E4Y2JlOTM1OWZjMDYzMWY1Zjk4ZjcwNzky`

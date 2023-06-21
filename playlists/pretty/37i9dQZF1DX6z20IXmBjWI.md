@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,284 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,250 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
 | 160 | [Glass](https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB) | 3:19 |
 
-Snapshot ID: `MCxlNjk3MWQ5YmUxZGZjNmEyZTk0NTJhZGMzYzM4ZTY0MGM1ZDQ2Zjdl`
+Snapshot ID: `MCxhMTBjOGE4NTZjOGZjMmY5MTkyYjc0ZDk3MTBmOTc3MjQ3NGYyMWEw`

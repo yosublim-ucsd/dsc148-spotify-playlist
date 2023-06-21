@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,480 likes - 120 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,582 likes - 120 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Crank The Heat](https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:42 |
 | 120 | [Kill the Silence](https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Downfall of Mankind](https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj) | 3:29 |
 
-Snapshot ID: `MCxkNjYwMTFmMTA3MWY2NTRmOGRkYTU3OGNlMjMxZWM5MzQ5OTNiNWNi`
+Snapshot ID: `MCw3NGE3YzU0NDI2NDRhNTE0ODMxZWY5OGI4NmE2MDcxYjYyYTBmNzhm`

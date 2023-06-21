@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: BOYS LIKE GIRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,782 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,880 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 99 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
 | 100 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 |
 
-Snapshot ID: `MCw0NDQzNWNiZTcwYWI3MGYwZGQ5OTJkZDYxM2I2YjFlYzQxMzZjNWYz`
+Snapshot ID: `MCxhN2NmYTA4MmI4OWZlYTM3NDNiMDEyYmE4NDNjYWI1ODY2YzVjZGZk`

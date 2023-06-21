@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,102 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,228 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 125 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 
-Snapshot ID: `MCw3OTg0ODdkYzg2Nzk4YjE0NTBiMTFlNWUzYTg0YWQwMGViYzBhNDBl`
+Snapshot ID: `MCw4ODgxNDRhNjljODc4NGFjYzE5OWJmMmZiNjU2ODY2MzViY2JkZjc3`

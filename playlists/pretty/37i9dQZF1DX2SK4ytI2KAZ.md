@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,099 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,135 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 |
 | 100 | [DON'T TELL THE BOYS](https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 3:56 |
 
-Snapshot ID: `MCw4YjhlMTVkNjcxNTY1NDVjNGI3YTFjYzNiMWQzZTIyMzM3Y2NiN2E2`
+Snapshot ID: `MCxkMDM2OGFjYjAwNjUzMDEyZDhmYjhmZTkwN2Y2NjRiZmM0OTJhMTky`

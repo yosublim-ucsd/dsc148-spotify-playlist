@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Alamedadosoulna
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,340 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,404 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
 | 100 | [He's a Tripper](https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [Melbourne Ska Orchestra](https://open.spotify.com/album/6Bz6lE0HUeZqGZdPpHyVob) | 3:21 |
 
-Snapshot ID: `MCxhOTA1N2I5MjE2ZmI2YmYzYjc0NTk5ZDMyNjFiZjQyODU3YWRkZjJk`
+Snapshot ID: `MCw5NTc2MDE0YmNlOThmODhjZTlkMDRjN2RjMTkzMGI1NjhiNGNlMWMy`

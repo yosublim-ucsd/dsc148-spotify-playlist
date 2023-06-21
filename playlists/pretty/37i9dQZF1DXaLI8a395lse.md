@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,167 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,285 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 |
 | 80 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 |
 
-Snapshot ID: `MCxjNzM5Yzc3ODc4YjhjZjRmMDRkNzQ5Y2NhNDM4OWU3MjJiYTQ5MTg4`
+Snapshot ID: `MCw4YTRkNDE4NzNhNTE0NTZjMTUxMmNmYjA2NGE2YmRjYjg1YzY1ODYw`

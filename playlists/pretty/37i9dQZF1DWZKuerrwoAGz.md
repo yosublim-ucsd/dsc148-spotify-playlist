@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,421 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,813 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 | 149 | [All Night](https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:17 |
 | 150 | [Tonight Tonight](https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:20 |
 
-Snapshot ID: `MCw1NTI3MWFjNmZiNWRhZDAyZWNkZWFkYjNmZDEwNzNiMjU4MmY5NGUw`
+Snapshot ID: `MCwyOTU5NTY2OGVhMTRhNWFmMWVhYjM0ZTZmMTJiOGRkYzY4YzNiNTA3`

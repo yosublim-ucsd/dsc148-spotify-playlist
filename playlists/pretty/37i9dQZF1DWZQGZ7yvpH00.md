@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Iván Cornejo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,905 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,655 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Sin Ti](https://open.spotify.com/track/3cYcqL8B5aszBvHgy0axSg) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [Sin Ti](https://open.spotify.com/album/21HZ713reEG9xMZZqRAanK) | 3:10 |
 | 50 | [Que Ha Pasado](https://open.spotify.com/track/3733tuu2eHD8WxG3jHzJxI) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Que Ha Pasado](https://open.spotify.com/album/50IMgyC7NKx4BP659RDGkX) | 3:14 |
 
-Snapshot ID: `MCxkZTE3MWQ2ZTg4MzgwMjQ4Nzg2Nzg3YTVjYTI2MTkwZTJjYjg0YTgx`
+Snapshot ID: `MCwxNDU2MGQ4ZGRlYTRmNTJmY2E4MzU2OTJmYTA1MmJlZjA0NzJiMGNk`

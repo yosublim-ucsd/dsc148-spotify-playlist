@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,461 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,513 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCxmNmNhOWRiNjc4OGYyZTY0MGNmNGQxZGM0OTgwNzRhNzdkYjRiMjY2`
+Snapshot ID: `MCwyYmViNGM4ZDExMDNmNDQzZmM3ODkzZWJiMzIwY2MxMDY5Njg4YzJj`

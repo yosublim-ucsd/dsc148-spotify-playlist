@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 193421,
       "name": "Needhe Aakasam",
       "url": "https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 272571,
       "name": "Prema Prema",
       "url": "https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 158823,
       "name": "Raagalani",
       "url": "https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ"
@@ -2122,6 +2122,32 @@
       "duration_ms": 212992,
       "name": "Taithom",
       "url": "https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55"
+    },
+    {
+      "album": {
+        "name": "Tamil Pilla",
+        "url": "https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p"
+      },
+      "artists": [
+        {
+          "name": "Sunny Austin",
+          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
+        },
+        {
+          "name": "Chinna Swamy",
+          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
+        },
+        {
+          "name": "Spoorthi Jithender",
+          "url": "https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Tamil Pilla",
+      "url": "https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm"
     },
     {
       "album": {

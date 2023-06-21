@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,953 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,963 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [Tub Erupt](https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG) | 2:52 |
 | 100 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 
-Snapshot ID: `MCw2M2JkMWY4YmYyNzU0N2E2YThmYjU3OTA1NGNlNDc3MjdmYTBhNmQ1`
+Snapshot ID: `MCxjNDBiMDE5Mjg5ZTM4M2VlMDExMmU4NjY2MTRmMWFiNzNhMzhhNzQy`

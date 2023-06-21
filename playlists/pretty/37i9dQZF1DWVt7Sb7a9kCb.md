@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,243 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,258 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Amantes y Amigos](https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Amantes y Amigos](https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK) | 3:02 |
 | 100 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
 
-Snapshot ID: `MCwwOWY5NTkyMTA3ZDE1YzBkNTZlOWViNTY2N2EyYmQ5ZjQ1OWM0YmNl`
+Snapshot ID: `MCxhNTA5NWIxMDUwNzY4ZDFiNjFiMTYwMWRkMzAxZTc1M2FiZGQzYjVl`

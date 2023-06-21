@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Troá!, Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,377 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,388 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [MONTANHA RUSSA](https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [MONTANHA RUSSA](https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF) | 3:13 |
 | 70 | [bossa nova](https://open.spotify.com/track/2J7WwzjeZX1rS35WeWDxEm) | [Fernanda Agah](https://open.spotify.com/artist/3kPlUXfaZggBEvh7jt1VXk), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue) | [bossa nova](https://open.spotify.com/album/02mynHvI2Ao5tAD89HT75B) | 3:16 |
 
-Snapshot ID: `MCxjMjYxMDI5NGE1ZTJkNzc3NmZlODYwZTk0MTBjNGY4YzVlZjE0YTZj`
+Snapshot ID: `MCw4MmU0ZTIxYmUzNTBlN2Q3NjRjZjZiNmM4Zjg3ZmI0OWNhMzRhYjVm`

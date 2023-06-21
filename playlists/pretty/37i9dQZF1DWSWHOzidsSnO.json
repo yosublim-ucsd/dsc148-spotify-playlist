@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada por Paola Navarrete. #EQUALDOR",
-  "num_followers": 51648,
+  "num_followers": 51652,
   "original_name": "EQUAL Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2FhOTRkYWMzNTFjN2MyZGVmMGU2YjY5NTU1NWEyMWMyYjFkYjQz",
+  "snapshot_id": "MCw0ZTU0MzYyMDk2ZWFmNmY0NGZhMjIxMGNjZDQ1ZmI1NDg0N2VlYmNk",
   "tracks": [
     {
       "added_at": "2023-06-07 06:19:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh"
     },
     {
+      "added_at": "2023-06-20 16:50:09",
+      "album": {
+        "name": "Reencarnaciones",
+        "url": "https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Ser eternos",
+      "url": "https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r"
+    },
+    {
       "added_at": "2023-06-14 15:28:43",
       "album": {
         "name": "I Like It, I Like It",
@@ -39,6 +55,62 @@
       "duration_ms": 246318,
       "name": "I Like It, I Like It",
       "url": "https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR"
+    },
+    {
+      "added_at": "2023-06-20 16:50:09",
+      "album": {
+        "name": "Cambio",
+        "url": "https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF"
+      },
+      "artists": [
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy"
+    },
+    {
+      "added_at": "2023-06-07 06:19:00",
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "added_at": "2023-06-20 16:50:09",
+      "album": {
+        "name": "29:56",
+        "url": "https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 203527,
+      "name": "Todo Est\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX"
     },
     {
       "added_at": "2023-06-14 15:31:23",
@@ -87,26 +159,6 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -179,22 +231,6 @@
     {
       "added_at": "2023-06-07 06:19:00",
       "album": {
-        "name": "IGUAL",
-        "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
-      },
-      "artists": [
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "IGUAL",
-      "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
         "name": "QLQ",
         "url": "https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2"
       },
@@ -223,22 +259,6 @@
       "duration_ms": 157968,
       "name": "F\u00f3rmula 1",
       "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/0BvHenysl35MTkpwERt5CR"
-      },
-      "artists": [
-        {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
-        }
-      ],
-      "duration_ms": 249770,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/3b1ABaqWYULqWBoiT7Mtvc"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -407,22 +427,6 @@
       "duration_ms": 232790,
       "name": "Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/2aWqyVLeFFPrPe4Ra77b9f"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 193674,
-      "name": "Sabor a Ti",
-      "url": "https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -771,22 +775,6 @@
     {
       "added_at": "2023-06-07 06:19:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy"
-      },
-      "artists": [
-        {
-          "name": "Lunal\u00e9",
-          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
-        }
-      ],
-      "duration_ms": 193675,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
         "name": "Cassette",
         "url": "https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ"
       },
@@ -935,22 +923,6 @@
     {
       "added_at": "2023-06-07 06:19:00",
       "album": {
-        "name": "Cafecito Para Dos",
-        "url": "https://open.spotify.com/album/3mocltU8GILvbWMquiATqn"
-      },
-      "artists": [
-        {
-          "name": "Martina La Peligrosa",
-          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
-        }
-      ],
-      "duration_ms": 181725,
-      "name": "Cafecito Para Dos",
-      "url": "https://open.spotify.com/track/1PgVif1282OX4Bcm49DxpT"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -999,22 +971,6 @@
       "duration_ms": 272857,
       "name": "Alguien",
       "url": "https://open.spotify.com/track/0W0TfbLgn0G6Jea3d4W0Oc"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "No Fui Solo Yo",
-        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "No Fui Solo Yo",
-      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
     },
     {
       "added_at": "2023-06-07 06:19:00",
@@ -1103,38 +1059,6 @@
       "duration_ms": 200000,
       "name": "Noche Humana",
       "url": "https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "De Curvo Cuerpo",
-        "url": "https://open.spotify.com/album/2uTm5GRSGAiNJkE3l96SsO"
-      },
-      "artists": [
-        {
-          "name": "Las \u00c1\u00f1ez",
-          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
-        }
-      ],
-      "duration_ms": 217965,
-      "name": "De Curvo Cuerpo",
-      "url": "https://open.spotify.com/track/2Pht8QhG9WqzrSQZDyK2rG"
-    },
-    {
-      "added_at": "2023-06-07 06:19:00",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
     },
     {
       "added_at": "2023-06-07 06:19:00",

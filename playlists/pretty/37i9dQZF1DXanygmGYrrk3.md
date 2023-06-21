@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Alta Consigna
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,673 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,829 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 | 149 | [La Boca Les Callamos](https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 2:44 |
 | 150 | [Hoy Te Pierdo](https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Hoy Te Pierdo](https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg) | 3:54 |
 
-Snapshot ID: `MCwwMGNmNThlMDBjMWUzZGY2NzcyODMyYzBmNWY5MDFjMzdkMGM1NTk3`
+Snapshot ID: `MCxkZjYwODI1NjVmZTNjOTkxNTQ2YjdlZmE3NWYwYTUyNzdhY2VkODYy`

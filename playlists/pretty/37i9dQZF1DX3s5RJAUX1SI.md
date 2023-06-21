@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,438 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,771 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 124 | [A Traves Del Vaso](https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [A Traves Del Vaso](https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB) | 3:20 |
 | 125 | [Usted](https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:58 |
 
-Snapshot ID: `MCw2NjBlODI4OGFhZjlmNjA2NWI3N2FmNzk4YzMzNDU2OTQ3MGY1NmE0`
+Snapshot ID: `MCw2OGQ0N2I1NWVlZTc1NGRkYTMwN2U3MmEwMDIyYWZjOTdhYmIxYWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,338 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,428 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 |
 | 50 | [Qué Bonito](https://open.spotify.com/track/7jlntKg9Nl7qxO2IFFwLx5) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Qué Bonito](https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G) | 3:24 |
 
-Snapshot ID: `MCwzYjNkZjk1ZjIwOTllMmZlOGEzZmU4M2Q2OWI2M2EwNmE2YmVmYTg3`
+Snapshot ID: `MCxkZGU0YmVjMTdkZmZlYjJkOWJkYzZjNDU5MWI1M2NmNWVjNmU1M2Fj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Igor Roque
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,100 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,285 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 |
 | 80 | [Quanto Amor \- Acústico](https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Quanto Amor \(Acústico\)](https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL) | 4:12 |
 
-Snapshot ID: `MCxiMTJjYmQyMWU1NGNhMzVjMjA1NTA2MzdmZDMzMTIxMTBlZGY4MDM0`
+Snapshot ID: `MCxjNWU5NjEzOWY3MzRhZTQwODBmN2E0NmRmNzE2ZjBhNDFiMzc2Yzg1`

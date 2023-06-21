@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,706 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,732 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 99 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
 | 100 | [Mr\. Doctor Man](https://open.spotify.com/track/0vI2m662QiemSccfCoN9gR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Boom Boom Room \(Side A\)](https://open.spotify.com/album/7BVwY2MSyuSq0DctezzVXr) | 4:04 |
 
-Snapshot ID: `MCw5ZmU1YzljM2EzYzQ3MzkwNTE4M2QzNTI5ZmJjNjBjMzg2Y2MyOTA2`
+Snapshot ID: `MCw0NjY1NWUwMDhhNzk3Mjk2MzgxNTI2YmNiNzExZjRiZTExZGUwMDVm`

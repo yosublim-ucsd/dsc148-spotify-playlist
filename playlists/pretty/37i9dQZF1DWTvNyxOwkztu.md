@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,771,976 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,772,507 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 |
 | 100 | [It Takes so Long](https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [It Takes so Long](https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN) | 3:37 |
 
-Snapshot ID: `MCw5ZTQ0NTAxOWYwY2Q5ZWUwNjc0NWUxODAxM2IyNmUxMjRhMGE5ZDEy`
+Snapshot ID: `MCxiOTk5OTdkZGVmNjU3MTQ5YmY2NzdkOWZiYWE0OGQzM2EzMDA5Y2Uw`

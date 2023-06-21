@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 
 > Dance the night away with your favorite tropical tunes, featuring Marshmello & Manuel Turizo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,323 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,370 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 99 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
 | 100 | [Rie y Llora](https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:10 |
 
-Snapshot ID: `MCw1MTA2NTg5MzJkZTRhMDQ1MmMzYzU3YzExNGMwMmI0ZmY4YzgwY2Fj`
+Snapshot ID: `MCxmZjU5ZjQ0MWUyZDUxN2Q0NzdmZDg3YjJmZjY4NWUwOWI1MDJhNmQ4`

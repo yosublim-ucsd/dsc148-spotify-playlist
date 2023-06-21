@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,974 likes - 125 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,261 likes - 125 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Melt](https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Land Of Heroes](https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC) | 6:37 |
 | 125 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 |
 
-Snapshot ID: `MCwwMDBhNjJjYTVlYWU4MWYwYzA2ZjcyNWJhYmRhMDU2NWU3MzI2MmMw`
+Snapshot ID: `MCxmNTdkODExZDJhYTIzMmViZjdiZTQxY2IxNWRhNDAxYzMzNjdhZWI1`

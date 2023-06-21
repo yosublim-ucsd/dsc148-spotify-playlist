@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,891 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,960 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 |
 | 100 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 
-Snapshot ID: `MCw1NTFiOWU0ZWYwZTliOTlhMTI5YTNkZjMzYjAwZTU5YjljNTdkMWZi`
+Snapshot ID: `MCw1YjM4ODM5NDk1NjkxMGZkNzM4MTRjYWRjMWRlNzI5NTI1ZGZkZTIy`

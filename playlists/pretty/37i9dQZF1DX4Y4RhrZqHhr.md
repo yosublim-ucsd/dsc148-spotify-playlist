@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,139 likes - 200 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,325 likes - 200 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [Summer Jam 2003 \- Remix](https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb), [Summermix](https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx) | [Remix Hits, Vol.1](https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb) | 3:49 |
 | 200 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
 
-Snapshot ID: `MCw3MGJlOWM1N2U4MTYzOTZkNGRmMWQ0ODc2YzE1N2Y1YmExNmM1MGM5`
+Snapshot ID: `MCwyMmI4NDUzNzhmYjkxYmQ3OWQyY2M5ZWZlMjI0NTdiMjYzZmQ0ZjAw`

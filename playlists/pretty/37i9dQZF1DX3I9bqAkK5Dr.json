@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 27346,
+  "num_followers": 27369,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTA2YThlZmJjOWQ4ZTBjNGQ4ZWI2ZDk0MWFmYmEwODA4YzIxOWIw",
+  "snapshot_id": "MCwxZDM5NzQwNDJkMmYzOTQ1ZDcwNmVjN2VjY2ViN2EwYzI0OWM3MGJl",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP"
     },
     {
+      "added_at": "2022-11-02 02:06:56",
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb"
+      },
+      "artists": [
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh"
+    },
+    {
       "added_at": "2023-06-05 10:59:44",
       "album": {
         "name": "Tholi Prema",
@@ -235,6 +251,30 @@
       "duration_ms": 190800,
       "name": "Kalle Kalle",
       "url": "https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K"
+    },
+    {
+      "added_at": "2023-06-20 09:45:50",
+      "album": {
+        "name": "Tamil Pilla",
+        "url": "https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p"
+      },
+      "artists": [
+        {
+          "name": "Sunny Austin",
+          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
+        },
+        {
+          "name": "Chinna Swamy",
+          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
+        },
+        {
+          "name": "Spoorthi Jithender",
+          "url": "https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Tamil Pilla",
+      "url": "https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm"
     },
     {
       "added_at": "2023-06-19 06:12:50",
@@ -1153,22 +1193,6 @@
       "url": "https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF"
     },
     {
-      "added_at": "2023-02-03 07:43:40",
-      "album": {
-        "name": "Prema Prema",
-        "url": "https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL"
-      },
-      "artists": [
-        {
-          "name": "Jagadish Kommuri",
-          "url": "https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq"
-        }
-      ],
-      "duration_ms": 272571,
-      "name": "Prema Prema",
-      "url": "https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm"
-    },
-    {
       "added_at": "2022-07-18 06:19:46",
       "album": {
         "name": "Raba Raba",
@@ -1325,22 +1349,6 @@
       "url": "https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj"
     },
     {
-      "added_at": "2022-11-30 10:46:09",
-      "album": {
-        "name": "Needhe Aakasam",
-        "url": "https://open.spotify.com/album/5Ntckz3IDYKwyVIvEra0Zh"
-      },
-      "artists": [
-        {
-          "name": "Yamini Ghantasala",
-          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Needhe Aakasam",
-      "url": "https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4"
-    },
-    {
       "added_at": "2022-08-10 11:41:20",
       "album": {
         "name": "Khadhhar",
@@ -1371,22 +1379,6 @@
       "duration_ms": 227300,
       "name": "Laire Lallaire",
       "url": "https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s"
-    },
-    {
-      "added_at": "2022-11-02 02:06:56",
-      "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb"
-      },
-      "artists": [
-        {
-          "name": "Damini Bhatla",
-          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh"
     },
     {
       "added_at": "2022-07-18 06:19:46",
@@ -1443,26 +1435,6 @@
       "duration_ms": 234000,
       "name": "Thanuvantha",
       "url": "https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Raagalani",
-        "url": "https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1"
-      },
-      "artists": [
-        {
-          "name": "MC Hari",
-          "url": "https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8"
-        },
-        {
-          "name": "Niteesh",
-          "url": "https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Raagalani",
-      "url": "https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ"
     }
   ],
   "unique_name": "Telugu Indie",

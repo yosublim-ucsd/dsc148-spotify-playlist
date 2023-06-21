@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,996 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,159 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Pulse Mode](https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Lazybones](https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M) | 5:47 |
 | 60 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
 
-Snapshot ID: `MCxhOTk5MmUyM2NkYjVhNDJkNjFlNmUwNDE4ZDk0NzNiNzkzMmNkYThm`
+Snapshot ID: `MCwxMDBiZDU0NDE5YzUwMDRmOTk5NGFlMzYzMGQ0NTNjY2I4OGQyNWI2`

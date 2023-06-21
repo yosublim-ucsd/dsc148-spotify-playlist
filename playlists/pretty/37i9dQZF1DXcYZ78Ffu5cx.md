@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 
 > music, waves, friends and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 | 99 | [Mil Febreros](https://open.spotify.com/track/1QA87XZBkITHsUlH63p95S) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [Mil Febreros](https://open.spotify.com/album/3vqLFTeSehizfEzN0TyTwm) | 3:40 |
 | 100 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 |
 
-Snapshot ID: `MCxmYzJiNDUyOTg4NDEzYmEzY2UzMWI1YmE2OWVhMDRlNzRjMTRiODUx`
+Snapshot ID: `MCxiNzRhNjdlN2MyZGNjMjEzMjA4MjhmYzg0NjNlZTAzMjY3ODU3MmVl`

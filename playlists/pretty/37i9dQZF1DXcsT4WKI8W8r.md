@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,846 likes - 145 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,984 likes - 145 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Hallelujah, I Love Her So](https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:35 |
 | 145 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 |
 
-Snapshot ID: `MCwwMzJjM2ZjYzFlMTg5MWM4YzU0ZjhjYTU5OGVkNWFiYzE2NTQ3N2Yw`
+Snapshot ID: `MCwxY2UyMmVlNDdhODgxMGE2YThlNTYzMWI2ZjViM2UwNDRlODM3NWNi`

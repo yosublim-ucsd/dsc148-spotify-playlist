@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,543 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,737 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
 | 100 | [Footsteps](https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Footsteps](https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ) | 3:09 |
 
-Snapshot ID: `MCxkZTRhOWMwMDFhMDIxMzc0YjFkNzlkNTk2N2Y2ZDk5YTYzMmE3MDg4`
+Snapshot ID: `MCxkMjhmNDkwMDQwY2VlMDk3Yzk1OGQ2ZDIwNTYwNzA2ODIyNzU5Mjdk`

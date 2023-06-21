@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,975 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,001 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Cherokee Fiddle](https://open.spotify.com/track/0StVxDLK1hbA6VRc27dp6e) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:06 |
 | 150 | [You Ain't Woman Enough](https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Queens Of Country Music Volume 1](https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg) | 2:12 |
 
-Snapshot ID: `MCxjYjRjZWQyMzI0MzE0NTEyNzNhMzFhZmE0YTEyMGY5ZmZjMjg3MzZl`
+Snapshot ID: `MCw2NTA2NGNmMGEyOThlMjkyOTdjMjc5MmNmNjI3NjNiY2E0NWNmNTcy`

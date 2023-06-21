@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Zouj, Sahareya, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,512 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,510 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Aus Liebe](https://open.spotify.com/track/5L77WMdtYInJ6Hy96dVFQ7) | [Die Benjamins](https://open.spotify.com/artist/7wdPP54vw7ThJkqyX1VL2d) | [Aus Liebe](https://open.spotify.com/album/2i0jUEC4w7HGKR8XHOb8Py) | 1:55 |
 | 80 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 |
 
-Snapshot ID: `MCwyYjdhYWY1MjdlMzEyM2ViMzNlZDc4YzRmOTVjZTg0MzM3OTliYjc1`
+Snapshot ID: `MCw2N2E1ODYwYjNlMmMyYjA2MmE0NWRhMGNlZTcxY2M0NGZiOGNkY2I5`

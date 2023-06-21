@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,642 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,022 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 100 | [Luna Llena](https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luna Llena](https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i) | 3:01 |
 
-Snapshot ID: `MCw1NTM2NDE5NWEzM2I4ZjYzY2EzMjlhM2RmNDY2NzA4Yzg5YzQ1Zjlk`
+Snapshot ID: `MCwxMTRhYjdjODU0MmY0YWFmYTEwYmM2NmQ3YzNiNjk2YjQyMmE2MWJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,393 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,469 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 |
 | 75 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 |
 
-Snapshot ID: `MCxmYzkyOWMyOGI3ZjQyNThkODYxOGRkZTcyMDQxYzhmMWI0MzU1ZGY1`
+Snapshot ID: `MCwwZGUyZWIxZGFiYTMzYjk4ZjFlZTZhZWRjMmMyMTcyMTM2MTQ3NzNh`

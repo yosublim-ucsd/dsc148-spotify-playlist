@@ -2190,7 +2190,7 @@
     {
       "album": {
         "name": "Peace in the Madness",
-        "url": "https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME"
+        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
       },
       "artists": [
         {
@@ -2205,6 +2205,28 @@
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236883,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8"
+    },
+    {
+      "album": {
+        "name": "Peace in the Madness",
+        "url": "https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        },
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
       "duration_ms": 236883,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC"

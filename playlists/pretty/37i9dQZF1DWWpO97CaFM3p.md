@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,757 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,114 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 125 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 |
 
-Snapshot ID: `MCxmOTcwMDdiZjFhOWQ3OTU1NDIxNzZmYmYzOWI4ZDcxNmZiNWNmMjE3`
+Snapshot ID: `MCw0NjRiYTY0ZTE0ZjU1NDA0OTFmMzEyZDNkYjEzYmE5MzNhM2MyOTIy`

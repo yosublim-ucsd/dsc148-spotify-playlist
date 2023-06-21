@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,318 likes - 115 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,328 likes - 115 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 |
 | 115 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 |
 
-Snapshot ID: `MCwzNWJjNzQxZWM2Y2I4NTczOTg3N2IwOThmNTcxNDcxMDUwMjNmNGVj`
+Snapshot ID: `MCw2ZDU3NWM0MGY4ZWQ1MGYyYzYzYTZiNTI3MGIwNWYyMTUzNWNjOTg2`

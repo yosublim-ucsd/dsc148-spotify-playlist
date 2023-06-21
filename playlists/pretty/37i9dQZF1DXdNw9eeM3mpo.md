@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,894 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,044 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Mañana](https://open.spotify.com/track/4KmDO4Jut1aQpoTe6wqwN5) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Su Majestad Mi Banda el Mexicano de Casimiro Zamudio](https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u) | [Muchas Noches, Buenas Gracias](https://open.spotify.com/album/5OEzYiqPv2GSi6RTemlNK7) | 3:48 |
 | 100 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
 
-Snapshot ID: `MCw4YTRmYjBiOGRkZTQ5YTM2MzYwMzZlM2Y4ZmRjZjEzOTllM2IxYmQ1`
+Snapshot ID: `MCxhOGY3MDEyNjY0MDVkZDlkNmNiMTNmOTdmYzhiMzNiMjQ2YjU0ZGYz`

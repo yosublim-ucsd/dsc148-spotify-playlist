@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,239 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,314 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
 | 100 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 
-Snapshot ID: `MCw1YTMwZWVjZTJhNWY4M2U4ODUxMjY0OWZhYTM1ODA4Y2I2M2IzMDBm`
+Snapshot ID: `MCwxODM4ZDhlN2ZlYzFiZWQ4ZmVkNzFjYzA4Yzg3MmRiNDAxOTE1OGJj`

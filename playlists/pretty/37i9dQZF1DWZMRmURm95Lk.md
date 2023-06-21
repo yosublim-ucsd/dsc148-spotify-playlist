@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Johnny Marsiglia in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,142 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Città di vetro](https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [Lo Spirito Che Suona](https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS) | 4:29 |
 | 100 | [Aspettando Il Sole \- Remastered](https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa \(Remastered\)](https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2) | 5:11 |
 
-Snapshot ID: `MCxlMTU4NGU3MjQ1MjZlMTU5NTM4MGY4ZTIzZmNkOTMyZTQwYmEzM2Zk`
+Snapshot ID: `MCw1YWRmOTI3YjhhMWRlNTVlODI2ZWUzNjQzMDBiMmJkNmNmOGY1NTVi`

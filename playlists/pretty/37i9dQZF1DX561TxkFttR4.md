@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,823 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,868 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [Satisfaction](https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Satisfaction](https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6) | 2:09 |
 | 80 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 |
 
-Snapshot ID: `MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk`
+Snapshot ID: `MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm`

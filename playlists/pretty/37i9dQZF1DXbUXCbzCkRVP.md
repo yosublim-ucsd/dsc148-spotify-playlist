@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,022 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,098 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X) | 3:13 |
 | 80 | [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 |
 
-Snapshot ID: `MCwyNTcwYmMwNDZjMzE3ZmE1M2I0ZDUyODdmZjIyY2Y2YjViNGUzYjUy`
+Snapshot ID: `MCw4ZjlmOTc0NzU0MjNlMTFjMTU4ZThmMDAxZWRmNzc3YWFlM2YzYjMx`

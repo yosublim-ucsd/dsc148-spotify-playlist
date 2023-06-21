@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Knust
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,769 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,830 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pq o amor ficou clichê? :/](https://open.spotify.com/track/3YpesUaedZznJ0aUXKt7CV) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pq o amor ficou clichê? :/](https://open.spotify.com/album/6MAA0e8WpVIEzDNXAxLRSz) | 2:01 |
 | 2 | [Pensei em Você](https://open.spotify.com/track/1flfghdqmy0WnWsiLyKLRl) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Pensei em Você](https://open.spotify.com/album/1qcAtpYdj3k542lo5n0V9M) | 2:00 |
-| 3 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
+| 3 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
 | 4 | [Poesia Acústica 13](https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Poesia Acústica 13](https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry) | 10:28 |
 | 5 | [FRASES E FASES](https://open.spotify.com/track/5Ys2IHGK5S07i1MXpizbYn) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [FRASES E FASES](https://open.spotify.com/album/03PvqDcf6tUWXhx6JKEX5l) | 2:06 |
 | 6 | [Se For Pra Ser](https://open.spotify.com/track/5j2GLJa9u24f31c8Hn1lbq) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Se For Pra Ser](https://open.spotify.com/album/6B4BFkJ3g99kotk6jGmPlN) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Algumas frases](https://open.spotify.com/track/08zbjBLRtTe5cSEJKDxiO5) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Algumas frases](https://open.spotify.com/album/3VZcWuRtvlvQeWjcwyChSm) | 3:21 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MCxiZDg3YTc2YjU4NGZmNGY0Y2IzZmI1NTk2NzkwZWRmYWEwMzY2MWRh`
+Snapshot ID: `MCxkODIwY2EwMmJlODMyM2QyMjg4NzEzNzg2M2U0ZjVlOGRjNTAyMGEz`

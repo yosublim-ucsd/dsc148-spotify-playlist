@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: J Hus, Drake 🇬🇧 🇨🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,647 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,705 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 100 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 
-Snapshot ID: `MCxlOTkzMTZmZWUzOWE5ZDZlMDRhNGVlYjFkMTdiNTcxMmI4ZTIzYjFm`
+Snapshot ID: `MCxlODY5ZTNlNDE3OGNmYTc3MTc0M2NlZjc2NDM3YjE5YmMxMjU3YmVl`

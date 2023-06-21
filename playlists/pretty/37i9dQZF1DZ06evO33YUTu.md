@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,348 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,396 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 38 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 |
 | 39 | [Los Besos \- Versión Piano](https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos \(Versión Piano\)](https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g) | 3:50 |
 | 40 | [Esta Vez](https://open.spotify.com/track/36MMDlQwvVLVH0In2L9P8s) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 1:57 |
-| 41 | [Contigo](https://open.spotify.com/track/7f8FPVZ0frAO4aWtgzGrXr) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/6eaeqYb01HV1kwgA0GSiS6) | 2:50 |
-| 42 | [Lokita](https://open.spotify.com/track/6FLuiqBet9aqtsipah7g4T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:06 |
+| 41 | [Lokita](https://open.spotify.com/track/6FLuiqBet9aqtsipah7g4T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:06 |
+| 42 | [Contigo](https://open.spotify.com/track/7f8FPVZ0frAO4aWtgzGrXr) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/6eaeqYb01HV1kwgA0GSiS6) | 2:50 |
 | 43 | [No Te Equivoques](https://open.spotify.com/track/4JXN8t3V1vdl75IczGJcpK) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [No Te Equivoques](https://open.spotify.com/album/5tGZBD6za4M23dbQbLExY0) | 3:34 |
 | 44 | [Brindemos](https://open.spotify.com/track/3JzxVjdPHJTaqLx2Usc1EY) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Brindemos](https://open.spotify.com/album/109eecGsDwd2Mz5QGy7m95) | 3:08 |
 | 45 | [Ganas](https://open.spotify.com/track/1aryOmpoGVqiZm7GwPWiqY) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ganas](https://open.spotify.com/album/3O383fCaaKgZuKQhWy3KVC) | 3:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 48 | [Despierta](https://open.spotify.com/track/2g3ktWJ3T0gTyj6UkNKGho) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Despierta](https://open.spotify.com/album/6MegrXexsY8lv0nzzpIcTh) | 3:09 |
 | 49 | [Ela É Hit \- Ao Vivo](https://open.spotify.com/track/5YAvFOhGCLSE7MkWonlMX3) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [SIM \(Deluxe\) \(ao Vivo\)](https://open.spotify.com/album/66zKNTVsVlOHWW0Cq8uNf3) | 2:52 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDAyZGQ0MGE2Y2M0ZTQyOWIyODBmYTdkNzI0OTM4ZmFjOQ==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBiOGFkZmZmNmYyMTQ3MTM5YzUyZmU3NzMxZjYwYTE5YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,290,178 likes - 150 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,291,306 likes - 150 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 |
 | 150 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 
-Snapshot ID: `MCwyMjE3NTQwZTlhMjc0MTYwNjQwYjkyZTBkYzRjNGYxYjgyMjg3MGU1`
+Snapshot ID: `MCw1NmY2NGI2NzI0MTkyODY2MTkyMThhYjAwNDg0ZGVlZDg5OWM5MGU1`

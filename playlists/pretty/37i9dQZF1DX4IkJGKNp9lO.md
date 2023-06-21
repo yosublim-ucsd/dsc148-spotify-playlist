@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,752 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,761 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 |
 | 65 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 |
 
-Snapshot ID: `MCwwMzViYmYwNTM1NjNhZTVkMjM3ZmVhNjJiOTU4MDQ1ZWI5OThkNTBk`
+Snapshot ID: `MCw1NmQ1NzkxMTU4ZjFjOTE2M2RjZTZlZWE5OWJmMDc2NzhiMDU1NjY4`

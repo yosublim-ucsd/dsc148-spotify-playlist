@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,002 likes - 150 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,991 likes - 150 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [All Things New](https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 4:52 |
 | 150 | [The Answer](https://open.spotify.com/track/3oQdYW98bDqwzdlIqDeHvh) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Answer](https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM) | 3:08 |
 
-Snapshot ID: `MCxmZDZlODY4ZTkxODAzOWRlNmJiOGFiZGIzZjYwYzQ1MmYwMzlhZjhh`
+Snapshot ID: `MCxhMzQ4NWMwNDQ4YzNkMzcwMTg2ZmY5NWQzYzlmMDk2N2MyMjZmNGIy`

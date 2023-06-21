@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,530 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,963 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
 | 100 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 |
 
-Snapshot ID: `MCxhY2YwN2Q4YjdkOTljMTAyNTgzNmZhNjdmNTQ4N2FlMGEzYTg1NzNj`
+Snapshot ID: `MCxkM2M5MzgxZjMyMDk1YzA2ODI4MWMyM2QyOTdmM2I5ZTFiOTY1Y2Zj`

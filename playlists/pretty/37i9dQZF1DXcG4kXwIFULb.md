@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,916 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,045 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 |
 | 100 | [Before Today \- 2015 Remaster](https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 4:17 |
 
-Snapshot ID: `MCxlNTg3YjM2Yjc4ZmJjMTE4MGZjMDFkZDBkZjdhZWNkODEwNzE2YjZk`
+Snapshot ID: `MCxhNzkxMWE0NDg3ZWNiMzI2MDY3NzM5OGE3YzE5ZmU0MDRjMTdjM2Uw`

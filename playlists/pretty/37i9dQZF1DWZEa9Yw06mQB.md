@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 
 > Los clásicos de hoy y siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,546 likes - 150 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,794 likes - 150 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 | 149 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 150 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 
-Snapshot ID: `MCw3MTJjYTYzZGM1YjI2YzRhOGEwMWQ3ZmZlYWQ5MDJhYjA0MTkwM2Jh`
+Snapshot ID: `MCxkM2NiMTJmYjczMDNhOTY3Y2U0YTlhODc3MjRmN2ZmZWZlYTEwZTY1`

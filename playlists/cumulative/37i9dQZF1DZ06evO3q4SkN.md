@@ -4,7 +4,7 @@
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-52 songs - 1 hr 19 min
+53 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Castleland Adventure](https://open.spotify.com/track/0ZDGnFayzMpiKryD0I7VOw) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:25 | 2023-06-15 | 2023-06-17 |
 | [Coronation Preparation](https://open.spotify.com/track/1TokrhVLMqY6qbL0zkdPx2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:43 | 2023-05-05 | 2023-06-11 |
 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 | 2023-05-07 |  |
-| [Dan and Sammy](https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 0:44 | 2023-05-05 | 2023-06-05 |
+| [Dan and Sammy](https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 0:44 | 2023-05-05 |  |
 | [Dora the Explorer Theme Song](https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:39 | 2023-05-05 |  |
 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 | 2023-05-07 |  |
 | [El Río](https://open.spotify.com/track/6NU17xd9hC8JZCcYc2cTE8) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 1:27 | 2023-05-05 |  |
@@ -52,6 +52,7 @@
 | [Royal Car](https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:31 | 2023-05-05 | 2023-06-14 |
 | [Royal Jet](https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:06 | 2023-05-22 | 2023-06-13 |
 | [Simiana Derby Race](https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:26 | 2023-05-05 | 2023-06-19 |
+| [Summer Passes Into Autumn](https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:01 | 2023-06-20 |  |
 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 | 2023-05-05 |  |
 | [The Landscape Medley](https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:59 | 2023-05-05 | 2023-06-20 |
 | [The Legend of Parapata](https://open.spotify.com/track/569vYZTpACpMVlirXmfo4U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 0:55 | 2023-05-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,889 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,909 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 |
 | 75 | [Wystarczę ja](https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [1984](https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga) | 3:25 |
 
-Snapshot ID: `MCwzZDc2YTRiNDBmZDcxNmRlZDkwMGY4NWU5NGQ4N2VmZGI4OTA1MmM3`
+Snapshot ID: `MCw4MmQ0N2YwZTMxYjlmNDhkYjE3ZDdkNGQ0MWU1OWFhZDNlZGE5ZjNl`

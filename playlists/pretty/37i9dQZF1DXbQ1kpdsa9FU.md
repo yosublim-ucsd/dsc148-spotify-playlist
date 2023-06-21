@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,998 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,119 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
 | 100 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 
-Snapshot ID: `MCxiNTMwNmNkMDM1NzBmYmVmNTgwMGM4NDJlZWY5NGZiYjNkMjNkODk0`
+Snapshot ID: `MCw1Y2RmNGRiYzRmYmY2YmNlZTBjYmE3N2FhMTNkM2ViZmI3NWJhNjky`

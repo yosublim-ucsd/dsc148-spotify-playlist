@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 
 > Chilled songs that you are familiar with \- no surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,470 likes - 200 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,858,258 likes - 200 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 | 199 | [Back to You \(feat\. Bebe Rexha & Digital Farm Animals\)](https://open.spotify.com/track/7F9vK8hNFMml4GtHsaXui6) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Back to You \(feat\. Bebe Rexha & Digital Farm Animals\)](https://open.spotify.com/album/4sBgGazGb7S9ZUQJu2Y0qa) | 3:10 |
 | 200 | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT) | 2:29 |
 
-Snapshot ID: `MCxmMGEyMThjOTdmZGJiMTY2OTlmY2IzNmNiNDI0NzAzNmI4NDkyNTU1`
+Snapshot ID: `MCw4NmNmYWU2MzAwNWUwNzY2ZWZlMmZhMzkzNTg3ODZkODYzNDRkM2Yy`

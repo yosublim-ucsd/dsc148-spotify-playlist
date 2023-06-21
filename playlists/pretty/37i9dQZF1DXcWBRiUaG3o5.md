@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,723 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,702 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 100 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 |
 
-Snapshot ID: `MCwwMjA5ZDliMDMyOGE0NmIyZjUzMDE4OWI1ZjlmYjBmZjBkODQ4YWZj`
+Snapshot ID: `MCw0YmNjYjdjYjg0ZjBjNmNiMGU1Mjg5YmI4NThlYzcxMWViMDVhYzkw`

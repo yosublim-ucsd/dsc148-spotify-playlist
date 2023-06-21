@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,703 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,754 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 |
 | 100 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 |
 
-Snapshot ID: `MCxiN2MyYWRjOTc2NWEzNmI1MzlkMTA3NTQ3Y2E1MjFjNGI0MWJmMzg1`
+Snapshot ID: `MCwxZGM4NTFhZDFkN2M1N2I1YmM2NWM0ZmQ2OTI3YmIzZjIxN2M5YjQ5`

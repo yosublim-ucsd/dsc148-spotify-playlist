@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: FELP, Hubert Lenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY) | 2:31 |
 | 75 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 |
 
-Snapshot ID: `MCwyYWJhMWRiY2I2M2VjMjE2ZDg3MWJlYzMzM2E3MDAxZDFlN2IwZjRj`
+Snapshot ID: `MCxmMTVhODE5OWYyNzhmYjkzNGIyMjAzNjkxYzkxOTZmMDVkZjA1Njg1`

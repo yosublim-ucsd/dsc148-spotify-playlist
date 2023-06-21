@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savag, Vegas Jones e e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savage, Vegas Jones e e molti altri.
 
 1,941 songs - 3 day 16 hr 31 min
 
@@ -1851,7 +1851,7 @@
 | [vent'anni](https://open.spotify.com/track/21LJmVgPdDwU8XZROPOfgo) | [LB Prada](https://open.spotify.com/artist/6iintLqFyDnREB4gTwQnrH) | [Cuore Metropolitano EP](https://open.spotify.com/album/7MlgvBUno9cSQZfrfQ6W5e) | 2:50 | 2023-02-16 | 2023-03-03 |
 | [Venticinquesimo piano](https://open.spotify.com/track/5DlgjkIUojjo1fzCcwsgEL) | [Sailas](https://open.spotify.com/artist/4t8cHQudZ30teudqXp4IQw), [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Venticinquesimo piano](https://open.spotify.com/album/6HLXfMVh3ugt39JgmFeXsg) | 3:34 | 2022-09-15 | 2022-09-23 |
 | [verdeacqua](https://open.spotify.com/track/6kY4EZVQTRCgX09GtRRBFl) | [Trill Ventuno](https://open.spotify.com/artist/1V1WPbJFdq3YTDIQ9iVj7l) | [verdeacqua](https://open.spotify.com/album/7bKLBgPEAkaLz7FK1QmGrz) | 2:24 | 2022-06-23 | 2022-07-01 |
-| [Vero \(feat\. 8blevrai\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 | 2023-06-01 |  |
+| [Vero \(feat\. 8blevrai & Swan\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 | 2023-06-01 |  |
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-05-18 | 2023-06-09 |
 | [Via Cavour](https://open.spotify.com/track/3ofRpU9zQX1kvfVsla3EkP) | [ANAS](https://open.spotify.com/artist/2Wjr2OuTFP5mSe8PKkbZXQ) | [Via Cavour](https://open.spotify.com/album/3phLRruYMHlFKsqyPKFadH) | 2:46 | 2022-09-08 | 2022-09-23 |
 | [Via Panisperna](https://open.spotify.com/track/7GO9AnxASX3i4NtU6EAr6o) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Via Panisperna](https://open.spotify.com/album/3pUpMYRb8cU112ikdkLR3A) | 2:32 | 2022-11-04 | 2022-11-11 |

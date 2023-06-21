@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,061 likes - 200 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,154 likes - 200 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [The Thrill is Gone \- Unplugged](https://open.spotify.com/track/0PWF5mmUbzOp9A2u51c7HA) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Anton Forsberg](https://open.spotify.com/artist/0e4t8iTZskOYkqOKBtPkw0), [Erik Elvkull](https://open.spotify.com/artist/3bsBded54svm997jww5znD) | [The Thrill is Gone \(Unplugged\)](https://open.spotify.com/album/0uOcT2YRlzcKMG1oQwfnXt) | 4:05 |
 | 200 | [Day Dream](https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Day Dream](https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2) | 5:21 |
 
-Snapshot ID: `MCwwMDgwY2FlM2FlMmEyMzkxYmNhY2RkZmY2YWE5NzcwMWQ5M2ZmMGM4`
+Snapshot ID: `MCxjMTMzODhiMWVlYjRmNWUzZTBmODRiMzdkNjUwYjIzZGQ0MjA2NmIx`

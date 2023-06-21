@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades do pop que estão explodindo no Spotify\. ✨ Foto: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,016 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,022 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 66 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 |
 | 67 | [Hope](https://open.spotify.com/track/1fB1m65t28LjFyvEJpBIIf) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:29 |
 
-Snapshot ID: `MCw2OWExNjBmMGJkNWNhYzA4Y2U5YmE0NmQ0MTEzZjJlYWEzYWVjYjZl`
+Snapshot ID: `MCxlNTUxZjNjMTdkNDJkMzFiMGVkNGYxODFhM2JkMDY2YjI3MDdjZTBi`

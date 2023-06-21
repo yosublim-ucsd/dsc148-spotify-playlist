@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,113 likes - 60 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,213 likes - 60 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 49 | [Summer Afternoon Birds](https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ) | [Jungleur](https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna) | [Summer Afternoon Birds](https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm) | 2:20 |
 | 50 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 |
 | 51 | [Surrounded by Nature](https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 1:52 |
-| 52 | [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 |
-| 53 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 |
-| 54 | [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 |
-| 55 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
-| 56 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 |
-| 57 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
+| 52 | [My Forest](https://open.spotify.com/track/5CpOvsRAL1bGrQJkh6BhKp) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:37 |
+| 53 | [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 |
+| 54 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 |
+| 55 | [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 |
+| 56 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
+| 57 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 |
 | 58 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
-| 59 | [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 |
-| 60 | [Outdoor Birds](https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4) | [Pájaros De La Mañana](https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa) | [Birds and Nest Noise](https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY) | 2:15 |
+| 59 | [Birds & Stream](https://open.spotify.com/track/6SenwdFqWVglPfDRUJhBSl) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:52 |
+| 60 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
 
-Snapshot ID: `MCxlMTNmN2IwZDYzZDQ1OTdlMzlhNDQwNzVkMmVjZmFhOWIxYzcxOTBm`
+Snapshot ID: `MCxkZWQ4MTU1YTMzYjRiMTMzMDVkMzUyMTYzOWI3YjdkYzRhMWE2YWRi`

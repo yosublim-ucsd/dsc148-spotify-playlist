@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Amindi
 
-2,056 songs - 4 day 19 hr 31 min
+2,057 songs - 4 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-03-10 | 2023-06-17 |
 | [Astrology Poisoning](https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:39 | 2023-04-28 |  |
 | [Atomic Vomit](https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2020-12-04 | 2021-04-24 |
+| [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-20 |  |
 | [ATTUNE](https://open.spotify.com/track/7hTAFlvvKIJRXC9QpfESt5) | [J\-E\-T\-S](https://open.spotify.com/artist/3pOnPfJ9MReuu20YnLFRej), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [ATTUNE](https://open.spotify.com/album/7aTvdJu6rC4oSILwWTpUUL) | 3:34 | 2019-11-07 | 2020-02-07 |
 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 | 2019-07-30\* | 2019-08-09 |
 | [Automatic](https://open.spotify.com/track/2oR8bDhXa7FXTlrDT3QpI5) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Automatic](https://open.spotify.com/album/5w0CWV95NIvwbGFkMF2wzi) | 3:04 | 2019-10-03 | 2020-06-29 |

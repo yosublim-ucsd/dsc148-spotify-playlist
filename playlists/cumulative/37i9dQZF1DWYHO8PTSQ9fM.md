@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : DYSTINCT
 
-189 songs - 10 hr 23 min
+190 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-13 |  |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-31 | 2023-01-10 |
 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-06-01 |  |
-| [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-06-10 |  |
+| [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-06-10 | 2023-06-21 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-05-12 | 2022-05-31 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 | 2023-02-23 |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-24 | 2022-10-27 |
@@ -97,6 +97,7 @@
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-26 | 2022-08-21 |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [Khalini](https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:02 | 2022-08-16 | 2022-12-10 |
+| [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 | 2023-06-20 |  |
 | [KIFKIF](https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp) | [Ali S Music](https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m), [PROFIT ZA3IM](https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z) | [KIFKIF](https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt) | 3:44 | 2022-07-18 | 2022-07-24 |
 | [KIFKIF \- Remixed by Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-23 | 2023-05-06 |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-17 | 2023-01-27 |

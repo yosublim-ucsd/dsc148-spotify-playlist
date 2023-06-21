@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 266983,
+  "num_followers": 267075,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTYxZjlkNTllOGFiYTMxNTIzZTFkN2Q4NDI3NmZlMjgwZWRhOGZi",
+  "snapshot_id": "MCw3YjlmODFlOTU1NmNiMDk0YjBkOTMzZGMzOTc0OGEyNjkwM2I3MDll",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -87,22 +87,6 @@
       "duration_ms": 267491,
       "name": "flutter",
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
-    },
-    {
-      "added_at": "2023-03-17 13:08:31",
-      "album": {
-        "name": "Make Way",
-        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
@@ -231,38 +231,6 @@
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
-    },
-    {
-      "added_at": "2023-03-17 13:08:31",
-      "album": {
-        "name": "Nurse!",
-        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 228268,
-      "name": "Nurse!",
-      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
       "added_at": "2023-03-17 13:08:31",
@@ -331,22 +299,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "One Rizla",
-      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
@@ -359,6 +311,38 @@
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+    },
+    {
+      "added_at": "2023-06-20 22:28:34",
+      "album": {
+        "name": "All Gas No Brakes",
+        "url": "https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "duration_ms": 247350,
+      "name": "All Gas No Brakes",
+      "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "One Rizla",
+      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -425,6 +409,22 @@
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
+      "added_at": "2023-06-20 22:28:34",
+      "album": {
+        "name": "Slab",
+        "url": "https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 108880,
+      "name": "Slab",
+      "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+    },
+    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Sun Coming Down",
@@ -439,6 +439,22 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "The Cleaner",
+        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 453211,
+      "name": "The Cleaner",
+      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -461,20 +477,20 @@
       "url": "https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
+      "added_at": "2023-06-20 22:28:34",
       "album": {
-        "name": "The Cleaner",
-        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
+        "name": "Fester",
+        "url": "https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha"
       },
       "artists": [
         {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
         }
       ],
-      "duration_ms": 453211,
-      "name": "The Cleaner",
-      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
+      "duration_ms": 349211,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Stumpwork",
         "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 165440,
       "name": "Kwenchy Kups",
       "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "'Til The Stream Runs Dry",
         "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 260665,
       "name": "St. Paul of the Tarantulas",
       "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -699,6 +715,22 @@
       "duration_ms": 271106,
       "name": "I Don't Belong",
       "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+    },
+    {
+      "added_at": "2023-03-17 13:08:31",
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -829,6 +861,22 @@
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
+      "added_at": "2023-03-17 13:08:31",
+      "album": {
+        "name": "Nurse!",
+        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 228268,
+      "name": "Nurse!",
+      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
+    },
+    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Rhythm Is Our Business (Edit)",
@@ -843,54 +891,6 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Suntan / Damocles",
-        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 299068,
-      "name": "Suntan",
-      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 375626,
-      "name": "Paddling",
-      "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
-      },
-      "artists": [
-        {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
-        }
-      ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     }
   ],
   "unique_name": "Post Punk",

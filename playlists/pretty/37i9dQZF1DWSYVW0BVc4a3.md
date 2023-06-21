@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,025 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,156 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Ethnica](https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4) | [Ethnica](https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT) | 2:54 |
 | 100 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 |
 
-Snapshot ID: `MCw5ZmY4YzM5YWYyOWY5MmNkMjhmZDcwNDIwMWFlNzdjNjE2ZTg3MWVk`
+Snapshot ID: `MCxlZjkxZGM2ZWI2ZjVjYjdjN2Y3MDYxZmQ1MWU4MTQzNGUzYTMxOGI0`

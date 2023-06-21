@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: SNENiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,748 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,792 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 |
 | 100 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
 
-Snapshot ID: `MCw2NzhkYWZhNDJkZDI4ZWFlMWUzODhiY2NlYmNlMWVhOTRiYzQwZmU2`
+Snapshot ID: `MCwyNGFiYzRhZTA5ZjZiOGYxODE3OWVkNWY4MzQ3OTEwZjBiNzRiYWU5`

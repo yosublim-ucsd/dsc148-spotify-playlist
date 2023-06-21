@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Aldniya Ensan (\u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u0646\u0633\u0627\u0646)",
+        "url": "https://open.spotify.com/album/26R0thF36RaW86bcONy7KN"
+      },
+      "artists": [
+        {
+          "name": "Jalal Al Zain",
+          "url": "https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269258,
+      "name": "Aldniya Ensan - \u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u0646\u0633\u0627\u0646",
+      "url": "https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu"
+    },
+    {
+      "album": {
         "name": "Alhob Malik",
         "url": "https://open.spotify.com/album/1isYU8e5FwVDnqgxF1Sx0o"
       },
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 240885,
       "name": "Wayak Wayak",
       "url": "https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC"

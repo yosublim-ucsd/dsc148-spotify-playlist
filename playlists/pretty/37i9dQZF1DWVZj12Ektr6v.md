@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 
 > To the world, this is NCT! We are NCT DREAM!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,156 likes - 68 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,916 likes - 68 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 |
-| 2 | [Beatbox \- English Version](https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \(English Version\)](https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0) | 3:25 |
+| 2 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
 | 3 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 |
-| 4 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
+| 4 | [Beatbox \- English Version](https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \(English Version\)](https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0) | 3:25 |
 | 5 | [Graduation](https://open.spotify.com/track/35ytd9cmG15jXG0RKWC9p4) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:57 |
 | 6 | [Tangerine Love \(Favorite\)](https://open.spotify.com/track/3yRdRil3CldYFNS3eYAf1X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 2:58 |
 | 7 | [Take My Breath](https://open.spotify.com/track/1v4Jh705vsTcn74IMDNa4s) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:00 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 | 67 | [Dream Run](https://open.spotify.com/track/6ByGZGm5Y5VwrQheIUlw1N) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:44 |
 | 68 | [JOY](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [JOY \- SM STATION](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) | 2:58 |
 
-Snapshot ID: `MCw1YTJlZjY1YjI1YjM1ZmU5MTExYmQzYTVlZTgwMDlhMzQ4NDc1OTAx`
+Snapshot ID: `MCw1ZmNiNGJhYWZhNDMzYWJjZjNiM2JmOGNmMzI3NDE3MTkzODNlZjUw`

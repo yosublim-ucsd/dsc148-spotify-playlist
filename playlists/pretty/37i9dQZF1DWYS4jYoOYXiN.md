@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,871 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,894 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
 | 50 | [TP Treat](https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:57 |
 
-Snapshot ID: `MCw3MGEwNjVmNWUzMTY3MjYwZDcxMzk1MmMzYmZkMWQ3OGI3NzFkN2Iz`
+Snapshot ID: `MCw2MzdiMWQ2MDBkZDk0YzNjMjM3ZTBlYTI2MTQ1NzM3YzE5NmM0N2Fk`

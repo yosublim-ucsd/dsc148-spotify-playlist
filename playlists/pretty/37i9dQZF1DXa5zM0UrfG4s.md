@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,643 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,663 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
 | 70 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
 
-Snapshot ID: `MCxlMzJhZGFjZmM3YTQ2NmIxODk2ZjJhNTg1NjZkODdlNDhjNmY3NDkw`
+Snapshot ID: `MCxlNDAwM2U3Zjc3MTFkZDM3NGU3YWFiZmRlZDY5NmFiZmVlZTE4YTdh`

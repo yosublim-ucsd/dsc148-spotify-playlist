@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,947 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,104 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Show Me How You Burlesque \(Burlesque\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/3my8nYpb74vfIPyRPo0zVq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT) | 2:59 |
 | 100 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 |
 
-Snapshot ID: `MCxkYzhjMjllNjQ1MWI3YjRlMWNiNjIwMTU0OGJjYzNiYWY1NzBiODg4`
+Snapshot ID: `MCxhNDE1MGExMTMyYTI4MWExYmU1YjMxNjYwZDg4MWNiZWM1OTJhMjhj`

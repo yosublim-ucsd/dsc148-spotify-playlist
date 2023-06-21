@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Maple Glider
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,146 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,205 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 |
 | 125 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
 
-Snapshot ID: `MCxmNGY1MTk4N2RlNTk4NGY5Yzg5YmQyYzY2OTE4YjMyN2EzYjdkMDE3`
+Snapshot ID: `MCwwY2E3MGY3ZTNlZjIwOWNkMzA3MDYwZjY1ZjYzNWE2OWNiMDMxMDI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,275 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 |
 | 50 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 |
 
-Snapshot ID: `MCxjMzA1NjcxNmI5N2Y2YWEwNjU3YTlkNGY2OWU4ODhkZDAzMTBjOTRj`
+Snapshot ID: `MCxmM2QyYjZjZDhkN2QxY2JiMTFiMWU1OWUyN2E0YzVhYjZjOTA5MTBh`

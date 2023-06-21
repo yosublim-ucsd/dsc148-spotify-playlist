@@ -17175,6 +17175,24 @@
     },
     {
       "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav"
+    },
+    {
+      "album": {
         "name": "OVER EVERYTHING",
         "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
       },
@@ -23710,7 +23728,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -25526,7 +25544,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"

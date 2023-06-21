@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 71 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
 | 72 | [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 |
 | 73 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
-| 74 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
-| 75 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
+| 74 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
+| 75 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 76 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
 | 77 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
 | 78 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 122 | [Lie To You](https://open.spotify.com/track/6HaNzxy9GLROCBl5aUjoKj) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Endless Summer](https://open.spotify.com/album/5z68JxvmwZISUCDN9g9iEZ) | 3:41 |
 | 123 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 
-Snapshot ID: `MjgxMjA0NjAsMDAwMDAwMDA4NjBhYjE0YjI0YTEzZTNmMzM4ZTZjNThjMzUwNDIxMQ==`
+Snapshot ID: `MjgxMjE4OTAsMDAwMDAwMDBhYmE3YzIzOWU1YmY4NjVmMDliNTk4NTI4YmI1NGI3Yg==`

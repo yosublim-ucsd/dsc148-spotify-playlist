@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,408 likes - 150 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,397 likes - 150 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 |
 | 150 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 |
 
-Snapshot ID: `MCxmN2U4NjQxOWNjYzc0NjU1MTQ5NDFlN2Q5YjM2NzAyNzE1ZjA0OTI0`
+Snapshot ID: `MCw2NzFmMzYwZjhiNjcwYzAzZDdkMTAzYzlhNWRjYzY1YjcyNmMwMzNk`

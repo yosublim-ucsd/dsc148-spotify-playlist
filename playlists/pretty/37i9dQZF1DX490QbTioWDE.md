@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Alan Gomez & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,728 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,853 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 | 100 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
 
-Snapshot ID: `MCwyYjdiMzJmMWRlMWU0NmUzZDNlNjBiNWM4M2JiNDVkMzRjZmM4NTQw`
+Snapshot ID: `MCw5N2E4ZTMxNTBlNDg4MjZkY2QwY2U3ZmZlMGVmYjcxN2FjOGRmZDkx`

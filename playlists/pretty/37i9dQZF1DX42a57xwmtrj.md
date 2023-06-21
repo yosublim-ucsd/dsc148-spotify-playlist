@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,803 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,907 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [No Pinches Mames](https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 3:19 |
 | 75 | [Me Gusta Tu Chava](https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0) | [Mara](https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA) | [Para Coleccionistas, Vol\. 1](https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf) | 3:22 |
 
-Snapshot ID: `MCxmYjZjZjFiNmIxNjFjODczMjA4YWM3YTQ5ODY0NTMyYmY2ODI0NmQ4`
+Snapshot ID: `MCxkMzAwZDZiYzY2MTUzMzIyMmNkMjBjNDI1ZmYyNDcwZDRkZDA5ZjQ0`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,097 songs - 2 day 12 hr 32 min
+1,098 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [JMI](https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [JMI](https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W) | 3:37 | 2023-05-09 | 2023-06-04 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-02 |
 | [Jouj Syouf](https://open.spotify.com/track/1JVo9oHmBJWOoGMYN49F3r) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 3:02 | 2021-04-13 | 2021-04-15 |
-| [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-08-04 |  |
+| [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-08-04 | 2023-06-21 |
 | [JRO7I](https://open.spotify.com/track/5m6IaPwlDqq7e38EjUy6l9) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/4016XS8hPCRXKGRaOPqgIm) | 3:12 | 2023-04-11 | 2023-04-14 |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-08 | 2022-10-15 |
 | [Jump](https://open.spotify.com/track/39emdsWDNJGcJdgCNpbWO4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/3fxTcARqBOsh0E7VzNNDQu) | 3:57 | 2021-11-08 | 2021-11-09 |
@@ -544,6 +544,7 @@
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2021-03-27\* | 2021-08-07 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-13 |
 | [Lalla ou mali](https://open.spotify.com/track/6UtKKdLfQr7qPyBrnVpjWH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:29 | 2022-11-04 | 2022-12-03 |
+| [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 | 2023-06-20 |  |
 | [Lawal \(3reft Trap\)](https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:44 | 2022-10-22 | 2022-11-21 |
 | [Layli](https://open.spotify.com/track/0NEzzI7b58J8FVIk80VNgh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:18 | 2021-08-01 | 2022-05-05 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2021-10-03 | 2023-04-01 |

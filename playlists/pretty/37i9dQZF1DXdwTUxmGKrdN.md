@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,201 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,297 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 |
 | 150 | [Soleh](https://open.spotify.com/track/56YE4O9RrVQa1JNy0ytneB) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [usj2p0800041](https://open.spotify.com/artist/0T0SSwN3JVvR8embQTIamo), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:43 |
 
-Snapshot ID: `MCw4YTIzZDEyMTFlMGQzZDgxOGE2ZWY5MTZmZmExM2M2OWFlYzVkMDA4`
+Snapshot ID: `MCw4NTQ3YTFiODNmMmVmNTA4NzI3NWE2Y2M4ZTBhOTc3NzFlMDAyZjlk`

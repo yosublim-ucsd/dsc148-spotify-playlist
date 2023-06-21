@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Ton Carfi, 2metro, Big Asher, LEVII MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,282 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,473 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 80 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 
-Snapshot ID: `MCxiYTlkMWZkN2UxMzQ3YzhhNWRjMThjMTQ2Mjc4NWU5YmVlNTQwOTcw`
+Snapshot ID: `MCw1ZTg0OThhNDE4MzliNjEzZGM2ZTJlOGRjY2ZkZjY3MjJmNzc3NmJj`

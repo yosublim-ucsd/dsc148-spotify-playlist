@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-80 songs - 4 hr 31 min
+82 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Nanu](https://open.spotify.com/track/5dlLD5HYnlm2z4aSu5CrKg) | [Mena Melath](https://open.spotify.com/artist/1M9wL2S5buZRWM82VDrD8B) | [Nanu](https://open.spotify.com/album/2QTj3mNVW7Ffr53FQl8k6A) | 3:23 | 2023-05-15 |  |
 | [Nee Dhaan Parisae \(From "Woh Kaun Thi"\)](https://open.spotify.com/track/1pWZsoNmKQSyV9fMcX5Dc4) | [Vikaas Vishwakarma](https://open.spotify.com/artist/3MusGpFITCdtSHEeugBc6e), [Jasraj Singh](https://open.spotify.com/artist/6qLuvyiWpMekEUpSwLUtlh), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Raja Mehdi Ali Khan](https://open.spotify.com/artist/79A5doSmeSIdsm48RvSOcz), [Madhu Malaranban](https://open.spotify.com/artist/0cI1PkzZd4Ds4HLc2hXR19), [Dilann](https://open.spotify.com/artist/5QjykSLxNEX80EIlFZFeCR) | [Nee Dhaan Parisae \(From "Woh Kaun Thi"\) \- Single](https://open.spotify.com/album/4zpOiUaT8VbpnBaWDHelSE) | 3:46 | 2023-05-16 |  |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2023-03-21 |  |
+| [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 | 2023-06-20 |  |
 | [O Kanmani](https://open.spotify.com/track/68qULgdwekQsDH181V4BQ2) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [O Kanmani](https://open.spotify.com/album/7dahgiOiHqfqjTkvfuCTgW) | 2:19 | 2023-06-19 |  |
 | [Office Anthem](https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL) | [Dev Prakash](https://open.spotify.com/artist/45Ejr1KMTb7ofrNht7HWXZ) | [Office Anthem](https://open.spotify.com/album/7GcIIQ77lcWenxnuxYsOiz) | 4:13 | 2023-05-26 |  |
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 |  |
@@ -72,6 +73,7 @@
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-05-31 |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 |  |
 | [Rawberry](https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Rawberry](https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1) | 2:48 | 2023-04-24 |  |
+| [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-20 |  |
 | [Rowdy Ponnu](https://open.spotify.com/track/2joKMaye4sULpsCJuWZf3y) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK) | [Rowdy Ponnu](https://open.spotify.com/album/58UMFmyJVJNino9P24WRND) | 3:44 | 2023-04-10 |  |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 |  |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,300 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,007 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 |
 | 150 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 
-Snapshot ID: `MCw2YTQ5N2QyZTk4ZWJjOWVkNWE5OGEwNmYwOTU3ZTUyMjc3OWM3NGQ0`
+Snapshot ID: `MCw3ZWM5OGQxNzM3NDZlNWVlZmU3MTMyZmU4M2E5NGQwZDI3ZWEwOTgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 
 > Dance hits to soundtrack your life
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,103 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,111 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 | 79 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 |
 | 80 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 |
 
-Snapshot ID: `MCwxZDY5ODQ3ODIzMGM4MjUxZDljYjViNjI1Y2ZlM2YyODc3ZWE4NDMw`
+Snapshot ID: `MCw1OWYyYzJjNTZhMTg1NTUzMjI4NjM0YTY2MWM1ZTNhMmE4NmYxNjVh`

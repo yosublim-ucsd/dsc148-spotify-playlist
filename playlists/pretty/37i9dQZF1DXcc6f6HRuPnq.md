@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,426 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,613 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCwyZTE0NTY0NzdlZTk5YTllYjA2NDQxYTBmMWFiNzM5MmE1YzM4N2Ez`
+Snapshot ID: `MCxmODhiY2FlYTMwNmIzMjQ3NThhZmRjNjJlMzBhNjcxMmMwMjkwN2Ey`

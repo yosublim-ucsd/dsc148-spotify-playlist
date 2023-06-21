@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,301 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 49 | [California Love \- Original Version](https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd) | 4:45 |
 | 50 | [MASSAGING ME](https://open.spotify.com/track/2tzgSUZOUKopYbRqQOVT8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 1:46 |
 
-Snapshot ID: `MCw1NjIwOTA1NTQ0YWI2OTg1ZWQyYTlkMmQwMjYwZTM3ZDQ3Mjk5OGVk`
+Snapshot ID: `MCw4NGZlMDFkNWQwZTAzNjRhZjIzZjBhMzVmZjhmOGNiMjhjMTlmZmNh`

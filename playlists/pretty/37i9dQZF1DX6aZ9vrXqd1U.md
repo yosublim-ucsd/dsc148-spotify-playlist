@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,282 likes - 127 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,341 likes - 127 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 39 | [Life Goes On](https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ) | 4:02 |
 | 40 | [儚くも永久のカナシ](https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 4:08 |
 | 41 | [narrative](https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:20 |
-| 42 | [Resolve](https://open.spotify.com/track/644M4CDzq23hv5gSspq6bX) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P フィーバー機動戦士ガンダム 逆襲のシャア](https://open.spotify.com/album/2Sic1dlGXEDPPYhAm2qP7E) | 4:13 |
+| 42 | [Resolve](https://open.spotify.com/track/5O2otbxcXlfcgoxaD0fkdy) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P FEVER MOBILE SUIT GUNDAM:Char's Counterattack](https://open.spotify.com/album/164Hv4pjvOyPE7KoYmT5XU) | 4:13 |
 | 43 | [Prototype](https://open.spotify.com/track/3QAsiWZa6JQ1Vh4sCBlvcx) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/5F1nPVlPoUxlANLGQRcDid) | 5:44 |
 | 44 | [夜明けのShooting Star](https://open.spotify.com/track/14M2PHwzDaKocGozilYUKI) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [WHATEVER](https://open.spotify.com/album/3sRJVKtEFdGWQtagF9FFq0) | 4:52 |
 | 45 | [BACK TO PARADISE](https://open.spotify.com/track/3pC3Jsx8zFCiRDMmOyuRuW) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [BACK TO PARADISE](https://open.spotify.com/album/5fekYQVLo4LirV5M8PdIzT) | 4:24 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 73 | [Black stars](https://open.spotify.com/track/6f8fyWFdT5XF6asMCPfkog) | [Sumitada Azumano](https://open.spotify.com/artist/1wpB29iz5G3iFDyk4xNZiU) | [Black stars](https://open.spotify.com/album/1FNFSivA9BhWTF0GzvTrB6) | 4:31 |
 | 74 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 |
 | 75 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
-| 76 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 |
+| 76 | [Core](https://open.spotify.com/track/0MITczUCwALiMtuRdYeUAz) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/2XJXjtxjFCUJFynQbIaII6) | 4:43 |
 | 77 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 |
 | 78 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 |
 | 79 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCwxOWRlM2E0OGM5NGVhMGNhMTcyNDQxOTdmYzNlNzI5YTI4MWFhZTAy`
+Snapshot ID: `MCxiMTFiMGJkODAwYWFiYTM0ZWI2ZDE0MTY5MjJlYzJjN2NlMTFiMzI0`

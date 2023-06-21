@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Aria Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,653 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,638 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 59 | [Hamster](https://open.spotify.com/track/6ENNbWw5drUoXhgcuDqBqh) | [Coy Panda](https://open.spotify.com/artist/0jyKeOg8R6F3VGHh7qWHM8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Hamster](https://open.spotify.com/album/77Q34IlOURpIv3CLxQ78Hi) | 3:41 |
 | 60 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
 
-Snapshot ID: `MCw3YmU5MGQ4OGIzYmQyYzI4N2JkNTBjMTQ2ZGYxNDRjNTIwMTY0NTIw`
+Snapshot ID: `MCw0ZGZhYjMxNGQ2ZWI1NTg0ZmU1Yzg4NjM5OGI2Y2JhYzEwNmRjMzk1`

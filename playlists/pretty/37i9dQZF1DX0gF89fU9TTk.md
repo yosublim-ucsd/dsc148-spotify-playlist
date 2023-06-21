@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,551 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,589 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 7 | [Everything](https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Everything](https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx) | 3:20 |
 | 8 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
 | 9 | [Love Me Like You](https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Love Me Like You](https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he) | 3:03 |
-| 10 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 |
+| 10 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 |
 | 11 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 12 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 13 | [NEVER WALK AWAY](https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [NEVER WALK AWAY](https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 | 75 | [Surely Now](https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Surely Now](https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4) | 4:48 |
 
-Snapshot ID: `MCwyZjgxYTE4Zjg5ZjMxY2EwOGRmMjk3OWU3OGNkNjAzODYzMDM5MGI0`
+Snapshot ID: `MCw0YmNiNDRhZGEzNjQ1OWZiZGRmZjBhYmUwNTNkYTk3ZjllNDE5MDdj`

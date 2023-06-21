@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,239 likes - 80 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,314 likes - 80 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 |
 | 80 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 |
 
-Snapshot ID: `MCxmYjNlMzc0NTg4YjJhZmUzYjI0MDZkZjhiN2JlMzAxYWVmNjBkZTA5`
+Snapshot ID: `MCxlNTk0MmE1ZDNhZTE4MWY3NzA5Zjg1Yzk2NmVhNTJiZjdiYWUxMmRh`

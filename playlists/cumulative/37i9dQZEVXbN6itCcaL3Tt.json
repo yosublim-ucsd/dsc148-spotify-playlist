@@ -442,10 +442,6 @@
           "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
         },
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/25s2Sk6d3WP7G0ByfPTZRU"
-        },
-        {
           "name": "Wygu\u015b",
           "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
         },
@@ -458,8 +454,20 @@
           "url": "https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro"
         },
         {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/25s2Sk6d3WP7G0ByfPTZRU"
+        },
+        {
           "name": "Pedro",
           "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "wxrrior",
+          "url": "https://open.spotify.com/artist/0FSxeJLcijNvwkHuNcmMpl"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
         }
       ],
       "date_added": "2023-06-04",
@@ -5590,7 +5598,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -6546,7 +6554,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "dres",
       "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
@@ -7700,7 +7708,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 179555,
       "name": "Fatamorgana",
       "url": "https://open.spotify.com/track/35XEhELJFZ1wEN1a444t9t"
@@ -9350,6 +9358,10 @@
           "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
         },
         {
+          "name": "TONY2000",
+          "url": "https://open.spotify.com/artist/50DZAA9breZ3OYHSgXd5Yp"
+        },
+        {
           "name": "Kacperczyk",
           "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
         }
@@ -10638,7 +10650,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 136119,
       "name": "Jeep Wrangler",
       "url": "https://open.spotify.com/track/3ctMgo8ydLPRN72zu9ANBv"
@@ -11806,6 +11818,10 @@
         {
           "name": "Flory",
           "url": "https://open.spotify.com/artist/50NXvd1lsK4UMUtekcQoK7"
+        },
+        {
+          "name": "wxrrior",
+          "url": "https://open.spotify.com/artist/0FSxeJLcijNvwkHuNcmMpl"
         }
       ],
       "date_added": "2023-06-11",
@@ -16594,6 +16610,10 @@
         {
           "name": "Beteo",
           "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "Flory",
+          "url": "https://open.spotify.com/artist/50NXvd1lsK4UMUtekcQoK7"
         }
       ],
       "date_added": "2023-06-06",
@@ -17741,6 +17761,28 @@
     },
     {
       "album": {
+        "name": "Papito",
+        "url": "https://open.spotify.com/album/0ACKf50h5DdsDLu5ixfnvT"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123265,
+      "name": "Papito",
+      "url": "https://open.spotify.com/track/1MP4dcd801ywMNnwEPzOQo"
+    },
+    {
+      "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
       },
@@ -18720,7 +18762,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 233425,
       "name": "Pi\u0119kny \u015awiat",
       "url": "https://open.spotify.com/track/3f9Ugg030LDe0p6ospTORC"
@@ -20274,7 +20316,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -23582,7 +23624,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 215453,
       "name": "To co masz Ty!",
       "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326,099 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,326,364 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [The Pusher](https://open.spotify.com/track/0QXxJofIuWHLQafnTzFAwV) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Nico](https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT) | 3:06 |
 | 75 | [Cover Me](https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:45 |
 
-Snapshot ID: `MCwwNzQ1YjAzOTIyNmE2MTkzNDJhNWJlMTgyMmFjNzBiNmRiODdmZjJl`
+Snapshot ID: `MCwyMjBlYmZmZDZlYjY3NTIyYmJhMTlmZDdiMWY4OTY1YjJmZTVlZWM1`

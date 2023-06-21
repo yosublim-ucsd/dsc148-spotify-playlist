@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,872 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,867 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 100 | [Yes He Lives \- Live](https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Yes He Lives](https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0) | 4:45 |
 
-Snapshot ID: `MCxlYzFiYjM0YjVkMjZjNDY3MzlmZDU1MTg3MzcwNjMxZDRhOTU1YjFk`
+Snapshot ID: `MCw3NzdlZjJjNGEwZTNhZmIzM2U4YzhjY2RkMTg4ZTA4NGY3NjY4ZDhj`

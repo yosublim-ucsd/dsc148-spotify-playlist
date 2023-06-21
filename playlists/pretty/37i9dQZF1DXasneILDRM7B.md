@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,960,624 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,961,142 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 100 | [Tell Me I'm A Wreck](https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv) | [Every Avenue](https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4) | [Picture Perfect](https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14) | 3:39 |
 
-Snapshot ID: `MCwwN2YwZTliYzI1ZmYxNTI2NGFiNjhiYmE2ZjAwNzA5MDM4NmNlN2M2`
+Snapshot ID: `MCw5ODJhNTRmYjdjYmI2YjZlMzM1NzUzZTQ4YmM0YTk1MmE2NTllMjlm`

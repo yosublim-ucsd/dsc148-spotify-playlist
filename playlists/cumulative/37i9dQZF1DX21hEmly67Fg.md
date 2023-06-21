@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-177 songs - 10 hr 22 min
+179 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
+| [Ceilings \(arr\. piano\)](https://open.spotify.com/track/4APasGM4QM39lYXiUZVD7A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Ceilings \(arr\. piano\)](https://open.spotify.com/album/25q58qrmESNApR2aVHSc5I) | 2:28 | 2023-06-20 |  |
 | [Cemeteries of London](https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Coldplay's Viva La Vida](https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3) | 3:08 | 2022-11-18 | 2022-11-26 |
 | [Cherry Blossom Girl](https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Beaucoup de VSQ](https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn) | 3:54 | 2022-11-18 | 2022-11-26 |
 | [Circles](https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2019, Vol\. 2](https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB) | 3:32 | 2022-11-18 | 2022-11-26 |
@@ -157,6 +158,7 @@
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
+| [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 | 2023-06-20 |  |
 | [These Days](https://open.spotify.com/track/5yhAp5zikhraHkUJgsUYHN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Music from the Films of Wes Anderson](https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd) | 3:28 | 2022-11-18 | 2022-11-26 |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-25 | 2023-01-24 |
 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-10 |  |

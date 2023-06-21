@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,199 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,255 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
 | 100 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
 
-Snapshot ID: `MCxmOTk5MGFhN2Q3OGNmNTJiMmMzZjU4NDZjZjAwYTIyYTE3Yjg2MDE2`
+Snapshot ID: `MCxlNTU4ZmZlMzBjNzgyMjgxNTgzNTFmZTk5MDhlYzhlMDkwM2QwMTE5`

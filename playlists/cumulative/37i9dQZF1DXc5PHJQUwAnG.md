@@ -2,7 +2,7 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. OPYI en portada.
+> Bienvenidx a la trampa mexa\. Samantha Barrón en portada.
 
 135 songs - 6 hr 24 min
 

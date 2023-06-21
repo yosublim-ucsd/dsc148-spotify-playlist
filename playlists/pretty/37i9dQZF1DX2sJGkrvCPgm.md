@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,712 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,701 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 |
 | 100 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 |
 
-Snapshot ID: `MCxmZTA5MzkxNDZhODI4OTJhNmQxNjQ4ZTk5ZmEzMmQ1ZmE5MWEwN2M3`
+Snapshot ID: `MCxlNzUxOGNjZThiZDdlZWNjYTM1MDNiZjZjODA3MDMyNWViYjQzZjBj`

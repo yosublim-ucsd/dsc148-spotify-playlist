@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,324 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,315 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 100 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 |
 
-Snapshot ID: `MCwxYjdhYjA3MTFkMTAzY2QxZGMzZWRkZmE2OWNlNTQyMGQwYzI1MDBj`
+Snapshot ID: `MCwyMTQ1ZTZjNmI1YWI5MmE3ZjNmOGNkNzViYjNmNzYyOTU5NDQ4NTM3`

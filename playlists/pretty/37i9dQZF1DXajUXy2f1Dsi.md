@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,654 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,658 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Tierra de Temporal](https://open.spotify.com/track/2XMYKQlXW0bQa1IqemPvw3) | [José Pablo Moncayo](https://open.spotify.com/artist/2QoJFCfERDHF3Pz4v1gLKp), [Orquesta Filarmónica de Jalisco](https://open.spotify.com/artist/1taiikB6TFzly29IDQ2dSW), [Guillermo Salvador](https://open.spotify.com/artist/6PABaySTmTH1924odRTiUl) | [Música de Chávez, Márquez, Moncayo, Revueltas y Rolón](https://open.spotify.com/album/4dooDly6LfP58QKnJkBybx) | 13:26 |
 | 100 | [Abertura em Ré](https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX) | [José Maurício Nunes Garcia](https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8), [Vox Brasiliensis](https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB), [Ricardo Kanji](https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk) | [Música Sacra do Brasil](https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr) | 4:32 |
 
-Snapshot ID: `MCw5Yjc0ODEzOWI0OGE0MDA0OGEyZDQzZDVmZDJjYjk3MDFkZWM4OWUy`
+Snapshot ID: `MCw1OGJlNjkzNTBlNGFlZGNkYjg1YWQ2MTkyOTcxMDQxMDM2ZmVmNmUz`

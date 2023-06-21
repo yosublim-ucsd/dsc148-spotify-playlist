@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,386 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,708 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 99 | [Para Que Entre o Rei \- Ao Vivo](https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:38 |
 | 100 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
 
-Snapshot ID: `MCw0NjU4NDZkOTQzM2Q4NzczOWE3MTFlNjZmMjM2MmFiOGQxOGZhZmRj`
+Snapshot ID: `MCw4ZDAyOGZmNmE2OTU1YWIxZGM3Mjc2ZmY3MWI4NzI1MTQ1NDA0YjI4`

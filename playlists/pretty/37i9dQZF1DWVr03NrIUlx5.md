@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,681 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,738 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Eye of the Tiger \(2019 8 Bit Version\)](https://open.spotify.com/track/1VptTXizn639xDw5CsSDMy) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Lit Bits](https://open.spotify.com/album/7K3EZPyJCFqFEKuOGI9Mz0) | 4:03 |
 | 100 | [Paper Planes \(8 Bit Version\)](https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Program the Party](https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O) | 3:24 |
 
-Snapshot ID: `MCxjNWI3MWVhZDk5NTA0NmZjZWRiYzAyMTUyZGExZjA1YmY4YmJhNWM3`
+Snapshot ID: `MCw4NDg3OGNkZjM4Yjk2NTQ0OWRhMTFiYzViMTBmYjFlODUzZjIyZmYz`

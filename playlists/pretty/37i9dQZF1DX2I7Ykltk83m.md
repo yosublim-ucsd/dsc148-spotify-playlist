@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,819 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,936 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 |
 | 125 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
 
-Snapshot ID: `MCwxYWRiZjEwMTlkMmI3ZmY2YjE5NTM1NzRkYjY3NzA3YTBhNDU2MWM5`
+Snapshot ID: `MCwxMDQyZjBlM2E4NjNkYWQ4ZTEwYjQwNDQ2NzI3YTM1OTk1MjNkMzdl`

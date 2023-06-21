@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. meet me @ the altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,924 likes - 83 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,959 likes - 83 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 46 | [This Won't Go Over Well](https://open.spotify.com/track/5orscSJxQSOKAa76mp9xOJ) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [I'm Done](https://open.spotify.com/album/1ekt1n1bweW302dZONnH5R) | 3:24 |
 | 47 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
 | 48 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
-| 49 | [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/track/1vBodoZzpnmQcYgFVILW6Y) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/album/0dxOtwV3kxe5V7G1fUwLTA) | 3:26 |
+| 49 | [IS IT COOL 2 B FRIENDS?](https://open.spotify.com/track/2Io9qBI9Ke9zY0xoxKNoY2) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [CRUSHED!](https://open.spotify.com/album/5DIlFNiikrzx0l70tiJh75) | 3:26 |
 | 50 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
 | 51 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 |
 | 52 | [Airhead](https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Airhead](https://open.spotify.com/album/3FIv6ePul9uNwJ8Qs6iY45) | 2:43 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 82 | [MY HEAD](https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [ARRIVED](https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa) | 2:35 |
 | 83 | [Skeleton](https://open.spotify.com/track/6OBDJYuAucuCcBLhMmf1m9) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Elsewhere](https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD) | 3:23 |
 
-Snapshot ID: `MCw1OTNjOGU4YTYyNWE2Y2Y3ZDBiMGM3ZDdhM2M2MzE2Mjc4MGExMjNh`
+Snapshot ID: `MCxjNGVjNWVhNGIyODgxYWM4ZWQ3MTE0NTQxNzUzZjljNGJiZGU5OWQx`

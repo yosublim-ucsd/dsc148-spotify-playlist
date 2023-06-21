@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Dua Lipa
 
-909 songs - 1 day 23 hr 5 min
+910 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Girl From Rio \(feat\. DaBaby\)](https://open.spotify.com/track/1mhLcPOLuVZRlwHL8JRufR) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Girl From Rio \(feat\. DaBaby\) \[TroyBoi Remix\]](https://open.spotify.com/album/5HTyuILusOAIEsm4kgQQo0) | 3:15 | 2021-06-19 | 2021-07-31 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2021-01-12 | 2021-08-07 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-01-15 | 2021-06-09 |
+| [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-06-20 |  |
 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 | 2023-04-28 |  |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-18 | 2022-04-01 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 | 2021-05-17 |

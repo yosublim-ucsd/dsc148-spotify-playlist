@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,365 likes - 125 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,395 likes - 125 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 |
 | 125 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
 
-Snapshot ID: `MCxjNjk4ZTVmNmQ2YmFlZWEyNjQxYWIzMzczNzJiY2EyNDc1MWY5YWY2`
+Snapshot ID: `MCw5MGRiMGNmZjU2ZmY5YWI2NjgyNmRlZTMyZjA0MjhiZWE4ODU2YzU5`

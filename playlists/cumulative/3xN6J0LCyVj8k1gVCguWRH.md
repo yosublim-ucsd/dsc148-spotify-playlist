@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,319 songs - 5 day 13 hr 3 min
+2,320 songs - 5 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1316,6 +1316,7 @@
 | [Mhmm](https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc) | [Toak](https://open.spotify.com/artist/0wipVeeTuOwzVpl2RgSa2z) | [Tears of a Poet](https://open.spotify.com/album/6XmRyDUGMU3De1f6sJRkjb) | 2:47 | 2023-01-23 | 2023-02-24 |
 | [Miami](https://open.spotify.com/track/4gilCVXzumEV2KupA2qb3b) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Miami](https://open.spotify.com/album/6evDUjijB4kgR6z5G8vb9C) | 2:51 | 2020-03-30 | 2020-04-09 |
 | [Middle](https://open.spotify.com/track/0hsptlEJJdntKqFC8BgUEK) | [Austin Prince](https://open.spotify.com/artist/0uCrWwXEcpuM1JSxpu1Qmn), [tuftyhead](https://open.spotify.com/artist/0XdAZm6bPa9e2r1hN9PXit), [Ambrose Prince](https://open.spotify.com/artist/3SpRLw0qGYJotN4YoIBPjh) | [Middle](https://open.spotify.com/album/1yakrJ9QB554EF1HRJq1PV) | 2:34 | 2021-03-31 | 2021-04-06 |
+| [Middle of the Night](https://open.spotify.com/track/7uhUEDSvsh5xmzciywmo1v) | [Shy Olson](https://open.spotify.com/artist/1VPLAsqWhrQ2aW2KDHYcvr) | [Middle of the Night](https://open.spotify.com/album/19YCI3DBhpf9r47UxQylH7) | 3:37 | 2023-06-20 |  |
 | [Midnight Hymn Blues](https://open.spotify.com/track/4MHplEc7fP6ymDb24JyJ8L) | [Jordan Merrick](https://open.spotify.com/artist/0ahcACj3s9GCO561Tja3Mj) | [Waiting Blues](https://open.spotify.com/album/42q7gmr0J6wJGIKHWo3rAN) | 4:13 | 2021-11-05 | 2021-11-21 |
 | [Midnight Song](https://open.spotify.com/track/6iyfyL6NBhIIi5fVcbfMMJ) | [Yellow Shoots](https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY) | [Midnight Song](https://open.spotify.com/album/5iUxGPNhQN9Z27ILyVbNx9) | 3:46 | 2023-01-06 | 2023-01-28 |
 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 | 2021-11-27 | 2021-12-20 |

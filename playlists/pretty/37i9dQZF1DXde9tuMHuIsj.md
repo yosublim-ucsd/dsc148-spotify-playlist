@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,023 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,027 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 102 | [Par de Tenis](https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:01 |
 | 103 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 |
 
-Snapshot ID: `MCwxZjhmODBkYmRhODdmNmM4NTYxMDQyOTIxZWVhMTM0NmZmZGY3YjJj`
+Snapshot ID: `MCwzMjkyNzBlZjlmZDRiNDFiYWY1MGVkZTY2MDAzZmI3NDg2YmJkNDNl`

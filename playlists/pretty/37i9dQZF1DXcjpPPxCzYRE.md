@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,350 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,428 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 99 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
 | 100 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
 
-Snapshot ID: `MCxlNThmYjcwNzlmMjVhM2ZlN2U3Y2JhZmFmMWYyZGIzOWQ5NTc0MDE0`
+Snapshot ID: `MCw2YTQ3MTk1YTBhNmJjYjFlNzJjNDU5MjliMDBhNjI5ZWQ3Yzg3OWJi`

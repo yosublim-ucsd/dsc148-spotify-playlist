@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,916 likes - 48 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,020 likes - 48 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
 | 48 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 
-Snapshot ID: `MCwzMTRmNGQxZWQ5ZGEyYmQ4MjZlZTVhNWFmZGMyMDEyYTY4ZGQ1ZmNm`
+Snapshot ID: `MCw0NTI4M2I1MDE2ZjdiNTQzMzA2YTNjZDI1NzNjYTI4YTY4YmE2YTli`

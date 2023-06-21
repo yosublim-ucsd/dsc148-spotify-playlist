@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=98bXY92DTtaETZMRhU\-Glw"> Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,575 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,699 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 79 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
 | 80 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 
-Snapshot ID: `MCw2ZjQzMmQ2OWFkZTNhMDg2YjBhZTg1ODlkYTg1YTY5NDhiOWY5NDFi`
+Snapshot ID: `MCxkZWYzNDA3MmVjNDVjNzc0MDE1ZmIwNmVkMTBjZDJmZmFmMDIxYTEy`

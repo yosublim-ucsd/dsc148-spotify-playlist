@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima, Rebecca, Pabllo Vittar e Vivi, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882,107 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,882,403 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [Covardias Digitais \- Ao Vivo](https://open.spotify.com/track/0seCbsMqwvI539X8HvtIrc) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Covardias Digitais \(Ao Vivo\)](https://open.spotify.com/album/66bASBfMscBiDQQZZbZq6y) | 2:40 |
 | 7 | [Descontando Traição \- Ao Vivo](https://open.spotify.com/track/1YDk638sEUH4Q7MJNuz3EJ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua \(Ao Vivo\)](https://open.spotify.com/album/2Sf7a6rZKOj3Z7RXFQ1Dd2) | 2:35 |
 | 8 | [Ela Me Arranha](https://open.spotify.com/track/76Xycez3ynmg5uE42WUVRz) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Ela Me Arranha](https://open.spotify.com/album/3ZCoBvnFwszdTb7ys2Ejco) | 2:36 |
-| 9 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
+| 9 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
 | 10 | [Brota na Base](https://open.spotify.com/track/4OkXw76DwGhsdb3grp44Pm) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Nenem](https://open.spotify.com/artist/5HKXtH93EI1mw9Lg5vaPHT), [Dj Keel](https://open.spotify.com/artist/0DWHsYO5opkskMgfTAqmdW) | [Brota na Base](https://open.spotify.com/album/2RO3JSG3o3mZ3BCFiPzyd4) | 2:20 |
 | 11 | [ATÉ CLAREAR.](https://open.spotify.com/track/0uN2IAVMhOlaBg9AsHOzMu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [IBORU](https://open.spotify.com/album/7IUAKqBHSeTETf33FBONKR) | 3:36 |
 | 12 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
 | 97 | [Jerry](https://open.spotify.com/track/2cg8aiFDLOPis3XaczNIVq) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Jerry](https://open.spotify.com/album/76QkizQNGfiXYBpSSl2COz) | 3:10 |
 
-Snapshot ID: `MCxiNDhmYzM3MDE1OTFlMzAwZTkyODYwMDg5YWVjM2JjYWUxMTAzODUz`
+Snapshot ID: `MCw0MjVhYmJmYTIzOTBjMmI1ZDlmNWRhZWYwYmNkMThkMDBiMjhhOWEw`

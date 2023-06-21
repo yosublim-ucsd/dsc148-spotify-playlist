@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,690 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,674 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/24b1bjon4kIeG4yROilgou) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 2:37 |
 | 75 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 
-Snapshot ID: `MCw4ZjRhNzdjZDU5ODhhNmJiOTQ4NGMwYTMxNzMwNjc3NjIyNTJhY2Ey`
+Snapshot ID: `MCxiZWIxN2ZhNzMxZmY1YmUxMmYwYzRmZTk1MjkwOGI5MmQ3MWZhOTky`

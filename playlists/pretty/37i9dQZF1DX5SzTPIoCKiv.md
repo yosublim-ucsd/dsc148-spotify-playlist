@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,679 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,801 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 | 100 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 |
 
-Snapshot ID: `MCxjMWU1ZWVkYjBkYjU2NWJlYzkzMWYxNDUzMTQ0Y2E3OWFkOGM2Zjk1`
+Snapshot ID: `MCxhYmFkZTIzZjM2ODJjYjA0YTI5ODk5NDU5MjhkZTM2YTZlYTBmMzAz`

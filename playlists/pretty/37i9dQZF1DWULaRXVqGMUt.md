@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,362 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Born to Lose](https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [The Door to Sun Records: Ballads \(30 Timeless Favorites\)](https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T) | 2:21 |
 | 75 | [Choo Choo Ch' Boogie](https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Stop Rockin' That Train](https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl) | 2:43 |
 
-Snapshot ID: `MCxmM2Q3MDg5MTA5YmVmNTJhODQ1ZWFmZGYxMDY5ODZmNmYyYzk0ZGJj`
+Snapshot ID: `MCw3M2M0MDg5NGQ0NmE3N2EyMDA0ZWViYjQxZGZiZjM3ZjlhZGE1YmU2`

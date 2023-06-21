@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savag, Vegas Jones e e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savage, Vegas Jones e e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,165 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,197 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 71 | [Soluzioni](https://open.spotify.com/track/2OauhlEQvYOpS6eErzynfk) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Soluzioni](https://open.spotify.com/album/4E9k4zQzTiPuNdrsM82v9v) | 2:41 |
 | 72 | [Giuro](https://open.spotify.com/track/0ok5Hnc5JESapAr4CMrpz8) | [FLOW NASA](https://open.spotify.com/artist/7q9IqBZ3tqqLAVcD7c6eMY) | [Giuro](https://open.spotify.com/album/72MmUX9IhuN0RJWYlGabNm) | 3:06 |
 | 73 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
-| 74 | [Vero \(feat\. 8blevrai\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 |
+| 74 | [Vero \(feat\. 8blevrai & Swan\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 |
 | 75 | [GUNNA](https://open.spotify.com/track/1ujck8EdFdu4ZU1q459Tz8) | [FishBall](https://open.spotify.com/artist/35ZICppPOk0G32f8kjtI3y), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [GUNNA](https://open.spotify.com/album/55kmdEE8RRyGnpDWtWc8Qs) | 2:05 |
 | 76 | [BOMBA](https://open.spotify.com/track/4cD8k5mDrlGh9RxtkEGIId) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [BOMBA](https://open.spotify.com/album/4w3ObhOrfiHOCj0Ku5jT1N) | 2:13 |
 | 77 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/track/1QqlaHGqCmHVHHBPkiNRqg) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr), [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R) | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/album/7wKKzRqUzBRh6rFQtaeswy) | 3:32 |
 | 80 | [Piano di Fuga](https://open.spotify.com/track/3EzWzZR1J1KP0ZDTDBR0l6) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Piano di Fuga](https://open.spotify.com/album/3aPAkN5q9b1sEo4LxTAHLR) | 2:18 |
 
-Snapshot ID: `MCw2ZTI4MjA0MTIwYTE3Yzk4NDg3MmY1OWNjYWMyYjkxNGUwNzFlZGRh`
+Snapshot ID: `MCxjMTgyYTQyYjhlZjE4YzdkZGU0ZGEyOGNiNTA2MjIwZWQ0ZWJhZWIw`

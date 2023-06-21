@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,690 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,920 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 |
 | 75 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
 
-Snapshot ID: `MCxlMjJkNWJlZjE1NTE1NTQ4YjFlNmFjYzUwMmJiZmU5ZTY3NWI2OTBk`
+Snapshot ID: `MCwzMmY1YWEwYWIwMWI2OWQxZjczZWZmMjhlZTg4ZWRjZjM0NTk2ZjZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,089,166 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089,456 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 | 110 | [Tempted to Touch](https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Love Affair](https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf) | 3:48 |
 
-Snapshot ID: `MCxhMzhkODRkODczMWIyZTY4ZDgxYTNjZjkwMDM1M2UxMjI5NDJmZWIy`
+Snapshot ID: `MCxiZjJmNWE3NzQ1OWIzMTgxN2E3NzRiMGVjZjJmNjMwYWRiODA0NTc4`

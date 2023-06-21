@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,260 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,299 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [The Storm](https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY) | [Michigan Rattlers](https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E) | [That Kind of Life](https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV) | 3:49 |
 | 100 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
 
-Snapshot ID: `MCw0MTE5NWYxZWNiMTExYmNlMjMxMTZhNWM4MTQwZTVmNWM2ZWVkMTkw`
+Snapshot ID: `MCxkZDg3NTdhOWQ4ZDc4MWQwYWVkNThlNWMxYTk5NWYzOTc0NmIzMGI1`

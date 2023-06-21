@@ -1,12 +1,12 @@
 {
   "description": "Vous aimez la chaleur... Voici le mix id\u00e9al.",
-  "num_followers": 159892,
+  "num_followers": 160172,
   "original_name": "Sunny Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjIzNGNlOTRmZjQ5NTU1ZmE4YmVmZjRmNDhhNjY2OTgyMTFmYmU1",
+  "snapshot_id": "MCxlMGJkNDhhZjkwNTc0OTJhYTVkNTZkN2VlNzBhNTJhZDg0ODEyNTI4",
   "tracks": [
     {
       "added_at": "2023-06-15 14:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-06-15 14:00:00",
       "album": {
-        "name": "Mcde Recordings Best of (2008-2018)",
-        "url": "https://open.spotify.com/album/1mTypifXwQWC97TULc7smR"
-      },
-      "artists": [
-        {
-          "name": "Danilo & Pablo",
-          "url": "https://open.spotify.com/artist/78XlyXdHJ4WHvXAjI6hKAO"
-        },
-        {
-          "name": "Ahmad Larnes",
-          "url": "https://open.spotify.com/artist/13lG8fghcfmDvJ3uZYemc8"
-        }
-      ],
-      "duration_ms": 488227,
-      "name": "Don't U Ever Change",
-      "url": "https://open.spotify.com/track/1eXxOVrE84C4NNT1lkeqNu"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
         "name": "Remix Crusades (2007-2013)",
         "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
       },
@@ -539,38 +519,6 @@
       "duration_ms": 244706,
       "name": "Crossing Paths",
       "url": "https://open.spotify.com/track/5lXOqXFHGPEPvzWVcK97fD"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
-        "name": "El Palmar (La Playa Vol. 1)",
-        "url": "https://open.spotify.com/album/2IuEIJ9rCl2tET6Zc27pHT"
-      },
-      "artists": [
-        {
-          "name": "JKriv",
-          "url": "https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K"
-        }
-      ],
-      "duration_ms": 399383,
-      "name": "F\u00e9rias '77 - JKRIV Reworks",
-      "url": "https://open.spotify.com/track/4yuBWOtu4iBVkrp4gQUOYb"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
-        "name": "Mixed Bag, Vol. 2",
-        "url": "https://open.spotify.com/album/3HpFST1edhuWgScQZcwqDD"
-      },
-      "artists": [
-        {
-          "name": "P Sol",
-          "url": "https://open.spotify.com/artist/4oPPwY58aaLWGsreDEtL7P"
-        }
-      ],
-      "duration_ms": 456744,
-      "name": "This Must Be Home",
-      "url": "https://open.spotify.com/track/0yFXCZj2fun1EMDI59bXCz"
     },
     {
       "added_at": "2023-06-15 14:00:00",
@@ -751,22 +699,6 @@
       "duration_ms": 306112,
       "name": "Gorgeous (Extended Disco Mix)",
       "url": "https://open.spotify.com/track/587tcic4xEmMXlsZ6qsMwK"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
-        "name": "Tonic Edits Vol. 5",
-        "url": "https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 321703,
-      "name": "Cabrio Mango",
-      "url": "https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad"
     },
     {
       "added_at": "2023-06-15 14:00:00",
@@ -1003,22 +935,6 @@
     {
       "added_at": "2023-06-15 14:00:00",
       "album": {
-        "name": "Toy Tonics Top Tracks Vol. 7",
-        "url": "https://open.spotify.com/album/7jrWpxkaSYFBmMhmS3GS2D"
-      },
-      "artists": [
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Delirio Italiano",
-      "url": "https://open.spotify.com/track/09OTP1T8pPFo03aTMZQuft"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
         "name": "Revision A (Black Coco)",
         "url": "https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx"
       },
@@ -1179,22 +1095,6 @@
       "duration_ms": 404000,
       "name": "Manicumbi",
       "url": "https://open.spotify.com/track/4krFTTwq6VAFDZ3P419E8f"
-    },
-    {
-      "added_at": "2023-06-15 14:00:00",
-      "album": {
-        "name": "BONFIDO 001",
-        "url": "https://open.spotify.com/album/4itOijRXiDntdXEMaTdNfa"
-      },
-      "artists": [
-        {
-          "name": "Sirhan",
-          "url": "https://open.spotify.com/artist/5sMckZzTxJ15aUpf8j4Xsy"
-        }
-      ],
-      "duration_ms": 289982,
-      "name": "Le Flute",
-      "url": "https://open.spotify.com/track/1WnZTp8oX83UoUlCJ2M2Rk"
     },
     {
       "added_at": "2023-06-15 14:00:00",

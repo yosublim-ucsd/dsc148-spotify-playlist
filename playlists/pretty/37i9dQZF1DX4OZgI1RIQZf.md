@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,758 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,889 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 64 | [Killer](https://open.spotify.com/track/1mcYv86o7RR9lg0wmSr6k4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Killer](https://open.spotify.com/album/7h2uO2Fq2YYYQflfyF7u1M) | 2:52 |
 | 65 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 
-Snapshot ID: `MCw5ZWI4YzZlODlhZmEzNDJlYmU0ODU4ZWNjZTIwNjBhYjQ1MmU3ODM3`
+Snapshot ID: `MCxhNzM2MzgyNTlmODFmODg0ZTc4YTJjZDhhNmY0OTZhZWUzNzliOTk1`

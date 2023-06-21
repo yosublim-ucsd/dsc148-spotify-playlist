@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,481 likes - 80 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,478 likes - 80 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
 | 80 | [re: Belief](https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:03 |
 
-Snapshot ID: `MCw5NDk4OGMyZmViMmIxYWYxY2VhNDlkNmUxY2JjMjJiZjAyY2Q1N2Iz`
+Snapshot ID: `MCw3ODMzOGU3ODM1OWVhZGRhMWUwZjA0OWZlYzc4YWI1N2Y1MzZhNzI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,874 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,006 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [It Amazes Me](https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw) | [Marie Bergman](https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99) | [Fruit](https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1) | 4:22 |
 | 100 | [Midnight Sun](https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:35 |
 
-Snapshot ID: `MCwzMmMyZjViYWIyOTRmODUxY2NmZmUzYmJkOWVmYTcyMGNiNjk5ODg0`
+Snapshot ID: `MCw5ZjZjMzViYmVjZDNlYzllZDYxNmZjYWRmODA0ZDgyMDZlYTk3ZmQ0`

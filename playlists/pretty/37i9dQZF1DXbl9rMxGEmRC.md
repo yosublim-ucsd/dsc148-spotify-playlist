@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,755 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,932 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Hemoclysm](https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia \- EP](https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN) | 6:48 |
 | 100 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 |
 
-Snapshot ID: `MCw1YmE1OGNmMTQ3ZmNmZWJmNmVkNjQwNzg2Mzg0Y2RhYmZlYWNmMGQ2`
+Snapshot ID: `MCw4ZjJjODRjNGJhNGEzZWFmY2ZiYWQwMzk5YzM4ZmE1MWVjYTgyMGFh`

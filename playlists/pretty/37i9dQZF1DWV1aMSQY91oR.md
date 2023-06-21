@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,826 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,840 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 26 | [Welcome Back Freestyle](https://open.spotify.com/track/0knVZZi4TCmdRVAvZdi1Ng) | [Blitzkrieg](https://open.spotify.com/artist/13qmbtWUvLnO5nwsavIupI), [Humble the Poet](https://open.spotify.com/artist/5cz1L6LgkBPnIJmQcjIfHA) | [Welcome Back Freestyle](https://open.spotify.com/album/2hrBoFw5HxYq9Ru1l5I55y) | 1:36 |
 | 27 | [Je sais](https://open.spotify.com/track/46LFXSN7WJyhBMf5JlfF1D) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Je sais](https://open.spotify.com/album/2wCV8VjaKhfEFR7g3fE4p6) | 3:47 |
 | 28 | [Hostile Takeover \(feat\. Benny The Butcher\)](https://open.spotify.com/track/52nPh77HvQfi4pJ138PkJu) | [Teflon](https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Hostile Takeover \(feat\. Benny The Butcher\)](https://open.spotify.com/album/5fH2KXmUC9PfEFltzXxqOm) | 2:53 |
-| 29 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:20 |
+| 29 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:19 |
 | 30 | [Ballen](https://open.spotify.com/track/34aL6QfzsD9a7FGhwiXBFe) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Chinglish](https://open.spotify.com/album/3NcdIPMib8izaFhFaZYHxI) | 5:32 |
 | 31 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 |
 | 32 | [M.A.R.K](https://open.spotify.com/track/71znpQgXGKaIHxtyaZXG6D) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [M.A.R.K](https://open.spotify.com/album/4ZddJ3GVa3Rlej1NQa0iaf) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [DOWNFALL](https://open.spotify.com/track/57J5vAPypiMzlVzEc0VztW) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [DOWNFALL](https://open.spotify.com/album/6XDbO6OROyObsIVP0geQqU) | 2:14 |
 | 50 | [One Life](https://open.spotify.com/track/2mFo1Fmzi1Az7iUXf6sRB5) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Rachelle Show](https://open.spotify.com/artist/65mXhTtZ1WkR1v27G3Vxg9) | [One Life](https://open.spotify.com/album/6IencO4xqD8jNuJBtvXk0D) | 3:22 |
 
-Snapshot ID: `MCwyZWE4ZDY5MzU5NTJjYzdjYTRlMTZmYzFlZmQ3ODA1NTg0OGE1MDQ5`
+Snapshot ID: `MCxhZjcxYWExYjk5MmQ3OGIzMTNkMDM3NmI5MmM0MGE1NmFjNjU3N2E3`

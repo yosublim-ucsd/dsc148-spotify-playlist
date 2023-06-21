@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,872,346 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,873,276 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
 | 80 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj) | 2:33 |
 
-Snapshot ID: `MCw4MzM3MzVmMWE2MmQ5MTI2N2FlYzVhY2Q1N2E1YjQzMGM3OTQ2NGU3`
+Snapshot ID: `MCwwMGJiNTc3NzlkMTQ3OTk3NThkNThjZjA0ODBhNjNjZWVjYzY1N2M4`

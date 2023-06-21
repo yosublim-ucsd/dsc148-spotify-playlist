@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,740 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,786 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 75 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 |
 
-Snapshot ID: `MCw0NmQ1MmE0ZDVjNTRmM2M4MmJiOTIzNTRlYzBjZjAzZTBkOTM4ZmZm`
+Snapshot ID: `MCwzY2YwMDNjMTI1OWI1NzNjNzE5NTYyOTdlOTUwNTk5MTVjMTlmNDlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,662 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,700 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 |
 | 125 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 |
 
-Snapshot ID: `MCxlZWQ2ZDllMDBiMzdlZjFjZDA4MDBmMDEyNDQ0YmFmNjRmYjI0YzE1`
+Snapshot ID: `MCw3Y2M1MmEyNzQ5NDFiYjRmMWI3NDkyNzE0NmViYTY5NTJiMzQ1NTBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,059,042 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,059,212 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
 | 100 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
 
-Snapshot ID: `MCw4MTJiMTczZjQ0NGM2OGVhODYxYzEyNmU4ZWMxOTY2ZjI5NzcwMjBl`
+Snapshot ID: `MCxhMGYwMzA5MWRlOTA1MjUxNjRlOWRhZmVmMTUxN2NkNGZjMWM1MDZh`

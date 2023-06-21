@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,150,946 likes - 300 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,151,115 likes - 300 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Jazz Cat](https://open.spotify.com/track/6Rdzbt8DDH2zLsAI1bXvHP) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Jazz Cat](https://open.spotify.com/album/2zHO2Hb77NVUfm564Sp7bM) | 1:45 |
 | 300 | [In Your Own Time](https://open.spotify.com/track/2xFlZfIkBQwlz8ZY4AP4Qc) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [In Your Own Time](https://open.spotify.com/album/54ESNC9gVJDkcX9pzm3uG8) | 1:42 |
 
-Snapshot ID: `MCw2MjJlOTE2ZGNlZTk0YTZiOGU1MTY1MWUwOWE2Y2Q2Mjk5Y2E1NjY5`
+Snapshot ID: `MCw2ODdjMzE1YWM0MWY4ZjgyMGQzM2QwMGZkZDcxZGI4MmYzMjA0YWM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,938 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,116 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 |
 | 100 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 
-Snapshot ID: `MCwxMWQ4Njc4OTA2OTZmNWUxZTI5Yzc0OTk2MTQzZjZhNmEyYmJiZDJi`
+Snapshot ID: `MCwxN2I1NzhiMTdkZTkxNGQzYjg4YzIxOWQ2YjJlNGIzNTczOTE0NDU2`

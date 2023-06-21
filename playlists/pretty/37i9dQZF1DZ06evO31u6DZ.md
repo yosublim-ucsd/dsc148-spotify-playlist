@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,111 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 9 | [Bonecrusher](https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 2:33 |
 | 10 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:43 |
 | 11 | [Bloody Romance](https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 3:50 |
-| 12 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
+| 12 | [Garden State](https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:38 |
 | 13 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 |
 | 14 | [Lady in a Blue Dress](https://open.spotify.com/track/2v63SstROhGSQ2z8EYOyAR) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:18 |
 | 15 | [Sick or Sane \(Fifty for a Twenty\)](https://open.spotify.com/track/3WuIISjdS4O9yYqohz8Tmf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 2:45 |
-| 16 | [Garden State](https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:38 |
+| 16 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
 | 17 | [End of the World/A Game of Chess](https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:56 |
 | 18 | [You're Cute When You Scream](https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:25 |
 | 19 | [The Rapture](https://open.spotify.com/track/2o9ivYHrcu0S6hvKtTKmaJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 49 | [Every Day Is a Struggle](https://open.spotify.com/track/2Rk6o3Xsz4th844Z4sCYI7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:04 |
 | 50 | [Holy Mountain](https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:49 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDA0OWY0Y2U5YTc0NGQxOWQ5NzMzYTIyYmFmZDMyYTNmOA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBmOTRkYWE3ZmQyMTdmZmViMTc4NjliZTI5YjBhYWM1Mg==`

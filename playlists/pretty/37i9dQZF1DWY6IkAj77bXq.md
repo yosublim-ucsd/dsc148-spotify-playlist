@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,536 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,571 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 79 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 |
 | 80 | [Endless](https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Endless](https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT) | 3:11 |
 
-Snapshot ID: `MCxhZTNkYjUyZGNmMjVmNGE4NDFhM2RlYzJhNzg1OWE0MTVhZDk0Njcz`
+Snapshot ID: `MCw1MmM4MjYzZDNhMzY5ZmYxZjJmZmIzNTg5NjVhYWNjYjliY2FmZjAx`

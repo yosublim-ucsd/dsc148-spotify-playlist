@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Christine and the Queens.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,477 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,680 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [To be honest](https://open.spotify.com/track/2jQFhvw0HxUqGXu1StxS3O) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 3:41 |
 | 75 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 
-Snapshot ID: `MCw4MzFmYWIyNjYzOGQyZjY1YjEyNjNjMmNhNzhjOTZmMzc0MDcwMmE0`
+Snapshot ID: `MCw0MjJhOTdkMjJhYmNkMWQ1YWU0ZDRmNWQ1MzI3ZTUzMzU4ZGY1MTdk`

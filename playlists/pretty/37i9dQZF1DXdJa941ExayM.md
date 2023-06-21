@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,607 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,681 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
 | 80 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
 
-Snapshot ID: `MCwxMzQ1NGQwZWZhNzZkMWQyNzBlZDFlMDliNjg0ZWRhZDVmZThkODNi`
+Snapshot ID: `MCwwY2EyOGQxYzI4NzMyNTQ1ZWY5MTYyOTljMjEzYjJhZWY4ZGY0Yjdk`

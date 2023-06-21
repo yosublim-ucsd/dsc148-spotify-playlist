@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,597 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,670 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [All For You](https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Mikkelborg](https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy) | [Vision](https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq) | 6:36 |
 | 100 | [A Sack Full Of Soul](https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [We Free Kings](https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW) | 4:40 |
 
-Snapshot ID: `MCwwZTlmODUzZTc1MTYzMTg5ZjA4ZTE3YWQ0ZWE1OGYyYTRkM2E0OGE2`
+Snapshot ID: `MCxiODY2ZWViMzc3MGU5NWNmNjhmYmIyZDQwYmE0Y2NiZjJiNzY0M2Vh`

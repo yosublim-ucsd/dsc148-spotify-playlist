@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-132 songs - 8 hr 56 min
+133 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-03-02 |  |
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-02-09 |  |
+| [Colorful](https://open.spotify.com/track/668t7IE17nGkTXK2IL8dBT) | [Chiaki Ito](https://open.spotify.com/artist/0muLFXCuJkwVq8JBMmiips) | [Honey](https://open.spotify.com/album/6DLUwyQ1mjmplj8CNNZHFV) | 3:21 | 2023-06-20 |  |
 | [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:11 | 2023-03-16 |  |
 | [Dreamin'](https://open.spotify.com/track/10WraFpY8iNurYHAwZAvvb) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 4:29 | 2023-02-09 | 2023-04-04 |
 | [Etude of Adolescence](https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Haruko Nagaya](https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8), [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [JUNK or GEM](https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI) | 4:33 | 2023-03-16 | 2023-04-12 |
@@ -69,7 +70,7 @@
 | [Vanilla](https://open.spotify.com/track/1SEGeAHw0quw32HHm4qJsj) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Hoshiwokoete](https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20) | 4:10 | 2023-03-16 |  |
 | [Vanilla](https://open.spotify.com/track/7luM6QZ54WNPm3bZ6fzBkE) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Vanilla](https://open.spotify.com/album/1KkJckWXXaugwsvMHXQqGL) | 4:11 | 2023-02-09 | 2023-03-18 |
 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 | 2023-02-09 | 2023-03-29 |
-| [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2023-04-27 |  |
+| [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2023-04-27 | 2023-06-21 |
 | [Yearning after You](https://open.spotify.com/track/3RDOCf6cQBNSRO1t9CglUl) | [KAZUKI UJIIE](https://open.spotify.com/artist/7I1iLceQ59KQx4u60FjZp7) | [Yearning after You](https://open.spotify.com/album/5HtqOvGdKZM58yq354z22M) | 4:11 | 2023-06-01 | 2023-06-14 |
 | [Yui](https://open.spotify.com/track/3f8WNy5rgXq7J74qjExRkb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Take Me](https://open.spotify.com/album/2d4BgT8o5xopdZK7x8eygL) | 4:24 | 2023-02-09 |  |
 | [あたしが死んでも](https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 4:37 | 2023-05-10 |  |

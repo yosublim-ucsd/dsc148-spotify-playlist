@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-112 songs - 7 hr 30 min
+115 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 | 2023-02-23 |  |
 | [Indah Pada Waktunya](https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Indah Pada Waktunya](https://open.spotify.com/album/4PuuRAc30rb3rPbTFHBWXx) | 4:00 | 2022-12-14 | 2023-03-23 |
 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 | 2022-12-14 |  |
+| [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 | 2023-06-20 |  |
 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 | 2022-12-14 | 2023-06-18 |
 | [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 | 2022-12-14 |  |
 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 | 2022-12-14 |  |
@@ -48,7 +49,7 @@
 | [Kamulah Satu\-Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 | 2022-12-14 | 2023-06-03 |
 | [Kangen](https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 5:00 | 2022-12-14 |  |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-12-14 |  |
-| [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 | 2022-12-14 |  |
+| [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 | 2022-12-14 | 2023-06-21 |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2022-12-14 |  |
 | [Kenangan Manis](https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:27 | 2022-12-14 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 | 2023-05-08 |  |
@@ -56,7 +57,7 @@
 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2023-02-23 | 2023-02-26 |
 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-02-23 |  |
 | [Labirin](https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Labirin](https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr) | 3:02 | 2022-12-14 |  |
-| [Lalu; usai](https://open.spotify.com/track/5OxE6yv5Oa64rUCC5CsY9y) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Reinkarnasi](https://open.spotify.com/album/0gzvtWAfmVkUTvdjUSlt0N) | 3:14 | 2023-03-22 |  |
+| [Lalu; usai](https://open.spotify.com/track/5OxE6yv5Oa64rUCC5CsY9y) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Reinkarnasi](https://open.spotify.com/album/0gzvtWAfmVkUTvdjUSlt0N) | 3:14 | 2023-03-22 | 2023-06-21 |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2022-12-14 |  |
 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 | 2022-12-14 |  |
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2022-12-14 |  |
@@ -72,6 +73,7 @@
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 | 2023-01-09 |  |
 | [On the Night Like This](https://open.spotify.com/track/0rk3F1mm2Yrvh4zSrNpa0J) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 1:21 | 2022-12-14 | 2023-04-14 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-12-14 |  |
+| [P.S\. I LOVE YOU \(feat\. Yuna\)](https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P.S\. I LOVE YOU](https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp) | 4:01 | 2023-06-20 |  |
 | [Pandangan Pertama](https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 5:00 | 2022-12-14 |  |
 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 | 2022-12-14 |  |
 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 | 2022-12-14 |  |
@@ -84,7 +86,7 @@
 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 | 2022-12-14 |  |
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2022-12-14 |  |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2022-12-14 |  |
-| [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2023-03-22 |  |
+| [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2023-03-22 | 2023-06-21 |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-14 | 2023-01-05 |
 | [say you're done with me](https://open.spotify.com/track/3M3CQFX5Q9dEaauR5dMtku) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [say you're done with me](https://open.spotify.com/album/4fbZtfYUFeESZmfaifPXE0) | 3:49 | 2022-12-14 | 2023-05-02 |
 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 | 2022-12-14 |  |
@@ -114,6 +116,7 @@
 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st Special Edition](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 | 2022-12-14 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2022-12-14 |  |
 | [Waktu Yang Salah](https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 5:25 | 2022-12-14 |  |
+| [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 | 2023-06-20 |  |
 | [When You Love Someone](https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Nowhere to Go](https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU) | 4:31 | 2022-12-14 | 2023-03-23 |
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-12-14 |  |
 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 | 2022-12-14 |  |

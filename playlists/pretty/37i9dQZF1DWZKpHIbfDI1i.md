@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Michelle Maciel y Eden Muñoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,562 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,804 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
 | 75 | [Y Ahora](https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Y Ahora](https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U) | 2:41 |
 
-Snapshot ID: `MCxiMTk5NGE2YWZjZTc2N2JiOWQ0YmM0M2U1ZDdkMTZmMGIxMmMxMzQ4`
+Snapshot ID: `MCwxYjdiMTkzMDQ4ZjNlOTQ5MWU4NDdjZGFjMGUwZWZlZTQ0MzM3NGU4`

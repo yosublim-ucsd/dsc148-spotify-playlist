@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,983 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,980 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [In the Bleak Midwinter](https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In the Bleak Midwinter](https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK) | 3:23 |
 | 80 | [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 |
 
-Snapshot ID: `MCxmOWNkNDMxNmEwN2ZjNzRhMTg5MTk2N2MwNWY3ZjVmMGUwMjI3NTA3`
+Snapshot ID: `MCw2OGNlNzFlZDc0MWY0MjZkNmMyOGE2MjUzOWZmN2IwZjMzN2Q4ZjM0`

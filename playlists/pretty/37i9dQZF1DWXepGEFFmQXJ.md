@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Seaforth
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,859 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,014 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 74 | [Try To Forget You](https://open.spotify.com/track/1lYZtEEGD1UtpSiT9J8Dtc) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Try To Forget You](https://open.spotify.com/album/1SrKEKh22rvCW04I33xlHb) | 3:06 |
 | 75 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
 
-Snapshot ID: `MCwwM2FhODc1NjJmMThlNzEwZjU5OTUzYWYwMGE4MDZkYWQ1MTE2MmUz`
+Snapshot ID: `MCwzM2VlYzliNDNlOTVmYjU5YWRmYjQ0MTU5MGQ3ZTU3OGIyZWY3NmY3`

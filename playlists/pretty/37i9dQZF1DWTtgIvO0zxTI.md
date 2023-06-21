@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Corina Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,162 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,190 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 11 | [Si Biri Bop](https://open.spotify.com/track/2Od4ynLerbqcKtjAdbX16Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Si Biri Bop](https://open.spotify.com/album/6W64HOtZtKsCRarGz334y1) | 2:55 |
 | 12 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 13 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
-| 14 | [Solo Tú](https://open.spotify.com/track/2qY0Tamp1fZD1uNaDIkBXX) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/6XxzGB7U9Zl3jwMNWWPHRC) | 3:12 |
+| 14 | [Solo Tú](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
 | 15 | [365](https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx) | [365](https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3) | 2:27 |
 | 16 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 |
 | 17 | [Climaxxx](https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Todo Es Mental](https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [CERQUITA](https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [CERQUITA](https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW) | 2:39 |
 | 60 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 
-Snapshot ID: `MCxmZjViNGM3YzZjYmY1NzQxYjU4YjE0ZjEwZWUxYjUzOTNhYWVhN2Q5`
+Snapshot ID: `MCxmMWUzZjI4YjFjYmVlZDg0ZWNlMDY1MGRhODk3Y2FhMmUyZWY0ZDU2`

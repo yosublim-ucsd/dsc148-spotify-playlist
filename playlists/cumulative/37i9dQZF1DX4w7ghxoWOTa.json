@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "ONE NATION UNDER THE DEMPA",
+        "url": "https://open.spotify.com/album/3XzW2qsELrkEAj6qLNkrEW"
+      },
+      "artists": [
+        {
+          "name": "Dempagumi.Inc",
+          "url": "https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "ONE NATION UNDER THE DEMPA",
+      "url": "https://open.spotify.com/track/0FxCG96wD3X8Jqnsx7Dm3v"
+    },
+    {
+      "album": {
         "name": "Paradise Lost",
         "url": "https://open.spotify.com/album/5i7vFlY7TmEJLTIIaWmIDP"
       },

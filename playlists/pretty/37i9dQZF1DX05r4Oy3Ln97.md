@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,024 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,463 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
 | 60 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 |
 
-Snapshot ID: `MCwxZDYzMGZiMThhNjhhZDA3NzA0M2Y1NDY2MmIzYzI2NzJmNGViNzU3`
+Snapshot ID: `MCwxMTlkYTA5OWQ5MzdlMzYxZjhhODBiMmM2NjhkNTllNzNhNGUxNDUy`

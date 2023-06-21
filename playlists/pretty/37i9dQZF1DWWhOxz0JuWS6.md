@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,585 likes - 200 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,634 likes - 200 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [If Looks Could Kill](https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:40 |
 | 200 | [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 |
 
-Snapshot ID: `MCw3MjJkZGI5YWNlNjVlM2EzYmU1NzhhOWRlOGQxZWZiZGVhYTMxYzcy`
+Snapshot ID: `MCxhNGVmYWNiMmQwZDhiNjRhZjRkMGY5ODBiMWJmNmY1MTkxYTJhNDc3`

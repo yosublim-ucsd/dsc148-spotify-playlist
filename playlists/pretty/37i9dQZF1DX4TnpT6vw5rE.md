@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,742 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,760 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 |
 | 120 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 |
 
-Snapshot ID: `MCxjZTczMGQ5NDA5MDYyZjUyNDk2ZDMyNjhkZTZkODhkNTEyNDc3NDE0`
+Snapshot ID: `MCwyZmIyY2Y0NTE0MTk2YzY4ZjNhZDdiZThiYWE1ZjJlMmQ0NzFlNmNk`

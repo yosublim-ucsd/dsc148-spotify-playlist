@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\) / Foto: Lauana Prado e Veronica Schulz
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,048 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,164 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 59 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 |
 | 60 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
 
-Snapshot ID: `MCw2NGRjMGQ5YjIyMTY4ZTQ1YWVjNDcyNzQ3ZTc5MDk4OWE2NTNjOGYx`
+Snapshot ID: `MCxkZTc0ZWQ4NDE2ZmFmYjcyOTM4YzZjNDJhODU3NzdiYTAyNTdmOTcy`

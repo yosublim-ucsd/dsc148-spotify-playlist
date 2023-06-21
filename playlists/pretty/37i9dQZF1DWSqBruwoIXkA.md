@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow heartbreak feels good in a place like this\. Cover: Rowan Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528,638 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,604 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 |
 | 150 | [Broken Boy](https://open.spotify.com/track/11f28RF6aCH4UvCHTC9N1V) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Broken Boy](https://open.spotify.com/album/4yKpHQsz079iso3TkkSzm6) | 2:17 |
 
-Snapshot ID: `MCxlOTNkNWU1ZmQ2ODRlNjc1Zjc1OTg4MDNiODM1YzliMjJiNDU5ZDkx`
+Snapshot ID: `MCxjMzQ4ZTQyODNkMjBjZWExNDI2MWFjYzEzYWQ2M2NlNTliMTU1ZDgw`

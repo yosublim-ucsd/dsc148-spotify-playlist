@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,944 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,967 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Corrido Tumbero](https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Corrido Tumbero](https://open.spotify.com/album/0sfDrji2Qr5KJPAvVzMVT8) | 3:32 |
 | 79 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 
-Snapshot ID: `MCw1Njc3MGRjOGNkMmNiY2JhOGRlMmNiYTA5NzUzZmI3NmY1ZDEyNTE4`
+Snapshot ID: `MCxmY2FiMzg3MGY3MTZjYTM5YjQ3MGE3NGYxYTM0YTVhMzk3NmRjNWMy`

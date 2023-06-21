@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325,981 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,326,257 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Crying My Eyes Out](https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Crying My Eyes Out](https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2) | 2:55 |
 | 150 | [I Found \- Acoustic](https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:19 |
 
-Snapshot ID: `MCxhODE3Zjc0OGJkNTFjMmQ2NjkyZWQxOTRhYmFkYzA2OTI4YjUyMWIy`
+Snapshot ID: `MCwyODQ0NmZjNGIxYzU2NWJjMzllNzVmMjMxYjYwNjZkMTBmNzc3NTI0`

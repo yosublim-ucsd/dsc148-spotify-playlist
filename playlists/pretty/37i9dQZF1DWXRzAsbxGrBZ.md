@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,548 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,656 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 |
 | 50 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
 
-Snapshot ID: `MCwyZmZiOTczOTZjMmM4YjMxNDkzZGYwOTM2MWQwYjljYTMzMjYxYWQ1`
+Snapshot ID: `MCxhYzY0ZGY5NjZiZDU0YWMwOWM3ZmRjZjdhOTJhYWFiOGMzYjFlMDE0`

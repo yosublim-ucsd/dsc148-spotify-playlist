@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,061 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,080 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
 | 50 | [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 |
 
-Snapshot ID: `MCwwYTNkMjM1N2QxNDUzMGY1Y2FiYjNmM2NiMzA5MmNhMWIxMDM3YzNm`
+Snapshot ID: `MCwyODkzNDFiZGVhNjdiNDJmOTAwYjMzYTI5YTI4ZGUyOGJiNTA2MDFi`

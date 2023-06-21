@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,598 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,636 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 47 | [Thru The Town](https://open.spotify.com/track/7Cojm688CxexwiESIjZ2Ou) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Thru The Town](https://open.spotify.com/album/1aMsSHYGis79SWIKjulvhg) | 2:49 |
 | 48 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
 
-Snapshot ID: `MCwxNWM0MDE5MTBkNzUyMzM4YTU5YzY5MDc4YjBkOTZmNDEyNDYxNWY3`
+Snapshot ID: `MCwxMWY4MGEzNjJkYWVkNjM1NDI4MTllNmNjMjAyZjZmYzJjYTUxZGRm`

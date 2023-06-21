@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,909 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,932 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 69 | [I'll Be Honest](https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I'll Be Honest](https://open.spotify.com/album/018IL10TXkNudbOVScsjGI) | 2:33 |
 | 70 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
 
-Snapshot ID: `MCwwMjAyNTEzOGNkMmYzZGU3M2JhNDhiODFhYWQ3MGEzNmExN2RmYTdm`
+Snapshot ID: `MCw3NzkwZTBjZTQyNDExNmExYzM4NDJmYzc0ZWVjYjlhNTBmNzIyZjlj`

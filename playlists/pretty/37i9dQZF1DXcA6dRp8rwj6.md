@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,162 likes - 97 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,223 likes - 97 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 13 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 14 | [Still you](https://open.spotify.com/track/34qi54yBKcPLYipKrbJt9n) | [GEMI9PK](https://open.spotify.com/artist/5umd9lV0XR9xlGoTliDkez) | [Still you](https://open.spotify.com/album/0WM7iBn3eQtLJWXVuYsis6) | 2:33 |
 | 15 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
-| 16 | [There's no place like home \(feat\. Hannah Jang\)](https://open.spotify.com/track/0o5aplFOEkayOjEyOU6D8r) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Room service](https://open.spotify.com/album/4iFedlXx7Yfkm6VY7NySAX) | 2:47 |
+| 16 | [There's no place like home \(feat\. Hannah Jang\)](https://open.spotify.com/track/0o5aplFOEkayOjEyOU6D8r) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Room service](https://open.spotify.com/album/4iFedlXx7Yfkm6VY7NySAX) | 2:47 |
 | 17 | [Slizzy Gods](https://open.spotify.com/track/4wVoXhYiMIZ00PSijjOma5) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Gods](https://open.spotify.com/album/2Vp0nwE7grcgIsgbLG3ytT) | 1:34 |
 | 18 | [Orthodox \(feat\. BabyTron\)](https://open.spotify.com/track/4dWTLLELuISSFxWR6izunc) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Trapper of the Year](https://open.spotify.com/album/6vfgqiZ4X8fTM6DZ3McXmx) | 2:18 |
 | 19 | [WALEEN](https://open.spotify.com/track/5tu9pkiXc6p6ayBAcm8dLJ) | [VILLAIN](https://open.spotify.com/artist/72RrIlkfpO0LWZ7IC9XFxV) | [WALEEN](https://open.spotify.com/album/28A0DEXjz2A7ShazTtnQJt) | 2:52 |
 | 20 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 |
-| 21 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:20 |
+| 21 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:19 |
 | 22 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
 | 23 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 |
 | 24 | [YKWSF](https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 96 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 |
 | 97 | [Princess Bubblegum](https://open.spotify.com/track/6ucInAX6PojGk0QVLHptHT) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Princess Bubblegum](https://open.spotify.com/album/2K2RHh8CxhHI9RgYXKVt7W) | 2:48 |
 
-Snapshot ID: `MCw1MzkxZWE1Y2NmNWNhM2NmZjRlNTA1NDJiYzUxMzAyYzk1ZWRlN2U4`
+Snapshot ID: `MCw1OTM5NTg1MGQ2YjlhZGNkZmJlMzQzZmQzNjM1NzNmNWVlNGVjNjdm`

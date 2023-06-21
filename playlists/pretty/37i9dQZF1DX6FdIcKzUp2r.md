@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,549 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,571 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Paris, Texas](https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paris, Texas \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy) | 2:52 |
 | 80 | [Apostle \- Single Version;2005 Remastered Version](https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Kolors \(Bonus Track Edition\)](https://open.spotify.com/album/4i4FQZa3AtMk7J7KPRFLWH) | 3:52 |
 
-Snapshot ID: `MCxkMDEyOWU1ZTBiMzM2Y2ExNWQ3NWIzMTcxYzU1Y2MzODM2YWZkODhh`
+Snapshot ID: `MCxiNDFmN2Q1ZTFiODQxOGZkNDUwNWM4NWNmYWVjNDA3OWRmY2U0ZWQ3`

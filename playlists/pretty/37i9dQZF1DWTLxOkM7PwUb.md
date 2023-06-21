@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,069 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,167 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Debo Cambiar](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 |
 | 100 | [Vuelva a Ver](https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:09 |
 
-Snapshot ID: `MCxmMWYzZDIwYjFiZmZmMWQzN2QzOGM1MzdhOWM0Zjg5YTliOGE5MzQ5`
+Snapshot ID: `MCw5ODMwZTRlM2E3NmYyOWQ0ZjAyNWZmYTJhYzI2NjNlMjgwMmNhMDU5`

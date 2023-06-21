@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,852 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,962 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 |
 | 50 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 
-Snapshot ID: `MCwyMmMzNjA3MDUzNTk2MzJkZTYyY2RjOWUyYTU0ZDVmYmJmZDk5Yjgz`
+Snapshot ID: `MCwyZDk1NWNhNTFhNGZjOTRiNmRiNTBhYTkyYTlmZDU5NDQyYjhmNWQ2`

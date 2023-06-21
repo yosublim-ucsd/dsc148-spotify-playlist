@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 100377,
       "name": "Ache",
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 170200,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Don't Date The Devil",
+        "url": "https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Don't Date The Devil",
+      "url": "https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw"
+    },
+    {
+      "album": {
         "name": "It Was Fun While It Lasted",
         "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
       },
@@ -814,6 +832,24 @@
       "duration_ms": 182583,
       "name": "Empathy My Ass",
       "url": "https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/2hkRgU5Xm7CJy5HQQxh07k"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/08doI6a2PPJoeYCWMXdKSZ"
     },
     {
       "album": {
@@ -889,6 +925,28 @@
     },
     {
       "album": {
+        "name": "feel something (feat. Izzy Spears)",
+        "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133307,
+      "name": "feel something (feat. Izzy Spears)",
+      "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
@@ -900,7 +958,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
@@ -1899,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
+    },
+    {
+      "album": {
         "name": "LOGGERHEAD",
         "url": "https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk"
       },
@@ -2130,7 +2206,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 134640,
       "name": "Rob the Supermarket",
       "url": "https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8"
@@ -2156,6 +2232,24 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH"
+    },
+    {
+      "album": {
+        "name": "Say Say",
+        "url": "https://open.spotify.com/album/4Z20AefouBkJ0dm60LXP3w"
+      },
+      "artists": [
+        {
+          "name": "Yur Mum",
+          "url": "https://open.spotify.com/artist/0Y7bVJMoVMR9nipVBOiXRt"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Say Say",
+      "url": "https://open.spotify.com/track/7DgCz491jAIlvfNKZGNWWG"
     },
     {
       "album": {
@@ -2466,7 +2560,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
@@ -2600,6 +2694,24 @@
       "duration_ms": 196549,
       "name": "Theme New Bond Junior",
       "url": "https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT"
+    },
+    {
+      "album": {
+        "name": "THIS HERE AIN'T WATER",
+        "url": "https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201686,
+      "name": "THIS HERE AIN'T WATER",
+      "url": "https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M"
     },
     {
       "album": {
@@ -2798,7 +2910,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"

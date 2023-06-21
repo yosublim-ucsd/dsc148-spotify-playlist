@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,598 likes - 120 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,677 likes - 120 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 |
 | 120 | [Stagolee](https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Vanguard Visionaries](https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8) | 5:35 |
 
-Snapshot ID: `MCxlMmJmMjk3NmE4OGRkYzcyMWJmZTE5N2FkM2NhODI3YTg1NmI1NmY2`
+Snapshot ID: `MCxjNDNmYjVlMWJmM2U4ODRjNzg2ZDY2MjIxN2M5ZGRjOGRhY2U3Yjc2`

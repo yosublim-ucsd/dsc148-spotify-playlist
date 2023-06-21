@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,264 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,390 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 29 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 30 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 |
 | 31 | [File Under: クールシーンガール](https://open.spotify.com/track/2WeclS8SixSLv4R2dniIA9) | [Saturday Night Karaoke](https://open.spotify.com/artist/0f7zC2HgBY3NwLAkfGrL89) | [File Under: クールシーンガール](https://open.spotify.com/album/3QNorq1aOOM8jfcDtS4bbt) | 2:10 |
-| 32 | [MMN](https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [MMN](https://open.spotify.com/album/44mxUgwetKmtJoyB4IUZyA) | 2:12 |
+| 32 | [Dandelion](https://open.spotify.com/track/7kfTazB74bkjKkRjPl8Moh) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [CLASSICS](https://open.spotify.com/album/30xI41xe0EWuvlIomwWpmy) | 2:58 |
 | 33 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 |
 | 34 | [ラーメンライス](https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [ラーメンライス](https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq) | 2:49 |
 | 35 | [全力男](https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [ピエロイズム](https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 100 | [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 |
 
-Snapshot ID: `MCw0NDkyNTU4NTVmN2Q5ZTJlMWZiODgzYWVmMTMzYzc0ZjQxM2IyMjRh`
+Snapshot ID: `MCxiMzUxYzA1YWVhMTdlMjcxNDIyN2M4ZGZhMzdlNjViZWI5ZDlhMjUw`

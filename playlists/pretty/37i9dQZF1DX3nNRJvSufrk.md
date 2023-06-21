@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,990 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,997 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Grateful](https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg) | 3:15 |
 | 80 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 
-Snapshot ID: `MCxmZDA3MDFhMGVmNzk2NmU4MDdiNmI4M2I0MWFiZmMwOGUyZDQzNDU3`
+Snapshot ID: `MCwxMDU0NmNhZGNjMDM4ZWUxYzY2MjNkODdjNDZlMWVlYmI1NGUwYTRi`

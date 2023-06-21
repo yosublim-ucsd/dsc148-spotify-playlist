@@ -4,7 +4,7 @@
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 6 min
+54 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I don't let go](https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:01 | 2023-06-07 |  |
 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 | 2023-06-07 |  |
 | [I spoke to the devil in miami, he said everything would be fine](https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:58 | 2023-06-07 |  |
+| [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 | 2023-06-20 |  |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2023-06-07 |  |
 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 | 2023-06-07 |  |
 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 | 2023-06-07 |  |
@@ -59,7 +60,7 @@
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2023-06-07 |  |
 | [what are you so afraid of](https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:30 | 2023-06-07 |  |
 | [whoa \(mind in awe\)](https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:37 | 2023-06-07 |  |
-| [WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:46 | 2023-06-09 |  |
+| [WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:46 | 2023-06-09 | 2023-06-21 |
 | [YuNg BrAtZ](https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:41 | 2023-06-07 |  |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

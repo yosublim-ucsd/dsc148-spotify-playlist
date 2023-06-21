@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,489 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,589 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [SUNYI](https://open.spotify.com/track/1UBbda9fmOcaOCkWgKK7bz) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [SUNYI](https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX) | 3:52 |
 | 50 | [Masih Sunyi](https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 2:35 |
 
-Snapshot ID: `MCw2NGMzZDA5ODhiZDVhYzNjZDE1ZGUyNzU4YWE1ZDMzZjJkMjRmMWI2`
+Snapshot ID: `MCwxNTJlYzM1OWUwYTRiYWU1ODNkYmU2YmM0YTEwZWNlMzE5NmM1ODVj`

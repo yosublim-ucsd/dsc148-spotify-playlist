@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,692 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,786 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 | 50 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 |
 
-Snapshot ID: `MCwwM2U1OWM4MzcwMGFkYmFiNzU0NTgzNmMzOTU2ODJkNzQ3OTM5Yzc3`
+Snapshot ID: `MCxlNGM0MWIwYjg4YjIyZDE2NTYxZGQ4NWFiM2U0OWVhODhmZWE1Y2Vm`

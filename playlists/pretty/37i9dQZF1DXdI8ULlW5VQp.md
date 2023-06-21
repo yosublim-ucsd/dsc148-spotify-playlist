@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Cantamores en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,382 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,406 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
 | 75 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 |
 
-Snapshot ID: `MCw2NmUwM2E1MzAwNDBmODNmMTFhZTU2MzUyN2M5MTE1NDFiMjJjNWQ3`
+Snapshot ID: `MCxiNDQxNzcyNjU1NWQ3NjY2ZmEzMGZmY2EyYzdhZmZkZTJjZjFmMjQ1`

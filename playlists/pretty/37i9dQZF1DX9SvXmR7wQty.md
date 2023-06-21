@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Zeina, Smeels
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,976 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,973 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 |
 | 50 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
 
-Snapshot ID: `MCxjOTY2MzNjNzg3MjI4MmMzZDMzZGRmNzA2ZWYyMzQ2ODA3MjQ3MTY5`
+Snapshot ID: `MCwyMWY0ODQwODlhN2UyZjFlZTU3ZTJmMmI0NmE3M2VlZThkNGFlNzM5`

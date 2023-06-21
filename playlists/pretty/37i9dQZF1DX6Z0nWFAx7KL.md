@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,985 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,010 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 |
 | 80 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 |
 
-Snapshot ID: `MCwwYThjMTBjM2EzZjYyM2YyODNmOTM0YTI4YWEwM2M0YmVlY2ViN2Nh`
+Snapshot ID: `MCxmM2JlOTg3YTdiMDZlMzU2YjNhNzU3ODMzYmVhMmIyZWJmMmI3YTk1`

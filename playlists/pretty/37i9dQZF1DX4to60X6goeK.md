@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,470 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,493 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 |
 | 55 | [Why Should I](https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Why Should I](https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL) | 4:46 |
 
-Snapshot ID: `MCxhMTg0MDdkYTEzODlhYjlhMmUxOTVmYzRlNDMxMjI0YjcyNGNkMDQ2`
+Snapshot ID: `MCwzNjc5YTVkMTIzZDUwNTZjMmZkYjk5NWZiMjI1YTg4Y2ZiOWFkYjRh`

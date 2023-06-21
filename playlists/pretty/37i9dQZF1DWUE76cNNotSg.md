@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,515 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,775 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 |
 | 80 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
 
-Snapshot ID: `MCwwZjA5NjNjMzJlNjIzYjhhYjIyMmFiZjVjMDRlY2EyZWYzZjQyODc5`
+Snapshot ID: `MCw3NTAxMDAxM2ZmZTIzM2JhNjM1NjVkN2IwN2VlYWQ0MmJhNTFmYzRi`

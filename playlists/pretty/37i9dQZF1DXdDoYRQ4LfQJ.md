@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,145 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,345 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 100 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS) | 3:26 |
 
-Snapshot ID: `MCwyYzhiN2M2OTdlODBhOTljMTMwM2E1MDQ3YmU3ZjUxZGI4NDU2OWU5`
+Snapshot ID: `MCwzZjJlMTdiNzVkMGFlNTBhYjExMmI1NmUyMDVjMGNlYzg3ZWUyYjNh`

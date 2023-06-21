@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,523 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,096 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 |
 | 100 | [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 |
 
-Snapshot ID: `MCxmZDk2Mzk1MjYyYzhkMGQxNzg0ODNlOTM3OWJlYTM2ZWRkZTRhMmNi`
+Snapshot ID: `MCwzZjUyMGU4YWIyOWM3ZTJhMjg0ZTJiYTM0NWY0NjgxMTcwNWIwMjM4`

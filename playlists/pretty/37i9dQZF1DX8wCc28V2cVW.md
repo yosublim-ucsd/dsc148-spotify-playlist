@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,937 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,001 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [FFVII REMAKE: 七六分室陽動作戦 \(S7\-6 Annex Diversion\)](https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT) | [中村佳紀](https://open.spotify.com/artist/1wbsKYjdDOirrBJAHdZlJU), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 6:40 |
 | 75 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 
-Snapshot ID: `MCwyOGY0NWQ1MGQ4NzFlYzExNDM1ODJiMjZiNjFiOTg2NmIwNzY4NDNm`
+Snapshot ID: `MCw2YmNiMjlmYjk3NjhiYTNmODVhNzQ4MzA3ODM4MDVmMzMwOTg1YjUz`

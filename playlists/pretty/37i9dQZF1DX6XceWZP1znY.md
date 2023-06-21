@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,598 likes - 200 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,981 likes - 200 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [未来](https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [TIMELESS WORLD](https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC) | 5:16 |
 | 200 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 |
 
-Snapshot ID: `MCw3ZDI2YjJjNGEwNWVjMzNlNmFiMTQzYjk0ZjQ4NGQ2MTEyYmZiODZl`
+Snapshot ID: `MCwyOTg1ZTc4ZWU2NzVmNTliNThmMDc3MjczZDE1ODEwMTg3NDE3NjA4`

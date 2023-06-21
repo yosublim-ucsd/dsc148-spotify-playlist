@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Nortec: Bostich + Fussible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,537 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,545 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 75 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
 | 76 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCxlN2JiNWU5M2FhMjlkMmY5MTcxYWVjZmY4YjdhOWM4NTFjODEyMmQ3`
+Snapshot ID: `MCxjZGI2ZDMxODlmM2ZmYWE2NjYzODQ3NWViNDRmNDRjY2Q5YjNlOTc5`

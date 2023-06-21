@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,233 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,252 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 100 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 |
 
-Snapshot ID: `MCxkMzU3ZjM3NWYzNjc0MTE2YzI4YTk0YjY3ZWUzMWUzZjdiNjkzMzJk`
+Snapshot ID: `MCwyZjdiODYzMjQxOGFlZTQzNmVhYWYzMmU5ZjBkODc3YTc5MWIyOTA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Julais.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,848 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,851 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 |
 | 100 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 |
 
-Snapshot ID: `MCxhMGEwMDEzNDIyOGUyYWE3MDU0OTQzYzJhNTVkNTBmMTM1NDk2NmJi`
+Snapshot ID: `MCwxMWIwYTEyMTMzMDM4NTg3ZDAyZGNiOWRkZjVkNDU4NjI4NjZiODdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,733 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,747 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [Friday Night](https://open.spotify.com/track/6HW5rmg4NtHTWQExmbh9Wa) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 2](https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D) | 3:35 |
 | 100 | [Yummy Yummy \(feat\. Chancellor\)](https://open.spotify.com/track/3RHUTjWsh1eqCK6G8nZF2D) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [DINNER MATE \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1RDAD1RVIUmNQmznlXOWid) | 3:32 |
 
-Snapshot ID: `MCwyNTBjMjQyNzUwMGUyYzVhNjJhMGZkZThiOWZlZWJjODFlZTUyZGM2`
+Snapshot ID: `MCxiYzZjOWJkN2MyYTRlNGUwMmZlNTdjNmI0MTIwZDIyMTQ0NmE0OWEy`

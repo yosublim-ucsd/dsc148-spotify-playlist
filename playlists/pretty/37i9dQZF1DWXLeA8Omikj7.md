@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,652,884 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,653,103 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 |
 | 100 | [Dundas, Ontario](https://open.spotify.com/track/2xjxVDCkGBBEYWUjSZIl9S) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Start Breaking My Heart \(Special Edition\)](https://open.spotify.com/album/447aAsTmmXFZ0tyoB7sK3z) | 4:24 |
 
-Snapshot ID: `MCxmOWZhYTE4OWVkMTkzYjE3ZjlmYWJjNmYxZjQzM2Y3ZjE4N2VlNzBm`
+Snapshot ID: `MCw3MmNiOGM2NTc4MzEyN2RmMTRlNGVjMmRlODI0Y2YyZjRiNmYyODMz`

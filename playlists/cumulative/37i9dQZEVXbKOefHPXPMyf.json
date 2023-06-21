@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
@@ -2390,6 +2390,24 @@
       "duration_ms": 224842,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD"
+    },
+    {
+      "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "album": {
@@ -4079,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
+    },
+    {
+      "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
       },
@@ -4454,7 +4490,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 195986,
       "name": "Classy 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
@@ -8004,7 +8040,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
@@ -10573,6 +10609,24 @@
     },
     {
       "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -11406,6 +11460,28 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "LA CALMA",
+        "url": "https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "LA CALMA",
+      "url": "https://open.spotify.com/track/7qhycO2o68HOGl1vMCWIes"
     },
     {
       "album": {
@@ -18909,6 +18985,24 @@
     },
     {
       "album": {
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/606D5VLGNo08D63X3p8dfN"
+      },
+      "artists": [
+        {
+          "name": "yeifin",
+          "url": "https://open.spotify.com/artist/0D5iW5yV5Sb0DYRvKZjNeW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237871,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/1EZGCkexrlADoOmlRJlGBR"
+    },
+    {
+      "album": {
         "name": "Querida Yo",
         "url": "https://open.spotify.com/album/2gjmqDGXvEahzYN8qlEHaN"
       },
@@ -25584,7 +25678,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"

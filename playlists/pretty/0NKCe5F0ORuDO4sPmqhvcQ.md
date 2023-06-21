@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,013 likes - 143 songs - 8 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,012 likes - 145 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 141 | [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 |
 | 142 | [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:21 |
 | 143 | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/track/22VszW8gqbHFZlxpvxwfAf) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [2livemafia](https://open.spotify.com/artist/2JQBQCsZW4fQ8gKnXfJfux) | [TAKATAKA \(feat\. KD One & 2livemafia\)](https://open.spotify.com/album/5rTovmz7pIb8mT0w9zhg78) | 2:46 |
+| 144 | [Tear It to Pieces](https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Tear It to Pieces](https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w) | 2:55 |
+| 145 | [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:21 |
 
-Snapshot ID: `MTAzMjMsNmVlMzZmNWY2MTJjMzFjZmZlNzkyNTM0YmNjMzBhY2U5MmE2ODFkZA==`
+Snapshot ID: `MTAzMjUsZDkxYWVhZmE1MjExMmI5NTgyMDM0N2NmNDYyZTZmY2Q0NDMyNzM0Nw==`

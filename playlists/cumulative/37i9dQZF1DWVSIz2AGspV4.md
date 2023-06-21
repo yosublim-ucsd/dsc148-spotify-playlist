@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف : اصيل هميم
 
-229 songs - 13 hr 22 min
+230 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ala Almawthoe](https://open.spotify.com/track/3NfQNwOtvNQqP48xFKSegX) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ala Almawthoe](https://open.spotify.com/album/053pOViKjZOnMsG4fHhq7N) | 2:01 | 2022-03-14 | 2022-06-11 |
 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 | 2023-02-08 |  |
 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 | 2022-06-10 | 2023-02-22 |
+| [Aldniya Ensan \- الدنيا انسان](https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Aldniya Ensan \(الدنيا انسان\)](https://open.spotify.com/album/26R0thF36RaW86bcONy7KN) | 4:29 | 2023-06-20 |  |
 | [Alhob Malik](https://open.spotify.com/track/3WgxnFv3nAsCdFaiRUdKbR) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Alhob Malik](https://open.spotify.com/album/1isYU8e5FwVDnqgxF1Sx0o) | 3:34 | 2023-01-26 |  |
 | [Alhub Ibada](https://open.spotify.com/track/7qUeVqUrz1HIOfoMBnHUoC) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Alhub Ibada](https://open.spotify.com/album/2zXWcsl5FBgJGVhd3BEOVI) | 1:53 | 2023-03-24 |  |
 | [Aljawu Ahrkah](https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ), [Abdullah Alhameem](https://open.spotify.com/artist/7tBqukCGsALuDvcw4yRfCZ) | [Aljawu Ahrkah](https://open.spotify.com/album/5li76rsSP17tyl7C2xAEGr) | 2:49 | 2023-05-02 |  |
@@ -210,7 +211,7 @@
 | [Wajhij Chana Baghdad](https://open.spotify.com/track/0RZin6IHW0GSiZlRxRkcUL) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Wajhij Chana Baghdad](https://open.spotify.com/album/1qQC0kZvIhesYsei6SyMct) | 2:53 | 2023-05-19 |  |
 | [Wakty AlSaeb](https://open.spotify.com/track/50DAvbOdTVqS0uFSOBbZ2x) | [Ahmad Alsultan](https://open.spotify.com/artist/0bi5RUX7QwU8yOVliycRz8) | [Wakty AlSaeb](https://open.spotify.com/album/3HPlvNI6bh9TROhf6REe8R) | 3:07 | 2022-03-11 | 2022-07-20 |
 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 | 2022-04-05 | 2022-10-14 |
-| [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-05 |  |
+| [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-05 | 2023-06-21 |
 | [Weh Weh](https://open.spotify.com/track/5hIE3768XxBhVYagynrgn9) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Weh Weh](https://open.spotify.com/album/5EgwStHN2OzAujH1IzZuvF) | 2:50 | 2023-04-21 |  |
 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 | 2022-03-28 | 2022-10-14 |
 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 | 2022-11-03 | 2023-06-05 |

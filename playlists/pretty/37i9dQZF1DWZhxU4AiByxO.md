@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,556 likes - 187 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,566 likes - 187 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 186 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 187 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MCw3M2VkZWZkZDUzMmEyNWZkZTQ2YWJmNmFhNTQ5Mjc0ZjUwZDgzZjBj`
+Snapshot ID: `MCw0NTdmZWFiOWUxYjQ0NjIxMjdhZDk4NzZiZDVlNjZlN2ExY2UwMTlm`

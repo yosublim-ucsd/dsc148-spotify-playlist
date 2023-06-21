@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,248 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,391 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 69 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |
 | 70 | [When It's Love](https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg) | 5:37 |
 
-Snapshot ID: `MCxmOTNkNzhkMzQzZmVhYmQ3YjVlN2M5YTUwMGUyMWFlNWM3NzFkMTky`
+Snapshot ID: `MCxhNmIzMmNiOGIwNjQ1YjMyZjY3Y2NiMDUyYTY1NWEwZWQ3YjViYWY2`

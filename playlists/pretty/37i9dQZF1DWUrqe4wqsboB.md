@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 852 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Auu](https://open.spotify.com/track/43W23I8GxJset6wCOObzSH) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc) | [Auu](https://open.spotify.com/album/5FFFPr7Jy5dVDhxdr77pBo) | 2:54 |
 | 50 | [Fluorescente](https://open.spotify.com/track/5jvq9Nn9CUnRckxHjCezzA) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Huye](https://open.spotify.com/album/0PMFPm6A15sJGUbzS15SKD) | 4:07 |
 
-Snapshot ID: `MCwzN2YyMjcxZDgxYWU3OWI5OWUxMTg4Yzk0YWY3ZGU3YjJlMmRhYzQ0`
+Snapshot ID: `MCw4Y2UyYWNhNjkyODMyNDU2NjFkNjhjYzNlZTVmODVlMzU3YjNkZTlk`

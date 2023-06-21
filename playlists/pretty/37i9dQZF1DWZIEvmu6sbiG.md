@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 
 > Scopa, paletta e musica!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,247 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,259 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 | 99 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 100 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 
-Snapshot ID: `MCxmYmFhNjhkMzk2Njg2OWU4YTcwOGIzMGZmNmU2MmJmMmIzODZlZjUy`
+Snapshot ID: `MCwzOTFhYWE5MWI1NjlmMDg4ZDBjYWFkMWQ1MDBjN2ZjYzBjNzMwMjE2`

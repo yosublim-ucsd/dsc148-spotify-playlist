@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,420 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,443 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
 | 100 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 
-Snapshot ID: `MCw2MzNkNDEzZWViMjBjZjBlOThhN2E3Nzc3ODkwZWZmZGVmOTRkYTRl`
+Snapshot ID: `MCxlNzBhOWYxY2Q3YTRjODNiMzc2NDA1MDI3ZWZiMWNjYjNjOTUyOGIw`

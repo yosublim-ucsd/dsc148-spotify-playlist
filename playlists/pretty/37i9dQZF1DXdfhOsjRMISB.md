@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Dierks Bentley
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,731 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,769 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 |
 | 150 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 |
 
-Snapshot ID: `MCw1YjBiY2ZkN2E3YTcyMmU4ZDNjN2NmZjliODQ3MTRlOWNkZThlMGVk`
+Snapshot ID: `MCw0YWRmNjM1YWZmMjhjZGMyOTY2OWVkYWNhM2M1MGEyZDMxZWQ2Zjhh`

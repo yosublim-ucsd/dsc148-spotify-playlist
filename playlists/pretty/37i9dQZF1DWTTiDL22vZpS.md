@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,120 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,169 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 |
 | 60 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
 
-Snapshot ID: `MCxjNzdjYzcwNWRjOTQzNDllOGJiZGNkOWY3NWYwNzk3ODQxNTVjODU3`
+Snapshot ID: `MCxmMjA3ZWY4MmJmMzY2ODJjZmEzNmIyMWIzYzBmOGI1NjU1M2JhM2Ix`

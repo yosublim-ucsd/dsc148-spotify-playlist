@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
@@ -482,24 +500,6 @@
       "duration_ms": 260253,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R"
-    },
-    {
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "date_added": "2022-05-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 260253,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
     },
     {
       "album": {

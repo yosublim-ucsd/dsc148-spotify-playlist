@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 
 > From the decade that brought us Britney, Spice Girls, Coolio and so many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,557 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,982 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 99 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
 | 100 | [The King of Wishful Thinking](https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N) | [Go West](https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL) | [Indian Summer](https://open.spotify.com/album/622XQ6bN45EZWtogSS84P0) | 4:01 |
 
-Snapshot ID: `MCxmZDAwZDY2NDQ1NzYxMjEyNDA1NjBhYzVjODAzMTRhMTZjN2MzMTdl`
+Snapshot ID: `MCw0N2Q4Nzk2MTRiMDQxMjY2MWNlMjhkNjVkMjYzY2RiYTFiZTkwYzc5`

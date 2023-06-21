@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -849,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
         "name": "Cabron Yo Puedo",
         "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
@@ -3458,7 +3494,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -3582,7 +3618,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
@@ -3698,6 +3734,32 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "album": {
@@ -3884,6 +3946,28 @@
       "duration_ms": 198880,
       "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
       "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
+    },
+    {
+      "album": {
+        "name": "Leyenda Viva",
+        "url": "https://open.spotify.com/album/0Rkriaro8MWPbMwW6X6uzo"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170325,
+      "name": "Pa Ti (feat. Yailin La M\u00e1s Viral)",
+      "url": "https://open.spotify.com/track/5itNf8xltQ82ecZQZbO3F6"
     },
     {
       "album": {
@@ -4234,7 +4318,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
@@ -5655,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -5750,10 +5852,36 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "album": {
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
     },
     {
       "album": {

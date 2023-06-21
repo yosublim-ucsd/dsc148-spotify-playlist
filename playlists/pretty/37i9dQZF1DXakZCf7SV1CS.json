@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 45666,
+  "num_followers": 45766,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODYxZDg4YjE2ODBiMTc0ODA5MzcyY2NhZWI4MDkyMjM3ZWE5N2Jm",
+  "snapshot_id": "MCxiYjRjMWNiNjgxZjU5OGM4MjZlZDk5NDZjM2JmN2VlYWY0Mzg4ZTA0",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -39,22 +39,6 @@
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -215,6 +199,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "i know you hate me",
+        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 124516,
+      "name": "i know you hate me",
+      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "i know you hate me",
-        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
       },
       "artists": [
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 124516,
-      "name": "i know you hate me",
-      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -271,34 +271,58 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
         }
       ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/161dRAdPs6Wf7w1bKkNQaY"
       },
       "artists": [
         {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+          "name": "Arl1ny",
+          "url": "https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq"
+        },
+        {
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "Thezth",
+          "url": "https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU"
         }
       ],
-      "duration_ms": 197528,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
+      "duration_ms": 144567,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2hQSzHwZ8rC1KwCrOzOP7B"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -315,22 +339,6 @@
       "duration_ms": 196893,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -387,22 +395,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "then i'll be happy",
         "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
       },
@@ -419,30 +411,6 @@
       "duration_ms": 111875,
       "name": "heather",
       "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "stupid horse",
-      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -487,18 +455,26 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+      "duration_ms": 121681,
+      "name": "stupid horse",
+      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -523,6 +499,22 @@
       "duration_ms": 247917,
       "name": "mos thoser",
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -555,6 +547,26 @@
       "duration_ms": 171808,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "think abt it",
+        "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
+      },
+      "artists": [
+        {
+          "name": "oaf1",
+          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
+        },
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "duration_ms": 144332,
+      "name": "think abt it",
+      "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -619,26 +631,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "think abt it",
-        "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
-      },
-      "artists": [
-        {
-          "name": "oaf1",
-          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
-        },
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        }
-      ],
-      "duration_ms": 144332,
-      "name": "think abt it",
-      "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "things with wings",
         "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
@@ -651,6 +643,26 @@
       "duration_ms": 108363,
       "name": "cheap liquor",
       "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Slayyyter",
+        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -699,42 +711,6 @@
       "duration_ms": 158096,
       "name": "glittr",
       "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Slayyyter",
-        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "hi, i'm dante",
-        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 116349,
-      "name": "movinglikeazombie",
-      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -790,6 +766,22 @@
     },
     {
       "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
+    },
+    {
+      "added_at": "2023-06-20 14:29:14",
       "album": {
         "name": "i dont want that many friends in the first place",
         "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
@@ -899,22 +891,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "detest me",
         "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
@@ -947,6 +923,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -991,22 +983,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
       },
@@ -1019,6 +995,22 @@
       "duration_ms": 236937,
       "name": "Faceshopping",
       "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1083,22 +1075,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -1135,6 +1111,38 @@
       "duration_ms": 146938,
       "name": "I <3 Harajuku",
       "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1191,22 +1199,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
       },
@@ -1227,22 +1219,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/59OTBWWNBMB0dLbRzmZMIX"
-      },
-      "artists": [
-        {
-          "name": "David Shawty",
-          "url": "https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk"
-        }
-      ],
-      "duration_ms": 110106,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "My Agenda",
         "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
       },
@@ -1257,20 +1233,20 @@
       "url": "https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
+      "added_at": "2023-06-20 14:29:14",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
       "artists": [
         {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1287,6 +1263,22 @@
       "duration_ms": 120221,
       "name": "Rich Bitch Juice",
       "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1335,6 +1327,26 @@
       "duration_ms": 248976,
       "name": "Hot Pink",
       "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Kyoto (Glitch Gum Remix)",
+        "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "Kyoto (Glitch Gum Remix)",
+      "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
     }
   ],
   "unique_name": "Hyperpop Classics",

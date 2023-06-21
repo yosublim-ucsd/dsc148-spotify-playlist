@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,142 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,157 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 | 75 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
 
-Snapshot ID: `MCw4NjAzMDgyZDE1YTRmMjcxMzEwNmU0YzdhNGFlMDc2OTIwNDAwYjFj`
+Snapshot ID: `MCxjYmU2MWE1NDM1NGE5NjBiMWY0OTc0NDNiYmJhNDE3NTgyNzU2NzY5`

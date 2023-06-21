@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Home of the best bands orbiting the universe right now. Cover: The National",
+  "description": "Home of the best bands orbiting the universe right now. Cover: boygenius",
   "name": "The Best Bands In The Universe \ud83e\ude90",
   "tracks": [
     {
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs"
+    },
+    {
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 230260,
       "name": "Call Me What You Like - Spotify Singles",
       "url": "https://open.spotify.com/track/59OwF127DNz7cNtTzZmOuH"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
@@ -1396,10 +1414,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 244932,
       "name": "Hello You",
       "url": "https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW"
+    },
+    {
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174663,
+      "name": "High Life",
+      "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
     },
     {
       "album": {
@@ -1414,7 +1450,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 206681,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl"
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
@@ -1706,7 +1742,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
@@ -1915,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
       },
@@ -2016,6 +2070,24 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "album": {
@@ -2156,7 +2228,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
@@ -2358,6 +2430,24 @@
       "duration_ms": 124247,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt"
+    },
+    {
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "album": {
@@ -3908,7 +3998,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/780LZQM2fMyIDbDDAlPUeq"
@@ -3962,7 +4052,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"

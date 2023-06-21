@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,486 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,489 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [Love To Lose](https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Love To Lose](https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q) | 2:57 |
 | 100 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
 
-Snapshot ID: `MCwzNzVhZTg0NWM3NzJmOTRhNGExNDdkYWE3YTdkZDQyOTczNjUzODMy`
+Snapshot ID: `MCwxNzBhMGU4YmRmNTdkMTNmZDNhMTUxYjQ3Y2U3NmE5Njc4MmM1NmQ3`

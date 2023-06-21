@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Ricardo Montaner & Carlos Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,022,431 likes - 250 songs - 16 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,022,512 likes - 250 songs - 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 250 | [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 |
 
-Snapshot ID: `MCxkNDg4ZGYzYmE4NTNkOGRlNjlkZGRlNWE1NTM4ODUzMTFkYmJhY2M0`
+Snapshot ID: `MCw3YjM0YWZlNWM4Y2U0MzVkYTM2NmRjNmE5ZmUwOTY5ZWU2YmMzMzQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,435 likes - 80 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,488 likes - 80 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 |
 | 80 | [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 |
 
-Snapshot ID: `MCwxNjNkZDMwMjdiZDI0ZjAwMTUwZGQzNGNiNzUwMmM4Y2FhZDNjOTFk`
+Snapshot ID: `MCxlNWMxZDZiMTUyN2IwMjY2YzQ3YzJkMGNlZTY5ZTMxMjdmNTU5YWZk`

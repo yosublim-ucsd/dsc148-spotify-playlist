@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,651 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,832 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
 | 80 | [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 |
 
-Snapshot ID: `MCw0MzRhNDgyMzJhOTM5ODFjYjU3OWE3OWU0ZGQyOTYyYThhNTE3NWEw`
+Snapshot ID: `MCw5Y2FkNjAyNGZhZDBlMDA2MzkxMzVhNjMzNjVmNGE4ZTQyODY4Nzhi`

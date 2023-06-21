@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,963 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,488 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 |
 | 50 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
 
-Snapshot ID: `MCxhMzhjOTFjZjU4MzVlM2E2OTVhYTI2MmYzZjlhOTA3ODM4ZWY4ZTgx`
+Snapshot ID: `MCxhMzUwYzU1OWVlNzg1MDNkM2U1NGM1ZTM4NWNhYmQ3YzVhYTM0YThm`

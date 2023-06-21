@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,156 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,411 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Camarote](https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Camarote](https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k) | 3:03 |
 | 100 | [Favela chegou](https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hello mundo](https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq) | 2:40 |
 
-Snapshot ID: `MCxmYWUzNjc3MGY1ODQxMzhjNWFjNzM4NjE4MDhjZmEyZDE3MDYzNWI3`
+Snapshot ID: `MCwxNDliOTI3ZDlhOGIzMGFmYTlmOWQ5MGM3Zjc0MDIxNTA3N2ExNTVh`

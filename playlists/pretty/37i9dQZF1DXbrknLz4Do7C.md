@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,126 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,214 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 44 | [Sound Mind \- Live](https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y) | [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [The Land I'm Livin' In \(Live\)](https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V) | 8:23 |
 | 45 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 |
 | 46 | [To Your Arms](https://open.spotify.com/track/2PICbElRrRVeIDcAreUeeC) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami) | 5:05 |
-| 47 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
+| 47 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tamara Fontijn](https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
 | 48 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 |
 | 49 | [Corazón de Piedra](https://open.spotify.com/track/0PImEtenba1318UQSlkmeP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Corazón de Piedra](https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56) | 3:41 |
 | 50 | [Tan Solo Una Orden \(feat\. Alex Campos\) \- En Vivo](https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Thalles Acústico En Vivo En Colombia](https://open.spotify.com/album/0RGjDEyl6kD3YVhQ6NQdau) | 7:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 69 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 70 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 
-Snapshot ID: `MCw0ZjgyMWEwZTY0MTNhYzJiN2QyOWQyN2IzMWU4N2ExYzNmMjRkNTg4`
+Snapshot ID: `MCw0OTVmM2MxOTI4ODJmN2Y1YmQwMmU4N2Q1ZmE1MTE3YjEzMGZlYWUz`

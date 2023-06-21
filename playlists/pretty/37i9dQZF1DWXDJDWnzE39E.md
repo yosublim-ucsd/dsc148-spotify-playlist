@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Conquer Divide
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,988 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,153 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 80 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
 
-Snapshot ID: `MCwxODQ0YjZkMTUzMjdlM2Y3MzRmMjA5NjRhYzNhYjNhNGY3OGNmOGQw`
+Snapshot ID: `MCxmYzUyYTA2YzU0MWE3YzAyYWIwMmJmMDA3ZjE4NmVkYTM5MTczZTQ1`

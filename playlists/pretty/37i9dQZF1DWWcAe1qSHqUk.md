@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,980 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,991 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [First Time Ever I Saw Your Face](https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:22 |
 | 75 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
 
-Snapshot ID: `MCxmNzM5YjUwOTc1OWI0YTM5NDhlZTYwZDQ0YzJiMzExMTY1M2RhODJj`
+Snapshot ID: `MCw0ZjYxNmNkNjYwYTYyNmQwOWI3MzIxZjBjY2MyYzI3YjFjYzk2YWEz`

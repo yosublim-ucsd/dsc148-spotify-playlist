@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: TM NETWORK",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: BAWDIES",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 233533,
       "name": "Days",
       "url": "https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ"
@@ -2087,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "GIMME GIMME feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6",
+        "url": "https://open.spotify.com/album/3IQhTaGN0nmA4Ms6Amts1X"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        },
+        {
+          "name": "SHO OKAMOTO",
+          "url": "https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "GIMME GIMME feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6",
+      "url": "https://open.spotify.com/track/1ugozcVrbEiQppq5l45JMk"
+    },
+    {
+      "album": {
         "name": "Go-Go B-T TRAIN",
         "url": "https://open.spotify.com/album/5Xx4uxV38Vn7MRroWJYxaD"
       },
@@ -2120,6 +2142,24 @@
       "duration_ms": 189974,
       "name": "Greatest Days",
       "url": "https://open.spotify.com/track/2qWac5BwMaIlqjAM4ha9CC"
+    },
+    {
+      "album": {
+        "name": "GROUNDSWELL ep.",
+        "url": "https://open.spotify.com/album/0N44vXI4msINfTkRBt38qH"
+      },
+      "artists": [
+        {
+          "name": "PassCode",
+          "url": "https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237080,
+      "name": "GROUNDSWELL",
+      "url": "https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC"
     },
     {
       "album": {
@@ -4150,7 +4190,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 358714,
       "name": "OH!",
       "url": "https://open.spotify.com/track/0inYnQKUEtJf3b9FIScJzk"
@@ -4283,6 +4323,28 @@
     },
     {
       "album": {
+        "name": "Open The Window",
+        "url": "https://open.spotify.com/album/1UrzTepg8WrgbK6zBbXxiH"
+      },
+      "artists": [
+        {
+          "name": "RHYMESTER",
+          "url": "https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ"
+        },
+        {
+          "name": "JQ",
+          "url": "https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Open The Window feat. JQ from Nulbarich",
+      "url": "https://open.spotify.com/track/1TVrB74jpRwvb2PSxm7yJf"
+    },
+    {
+      "album": {
         "name": "Opening Ceremony",
         "url": "https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj"
       },
@@ -4402,7 +4464,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
@@ -4424,6 +4486,28 @@
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "Bonnie Fraser",
+          "url": "https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx"
     },
     {
       "album": {
@@ -5178,7 +5262,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "SLEEPLESS",
       "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
@@ -5460,7 +5544,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 274480,
       "name": "SPF(STUTS remix)",
       "url": "https://open.spotify.com/track/7bWIEAjOB94ZQ6gvP0RZdq"
@@ -7574,7 +7658,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 283111,
       "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/1pkbFbojWxiX0ttqpPhMIl"
@@ -11292,7 +11376,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 218986,
       "name": "\u900f\u660e\u5c11\u5973 - 1 / LIVE",
       "url": "https://open.spotify.com/track/4nHb1FX8cqeGydB71lVgY4"

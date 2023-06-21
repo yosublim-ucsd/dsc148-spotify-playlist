@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-257 songs - 18 hr 34 min
+259 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Coloring By G\-Reco \- "Reconguista in G IV / Love That Cries out in Battle" Ending Theme](https://open.spotify.com/track/5letgaj9Abw061fuVyiDqb) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [Coloring by G\-Reco \("Reconguista in G IV / Love That Cries out in Battle" Ending Theme\)](https://open.spotify.com/album/2xACiQZsWW9evKOYjCAQwG) | 3:54 | 2022-07-27 |  |
 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 | 2022-07-27 | 2023-06-16 |
 | [Confession](https://open.spotify.com/track/5zoXKUcFS4dV5J11gns2Bl) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [MOBILE SUIT GUNDAM Twilight AXIS Original Motion Picture Soundtrack](https://open.spotify.com/album/2yo17LlVhmiyEcB4dHj0RH) | 4:12 | 2023-04-21 |  |
-| [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 | 2022-07-27 |  |
+| [Core](https://open.spotify.com/track/0MITczUCwALiMtuRdYeUAz) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/2XJXjtxjFCUJFynQbIaII6) | 4:43 | 2023-06-19 |  |
+| [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 | 2022-07-27 | 2023-06-21 |
 | [Cucuruz Doan's Island MainTitle](https://open.spotify.com/track/3BY5YKqQe2mKHltIvPOSR3) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [Mobile Suit GUNDAM Cucuruz Doan's Island \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Y26wT7yczFosDGnOi3Orj) | 1:59 | 2022-07-27 | 2022-08-26 |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA) | 4:11 | 2022-07-27 | 2022-07-29 |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 | 2022-07-27 |  |
@@ -148,7 +149,8 @@
 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-09 |  |
 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 | 2022-07-27 |  |
 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 | 2022-07-27 | 2022-07-29 |
-| [Resolve](https://open.spotify.com/track/644M4CDzq23hv5gSspq6bX) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P フィーバー機動戦士ガンダム 逆襲のシャア](https://open.spotify.com/album/2Sic1dlGXEDPPYhAm2qP7E) | 4:13 | 2023-06-19 |  |
+| [Resolve](https://open.spotify.com/track/5O2otbxcXlfcgoxaD0fkdy) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P FEVER MOBILE SUIT GUNDAM:Char's Counterattack](https://open.spotify.com/album/164Hv4pjvOyPE7KoYmT5XU) | 4:13 | 2023-06-19 |  |
+| [Resolve](https://open.spotify.com/track/644M4CDzq23hv5gSspq6bX) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [P フィーバー機動戦士ガンダム 逆襲のシャア](https://open.spotify.com/album/2Sic1dlGXEDPPYhAm2qP7E) | 4:13 | 2023-06-19 | 2023-06-21 |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 |  |
 | [sharp ♯](https://open.spotify.com/track/70VRn9TesY8dkfxNnEOZhY) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/6mlqY4QJsj8XDIstWD7ZwS) | 3:39 | 2022-07-27 | 2022-07-29 |
 | [Silent Voice](https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH) | [Jun Hiroe](https://open.spotify.com/artist/48DGGQUllRMJBjK6ArNDkZ) | [Silent Voice](https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB) | 4:26 | 2023-04-21 |  |

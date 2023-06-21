@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,858 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,864 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
 | 50 | [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 |
 
-Snapshot ID: `MCw5NjQxODZiMWM3YWM2NWRiZTE3NTkxMzRlM2VkZmQzNTNiNmU3MGNl`
+Snapshot ID: `MCwwNTYyYjkyN2Q2Y2ExYjY5NTcyMDlkNTk0NWEwZmI0ZTNiN2NhN2I3`

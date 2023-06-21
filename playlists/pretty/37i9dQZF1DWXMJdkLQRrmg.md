@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,697 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,776 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 49 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \(Live In New York\)](https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy) | 5:17 |
 | 50 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
 
-Snapshot ID: `MCw0Y2Q0Y2Q5YzRlNzc0NWMxMTU5NTZiN2E2OGQ0OWQzZjA3ZmQ0MWNl`
+Snapshot ID: `MCxmMDQyODEyNmFlNjg1OTlhOWM5ZTMwM2M3ZTIwOGVmNjA0M2VkYTIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,399 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,425 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 |
 | 80 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 |
 
-Snapshot ID: `MCwzN2ZlNjZjYzgyMTU0ZmUzZGRhOTM1MTk4MjM4M2IxYTc1ZmI1M2Qz`
+Snapshot ID: `MCw0NDkxMzEzNDI4MGY5MTk0NzlhM2Y5NGRkNmFhNDllN2RiMTVlYzdl`

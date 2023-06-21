@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,136 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,215 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
 | 100 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 |
 
-Snapshot ID: `MCxiYjZmNDM1M2ZjY2VjODZmMTNiNGM0ZDYzYTQwNWM2MWUxMWFiMWJj`
+Snapshot ID: `MCwxYzNlOGNmM2YyZjY0ZTYwMzlkMjkyNTJhMTU0ZDQ0ODkyYzg2M2Ni`

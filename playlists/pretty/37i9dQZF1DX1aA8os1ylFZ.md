@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,900 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,924 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [WHO HURT YOU? \(Deluxe\)](https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5) | 3:03 |
 | 100 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
 
-Snapshot ID: `MCw5MTU4NTM2NTEwMDg4YzM5NjY4ZTY2YmQ2ZTIzNWU2MDUwMDJkZmZm`
+Snapshot ID: `MCwzZTAxNGMwNDdmMjExNjdlNTY0MWQ4ZTVjN2MxZDQwNDYyNDA0OTcz`

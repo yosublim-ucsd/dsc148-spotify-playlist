@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 286933,
       "name": "Each Night",
       "url": "https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE"
@@ -866,6 +866,28 @@
       "duration_ms": 291400,
       "name": "Fables",
       "url": "https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX"
+    },
+    {
+      "album": {
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144149,
+      "name": "Fader - Edit",
+      "url": "https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP"
     },
     {
       "album": {
@@ -1812,7 +1834,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 224287,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"

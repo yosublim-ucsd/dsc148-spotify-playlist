@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,438 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,471 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 |
 | 100 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 
-Snapshot ID: `MCwxYjhjY2QzZGJjNWZhNDY5YzY1YzZkZWRmMjljNWM4MTZkOWNjNGI2`
+Snapshot ID: `MCxjODRjNjU1NmU2MDM4NjNlYzAwNzIxZDQwMmFjMjNmZTkzYTE1ZjJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,262 likes - 54 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 54 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 | 53 | [ムーンライト伝説](https://open.spotify.com/track/5Evz4JdzvH5X4LNmES6SBb) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [美少女戦士セーラームーン THE 20TH ANNIVERSARY MEMORIAL TRIBUTE](https://open.spotify.com/album/7v3boxFW6SwgaCbKe0B5hc) | 2:53 |
 | 54 | [ムーン・プリズム・パワー・メイクアップ!](https://open.spotify.com/track/5aC7yJBbtQbUbxERCqkjjR) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [美少女戦士セーラームーン 25周年記念Classic Concert ALBUM](https://open.spotify.com/album/5Vw1uQ3V9G6uNQVnGlv4Va) | 1:20 |
 
-Snapshot ID: `MCw3NzNjMjQ1M2JlZmFlNWQ0NWIyZWVkNThjNTQ0NDY1OWNkMzI1ZWYz`
+Snapshot ID: `MCwwM2FjYzc5ZjA2MWRlNzYwOWU0Njc2YTIzYjY5MDA5OGZjNjRhMGEz`

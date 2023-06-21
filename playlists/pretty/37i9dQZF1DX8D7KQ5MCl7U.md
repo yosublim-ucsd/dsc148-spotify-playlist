@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,134 likes - 150 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,186 likes - 150 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Chal Diyay](https://open.spotify.com/track/2BnBTE1aK5OLXmrdx951Lg) | [Zeb, Haniya & Javed Bashir](https://open.spotify.com/artist/1f4iMSEs6INRJOf87jpn0C), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:48 |
 | 150 | [Jindjaani](https://open.spotify.com/track/4wWY9C6LjAFfcwKkKv8Dhb) | [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 5:34 |
 
-Snapshot ID: `MCwyNmJlZmE0MWIzMDYzODdhNDMwNTA0ZmEzYTBkZGYwYzU1NzJjNjFi`
+Snapshot ID: `MCw2YzhmMzA1YjY4OTQxMTBmMmFjYTk2NGE0ZDczYjE1MDdiZjQxNmMz`

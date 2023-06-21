@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 201000,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g"
@@ -6297,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "No Rules",
+        "url": "https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547285,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1"
+    },
+    {
+      "album": {
         "name": "No Service",
         "url": "https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD"
       },
@@ -9400,7 +9418,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 163007,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600"

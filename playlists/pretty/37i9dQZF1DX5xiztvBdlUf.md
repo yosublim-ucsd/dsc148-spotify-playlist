@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,726 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,927 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
 | 80 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 |
 
-Snapshot ID: `MCw3YTI4NjQ0NDQwYjg5YzBlMTNjNjUxM2FmOTM2MTZiOTZjOWNmOTM3`
+Snapshot ID: `MCw5YWIwOTVjMmJjM2Y0MDA1YWM2Yzg0YjQ0MDFhZDMwMjExMGI0NGMz`

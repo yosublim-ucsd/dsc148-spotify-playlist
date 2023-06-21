@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 
 > A solid mix of favourites for any time, any place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,786 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,829 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 100 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 
-Snapshot ID: `MCwxOTJjYTUyNGU0MzYzNTEzZmEwZmI0MGJhYzY4ODU5ZDU1ZjFhYmRk`
+Snapshot ID: `MCw1NTcwY2I1ZjgwZTFkYjU2YTk3NjcwZTQ5ZTFlNGE2MDYwNzhiNGY3`

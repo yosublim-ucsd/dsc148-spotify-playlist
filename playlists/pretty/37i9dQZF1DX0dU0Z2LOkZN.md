@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,182 likes - 212 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,213 likes - 212 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 211 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 212 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MCxhYWEyNjA4NWQwOTJhNTg4MTNjNDgzYjJlNTE5N2UwYzE1YTE0OWY5`
+Snapshot ID: `MCw1MDk4NWUzOWFmNjZmYTdlOGYwNzdjOWMxZmU2MTBjNzdlNDU5Zjcz`

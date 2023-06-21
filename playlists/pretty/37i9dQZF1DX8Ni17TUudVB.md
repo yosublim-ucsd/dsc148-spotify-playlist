@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,410 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,430 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 |
 | 90 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 |
 
-Snapshot ID: `MCxiMzg1ZjgzMTcwZWQwNjFkYzE0YTZiZWM4NzE4YmMyZjMyZjQxNTNk`
+Snapshot ID: `MCwyYTFhOTE0ZmQ0NmI4N2VhM2I3MmVlNGQ2YWIyMGEwNTVhYWNhZWEz`

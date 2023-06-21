@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Discover indie covers\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,347 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,417 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 |
 | 100 | [Can't Help Falling in Love](https://open.spotify.com/track/5PDPuNnEocaxBD0NzVEjmh) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 2:54 |
 
-Snapshot ID: `MCxmMjY1MjQ1Mjc0YTFlODM0YWVmMWM3OWViYzg1MTkyODJiMDVhOGY1`
+Snapshot ID: `MCw4NGI3ZTczM2RiOTcxZTY3MGY0YjJjNzY2OTYyNDg0NmFjODk0MGRk`

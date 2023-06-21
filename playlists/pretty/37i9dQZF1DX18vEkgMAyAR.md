@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,512 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,547 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 | 60 | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh), [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw) | 3:17 |
 
-Snapshot ID: `MCxmNzEyZjdhMmRhZDNhYTdjNDRiNWU3YmZkZjk3Y2E0MjkxNGI5MzMz`
+Snapshot ID: `MCwwZjdiNWJiZWE3YjExMTgzNDg0YWQzYjg1ZGJhMDIzN2Q2MDNjMjVk`

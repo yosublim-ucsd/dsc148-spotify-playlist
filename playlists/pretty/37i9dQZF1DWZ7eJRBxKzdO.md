@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,806 likes - 120 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,874 likes - 120 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 |
 | 120 | [Summer In Love](https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Summer In Love](https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp) | 3:15 |
 
-Snapshot ID: `MCxkYzk2ZTFiODk0Mzc3NGM2OTA3NzFiYWE0NzAxODY2ZGMwMmQ2ZjY2`
+Snapshot ID: `MCxmMTg3MmY1MjFhMGU5N2FmYjc2ZTcyNmVhY2UxM2MxOWI3M2YwMmRk`

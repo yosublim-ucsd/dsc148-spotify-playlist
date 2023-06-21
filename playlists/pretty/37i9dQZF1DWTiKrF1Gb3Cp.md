@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,075 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,134 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 | 100 | [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 |
 
-Snapshot ID: `MCwyMjVhZDM1MzAyZWQ1MmZjODFmOTAzM2ZjOWQyNDAxOGVhMmY1MzNk`
+Snapshot ID: `MCw3ODAxYTNhMDM4MWU3NzRlYmRjODEzOTUxYmJlNWRmZDc1NjQxNWRi`

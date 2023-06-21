@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,933 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,102 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 78 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
 | 79 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
 | 80 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
-| 81 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 |
+| 81 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 |
 | 82 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
 | 83 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 |
 | 84 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 |
 | 100 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 |
 
-Snapshot ID: `MCxmODY0ODBhNGYxZTg3ZDFhYzNjZTNjOGNkNjQ5ZDA4NDJmYzJmZGFm`
+Snapshot ID: `MCw0YjE3ODc4ZmEyNjhhY2UwMWM4YzliYjg2NzJmYzMxYzg4MDc5ZDVl`

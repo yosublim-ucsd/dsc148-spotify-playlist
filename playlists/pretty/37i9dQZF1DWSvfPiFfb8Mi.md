@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,837 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,112 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Amor](https://open.spotify.com/track/6bgs3RYz2AE8eJ5NJmBm8a) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Amor](https://open.spotify.com/album/6ZYoYbyYrGZonOyeEOHPxg) | 4:01 |
 | 100 | [Just for the Night \- Jean Tonique Remix](https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Just for the Night \(Jean Tonique Remix\)](https://open.spotify.com/album/5aeZJVEbJ8vpSv17brEa1n) | 3:25 |
 
-Snapshot ID: `MCxjNGUzZGRmZDU1MzI0MmE0YjRlMjBiYzJhMGM1NTg0YzJkZjc1OGE4`
+Snapshot ID: `MCwzOGFhNWRhNjQ4MjY5ZjlhMWUwZDFjMzA4MDg5MmY5OTFhMTZjMjRi`

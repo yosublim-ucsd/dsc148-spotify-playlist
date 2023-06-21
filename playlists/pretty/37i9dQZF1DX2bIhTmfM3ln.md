@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,531 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,568 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [Compromise \(feat\. Rema\)](https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:15 |
 | 80 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 |
 
-Snapshot ID: `MCw3MjIxNDkwMTUxM2RhMmQ3NmIyYTc2ZjM5MmI0M2M2N2ZiNzJjNDAz`
+Snapshot ID: `MCw3MWFhNjg5NjAxNzgwZWNjYTdhMjUwNjM2NzNhYTVmY2NkYzY1NDcx`

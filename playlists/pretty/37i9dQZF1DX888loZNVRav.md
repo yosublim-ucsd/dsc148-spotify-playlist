@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,018 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,042 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 74 | [What You Mean To Me \- Original Broadway Cast Recording](https://open.spotify.com/track/0M9CNqwzeyijhwOsL7ZXF7) | [Matthew Morrison](https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z), [Laura Michelle Kelly](https://open.spotify.com/artist/6korWWGsk6Mbm51fHRzWdP) | [Finding Neverland \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3EO8LoU4K02HxE2RQ6eA9w) | 3:34 |
 | 75 | [All I've Ever Known](https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:03 |
 
-Snapshot ID: `MCw0MDRhMWU0NWZkOTIxODBhMjVhNGRhMTcxZmFmOTJlODc0YThkZThj`
+Snapshot ID: `MCxhZTI3NDMzYzljODM4MjRjZjYxZjk2YTM3MzkyMzFiNzZmMDIyOWI4`

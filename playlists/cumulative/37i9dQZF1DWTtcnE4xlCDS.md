@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-138 songs - 8 hr 30 min
+139 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bright](https://open.spotify.com/track/3dUeEq0FPwS07H37UBlRnm) | [ASOBINOTES](https://open.spotify.com/artist/4IYzJWak1qpMeitj4milSo), [DEN\-CHAN](https://open.spotify.com/artist/7JbRsEpHRHefg0LuPBtVVM), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [SYO](https://open.spotify.com/artist/0tCRCsOhEyiu1oSEE0XfJh) | [DEN\-CHAN COLLECTION \(vol.3\)](https://open.spotify.com/album/2QnhtFId96y6DELldDoKSi) | 2:26 | 2023-06-09 |  |
 | [Catch a Fire](https://open.spotify.com/track/71NAELZD48PIgqQ2b0d3pd) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [Catch a Fire](https://open.spotify.com/album/0c9l4Lt7enMy8abs1ZZGzC) | 4:00 | 2022-08-24 |  |
 | [CHAMPION GIRL](https://open.spotify.com/track/7tlHSna1rluIpbpNWd0nXM) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [CHAMPION GIRL](https://open.spotify.com/album/0yXUfHV2VPf2tegyOU8yD3) | 3:00 | 2022-08-24 |  |
+| [Change](https://open.spotify.com/track/1RKxwWLfgimPD1anjtn60R) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Change](https://open.spotify.com/album/3ebLohq6hQomEGMJMRCNOJ) | 4:10 | 2023-06-20 |  |
 | [Cheater](https://open.spotify.com/track/5twtNpFW2opaTy4MbAYdcV) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM) | [Cheater](https://open.spotify.com/album/0ovGFZNkO5iPwGEeiMZp8z) | 3:03 | 2022-12-08 |  |
 | [Chick Chick love♡](https://open.spotify.com/track/5XH6OGHlYOhWtnsOkQ3xr2) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2) | [Chick Chick love♡](https://open.spotify.com/album/1rUW0xUvhO4ewnBKdSBAhM) | 3:36 | 2022-08-24 |  |
 | [Cinderella Magic Stage](https://open.spotify.com/track/4i5Z3kLt4j7wrsp0HdhSVU) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [Cinderella Magic Stage](https://open.spotify.com/album/0RwGN4h39P816HrnYrKhf6) | 4:39 | 2022-10-13 |  |

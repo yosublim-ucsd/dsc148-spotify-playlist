@@ -4,7 +4,7 @@
 
 > Timeless melodies from your favourite artists, both old and new.
 
-206 songs - 11 hr 54 min
+208 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-12-02 | 2023-04-15 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-02-15 | 2022-12-12 |
 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 | 2023-05-09 | 2023-06-14 |
+| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 | 2023-06-20 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-05 |  |
 | [BABY](https://open.spotify.com/track/3sCIhVn73syDMgOtWzyeYm) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [BABY](https://open.spotify.com/album/2RiHM9kUQTWeM3CsZBKwP6) | 3:12 | 2021-12-17 | 2023-01-14 |
 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 | 2022-02-15 | 2023-03-01 |
@@ -50,6 +51,7 @@
 | [Cloudy Day](https://open.spotify.com/track/4E2rXUbcF1zhZVzNzeVPGV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:05 | 2022-12-20 |  |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2021-12-17 | 2022-10-22 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-12-17 | 2023-03-11 |
+| [Crown Your Love](https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:04 | 2023-06-20 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-12-02 |  |
 | [Cuts & Bruises](https://open.spotify.com/track/5NmloLVuEmbB0477xkgVt1) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Cuts & Bruises](https://open.spotify.com/album/27RrICozAblMtWEC9IcZBn) | 3:05 | 2021-12-17 | 2022-04-06 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-10-21 |  |
@@ -66,7 +68,7 @@
 | [Don't Be a Stranger](https://open.spotify.com/track/3orZOtGTaZlJ2P9hDq0SgB) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Invitation](https://open.spotify.com/album/4sb0AxaFWzJccdArYLTLKQ) | 3:18 | 2021-12-17 | 2022-02-16 |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2022-01-18 | 2022-12-21 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2021-12-17 |  |
-| [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 | 2022-09-23 |  |
+| [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 | 2022-09-23 | 2023-06-21 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-17 | 2022-01-19 |
 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/5l0nX3AhmmF717aKSs8qSH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/album/7Lx1rMMZesU7oswEwP2MQX) | 3:40 | 2021-12-17 |  |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2021-12-17 | 2023-03-01 |
@@ -161,7 +163,7 @@
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-12-17 | 2022-10-22 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-20 |  |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-04-05 | 2022-09-24 |
-| [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 | 2023-04-04 |  |
+| [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 | 2023-04-04 | 2023-06-21 |
 | [River](https://open.spotify.com/track/5nD2zmNcN7jZ1lrdj4ZVxX) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [River](https://open.spotify.com/album/6IQCulw5pQ0uEq2KqGS9fk) | 3:09 | 2021-12-17 | 2022-12-21 |
 | [Rule The World](https://open.spotify.com/track/5A95IcRYKW2E9K4KMT11WU) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Rule The World](https://open.spotify.com/album/29XJhFalgLtkfUUHIZtSHt) | 3:17 | 2021-12-17 | 2022-12-03 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-12-17 | 2023-04-15 |

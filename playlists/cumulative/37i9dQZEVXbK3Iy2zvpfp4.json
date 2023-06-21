@@ -827,6 +827,32 @@
     },
     {
       "album": {
+        "name": "Ali Ali",
+        "url": "https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02"
+      },
+      "artists": [
+        {
+          "name": "Diorange",
+          "url": "https://open.spotify.com/artist/1BKMGwVQOhbkZ1xEiPH2k3"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Ali Ali",
+      "url": "https://open.spotify.com/track/2lW57y7U7Pce21wRiMe6EA"
+    },
+    {
+      "album": {
         "name": "Ali Bomaye (feat. Calin & Luca Brassi10x)",
         "url": "https://open.spotify.com/album/4FM5zFB8fH4bBKCd7SSwIe"
       },
@@ -926,7 +952,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -3290,7 +3316,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -4377,6 +4403,24 @@
     },
     {
       "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352866,
+      "name": "Dear Arkansas Daughter",
+      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
+    },
+    {
+      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp"
       },
@@ -4476,6 +4520,24 @@
       "duration_ms": 144135,
       "name": "Destination",
       "url": "https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc"
+    },
+    {
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
     },
     {
       "album": {
@@ -7482,7 +7544,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -10530,7 +10592,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
@@ -11230,7 +11292,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 88304,
       "name": "MATHEMATICAL DISRESPECT",
       "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
@@ -15800,7 +15862,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 203850,
       "name": "Release The Kraken - Sefa Remix",
       "url": "https://open.spotify.com/track/7bv6jlFlY7QspMOIDxBe6z"
@@ -16690,6 +16752,32 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
+        "name": "Echinacea",
+        "url": "https://open.spotify.com/album/0uez3Z4GAhrjzBSVt03JxF"
+      },
+      "artists": [
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        },
+        {
+          "name": "Katarzia",
+          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Sebavedomie",
+      "url": "https://open.spotify.com/track/1gRn5xnGsk1tEv1dsA16BJ"
     },
     {
       "album": {
@@ -18848,7 +18936,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -21184,7 +21272,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"

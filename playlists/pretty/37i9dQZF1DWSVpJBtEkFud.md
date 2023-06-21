@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVpJBtEkFud.md) - [plain]
 
 > Pop favorites from today and yesterday
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,666 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,046 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVpJBtEkFud.md) - [plain]
 | 99 | [OMG \(feat\. will.i.am\)](https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:29 |
 | 100 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
 
-Snapshot ID: `MCwwNjgxZTQ5MTk0Yzc1YWExZGE4NTg3Y2FhYTI1NjM3OTJiYmMyMjU1`
+Snapshot ID: `MCw2YTU1YWRkOGRmOTZkM2IyMzMyZWE3MWI2NDgwNWY1ZDdhMTU2MWNk`

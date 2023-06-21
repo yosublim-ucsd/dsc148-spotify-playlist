@@ -1,12 +1,12 @@
 {
   "description": "Doja Cat on top of the Hottest 50!",
-  "num_followers": 33820079,
+  "num_followers": 33824793,
   "original_name": "Today's Top Hits ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTQzNGFkODZiYmI4YWIyOTRkOTgxZjQyNTg5ODI5NjMwOWUxOTJi",
+  "snapshot_id": "MCw5OGVmMGU1NDM5YWI2Y2M3MWIzZTY4YjhlZWIzNTM1N2ZjYzJkYzgx",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2023-06-16 04:00:00",

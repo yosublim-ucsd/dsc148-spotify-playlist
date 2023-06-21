@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,178 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,226 likes - 90 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
 | 90 | [Corazon Sin Tiempo](https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Corazon Sin Tiempo](https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I) | 3:37 |
 
-Snapshot ID: `MCxiNmUyN2MwYjUxYmMxNzkwN2YwZDFhNjZhYmI0OWYzYzJiMDc3NjE0`
+Snapshot ID: `MCw5ODNiNjY0YWVlZmYwODU3ZmVjYTRhNjMxNjRlZjNkNGY4MzAwZTMw`

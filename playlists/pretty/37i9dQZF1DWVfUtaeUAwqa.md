@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,230 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 | 55 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 
-Snapshot ID: `MCw5Y2YxYzliYWM3ZTg5NDQxNmYyYzdhMjNiMGZjOGY3NGY1ZTYzYzIx`
+Snapshot ID: `MCxmMTJmZTI1YTg5ZTI0NzVjNGQxYWRhZTVhNzg5OGM0ZDM1NThlY2Rm`

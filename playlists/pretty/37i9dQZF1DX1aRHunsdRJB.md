@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,440 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,444 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 | 68 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
 
-Snapshot ID: `MCxkMmMxYjNiMGFkNjQ4ZjdiOWE1ZTY5MWE0ZWQ3YjMyMzBmNmI3OWIx`
+Snapshot ID: `MCw5YmZiMGMzMDRmYjJhZDQ2YmJlN2I2ZWRlMTI0YThhNjNlNmQ0ZmVl`

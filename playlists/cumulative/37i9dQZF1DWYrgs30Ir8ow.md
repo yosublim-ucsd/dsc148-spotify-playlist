@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Frenna
 
-200 songs - 9 hr 36 min
+201 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Fall In Love](https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summerpack](https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB) | 2:55 | 2023-06-14 |  |
 | [Fallin](https://open.spotify.com/track/1V2RVZdPSzFTb1ITr25iSw) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Fallin](https://open.spotify.com/album/6scuUVPKlS9ScVO2xOPymq) | 2:29 | 2023-05-18 | 2023-06-02 |
 | [February Stories](https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [February Stories](https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3) | 2:23 | 2023-05-06 | 2023-05-26 |
-| [Feeling the Love Again \(Explode\)](https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling the Love Again \(Explode\)](https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l) | 2:42 | 2023-06-15 |  |
+| [Feeling The Love Again \(Explode\)](https://open.spotify.com/track/3eGf636ICmSNbZEEl7QAax) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling The Love Again \(Explode\)](https://open.spotify.com/album/3xqG4VIG6Z3c56zcRaYOVE) | 2:42 | 2023-06-15 |  |
+| [Feeling the Love Again \(Explode\)](https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling the Love Again \(Explode\)](https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l) | 2:42 | 2023-06-15 | 2023-06-21 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-02-23 | 2023-03-25 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 | 2023-03-02 |
 | [Friends ;\)](https://open.spotify.com/track/49SNbAIw8fVt05OzBArbr7) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Friends ;\)](https://open.spotify.com/album/5CrUfeMnviNo7PA8j3lMDk) | 2:33 | 2023-02-23 | 2023-03-28 |

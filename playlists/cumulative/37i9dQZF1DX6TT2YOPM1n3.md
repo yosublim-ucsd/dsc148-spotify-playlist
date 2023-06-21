@@ -4,7 +4,7 @@
 
 > Trending Pakistani tracks under one roof\. Cover: Asim Azhar, Shae Gill
 
-63 songs - 3 hr 56 min
+65 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,12 @@
 | [Main Rang Sharbaton Ka](https://open.spotify.com/track/1yYM7dY6wSJFp5qmxPRLu1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Phata Poster Nikhla Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ADyLRU2KWshFA02symTDr) | 4:23 | 2023-05-04 | 2023-06-16 |
 | [Mangan Aiyaan](https://open.spotify.com/track/1A27G1hOLRBA0nKvakRZHI) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mangan Aiyaan](https://open.spotify.com/album/3mgsIaswVoF08xKiZuiLgn) | 3:53 | 2023-05-24 |  |
 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 | 2023-06-08 |  |
+| [Marjaniey](https://open.spotify.com/track/3wpQ6qv3QiEVujhvwW40nY) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Marjaniey \(1\)](https://open.spotify.com/album/5AEBVGeMey0FryxyiSlPma) | 3:20 | 2023-06-20 |  |
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2023-05-04 |  |
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2023-05-04 |  |
 | [Na Cher Malangaan Nu](https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Na Cher Malangaan Nu](https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG) | 3:50 | 2023-05-04 |  |
 | [O Saathi](https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [O Saathi \(From "Baaghi 2"\)](https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A) | 4:11 | 2023-05-04 | 2023-05-23 |
+| [Pardesi](https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Pardesi](https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS) | 3:54 | 2023-06-20 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-04 |  |
 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2023-05-04 |  |
 | [Pehli Nazar Mein](https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 5:12 | 2023-05-04 | 2023-06-13 |

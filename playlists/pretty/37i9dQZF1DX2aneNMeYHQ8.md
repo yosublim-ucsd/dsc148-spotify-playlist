@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,495 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,512 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 |
 | 100 | [Hanging by a Thread](https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC) | 3:18 |
 
-Snapshot ID: `MCxkNTJkYjlmMWEyMTVkZDhhNDUyNTZlNzVkYWIzZjc5ODkwNzg5ZGNi`
+Snapshot ID: `MCwyZjhiZGE3ZDY5NTc1MWZiNjA5N2UwN2MxYmYzM2U4MjA2YjllZTBh`

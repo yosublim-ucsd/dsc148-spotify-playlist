@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Kacey Musgraves' debut record Same Trailer Different Park on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,350 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,612 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Yours If You Want It](https://open.spotify.com/track/4D4xJ4LyDXBWIf9thFSMAJ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Us](https://open.spotify.com/album/0SVt148hDLtlcJ95kIngKE) | 3:26 |
 | 200 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
 
-Snapshot ID: `MCw0MWVhNDBjMDIzMjA4OWNjMTgzZDliNGVkNGI1OTRmNGM4OWMyNzBm`
+Snapshot ID: `MCw4YzU0YzMzNGQ2OGNmMjg3M2IwMzYwMzc0ZDkxZDU1Njg5MmY4OGE5`

@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 148658,
       "name": "Corn\u00e9lis",
       "url": "https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 187380,
       "name": "Duomo di Milano",
       "url": "https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ"
@@ -5133,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126529,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
+    },
+    {
+      "album": {
         "name": "Heart In The Right Place",
         "url": "https://open.spotify.com/album/5y4Bv1ccHZ85DAxArO7orn"
       },
@@ -5544,6 +5562,24 @@
       "duration_ms": 104101,
       "name": "Human",
       "url": "https://open.spotify.com/track/3xSMHqImMckctNyDwbc6dy"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110086,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4"
     },
     {
       "album": {
@@ -6416,6 +6452,24 @@
       "duration_ms": 122832,
       "name": "kawaguchiko",
       "url": "https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY"
+    },
+    {
+      "album": {
+        "name": "Kay's Recovery",
+        "url": "https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Conor",
+          "url": "https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114275,
+      "name": "Kay's Recovery",
+      "url": "https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA"
     },
     {
       "album": {
@@ -8129,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214630,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
+    },
+    {
+      "album": {
         "name": "Melodrome",
         "url": "https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk"
       },
@@ -8464,7 +8536,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 139637,
       "name": "Modena",
       "url": "https://open.spotify.com/track/3iEbunxqmwNPKpuleXc3GD"
@@ -8738,7 +8810,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 215500,
       "name": "My Mind Made Up",
       "url": "https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO"
@@ -11186,7 +11258,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 143879,
       "name": "Sailing Away",
       "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
@@ -13609,6 +13681,24 @@
     },
     {
       "album": {
+        "name": "The Year of Unravelling",
+        "url": "https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD"
+      },
+      "artists": [
+        {
+          "name": "Elyse Cloudd",
+          "url": "https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128522,
+      "name": "The Year of Unravelling",
+      "url": "https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY"
+    },
+    {
+      "album": {
         "name": "Theme From the Lost Ones",
         "url": "https://open.spotify.com/album/3I8SD1DiFu87iLBaQA8zvB"
       },
@@ -14524,7 +14614,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 198994,
       "name": "Vaguely Reminiscent",
       "url": "https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU"
@@ -15428,6 +15518,24 @@
       "duration_ms": 127625,
       "name": "Wolf and Her",
       "url": "https://open.spotify.com/track/7GI26ZckFos2DWeF4ZKY5V"
+    },
+    {
+      "album": {
+        "name": "Woman traveling alone",
+        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126396,
+      "name": "Woman traveling alone",
+      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
     },
     {
       "album": {

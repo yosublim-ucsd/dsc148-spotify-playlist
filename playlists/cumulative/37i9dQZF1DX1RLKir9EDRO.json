@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: nisan \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: Bulutlar  \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 235624,
       "name": "Anlad\u0131",
       "url": "https://open.spotify.com/track/0CTcWJfMOqJhc1XovrkcDc"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 142864,
       "name": "Beni tek d\u00fc\u015flerim anlar - Akustik",
       "url": "https://open.spotify.com/track/3XMb86DZBzXO71wKDgzWxA"
@@ -1446,6 +1446,24 @@
     {
       "album": {
         "name": "DEL\u0130RD\u0130M",
+        "url": "https://open.spotify.com/album/7lPuTJrbBhVl7Xm0YqirVh"
+      },
+      "artists": [
+        {
+          "name": "Mert Berkay",
+          "url": "https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "DEL\u0130RD\u0130M",
+      "url": "https://open.spotify.com/track/4yhXRYiezb6XpZONKjH17b"
+    },
+    {
+      "album": {
+        "name": "DEL\u0130RD\u0130M",
         "url": "https://open.spotify.com/album/00bQMOMNHT9gQj0caErTwh"
       },
       "artists": [
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 164129,
       "name": "DEL\u0130RD\u0130M",
       "url": "https://open.spotify.com/track/6I13UjONQnrceXalGtedCb"
@@ -4490,10 +4508,28 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 115200,
       "name": "Neden",
       "url": "https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k"
+    },
+    {
+      "album": {
+        "name": "Neden",
+        "url": "https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF"
+      },
+      "artists": [
+        {
+          "name": "Dila Uzun",
+          "url": "https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Neden",
+      "url": "https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA"
     },
     {
       "album": {
@@ -4584,6 +4620,24 @@
       "duration_ms": 254828,
       "name": "Okyanus Kadar",
       "url": "https://open.spotify.com/track/6dRwh62pB52N6TELfQEnkb"
+    },
+    {
+      "album": {
+        "name": "Olamad\u0131k Hi\u00e7",
+        "url": "https://open.spotify.com/album/5dIpKwNVtGZP2Y0qMVC3w2"
+      },
+      "artists": [
+        {
+          "name": "Aysemen",
+          "url": "https://open.spotify.com/artist/5yWs6I0NML8oUMCdIiKh8s"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161994,
+      "name": "Olamad\u0131k Hi\u00e7",
+      "url": "https://open.spotify.com/track/6BwrHULHRdlupSxI0OCSIl"
     },
     {
       "album": {
@@ -4904,7 +4958,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 266493,
       "name": "RUHUN SU\u00c7LU",
       "url": "https://open.spotify.com/track/5FMfhVjapTW6O6SaemqzCE"
@@ -5214,6 +5268,24 @@
       "duration_ms": 178617,
       "name": "Sana G\u00f6re",
       "url": "https://open.spotify.com/track/11yEWWSaG1aBtujuxMrbIm"
+    },
+    {
+      "album": {
+        "name": "Sana K\u0131yamam",
+        "url": "https://open.spotify.com/album/6Gkorg58Aix0whjgBNimvM"
+      },
+      "artists": [
+        {
+          "name": "Tun\u00e7 Aydo\u011fmu\u015f, Co.",
+          "url": "https://open.spotify.com/artist/4WSDsWARENCdh6lkJDwdYL"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210697,
+      "name": "Sana K\u0131yamam",
+      "url": "https://open.spotify.com/track/0GZyOk5g6uRKObzxDYrLpH"
     },
     {
       "album": {
@@ -5762,7 +5834,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 228800,
       "name": "Son Perde",
       "url": "https://open.spotify.com/track/6ixXTrGqmgluADrd9EJxxa"
@@ -6681,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Yeter Anla",
+        "url": "https://open.spotify.com/album/3AXaq3WedBOvZ56jbBKnsq"
+      },
+      "artists": [
+        {
+          "name": "Serenad Bayraktar",
+          "url": "https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "Yeter Anla",
+      "url": "https://open.spotify.com/track/7HVaYtj4Tseh3QhA8L6NYS"
+    },
+    {
+      "album": {
         "name": "ye\u015fil ormanlar",
         "url": "https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu"
       },
@@ -7100,6 +7190,24 @@
       "duration_ms": 237473,
       "name": "\u00c7a\u011f\u0131r\u0131n Gelsin",
       "url": "https://open.spotify.com/track/122Kp86cBOub3yicX86b8t"
+    },
+    {
+      "album": {
+        "name": "\u00c7ekil Yolumdan",
+        "url": "https://open.spotify.com/album/755vhXanoA0JOrDz0roAS5"
+      },
+      "artists": [
+        {
+          "name": "Kalopsia",
+          "url": "https://open.spotify.com/artist/6lqkSRYbxUqvsO7bLdN4iH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101725,
+      "name": "\u00c7ekil Yolumdan",
+      "url": "https://open.spotify.com/track/2tRD73ndIvRhdevvPznAng"
     },
     {
       "album": {

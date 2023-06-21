@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,778 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,791 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [El Barbarazo](https://open.spotify.com/track/1jxqWXRBC2Ie6lYZKVFEOM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 3:30 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCwyZjgwZTFlNDIxZmUxOWVjODlmNzY4MmJjNzVmZDM1MGU1ZDVhZDgz`
+Snapshot ID: `MCw1ZGNmNmMwZGE1YWQxNzMyZjQ3NTEyNGVkZDA1MzBjNjdhMjAzNGZl`

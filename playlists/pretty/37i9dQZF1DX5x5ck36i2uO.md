@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,049 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,068 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
 | 50 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 |
 
-Snapshot ID: `MCwzMjUxODRlNDRiYzljYmY2YjVmYjVmNzBhNDk4NDM1YjQ2NGM4ZWQz`
+Snapshot ID: `MCwyMWI0OTE5NTFjMTllYjA1ZTRmOGQyMmMxYzk5MzEwZjY4YWNhMmVm`

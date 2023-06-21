@@ -12915,6 +12915,24 @@
     },
     {
       "album": {
+        "name": "People Are Toys to You",
+        "url": "https://open.spotify.com/album/6Yg2tFy4jutgIkuNMkd6yL"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136160,
+      "name": "I've Got Me",
+      "url": "https://open.spotify.com/track/3ycUiQlR8oJVxHAisll4a3"
+    },
+    {
+      "album": {
         "name": "Wide Wall, Tree Tall",
         "url": "https://open.spotify.com/album/0cmItgB2WpuedJqKKTxhqC"
       },

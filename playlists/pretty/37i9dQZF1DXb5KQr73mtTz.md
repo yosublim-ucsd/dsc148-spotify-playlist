@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,432 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,446 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [nevertheless](https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [nevertheless](https://open.spotify.com/album/0XrbFmbmsQlkegtGKqBQhA) | 3:24 |
 | 50 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 |
 
-Snapshot ID: `MCxhMmE3Mjc0YWExMzdiZDExZWZkMjRiODM2OGQxNTQyNDM0YzI0ZTAw`
+Snapshot ID: `MCxlM2JiZDhlYzY3YzM5NWQwNzYzZTA4N2M1MTA4OTI0ZTk1Nzg4ODZh`

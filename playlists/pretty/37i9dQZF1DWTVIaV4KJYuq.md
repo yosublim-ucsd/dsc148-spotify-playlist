@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,285 likes - 110 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,380 likes - 110 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Don't Think Twice, It's All Right](https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q) | 4:21 |
 | 110 | [Brass in Pocket](https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 4:01 |
 
-Snapshot ID: `MCw1MDJjZWZkOTA3YTJlMmYyYWE5Mzc1YjkxMmIxYzU5OGEzNDUxNzA1`
+Snapshot ID: `MCwyMTRkOGE5ODBjOTA1YjFjNDgwZmZiMDVkY2VhZjI0NGJhYWVjMGUz`

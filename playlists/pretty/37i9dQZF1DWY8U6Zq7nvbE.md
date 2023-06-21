@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,800 likes - 200 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,829 likes - 200 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 199 | [Bullet \- Stripped](https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3XXF972ndwpoopGkCF6749) | 3:09 |
 | 200 | [I Just Came To Dance \- Acoustic](https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance \(Acoustic\)](https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou) | 2:28 |
 
-Snapshot ID: `MCw5NDRlOWIwOWY0Yjg3ODllYWM5MTE4ZDNhZjk1YWJiNDE0ZDcyYjFh`
+Snapshot ID: `MCxhYWI3NDcwOGM1MTA2MDc3ZDhlMTk4NzRhODkzMDU2MDJiNWU3ZTQ1`

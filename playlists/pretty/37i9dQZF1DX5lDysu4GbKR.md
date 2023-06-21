@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,338 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,437 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 34 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 35 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 |
 | 36 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 |
-| 37 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
+| 37 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 38 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/6WG7lZf7eByJM7ehImtX7k) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Live at Subfrantic Studios\)](https://open.spotify.com/album/0qtGR4UmBgC4pWuuyhh1zp) | 3:30 |
 | 39 | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/track/325oE43qXw4fAredssR2y9) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/album/2kQBeFVxFXSA5eKhoUYFyP) | 3:30 |
 | 40 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 |
 | 100 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 
-Snapshot ID: `MCxkZmNhY2I0ZmI4ZmZlZTA2YjU5MWQxYjJlZTJlNDRhYTY0Yzc3OTQ1`
+Snapshot ID: `MCw2MjI0N2Y4Nzg3ZWZkYmUwYWRjYjYxOGI0NTdkMjhlZTE3ZWVjNGIw`

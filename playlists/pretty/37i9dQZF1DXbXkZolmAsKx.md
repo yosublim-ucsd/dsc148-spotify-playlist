@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,256 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
 | 100 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 |
 
-Snapshot ID: `MCxjM2IxM2ZhYzg2YzBlNzk4ODA4MmFjY2FhMzY3ZjJlMTdkOGJlYmQy`
+Snapshot ID: `MCxjZmMzNmNhZWFkMjY0NTA1ZTEwNDI2NjA0MmM2N2U2MzIyODA4MGQ4`

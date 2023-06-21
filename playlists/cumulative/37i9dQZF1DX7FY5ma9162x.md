@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: SZA – congrats on "Kill Bill" surpassing 1 BILLION streams!
 
-560 songs - 1 day 7 hr 9 min
+561 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Silver Skies](https://open.spotify.com/track/5rTaolhcX439DcrsGTu7CD) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Silver Skies](https://open.spotify.com/album/4o2rLNhae1LMq2uWgFqheJ) | 3:02 | 2022-04-01 | 2022-06-18 |
 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM) | 2:47 | 2022-04-01 | 2022-04-16 |
 | [Single Again](https://open.spotify.com/track/7IP0lO9tHfNwBWZ9X6TJ84) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Single Again](https://open.spotify.com/album/0AIFISfeloajgVP5fB9ulV) | 3:33 | 2022-04-01 | 2022-04-20 |
+| [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-20 |  |
 | [Situation](https://open.spotify.com/track/3bpiz3jxPzSBZQ1qw5hLuf) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Situation](https://open.spotify.com/album/3q7nwxrkrt1qG6ttTtcY8a) | 3:30 | 2022-04-01 | 2022-04-14 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2022-03-11 | 2022-07-29 |
 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 | 2022-07-28 | 2022-12-17 |
@@ -531,7 +532,7 @@
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-03-11 | 2023-01-06 |
 | [Want You](https://open.spotify.com/track/1N5BQbp8mCUB3W2tEfCdfT) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [L.O.V.E.](https://open.spotify.com/album/05Lf2rOVxRGGJdI3N3F8xi) | 3:11 | 2022-04-01 | 2022-07-29 |
-| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 |  |
+| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 | 2023-06-21 |
 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 | 2022-03-11 | 2022-07-29 |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-06-17 | 2022-08-19 |
 | [We Went Our Own Ways](https://open.spotify.com/track/3S9dLUmwHtG5biX8wb484C) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [We Went Our Own Ways](https://open.spotify.com/album/2e5MSRRuyl9qJazFIAwrqM) | 3:38 | 2022-04-01 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,977 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,991 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 100 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 
-Snapshot ID: `MCw2N2QxYzY0MDlhOTc2MWNmYWI5ZTc4YzJjYzRhNjExNWU5OWNlODk0`
+Snapshot ID: `MCw3MjA4YTk4N2QyYTIwNWI3MTE4ZjEwZTVhYzI5ODE2Mjg5NjE2ZTEy`

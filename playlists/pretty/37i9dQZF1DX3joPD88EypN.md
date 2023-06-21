@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,463 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,501 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
 | 100 | [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 |
 
-Snapshot ID: `MCwwYTM3NTE4MDM1NjMyNDNjMGIxYjE1ZWQ4ODc5YTkwZTIzNTE2ZTI4`
+Snapshot ID: `MCwwZTE1MmQ5YzFmODc5OGQzNjZmZjY2YTJmNjRkYWY2ZjFkOTUzNjg1`

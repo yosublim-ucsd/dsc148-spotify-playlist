@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415,054 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415,313 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 | 50 | [Araw\-Araw Love](https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Araw\-Araw Love](https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g) | 3:31 |
 
-Snapshot ID: `MCw4MzNkMWVkMDI2MTE0MWI3Y2NjYzk5NDkwNTI1YmVhYzM4ZTIxMmQw`
+Snapshot ID: `MCw2YjgyMWJmNTdlMjhmN2FmNDQ3N2YyZWJlODM5MzFiZjliNzQzOTZi`

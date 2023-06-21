@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,304 likes - 114 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,312 likes - 114 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Closer](https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:03 |
 | 114 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 
-Snapshot ID: `MCxkMzdkZTU3YTUzYzZmYjk1MDM1NjQzZWUxYTI2ZDhiYTBjYjkwN2I3`
+Snapshot ID: `MCxhZGJlMTQzNWZlZDgxNzAzZjQ3MmYzM2E5ODgzNGM5YmM5YzY1YTll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,604,539 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,604,826 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
 | 100 | [Wicked Game](https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [Wicked Game](https://open.spotify.com/album/0Z1S7FjbZJ6OQ9hBo25dLa) | 4:05 |
 
-Snapshot ID: `MCxiMmYyN2QwMTlhNzAyY2Q0NTY5ZGFkMmZmZjdkNDEzMzExZTZlMWMz`
+Snapshot ID: `MCw3YWY5Zjk2ZGI5OTE3YjgwODY1MDFmZDUxOTUyNjU2NGUxY2I5NmY0`

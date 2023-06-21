@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,860 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,861 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 9 | [Listen to the Voices](https://open.spotify.com/track/6eyKldvrtmRfTyie4i6lY5) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 4:29 |
 | 10 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 |
 | 11 | [You're Lovely](https://open.spotify.com/track/7qFAzYTQlj9WXS4QitMgQ6) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 0:31 |
-| 12 | [Turn on Your Love \- 2006 Remaster](https://open.spotify.com/track/2DxGu0pXlKp6QPUc1VpqTm) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:45 |
+| 12 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
 | 13 | [A Little More Line](https://open.spotify.com/track/5JGaqfYu0hMPIZJhGlKuy8) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre](https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz) | 3:45 |
 | 14 | [It Must Be Love](https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:56 |
 | 15 | [When I'm on My Own You Are on My Mind](https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:25 |
-| 16 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
+| 16 | [Turn on Your Love \- 2006 Remaster](https://open.spotify.com/track/2DxGu0pXlKp6QPUc1VpqTm) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:45 |
 | 17 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 |
 | 18 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
 | 19 | [Nothing in the World Like Love](https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 3:57 |
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 28 | [Prayer](https://open.spotify.com/track/7eR1obV7V8atMmC9Sse7MR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 1:58 |
 | 29 | [Make My Day](https://open.spotify.com/track/5ynftPYCnToT1wAXkzUyuF) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Best Of](https://open.spotify.com/album/06AAV1gIjFCBjCKL3qooVf) | 3:01 |
 | 30 | [I Will Always Love You](https://open.spotify.com/track/1CjlMwVMrvWphUBZ3nCpyx) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:27 |
-| 31 | [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 3:13 |
-| 32 | [Fallin' for You](https://open.spotify.com/track/4qvMnfRbueOf7sEqgPf9V6) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:36 |
-| 33 | [Love\-A\-Love\-A\-Love\-A\-Love\-A\-Love](https://open.spotify.com/track/011IzFkQzXmOJCB39BKVjY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 2:58 |
+| 31 | [Fallin' for You](https://open.spotify.com/track/4qvMnfRbueOf7sEqgPf9V6) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:36 |
+| 32 | [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 3:13 |
+| 33 | [Pristine Verses](https://open.spotify.com/track/3OEltAYEQ0CMPi7Plafi0J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:00 |
 | 34 | [I'm Alright](https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:08 |
-| 35 | [Pristine Verses](https://open.spotify.com/track/3OEltAYEQ0CMPi7Plafi0J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:00 |
+| 35 | [Love\-A\-Love\-A\-Love\-A\-Love\-A\-Love](https://open.spotify.com/track/011IzFkQzXmOJCB39BKVjY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 2:58 |
 | 36 | [I Don't Know What's Happened to the Kids Today](https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre](https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz) | 3:13 |
 | 37 | [Here We Are](https://open.spotify.com/track/4HdfaXQLyzdMNICNmalvuV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Watch Me](https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R) | 2:40 |
 | 38 | [And the Wind Blows](https://open.spotify.com/track/0GGmpJMU7BoezAOSGTt8HQ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 4:49 |
 | 39 | [Seasons Come, Seasons Go](https://open.spotify.com/track/3PjBSTYctUXzr2levZNNgc) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:10 |
 | 40 | [Words](https://open.spotify.com/track/403OoxbU1lvuPlkaXMNxdc) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:22 |
 | 41 | [Somesay](https://open.spotify.com/track/7FcwlImuJKJiBJUhRmrcc9) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 2:55 |
-| 42 | [Second Time Around](https://open.spotify.com/track/0zvjDCmVZ0g7uVNRdI1Wdy) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:02 |
-| 43 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
+| 42 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
+| 43 | [Second Time Around](https://open.spotify.com/track/0zvjDCmVZ0g7uVNRdI1Wdy) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:02 |
 | 44 | [Too Late](https://open.spotify.com/track/0HQAx13Vd4qKpTBlxnjKm6) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 3:17 |
 | 45 | [Sally Came to Stay](https://open.spotify.com/track/49mJWMhvpbhhuyFR0WZYIC) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 4:31 |
 | 46 | [You Make It Easy](https://open.spotify.com/track/1f2tuM9cGS0U3usGnCZ0pY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [Entertainment Value](https://open.spotify.com/track/0zEyPZnf4NRddO2lRWaC1g) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:05 |
 | 50 | [You'll Let Me Know](https://open.spotify.com/track/5qFgkAegJUlElcXmdUKJUk) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:48 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBiOTljOTExOWYzOWQ1NmViOGE5ZWJkM2EwYjhiY2YyNQ==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA3ODlkYzk1YTgyM2QxZGM5M2EwZjg5NzQzMzU0YzI1Mw==`

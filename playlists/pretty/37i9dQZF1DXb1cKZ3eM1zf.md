@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,488 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,518 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 149 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 |
 | 150 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 
-Snapshot ID: `MCwyODVkMmM5OGZkZTc0Nzg3YWJjZWRhNDcwNzU5ODg4OGZhNmI0YzMw`
+Snapshot ID: `MCwxYjA5M2I3ZGY4NGM1MWM5MTQ1MDdlNjViYzM5MGZkZjI1OTkwODE1`

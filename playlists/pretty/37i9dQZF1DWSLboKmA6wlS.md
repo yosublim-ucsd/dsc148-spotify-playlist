@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Roger That\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,071 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 69 | [ผิดที่ตื้อ](https://open.spotify.com/track/1LXwAAUfu0F8EmpGLgny3G) | [ATSNEE](https://open.spotify.com/artist/42hq0E7w7rdL9SSDoxuDan), [K9K](https://open.spotify.com/artist/56A6I10Z8FaqMbBJsaoaQ1), [9'FAHAD](https://open.spotify.com/artist/1E2eS8JZHJoYhArNbquXUO) | [ผิดที่ตื้อ](https://open.spotify.com/album/05e2gdz33QEUR35AP7b2sR) | 4:37 |
 | 70 | [เพลงของเธอ Feat.JUNENOM,NONNY9](https://open.spotify.com/track/3V7Nf4k7mgJN8FVpRMTXos) | [Ramkien](https://open.spotify.com/artist/7oSnWFmBX8y7azvViiAFOl), [JUNENOM](https://open.spotify.com/artist/4UJLWha2LIj84BCtANOf31), [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [เพลงของเธอ Feat.JUNENOM,NONNY9](https://open.spotify.com/album/4nFrwpCRbAQO3cHKZZPhg9) | 3:49 |
 
-Snapshot ID: `MCwyZmE3ODQ2ZmY2YWIyMmQxYTAwYTJkMGFiZWY4NDY2MDA5NzU2ZDU0`
+Snapshot ID: `MCxlNTA4M2M1NGMxMWEwZDA5OWQ3MTg3YTZjZjMwMWJmNzMxNGRmOWIz`

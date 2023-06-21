@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,967 likes - 75 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,972 likes - 75 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 |
 | 75 | [Rosewood](https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/2ezZOU3YpToebih7Rvzx6s) | 2:42 |
 
-Snapshot ID: `MCw2NzhlYzU5OWEzZTA2ZWJjMWY0MGUzMWY2NzQxOTRmM2VjNDk1ODAx`
+Snapshot ID: `MCwxMjMzOTM5ODBiZDg0ZGEyZWU5ODdjZTc2NTg4NGJhNzhmZmM3ZDhj`

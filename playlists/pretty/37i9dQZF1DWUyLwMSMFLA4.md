@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,036 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,276 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 99 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 100 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
 
-Snapshot ID: `MCw0MzRlNTc5NjM0NWNjOGMxM2QyYTFlNTNlZWY2OGViMzE5YzUzNWIx`
+Snapshot ID: `MCxjZWNhODVhMDZhNGZhNGM4YjA0NGY5Y2I1MzlhMjc5MWMyZGFiNTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,312 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,308 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 75 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 |
 
-Snapshot ID: `MCwyOThmNGUwZGZmYWYzMWViY2E0ODM4OTA0NzYzZjk0OWQzZmEwYmI2`
+Snapshot ID: `MCxhOGJmOWY2MzlkODkzODg2ZjM0YjlkODYxMWIwYjgwMzRiOWY0ZDBj`

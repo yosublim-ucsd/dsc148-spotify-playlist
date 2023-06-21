@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Junior Zamora\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,499 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,500 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Nómada](https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d) | [Neomadas](https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H) | [Nómada](https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP) | 4:21 |
 | 50 | [Rayo De Mayo](https://open.spotify.com/track/4Vw5SSZbKzZVwfkwoLuz0q) | [El Banner](https://open.spotify.com/artist/1TqMGmr38iMBZiTOj4erkB) | [Rayo De Mayo](https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F) | 3:21 |
 
-Snapshot ID: `MCxjZTJlZjA4ZjFhODBiMzAxOWRkMzQ4YTIyZTU4YTIwOTg3MmI4MGFk`
+Snapshot ID: `MCxhMjM5NjljZjE3Yjc5OTg0ZGUzOGMwNDQyMTdhZGRlOTlkZGJiYWM4`

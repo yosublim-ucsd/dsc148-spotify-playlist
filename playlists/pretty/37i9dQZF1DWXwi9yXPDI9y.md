@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,208 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,290 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [You Go To My Head](https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 5:52 |
 | 100 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
 
-Snapshot ID: `MCxlMDc5N2JiNDY3YzM5MDVlOGI0Yzc3MTU1NGViZGNjYjJiYjk5ZmM3`
+Snapshot ID: `MCw0N2ZlOWU2NWM4MTUzNmI4MzQ1MDJmYzBkMDAwOTI3YmUxMTNjMDli`

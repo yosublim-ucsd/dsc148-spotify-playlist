@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,490 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,487 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 74 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
 | 75 | [Asterisms](https://open.spotify.com/track/4NibZrr4VDvu9N7MyYOqRc) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Asterisms](https://open.spotify.com/album/6zUFswV0IH03dppHSDTWMP) | 4:17 |
 
-Snapshot ID: `MCw1MTdlZWE5ZDYwZDBmOWE2NDkyZWQyOTY2MmM4OTRjNmQwMGRjNmM3`
+Snapshot ID: `MCw5Y2Q1YTI5YTM3MGUyZTllMDE2YzNmZTc2YmY4NzNjYjZlMTIxMzNi`

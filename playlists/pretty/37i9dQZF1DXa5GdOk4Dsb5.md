@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,794 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,898 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
 | 100 | [Llévame](https://open.spotify.com/track/1a91PUm4WW8jJazGLPYD3S) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Freddo Lucky Bossi](https://open.spotify.com/artist/0Xo0oBux0dHBchnwne2ajY) | [Llévame](https://open.spotify.com/album/1XrUa5IWX7jWwDLjRnF6Yq) | 3:45 |
 
-Snapshot ID: `MCxhODY0ZTkzMDM0ZmUxZTUwMjMwNjZiNTQwNWQzYWQ3NWU2ZTNiM2Vh`
+Snapshot ID: `MCxjNzFhMTYxNzdmOTI5NWVkZTVjMDk4Mzc0OWRlNDNlYjI0NTYyZWQ5`

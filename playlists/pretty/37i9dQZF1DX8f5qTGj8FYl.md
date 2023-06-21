@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,310 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,428 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
 | 80 | [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 |
 
-Snapshot ID: `MCwxNzViNGU4Yzg2NmIwMzIzMmZlN2E1ZDhiZDM0NWEyZTg1NmRkYTMy`
+Snapshot ID: `MCwwYjU3NGRhMDIyYmUxMjVkNmUzODYyZjhjYmQ0ZWIyMjRjNzFjOWRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,887 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,914 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 34 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 |
 | 35 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
 | 36 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 |
-| 37 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
-| 38 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 |
+| 37 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 |
+| 38 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
 | 39 | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/track/7JJ6QHjNgmFOAYaEv36IXE) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/album/5OxBZ1tt0FpQZU7VdfBbVy) | 3:05 |
 | 40 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 |
 | 41 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 48 | [Back It Up](https://open.spotify.com/track/23LAuKGYTIW6rrCiZqvDZG) | [Trap Beckham](https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Back It Up](https://open.spotify.com/album/5JEiyCKJvndbtLtj9fSmA3) | 3:05 |
 | 49 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBkNDBmOTgzMjZiMzAyZWJiYTMwOThlOGUwMjIzZjg0OA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA5NzEyMjRiYzI1M2Q3ZDMwZWI5ZTU4ZDQ1NmYwOGUxYw==`

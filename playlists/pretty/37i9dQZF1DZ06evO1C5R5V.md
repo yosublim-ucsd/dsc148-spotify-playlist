@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,320 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,345 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 29 | [Tiempo de Lluvia](https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:52 |
 | 30 | [Policía Chacal](https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 3:49 |
 | 31 | [Otro Día](https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 5:06 |
-| 32 | [En los Años Treintas](https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:51 |
+| 32 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
 | 33 | [Alejandro](https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:50 |
 | 34 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
 | 35 | [Tu Te las Tomaste Sólo](https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:43 |
-| 36 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
+| 36 | [En los Años Treintas](https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:51 |
 | 37 | [La Vida](https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:30 |
 | 38 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
 | 39 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Nena \- En Vivo](https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:47 |
 | 50 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDAwM2U2N2UyN2YzZTA2ZmY1NmRjMTEwMGQ2NDVjMDQyMw==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBiNzRiZWUwYWQwMWI1NjZkN2Y2NDE3ZmRlNGU0ZTYzMQ==`

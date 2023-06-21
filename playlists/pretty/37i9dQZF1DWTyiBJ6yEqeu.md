@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Press play, press start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,171,351 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,172,369 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
 | 100 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 
-Snapshot ID: `MCw0YzBiZDJmNjBjYTZmYmUwYjE4MzBjYjNjNTczOTRjYmYwY2VhNjVk`
+Snapshot ID: `MCxkYjExZjE4NDE2ZDYxMTM0MTg3ZTZhMWUxODdlNDM5YzcyMzJlNGJk`

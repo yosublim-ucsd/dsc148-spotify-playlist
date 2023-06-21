@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,923,927 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,924,692 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Baila Morena \- Live](https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 2:34 |
 | 100 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 |
 
-Snapshot ID: `MCwzMWQwZjNmYjNlNjVmYTdkMmI5ZTMxOTExZjVhYTE1Mjk0MWM4Y2Jm`
+Snapshot ID: `MCxlMjI1NzZkY2RlZDI4YWM3MDJlMDc0MGE3ZmI0YmVkNzM1MDMwYTFk`

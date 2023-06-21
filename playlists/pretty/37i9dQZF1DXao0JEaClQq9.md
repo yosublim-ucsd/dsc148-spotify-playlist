@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,609,959 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,610,089 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 |
 | 75 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 
-Snapshot ID: `MCxkY2VkZDg5NmE3YjdmOWQyOWE5YTBlNzUwN2NhNDM0Y2RlYWNlYzc3`
+Snapshot ID: `MCxmNjU0MGNiOGQ3YmFhODY0Y2U5ZDc3N2ViZjk2MzIxOTY3ZGQ1ZWRl`

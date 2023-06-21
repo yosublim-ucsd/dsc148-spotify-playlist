@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"> We Will Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,443 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 | 50 | [Calling you](https://open.spotify.com/track/6B7GADwWCK1yPvZCz8fCAY) | [Peter Ifeanyi](https://open.spotify.com/artist/3CPXdR36B6K5gpdLCuil8g) | [Calling you](https://open.spotify.com/album/6TDAZ11fcm7CiIDnwfHRDZ) | 4:07 |
 
-Snapshot ID: `MCxlOTRlNjkzYWE5NDVmYjNkNjdkYWZkZWMxNTgwYzZhOGYzMjEzZGRi`
+Snapshot ID: `MCwyM2EzYjI2NDRiOTc3YWRjOWRiMzk1ZmZjNTE3NWZkNWNlMDhjZGU2`

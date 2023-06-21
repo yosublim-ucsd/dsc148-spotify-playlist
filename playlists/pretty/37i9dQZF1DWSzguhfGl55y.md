@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,026 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,093 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 | 50 | [Mittelfinger hoch \- Remastered](https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK) | [Legacy \- Best Of \(Remastered\)](https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS) | 3:34 |
 
-Snapshot ID: `MCxjMTc4MTI0MDQ2YTlmNTgyZTk0ZTlmMzRlM2QxNTRkZDRhYjI4ODQ4`
+Snapshot ID: `MCw0Yzk3ZDY2MGQ3ODdmZWQwN2Q2ZjA1NjYzZjY4NzY3MDAxYmNjOTJm`

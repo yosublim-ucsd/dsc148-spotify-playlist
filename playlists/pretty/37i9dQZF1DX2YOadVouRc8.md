@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,664 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,703 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [ABENA](https://open.spotify.com/track/4j5eFFqrvJ3UZIMDdogVc9) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:04 |
 | 80 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 |
 
-Snapshot ID: `MCw1Mzg4MjAxNDEyZWNhMTAyYTBkODY3ZDAyNTRiYzMyMjZmYTkxOTMy`
+Snapshot ID: `MCxmMDZjMjMwMWQ4ODYxNTAyMThhOWU0OTk0MDJiOGU0NmYzMzgxMWU3`

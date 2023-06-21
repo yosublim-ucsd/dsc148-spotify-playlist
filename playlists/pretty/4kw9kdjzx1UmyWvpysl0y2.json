@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127215,
+  "num_followers": 127214,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI2OCwwZGIwOGUxMjI1MjQ3NjI1YzUxZmZjYThiNmQ2ZDA2N2FkNWNhNTFk",
+  "snapshot_id": "NDI3MixmODVlN2MxZTRmZjcwZTQ1ZDZkMTVlZjRlOWMxZjM5ZGI1OTQ4YjQ4",
   "tracks": [
+    {
+      "added_at": "2023-06-21 01:21:36",
+      "album": {
+        "name": "No Rules",
+        "url": "https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 547285,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1"
+    },
     {
       "added_at": "2023-06-19 19:25:32",
       "album": {
@@ -1103,38 +1119,6 @@
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
-    },
-    {
-      "added_at": "2023-03-29 20:01:11",
-      "album": {
-        "name": "Turn Me On",
-        "url": "https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 163007,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600"
-    },
-    {
-      "added_at": "2023-03-28 17:26:02",
-      "album": {
-        "name": "Falling Asleep",
-        "url": "https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA"
-      },
-      "artists": [
-        {
-          "name": "Aftruu",
-          "url": "https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Falling Asleep",
-      "url": "https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,316 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,689 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 100 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 
-Snapshot ID: `MCw0YjVjYzk0NDFiYWUwMjRhYzZiMzliN2Y3NTExYmIzMjIzMWU3MTVl`
+Snapshot ID: `MCw1OTQ2YzVmYTcxMWMxMDBlNmZiYWUxMGViYjQyMjg2YTA3MTQ5NjEz`

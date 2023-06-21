@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,945 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,969 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 12 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
 | 13 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 |
 | 14 | [No Vuelvas Mas A Mi](https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho) | 4:03 |
-| 15 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
-| 16 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
+| 15 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
+| 16 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
 | 17 | [No Me Dijeron](https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Me Dijeron](https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb) | 3:07 |
 | 18 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 19 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 35 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 36 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 |
 | 37 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 |
-| 38 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
-| 39 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
+| 38 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
+| 39 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
 | 40 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 41 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 |
 | 42 | [Dinero](https://open.spotify.com/track/1LPYZDxFTebhvqwX2gTu0j) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dinero](https://open.spotify.com/album/7oo7MqceHqBozYOfjWPx3r) | 2:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 |
 | 51 | [Afterparty](https://open.spotify.com/track/3sOWHDPh8O8hen6UnTJqxZ) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Afterparty](https://open.spotify.com/album/5X8GpJlGdZy5FraG3wHWgk) | 3:15 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDAxZGRmYTQyOTM1NDkxMGMzYzA5MjdkZGZmMjBkYTgxOQ==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA0MjUwNDdhYWJhNTQ1NTA4MTNiNWRjN2Q3ZDNlN2M5NQ==`

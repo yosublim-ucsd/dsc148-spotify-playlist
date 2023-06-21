@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-60 songs - 4 hr 17 min
+61 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2022-04-08 |  |
 | [Love marginal](https://open.spotify.com/track/69oopEcHr93WjL84ZGg0oS) | [Printemps](https://open.spotify.com/artist/5UDdlpW0SOJwKm8ZkSbO30) | [μ's Complete BEST BOX \(Chapter.07\)](https://open.spotify.com/album/7nNBandGoFJqSVTHCVlt8F) | 4:32 | 2022-04-08 |  |
 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-04-08 |  |
+| [ONE NATION UNDER THE DEMPA](https://open.spotify.com/track/0FxCG96wD3X8Jqnsx7Dm3v) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [ONE NATION UNDER THE DEMPA](https://open.spotify.com/album/3XzW2qsELrkEAj6qLNkrEW) | 3:18 | 2023-06-20 |  |
 | [Paradise Lost](https://open.spotify.com/track/2bwOFXhpw67kglSOTO9Q2i) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Paradise Lost](https://open.spotify.com/album/5i7vFlY7TmEJLTIIaWmIDP) | 4:43 | 2022-04-08 |  |
 | [Perfect\-area complete!](https://open.spotify.com/track/4EXGfnQPnDQrtZPUIrveL3) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Perfect\-area complete!](https://open.spotify.com/album/5kVBlTeeGPK0ufg742c49h) | 4:03 | 2022-04-08 |  |
 | [PUNCH☆MIND☆HAPPINESS](https://open.spotify.com/track/5VpshhnsseZ9rV3tlZXTtl) | [Happy Clover](https://open.spotify.com/artist/75P5zGNnt9MZDRvG7UmcjO) | [PUNCH☆MIND☆HAPPINESS](https://open.spotify.com/album/2U94VoeNyJhoN7WV7MIIN5) | 3:24 | 2022-04-08 |  |

@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 109377,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb"
+    },
+    {
+      "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/1gvsrIGxIiF2SR4k9CKpmA"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232359,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/6utouovyBS1d0wN4UmMhWu"
     },
     {
       "album": {
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Betterment",
+        "url": "https://open.spotify.com/album/6fqHu2B3KNLL7wA8zbwVD4"
+      },
+      "artists": [
+        {
+          "name": "Vibrational Winds",
+          "url": "https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219995,
+      "name": "Betterment",
+      "url": "https://open.spotify.com/track/1wVmQUjINFkhcEeJyjxlOH"
+    },
+    {
+      "album": {
         "name": "Birth",
         "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
       },
@@ -236,6 +272,24 @@
       "duration_ms": 175802,
       "name": "Birth",
       "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4ypytf7vDPbJYcfyUDWaQd"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262347,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/2wIBOetdiYn4ULg7j4jMg6"
     },
     {
       "album": {
@@ -419,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Restful Days",
+        "url": "https://open.spotify.com/album/1qdQorBzd93vJb4iRS43b8"
+      },
+      "artists": [
+        {
+          "name": "Ambient Saga",
+          "url": "https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197678,
+      "name": "Cibola",
+      "url": "https://open.spotify.com/track/0pbsOxjBKUu2zAiBEbGBWl"
+    },
+    {
+      "album": {
         "name": "Cirra\u00ed",
         "url": "https://open.spotify.com/album/4oumX1sftcjjbDv7sPBiTG"
       },
@@ -520,7 +592,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 311950,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn"
@@ -689,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Enhanced Focus",
+        "url": "https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Enhanced Focus",
+      "url": "https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw"
+    },
+    {
+      "album": {
         "name": "Esthetic",
         "url": "https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY"
       },
@@ -722,6 +812,24 @@
       "duration_ms": 155595,
       "name": "Eternal Slumber",
       "url": "https://open.spotify.com/track/4LmDvBu7x3Udb2ntXcFyOy"
+    },
+    {
+      "album": {
+        "name": "Ethereal Spaces Pt 2",
+        "url": "https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490000,
+      "name": "Ethereal Spaces Pt 2",
+      "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
     },
     {
       "album": {
@@ -923,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Healing Energy",
+        "url": "https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF"
+      },
+      "artists": [
+        {
+          "name": "ZIWA",
+          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Healing Energy",
+      "url": "https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU"
+    },
+    {
+      "album": {
         "name": "Hesperus",
         "url": "https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH"
       },
@@ -956,6 +1082,42 @@
       "duration_ms": 240074,
       "name": "Ida",
       "url": "https://open.spotify.com/track/7GkIuSUwvTdG4JoEI7FeJ8"
+    },
+    {
+      "album": {
+        "name": "In Cycles",
+        "url": "https://open.spotify.com/album/1Z3fUgGPw0FrfL5rLQSzlO"
+      },
+      "artists": [
+        {
+          "name": "Inez Wolde",
+          "url": "https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169896,
+      "name": "In Cycles",
+      "url": "https://open.spotify.com/track/5vjKJnFZGJf3f1slK57JNp"
+    },
+    {
+      "album": {
+        "name": "In Darkness & Light",
+        "url": "https://open.spotify.com/album/1lQcXFVYS9b6Qi55Tc5tU9"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200698,
+      "name": "In Darkness & Light",
+      "url": "https://open.spotify.com/track/0en8E24ctI01YglW8e83Zj"
     },
     {
       "album": {
@@ -995,6 +1157,42 @@
     },
     {
       "album": {
+        "name": "Intuitively",
+        "url": "https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB"
+      },
+      "artists": [
+        {
+          "name": "Damir Yamm",
+          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Intuitively",
+      "url": "https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I"
+    },
+    {
+      "album": {
+        "name": "It Begins",
+        "url": "https://open.spotify.com/album/0j2yDeXylsqDQS8QdBmGel"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "It Begins",
+      "url": "https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39"
+    },
+    {
+      "album": {
         "name": "Japanese Garden",
         "url": "https://open.spotify.com/album/3XYxOEv2KfIJOhHnlOroLc"
       },
@@ -1028,6 +1226,42 @@
       "duration_ms": 151200,
       "name": "Journey",
       "url": "https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng"
+    },
+    {
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/2NBJRiyIdMaLzJwjxLd6N9"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "Kaivalya",
+      "url": "https://open.spotify.com/track/6S9lxnDITYii6HT1o8CE5Y"
+    },
+    {
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203353,
+      "name": "Kalmte",
+      "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
     },
     {
       "album": {
@@ -1121,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Ledande ljus",
+        "url": "https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ledande Ljus",
+      "url": "https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn"
+    },
+    {
+      "album": {
         "name": "Leuchten",
         "url": "https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j"
       },
@@ -1193,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
+    },
+    {
+      "album": {
         "name": "Lustre and Mist",
         "url": "https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5"
       },
@@ -1222,7 +1492,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 144744,
       "name": "l\u00edquido",
       "url": "https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3"
@@ -1265,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "More Alive Than Ever",
+        "url": "https://open.spotify.com/album/4jMZhyGxPrvTFa3gXrnhL0"
+      },
+      "artists": [
+        {
+          "name": "Polarsken",
+          "url": "https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193623,
+      "name": "More Alive Than Ever",
+      "url": "https://open.spotify.com/track/33bCZrbjGFem7jLRAPxqBr"
+    },
+    {
+      "album": {
         "name": "Morning Energy",
         "url": "https://open.spotify.com/album/5rLZ4RJAIE2rGWMp6aFsf0"
       },
@@ -1276,7 +1564,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 90000,
       "name": "Morning Energy",
       "url": "https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT"
@@ -1298,6 +1586,24 @@
       "duration_ms": 177428,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX"
+    },
+    {
+      "album": {
+        "name": "Namaste Divine",
+        "url": "https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244025,
+      "name": "Namaste Divine",
+      "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
     },
     {
       "album": {
@@ -1373,6 +1679,42 @@
     },
     {
       "album": {
+        "name": "New Words",
+        "url": "https://open.spotify.com/album/65Ws1BQZcFgPzi4xesrQ6V"
+      },
+      "artists": [
+        {
+          "name": "Adriana Milou",
+          "url": "https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "New Words",
+      "url": "https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1876rjC3yEXpuntzL9P2FM"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3RA3YDQOkbJ3Oa8K6HRV81"
+    },
+    {
+      "album": {
         "name": "Norrsken",
         "url": "https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1"
       },
@@ -1406,6 +1748,24 @@
       "duration_ms": 155142,
       "name": "North Of Ishigaki",
       "url": "https://open.spotify.com/track/7KFPyAfvpOXtzdaVi6ugcc"
+    },
+    {
+      "album": {
+        "name": "Nu Och D\u00e5",
+        "url": "https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT"
+      },
+      "artists": [
+        {
+          "name": "Mira Appelquist",
+          "url": "https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144929,
+      "name": "Nu Och D\u00e5",
+      "url": "https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN"
     },
     {
       "album": {
@@ -1733,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Reincarnate",
+        "url": "https://open.spotify.com/album/5LEAfPyqpnX104GDfHgsSi"
+      },
+      "artists": [
+        {
+          "name": "Aurangpur",
+          "url": "https://open.spotify.com/artist/32GxAOEUyKukAp1nFXVgRc"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Reincarnate",
+      "url": "https://open.spotify.com/track/5MNADUhY1j25KuzRDhjbpd"
+    },
+    {
+      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ"
       },
@@ -1924,7 +2302,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 445000,
       "name": "Rivers Of Flutes",
       "url": "https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH"
@@ -1960,7 +2338,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 178000,
       "name": "Saman Aftur",
       "url": "https://open.spotify.com/track/3CSHq4I9SPxE2AmNsW4Riz"
@@ -2122,7 +2500,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 165010,
       "name": "Sentiment - Yoga Version",
       "url": "https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU"
@@ -2176,7 +2554,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 140689,
       "name": "Serenity of Touch",
       "url": "https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO"
@@ -2327,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Soul Sanctuary",
+        "url": "https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Soul Sanctuary",
+      "url": "https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc"
+    },
+    {
+      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -2342,6 +2738,24 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy"
+      },
+      "artists": [
+        {
+          "name": "Hedda Young",
+          "url": "https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186937,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V"
     },
     {
       "album": {
@@ -2601,6 +3015,42 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0JOAt5jpy8gSU7JbjKlOgW"
+      },
+      "artists": [
+        {
+          "name": "Zen Anani",
+          "url": "https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/21DnS7yrrRpyls44ZIz0is"
+    },
+    {
+      "album": {
+        "name": "Tranquil Moments",
+        "url": "https://open.spotify.com/album/3DugmmmHW1mmHl3OegtLWr"
+      },
+      "artists": [
+        {
+          "name": "Haraldur Berglj\u00f3t",
+          "url": "https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120044,
+      "name": "Tranquil Moments",
+      "url": "https://open.spotify.com/track/6B2ciPj4fYqyE1YMh6GIrA"
+    },
+    {
+      "album": {
         "name": "Transparency",
         "url": "https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ"
       },
@@ -2634,6 +3084,24 @@
       "duration_ms": 153857,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/730CHGmazdZjqrGw8FJvL2"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7gkxGreLwAq2aceljrKQMI"
     },
     {
       "album": {
@@ -2720,7 +3188,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 112311,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
@@ -2871,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4Uekdttlfv4SwOjDNCjV9i"
+      },
+      "artists": [
+        {
+          "name": "Jude Alston",
+          "url": "https://open.spotify.com/artist/59Ddscq0O8AvUVVuJfYlls"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/4rChINjAEtwr5rq3V1lht7"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5"
       },
@@ -2900,10 +3386,28 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 111470,
       "name": "Whalus",
       "url": "https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4"
+    },
+    {
+      "album": {
+        "name": "Whisper in the wind",
+        "url": "https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182924,
+      "name": "Whisper in the wind",
+      "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,183 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,226 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 94 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 |
 | 95 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
 
-Snapshot ID: `MCw5ZGMwZWIxNWI4NWVmOTk5ZmU3YzljYTMyYjFlMjYxNjliNjYyOWZl`
+Snapshot ID: `MCxmMWM4MjM1ZTQ0ZmZhYmMyNTQ2ZmI4YjE1ZjU5OGE4NWRmZjRlNTkz`

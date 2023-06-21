@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,877 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,892 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
 | 100 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 
-Snapshot ID: `MCwyMmI5MjJlMDFlZGQ3N2JhYzUyZDcyNWUzZmEyOTVkMmI1NmFlNDE1`
+Snapshot ID: `MCwwYmY3NjBmN2U3OTg4MWFmM2Q5NGRjYTE1M2YwNGE3NWI1Mzc1ZjM0`

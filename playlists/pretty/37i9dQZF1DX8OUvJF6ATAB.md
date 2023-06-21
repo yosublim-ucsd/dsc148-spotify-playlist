@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,335 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,402 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [You Were Always an Island](https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM) | 5:54 |
 | 100 | [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 |
 
-Snapshot ID: `MCw0MDA2ZDcxOTAxZmNhZDlhNjMyZGZlNDliYzE5ZDljNmFkZjVmNTM1`
+Snapshot ID: `MCw0YmE4NzVhMDdhNDNmN2I3ZWJkMDJkMWQzZDQxNjU3ZGMxM2U0MjQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,742 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,939 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 |
 | 150 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:14 |
 
-Snapshot ID: `MCwyYzY4NmE1ZGI2ZTA1ZjNhODRhOTE1MzQ4NjIwYTUxYTE5ODVlNDcx`
+Snapshot ID: `MCxjZGM4MzI5NWQ0ZTgzYzYzOWEzYmE2YTJhN2QyYjE5ZjM0ZjczOWFh`

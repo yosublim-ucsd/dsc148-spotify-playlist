@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-410 songs - 1 day 0 hr 55 min
+411 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-03-27\* | 2023-02-11 |
 | [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 | 2023-05-24 |  |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-14 |
+| [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-20 |  |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-17 | 2021-08-26 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-10-02 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
@@ -207,7 +208,7 @@
 | [Komang](https://open.spotify.com/track/6w5b3VYbq3kp0Nv4iZkAMz) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/63Gd7z1HEDrSr3w2KO55ns) | 3:42 | 2023-02-14 | 2023-02-16 |
 | [Kota](https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Kota](https://open.spotify.com/album/6kn7hqy1xP6XsYD6rSIhZW) | 3:18 | 2021-03-27\* | 2021-12-26 |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2021-03-27\* | 2023-02-10 |
-| [L](https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA) | 3:40 | 2022-08-07 |  |
+| [L](https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA) | 3:40 | 2022-08-07 | 2023-06-21 |
 | [L](https://open.spotify.com/track/66SBpMfdxpe7B2UF0hq4DR) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7KUfHZL0mIQunr64Tqy5mq) | 3:40 | 2022-07-13 | 2022-08-08 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-19 |
 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 | 2022-03-11 | 2023-02-20 |

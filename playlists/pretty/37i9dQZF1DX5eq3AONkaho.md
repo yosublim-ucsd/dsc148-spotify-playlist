@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,232 likes - 200 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,266 likes - 200 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [BANG BANG BANG](https://open.spotify.com/track/2ispu3yKamZhCGf2Aj4roe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:42 |
 | 200 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
 
-Snapshot ID: `MCxiYzA3MTdlY2Y0MzhhMDRmMWUxZWFlMTk2MmNiNTM0YjdhMTlhZjhl`
+Snapshot ID: `MCxiYzk5NjBiZGM1NWM4OTczNTk5ZTQ3ZDY2NzNjZTM2NGRkMGFhYzI3`

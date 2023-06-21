@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,762 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,822 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [yoyogi park](https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [tv\-guides \. \(mini\-tape\)](https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi) | 1:19 |
 | 60 | [Instant Knafeh](https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec) | [Kawakb](https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp) | [Instant Knafeh](https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz) | 3:12 |
 
-Snapshot ID: `MCxkMjU3ZjVjMzQ1NjhhNWNkMmM4ZDdlZGJjYzk1YjUwYjI5ZWI1NzI3`
+Snapshot ID: `MCxjZjBiZTBhZjNmM2NlNTc3NTBhODBlMDI4ZDE0YjdmODkyZDNkYjNk`

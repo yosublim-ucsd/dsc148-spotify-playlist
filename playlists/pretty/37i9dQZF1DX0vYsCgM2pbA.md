@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,473 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,482 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |
 | 60 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 
-Snapshot ID: `MCxmZTk4NmE5MDU0OWNiOGQ2MWM0YTIyMDUxYTZlNDUwNjE2ZDM4YWI3`
+Snapshot ID: `MCxlNTk0OGRiMjkyNWE4M2U3NmVkYzhlNTA2YWRkNzlkMzJjNzA1OWQ2`

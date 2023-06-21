@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,195 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,267 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 99 | [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 |
 | 100 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 |
 
-Snapshot ID: `MCwwYjRlNDczZjMzMjc1ZThlZDE3MWJiMTI0NTc2ZGJlNGY5ZjcwZDJh`
+Snapshot ID: `MCxlMjhhY2VhZWQxMGU1ZTU1MmU3NDBhN2MzZWIzZDM2ZDU1NjAzMmY1`

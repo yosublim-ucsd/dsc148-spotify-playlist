@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,661 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,669 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 |
 | 60 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
 
-Snapshot ID: `MCxjZTE1NzdhZDYzODE0M2U1OWIzN2U4NDMxNmM5OWY4YTI2YjNjMmY0`
+Snapshot ID: `MCwxYjUxM2Y3MDFhMjEyYzZmYjFiZmY5MTJiYjQ4ZjQ3MWE5NDg5Yjli`

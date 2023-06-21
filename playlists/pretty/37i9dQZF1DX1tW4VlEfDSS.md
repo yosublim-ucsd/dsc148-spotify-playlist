@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,676 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,735 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 | 60 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 
-Snapshot ID: `MCw0NTkzMWJkZjQ1ZTExMDk1ZTliYjJkMDc3ZWRjMjI2NmVkNGExMWRh`
+Snapshot ID: `MCw2YjM3OWU0MmE4YjM0NjU0NTgwNmM5YzIzZDM4Y2U3MmVhYTA3Y2Vm`

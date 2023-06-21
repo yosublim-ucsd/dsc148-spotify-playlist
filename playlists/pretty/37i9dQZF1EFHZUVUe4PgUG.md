@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 88 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 74 | [La Moto](https://open.spotify.com/track/1UBt22GcEFyXgJxJT4SVKT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:12 |
 | 75 | [LENTO](https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:54 |
 | 76 | [Hombre](https://open.spotify.com/track/1OPfK9dAwuwxLdu4WzeX27) | [Sammi Sanchez](https://open.spotify.com/artist/1ipFOh7c2lNnTdXJiIKR87) | [Hombre](https://open.spotify.com/album/0sm5DYD1xyeGzIjqDKUeAp) | 3:05 |
-| 77 | [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 |
-| 78 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
+| 77 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
+| 78 | [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 |
 | 79 | [Casi Casi](https://open.spotify.com/track/2twF3hXDFL25aZUDGajxff) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:15 |
 | 80 | [Sonreír](https://open.spotify.com/track/0PeZSWnEegBvqWyJVatSwE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:27 |
 | 81 | [Dímelo Ahora](https://open.spotify.com/track/3qNOZpWn8n2wTCmrfuUfar) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:10 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 87 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 88 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
 
-Snapshot ID: `MjgxMjA0MzAsMDAwMDAwMDA0Y2ViNjZmYjQ5OTI5MWUzNzM1YTJiMDcyZTRmNzM4Mg==`
+Snapshot ID: `MjgxMjE4NzAsMDAwMDAwMDA4YjU1N2JmZTZhNmQyODIyZjJlYzRmM2Q0NTE1NTljZQ==`

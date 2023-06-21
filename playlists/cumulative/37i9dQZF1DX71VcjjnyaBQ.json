@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 422813,
       "name": "Bye Bye Blackbird - Live",
       "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
@@ -1532,6 +1532,24 @@
       "duration_ms": 318620,
       "name": "Let Love Be Genuine",
       "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,794 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,840 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 |
 | 150 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
 
-Snapshot ID: `MCw0NWI4OTVjNmFmNWRhMTMwOGQyMTkyNzEyMzc2NWVhOTBmOWM2YmVi`
+Snapshot ID: `MCw4OWMzYjczMzM1NWIwZWExZDlkZjI4ODQzZWEwMjRjODBmZGJjMzM1`

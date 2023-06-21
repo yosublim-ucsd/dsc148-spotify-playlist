@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 197528,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 110106,
       "name": "Honda",
       "url": "https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
@@ -2117,6 +2117,32 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/161dRAdPs6Wf7w1bKkNQaY"
+      },
+      "artists": [
+        {
+          "name": "Arl1ny",
+          "url": "https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq"
+        },
+        {
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "Thezth",
+          "url": "https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144567,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2hQSzHwZ8rC1KwCrOzOP7B"
+    },
+    {
+      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -2128,7 +2154,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
@@ -2394,6 +2420,24 @@
       "duration_ms": 202391,
       "name": "Of Course I Still Love You",
       "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
+    },
+    {
+      "album": {
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,085 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,130 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Xin Lỗi](https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:07 |
 | 56 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 
-Snapshot ID: `MCxlNTBhMWEwMjRmNDQxYjIzOGU1NmFiOGFjYjNmMTIzMDc5NmY5OTFi`
+Snapshot ID: `MCxlZWQ5N2NiMTA2MzVkMTkwNmY3NTk4MzIxNzE5NGIyNjg5MGRmYzg1`

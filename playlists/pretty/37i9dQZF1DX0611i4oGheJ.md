@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,552 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,677 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 | 125 | [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 |
 
-Snapshot ID: `MCw0MTI3NGY4ODk5OTM0ODM0MWYwMDM4ZGI2YjM2NDk2MDJmYTUwMTY3`
+Snapshot ID: `MCw3YTIyYTBhYTgxYzNhZTgzMDE4ZDQ5ZWZkNjU3MmY3NmE0MTExZjU3`

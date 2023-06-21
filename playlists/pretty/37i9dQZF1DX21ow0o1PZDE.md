@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 
 > Todos los grandes éxitos del año, reunidos en un solo lugar\. Shakira y Bizarrap en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,466 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,951 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 | 99 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 100 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 
-Snapshot ID: `MCxjNGVkYzgxYWE5YmU5NGMyNTY1ZjExM2RkNTE3ZjJjNDAxNjRhZDA0`
+Snapshot ID: `MCw0NzIyMjk2MzJmYzg0MDNhNWMyNDQyMzY0YWE1MDY2MzExMGE3MDI2`

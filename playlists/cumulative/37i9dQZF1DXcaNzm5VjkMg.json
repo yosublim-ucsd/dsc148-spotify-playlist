@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Sampai Kita Tua",
+        "url": "https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275742,
+      "name": "Sampai Kita Tua",
+      "url": "https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK"
+    },
+    {
+      "album": {
         "name": "Sang Dewi",
         "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
       },

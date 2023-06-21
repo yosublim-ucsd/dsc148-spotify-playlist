@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,655 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,792 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 | 80 | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m) | 5:30 |
 
-Snapshot ID: `MCw2Y2U2OTU4YmZhYjJjZWQ0MjI5ZTlkNGY4NTFiM2ExYmFmZWMwYWVi`
+Snapshot ID: `MCxjMTExZmM0NzlhMjc3NjMzMDgyYjA3NmY4MWEzMzYxMWQ1OWI0ZmUx`

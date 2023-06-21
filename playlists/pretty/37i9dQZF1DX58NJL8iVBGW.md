@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,525 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,727 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
 | 100 | [Wrecks](https://open.spotify.com/track/6rpeEqLyn5S7eLT90437HP) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6XlYTnLtvFeFpN5BLVALQa) | 4:45 |
 
-Snapshot ID: `MCw5OGQyYjE4YjcwZDc2ZDQ2MDAzNTcxYzk0MTI1MmYxYTdlZDA2YzAw`
+Snapshot ID: `MCxhYjJjMmU1YjYxZjZlZGM4YWQ0MTFiM2ExYzdlNmY0NzhiMWI5MTRh`

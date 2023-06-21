@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > Get those vocal chords working with these Indie favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,302 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,525 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 149 | [L.S.F.](https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:17 |
 | 150 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 
-Snapshot ID: `MCwzZDFmNTUyNWI3ZTRhMmRjYTUwOTMzNjljYmZmMGU0NGZmYjAxYTY1`
+Snapshot ID: `MCw3MmNlZWUxMTliMjA0NmUzM2E4MTNmYmUzMmRkMWZiZmY5ZTEwZWUz`

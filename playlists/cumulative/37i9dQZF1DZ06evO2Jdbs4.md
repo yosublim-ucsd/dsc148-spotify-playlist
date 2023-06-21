@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 33 min
+79 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [La Pregunta del Millon](https://open.spotify.com/track/12qn6tXr90rVnctiC9jODD) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [La Pregunta del Millon](https://open.spotify.com/album/3CQRNYHTwLm8C8oXRqQtYz) | 3:20 | 2022-06-01 | 2022-10-13 |
 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 | 2022-06-01 |  |
 | [La Rosa / Flecha Envenenada \(feat\. Bobby Pulido\)](https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 6:00 | 2022-06-01 |  |
+| [Las Movidas](https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:04 | 2023-06-20 |  |
 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 | 2022-06-01 |  |
 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 | 2022-06-01 |  |
 | [Llórame](https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llórame](https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf) | 3:06 | 2022-06-01 |  |
@@ -59,7 +60,7 @@
 | [Que Voy A Hacer](https://open.spotify.com/track/0HD0RNHrLyM1yKJaWkR56R) | [Elida Reyna Y Avante](https://open.spotify.com/artist/6FgcIpZBpVNOXHniQX9Oml), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Que Voy A Hacer](https://open.spotify.com/album/2ZRarP86dR9OrYDNjiflEL) | 3:21 | 2022-10-30 | 2023-05-28 |
 | [Quiero Decirte](https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:19 | 2022-06-07 | 2022-09-22 |
 | [Quisiera](https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 3:43 | 2022-06-01 | 2022-10-11 |
-| [Quisiera Decirte \- En Vivo](https://open.spotify.com/track/5GwDyHTGJvmU0joWiH7wqs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby Pulido en Vivo..\. Desde Monterrey, México \(En Vivo\)](https://open.spotify.com/album/3sSWnpZn8WwUh33sngU6vn) | 3:09 | 2022-06-13 |  |
+| [Quisiera Decirte \- En Vivo](https://open.spotify.com/track/5GwDyHTGJvmU0joWiH7wqs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby Pulido en Vivo..\. Desde Monterrey, México \(En Vivo\)](https://open.spotify.com/album/3sSWnpZn8WwUh33sngU6vn) | 3:09 | 2022-06-13 | 2023-06-21 |
 | [Qué Más Te Puedo Dar](https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:40 | 2022-06-01 |  |
 | [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 | 2022-06-01 | 2023-04-09 |
 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 | 2022-11-25 |  |

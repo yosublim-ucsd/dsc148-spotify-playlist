@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,966 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,029 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [Directo Al Corazón](https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy) | [Jesus Manuel Estrada](https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg) | [Directo Al Corazón](https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ) | 5:01 |
 | 60 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 |
 
-Snapshot ID: `MCxkNzhjNmRjZTIyYjc1OTEwMjI0ODQ1ZDg5NDFjYTY5Mjk0MjIwNWU4`
+Snapshot ID: `MCxlY2E3NWM0N2VkYTQzOTVjY2Q2YmU4MDk3NWQ2Mzk0MWE5OWY3MGUw`

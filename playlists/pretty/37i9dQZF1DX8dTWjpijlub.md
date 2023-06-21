@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,599 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,811 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 49 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 50 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
 
-Snapshot ID: `MCxhZjdhMTRlNWYyZmYyMmZhMDdkMTE4OWE0MmZmYTc4NTZlYTY1NWM2`
+Snapshot ID: `MCw2NjQxOWYyZTI2Mzc3YjczN2FlYWJlMTE0MjA0OTk4Y2E3MDZkYzMz`

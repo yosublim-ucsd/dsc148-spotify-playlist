@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 301280,
       "name": "Dear",
       "url": "https://open.spotify.com/track/6S0iISRQW7TK8OM3gN3NyE"
@@ -4934,7 +4934,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 183320,
       "name": "Nyamboree de Moffy!!",
       "url": "https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI"
@@ -7916,7 +7916,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 185568,
       "name": "\u3068\u306a\u308a\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/4fvSpQzTsHOMevyvppbfut"
@@ -10551,6 +10551,24 @@
     },
     {
       "album": {
+        "name": "\u511a\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310560,
+      "name": "\u511a\u304f\u306a\u3044",
+      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
+    },
+    {
+      "album": {
         "name": "\u5149",
         "url": "https://open.spotify.com/album/6lYzEz2OmSz6oB5FCwGmBO"
       },
@@ -10692,6 +10710,24 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "album": {
+        "name": "\u5207\u3063\u5148 -Anime Ver.-",
+        "url": "https://open.spotify.com/album/0G8roX80ebGkEpbIuKWqHB"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89267,
+      "name": "\u5207\u3063\u5148 -Anime Ver.-",
+      "url": "https://open.spotify.com/track/10Zziq9Paf7dO3jEH3cUQJ"
     },
     {
       "album": {
@@ -12622,7 +12658,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 263613,
       "name": "\u83ef\u9e97\u30ef\u30f3\u30bf\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf"

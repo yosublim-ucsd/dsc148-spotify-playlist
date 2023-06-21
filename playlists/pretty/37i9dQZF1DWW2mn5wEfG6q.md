@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,665 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,738 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 99 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
 | 100 | [San Francisco](https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:47 |
 
-Snapshot ID: `MCxiY2Q3ZjM1OWEyMjM4ZmQxMjVjNTU2NzdhN2Y0YTNkNzBiMmY3NmJi`
+Snapshot ID: `MCw4YWE4Y2QwZDZmNjUyNmI2MDY3OTFjMGY3OTM0OTU1NDQyZDRlMTYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,507 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,596 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 |
 | 150 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 
-Snapshot ID: `MCw5OWFhMTRmNWYwYWZjMDE1ZjYxYjQ2MmRiNmI0ZDYzYzY4NTU2NTdl`
+Snapshot ID: `MCxiMGYxNzVmMGQxYWRmNTMzNGFhMWRlOGJjOTgxOGI5N2Q4MTkxMDBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Kanii.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,422 likes - 106 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,482 likes - 106 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 6 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 7 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 |
 | 8 | [Lose My Mind](https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:16 |
-| 9 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:17 |
+| 9 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 10 | [Da Capo](https://open.spotify.com/track/1EE7u8Cehjc6wWskL9HmBK) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Da Capo](https://open.spotify.com/album/3YCMZHAYUyxbQ4jsUyG8M3) | 3:12 |
 | 11 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 |
 | 12 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 88 | [Stars \- Kungs Remix](https://open.spotify.com/track/3D96RLUKIxCpSt1REGlMYR) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars \- Remixes](https://open.spotify.com/album/0mrFOd6nPTKivZe5ReWZjm) | 3:21 |
 | 89 | [Wat Is Die Mo?](https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wat Is Die Mo?](https://open.spotify.com/album/2s1Or2j7XDdEwZvprd37jY) | 4:18 |
 | 90 | [Only You](https://open.spotify.com/track/1qPCJzivpvvmDK6sMCvvPK) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE), [QT\-HIGH](https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo) | [Only You](https://open.spotify.com/album/3yq44RWcSWDcbRfUbkUN89) | 3:48 |
-| 91 | [Amber](https://open.spotify.com/track/73beeHHQcDYkbUaSS02I9Y) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Evokings](https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222) | [Amber](https://open.spotify.com/album/0PCOK5eGhOPlkd1anJHO4y) | 4:05 |
+| 91 | [Amber](https://open.spotify.com/track/73beeHHQcDYkbUaSS02I9Y) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Evokings](https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222) | [Amber](https://open.spotify.com/album/0PCOK5eGhOPlkd1anJHO4y) | 3:40 |
 | 92 | [INNER FYRE](https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc) | [Bleach](https://open.spotify.com/album/3VXSmuGlhlCYmhA9mouesP) | 2:34 |
 | 93 | [Ode Ireti \- Amapiano Edit](https://open.spotify.com/track/1RgOf5ZeEIi1iDwQqueOMc) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [eL\-Jay](https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Amapiano Edit\)](https://open.spotify.com/album/4TEtiOik72BodpnMHsv6Xn) | 3:27 |
 | 94 | [Holding Back](https://open.spotify.com/track/0Y82nVmfJ8VP5OKwhL3hgX) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Holding Back](https://open.spotify.com/album/7ilSMI0ZbIVvDCOiydapQ7) | 2:21 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 105 | [REGENESIS](https://open.spotify.com/track/3Bth1ISvwAiAZnvVQeqivg) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [REGENESIS](https://open.spotify.com/album/4UCGDWsjfXmv8MkqXKinT7) | 3:21 |
 | 106 | [Let Me Know \(feat.CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 |
 
-Snapshot ID: `MCxhODdlZTUyYmU4MzEzNTA4ZGQxZjJiZTQ0MzI0ZTE5OGEyMDc4MDA5`
+Snapshot ID: `MCxmZThhMmQ3YjUwM2E3MDBjZDhjZGExNjdkMGI2OWQ1NWZlMDIyZTQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,278 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,334 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Double Top \(Very Best Of\)](https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa) | 2:29 |
 | 60 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
 
-Snapshot ID: `MCxkMGY2NGE2Njk5NDQxNzEzZGM1OWNlZjU0M2U4OGVkNGI4YmY1OTU1`
+Snapshot ID: `MCw5Y2E2MzQ4YWE5YWRhZTgyNDY2MTRlODVkMDkyZTMwNzQzYzVhYmMw`

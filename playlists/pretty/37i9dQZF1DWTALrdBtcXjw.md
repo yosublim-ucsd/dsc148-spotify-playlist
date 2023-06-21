@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,484 likes - 150 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,500 likes - 150 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Masthuggsgruppen \- Live](https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:22 |
 | 150 | [2223](https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT) | [Andreas Toftemark](https://open.spotify.com/artist/1zGWQ3MEHXStCIbMsuSELF), [Felix Moseholm](https://open.spotify.com/artist/21v1ySgDH8XgKk1CekQHtv), [Calle Brickman](https://open.spotify.com/artist/4VoIE7LsD8ktzFFD5UED8m), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [2223](https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE) | 7:14 |
 
-Snapshot ID: `MCwyZDUyMWQ4MGUyY2Q3YTIwMDAyNjdiMTY4ZmQ3YjY1M2YwNGFjOWEx`
+Snapshot ID: `MCwwZmRkYWZmNTAyYWY3ZjNhNmJlNjkyZjA4MTBiYTIwOThmNmYxODUy`

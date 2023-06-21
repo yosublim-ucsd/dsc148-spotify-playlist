@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Alkaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,639 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,835 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 | 100 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
 
-Snapshot ID: `MCw0MmI5MDY4MGVlNWZhY2RiMDg1N2VkN2U3MGVhNmNjYWQ2NDQ5MTYw`
+Snapshot ID: `MCw0NjMxYjM1MDM4NjQ1N2IzNTU1YjUxYTY3ZGU1ZjhmOTA0NzIwMmJj`

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "A Cow to Milk",
+        "url": "https://open.spotify.com/album/4wNS3fZuQ4RIcJgbpbTUbw"
+      },
+      "artists": [
+        {
+          "name": "All Coasted",
+          "url": "https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117880,
+      "name": "A Cow to Milk",
+      "url": "https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis"
+    },
+    {
+      "album": {
         "name": "A Long Way Down",
         "url": "https://open.spotify.com/album/2AfGzdoesN3AXv5ZETC4eR"
       },
@@ -295,6 +313,24 @@
     },
     {
       "album": {
+        "name": "againagainagain",
+        "url": "https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155384,
+      "name": "againagainagain",
+      "url": "https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2"
+    },
+    {
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -382,7 +418,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 148753,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
@@ -779,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
@@ -830,10 +884,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "album": {
+        "name": "COME AROUND AND FIND OUT",
+        "url": "https://open.spotify.com/album/58U8cQSUQuSs1KNYuPoNRv"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187885,
+      "name": "COME AROUND AND FIND OUT",
+      "url": "https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2"
     },
     {
       "album": {
@@ -932,6 +1004,24 @@
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "album": {
+        "name": "Daydrinker",
+        "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165758,
+      "name": "Daydrinker",
+      "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
     },
     {
       "album": {
@@ -1218,7 +1308,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 174657,
       "name": "DOUBTS (feat. Ryan Oakes)",
       "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
@@ -1298,7 +1388,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 261058,
       "name": "Dream Born Again",
       "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
@@ -1767,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/0Y2w2sOj4Ob7JZmmD5ZX0r"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216900,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/5ME9PbpmM05EobMN3sHqIh"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
@@ -2117,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "gonna make sure",
+        "url": "https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "gonna make sure",
+      "url": "https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF"
+    },
+    {
+      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -2338,7 +2464,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 169331,
       "name": "HEAVYWEIGHT",
       "url": "https://open.spotify.com/track/2tPjYf8ecyhfSXb6NeOOjI"
@@ -2462,6 +2588,42 @@
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
+    },
+    {
+      "album": {
+        "name": "How To Live With Yourself / Smoke Screen",
+        "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
+    },
+    {
+      "album": {
+        "name": "HUNGOVER",
+        "url": "https://open.spotify.com/album/4SmmY5mzkycS02Vk9pofKA"
+      },
+      "artists": [
+        {
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132401,
+      "name": "HUNGOVER",
+      "url": "https://open.spotify.com/track/2GHVMfuNzmKWA3gk3EyEGT"
     },
     {
       "album": {
@@ -3212,7 +3374,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 217094,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
@@ -3631,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "People That I Love Leave",
+        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149248,
+      "name": "People That I Love Leave",
+      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+    },
+    {
+      "album": {
         "name": "Picking Up the Pieces",
         "url": "https://open.spotify.com/album/24ZwTivUfE0tAjbacPgloY"
       },
@@ -4020,6 +4200,28 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH"
+    },
+    {
+      "album": {
+        "name": "SABOTAGE//",
+        "url": "https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200792,
+      "name": "SABOTAGE//",
+      "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
     },
     {
       "album": {
@@ -4856,7 +5058,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
@@ -4910,7 +5112,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 196875,
       "name": "The Airport",
       "url": "https://open.spotify.com/track/4wEZvijBJiwUVRpRtOf57I"
@@ -5106,6 +5308,24 @@
       "duration_ms": 186048,
       "name": "Til' The Wheels Fall Off",
       "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
+    },
+    {
+      "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "album": {
@@ -5456,6 +5676,24 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "album": {
+        "name": "Space to Heal",
+        "url": "https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y"
+      },
+      "artists": [
+        {
+          "name": "Headstrong",
+          "url": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Who You Used to Be",
+      "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
     },
     {
       "album": {

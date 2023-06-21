@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-507 songs - 1 day 6 hr 36 min
+509 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [It'll Be Ok](https://open.spotify.com/track/2YO6ZDPdQFkrOa6YYceEN4) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [It'll Be Ok](https://open.spotify.com/album/3wksTuCjoVEmmD87tOc8QJ) | 2:34 | 2023-03-10 | 2023-05-14 |
 | [It's Not Easy](https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Try and Love](https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC) | 4:23 | 2023-02-10 | 2023-05-19 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
-| [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 |  |
+| [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 | 2023-06-21 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
 | [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 | 2023-06-16 |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 |  |
@@ -247,7 +247,7 @@
 | [Last Chance to Dance](https://open.spotify.com/track/0kcMbjFbeSH0QAJYtesUnf) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Last Chance to Dance](https://open.spotify.com/album/2jBkl3sD8s1dFjFbrDj8M8) | 3:42 | 2022-03-30 | 2022-04-18 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2022-02-23 | 2023-05-04 |
 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2022-04-19 |
-| [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 | 2023-06-05 |  |
+| [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 | 2023-06-05 | 2023-06-21 |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2022-06-08 |
 | [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 |  |
 | [Lesson Learnt](https://open.spotify.com/track/0ibr9W60zg3lSVIClr2tWG) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 2:18 | 2022-03-30 | 2022-04-19 |
@@ -332,6 +332,7 @@
 | [Only A Fool Would Say That](https://open.spotify.com/track/6eT2fNwiVD04D3R4uP5qOv) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 2:56 | 2022-03-30 | 2022-11-09 |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2021-12-30 | 2022-10-13 |
 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-10-14 |  |
+| [Opendoors](https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 2:42 | 2023-06-20 |  |
 | [Our Day Will Come](https://open.spotify.com/track/2Arl7cRrFiuDiHQjdMEXOU) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/73PlXoFghNyfp59MSTFq9G) | 2:49 | 2022-03-30 | 2022-04-21 |
 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 | 2022-07-26 | 2022-10-04 |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-10-14 |  |
@@ -490,6 +491,7 @@
 | [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2022-03-30 | 2022-04-17 |
 | [When It Was Wrong](https://open.spotify.com/track/3qotcshuy4CD99hVZXFWvH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6oGFUErSaMw5kXdcYCQ3gL) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [When It Was Wrong](https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2) | 4:32 | 2021-12-16 | 2022-10-04 |
+| [When You Lose Someone](https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:25 | 2023-06-20 |  |
 | [Where Did You Go?](https://open.spotify.com/track/58mvOmBNIhIehSYvwgRUyN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [You, Forever](https://open.spotify.com/album/7uOn3dpPMtthc9fx89AcPX) | 3:19 | 2022-03-30 | 2022-04-21 |
 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 | 2021-12-16 |  |
 | [Why I Came To California](https://open.spotify.com/track/3UevP4SvSdMJULZZr5ZBkA) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/4OM02rEXhwCm8dfTUFGIHO) | 4:39 | 2021-12-16 | 2022-07-29 |

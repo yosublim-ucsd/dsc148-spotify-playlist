@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,181 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,280 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 | 100 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 5:11 |
 
-Snapshot ID: `MCw2ZWU2NThjMjFlYTE5NGI3YzRlZWU2M2ZiZGI4M2ZlMDhhZjE1NGJl`
+Snapshot ID: `MCwzYjQwYTU1MmY3N2Q5OTA0M2NkOGVjMWI2NGEzODg1ZTA3OWQ2YmUz`

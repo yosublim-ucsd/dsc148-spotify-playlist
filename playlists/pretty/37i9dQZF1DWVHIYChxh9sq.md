@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,470 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,511 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
 | 150 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/3uf95hOq9NF1FF5r4OBH3c) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF) | 1:44 |
 
-Snapshot ID: `MCxmODliMDllYzNkYzVmYjViNzg1MTEzMDQ3NGY1ZjVlYWU5NTU5NDgx`
+Snapshot ID: `MCwyNjhhNmQzM2JmMWRmOTRlODI1YmY2NTYwNDRmYmRjM2Q1NzEzZjYx`

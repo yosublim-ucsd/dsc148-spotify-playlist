@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Chase Shakur
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,242 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,363 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 |
 | 150 | [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 |
 
-Snapshot ID: `MCwxOGM0Y2E2OGUzMGVjMDBhOWQ4ZjU5NjUwODQyZjRjODRlNDc3MTAz`
+Snapshot ID: `MCxhNzk5NjI2ODFmYjQ1NzI0MWMwODVkMjhmYzQ3YjNiNDgwMzhkZDdm`

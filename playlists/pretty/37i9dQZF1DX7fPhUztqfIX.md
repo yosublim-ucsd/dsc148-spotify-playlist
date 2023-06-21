@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,529 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,556 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 12 | [Make Room](https://open.spotify.com/track/0X98LFhbqEYiUv4g1Vjppr) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF), [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [Make Room](https://open.spotify.com/album/1nHJuPtXp1aO7DT7xSPMws) | 5:51 |
 | 13 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 |
 | 14 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 |
-| 15 | [Rock Of Ages \- Live](https://open.spotify.com/track/1iMDmTJMJWlAoKfAkKr6HS) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Choose to Praise \(Live\)](https://open.spotify.com/album/71Hearl6rse2nw2w80fVED) | 5:04 |
+| 15 | [Rock Of Ages \- Live](https://open.spotify.com/track/1iMDmTJMJWlAoKfAkKr6HS) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Choose to Praise \(Live\)](https://open.spotify.com/album/71Hearl6rse2nw2w80fVED) | 5:04 |
 | 16 | [No One Ever Cared for Me Like Jesus](https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:53 |
 | 17 | [Heart To Heart](https://open.spotify.com/track/5tVd1D9PDF1xmjVjMi9pXG) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Need Revival](https://open.spotify.com/album/18ugLXiEEcUh7bfVT4mxmL) | 5:12 |
 | 18 | [He So Loves Me](https://open.spotify.com/track/0if2V7w2ds3YdTe7216qX9) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [He So Loves Me](https://open.spotify.com/album/0NFIAH3OPxoP2Jik8bPwiY) | 7:52 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
 | 130 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
 
-Snapshot ID: `MCw3MjNjYzQ2ZjEzMTRiYjdhOWUxNWQxMTYwMmU1ZDJkYWY5MjAwODQ1`
+Snapshot ID: `MCxlN2Q0ZjE2ZmU3MmE2NzAwZDFlYTYxYzEzNjBiYjRhNzJmYmRlNWU5`

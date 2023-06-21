@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,402 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,622 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
 | 100 | [Summer Wind](https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Summer Wind / All Summer \(Where You Gonna Be?\)](https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh) | 2:40 |
 
-Snapshot ID: `MCw5ZGU1Y2FmMjJmODU3ZjAzYThmZDZjNzI4OWZiYzJhY2E4Y2ZkNWFi`
+Snapshot ID: `MCw5NWM4NThiNDBkMGZjYTA0ZTA3MGFlMjgzYjE2ODU4Nzg2NjIzMTRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,661 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,715 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 |
 | 60 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 
-Snapshot ID: `MCw2NjhmZmJlNWJmMzE3MGU3NWY5ZWMwYmI2YzViYTFjNjMxZjYyYTUx`
+Snapshot ID: `MCwxNzdjNWY5MGUyYmM3ODJjMWQ0ZTU4ODJjNjg4Y2QxZjkzMGU3YjQ5`

@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 5 | [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 |
 | 6 | [Spitting Off the Edge of the World \- Lush Version](https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World \(Lush Version\)](https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH) | 4:23 |
 | 7 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 |
-| 8 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 |
+| 8 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 |
 | 9 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 10 | [Shivers](https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Shivers](https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T) | 5:03 |
 | 11 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 184 | [Glitter 2](https://open.spotify.com/track/2NmIwfhMayON6aiKvUlKv2) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter 2](https://open.spotify.com/album/0L2Cx19eLGugnvTkGT6HMh) | 3:25 |
 | 185 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 |
 
-Snapshot ID: `MCw3ZjA1OWJhMzBiZjc0OWU2NGE1MTQxNTQ5M2ZmZTJmZmQxOTY2NDdh`
+Snapshot ID: `MCxhNGQzNzAwZjU1ZDgxMGQwMWJkMmE5M2M5MWVhYmM2NTRlZDY5ZDIw`

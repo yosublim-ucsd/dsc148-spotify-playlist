@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,200 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,265 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 59 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
 | 60 | [Via con me](https://open.spotify.com/track/3Ltil0t3nFOcGrlUF1itBs) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [I primi tempi](https://open.spotify.com/album/2orZA4uo3End7RLL5USkHb) | 2:46 |
 
-Snapshot ID: `MCw5NjE4MjhhZjhjZWMxOTk5ZjAzOGQzYWQ2ZDFmNjQ5NDhjZTRmYmNm`
+Snapshot ID: `MCwxMDAyN2Y2MGZmYjVhM2RmNzlmMGEzNWYzNzViNjdiMWZmYjM2NWM2`

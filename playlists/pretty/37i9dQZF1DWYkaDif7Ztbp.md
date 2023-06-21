@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=hLjmbMrQRUyD0VFEfe3mgA"> Asake </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,224 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,057 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 50 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 |
 
-Snapshot ID: `MCxlNzUwYmFmYjAxYzQ3YmE2NzYyNWNhODdiODE2MWNiMGM0MWUyNmUw`
+Snapshot ID: `MCw0NTE0ODk2MDBjZmU0MDFlZDA1MTk3ZDQyMGMwZmZmNmQwNWJkNTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Latin Mafia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,892 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,961 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 |
 | 100 | [Duele Tanto](https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo) | [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Duele Tanto](https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor) | 3:12 |
 
-Snapshot ID: `MCwzMjU1MTdlZGVkMTkxNjU5OGE4NzQwMzAyZjQzM2ZjY2JhNDA0OWFh`
+Snapshot ID: `MCw2ZWUwNjNjMmQ0ZTkzYWMxYzZiMWE3OGEyZjc0OWYyYmZmMzU3MmQ5`

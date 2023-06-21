@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Viva Suecia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,169 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,262 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
 | 75 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 
-Snapshot ID: `MCxkMWM2NTk3ZmQ0ZDdkNmVmYjU2OWU2MzhiZWEwNjYxZjA1OTEzYjI1`
+Snapshot ID: `MCw1MDY2N2UzZjZmMzJkNGFkODYyMTVkNTcwZmJjOTg1NTA3ZGM1Mjhl`

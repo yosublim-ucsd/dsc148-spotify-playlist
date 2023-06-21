@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Shygirl",
+  "description": "Interview Magazine co-curates this week's selection of LGBTQ+ artists and allies at the centre of electronic music. Cover: Honey Dijon",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -277,6 +277,36 @@
     },
     {
       "album": {
+        "name": "Legendary Children x Bubble Drip",
+        "url": "https://open.spotify.com/album/7yPnGYOeY0AmJ7uuA0aaXy"
+      },
+      "artists": [
+        {
+          "name": "Byrell The Great",
+          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
+        },
+        {
+          "name": "Kassandra Ebony",
+          "url": "https://open.spotify.com/artist/4kQduOE8yd4ugCFanu3dUX"
+        },
+        {
+          "name": "Warren B.",
+          "url": "https://open.spotify.com/artist/01dZpQXrsBQyTI3TC3tYAO"
+        },
+        {
+          "name": "Princess Precious",
+          "url": "https://open.spotify.com/artist/3NntTHZ9Cryd8A3KNFH6JI"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222482,
+      "name": "Bubble Drip",
+      "url": "https://open.spotify.com/track/6R0LdwxSJIYJQzJEfckUjY"
+    },
+    {
+      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -346,10 +376,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
+    },
+    {
+      "album": {
+        "name": "Start",
+        "url": "https://open.spotify.com/album/7vzgWg4SKPLQaoQZh9B8ur"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Clothes",
+      "url": "https://open.spotify.com/track/1eyKaSc7PXJ9s0rKrMiNsX"
     },
     {
       "album": {
@@ -497,6 +545,50 @@
     },
     {
       "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu"
+      },
+      "artists": [
+        {
+          "name": "BEARCAT",
+          "url": "https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Conjurer",
+      "url": "https://open.spotify.com/track/68FahUPlACGIvG3CYjMs9M"
+    },
+    {
+      "album": {
+        "name": "Constrictor",
+        "url": "https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Constrictor",
+      "url": "https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ"
+    },
+    {
+      "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
       },
@@ -537,6 +629,32 @@
     },
     {
       "album": {
+        "name": "Snack Time",
+        "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
+      },
+      "artists": [
+        {
+          "name": "Byrell The Great",
+          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
+        },
+        {
+          "name": "Princess Precious",
+          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
+        },
+        {
+          "name": "Warren B",
+          "url": "https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192694,
+      "name": "Da Function",
+      "url": "https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0"
+    },
+    {
+      "album": {
         "name": "Day After A Night With U / Stars & Water",
         "url": "https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx"
       },
@@ -566,7 +684,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 190005,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
@@ -610,7 +728,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 159000,
       "name": "DRaiN",
       "url": "https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD"
@@ -690,7 +808,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 223548,
       "name": "Ecstatica",
       "url": "https://open.spotify.com/track/10kgnaSAqXAU0zYhcZcarP"
@@ -980,10 +1098,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 241406,
       "name": "Hands - Edit",
       "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
+    },
+    {
+      "album": {
+        "name": "HARD 2.0",
+        "url": "https://open.spotify.com/album/1JLjGf7hGIXBLGiOWLoW5S"
+      },
+      "artists": [
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
+        },
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "HARD 2.0",
+      "url": "https://open.spotify.com/track/4pVeNLmkjJ4CHLyU54IPEL"
     },
     {
       "album": {
@@ -1078,6 +1218,28 @@
       "duration_ms": 264406,
       "name": "Hip Hop Spa",
       "url": "https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/37cCQaRfEMfRC25jVx5kbQ"
+      },
+      "artists": [
+        {
+          "name": "Manni Dee",
+          "url": "https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr"
+        },
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/0s0qFlvmJB2jsCyA2N5byF"
     },
     {
       "album": {
@@ -1304,10 +1466,58 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 253440,
       "name": "Inside Your Head",
       "url": "https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM"
+    },
+    {
+      "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
+        "name": "KILO (LSDXOXO Remix)",
+        "url": "https://open.spotify.com/album/1oEtwrjW18EuTcjks5SyuE"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222923,
+      "name": "KILO - LSDXOXO Remix",
+      "url": "https://open.spotify.com/track/6gHC53VJetXr4YuhrCdEzk"
     },
     {
       "album": {
@@ -1322,7 +1532,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 329820,
       "name": "Let A Bitch Know",
       "url": "https://open.spotify.com/track/3cuC10phh07XQrztcNWreU"
@@ -1428,6 +1638,28 @@
       "duration_ms": 180487,
       "name": "Love Vibration",
       "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
+    },
+    {
+      "album": {
+        "name": "TAKE ME A_PART, THE REMIXES",
+        "url": "https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293914,
+      "name": "LSDXOXO_TRUTH OR DARE_123 BPM",
+      "url": "https://open.spotify.com/track/0pO8YwXGjixwYbEEaifaCL"
     },
     {
       "album": {
@@ -1624,7 +1856,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 201230,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq"
@@ -1696,7 +1928,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 156774,
       "name": "No Idol - Remix",
       "url": "https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr"
@@ -1714,7 +1946,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 213937,
       "name": "Obliterate",
       "url": "https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5"
@@ -1748,6 +1980,24 @@
       "duration_ms": 201529,
       "name": "Oh The Glamour",
       "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
+    },
+    {
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV"
     },
     {
       "album": {
@@ -1798,7 +2048,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 600386,
       "name": "Raw Silk Uncut Wood",
       "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
@@ -1864,7 +2114,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 203267,
       "name": "Reclaim Me (feat. Nimmo) - Maya Jane Coles Remix [Edit]",
       "url": "https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby"
@@ -1925,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "SHAKE DAT",
+        "url": "https://open.spotify.com/album/4wLp5PZ8NmU2W0zaMXAw2W"
+      },
+      "artists": [
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/2uZNd8oxhctekoIoDfUoBP"
+    },
+    {
+      "album": {
         "name": "Shhh",
         "url": "https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls"
       },
@@ -1936,7 +2204,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 238222,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
@@ -1961,6 +2229,32 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Show Me Some Love (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/215Kmpctpq6WJ3gEtCbXAu"
+    },
+    {
+      "album": {
         "name": "Sick Bitch",
         "url": "https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC"
       },
@@ -1972,7 +2266,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 259849,
       "name": "Sick Bitch",
       "url": "https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV"
@@ -2037,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "Stand (feat. Cor.Ece)",
+        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182821,
+      "name": "Stand (feat. Cor.Ece) - Edit",
+      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
+    },
+    {
+      "album": {
         "name": "Smash Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR"
       },
@@ -2088,7 +2404,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
@@ -2266,7 +2582,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 148576,
       "name": "Watch",
       "url": "https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7"
@@ -2295,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "WICKED GYAL",
+        "url": "https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "WICKED GYAL",
+      "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
+    },
+    {
+      "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
@@ -2318,7 +2656,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc"
@@ -2340,7 +2678,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 299255,
       "name": "You Should Run",
       "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"

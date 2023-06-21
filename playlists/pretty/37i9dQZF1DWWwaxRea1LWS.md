@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Imagine the graduation ceremony echoing through the scenes of a classic 90s/00s coming\-of\-age movie\. Cover: Dionne & Cher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230,939 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,231,125 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 |
 | 50 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 
-Snapshot ID: `MCw3MTQ5MDViMzAxYzI2YTJiODc4NWNiYmVhNjVkOTRhM2VjZjQ3ODlk`
+Snapshot ID: `MCw5YTJmNmJhYjFjNTBlZDAzNmRkZWQ0N2ZiODJmOTg2ZjZhYzhiYmQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,465 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,557 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
 | 60 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 
-Snapshot ID: `MCwwYzg5N2YyNzA0MzNhNjNjZDFjYmQzMWJlMzIxMTg2ZDgxZGNlNzAy`
+Snapshot ID: `MCw3MzJkYTc1Y2JiNGUwYjc5OGQ0N2MzYjU5NmIyMGY4YzAxMWYxNDg2`

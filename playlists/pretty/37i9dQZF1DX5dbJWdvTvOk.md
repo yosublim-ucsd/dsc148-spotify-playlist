@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,046 likes - 250 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,098 likes - 250 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [The Apple](https://open.spotify.com/track/1jWtn89sIC21MvZjMAXcJr) | [Duo Acoustica](https://open.spotify.com/artist/2kMgalFxtY6wl6nnaKB3W0) | [The Apple](https://open.spotify.com/album/78HoC1Nipn2jKskrl4bxSt) | 2:56 |
 | 250 | [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 |
 
-Snapshot ID: `MCw2OWQ3NTg3MDQxMTg0ZWY1ZDE3NGUzODYzZmFjNzkyMDY1ZDk5YTU0`
+Snapshot ID: `MCw5MGNlOGIxNTJjZGY5MmFhZWI5MDlmNjgwN2YwNGJkMjkxNDFjZGE4`

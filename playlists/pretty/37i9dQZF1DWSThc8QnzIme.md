@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,154 likes - 132 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,216 likes - 132 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 131 | [Without Me](https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:21 |
 | 132 | [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 |
 
-Snapshot ID: `MCxjZWExMzcxODNmY2ZiZWFjYWEzYzIzNjBmODZiMDM3NWRkNzgyNzRi`
+Snapshot ID: `MCxkOGM2OWY4Y2UyZjk4ODQ1ZTk1NDFkNGFiNmMzZTJmZjg4ZmZkNWZk`

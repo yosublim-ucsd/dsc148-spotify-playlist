@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ozuna & Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,969 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,019 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Vámonos](https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Vámonos](https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz) | 2:01 |
 | 70 | [Te Gusta](https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z) | [Young "D"](https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Te Gusta](https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V) | 3:26 |
 
-Snapshot ID: `MCwxMGY1NTJmNDAwOTUxZmUzMzZlYTFiNGRlNTUyZGYwNWFkNzA4YzY5`
+Snapshot ID: `MCxlMzQ1YjRhY2FjNWM4M2E5YTFlYzk1MTMxYjBkMjk1Yzk0MTMzMjcy`

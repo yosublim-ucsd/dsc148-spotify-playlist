@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,177 likes - 35 songs - 2 hr 23 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,178 likes - 35 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 13 | [EYE](https://open.spotify.com/track/0oCbvv8lwe3g12sKGdW7gI) | [Charly Ray](https://open.spotify.com/artist/3pf7NfUyFFW2bu4Z9HyZhX) | [EYE](https://open.spotify.com/album/3az1wVnbnEYDGhjLap347S) | 4:25 |
 | 14 | [Bu Aşk Olmadı](https://open.spotify.com/track/1s89yP0sgFdBRIR03ahgkU) | [Sühan Ayhan](https://open.spotify.com/artist/1XfPwsEg5SpAat6uz8fIeD) | [Bu Aşk Olmadı](https://open.spotify.com/album/2C73kHWob9rN8KaNtqLc9n) | 4:02 |
 | 15 | [Palava laulu](https://open.spotify.com/track/0LZvFcviHoPChjMyPzSzY2) | [Tanner](https://open.spotify.com/artist/6xGnj5PX6GyFbwxRN9mcie) | [Palava laulu](https://open.spotify.com/album/1Vi2YeSpovFUQjggGw2IvJ) | 4:10 |
-| 16 | [CASHPARILLA](https://open.spotify.com/track/7HhBvXQnE8uUcLtAs8deES) | [B.BLAIZE](https://open.spotify.com/artist/6KQvBS9rvrnfFK7UKfXvEr) | [CASHPARILLA](https://open.spotify.com/album/3wd6K3UOZrUHtqMLu2L9Z9) | 3:32 |
+| 16 | [CASHPARILLA](https://open.spotify.com/track/7HhBvXQnE8uUcLtAs8deES) | [B.BLAIZE](https://open.spotify.com/artist/6KQvBS9rvrnfFK7UKfXvEr), [L\-Quote](https://open.spotify.com/artist/02Fr3v3pbxQAvNNepdodKd), [Hyfa Tha Prospect](https://open.spotify.com/artist/1JDZX9FV6bLs860caiQOxF) | [CASHPARILLA](https://open.spotify.com/album/3wd6K3UOZrUHtqMLu2L9Z9) | 3:32 |
 | 17 | [En Tiiä](https://open.spotify.com/track/5WJoHJh3FRpMwsOYYeII1Q) | [Jasa & I'mmeinen](https://open.spotify.com/artist/71WshYbbK9hLfMSZdaZjP1) | [En Tiiä](https://open.spotify.com/album/6Y56HfhXUdo6PCU3hwYW9Y) | 3:15 |
 | 18 | [Sommervind](https://open.spotify.com/track/4yj3VSjTEevutU284P4VIE) | [Endeløse Gater](https://open.spotify.com/artist/6j69kcRkevz9Cqa9uWIgl7) | [Sommervind](https://open.spotify.com/album/16DX4y9sUY1hhwrDJTcdDX) | 3:50 |
 | 19 | [Pussi](https://open.spotify.com/track/0y92QlOThN4WZ51KzM3lMX) | [Troija](https://open.spotify.com/artist/3He5cBDYREhQQ84Cl25Yuj) | [Pussi](https://open.spotify.com/album/1pVylFIqpcmdhi6ZgZrVrY) | 3:05 |

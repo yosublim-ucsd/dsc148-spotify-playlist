@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Pancho Barraza & Cuisillos de Arturo Macías en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,607 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,770 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Órale](https://open.spotify.com/track/0HNC7Mpsg8fecxkmIFyZ1S) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Dentro de Mis Ojos](https://open.spotify.com/album/5GFcvBoOgJdhcCZT2BJGkL) | 3:01 |
 | 125 | [Por Celular](https://open.spotify.com/track/2aUze0B9SaZre9gXBoxEcR) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Por Celular](https://open.spotify.com/album/4EUYvwqAr6CZRF8HMGX6i8) | 3:16 |
 
-Snapshot ID: `MCw2M2UwNThmNDkzY2U4NjU1YzhkNWQyZjc4MGRmZDY0NmM4YmUyNmYz`
+Snapshot ID: `MCw3Yjc3ODQ2YThiYWNlZmI0NDE5ZGZiYzFjODYzNjk5ZWE4YTVmYWVh`

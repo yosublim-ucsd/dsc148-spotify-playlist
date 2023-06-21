@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,096 likes - 112 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,112 likes - 112 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 111 | [House of Cards](https://open.spotify.com/track/4gcHA9Wg6sV5TqBY6fEO1D) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [House of Cards](https://open.spotify.com/album/2WuXHncpRmLuzv1PQwDG2h) | 2:55 |
 | 112 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCwwODhhZDM1MDlmOTA1ZWJjYjc5YTZjOGU1N2VlZWU2YzlhODdiNDA3`
+Snapshot ID: `MCw0YmFjNjEyYmQ0OWIwZTk1ODQ5YWM2ZmYzMWVlNTQ5YWE2ODZlYjkz`

@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/0XGBe8T2n2XTdesQgjQQIY"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4854,7 +4854,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -5350,6 +5350,32 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/2jpyzbS2Aph8x5VUHSdveA"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/5ouFMdAnaTDmfvxvAymDju"
     },
     {
       "album": {
@@ -6120,7 +6146,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
@@ -6732,7 +6758,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 195739,
       "name": "Dreams - Radio Edit",
       "url": "https://open.spotify.com/track/6I37P1D9vzfIDPTOWFYvU7"
@@ -8582,6 +8608,24 @@
       "duration_ms": 163333,
       "name": "Fuck it",
       "url": "https://open.spotify.com/track/6fd8b0MTqO97XwBaRSDuFe"
+    },
+    {
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "album": {
@@ -10864,7 +10908,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/4ORixxN5kLrSgSwwuttB4t"
@@ -11400,7 +11444,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
@@ -12206,7 +12250,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 225137,
       "name": "LA RUE",
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
@@ -13506,7 +13550,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -14454,7 +14498,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 201904,
       "name": "Message",
       "url": "https://open.spotify.com/track/5rEyZ5PYfyURO3oKriSmtu"
@@ -14472,7 +14516,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -17430,7 +17474,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -17892,7 +17936,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -21584,7 +21628,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
@@ -23672,7 +23716,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

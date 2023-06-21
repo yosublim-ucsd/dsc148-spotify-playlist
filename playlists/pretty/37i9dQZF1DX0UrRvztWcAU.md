@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these happy songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,864 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,058 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
 | 150 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 |
 
-Snapshot ID: `MCxiNTU2YTk3Y2NkNTUzYTMxYjY0ZTU1YjQxYWQyMTIyM2M3ZjNlYjU2`
+Snapshot ID: `MCxiZTIyZjcyYWZiZGMwNzRjMTAzYjRkMzc3YjIyMDFjYjdiNTM2Zjlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 
 > ¡Nuestros amados 90 los recordamos así!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,276 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,493 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 | 99 | [Así Fue \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/6nOJ1EJYDa5QCI6RGBuozw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 7:24 |
 | 100 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
 
-Snapshot ID: `MCw1NWE5ZThmNzQzMjA0MWZmMzk1MWQxMjliYWU4NjZhYTY0ZTBkOTc4`
+Snapshot ID: `MCw3YmIxZWM3ZWI1MWM1Mjc1M2FlYjBlN2E1MjdkZDdjNWU4OGY2OWQ3`

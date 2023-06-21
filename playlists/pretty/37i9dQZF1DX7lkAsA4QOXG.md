@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,467 likes - 150 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,550 likes - 150 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 149 | [When the Party's Over](https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW) | [Jakob Manz](https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP) | [Groove Connection](https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub) | 3:22 |
 | 150 | [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 |
 
-Snapshot ID: `MCxkNmM4MzVmNzlhMzg5YjMxYTAzOTJiYWNlYzI4OTVhZjlkYzFkN2E2`
+Snapshot ID: `MCwyMGQ3NzY0Yjg5ZTg5YzQ3ZmZkY2ExNTIxMjAwNWUwY2JhMWVhNTIy`

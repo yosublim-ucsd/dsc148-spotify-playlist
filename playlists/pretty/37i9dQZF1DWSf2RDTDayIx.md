@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,187,841 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,188,835 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 | 150 | [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 |
 
-Snapshot ID: `MCw5MWE5NThkMThlNTUyOWZlYjJiNTY5ODM4NTM3MGE1ZWRmNDJjZWQy`
+Snapshot ID: `MCxmMjdlYTgyZjQ0MTM2YjM1NWVmYjU0ODFkMWQ5NGU2YjFkY2FmZDk2`

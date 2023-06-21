@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 
 > Automatic floorfillers\. A DJ's best friend\. Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,368 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,501 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 | 99 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 100 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 |
 
-Snapshot ID: `MCwyNTkyMGMyYWU3YWFkMWFlY2Y0YzY4MTk1OTRkMjYxNGQyOTI3M2Fl`
+Snapshot ID: `MCxhOWMzM2FmMDJkMjcxY2VmMzM5MWYwNzE4NDEzZjU0OTY0MzE0NTU1`

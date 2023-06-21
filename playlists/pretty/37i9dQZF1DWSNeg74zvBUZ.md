@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,807 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,806 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
 | 50 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
 
-Snapshot ID: `MCwwNzhmOTFlNTRlMTI5NjU0M2YzNGYwNzFhMDE4Yjk2ODA3ZWNlNGM1`
+Snapshot ID: `MCwwNGIzZDliNjllMjE1OWExMjAyMjFiNDYyN2MzN2ZmMTc5YzRjZmI2`

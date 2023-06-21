@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Many Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,892 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,924 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Chance](https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Chance](https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr) | 3:01 |
 | 40 | [COOOOL](https://open.spotify.com/track/4nhqACNPqh3MA6kwZO3BEK) | [Nallas](https://open.spotify.com/artist/5p3YfFowJftLjDnkny1ILZ) | [COOOOL](https://open.spotify.com/album/1qZ5Be3r7fNWH2SWfplHl2) | 3:26 |
 
-Snapshot ID: `MCxlNjc5ZDQ2MTQ5MWI5MzRlNWRmM2YyZGNjMWQ3MjI0YmY1ZTFlN2My`
+Snapshot ID: `MCw1MTc2YzkyOTUzMTE2ZGNhZDdiZTQ3YzA5OGIyNTFjYWEwOTkxMDU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,790 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,742 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Lollipop \(Candyman\)](https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:36 |
 | 150 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 
-Snapshot ID: `MCwyOGRkNTliYTZkMTMxMTA1Y2QyNjU2NjRlOGJjYjk1MmJmMDUyMzY1`
+Snapshot ID: `MCwyOTJmMDg3ZGU2MmQzYzc1MDE1MTE3MmNjZjBiZDcyZDNkOTFhODVh`

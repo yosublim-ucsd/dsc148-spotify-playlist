@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,255 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,309 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 |
 | 80 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 
-Snapshot ID: `MCxiNTg0YTJjZmZjMGJiMGM1NGU1NTg0MDJmNjE1Mzc2NjA5YjUwZTE1`
+Snapshot ID: `MCxlZjEzYzRkYzYwMmY0N2NiYWYxMGY1ZTBlZmVlNWQ4ZDg1ZjIzYTEz`

@@ -475,6 +475,40 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3ebLohq6hQomEGMJMRCNOJ"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Yunomi",
+          "url": "https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb"
+        },
+        {
+          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
+          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
+        },
+        {
+          "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
+          "url": "https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2"
+        },
+        {
+          "name": "\u72ac\u5420\u57fc\u7d2b\u674f (CV: \u9577\u8c37\u5ddd\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250932,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1RKxwWLfgimPD1anjtn60R"
+    },
+    {
+      "album": {
         "name": "Cheater",
         "url": "https://open.spotify.com/album/0ovGFZNkO5iPwGEeiMZp8z"
       },

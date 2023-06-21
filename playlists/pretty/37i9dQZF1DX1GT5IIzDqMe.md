@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,425 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,478 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 | 50 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
 
-Snapshot ID: `MCxjMTBiNTgwMzMwMjhlNjkyMGU5NzA2M2Q0NDljZjcyYzE4ZDA1ZmU0`
+Snapshot ID: `MCxkMGYzYjI5NzY5NTE0NTY0Njk2ZDJiM2VhY2M5NzIyNzI4YjY5ZDQz`

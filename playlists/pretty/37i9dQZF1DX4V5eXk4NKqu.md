@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring Rawayana & Simon Grossman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,581 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,630 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 69 | [Te Espero Aquí](https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 4:11 |
 | 70 | [Golden Mirror](https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [It Was a Home](https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg) | 3:44 |
 
-Snapshot ID: `MCwyODRiZDk5M2Q3NWRiNmFiOTVhMmEzZDBjNjFkZWUyM2Q3ZWY2MGVk`
+Snapshot ID: `MCw1ZWZiZTJjY2EzZWNkZTQxMmE1MWQ2NGYzNmJlYzgzOGU1MjY1NWRj`

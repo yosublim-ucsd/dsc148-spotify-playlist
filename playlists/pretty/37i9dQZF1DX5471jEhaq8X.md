@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,787 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,841 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 | 199 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 |
 | 200 | [Traigo Un Equipón](https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Traigo Un Equipón](https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5) | 2:43 |
 
-Snapshot ID: `MCwzZGUwMTljYTRlNDQwM2FhNTkxMzU4OGMzM2ExNGIyNGUzNzcxOTRk`
+Snapshot ID: `MCw5NDY0Y2ZjNmUzZjllNzMxZmFiNTExZDk3MzFhMDIyZDFlZmY4ODMy`

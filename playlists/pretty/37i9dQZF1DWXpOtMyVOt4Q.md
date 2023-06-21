@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,449 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,539 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 50 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 |
 
-Snapshot ID: `MCwwODYwN2FkM2ZhOGMyMDY0NzBmNDBjOGE5ZWY5Mjc4OTA5Y2E4NzI4`
+Snapshot ID: `MCxmMjI3YmZlZmM5ZjY0Yjk3OTJjZDI3NzY2OGJjODRlZWVmMjdiMDAz`

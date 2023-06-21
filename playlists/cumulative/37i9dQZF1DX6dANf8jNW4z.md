@@ -4,7 +4,7 @@
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Ana Mena.
 
-734 songs - 1 day 14 hr 3 min
+735 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,7 @@
 | [Tu Carita Canastera](https://open.spotify.com/track/16Za100YCEeRYQjPNVqNcE) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Tu Carita Canastera](https://open.spotify.com/album/29vzjkBwZ0UJsxO6T9RbNs) | 2:48 | 2022-03-07 | 2022-04-07 |
 | [Tu Mitad de la Cama](https://open.spotify.com/track/6msfAq9i0OsqnMw1A26yzT) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [Tu Mitad de la Cama](https://open.spotify.com/album/3p6kbGqjUETLY7JYTxpU30) | 3:36 | 2022-01-04 | 2022-02-02 |
 | [Tu y Yo](https://open.spotify.com/track/6VwfbINVOhdDrjDxHikVHn) | [GIN](https://open.spotify.com/artist/2F1IyDZFiGWfHcGZMOGWGI) | [Tu y Yo](https://open.spotify.com/album/0OuOELBur5pid5THly60rU) | 3:02 | 2023-02-28 | 2023-04-05 |
-| [Tulipanes rojos](https://open.spotify.com/track/1SjQ9dU3L4FG6XD1kId8SU) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [Tulipanes rojos](https://open.spotify.com/album/3ZLUyvYgMPkTOsGEJASuOW) | 3:11 | 2023-06-06 |  |
+| [Tulipanes rojos](https://open.spotify.com/track/1SjQ9dU3L4FG6XD1kId8SU) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [Tulipanes rojos](https://open.spotify.com/album/3ZLUyvYgMPkTOsGEJASuOW) | 3:11 | 2023-06-06 | 2023-06-21 |
 | [Tus Bragas](https://open.spotify.com/track/5GWotivfeywene4ICZF22Q) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Tus Bragas](https://open.spotify.com/album/7uvAQ5nkJLNoisqU5v1Q0f) | 2:09 | 2022-05-31 | 2022-07-06 |
 | [Tú Como Yo](https://open.spotify.com/track/0jJtgkJiZpcIjio8yzWlpe) | [La Negra](https://open.spotify.com/artist/7FLifXTyvcnkIDkR0DE8cH), [Panky](https://open.spotify.com/artist/1fCF7fKedmCp7vQWVVE1B5) | [Tú Como Yo](https://open.spotify.com/album/3PimBU4xK0OtpBoF1ceSeT) | 3:32 | 2022-04-06 | 2022-05-04 |
 | [Tú Sí](https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tú Sí](https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2) | 2:53 | 2023-06-06 |  |
@@ -741,6 +741,7 @@
 | [ÁGATHA](https://open.spotify.com/track/7tVLWhnDA5EJNnFkXNVsr3) | [Cintia Lund](https://open.spotify.com/artist/11YXmkNb9SN2uaL1pSl4v8), [Papaya](https://open.spotify.com/artist/4GVVpOeWmgnaaxpwkJqR9u) | [ÁGATHA](https://open.spotify.com/album/4WSwTX2LUohIut8CeCnBYe) | 2:01 | 2022-10-04 | 2022-11-09 |
 | [Ámame](https://open.spotify.com/track/5A6HMl3VWyovls3JVye7eV) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Ámame](https://open.spotify.com/album/41qyiCtxycaxzDrX8fOON3) | 3:44 | 2023-04-04 | 2023-05-03 |
 | [Últimamente](https://open.spotify.com/track/2wZQygYAD6YFl6iofljurK) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Últimamente](https://open.spotify.com/album/7B3paj3NcXjFjJoyOsvi6L) | 3:16 | 2022-11-08 | 2022-12-01 |
+| [Último Baile](https://open.spotify.com/track/1ApFykPxKmhP4iNbFmgXw9) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Último Baile](https://open.spotify.com/album/17DfT2KcMr4WSeXp2e6egd) | 2:59 | 2023-06-20 |  |
 | [⟡ si tu kieres ⟡](https://open.spotify.com/track/5KkkuGLcb1DjNNKdfVpEEc) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [⟡ si tu kieres ⟡](https://open.spotify.com/album/5hIGJ8Jf2yHU9hVoNam949) | 2:25 | 2023-04-04 | 2023-05-03 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

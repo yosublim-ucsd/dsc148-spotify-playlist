@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,661 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,650 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Dont Rain on My Parade](https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 3:07 |
 | 100 | [Who's Lily?](https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 4:08 |
 
-Snapshot ID: `MCxmYTc4ZGUzNDMyOGJlMDcyNTE4NmJkMDU3ZDlhYWU3MjI2ZmRlNmQ1`
+Snapshot ID: `MCw5N2YxZGMwZTU4NTQzZWJjYTNiYjQ4MGNlZGIyNDY1NGRlNjQxMDRk`

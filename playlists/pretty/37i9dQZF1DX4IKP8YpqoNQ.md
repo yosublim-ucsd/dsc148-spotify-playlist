@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,203 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,209 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 | 100 | [A Song for You \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 5:48 |
 
-Snapshot ID: `MCwxNTgyYjY1MDEyYjUxYmNlZWE3ZWQyYjUwOTlmZDU1MTQ0YmI1NWU2`
+Snapshot ID: `MCxiNGI5NzljYWFjYWUzMWZmYzQ3YTZmZTVhOWY0Zjg3OWQwOWExYjQ5`

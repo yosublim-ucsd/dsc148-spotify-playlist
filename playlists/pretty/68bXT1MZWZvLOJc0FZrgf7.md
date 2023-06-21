@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Austin Millz
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,761 likes - 156 songs - 8 hr 12 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,755 likes - 156 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

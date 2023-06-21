@@ -4,7 +4,7 @@
 
 > Beautifully chilled vocals from around the world\. Cover: Mahalia & Jojo
 
-132 songs - 6 hr 51 min
+133 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2023-02-23 | 2023-05-15 |
 | [Right My Wrongs](https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs](https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P) | 2:31 | 2023-05-14 |  |
 | [Right My Wrongs \- Acoustic](https://open.spotify.com/track/6nKq3nK5J03pDbXPqapI1x) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs \(Acoustic\)](https://open.spotify.com/album/0GHvzb0AAfYy32swXfZ5oF) | 2:50 | 2023-05-14 |  |
-| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-08 |  |
+| [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 | 2023-06-08 |  |
+| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-08 | 2023-06-21 |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/3mmJDYnT5mowOO8JzX339t) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/0vzqawXZNRIlR6o8ruxXDK) | 2:50 | 2023-05-14 |  |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-23 |  |
 | [Safe Place](https://open.spotify.com/track/5Lw5G1npf7nzIpLZIedTsj) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4) | 3:35 | 2023-02-23 | 2023-05-15 |

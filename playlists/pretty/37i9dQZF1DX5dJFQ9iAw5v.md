@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,469 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,477 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 |
 | 76 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
 
-Snapshot ID: `MCwxZTBlNzE5M2M5NDk0MjgxNTE4OTI0OWZjNDMzOGU5NGRjODQ2MjZh`
+Snapshot ID: `MCwwMzIyNzIwMWI5Nzc4NTg2YjQ2ZDAyNDY0NzcyYjhhN2U3ZTczNGE3`

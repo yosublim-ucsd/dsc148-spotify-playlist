@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,565 likes - 133 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,526 likes - 133 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 95 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 |
 | 96 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 |
 | 97 | [Baby](https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Baby](https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz) | 3:01 |
-| 98 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
+| 98 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 99 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 |
 | 100 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 |
 | 101 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 132 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
 | 133 | [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 |
 
-Snapshot ID: `MCw3ODdiZGYwZTZjMmY0NGI1MTUzZDEzYjE0ZTI1M2IwZjY1MGY2OTBl`
+Snapshot ID: `MCxlMmJjMzczNDI2OWMxNzZlNGFjZGFhNDI4MDhjMWE3NzJkNGU0MTc5`

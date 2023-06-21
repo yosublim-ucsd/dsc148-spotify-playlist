@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Michael Bolton
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,873 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,889 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCwxZjU2M2ZiYjQ5YTAyNTEzZjY3MWFlNDUxODRiMzg5OWVhYzU2YzY0`
+Snapshot ID: `MCw2NmJkZmNkZGFlY2Q1MDFhMzQ2MWY1YjcwZWMxMjQ4YzY5MjgzMmYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,082 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,094 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [Damascus Cocktail](https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 |
 | 50 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
 
-Snapshot ID: `MCwyNjNlMDU2MjhlZWYwMmRiNWMxM2U0ZWM5ODk5MTcxNDQ1MGJkZWRh`
+Snapshot ID: `MCxmMWVkZGRlYzBiZGE0YWMyYzM0ZmU1ZTdjZDY2NGEzNzYzYzZlMWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,108,711 likes - 150 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,109,394 likes - 150 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 150 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
 
-Snapshot ID: `MCw4NzdjMDkwNTNhNDY5MmM0ZWUzN2Q5ODE5YWM5ZTQ2NTRiYWU1YTc5`
+Snapshot ID: `MCwwZGIwODU3MjIzMmM5ODY5Njc3ZjBiZTA0YTBhNDBmODA5MGE2YTlj`

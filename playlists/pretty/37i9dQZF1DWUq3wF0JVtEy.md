@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,504 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,736 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 |
 | 100 | [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 |
 
-Snapshot ID: `MCw3M2EyZGU5YmZkOTIwNWFhNWJmNjk2NDQ5MDI2NzQ4YzE1NTZlYWYx`
+Snapshot ID: `MCxkMDhiM2IxNmU2YzE5ZTk4NWZjODM4YzM4MDA3YzljNmUxM2VkNjVi`

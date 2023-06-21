@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,527 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 16 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 17 | [Viaje Al Amanecer](https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:58 |
 | 18 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
-| 19 | [Amor Particular](https://open.spotify.com/track/41x3Zgm2LornuG311321J6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Amor Particular](https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S) | 3:03 |
+| 19 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 |
 | 20 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
-| 21 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 |
+| 21 | [Amor Particular](https://open.spotify.com/track/41x3Zgm2LornuG311321J6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Amor Particular](https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S) | 3:03 |
 | 22 | [Como Quisiera](https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:36 |
 | 23 | [así no funciona](https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:23 |
 | 24 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 35 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 |
 | 36 | [La Buena Lección](https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:50 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDAyMzk1ZmNlNDhmNTVmOWIwNDE5M2E1ZDYyMWVlYWI4MQ==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDAxMWQzNTQ0ZjBiNDBlZTJmMWViYTY5YzY4NTA3NzlhNQ==`

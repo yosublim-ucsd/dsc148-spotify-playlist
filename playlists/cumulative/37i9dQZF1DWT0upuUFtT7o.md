@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-1,600 songs - 3 day 15 hr 30 min
+1,601 songs - 3 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [I'm the Worst](https://open.spotify.com/track/2I4xh0vVMx8s4oYKUzEP9X) | [George Walter](https://open.spotify.com/artist/74j8oazVmb4zM1gmwvrc55) | [I'm the Worst](https://open.spotify.com/album/7gpZjRx5cCeyMxOIgio5zc) | 3:25 | 2022-06-15 | 2022-07-28 |
 | [I've Been Down](https://open.spotify.com/track/6s348P3lE2BG407uh6O14O) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [I've Been Down](https://open.spotify.com/album/2Y2JywTnozozQlbCT3pHby) | 4:18 | 2022-08-10 | 2022-09-29 |
 | [I've Been Saying This](https://open.spotify.com/track/54GwQeaUnlH84uG0tNRvmT) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I've Been Saying This](https://open.spotify.com/album/2mrVRburW7kKYjl8hX9AaF) | 3:38 | 2023-01-11 | 2023-02-02 |
+| [I've Got Me](https://open.spotify.com/track/3ycUiQlR8oJVxHAisll4a3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [People Are Toys to You](https://open.spotify.com/album/6Yg2tFy4jutgIkuNMkd6yL) | 2:16 | 2023-06-20 |  |
 | [Ice Sandwich](https://open.spotify.com/track/3rZ2D1enCn9fij6u1MJofp) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [Wide Wall, Tree Tall](https://open.spotify.com/album/0cmItgB2WpuedJqKKTxhqC) | 1:44 | 2023-04-12 | 2023-05-18 |
 | [Iceberg](https://open.spotify.com/track/6cnzQLG56RY55Uff8BGR3j) | [Headband Henny](https://open.spotify.com/artist/5TVg3o43tfrceLxSCPTvro) | [Iceberg](https://open.spotify.com/album/0MIlv8Z9218XtPNw6kcVq4) | 3:10 | 2023-03-01 | 2023-03-23 |
 | [IDK YOU](https://open.spotify.com/track/22Zey6Vk0e2lAkS1dsJ2CR) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [IDK YOU](https://open.spotify.com/album/2l9ESmzg5WmxwBCYkaTAHz) | 2:46 | 2022-06-15 | 2022-07-28 |

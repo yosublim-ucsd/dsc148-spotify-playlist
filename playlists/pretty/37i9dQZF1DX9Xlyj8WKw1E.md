@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,848 likes - 56 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,905 likes - 56 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 55 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 |
 | 56 | [Master P](https://open.spotify.com/track/66QEvziDynXCQhumzW535m) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Master P](https://open.spotify.com/album/7DdN00MB1is91Z51PMCWqa) | 2:06 |
 
-Snapshot ID: `MCw2MzI1NzdjNDE2MzM3NDhkZDFmMjZkOWU1ZjI4ODZiNGM2ZTcxMGIx`
+Snapshot ID: `MCw0ZjdhMzVlOWFjMTBhZDRiNWMxOWY4OTRlNWYwMmQyNDRjNmZhYzkx`

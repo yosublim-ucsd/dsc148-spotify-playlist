@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 
 > El mejor pop de todos los tiempos\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,326 likes - 200 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,540 likes - 200 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 | 199 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
 | 200 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
 
-Snapshot ID: `MCxjNzQ3MTY5ZGY3NmNlMzljMWJmMzdkYzZiZDIwZjBkNjE3MTEzOGUz`
+Snapshot ID: `MCwzZWE3YjI0MzFkMTE2OWYxOTY1M2E2OGM3ZWI2ZTMwMmFlZjU1NTc0`

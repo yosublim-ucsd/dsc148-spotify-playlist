@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Zeph.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,280 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,315 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [lie to me](https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [lovescene:](https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j) | 2:40 |
 | 150 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 
-Snapshot ID: `MCxjZTM5Yzg0YTVlZWFhNWJiMDcwOGRkNmQ0OGI3N2Y2M2UzZWQwNzIz`
+Snapshot ID: `MCwyMzJkNjdlM2E2ODc4ZDQ3NTM0MGUyZmFiMjQ4NjVjYzE5OTBkY2Qz`

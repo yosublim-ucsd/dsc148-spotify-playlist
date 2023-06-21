@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,083 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,090 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 69 | [Knives](https://open.spotify.com/track/0A04MG489D3uGPYpNcjniU) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/76DreJ7TNtULuyeVoPC9rw) | 4:16 |
 | 70 | [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 |
 
-Snapshot ID: `MCxmMzNiMTljNWJmNzRmNzU2MDFkNTJlYzRiODFkNWNjYmY1ZTQzZmVl`
+Snapshot ID: `MCxlZTgxMTQ3NTY5MDg2YmU5NGE0Nzk3NTJhYmViODVmYTgyMzljYjcx`

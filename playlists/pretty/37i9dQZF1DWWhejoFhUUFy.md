@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,196 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,423 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
 | 75 | [Zaroori Nahi](https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dhun](https://open.spotify.com/album/4WogXQVX9nOrjbaTzFXnGN) | 2:19 |
 
-Snapshot ID: `MCw3ZjkzYmQ5Mjk5NTk5N2I3Mjc0ODQyMzFkOGQzNmFiNzkyNDU0ZjVh`
+Snapshot ID: `MCxkZjdmMzQ5YTU1YjAyOWYyNzNhNDU3ZTc4MjA3ZDk4OGZkYWI3Yjcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611,770 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,613,488 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
 | 100 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
 
-Snapshot ID: `MCwyNDFmZTVhYTQ2NGU4ZDQ5MDY1M2MzOTRmMDg2MTBkODM5OGU0Nzdl`
+Snapshot ID: `MCxlZTMxYjgwZjMxODgwYTFmZWMwYmZiOWE5NWJkOWI4MzM3NmM0NTBl`

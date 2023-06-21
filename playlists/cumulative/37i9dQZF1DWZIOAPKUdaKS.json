@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
+    },
+    {
+      "album": {
         "name": "Canyon, Catch Your Thoughts",
         "url": "https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v"
       },
@@ -2277,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Displacement",
+        "url": "https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Power",
+          "url": "https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146035,
+      "name": "Displacement",
+      "url": "https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm"
+    },
+    {
+      "album": {
         "name": "Distant Nights",
         "url": "https://open.spotify.com/album/5EW9y0x0JSKddPsuTJK3VW"
       },
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 153524,
       "name": "Early Memories",
       "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
@@ -4781,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "It's You I'm Seeking",
+        "url": "https://open.spotify.com/album/3KMNb1SNtbjrIABtPcWEbR"
+      },
+      "artists": [
+        {
+          "name": "Matt van Stern",
+          "url": "https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "It's You I'm Seeking",
+      "url": "https://open.spotify.com/track/7pbAbWrlXKoycD9q6BGXqq"
+    },
+    {
+      "album": {
         "name": "Jalousie",
         "url": "https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj"
       },
@@ -5098,7 +5152,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 133478,
       "name": "Lambay",
       "url": "https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf"
@@ -5429,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Les Soir",
+        "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
+      },
+      "artists": [
+        {
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144875,
+      "name": "Les Soir",
+      "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
+    },
+    {
+      "album": {
         "name": "Letter Of Fervid",
         "url": "https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg"
       },
@@ -5674,7 +5746,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 177583,
       "name": "Little House",
       "url": "https://open.spotify.com/track/1du82wujEl1RLyjyRZujhJ"
@@ -8162,7 +8234,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 157562,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/1mqHvYzzVkt8GK1AaaCJCf"
@@ -8504,7 +8576,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 171085,
       "name": "Rondel",
       "url": "https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN"
@@ -8684,7 +8756,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 179500,
       "name": "Sanctum",
       "url": "https://open.spotify.com/track/35liU7bs2YbA1udhkERMok"
@@ -8882,7 +8954,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 122000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO"
@@ -10398,7 +10470,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 117000,
       "name": "There and Then",
       "url": "https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg"
@@ -11396,6 +11468,24 @@
       "duration_ms": 139680,
       "name": "Winged Melancholy",
       "url": "https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P"
+    },
+    {
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/79UbHE7JTha6egAQMu4aiy"
+      },
+      "artists": [
+        {
+          "name": "Jorulf",
+          "url": "https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171596,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV"
     },
     {
       "album": {

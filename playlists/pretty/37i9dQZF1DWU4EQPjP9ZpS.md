@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,668 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,822 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 100 | [Alliance Of Elegance](https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Tupperwave](https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX) | 2:46 |
 
-Snapshot ID: `MCwwZjg3NzY2M2VjZjMzNzViM2E1NGRlODJjOWU4ZGZmYWRlNGJkMTFi`
+Snapshot ID: `MCw4ZjQ2NTQ3MGVkMzMxNmI0ZWE4M2M4NmE0MDI2OGFlN2NiY2IyZTQy`

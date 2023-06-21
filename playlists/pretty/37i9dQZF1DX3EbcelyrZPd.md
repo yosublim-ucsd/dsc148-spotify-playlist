@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Otile Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,181 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,243 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 |
 | 70 | [Amawele](https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:57 |
 
-Snapshot ID: `MCwxNjdmNzIxMGVjZjMwYjAzYmJiODJjNGQ4Njk2ZjkzZTBlZDdmZTRm`
+Snapshot ID: `MCw1MWU2ZWFjOTkxZGU3MjVjOWU5ZGE3OTNhNjViNzU3MDA3ZTgyOGY5`

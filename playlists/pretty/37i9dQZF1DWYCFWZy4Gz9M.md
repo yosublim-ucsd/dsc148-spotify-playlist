@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,223 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,280 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Hamdouchi](https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Ramon Lopez](https://open.spotify.com/artist/2YGdXhpR7VkGHLHTA3x3GG) | [Kalimba](https://open.spotify.com/album/45kB4RCp3VGg3DZo3klaup) | 5:56 |
 | 50 | [El Ghaba](https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Lila](https://open.spotify.com/album/0MD1I51gcst768Xt38R2kG) | 7:54 |
 
-Snapshot ID: `MCwyNDMwODA4NmM5YTE2MzM3MDViNjE2ZmU5ZjY4YjNlZjQ3YzUyYjVl`
+Snapshot ID: `MCxkODM5OGY5ZGVkNTVkODk4YTM5Mzc5ZGUxZjNlMzRhZWNkYjE3NzQ3`

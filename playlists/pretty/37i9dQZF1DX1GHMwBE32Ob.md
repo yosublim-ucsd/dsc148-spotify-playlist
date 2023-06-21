@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,030 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 |
 | 60 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 |
 
-Snapshot ID: `MCw1MTZiZDYxNmU2OWZjN2ZmNDIwYzliMDIyOTliMTMyOTYxNjBlMGQz`
+Snapshot ID: `MCw5NzQ3ZTI3YzhkYjgxOTlkZjMxMzBjMmRlNTAzNTU4OWM2MDFmNDc5`

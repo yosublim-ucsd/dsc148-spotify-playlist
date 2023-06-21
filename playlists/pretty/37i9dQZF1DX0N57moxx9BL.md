@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,431 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,558 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 80 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
 
-Snapshot ID: `MCxhOTljZmQ4YWFjYzQ4ZTRlZmVlNDk0NTdkMmRmOTM5Njc1OGM1Yjhm`
+Snapshot ID: `MCxmYzk4MWJkMDkwNmNjMjUxMjYwOTFlZGUyMGFjYmQ5OTNjYmExNTI1`

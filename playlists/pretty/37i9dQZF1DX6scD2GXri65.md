@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,794 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,944 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Unleash The Fire](https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Unleash The Fire](https://open.spotify.com/album/6uCzjve3I6bB3MsxI7AROY) | 4:01 |
 | 80 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 |
 
-Snapshot ID: `MCxhNjFmNzM0NjI1MGU4MTNkYjg0M2NkNjdhZWQ4Nzc4ODRlNGJlODJl`
+Snapshot ID: `MCw5ODk4MDI3Yjg4Mzg1NWNmMDk2ZGQ4Y2MyMDI2OWYwODcwYTg1Zjc5`

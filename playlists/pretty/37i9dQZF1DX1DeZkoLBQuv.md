@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,996 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,995 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Vinde Celebremos](https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:22 |
 | 50 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
 
-Snapshot ID: `MCw4NWIxNDY0ZjY1ZGM3NmY2MmMzNGMxMTRmMjkxMTVhODYxNGVhMzg0`
+Snapshot ID: `MCw2MmJkNTkwNmRkM2U4Yjg2NjUwZDNhMWZjZjY5YzgyYzdhMjQxMWVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 
 > Let your stress melt away while you work up a sweat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,577 likes - 122 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,606 likes - 122 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 | 21 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 |
 | 22 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 |
 | 23 | [Kill Bill](https://open.spotify.com/track/1mqHs67HG57PXjE4cjbe9k) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Kill Bill](https://open.spotify.com/album/38i1txuPzEVzmEd0qbJ2ie) | 3:02 |
-| 24 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
+| 24 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 25 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
 | 26 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 |
 | 27 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 | 121 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 122 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MCw0OTM4MDgxY2FiM2IwMjA1ZDlkOGRiY2Y1ZGU1ZDBhODhjYjY2Mjhh`
+Snapshot ID: `MCw5OGFiOWViMDZiZjA5N2E1ZDMyMDNlNzQ3NmIyMTNmOWM0OWY4ZTI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,216 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,631 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 |
 | 150 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 2:45 |
 
-Snapshot ID: `MCxmYmNlNTBmMWJkNDBiNTJjNjQxNWJlMmUzZGIwOWY3OWMwMGNmNzg4`
+Snapshot ID: `MCxjZDRlMjAwZDMzNzE0ZjliYjJhM2UzOTVhNGZkOTFjOGRiNDlhYzRl`

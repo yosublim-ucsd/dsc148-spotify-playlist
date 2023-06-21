@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,230 likes - 150 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,491 likes - 150 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 |
 | 150 | [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 |
 
-Snapshot ID: `MCxmOGI4NDYyZjhjMTUxMzA1YTYxYTY4YTQxN2ZhODk3ZjgyNTUxODdl`
+Snapshot ID: `MCwyZmNlNGVlZjc5OTNiOTc0YTQ0YWZjZTJlMTFlNzcxMDQ0YmU4YzY5`

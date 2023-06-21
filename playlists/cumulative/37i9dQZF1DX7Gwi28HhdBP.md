@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: رضا البحراوي
 
-208 songs - 15 hr 51 min
+209 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Daq El Hawa Daqa](https://open.spotify.com/track/0616KTViZeKjYJx1fM4Wzv) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Daq El Hawa Daqa](https://open.spotify.com/album/2FmJLnDFQL0hMsytTGP4bk) | 4:38 | 2023-01-12 |  |
 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2021-12-16 | 2022-07-29 |
 | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Amr Yousef](https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ), [Hassan Elraddad](https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW), [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/album/39myupeh2lms0htXCRYpgv) | 3:18 | 2022-02-23 | 2022-10-18 |
-| [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 | 2021-12-16 |  |
+| [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 | 2021-12-16 | 2023-06-21 |
 | [Efrah](https://open.spotify.com/track/4rQSgu2iUS6lLutbTytuM6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [Efrah](https://open.spotify.com/album/65TrnR56Wv5be0H9z1NQ5l) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Egrah](https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Egrah](https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf) | 5:18 | 2021-12-16 | 2023-05-12 |
 | [Eih da Baka](https://open.spotify.com/track/2puBiI4f3CDatawv4n62rd) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Youmein Doul](https://open.spotify.com/album/6FaIiqKHiAH1oL3wSN1Hdu) | 4:44 | 2021-12-16 | 2022-07-29 |
@@ -111,6 +111,7 @@
 | [Sabaho Sabaho](https://open.spotify.com/track/5kJGXixlduyoU7gvhEHyiR) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sabaho Sabaho](https://open.spotify.com/album/7eue5uvJOj9ov60xAZgAeR) | 3:22 | 2022-06-02 | 2022-12-21 |
 | [Salamtek Ya Demaghy](https://open.spotify.com/track/2mFJUSuJzpTmwn6TRK4cRB) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [Eldarb Fe Eleraq](https://open.spotify.com/album/0Wc6sOC2Sn496mXG4X0osq) | 4:38 | 2021-12-16 | 2023-05-12 |
 | [Sam3t Kalamkom Any](https://open.spotify.com/track/6hn5h9eNL9e3duK8GvhZc1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Abdelsalam](https://open.spotify.com/artist/52bZNntY7uZF12QFyLb6lW) | [Sam3t Kalamkom Any](https://open.spotify.com/album/1T6PrKiCpf2OJMihEHqemY) | 4:57 | 2021-12-16 |  |
+| [Sama3 Hoss \(feat\. Karim Abdelaziz & Karim Mahmoud Abdelaziz\)](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [Sama3 Hoss \(feat\. Karim Abdelaziz & Karim Mahmoud Abdelaziz\)](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-06-20 |  |
 | [Sebona Fe Halna](https://open.spotify.com/track/2MxRJwyYumi6ODywLbL89k) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebona Fe Halna](https://open.spotify.com/album/4Fs2CAjgQ8yhTN1pFnOYER) | 4:32 | 2021-12-16 | 2022-07-29 |
 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 | 2021-12-30 |  |
 | [Shecolata](https://open.spotify.com/track/2fd6l0ZnzcoxAkA8e8URtS) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Shecolata](https://open.spotify.com/album/36hOxzWm2uNQzLZrkLMidl) | 2:41 | 2021-12-16 | 2022-07-29 |

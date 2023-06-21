@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,676 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,743 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [The Galway Girl](https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Galway Girl](https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr) | 4:25 |
 | 100 | [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 |
 
-Snapshot ID: `MCwyZjFlOGQ2ZDNkMzc3NmYxYTI1M2JhNDA4NTVhZjczMTk3ZmQyNjJk`
+Snapshot ID: `MCxmNWQzNDRkZjEwNmRlMTM3N2E1Yjc0YzVkZDE3ZmQ1NTg4NDBhYzJk`

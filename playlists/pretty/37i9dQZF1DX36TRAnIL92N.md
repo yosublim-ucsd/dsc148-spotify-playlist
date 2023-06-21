@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,611 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,182 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
 
-Snapshot ID: `MCw1YTQ1ZTU2NjY5NjY0NzExMDQ1MGNmYjQxMDAxMTkwZjU4ZTU0YTZh`
+Snapshot ID: `MCxiMGZjMzI2MmY4OTljMTg3NzY2ZGNkMzQ5OTMwMjZkOGU3Mjc0NTc2`

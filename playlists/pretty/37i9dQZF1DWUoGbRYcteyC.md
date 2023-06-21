@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997,778 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997,958 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 99 | [Soy Yo](https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 4:04 |
 | 100 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
 
-Snapshot ID: `MCxjYzc1MWM0MmJhMzg1MzBmMDk0ZWI0NTk1YTEzNTNjMmY5MDViMDkw`
+Snapshot ID: `MCw2ZDQ1NDQ0NzQ2MmFhOTU2MmNjNGNhMjlmNzVkNzQzYzFkN2JlZjhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,294 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,337 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
 | 100 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 
-Snapshot ID: `MCw3Y2EwMTYwYWE0ZGZlOWVmMGE2ZjY4YzI2NGFmYWJiN2ViNDYwYTY5`
+Snapshot ID: `MCwwNmFlZDY4YjMwNGVmZDYwMDE5N2EzN2I3ZjJiYTBiZTI2OWYxMmY1`

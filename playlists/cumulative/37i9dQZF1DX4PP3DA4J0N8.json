@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122730,
+      "name": "Birds Singing By The River",
+      "url": "https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls"
+    },
+    {
+      "album": {
         "name": "Rain Chirpings",
         "url": "https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC"
       },
@@ -644,6 +662,24 @@
       "duration_ms": 230706,
       "name": "Calming Wave Sound",
       "url": "https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu"
+    },
+    {
+      "album": {
+        "name": "Mystical Nature Harmony",
+        "url": "https://open.spotify.com/album/3rOT3U6HkIzAqqu0MIp2hF"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117481,
+      "name": "Calming Wilderness Ambience",
+      "url": "https://open.spotify.com/track/6veM8JPEjyUSeqLb4BwfxZ"
     },
     {
       "album": {
@@ -1799,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Calming Rainforest Paradise",
+        "url": "https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rainforest Serenade",
+      "url": "https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA"
+    },
+    {
+      "album": {
         "name": "Dream Rain",
         "url": "https://open.spotify.com/album/0mToNLq2Y6LR4M9diREzg2"
       },
@@ -2195,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "The Wind in the Woods",
+        "url": "https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ"
+      },
+      "artists": [
+        {
+          "name": "Experience Nature",
+          "url": "https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251094,
+      "name": "Songs of the Forest",
+      "url": "https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL"
+    },
+    {
+      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -2534,6 +2606,42 @@
       "duration_ms": 152322,
       "name": "The Singing Birds",
       "url": "https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI"
+    },
+    {
+      "album": {
+        "name": "The Forest Symphony",
+        "url": "https://open.spotify.com/album/7cdf3vtNr1DFNvuJ3ZgczE"
+      },
+      "artists": [
+        {
+          "name": "Nature Nerd",
+          "url": "https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109489,
+      "name": "The Sounds of Nature",
+      "url": "https://open.spotify.com/track/3gAE1tbD6F2oNPB2Ae1sal"
+    },
+    {
+      "album": {
+        "name": "The Wind in the Woods",
+        "url": "https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ"
+      },
+      "artists": [
+        {
+          "name": "Experience Nature",
+          "url": "https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "The Wind in the Woods",
+      "url": "https://open.spotify.com/track/5L9z8yjjAtFZS9sHubdeAo"
     },
     {
       "album": {

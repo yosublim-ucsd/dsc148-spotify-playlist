@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,169 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,336 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 |
 | 100 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
 
-Snapshot ID: `MCwwOTkyZWYwNTM5OTVjMGZiZDZkMjI5ODhjZjNkZmMzZmQ0YmJiZTQ1`
+Snapshot ID: `MCxiOWM2ZGY5NmNiYjVkMTBlNjJhMDNjZmQ5Y2U0OTNjNGNiYTRiNTg4`

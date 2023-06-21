@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,756 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,110 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 |
 | 150 | [Bella](https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Bella](https://open.spotify.com/album/0m06zefSt575K7uCdShGxr) | 3:20 |
 
-Snapshot ID: `MCwzYTdlNWRkZDk4OTg4MWRjMWU3OTQ2MmYxNmM3MGEzNDhhM2MwY2Fj`
+Snapshot ID: `MCxjMTdjYjIzNjQwNzRlZjA2NTk4NmU0ZjJkY2FhMGMzOTI2M2QzYmFm`

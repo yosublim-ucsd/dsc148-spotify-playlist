@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,170 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,032 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 |
 | 50 | [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 |
 
-Snapshot ID: `MCxkNGNmMWVhNjAxNGNhYWIzZTkzMDAxYTEwZWRmODVhY2UwMDFmODU0`
+Snapshot ID: `MCw0NGE5ZjYyMjMzNTMwNzQwODYzNWE2YWJmZGU4YmQzMmU4YjJkMTc2`

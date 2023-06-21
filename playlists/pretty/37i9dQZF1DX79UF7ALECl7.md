@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,951 likes - 89 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,958 likes - 89 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 88 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 |
 | 89 | [NaturHaus](https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [Soft Palace](https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy) | [NaturHaus](https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k) | 3:59 |
 
-Snapshot ID: `MCwwMzFlNWMzN2M3MDVlZDhkMjVmMzVkYzcxMTdmMDU3NzgzYjgwZTJl`
+Snapshot ID: `MCxlOTE0YWY3MmExODViOTczZjBmZTEzOWM3ZDgyMWQ0NTZmZjBhMjM3`

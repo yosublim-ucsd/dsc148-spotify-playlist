@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: \(여자\)아이들\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,022 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,047 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 49 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 |
 | 50 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 
-Snapshot ID: `MCxiOGU2NWU3Yjc4NGNiZWNhM2Y4OGQ5YmE4YWJhNjlmMzIxNzE2ZTBh`
+Snapshot ID: `MCw5MjZjYTE2Y2VlOTk2MzQzMWE4NmM4ODcyMDExNWYyYTViZWJkZTkx`

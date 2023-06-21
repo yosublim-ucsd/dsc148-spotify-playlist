@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 64 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 65 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
 
-Snapshot ID: `MjgxMjA0MzAsMDAwMDAwMDAxYzM5ZjY4Y2IxOTJhN2VmYjFhMmNkMmI1YjFlMzg5Zg==`
+Snapshot ID: `MjgxMjE4NzAsMDAwMDAwMDAwMTY5YWU2MGY1MGNkYTgwNDE4NTIxNzczNDJlN2EzOQ==`

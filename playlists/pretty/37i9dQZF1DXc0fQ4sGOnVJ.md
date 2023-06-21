@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,934 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,950 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 |
 | 74 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 |
 
-Snapshot ID: `MCxlMDFkZTM4NmY2MDE0NjgwNWQ1NzRmOTQ0OTRmMTE0OTMzODVkMmYx`
+Snapshot ID: `MCwzMDU4MDVjNWZhMzM5MGY4Mzk2YTI0YzAwMTMxMzJiZGYxODIzYTA1`

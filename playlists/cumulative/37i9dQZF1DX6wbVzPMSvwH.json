@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Kehilangan",
+        "url": "https://open.spotify.com/album/5eW6letl2iRvCaFXkSgZVF"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253907,
+      "name": "Kehilangan",
+      "url": "https://open.spotify.com/track/7IgGkjE5Ceph27pn47pAmr"
+    },
+    {
+      "album": {
         "name": "MARKERS AND SUCH",
         "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },

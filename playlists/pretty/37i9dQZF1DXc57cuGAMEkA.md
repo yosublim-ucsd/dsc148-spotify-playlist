@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Doja Cat, Sigur Rós, MISAMO, Leigh\-Anne and more! cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,426 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,439 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [Morning Of The Carnival](https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 6:42 |
 | 74 | [Vega](https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Vega](https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf) | 2:34 |
 
-Snapshot ID: `MCw0NmNlYTBkMjg4YzMzMGM5MjllOWNkNTc2NzcwM2FiNmMwNmNkZTdm`
+Snapshot ID: `MCw1ZjgyMzUxY2YxY2M5MGJlNDkwNGE3ZDY0YjdkMTczYzc0YjlmMTli`

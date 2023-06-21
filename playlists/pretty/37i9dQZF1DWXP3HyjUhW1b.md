@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,321 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,401 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 124 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 | 125 | [El Muchacho Alegre](https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [RCA 100 Años de Música](https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC) | 3:09 |
 
-Snapshot ID: `MCw2YjgwN2QyNzI1ZDFhYWMyZTBlOWM1ODI1ODdjZjg5Y2NlODI0MzQz`
+Snapshot ID: `MCxkODc1ODk0N2FkYTc2M2Y1ZDFkNThhNTdkMTFiYWE2ZDAyYmRjYmE2`

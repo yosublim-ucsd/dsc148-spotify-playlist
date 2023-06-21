@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,733 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,788 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Tanna Na](https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM) | [Tanna Na](https://open.spotify.com/album/2smTIeKKgY9AIVYPtvADak) | 3:22 |
 | 50 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 |
 
-Snapshot ID: `MCw0ZDJmOTYxMmE2ZWJmZGZkMjg2M2JkNjU3OTJkYzJkZTRiMTllZWI5`
+Snapshot ID: `MCw1MmVhMTI0MWZkYzAyYzVhNjYxYjQ2ZWFmNDI3MTVkYmIxMGYyYzg4`

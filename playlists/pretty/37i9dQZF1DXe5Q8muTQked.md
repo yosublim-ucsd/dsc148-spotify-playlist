@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,781 likes - 250 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,950 likes - 250 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 250 | [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 |
 
-Snapshot ID: `MCw3MWQ4OGEwODAxNzJmZTdkZjBiNWQ5ZTI5MGEzMGE1ZDFkNTViYTA0`
+Snapshot ID: `MCw0ODM2ODNhYjFlMjhlOWI3MmZmMzFkMDc0YjNkZDBmZmYyYWM5YzMy`

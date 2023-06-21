@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,783 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,755 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
 | 50 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
 
-Snapshot ID: `MCwwY2RiNDI2MGI1ZDJjY2RmNDVhOTA1MzdlNTFjN2Y5NTRlMjAwZGNh`
+Snapshot ID: `MCwyZmE4NjhmNWRkOThkMjBlYzExODk1NmUzMDU1N2IyZTQ5ZjhlODZm`

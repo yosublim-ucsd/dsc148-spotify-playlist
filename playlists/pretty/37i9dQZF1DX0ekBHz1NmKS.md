@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,765 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,761 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 |
 | 100 | [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 |
 
-Snapshot ID: `MCw3Y2VhZDYzY2I2NWQ3NjY2NDJhMjA5YjhhMjBkZmRiMDU1YjgwZmY4`
+Snapshot ID: `MCxhNGFkZTFmOTQ4NzFhM2EwYzYyZDdiNjJhMTkzZmM3N2FkN2RlNTZi`

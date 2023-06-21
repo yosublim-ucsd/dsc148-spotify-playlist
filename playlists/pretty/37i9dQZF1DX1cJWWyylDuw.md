@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,508 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,748 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 124 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 |
 | 125 | [Choky](https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Choky](https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl) | 2:59 |
 
-Snapshot ID: `MCxkZWE4NzJhNmQxOTcwMzA3N2U5MjVmOGQ1Mzc2NDkzY2U2YjFhYTRi`
+Snapshot ID: `MCw0ZjZiOTRiNGIzYjEzNmU1NmY4ZDcxNTc3ZmUzNjQyMDk4NzliZTlh`

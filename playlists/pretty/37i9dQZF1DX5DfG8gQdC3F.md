@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Black artists across the globe in celebration of Juneteenth\. Cover: Shay Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,928 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,936 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 43 | [Riot](https://open.spotify.com/track/35kqUuytVw83jkBlgpEQYI) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Riot](https://open.spotify.com/album/5xRZCfBFYeU78gwXgrzJW3) | 3:27 |
 | 44 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
 | 45 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 |
-| 46 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:20 |
+| 46 | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/track/0ViqeZL7ufgFt75C6Qd7g3) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [High Profile \(feat\. Rimzee\)](https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS) | 3:19 |
 | 47 | [Ridin'](https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Ridin'](https://open.spotify.com/album/2n7HRnPxZ00DhaoMZTecpU) | 2:50 |
 | 48 | [Space Jam](https://open.spotify.com/track/0rpk9iskAE63lLA8haPyIj) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Space Jam](https://open.spotify.com/album/0hK76ucYklqHi0vw1tfHTV) | 3:46 |
 | 49 | [M.A.R.K](https://open.spotify.com/track/71znpQgXGKaIHxtyaZXG6D) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [M.A.R.K](https://open.spotify.com/album/4ZddJ3GVa3Rlej1NQa0iaf) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 |
 | 100 | [Faithful](https://open.spotify.com/track/1R1ubGJB974Sm8hHdDa90V) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [Faithful](https://open.spotify.com/album/3tATBHYzRFulngeN5uAWEs) | 2:28 |
 
-Snapshot ID: `MCxlNWI1Zjg5NWFlZmQyMDdhYjYzMTJmMDVlNDhiOWFkNTM2NDlhODk0`
+Snapshot ID: `MCw2YzE4NTU2ZDAyNGZiZjVmN2UyZTQ1MjExOGIwNTkwODgyY2YyNWQ5`

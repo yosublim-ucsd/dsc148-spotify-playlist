@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,130 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,175 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 99 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
 | 100 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 |
 
-Snapshot ID: `MCxlNTQ4MGUyMzA3NTU4MjMzNzYyNTk3MmZkOTQzZGY5Y2E5ZTNlODQ2`
+Snapshot ID: `MCw2Mzc1NmI4NzdjNmVkZDE4N2E2MGJjMGJmZWJmZmI4MDU5NTI3Y2Nm`

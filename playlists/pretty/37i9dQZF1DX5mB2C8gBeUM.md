@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,193 likes - 133 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,406 likes - 133 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 132 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
 | 133 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 |
 
-Snapshot ID: `MCxiMmZiMDZkOTZhMTViOWNjMWRjMWMyYTkzNjA3N2YzNWI2Yzg4MjFh`
+Snapshot ID: `MCwxZTNjYjg2OGViMjM0YzVhZDEzMTQxMzQ2MzhhY2VmODA5YmUxNjg3`

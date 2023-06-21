@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,587 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,707 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
 | 100 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
 
-Snapshot ID: `MCw5Y2FmNzRlYmM2ZmQxODQ1NGJjMjU4YmVmNDU1ZGIyN2QyMzJmNDhi`
+Snapshot ID: `MCxjNTFkZGQzNjVlZDFlMDViODQxNWYyYjZiYTM5ZGFmODk5MzljMDgx`

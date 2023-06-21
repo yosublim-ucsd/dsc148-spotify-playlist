@@ -4,7 +4,7 @@
 
 > FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-183 songs - 8 hr 14 min
+187 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,13 @@
 | [Dear Best Friend](https://open.spotify.com/track/1zJmO7JxS8d1TTDnkm0neu) | [Supa ChuLi](https://open.spotify.com/artist/49xmsXfch0blsabBR9hzqW) | [Dear Best Friend](https://open.spotify.com/album/57KEVv6qQvsTKVi5QKOAC3) | 2:12 | 2023-06-12 |  |
 | [deathrow honeymoon](https://open.spotify.com/track/2bHgTRULzOqXltq764vJQ6) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [deathrow honeymoon](https://open.spotify.com/album/1sz0ia2sQs3X71J8dou1Uv) | 2:44 | 2023-06-12 |  |
 | [DECAPITATE](https://open.spotify.com/track/2z0E71Kisoe6ZrUwkMvxfY) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [DECAPITATE](https://open.spotify.com/album/3gDXDolBfqh29nDeOgwoIJ) | 2:12 | 2023-06-12 |  |
+| [DEMONS](https://open.spotify.com/track/7nYGVm34J2cSTYs55sEVNo) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [DEMONS](https://open.spotify.com/album/68mllbn9CrFknGgs440deK) | 1:33 | 2023-06-20 |  |
 | [Devil's Work](https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 2:05 | 2023-06-12 |  |
 | [Die Young](https://open.spotify.com/track/5MGuHnvnEdtuBAbxffKEyr) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [Tsunami J.](https://open.spotify.com/artist/4n2goZYIwjKnEZHtg1YxAm) | [Die Young](https://open.spotify.com/album/3MpG0geyg0WoBkyYap8TsL) | 2:15 | 2023-06-12 |  |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2023-06-12 |  |
 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 | 2023-06-12 |  |
 | [Disturbia \(Hardstyle\)](https://open.spotify.com/track/3PKergQGYqsqWKDCxIDgwy) | [Way 2 Hard](https://open.spotify.com/artist/2RVSrGAAmol8DMoIwEV4NQ), [Way 2 Fast](https://open.spotify.com/artist/57Hj2cFlZMIv0KAxHZX4hT) | [Disturbia \(Hardstyle\)](https://open.spotify.com/album/5FyCVU0aqky1Enl1xllt5z) | 2:57 | 2023-06-18 |  |
+| [DO MY DANCE](https://open.spotify.com/track/1j9wfEnJlZtcv5Lb9n1ZWF) | [Mac NL](https://open.spotify.com/artist/2RD8WghGrjxnCeAWRXY4wu) | [LONG TIME COMING](https://open.spotify.com/album/7ARBabgm4CrlBdI5kW3Oxy) | 3:19 | 2023-06-20 |  |
 | [Drive Forever](https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Drive Forever](https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO) | 2:25 | 2023-06-12 |  |
 | [EMPEROR](https://open.spotify.com/track/0OkdlYNVAA9PQSm6YxVW3o) | [Nemecist](https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [EMPEROR](https://open.spotify.com/album/2HvVyKP1CF9zuW9YU9pVg1) | 2:10 | 2023-06-12 |  |
 | [Everybody \- Radio Edit](https://open.spotify.com/track/4emawufKdOwgDfmsM6amn8) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Everybody](https://open.spotify.com/album/3R6ej89JkQXyyhb31twp0r) | 3:30 | 2023-06-12 |  |
@@ -69,6 +71,7 @@
 | [HA HA HA](https://open.spotify.com/track/1zNPwPUkQMt3LdoXPdPNHh) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [HA HA HA](https://open.spotify.com/album/3slZeuVySIVoGkJbAmvRPf) | 1:48 | 2023-06-15 |  |
 | [Handlin' Business](https://open.spotify.com/track/59CvFQolzAD0iygFrJPRiS) | [Barry Hendrixx](https://open.spotify.com/artist/5Xk397tmWGVFl1gebLonk8) | [Handlin' Business](https://open.spotify.com/album/4tClP7F9LhhMcM7FYUUqYb) | 2:45 | 2023-06-12 |  |
 | [haunt](https://open.spotify.com/track/0nrnNb3z8ecImknVvpEPcR) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [haunt](https://open.spotify.com/album/10Fl6RaP8e46eoYosibmfe) | 1:45 | 2023-06-12 |  |
+| [Heathens](https://open.spotify.com/track/4xLy45p5uSzyI3NJiELCjF) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Heathens](https://open.spotify.com/album/52erOI6gpG9EKrCKPN4IFT) | 3:12 | 2023-06-20 |  |
 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 | 2023-06-12 |  |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-06-12 |  |
 | [Hennessy \- Radio Edit](https://open.spotify.com/track/4pmzYvV45hgQ55oyoidgtm) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Hennessy](https://open.spotify.com/album/5FDjV9dxURBdBbSre1yXZm) | 2:56 | 2023-06-12 |  |
@@ -162,6 +165,7 @@
 | [Summer's hot](https://open.spotify.com/track/3iNfPwjMlyJPiCL1QqAtMt) | [Pop Lips](https://open.spotify.com/artist/4cM063RV4dpv12hQbCnmzq) | [Summer's hot](https://open.spotify.com/album/1hDRBD4jaTszOJF0xtZQSq) | 2:51 | 2023-06-15 |  |
 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2023-06-12 |  |
 | [SWORDS DANCE](https://open.spotify.com/track/5aQulIg4tvbQTRQDZSShDg) | [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [SWORDS DANCE](https://open.spotify.com/album/4jDFu5xgFwkbjh1JdufhHz) | 2:20 | 2023-06-12 |  |
+| [Td Up](https://open.spotify.com/track/1ycQgsJvs81PKvCx1nVjSw) | [Bobby Rack$](https://open.spotify.com/artist/4z2BAH1UncP6Vmf8ICeTvd) | [NSFW](https://open.spotify.com/album/3VQyTu7NsO1n8R1Mopj7tS) | 1:28 | 2023-06-20 |  |
 | [TELL ME U ALONE!](https://open.spotify.com/track/1gfQDhApqDoOsPmLtMhP0z) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [TELL ME U ALONE!](https://open.spotify.com/album/0hdMPzrNIR56NiEsICG7h1) | 2:45 | 2023-06-12 |  |
 | [That's My Slime](https://open.spotify.com/track/3gFbStY4BsLT8XK9CEDjTw) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [That's My Slime](https://open.spotify.com/album/1IdYVCY0S5BQRRsHjbnX2C) | 1:29 | 2023-06-12 |  |
 | [The Old East End Tonight \- Jason Bye Remix Radio Edit](https://open.spotify.com/track/4Qaz7k8wA9iYuQ8p9BNp0j) | [Gary Driscoll](https://open.spotify.com/artist/2uW07oq2oBadeC9LgxkyOt) | [The Old East End Tonight \(The Remixes\)](https://open.spotify.com/album/4bL0vmMXTlA7g0E31kMrYl) | 3:44 | 2023-06-12 | 2023-06-19 |

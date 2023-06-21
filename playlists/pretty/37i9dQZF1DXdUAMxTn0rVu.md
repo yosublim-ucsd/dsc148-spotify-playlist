@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Common
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,772 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,204 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [Answers](https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP), [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 4:43 |
 
-Snapshot ID: `MCw2OWEwYjljMzNjZjY0ZmQ2OWZmYzJlZjg2MDIwZjE4Zjk5ZjYxOTE5`
+Snapshot ID: `MCw3ZGE4ZjlkZTdkMDJkNzI3ODkxZTAxNGM5ODFhNjhlMDkxOTM4NDIy`

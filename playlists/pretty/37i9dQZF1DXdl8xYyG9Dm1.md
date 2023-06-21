@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=3io5w\_NHTqaC0WSBoCiy\-Q"> Cassper Nyovest </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,853 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,943 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 | 70 | [Lord Protect My Steppings](https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:01 |
 
-Snapshot ID: `MCw5MDEzMTg3ZGNhMWE2NWNlNjliNmQxZmEyOTliYzU2NWRlMWY1ZWYx`
+Snapshot ID: `MCw1MTM1NWM3NDFhMjYyZGE5ZDI4NGIzMTQyYjNlOTgyOGExYzY2NDM4`

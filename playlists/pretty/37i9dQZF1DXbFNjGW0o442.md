@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,677 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,690 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Mujeres](https://open.spotify.com/track/2wVZPxC1lrkix7RGHhUzkA) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Dectectives](https://open.spotify.com/album/4OCganNLdrhUcEgG5Hkcjx) | 3:34 |
 | 100 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
 
-Snapshot ID: `MCxiOTJiMmRmYWQ1NjQ3NjJiODZjYzI5YzIyZThiZWRiYjYyOTRiODEz`
+Snapshot ID: `MCw3NThhNDY0NzQ1OGI3MzAyMjI1ODk0MTZkMTA2MTBmOTY3Mjk0ZWEw`

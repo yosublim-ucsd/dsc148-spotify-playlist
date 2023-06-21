@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,710 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,832 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 50 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 
-Snapshot ID: `MCxlNmQzOTEwMWEwYmZlN2ZlNzEzMjFkZWU4ZmJmODkxMTgzMDIxZjcz`
+Snapshot ID: `MCxhMjEzYWEyMzRhYmY1YzY5N2FhZDNmZjc1NzdhMmU5OTU4ODMyZTRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Llunr
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,826 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,892 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
 | 50 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
 
-Snapshot ID: `MCxiZTYxNTQ2ZjA1ODRhZWVmODA5YzY4YTdlMTIzMjI3ZDE4MWYyOWU1`
+Snapshot ID: `MCw5ZDVlMTQwMzQxYjc3MzNjNjdlZGFmZmVhM2NjYjU0NmQzNGQwYTk0`

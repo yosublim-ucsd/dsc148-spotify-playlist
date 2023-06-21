@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Elsa y Elmar & Conociendo Rusia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,380 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,397 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Universos Distintos](https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [André Prando](https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk) | [Universos Distintos](https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw) | 3:52 |
 | 100 | [Atajo](https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc) | [Pupa](https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Atajo](https://open.spotify.com/album/114IoHxDs2zmo1imnM3MHA) | 3:36 |
 
-Snapshot ID: `MCwyMjU1NzMwZWQ1ZTkxMWM1OGFmZmExMTQ4YzlkYzBlNDgxY2E5N2Vk`
+Snapshot ID: `MCxiYzIzMmRjM2VjNWNjNmY2YmE5ZmRkNWQxZWJiMzRmMGZmMTY2YTky`

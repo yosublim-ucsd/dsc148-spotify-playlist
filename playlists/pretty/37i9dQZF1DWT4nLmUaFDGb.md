@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,882 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,135 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [Mr\. Bojangles](https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Mr Bojangles](https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g) | 4:43 |
 | 150 | [The World in You](https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK) | [Stephanie Wright](https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ) | [The World in You](https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p) | 3:19 |
 
-Snapshot ID: `MCwwNWQ0NmY1NGU1YzliMjk3NGY5NTNiZTgzNmRiMjU0OGE1MzQ5NTQ2`
+Snapshot ID: `MCw2ZTYzOGQzZDlkMDRlZTM2NGJmMDA2ZWY1MjUyOTFkNmQ2ZTJlNjE2`

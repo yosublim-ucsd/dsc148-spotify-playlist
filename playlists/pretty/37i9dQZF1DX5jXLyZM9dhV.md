@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,570 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,595 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 74 | [Cuando quieras, donde quieras \(Così era e così sia\)](https://open.spotify.com/track/3akNntAza319MgjivWphIH) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Alma, Corazón Y Vida](https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP) | 3:26 |
 | 75 | [Te Quiero Te Quiero](https://open.spotify.com/track/5ltBmvHslf7tplG5QfLmTt) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 2:51 |
 
-Snapshot ID: `MCwxZjJlNzZjMmRmNTM0MDU3MDZkM2U5MjdiNjdmYzY3YTdiNmQ4ZGEz`
+Snapshot ID: `MCxhNTIxNjEzNTU5MmY1YzRkMDY1ODdiODA5ZjBhMzQzNmRlMDQ2NTYy`

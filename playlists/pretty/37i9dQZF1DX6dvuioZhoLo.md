@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,396 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,497 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [When I Quit Drinking](https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD) | 3:56 |
 | 100 | [Dirty Old Town](https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [I've Got a Way](https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO) | 2:41 |
 
-Snapshot ID: `MCw2YTFjZTg1NTJiMThjZGI2Mjg2N2U3NTlmZGI2NTdjZDE5OGJkODEy`
+Snapshot ID: `MCwwMWNkZWE1OWUzMzRmZTQ5N2MwZDNjOTQzYTYwNjUyZDQ4MTQ0Y2Y5`

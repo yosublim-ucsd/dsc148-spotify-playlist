@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,977 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,142 likes - 80 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 |
 | 80 | [Endless Dancing](https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU) | 4:19 |
 
-Snapshot ID: `MCwzOGQ0ZDgxZTYyNzQxMTg4MGU3NjEyNDc1Y2ExYmY4Y2YxYzUyMzAz`
+Snapshot ID: `MCw5YWI0MDExNjI3OTEzNTgxOTg3ODk0YzFjOGQxYTRkMjFmZjM3MDcy`

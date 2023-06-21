@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,866 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,896 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 149 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 |
 | 150 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 |
 
-Snapshot ID: `MCxiZDg5Yzg5MGE2YjNiNzZhMjczZmQ5MmFlZTlmOWMxYWY5Y2Y2ZWE4`
+Snapshot ID: `MCxlNTkxN2M5NGVhMDc0M2E1MmYwN2IxMjY4YjM4Y2EyNzA1NzQzYzg1`

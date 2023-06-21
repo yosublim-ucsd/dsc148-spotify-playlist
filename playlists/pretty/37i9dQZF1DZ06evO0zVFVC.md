@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,542 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,640 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 46 | [Sleight of Hand](https://open.spotify.com/track/4629CEGA4gQ065aiuoR32n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:27 |
 | 47 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDA1ZmQzYmM1MzFhMDkzMzA2OGZjOGE2ZDc5MDE3NDU0ZA==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA0NzM0NTY0NWM0ZDNjMjBkMmZmNTc0MmY0MTJkMDM4MQ==`

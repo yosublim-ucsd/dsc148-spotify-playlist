@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,013 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,062 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
 | 100 | [Erase Me](https://open.spotify.com/track/0XVbJvveXmtVlMGKhIcGZK) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Write Your Name In Pink](https://open.spotify.com/album/5MimZH5rLcsbFj6tUxsnrM) | 5:02 |
 
-Snapshot ID: `MCxmMDYyZjEzM2FmNDY5OTZlMDk5ZDk3NzYyODgxNzkzMjlkZjgwNGNj`
+Snapshot ID: `MCxiOGY1N2Y1MjM2NzA3NmI3OTg4MDFjNjZiYWM5YjM0ZjllMDY2MDE3`

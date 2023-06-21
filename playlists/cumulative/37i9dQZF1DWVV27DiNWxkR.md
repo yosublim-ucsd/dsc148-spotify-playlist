@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod.
 
-334 songs - 22 hr 36 min
+335 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Ludlow St.](https://open.spotify.com/track/0kxQTfplg7tjX5aOCrGDns) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:42 | 2020-08-30 | 2020-09-11 |
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:45 | 2020-08-30 | 2020-09-11 |
 | [Milk](https://open.spotify.com/track/7qbQiDc6OZgw8p91UTy2fE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Milk](https://open.spotify.com/album/4RgHhQQ1Q0UPrDyqsJCMfE) | 3:54 | 2019-09-29\* | 2022-08-27 |
-| [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 |  |
+| [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 | 2023-06-21 |
 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 | 2019-09-29\* | 2022-04-10 |
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-08-12 |  |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-08-26 |  |
@@ -323,6 +323,7 @@
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-08-26 |  |
 | [what can you say](https://open.spotify.com/track/6MrHbVStATMttFI6NEoaf5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/5W6TxvIqACEfnxm0VgPhv7) | 2:28 | 2020-08-30 | 2020-09-11 |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2022-08-26 |  |
+| [when I c u](https://open.spotify.com/track/7l6XeAZ3nkrSt1DmXaRXyi) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:58 | 2023-06-20 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2022-07-15 |  |
 | [when the party's over](https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [when the party's over](https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw) | 3:19 | 2019-09-29\* | 2022-07-29 |
 | [when the party's over](https://open.spotify.com/track/381jKA1s90oPENoWLbQ53b) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Toxicity](https://open.spotify.com/album/08XpGFlrqm6oRi71GlH6Nu) | 3:19 | 2022-09-02 | 2022-11-14 |

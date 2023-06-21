@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,543 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,605 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 49 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 50 | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 |
 
-Snapshot ID: `MCw0NTFlMGEyMzZhZjhmM2VlM2M1YmI4MThhZTk5YWI3YjAzNTVhM2Zl`
+Snapshot ID: `MCxjZGVhNTgwODJkNzI4MWI1ODk3NTM3OGM0OTk4MWQwY2FiOGIwYjgw`

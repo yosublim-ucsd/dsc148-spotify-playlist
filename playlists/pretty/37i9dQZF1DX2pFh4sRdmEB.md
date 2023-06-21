@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,920 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,090 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
 | 150 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
 
-Snapshot ID: `MCw4OTdlMzcwNDA2NWQ3NmJlYzgxNGZiZGU2YTYzYzQ2OGQxYzFiOTE5`
+Snapshot ID: `MCxhMjcwMWQxYmEwYmRkNjgyOWM1YzQ0MTA3YTQwYmRkMmJjOTcwZmFj`

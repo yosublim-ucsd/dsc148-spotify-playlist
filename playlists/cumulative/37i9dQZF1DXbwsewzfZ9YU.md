@@ -4,11 +4,11 @@
 
 > open the pit\. cover: Zulu
 
-106 songs - 4 hr 34 min
+107 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-24 |  |
+| [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-24 | 2023-06-21 |
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 | 2023-02-24 | 2023-04-30 |
 | [Ambivalence](https://open.spotify.com/track/40CnUZ7PoaK77rSGqmx7Mi) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/2yTQM7NDekBNwq2OgGWso9) | 2:20 | 2023-04-21 | 2023-05-20 |
@@ -100,7 +100,8 @@
 | [Theory of Mind](https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Theory of Mind](https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg) | 3:51 | 2023-05-08 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-11 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-24 |  |
-| [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 |  |
+| [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-20 |  |
+| [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 | 2023-06-21 |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |
 | [Wash Away](https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr) | [Ambleside](https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y) | [Shape Me](https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31) | 3:27 | 2023-02-24 |  |
 | [Waste Not Want Not](https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 1:38 | 2023-04-21 | 2023-04-30 |

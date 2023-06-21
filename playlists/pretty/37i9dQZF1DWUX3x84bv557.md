@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Pjotr & Melissa Lopes op de cover van dé Nederlandse pop playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,130 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,159 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 | 4 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 |
 | 5 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 |
-| 6 | [Geen Spijt](https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Geen Spijt](https://open.spotify.com/album/2FzO6i5P5sSGjjSt3DIuxE) | 2:31 |
-| 7 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
-| 8 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
+| 6 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
+| 7 | [Geen Spijt](https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Geen Spijt](https://open.spotify.com/album/2FzO6i5P5sSGjjSt3DIuxE) | 2:31 |
+| 8 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
 | 9 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 |
 | 10 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 11 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry) | 2:43 |
 | 90 | [Oceaan](https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Oceaan](https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi) | 3:07 |
 
-Snapshot ID: `MCwwYjMwYmM2Nzk3MzNlMDIyOGI3NDM3OTRjMzg0M2Y4MjJiMmU3ZGY4`
+Snapshot ID: `MCwzMzkxNzY0ZmE2MDVjODI5OTVlNGZkMGViYTg3OGY0M2QwYTNiZjBk`

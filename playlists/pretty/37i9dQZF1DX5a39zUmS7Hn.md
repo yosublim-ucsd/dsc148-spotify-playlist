@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Noel Gallagher
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,903 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,059 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 79 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 |
 | 80 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 
-Snapshot ID: `MCw0YTgzY2E4MmM3OGRkYTllNzc1ZDhhOTBlN2FhOGNlMTQwOTc1YTIz`
+Snapshot ID: `MCw3MGMzZjRmZWRmNTYxNGJhNjVhZDE5Y2Y1ZWE0NTVkMzc5NzEzNGJl`

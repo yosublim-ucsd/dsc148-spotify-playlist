@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Tac. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Fulana. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 242400,
       "name": "Aroma \u0639\u0628\u064a\u0631",
       "url": "https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 164355,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/5DPsRMm9YBzNgcOLLemG43"
@@ -856,6 +856,24 @@
       "duration_ms": 403861,
       "name": "Faqat Ala Bali",
       "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
+    },
+    {
+      "album": {
+        "name": "FAR\u00c4GH",
+        "url": "https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ"
+      },
+      "artists": [
+        {
+          "name": "LA\u00cf",
+          "url": "https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113867,
+      "name": "FAR\u00c4GH",
+      "url": "https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8"
     },
     {
       "album": {
@@ -1449,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Jah!",
+        "url": "https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191361,
+      "name": "Jah!",
+      "url": "https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1"
+    },
+    {
+      "album": {
         "name": "Kalam Kteer",
         "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
       },
@@ -1522,6 +1558,24 @@
       "duration_ms": 232000,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq"
+    },
+    {
+      "album": {
+        "name": "Kindir Surprise",
+        "url": "https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM"
+      },
+      "artists": [
+        {
+          "name": "Aziz Konkrite",
+          "url": "https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288213,
+      "name": "Kindir Suprise",
+      "url": "https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH"
     },
     {
       "album": {
@@ -1662,7 +1716,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 196190,
       "name": "Lola",
       "url": "https://open.spotify.com/track/7h3MyaF9PwcTRsoTugynP6"
@@ -2290,7 +2344,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 308526,
       "name": "Ouda",
       "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 201999,
       "name": "Ouli Liya",
       "url": "https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY"
@@ -2442,7 +2496,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 240033,
       "name": "QAAR A",
       "url": "https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz"
@@ -2642,6 +2696,24 @@
       "duration_ms": 179846,
       "name": "Serdab",
       "url": "https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z"
+    },
+    {
+      "album": {
+        "name": "Seventeenth",
+        "url": "https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "Seventeenth",
+      "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
     },
     {
       "album": {
@@ -3153,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "Things You Don't Tell Yourself",
+        "url": "https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT"
+      },
+      "artists": [
+        {
+          "name": "Laila Beshara",
+          "url": "https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD"
+        },
+        {
+          "name": "AMR OMAR",
+          "url": "https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4"
+    },
+    {
+      "album": {
         "name": "What I Mean",
         "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
       },
@@ -3208,6 +3302,24 @@
       "duration_ms": 397049,
       "name": "Words",
       "url": "https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4"
+    },
+    {
+      "album": {
+        "name": "Ya Lel",
+        "url": "https://open.spotify.com/album/48V722Zrn4nMGYWKrAFjk3"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175376,
+      "name": "Ya Lel",
+      "url": "https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6"
     },
     {
       "album": {

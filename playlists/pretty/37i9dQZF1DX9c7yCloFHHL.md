@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. ANNA on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,431 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,531 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Inspirit \- Takuya's Ryūteki Dragons](https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Inspirit \(Takuya's Ryūteki Dragons\)](https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw) | 4:15 |
 | 100 | [Nocturne 4 \- Alva Noto Remodel](https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Nocturne 4 \(Alva Noto Remodel\)](https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO) | 6:40 |
 
-Snapshot ID: `MCwyOWVlZDhkYzlmNWU2ZGI3MWUzNDJjNTYzNjg3ZWJkM2Q3N2I4NGU0`
+Snapshot ID: `MCwwNTMwZmNjOWEwODdlNzI5NzYyMWJiNmI1NDhhMmU1ODBjY2IzOWUw`

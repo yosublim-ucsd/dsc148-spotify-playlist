@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Daniel, Me Estás Matando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,520 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,625 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 |
 | 100 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 
-Snapshot ID: `MCw4M2E3YWZlMGFhY2NiYzk2ZjBhOWM5NGE0YTI0ZDVhNmJlMTRhNTkz`
+Snapshot ID: `MCwwNWQzNDVjNDM0YjY0NmE0M2EwNGY2Yjk3YzY4YjY1Mzg4MzczZjA3`

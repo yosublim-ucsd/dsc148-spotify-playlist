@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,785 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,996 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 79 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 |
 | 80 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 |
 
-Snapshot ID: `MCw4ZWRhMDVmYzUwYjAwOWQ5YTYzN2VmYTk4MzBiZmQzNGQ2MzZlNWY5`
+Snapshot ID: `MCw4YmRlYTA5NTBmNDgzYzZlZTE4MzU1MDJmMjJiYjY3YjAwYjhmNDFh`

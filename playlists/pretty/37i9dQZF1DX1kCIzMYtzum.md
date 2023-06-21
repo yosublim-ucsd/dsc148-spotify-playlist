@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,055 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,281 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 |
 | 100 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 
-Snapshot ID: `MCxmZTBiODVlZTM0NTkwZjdkODBiN2NkZWEzMThjM2EyN2Q3OWI0NDY3`
+Snapshot ID: `MCxkNzVkOTZhNTYwN2IwZThkMzQ4YzcyODhmYWM0ODJhMmI2OTAzNmQ1`

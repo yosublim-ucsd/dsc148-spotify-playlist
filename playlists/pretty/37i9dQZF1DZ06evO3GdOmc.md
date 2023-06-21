@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,732 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,763 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 22 | [Even When You're Running](https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:49 |
 | 23 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 | 24 | [If We've Ever Needed You](https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 3:38 |
-| 25 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:16 |
-| 26 | [Already There](https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:31 |
+| 25 | [Already There](https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:31 |
+| 26 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:16 |
 | 27 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 |
 | 28 | [Loving My Jesus](https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:33 |
 | 29 | [Healer](https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Hallelujah](https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 5:14 |
 | 50 | [The Well](https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:55 |
 
-Snapshot ID: `MjgxMTk2NDEsMDAwMDAwMDA4NzM5ZjczNTM2MGZiZjE4OThmNTYyNDE0ZWEzZDY2Yg==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDA0YTUxOTNiZDcwMGVkYmFjMDYwMmMwMTBhNjQwNDc3OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,427 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
 | 50 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
 
-Snapshot ID: `MCw3ZmRmZTc0ZTY5ODMyYTM4OWUzNGMyMTIzMmUxOGQ5MGI4NTRhYjNh`
+Snapshot ID: `MTY4NjkxODQ0MiwwMDAwMDAwMGEwODVlYzJlNWVjODdjZDEzYzE4M2FhODZlYmE1MzU1`

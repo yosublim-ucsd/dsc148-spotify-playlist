@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,280 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,359 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Wonders \- Live](https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue) | [Jedidiaah](https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7) | [Wonders \(Live\)](https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ) | 9:41 |
 | 50 | [Master of the World](https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Master of the World](https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha) | 5:36 |
 
-Snapshot ID: `MCwzNmU5NGFmZWIwZTgzYmU4NDgxODYxMzFhM2UyYjkyNjNhZGZhZDI3`
+Snapshot ID: `MCw4MDg1Y2FmMzgyZTExZTg5YTBhMWFmNGYzODE5MWFjMjY5OTdmOTRj`

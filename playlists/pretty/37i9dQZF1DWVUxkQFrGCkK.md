@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,076 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,195 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 |
 | 100 | [A Little More Love](https://open.spotify.com/track/4KD0A7LJb3ETVuUYxZnrlm) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [A Little More Love](https://open.spotify.com/album/1z6mTGaZizVyY80HWws1vm) | 3:03 |
 
-Snapshot ID: `MCwxYTIzMTc0MDdiNjBjMGFjY2QzNjhkMDljMmExMzdjOTBiYWNlNzAx`
+Snapshot ID: `MCwzMjMwZGMwNDlhNjY1N2Y5MDBkMzBmYzdhNTYxZTdhZDEwMzU4NjI4`

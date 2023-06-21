@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-570 songs - 1 day 6 hr 55 min
+571 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 | 2022-05-12 |  |
 | [DANCE LIKE NO TOMORROW](https://open.spotify.com/track/4Wd8YRc2wZbpKsmQogl63U) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 | 2022-05-12 |  |
+| [Dandelion](https://open.spotify.com/track/7kfTazB74bkjKkRjPl8Moh) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [CLASSICS](https://open.spotify.com/album/30xI41xe0EWuvlIomwWpmy) | 2:58 | 2023-06-20 |  |
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
@@ -219,7 +220,7 @@
 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 | 2022-05-19 |  |
 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 | 2022-05-17 | 2023-04-17 |
 | [Mist](https://open.spotify.com/track/0nBfNckN4Teg2ywZnLgAJX) | [S\-TALK](https://open.spotify.com/artist/4VnK7dpC4nOkUnHeBKh0ZH) | [SHOOOSE](https://open.spotify.com/album/6VZFsfNjfc1vJ3UhlDtkLo) | 3:12 | 2022-05-31 | 2022-07-19 |
-| [MMN](https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [MMN](https://open.spotify.com/album/44mxUgwetKmtJoyB4IUZyA) | 2:12 | 2023-06-01 |  |
+| [MMN](https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [MMN](https://open.spotify.com/album/44mxUgwetKmtJoyB4IUZyA) | 2:12 | 2023-06-01 | 2023-06-21 |
 | [Monster](https://open.spotify.com/track/0QtJSgoQYAtBzwCMKVC5Ru) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [MONSTER STREET](https://open.spotify.com/album/0QGswv6J6zbymBzgkbMR8z) | 2:47 | 2022-05-12 | 2022-08-19 |
 | [MONSTER TREE](https://open.spotify.com/track/7whBaAagxotxdtRmRN3N4l) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/0cbwaXoUB2JBBZFdMrGSTw) | 4:23 | 2022-05-19 | 2022-07-27 |
 | [MONT BLANC](https://open.spotify.com/track/1KWxLXuvKWJz3klz4951rX) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [MONT BLANC](https://open.spotify.com/album/52sbvSi8y5iveztFV88bG6) | 3:23 | 2022-05-12 | 2022-07-29 |

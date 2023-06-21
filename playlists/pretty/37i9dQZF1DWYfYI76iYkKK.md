@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,432 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,446 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [會不會 \- 不插電版](https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [邁向三十](https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw) | 3:47 |
 | 50 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 
-Snapshot ID: `MCxjYjlhYzhjNTg4NjdmM2Y4OTBlZWE4MDlmNDQ2N2MxMzc3ZWNmMWZj`
+Snapshot ID: `MCw5NzFhZWM3ZTBiY2UzZmEwZmFmYmUxYjJiOTU1MDM5NzhhOTc4ZGU4`

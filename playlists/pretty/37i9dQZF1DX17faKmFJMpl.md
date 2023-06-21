@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,498 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,500 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [CHO](https://open.spotify.com/track/5CmKZpxzC8xaFLzXFZUDUY) | [MP Hip Hop](https://open.spotify.com/artist/0idGZ7ZTiHgiTxQRE9bQUo) | [MP Hip Hop 2000 CHO \(Remastered\)](https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n) | 4:10 |
 | 100 | [Respect 4 Brotha \(feat\. Ill Skillz, K.O.D.\)](https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW), [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [Respect 4 Brotha](https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT) | 5:13 |
 
-Snapshot ID: `MCxiYzI3NTljNzM3N2QwYWI1MDY1MGE2MzM3YWYwNjlhNzk2MGM2MmVk`
+Snapshot ID: `MCw1YWM3Y2U5ZDA4MDY4M2Y3ZTFhNDU1NDI2ZDM5MDlhMTQ0ZWYzZWE2`

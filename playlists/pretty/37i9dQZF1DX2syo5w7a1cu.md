@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,148 likes - 200 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,840 likes - 200 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [Wish I Could Fly](https://open.spotify.com/track/6F1ZirVF5m1UHEiWv8A7fw) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Have A Nice day \(Extended Version\)](https://open.spotify.com/album/0Zs3mjPZUkBvltuA6qLNuO) | 4:39 |
 | 200 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
 
-Snapshot ID: `MCxjN2RkMTZlMmNhZGNlOGNjMWM2YWE0MjhkMGEwOTQ1YTk2MTVkYTdk`
+Snapshot ID: `MCxhMGZkOTgzNGE0NGY0YzEyNzc2YTJkNTBjNDNhOWY0ZDY2ZDFhMDU0`

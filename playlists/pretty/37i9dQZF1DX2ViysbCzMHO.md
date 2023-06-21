@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,965 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,059 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
 | 100 | [Wish You Were The One \- Acoustic](https://open.spotify.com/track/68L77yToDsg8bWZXt8VOcj) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Wish You Were The One \- Acoustic](https://open.spotify.com/album/1deVT2927jEuMPuKoO8Dbn) | 2:58 |
 
-Snapshot ID: `MCwwZGMzOTFmNjYyMWNkNzEyOTllOWE3MWQyNDIwMmJlNWE5OGFjOGEz`
+Snapshot ID: `MCxjYjBhODc5NmU4MjQxMGE4MDAxM2Q0NTEwZDZhOWY1ZDM3ZGUxZWVj`

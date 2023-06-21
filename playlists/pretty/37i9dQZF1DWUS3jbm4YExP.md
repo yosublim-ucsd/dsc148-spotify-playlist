@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,842 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,100 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
 | 100 | [Flames to Feed \- Dr Rubberfunk Remix](https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep) | [Mount Pleasant Remixed, Vol\. 1](https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK) | 3:46 |
 
-Snapshot ID: `MCxhYTA5NjhhMDg2YWE3YzVmYWY3YjViZGNjOTIzYjk0ZTk3NjljM2M4`
+Snapshot ID: `MCxhZTgzNzE2MTA3NzJmMzI0MGI3MDQ2ZDUxMjdlMzU0ZjVkMTBhOTk0`

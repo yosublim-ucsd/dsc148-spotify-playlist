@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,587 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,533 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 | 149 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 150 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
 
-Snapshot ID: `MCxlZTc1ZmI0MjU3Yjc2OGEwNzQ3OTc3ZGVhMGFmYTA5NWY0YTQ0YzI5`
+Snapshot ID: `MCw4YmYxNzJjMzRhODZjYmQwNGQyZGJjZWZiMDc4Nzc0Mzk0YjYxYjc2`

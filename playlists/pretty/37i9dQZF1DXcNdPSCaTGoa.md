@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,192 likes - 60 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 60 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 |
 | 60 | [Nizalwa Ngobani?](https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 6:44 |
 
-Snapshot ID: `MCw4N2M3OWQ4OGRkMGU4MDA5NTliMTEzNzY2OGY5NDgyZjY2MWZiNTc3`
+Snapshot ID: `MCwxZmEyMWI3ZGVmMDg5YWFiMzUyOGI5ODY1YzE0Yzg3OTQ1MjM4ZjBk`

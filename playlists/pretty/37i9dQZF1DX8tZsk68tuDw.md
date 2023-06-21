@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Jayda G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,030,776 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,702 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 7 | [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 |
 | 8 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 |
 | 9 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
-| 10 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:17 |
+| 10 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 11 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 |
 | 12 | [Anywhere \(Road Trippin'\)](https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Anywhere \(Road Trippin'\)](https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA) | 4:34 |
 | 13 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 84 | [Only Man](https://open.spotify.com/track/5xg1c2BrE1Ebt9a4xR2LoC) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Only Man EP](https://open.spotify.com/album/2YnBlnJQS41Klgd146FlML) | 4:01 |
 | 85 | [Gam Gam \- 2023](https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Mauro Pilato](https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP), [Max Monti](https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr) | [Gam Gam \(2023\)](https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r) | 4:08 |
 
-Snapshot ID: `MCwzZTY1MjU3YWM2NzM3NzUwMmY3MDVjNTQ0MDNkMzc4MTBlMmI4M2My`
+Snapshot ID: `MCwyY2RiMGJjNGI4ZTY5MGYyZjk4YTRhYTE1YWYxMDQ5ZTMzNTNhYTY1`

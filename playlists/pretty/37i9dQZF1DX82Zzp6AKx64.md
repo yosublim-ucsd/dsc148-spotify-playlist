@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,933 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,140 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:27 |
 | 100 | [Fly To The Angels](https://open.spotify.com/track/1KkKFxAOb4kDpWH8IeLa7A) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter: The Best Of Slaughter](https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4) | 4:32 |
 
-Snapshot ID: `MCw5ZjQ4YTZjYjRkOWY1YmZjNWM0YmRhYzZlZjc2NjE2YmIxMDBkYjdm`
+Snapshot ID: `MCw1N2VjMmE5OGI1OWViODFkNmFlYjI2MmM3MjMyOGY0ZTNiZTY5YWY2`

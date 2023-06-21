@@ -4,7 +4,7 @@
 
 > Sam Austins makes anti pop.
 
-1,427 songs - 2 day 20 hr 50 min
+1,428 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,6 +905,7 @@
 | [OTT](https://open.spotify.com/track/6g33zvMOjqKjbVLQ6bKdSA) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [OTT](https://open.spotify.com/album/2Nc2elxVPXWGzv0kgzXFhI) | 2:40 | 2020-10-13\* | 2020-11-03 |
 | [Out In The Dark](https://open.spotify.com/track/63P3VH4uevmDanujcd1bNx) | [NEL](https://open.spotify.com/artist/37Lfj8dsuyCiHcXj9SyVy9) | [Out In The Dark](https://open.spotify.com/album/0L9lpp86TJig7352Xx55iH) | 3:07 | 2022-02-04 | 2022-03-01 |
 | [Out My Head](https://open.spotify.com/track/4vPoabHSXopY6RzY9atmUe) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Out My Head](https://open.spotify.com/album/1O7sWuEyCsa9UtlXJwXDTP) | 2:17 | 2020-11-03 | 2021-05-15 |
+| [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 | 2023-06-20 |  |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-04-10 |
 | [Overflow](https://open.spotify.com/track/74r1DelsIM4EFBH4Ts0DlJ) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Overflow](https://open.spotify.com/album/7AgRvwdxUPCIYW9hL41IB1) | 2:58 | 2022-04-29 | 2022-06-11 |
 | [overpaid \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [post spring, self destruction](https://open.spotify.com/album/3pIwZl4Z1jKi9Je3lMh3Rd) | 2:54 | 2022-11-11 | 2023-01-07 |
@@ -1245,7 +1246,7 @@
 | [The Light](https://open.spotify.com/track/4hSOItU6YvWBNwG7kOPOKX) | [Jabril](https://open.spotify.com/artist/7akqOKvUbVnmKsafHZYJ4s), [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa) | [The Light](https://open.spotify.com/album/4OJtHHJKm6fYJGz6HYa7Re) | 3:16 | 2022-07-08 | 2022-08-06 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-22 | 2022-04-09 |
 | [The Machine](https://open.spotify.com/track/2GU2CvKoEIvOxDlheIHrnw) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [The Machine](https://open.spotify.com/album/3JFOpACe6wSG1B9NFmGNdt) | 3:23 | 2020-10-13\* | 2021-05-03 |
-| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-09-04 |  |
+| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-09-04 | 2023-06-21 |
 | [The Most](https://open.spotify.com/track/28K1weUTBUawkdH4fMWxPl) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Sol](https://open.spotify.com/album/2cizw1XcPbsvih0hfJ8ydi) | 1:59 | 2021-06-12 | 2021-10-16 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2021-09-03 | 2022-02-12 |
 | [The One And Lonely](https://open.spotify.com/track/5x8Gy4R2HMkb1pQ7MLD5Hc) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [The One And Lonely](https://open.spotify.com/album/1KOgDgBMS1w0bt0h4PEnwU) | 3:21 | 2021-08-10 | 2021-10-16 |
@@ -1339,7 +1340,7 @@
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2022-05-09 | 2022-07-19 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-16 | 2023-01-14 |
 | [VERY POLITE](https://open.spotify.com/track/0kPPe7BI7DNPs7sq8r8h5g) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [WARHOL](https://open.spotify.com/album/6PzT3pUgfTCOHWFwM6awDM) | 2:38 | 2021-05-29 | 2021-10-16 |
-| [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-11-30 |  |
+| [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-11-30 | 2023-06-21 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-12-26 |
 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2023-03-20 | 2023-04-22 |
 | [VI\. Over](https://open.spotify.com/track/7u9tKpw8ja6POjwhUjxv7b) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Tickle Pink Hotel](https://open.spotify.com/album/2qqPBcgbH4ydIAkMr1Pn5W) | 3:06 | 2022-07-22 | 2022-08-06 |

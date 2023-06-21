@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,403 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,539 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 79 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 80 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 
-Snapshot ID: `MCwyNTU5MTA1N2U2ZDBlOTM4MTYzM2Y4N2Q3Y2U4ZTM1YTIyN2E4NTRm`
+Snapshot ID: `MCxkZDkzODQ4OWZiMDk2OWU1YzNiNzI4Njg5NDM1ZDM5OGQwN2RjOTM0`

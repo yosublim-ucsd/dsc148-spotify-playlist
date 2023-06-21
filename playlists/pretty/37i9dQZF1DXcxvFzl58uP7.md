@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,028 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,100 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 100 | [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 |
 
-Snapshot ID: `MCw0OWRjOWFjMzBjOGY4MGQ5ZWJiODIyZjdhMjdhZWYxNTA2YjNlNGQx`
+Snapshot ID: `MCwxZDg1ZDNmZjkxM2E4ZDI1YTI2ZDExY2Q2ZjVmMjNmYTExMTU2MmI0`

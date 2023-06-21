@@ -1,12 +1,12 @@
 {
   "description": "Let your stress melt away while you work up a sweat.",
-  "num_followers": 77577,
+  "num_followers": 77606,
   "original_name": "Acoustic Pilates",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTM4MDgxY2FiM2IwMjA1ZDlkOGRiY2Y1ZGU1ZDBhODhjYjY2Mjhh",
+  "snapshot_id": "MCw5OGFiOWViMDZiZjA5N2E1ZDMyMDNlNzQ3NmIyMTNmOWM0OWY4ZTI3",
   "tracks": [
     {
       "added_at": "2023-06-09 08:17:48",
@@ -383,17 +383,21 @@
     {
       "added_at": "2023-06-09 08:17:48",
       "album": {
-        "name": "I Can't Make You Love Me (Live at the Auckland Town Hall)",
+        "name": "I Can't Make You Love Me (feat. Nick Dow) [Live at the Auckland Town Hall, featuring Nick Dow on Piano]",
         "url": "https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6"
       },
       "artists": [
         {
           "name": "TEEKS",
           "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "Nick Dow",
+          "url": "https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca"
         }
       ],
       "duration_ms": 273727,
-      "name": "I Can't Make You Love Me - Live at the Auckland Town Hall",
+      "name": "I Can't Make You Love Me (feat. Nick Dow)",
       "url": "https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n"
     },
     {

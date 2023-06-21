@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,422 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,029 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 124 | [CicatrIIIces](https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [CicatrIIIces](https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW) | 2:46 |
 | 125 | [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 |
 
-Snapshot ID: `MCwxYzM2MTQyZjczYzI3MjQ4YWY5YTcxM2IyZjg1Zjg4M2JjOTUzODlj`
+Snapshot ID: `MCxmMmRjNmJmMDVkYjE3MTUwOGQ2MTAzYjAyMThhZTUzN2EwMjA1YjEw`

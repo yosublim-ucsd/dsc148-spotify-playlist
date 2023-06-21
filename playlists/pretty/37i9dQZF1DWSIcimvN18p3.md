@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,157 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,198 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Freedom](https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 4:28 |
 | 150 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
 
-Snapshot ID: `MCxiYjdmMWRlZjE3NTA4ODczNTc0MWM2OGI1M2EyZGEzOTliN2E5NzQ2`
+Snapshot ID: `MCw1NTcwYzc3ODYwYTg0MGQyZGQ0OWM0NjNhZDZjZTJkMDNkMmI1ZGEy`

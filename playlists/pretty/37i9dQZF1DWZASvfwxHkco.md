@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトリニック・ダンスミュージックを一つのプレイリストに！Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,638 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,645 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 | 79 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 |
 | 80 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
 
-Snapshot ID: `MCwxODkyM2E5NzRlZjQ5YzcxYzFhOTkyMDQ0MTNjMzI0MzA3YTU2MTFj`
+Snapshot ID: `MCw4ODUzNmE5MzQ2YWE1Zjg2N2NmOGIwMjQxMWU0YWQ5MDkyMDZkZjli`

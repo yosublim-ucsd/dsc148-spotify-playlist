@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK?si=yb\-eper7R3u5zqUir9aARg">Melvin Crispell III</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,589 likes - 102 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,732 likes - 102 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 101 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 102 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCw4MmVkZWUwYWRjNjAwZjE2YWRmM2UxYzQ4MjhjZjNiMGMxNDU1NjU3`
+Snapshot ID: `MCwxZDc0MjBiZDgwYjcwNzc2OTIxZDVlYjgxNmQ4NzQxMmNmMmEwZjBk`

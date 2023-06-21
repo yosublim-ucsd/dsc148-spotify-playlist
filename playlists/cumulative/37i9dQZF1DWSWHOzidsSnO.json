@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 249770,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/3b1ABaqWYULqWBoiT7Mtvc"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 181725,
       "name": "Cafecito Para Dos",
       "url": "https://open.spotify.com/track/1PgVif1282OX4Bcm49DxpT"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 217965,
       "name": "De Curvo Cuerpo",
       "url": "https://open.spotify.com/track/2Pht8QhG9WqzrSQZDyK2rG"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 181280,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 216000,
       "name": "IGUAL",
       "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
@@ -2602,6 +2602,24 @@
       "duration_ms": 196948,
       "name": "Nueva Alegr\u00eda",
       "url": "https://open.spotify.com/track/2njyhvXM6xJSNPhz8b5dP6"
+    },
+    {
+      "album": {
+        "name": "Cambio",
+        "url": "https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF"
+      },
+      "artists": [
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy"
     },
     {
       "album": {
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 193674,
       "name": "Sabor a Ti",
       "url": "https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x"
@@ -3000,6 +3018,24 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "album": {
+        "name": "Reencarnaciones",
+        "url": "https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Ser eternos",
+      "url": "https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r"
     },
     {
       "album": {
@@ -3250,6 +3286,28 @@
       "duration_ms": 136706,
       "name": "Tijeras",
       "url": "https://open.spotify.com/track/5qjpID2xzQjJu67a3wP68m"
+    },
+    {
+      "album": {
+        "name": "29:56",
+        "url": "https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203527,
+      "name": "Todo Est\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX"
     },
     {
       "album": {
@@ -3604,7 +3662,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 193675,
       "name": "Vete",
       "url": "https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX"

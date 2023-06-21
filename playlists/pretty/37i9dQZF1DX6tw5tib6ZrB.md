@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Cassper Nyovest, Dave, J Hus, Lil Durk, Jack Harlow, Drake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,788 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,034 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 | 50 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 
-Snapshot ID: `MCxjNDk2MmU3OGIyODQ2MGUzMGVkODQ3NmMyOTg2NjA3ZjkxZjI3YWRk`
+Snapshot ID: `MCxjODA0NDJmNWNjMmFkMWUxMzlmNzAwMDI2MDljOWVlNDI1ZDJkODc0`

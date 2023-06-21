@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,572 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,584 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 99 | [Cowboy](https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 3:28 |
 | 100 | [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 |
 
-Snapshot ID: `MCw5OTZlZDgzZDgxMmVkYzU5Yzc5NmM0MjY0OGY4NGY0MWRjZmE5MDZh`
+Snapshot ID: `MCwyZTFhYTcwZjA5Zjc2MWFlYzFmZmZkYTQ2YWYzMzM2MTJhZmY4M2Qy`

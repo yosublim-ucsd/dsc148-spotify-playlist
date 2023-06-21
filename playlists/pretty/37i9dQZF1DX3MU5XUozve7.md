@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,594 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,686 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Heavy Gloom](https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story So Far](https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5) | 2:49 |
 | 100 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
 
-Snapshot ID: `MCw2MWMyZTI4NzljN2E3OGQ2YTcwOGRkNmFkNzkxZTcyZjExNzliNWEz`
+Snapshot ID: `MCwxNjFkZWVjNTFjYzhmZWRhZDkxZDY4N2UzODU0MGQ0ODI5NTcxOWRm`

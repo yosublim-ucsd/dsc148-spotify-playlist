@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,125 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,175 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MCxhZjExZmU4ZmYzODBjMzExMzE4MDg0NDU5MGJmMThiM2E5ZTVlZThl`
+Snapshot ID: `MCwwOTM2MGYzNzBkZDE0MzIxYzI3NjEwNDllMGFiZmEyN2M2YzcwMWMy`

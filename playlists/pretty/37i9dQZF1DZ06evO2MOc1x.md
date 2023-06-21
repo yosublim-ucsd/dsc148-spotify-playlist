@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,049 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,079 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 31 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
 | 32 | [Write Me a Few of Your Lines / Kokomo Blues \- 2008 Remaster](https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:36 |
 | 33 | [I Know \- 2008 Remaster](https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:47 |
-| 34 | [Livin' for the Ones](https://open.spotify.com/track/37X2K4YYwEudXUnLA7xLrd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:04 |
+| 34 | [Can't Find My Way Home](https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe) | 3:07 |
 | 35 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
-| 36 | [Can't Find My Way Home](https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe) | 3:07 |
+| 36 | [Livin' for the Ones](https://open.spotify.com/track/37X2K4YYwEudXUnLA7xLrd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:04 |
 | 37 | [Runaway \- 2008 Remaster](https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:55 |
 | 38 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 | 39 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 44 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
 | 45 | [Louise \- 2008 Remaster](https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 2:45 |
 | 46 | [Nobody's Girl](https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:14 |
-| 47 | [When We Say Goodnight](https://open.spotify.com/track/73dOXyOiMMVeO1JyrK2eik) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:00 |
-| 48 | [Bluebird \- 2008 Remaster](https://open.spotify.com/track/78bu2DHF5nvCWmvh5VCe9P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:29 |
+| 47 | [Bluebird \- 2008 Remaster](https://open.spotify.com/track/78bu2DHF5nvCWmvh5VCe9P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:29 |
+| 48 | [When We Say Goodnight](https://open.spotify.com/track/73dOXyOiMMVeO1JyrK2eik) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:00 |
 | 49 | [That Song About the Midway \- 2008 Remaster](https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 4:44 |
 | 50 | [Your Sweet and Shiny Eyes \- 2008 Remaster](https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Home Plate \(2008 Remaster\)](https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX) | 2:47 |
 | 51 | [Kisses Sweeter than Wine](https://open.spotify.com/track/4cOOdma7wXLkuFomD0dyiC) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/64rpqujJSzvu5vn4xDT5k9) | 4:43 |
 
-Snapshot ID: `MjgxMTk2NDAsMDAwMDAwMDBiNTAyYzMxMTk5ZGQ4ZDA2MjlhYzQxYWI0YTU2MzE0Ng==`
+Snapshot ID: `MjgxMjEyNzUsMDAwMDAwMDBjOTdjOGU0ZmZmZTA1MTE1MDc1MWVjY2I4YjNjMjJhMw==`

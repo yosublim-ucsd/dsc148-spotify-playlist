@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/5iRdJtt1r1Siwz9Pi9VJKB"
+      },
+      "artists": [
+        {
+          "name": "Mickey Then",
+          "url": "https://open.spotify.com/artist/6Xu0RsSkyZCkBUXDiRvyMT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Antojito",
+      "url": "https://open.spotify.com/track/6xNUi3OkD5MyZ2MhsPIA0F"
+    },
+    {
+      "album": {
         "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
         "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
       },
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 138264,
       "name": "Bumbow",
       "url": "https://open.spotify.com/track/0HcopNSwDYfErOzTTJGATn"
@@ -7956,7 +7974,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -12110,7 +12128,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 134529,
       "name": "Oh Oh Oh - Veo Veo",
       "url": "https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,523 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,777 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
 | 60 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 
-Snapshot ID: `MCwzZmM2MmRmOWJhNDZiOTRiMTU5YTQxYjFlOTUxMzM2YjBlODM2YTRh`
+Snapshot ID: `MCwwMmRiMDM1Zjk4MTA2OThmMGYyZDUwYWQxZGU1YjlkYWE3ZDBhZWNh`

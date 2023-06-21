@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 
 > Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,995,979 likes - 200 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,998,500 likes - 200 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 | 199 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 200 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 |
 
-Snapshot ID: `MCxlMzQzMGRmMzA4ODM2NmMzOTA4MzM0MTI4OWYzMTBjYTMxNGVhNTQ3`
+Snapshot ID: `MCxmYjE0YmQwMDU4MDNjYzQ2NGYxOTFkMTMwOTE5MmJiZDc2YjkwMmM5`

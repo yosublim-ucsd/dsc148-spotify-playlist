@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Befdiki",
+        "url": "https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214956,
+      "name": "Befdiki",
+      "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0644\u0623\u062d\u0644\u0627\u0645",
         "url": "https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 214327,
       "name": "El Bint El Awiye",
       "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
@@ -3199,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Ma Byetkarar",
+        "url": "https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Cheikh",
+          "url": "https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Ma Byetkarar",
+      "url": "https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx"
+    },
+    {
+      "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
       },
@@ -3460,6 +3496,24 @@
       "duration_ms": 168465,
       "name": "Mesytara",
       "url": "https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L"
+    },
+    {
+      "album": {
+        "name": "Mezlaaj",
+        "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270811,
+      "name": "Mezlaaj",
+      "url": "https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes"
     },
     {
       "album": {
@@ -4246,7 +4300,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 211451,
       "name": "Ta3ala Adalla3ak",
       "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
@@ -5060,7 +5114,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-21",
       "duration_ms": 238500,
       "name": "\u0627\u0644\u0643\u0648\u0643\u0628",
       "url": "https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P"

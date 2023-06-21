@@ -4,15 +4,16 @@
 
 > In cerca di energie? Prova con la nostra playlist!
 
-211 songs - 10 hr 34 min
+212 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-20 |  |
 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 | 2023-04-14 |  |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-06 | 2022-12-17 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-26 | 2022-10-08 |
 | [Alien](https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Alien](https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh) | 2:45 | 2022-05-06 | 2023-03-07 |
-| [All Night \(feat\. Scott Mac\)](https://open.spotify.com/track/0mXl1OxRJosurefeFAncD6) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [C\-BooL](https://open.spotify.com/artist/67VM1TW9hWE9hlVYcmioaH), [Scott Mac](https://open.spotify.com/artist/40ArC4fvFu99CPTpUZXB2w) | [All Night \(feat\. Scott Mac\)](https://open.spotify.com/album/10AgnqPReiWVrEG3TKCZ3j) | 3:05 | 2022-10-14 |  |
+| [All Night \(feat\. Scott Mac\)](https://open.spotify.com/track/0mXl1OxRJosurefeFAncD6) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [C\-BooL](https://open.spotify.com/artist/67VM1TW9hWE9hlVYcmioaH), [Scott Mac](https://open.spotify.com/artist/40ArC4fvFu99CPTpUZXB2w) | [All Night \(feat\. Scott Mac\)](https://open.spotify.com/album/10AgnqPReiWVrEG3TKCZ3j) | 3:05 | 2022-10-14 | 2023-06-21 |
 | [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 | 2022-12-16 |  |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-08-19 | 2022-09-21 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/7M1125M74qeHedad25bx4U) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 3:46 | 2022-07-26 | 2022-08-25 |

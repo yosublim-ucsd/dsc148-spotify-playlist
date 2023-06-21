@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,168 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,226 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 149 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 |
 | 150 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
 
-Snapshot ID: `MCw4ODBhZDIyNDdiOWE5OTAzNDEzN2RmMzUxZGJmYWZlM2U4ZmVlM2Ex`
+Snapshot ID: `MCxhOTcxOTEwY2Y2ZDI4OGYwNzJmNjdlOGQxY2RjNzVmZjkxMWMzYzZh`

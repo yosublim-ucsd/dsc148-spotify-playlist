@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,815 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,823 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 74 | [愛上下雨天](https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [新鮮](https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7) | 4:28 |
 | 75 | [下雨天](https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [午夜兩點半的我](https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM) | 4:33 |
 
-Snapshot ID: `MCxjNmNlNmIyMDNlYTNiZDhhZGFlZjEzOWUxODYzZGU4Njc5NTYzMTUz`
+Snapshot ID: `MCwyMmU2MjJjNzUwNTU5NzZiMDA1ZjBhNGU4YmIzOTU2OGRkMGFkOTVl`

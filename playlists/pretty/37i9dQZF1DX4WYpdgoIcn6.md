@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,105,394 likes - 130 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,106,592 likes - 130 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 130 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 |
 
-Snapshot ID: `MCxmNjJjYmU1OWJmY2JkYWNiNzUxN2ZmYzBhMGY4MTQxODkwMmM3ZDU0`
+Snapshot ID: `MCxmYzdkODYzZjEyNGM2YmIwYzk2MzI0OWVkMWYwNmJkM2ZjZmJjMDNl`

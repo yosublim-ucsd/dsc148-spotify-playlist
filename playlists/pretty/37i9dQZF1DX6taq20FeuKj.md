@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,022 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,317 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 |
 | 100 | [Sanguine Paradise](https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sanguine Paradise](https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1) | 4:03 |
 
-Snapshot ID: `MCxlYjhmZGJjNGRmMWI0NzAzZWJmNzU2YTUyZTM5NTg0OTk5M2NjYzA4`
+Snapshot ID: `MCxiMWIyZDMyYTdlYWZlYzU5M2JjZDQ3MTNmZjJlNDZkMzVhZWMzODQ1`

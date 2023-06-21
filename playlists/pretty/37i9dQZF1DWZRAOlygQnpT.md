@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,209 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,265 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
 | 100 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 |
 
-Snapshot ID: `MCxmZTEzODA3MmQ5NGU2MWNlZDc3YTcwNzhjN2QwNTY0MzhkZmZhNmJm`
+Snapshot ID: `MCxlNmQyNjczMTBjMWM1MTMwMzU5NDEyYmMzZTZmZDI1YzkzOWIwNjEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Dabin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,011 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,097 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [One Day at a Time](https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL) | [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH), [Ridley Slim](https://open.spotify.com/artist/2V3Mbx5L6Lg6Aa2XHR5RBD) | [One Day at a Time](https://open.spotify.com/album/5AioSc4f4taFEkN7l41W7Q) | 3:46 |
 | 150 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 |
 
-Snapshot ID: `MCxiMGI0ZDlhZTg3ODQxZDdiNGFlOTNhZjdjMmFlYjgzZmQxZGE4ZWMw`
+Snapshot ID: `MCwyNTE5ZTY2MzQyNmI2MjEyMThkMzM4YzY3NTI2MTI5YjUwOWU0NTVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,345 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,351 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Te Quiero Mas](https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5) | [Rita Capuchina](https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k) | [Te Quiero Mas](https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK) | 3:08 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw3YmY4YTlkNGJjNmQzMDY0MTEyMDZhOTkxNDhiMmUzMDBlYTBhMTgz`
+Snapshot ID: `MCwwYjE0MzY4ZDUxNDM2YzVlYjNlZDA1ZTY1ZDg0Mjk3MGVjODBiNzcz`

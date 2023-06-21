@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,726 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,743 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 |
 | 80 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 |
 
-Snapshot ID: `MCw3ODEzMzM3OTQzZDQyYTU5NzZiYjUyMWYzZjIwMWRiOTllNzlkMDA2`
+Snapshot ID: `MCw0MTkzZDJhNWRmMzY1MDI2MDRlMTY2NjczZjU3ZjA2N2EzMjY1NmVl`

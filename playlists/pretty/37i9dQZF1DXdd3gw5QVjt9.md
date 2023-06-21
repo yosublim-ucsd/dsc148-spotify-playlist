@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,138 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,135 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 74 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 75 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 |
 
-Snapshot ID: `MCxlYjJkOThjMTMwZDRiNTczOGE0ZGY3MGUwNjJhMmYwYzkyM2I2ZDA4`
+Snapshot ID: `MCw3OGIyNmQwYzI0ZWQyZmQ2NjRkOTA5MmJhYTRmODFhNTc2MDRhNzcx`

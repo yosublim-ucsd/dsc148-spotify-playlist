@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-495 songs - 1 day 4 hr 24 min
+496 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [ヸシュヌ \(feat\. 初音ミク\)](https://open.spotify.com/track/3KNa2aUL6JttpHA7Q6nkDW) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [ヸシュヌ](https://open.spotify.com/album/2EhvXAkJ79B4AVfrYjHWsj) | 3:37 | 2022-06-28 | 2022-07-01 |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
+| [下剋上](https://open.spotify.com/track/4FlY9zsDlg7ZRtOEE0z0RG) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [下剋上](https://open.spotify.com/album/0btduDvRtBcOyLGi2zF5z9) | 2:34 | 2023-06-20 |  |
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
@@ -483,7 +484,7 @@
 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 | 2022-06-28 |  |
 | [腐れ外道とチョコレゐト](https://open.spotify.com/track/07ja6ijB8a5DAsfwKJFoMb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Comic and Cosmic](https://open.spotify.com/album/0rclMLKSwOEJ9I7xauRFbF) | 3:15 | 2022-06-23 | 2022-07-19 |
 | [花が落ちたので、](https://open.spotify.com/track/20q0R0wiT2p4Wy2ba3kaMN) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [独りに花を添え](https://open.spotify.com/album/0q7P45GeBYeAOGm6pa7DDY) | 4:16 | 2022-06-23 | 2022-07-26 |
-| [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 | 2023-02-09 |  |
+| [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 | 2023-02-09 | 2023-06-21 |
 | [花を唄う](https://open.spotify.com/track/451LPVp4bGHn37Z5iJ0orZ) | [シノ](https://open.spotify.com/artist/70Zrg9upyRog8b49c4puDd) | [花を唄う](https://open.spotify.com/album/7b53wBBZQyyYZT2FSZxY8C) | 3:26 | 2022-06-14 | 2022-07-25 |
 | [蛍はいなかった](https://open.spotify.com/track/53d7Te0Vp1s4OcQ2W2vmW1) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [蛍はいなかった](https://open.spotify.com/album/5yusmis1jlcSuQGgtTBgzH) | 3:29 | 2022-06-09 | 2022-06-20 |
 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 | 2022-06-09 | 2022-07-26 |

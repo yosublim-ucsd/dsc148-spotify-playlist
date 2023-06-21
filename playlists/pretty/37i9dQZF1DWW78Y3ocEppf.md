@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: RAAHiiM
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,948 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,959 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [DOWN BAD](https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:21 |
 | 100 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 
-Snapshot ID: `MCxlMDE2NzEzNGRkYTEwYTgxNWVlZmFjZDJhMTA0MTdjODBhYzBlZWRm`
+Snapshot ID: `MCw3Nzc5MmRkZDZiNmJiMDllZGFkOWRhMzE3MmE4Mzc4MWQ0NjFhYWZh`

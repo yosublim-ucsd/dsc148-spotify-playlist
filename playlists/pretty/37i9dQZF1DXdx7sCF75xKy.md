@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Kit Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,297 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,303 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
 | 50 | [Jauh Dari Mu](https://open.spotify.com/track/5QIypygU6OfkFvgcwP69nd) | [Farra Ahmad](https://open.spotify.com/artist/4lN1hs5I0vz6dD7Jihk7nm) | [Jauh Dari Mu](https://open.spotify.com/album/3HbuehnZnxuTRX0VZh2jMN) | 3:49 |
 
-Snapshot ID: `MCxhZDJlZDM3MWFiZTUyN2E2M2VlNTlkOTUwYmM2ODE2ZTdlMDEzMWY4`
+Snapshot ID: `MCxmMjNlMDg5OWM1ZTdlNjA4YTEzZTJkYjI3NTBlNmNkMjM5NzExOWE2`

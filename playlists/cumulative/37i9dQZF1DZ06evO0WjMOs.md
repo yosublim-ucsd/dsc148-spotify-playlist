@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 7 min
+56 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:09 | 2022-10-12 | 2022-10-30 |
 | [Same Boat](https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:22 | 2022-10-31 |  |
 | [Same Boat](https://open.spotify.com/track/6QllZj61FBD4tkCHuAguBW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:22 | 2022-09-16 | 2022-11-01 |
-| [Stayin' Alive](https://open.spotify.com/track/5yH1Dmshfq3sVD2VKvroaB) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stayin' Alive](https://open.spotify.com/album/0FmuxgEy8Sjec7tNY4SPCv) | 3:09 | 2022-11-02 |  |
+| [Stayin' Alive](https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stank Face](https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r) | 3:09 | 2023-06-20 |  |
+| [Stayin' Alive](https://open.spotify.com/track/5yH1Dmshfq3sVD2VKvroaB) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stayin' Alive](https://open.spotify.com/album/0FmuxgEy8Sjec7tNY4SPCv) | 3:09 | 2022-11-02 | 2023-06-21 |
 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 | 2022-10-28 |  |
 | [Stupid](https://open.spotify.com/track/6Pkxhe00RTJovt56H4yLL0) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:42 | 2022-09-16 | 2022-10-29 |
 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2022-09-16 | 2022-10-29 |

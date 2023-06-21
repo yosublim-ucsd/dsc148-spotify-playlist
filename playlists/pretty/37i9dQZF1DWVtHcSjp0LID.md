@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,563 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,582 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 |
 | 50 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 
-Snapshot ID: `MCw5N2M2NmJiODNhMTg4MmZkYzY0YTY2ZWI1Yzk1NGY3MTA2YzRlZDNi`
+Snapshot ID: `MCw5NjI1NGNlNDU5MjBlODNlY2E1NWE0MjVlMzJiZGVmYjg3Y2NkYTQy`

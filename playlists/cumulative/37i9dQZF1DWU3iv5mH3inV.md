@@ -2,7 +2,7 @@
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Angel Dior & Braulio Fogón
+> Dembow dominicano to el día\. Foto: Angel Dior & Braulio Fogón
 
 383 songs - 20 hr 59 min
 

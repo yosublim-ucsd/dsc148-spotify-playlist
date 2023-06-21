@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Metro Boomin, Lil Durk, The Weekend and more.",
-  "num_followers": 2224600,
+  "num_followers": 2224734,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2UyMWFhZWFjNjNkYzJhMDRhZDg2OGU5MDcwNzgxY2I1Y2FlNTNm",
+  "snapshot_id": "MCw2ODJlZDBkMjVlMGZkNzQ4MWY0Y2RiN2ZkN2NiN2UwNjk1NzM5Mjk3",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -53,6 +53,62 @@
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
+      "added_at": "2023-06-02 12:48:16",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+    },
+    {
+      "added_at": "2023-06-02 12:48:16",
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
       "added_at": "2023-06-16 04:32:31",
       "album": {
         "name": "Attention",
@@ -93,34 +149,6 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-06-02 12:48:16",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Who Told You (feat. Drake)",
@@ -139,34 +167,6 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-06-02 12:48:16",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2023-06-02 12:48:16",

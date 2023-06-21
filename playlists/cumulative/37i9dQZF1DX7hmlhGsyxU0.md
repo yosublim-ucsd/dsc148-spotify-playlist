@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-163 songs - 8 hr 48 min
+164 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2022-04-01 |  |
 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 | 2022-04-01 |  |
 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 | 2022-04-01 |  |
-| [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 | 2022-06-10 |  |
+| [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 | 2022-11-07 |  |
+| [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 | 2022-06-10 | 2023-06-21 |
 | [Longing For You](https://open.spotify.com/track/7dOGQ1L6i91F6Yc2IimWy8) | [Old Inherited Piano](https://open.spotify.com/artist/1rQ87wlgwARS4gWZyXI78S) | [Longing For You](https://open.spotify.com/album/2KExZFYR3KBQYtOVF4JSbt) | 2:16 | 2022-04-01 | 2022-11-08 |
 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Recording Orchestra](https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 | 2022-04-01 | 2022-07-22 |
 | [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 | 2022-04-01 | 2023-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027,267 likes - 150 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,903 likes - 150 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 149 | [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 |
 | 150 | [My Old Flame](https://open.spotify.com/track/5yJAE2dGXfueQUepiGwCmz) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Diamonds and Other Jewels](https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp) | 6:18 |
 
-Snapshot ID: `MCxjZjJjMjE2YTZhNWYxYzVlMzE4YjJhZjY0ODk1OWQ1ZTZiMmM0MGU4`
+Snapshot ID: `MCw0YjE2OWVlZTVlNzZiZjI1MzM1OWRmYmE3ZTk2MTJlMWUwN2M2NWI1`

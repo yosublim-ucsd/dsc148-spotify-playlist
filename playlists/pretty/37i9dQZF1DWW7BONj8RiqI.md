@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,348 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,434 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 100 | [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 |
 
-Snapshot ID: `MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3`
+Snapshot ID: `MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw`
