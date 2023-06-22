@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6229\)
+## Playlists \(6230\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -4230,7 +4230,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Spotify Singles: Stripped](/playlists/pretty/37i9dQZF1DXdFhiq9L31be.md)
 - [Spotlight: The Juggernaut](/playlists/pretty/37i9dQZF1DWWxJ7o7YYYQA.md)
 - [Spread the Gospel](/playlists/pretty/37i9dQZF1DX7OIddoQVdRt.md)
-- [Spring Acoustic](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md)
 - [Spring Break](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md)
 - [Spring Garden](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md)
 - [Spring Jazz](/playlists/pretty/37i9dQZF1DX1mPHJeSJNRN.md)
@@ -4292,6 +4291,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sugar & Spice](/playlists/pretty/7MsOqrEv1TxiHPDiYlWVLx.md)
 - [Sugarman \(투유 프로젝트 슈가맨\)](/playlists/pretty/37i9dQZF1DXcDZD15lRfNn.md)
 - [Summer '23](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md)
+- [Summer Acoustic](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md)
 - [Summer BBQ](/playlists/pretty/37i9dQZF1DWVAArCxuIRGQ.md)
 - [Summer Bangers](/playlists/pretty/37i9dQZF1DWWevrQ6HpxHI.md)
 - [Summer Camp](/playlists/pretty/37i9dQZF1DWY53P9WxRUop.md)
@@ -6267,6 +6267,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [나 혼자 좋아해](/playlists/pretty/37i9dQZF1DX4zvnN9RL36v.md)
 - [나쁜엄마 \(The Good Bad Mother\)](/playlists/pretty/37i9dQZF1DX3oSqvXoB6jV.md)
 - [나의 우울은,](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md)
+- [낭만닥터 김사부3 \(Dr\. Romantic 3\)](/playlists/pretty/37i9dQZF1DWXIhLRyftYTy.md)
 - [뉴트로 댄스 뮤\-직](/playlists/pretty/37i9dQZF1DX0C07QWzaEB5.md)
 - [닥터 차정숙 \(Doctor Cha\)](/playlists/pretty/37i9dQZF1DWWGiOQ5f5blv.md)
 - [대행사\(Agency\)](/playlists/pretty/37i9dQZF1DWWwmBCLmyITz.md)

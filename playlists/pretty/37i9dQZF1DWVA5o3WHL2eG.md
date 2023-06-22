@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,211 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,218 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/track/6LAlZuA1IhylVnInqNWo2j) | [LARI LUKE](https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/album/0XKxoMgjpIgS7drq1OI0yZ) | 2:31 |
 | 8 | [powerpuff girl](https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ) | [powerpuff girl](https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv) | 1:54 |
 | 9 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 |
-| 10 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
-| 11 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
+| 10 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
+| 11 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
 | 12 | [Eww](https://open.spotify.com/track/4okvbms2ajKt6617aqkn0A) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN), [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Eww](https://open.spotify.com/album/30k9VJz1caQQyR359ikfk9) | 2:27 |
 | 13 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
-| 14 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Weil mein Herz ein Lügner ist](https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P) | 3:25 |
-| 15 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 14 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 15 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Weil mein Herz ein Lügner ist](https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P) | 3:25 |
 | 16 | [FEMINEM](https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj) | [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq), [TACKA77](https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb) | [FEMINEM](https://open.spotify.com/album/6enWLI4qjGpJek4Q2HBtcN) | 3:42 |
 | 17 | [Aló](https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q) | [Aló](https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7) | 2:17 |
 | 18 | [Die frühen Jahre](https://open.spotify.com/track/0ZQVtF9HsJXfpWX3P8Ba9C) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga), [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Die frühen Jahre](https://open.spotify.com/album/250anWITcrgT8EeUOudi2A) | 3:43 |
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [snooze](https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [snooze](https://open.spotify.com/album/7bBMH6oTsYRZkL1pr2HwEy) | 1:37 |
 | 21 | [Lieber für mich](https://open.spotify.com/track/671auplSl17WIJSefMXsjN) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Lieber für mich](https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV) | 2:14 |
 | 22 | [So bin ich halt / blablabla](https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [So bin ich halt / blablabla](https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT) | 2:10 |
-| 23 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
-| 24 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 25 | [Warning Signs](https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL) | 3:25 |
+| 23 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
+| 24 | [Warning Signs](https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL) | 3:25 |
+| 25 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
 | 26 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 |
-| 27 | [Waterloo](https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Waterloo](https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2) | 2:49 |
-| 28 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
-| 29 | [Baddest Bitch](https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM) | [Rosa](https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9) | [Welle Vol\. 1](https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV) | 2:53 |
+| 27 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
+| 28 | [Waterloo](https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Waterloo](https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2) | 2:49 |
+| 29 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 | 30 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 |
-| 31 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
+| 31 | [Baddest Bitch](https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM) | [Rosa](https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9) | [Welle Vol\. 1](https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV) | 2:53 |
 | 32 | [Rosa Pillen](https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Rosa Pillen](https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN) | 2:16 |
 | 33 | [Wenn ich mal Kinder hab](https://open.spotify.com/track/2uPQKiYAGy5th6mnJYjI26) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Wenn ich mal Kinder hab](https://open.spotify.com/album/2PaaxZrYkVSKbyqrpuKhPO) | 3:18 |
 | 34 | [lovin myself](https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [lovin myself](https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0`
+Snapshot ID: `MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl`

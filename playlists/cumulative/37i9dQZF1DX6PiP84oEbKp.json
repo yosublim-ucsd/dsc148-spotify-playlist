@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Wave a Flag for Harvey Milk",
+        "url": "https://open.spotify.com/album/1WGuKxMpGZoQqwT1dMe5Wz"
+      },
+      "artists": [
+        {
+          "name": "Mr. Greg",
+          "url": "https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn"
+        },
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202520,
+      "name": "Wave a Flag for Harvey Milk",
+      "url": "https://open.spotify.com/track/1ucKIEDuGeZP2n9Cf1aGGa"
+    },
+    {
+      "album": {
         "name": "The Love",
         "url": "https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt"
       },

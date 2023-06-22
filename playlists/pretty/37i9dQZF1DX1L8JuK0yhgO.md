@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,177 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,183 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [summer/star](https://open.spotify.com/track/4MtycMcuU0dKoZhj2NgmhJ) | [Saren](https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK) | [summer/star](https://open.spotify.com/album/3RTTrGSss2zn0bZjq05WfK) | 1:40 |
 | 60 | [Drugs](https://open.spotify.com/track/01g974Te4DzVGimxFmv0B0) | [RY0N4](https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g) | [Drugs](https://open.spotify.com/album/2jGY1bc5vXDXgzICPue6KT) | 2:13 |
 
-Snapshot ID: `MCw4NjY5NDM2MGZkMDUwOGU4ZTk2Mzg0NmEzOWM5YzgxZWU1ZDZjMzIz`
+Snapshot ID: `MCw4YWEzNmRlMjcxMDNjZGY3MzNmNzBjOTJmOGIyMzE3NWY3Njc3YTQw`

@@ -1,18 +1,18 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: BAWDIES",
-  "num_followers": 259297,
+  "num_followers": 259351,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDc4ZTkxMjIxNjc0NTM0MDk5MTdhYjAxNGRhNmQ0M2UxNTdkNzJm",
+  "snapshot_id": "MCxlYzU5NGM2NzBkNzc5MTM3MzllYjY4NTBhOTM0YzhkNGU3NjZmNjc0",
   "tracks": [
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "GIMME GIMME feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6",
-        "url": "https://open.spotify.com/album/3IQhTaGN0nmA4Ms6Amts1X"
+        "name": "GIMME GIMME feat. OKAMOTOSHO",
+        "url": "https://open.spotify.com/album/7Ka0GIIBtlpdu3afHTab2y"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
         },
         {
-          "name": "SHO OKAMOTO",
-          "url": "https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU"
+          "name": "OKAMOTOSHO",
+          "url": "https://open.spotify.com/artist/31V4UmyRGvnSehtFbKWmtT"
         }
       ],
       "duration_ms": 169866,
-      "name": "GIMME GIMME feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6",
-      "url": "https://open.spotify.com/track/1ugozcVrbEiQppq5l45JMk"
+      "name": "GIMME GIMME feat. OKAMOTOSHO",
+      "url": "https://open.spotify.com/track/5lkeIGCoo8LD87IcJlzjB0"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -624,7 +624,7 @@
       "added_at": "2023-06-20 15:00:00",
       "album": {
         "name": "Open The Window",
-        "url": "https://open.spotify.com/album/1UrzTepg8WrgbK6zBbXxiH"
+        "url": "https://open.spotify.com/album/0sQk4JtoZASCN2d5nxu8QJ"
       },
       "artists": [
         {
@@ -638,7 +638,7 @@
       ],
       "duration_ms": 276333,
       "name": "Open The Window feat. JQ from Nulbarich",
-      "url": "https://open.spotify.com/track/1TVrB74jpRwvb2PSxm7yJf"
+      "url": "https://open.spotify.com/track/4utjbNJwBD9sy817QOP1wc"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "luminous",
+        "url": "https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "duration_ms": 220580,
+      "name": "Bug",
+      "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "SLEEPLESS",
-        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
-      },
-      "artists": [
-        {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "SLEEPLESS",
-      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     }
   ],
   "unique_name": "Big in Japan",

@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-332 songs - 1 day 7 hr 20 min
+333 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-09-30 | 2022-11-16 |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-18 | 2022-10-18 |
 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-11-25 |  |
-| [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-11-26 |  |
+| [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-11-26 | 2023-06-22 |
 | [Circle of Life](https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Circle of Life](https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe) | 8:03 | 2022-11-15 | 2022-11-26 |
 | [Close](https://open.spotify.com/track/4PjQnCqdF2VmzGsFp2IRAt) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Close](https://open.spotify.com/album/77RSDxlKlExpQzlphu88eC) | 6:16 | 2021-11-26 | 2022-04-05 |
 | [Close to Me](https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close to Me](https://open.spotify.com/album/6Fb13O3OiO6JCEqBbr2n97) | 4:57 | 2021-11-26 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-11-26 | 2022-06-16 |
 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 | 2022-10-28 |  |
 | [Hujan](https://open.spotify.com/track/4yk6OhBXGUMbQLfYCY53nE) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Hujan](https://open.spotify.com/album/6pdcYvI6izBIT7bn4c40oS) | 6:19 | 2021-11-26 | 2022-07-29 |
+| [I Care For You](https://open.spotify.com/track/56qUxaZzScPivbjwCcXnUs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/1cdnJihGLvcIMkGgry9Nxv) | 6:32 | 2023-05-26 |  |
 | [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 | 2022-04-15 | 2023-03-11 |
 | [I hear you](https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J), [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Black Soda](https://open.spotify.com/artist/4DIbWYMpiH7S0Zw3PjUT3k) | [I hear you feat\. Black Soda](https://open.spotify.com/album/5Ntg5OczGoT9QLJzIwXDpc) | 8:03 | 2021-11-26 | 2022-04-20 |
 | [I Want It All \(feat\. Elderbrook\) \- Route 94 Remix](https://open.spotify.com/track/0LjpThe4YPL9VG0MFozbwE) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [I Want It All \(feat\. Elderbrook\) \[Remixes\]](https://open.spotify.com/album/0c7jQkV3HG2b6KhG7P0gfc) | 3:31 | 2021-11-26 | 2022-04-05 |

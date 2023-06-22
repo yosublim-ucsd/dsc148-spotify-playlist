@@ -1,49 +1,13 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58888,
+  "num_followers": 58911,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDg5NGY3ZWQ3YWVkN2Q5MmYwYmU0ZjUzODQ3M2RkNzg4OGM0YmY0",
+  "snapshot_id": "MCwxZWE4NDg0ODUwNDc4OTg0OTA1N2ZlZmY5MDZmZDA5MGM4NGZkZDFj",
   "tracks": [
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Picture: Adana Twins",
-        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 515086,
-      "name": "My Computer",
-      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Divine Reality",
-        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
-      },
-      "artists": [
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 459250,
-      "name": "Divine Reality",
-      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
-    },
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
@@ -67,6 +31,42 @@
       "duration_ms": 255858,
       "name": "Deleters - Palms Trax Remix",
       "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Divine Reality",
+        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 459250,
+      "name": "Divine Reality",
+      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Picture: Adana Twins",
+        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 515086,
+      "name": "My Computer",
+      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Unleashed Tapes Vol. 1",
+        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
+      },
+      "artists": [
+        {
+          "name": "Delphi",
+          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
+        }
+      ],
+      "duration_ms": 385361,
+      "name": "Blue Tuesday",
+      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Giving Up On (Alan Dixon Remix)",
         "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 452566,
       "name": "Giving Up On - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Unleashed Tapes Vol. 1",
-        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
-      },
-      "artists": [
-        {
-          "name": "Delphi",
-          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
-        }
-      ],
-      "duration_ms": 385361,
-      "name": "Blue Tuesday",
-      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -763,26 +763,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
-        }
-      ],
-      "duration_ms": 409961,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "duration_ms": 409961,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
     },
     {
       "added_at": "2021-08-27 15:45:01",

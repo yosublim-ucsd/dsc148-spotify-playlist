@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 275960,
       "name": "Orbits",
       "url": "https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE"
@@ -1572,6 +1572,24 @@
       "duration_ms": 534000,
       "name": "Our Man Higgins",
       "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
+    },
+    {
+      "album": {
+        "name": "Roots And Herbs",
+        "url": "https://open.spotify.com/album/6CZhhfK5gP6KOucByv9Hiy"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426866,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/1cjVMCYoLlzZ6AeC6fUvZJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Aleksander Szalonek \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,548 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,574 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Brak](https://open.spotify.com/track/3cywhMYyyS1FMrzkCPcqMd) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Brak](https://open.spotify.com/album/2dBgqG10J81yGZX02F9sNH) | 3:57 |
 | 100 | [I się zamykam](https://open.spotify.com/track/0ilLbmuwHuNm6OISfF4vQb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [I się zamykam](https://open.spotify.com/album/5ttIK6iaOCvvxG5Tgs9sH1) | 3:06 |
 
-Snapshot ID: `MCw3YTAzYTA0OTk1NDY3ZGY2ZmU4M2YyZWFkYzQxNTc1MzU0NDZhMzc5`
+Snapshot ID: `MCxiZDJiNzU4MDc0OGNiZThkOWJiZmYzZjIyZjZkYTExYmEzYzVmYzI0`

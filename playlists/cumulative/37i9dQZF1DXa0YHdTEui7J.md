@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-130 songs - 13 hr 51 min
+131 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Talk Of The Town](https://open.spotify.com/track/6tNkxM6OIEew6O8453K36t) | [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Richard Ulh](https://open.spotify.com/artist/13YK5jhfOHLpzZbsxY1Aa2) | [Talk Of The Town EP](https://open.spotify.com/album/5iTRSShAjhuiWYMFV2e4ZM) | 5:28 | 2021-08-12 |  |
 | [Te amo](https://open.spotify.com/track/2CW2dYj1EvbQs35XufHkit) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT001](https://open.spotify.com/album/58awCXVf06EyouGUL7uDdK) | 7:18 | 2021-08-12 |  |
 | [Teleported](https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/3MMXAjJb1e3xAesfRijKeZ) | 6:17 | 2021-08-12 | 2023-04-09 |
-| [Teleported](https://open.spotify.com/track/5vIA30Y4Emhay6NSvpDZMJ) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/2PSH7ccyenkcp0e7t9WBAl) | 6:17 | 2023-03-07 |  |
+| [Teleported](https://open.spotify.com/track/5vIA30Y4Emhay6NSvpDZMJ) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/2PSH7ccyenkcp0e7t9WBAl) | 6:17 | 2023-03-07 | 2023-06-22 |
+| [Teleported](https://open.spotify.com/track/6TDSV3FUg5khxpJ2Ooc29M) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate](https://open.spotify.com/album/7wVmWpJs0IBpqfEE9aUB0v) | 6:17 | 2023-03-07 |  |
 | [That's Fine](https://open.spotify.com/track/6sCSk3cy0AtcXlzgIOaDjA) | [Mateo Dufour](https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6) | [Check This Sound](https://open.spotify.com/album/3tsNoGi5b4uXsX5yyQQDgO) | 6:40 | 2023-03-07 |  |
 | [Thrillseekers \- Chuck Daniels Remix](https://open.spotify.com/track/0ieIy1W942FYBHHk0QWsLQ) | [Andy Toth](https://open.spotify.com/artist/0xHPs74Vj4dNwYlpc2Xggs), [Billy Love](https://open.spotify.com/artist/0T3MV5gd1oQLkLuGcGL46Y), [Chuck Daniels](https://open.spotify.com/artist/6AQtbBS3kOZrK6whx93lfz) | [Thrillseekers](https://open.spotify.com/album/4El5KzOSIxcnoQ4zVV8PN9) | 3:23 | 2021-08-12 |  |
 | [Toxic Love](https://open.spotify.com/track/7BRNTtEOvXQ9wYrvpMY1Eg) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Summer on Mars EP](https://open.spotify.com/album/17W4wQ4UPpxlCr9VJ379MN) | 6:32 | 2021-08-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Boza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,703 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,859 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 |
 | 100 | [Bajo La Misma Luna](https://open.spotify.com/track/7Bh1dn8naISHoNO25AzYMA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bajo La Misma Luna](https://open.spotify.com/album/62jVf8w9p9K0D7JuwKbI0w) | 2:52 |
 
-Snapshot ID: `MCwyYTc4ZjNlOGQ4ZmI1MzZiZjljY2Q5OTM2OThkMmZiYmZhNDg4NzJl`
+Snapshot ID: `MCw0MTI4ODQ5NGZjMGY2NTQ0MWVmODg4ODQ0NGMzNGRkNmE1OTZiMGZl`

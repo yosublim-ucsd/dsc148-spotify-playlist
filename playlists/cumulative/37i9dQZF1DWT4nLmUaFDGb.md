@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-224 songs - 14 hr 20 min
+225 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dream a Little Dream](https://open.spotify.com/track/0Om6i77YRSH7GscXwSFLQ2) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [The Von Trapps](https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD) | [Dream a Little Dream](https://open.spotify.com/album/2r1rBv8mkXIsrGHX1BLSLt) | 3:52 | 2021-12-21 | 2022-07-29 |
 | [Dream a Little Dream](https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [The Von Trapps](https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD) | [Dream a Little Dream](https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo) | 3:53 | 2022-07-14 |  |
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-03-31 |  |
+| [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-20 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-29 | 2023-06-16 |
 | [Everything Must Change](https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Mats Halling](https://open.spotify.com/artist/6WJLX5rhMDP1iC5VXK3BmS), [Nordic Chamber Orchestra](https://open.spotify.com/artist/0Y9TuFJT8im2HJvybDmX3V), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Somehow Life Got in the Way](https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo) | 5:36 | 2021-12-21 |  |
 | [Fever](https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:30 | 2022-07-14 |  |
@@ -201,7 +202,7 @@
 | [The Sun Is Shining for Our Love](https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ) | [Jeff Cascaro](https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v) | [Mother and Brother](https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o) | 3:39 | 2022-09-08 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3xpujyLU8E8AsGTpxji437) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:44 | 2021-12-21 | 2022-07-29 |
 | [The Way You Look Tonight](https://open.spotify.com/track/6LxpgHc7rOPEa89SQNkcWl) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:45 | 2022-07-14 | 2022-10-08 |
-| [The World in You](https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK) | [Stephanie Wright](https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ) | [The World in You](https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p) | 3:19 | 2023-06-15 |  |
+| [The World in You](https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK) | [Stephanie Wright](https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ) | [The World in You](https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p) | 3:19 | 2023-06-15 | 2023-06-22 |
 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2021-12-21 |  |
 | [These Are the Memories](https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [These Are the Memories](https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb) | 4:33 | 2023-05-18 |  |
 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-12-21 |  |

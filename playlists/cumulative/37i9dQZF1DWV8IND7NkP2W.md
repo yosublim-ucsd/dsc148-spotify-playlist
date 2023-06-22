@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-609 songs - 1 day 3 hr 30 min
+610 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Morning Walk Inst](https://open.spotify.com/track/59WH3nBd9Y7NpcoIaIT43P) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Morning Walk Inst](https://open.spotify.com/album/1NJShCw5uw960gpKaOC8cm) | 3:13 | 2021-12-23 | 2022-12-16 |
 | [MOVE FORWARD](https://open.spotify.com/track/3PqyQ64sDy2sngYdx9QAOt) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [MOVE FORWARD](https://open.spotify.com/album/1FQ6y1HVUGlFdFJ0JV91iJ) | 4:00 | 2022-01-13 | 2022-07-22 |
 | [Mt\. Kita](https://open.spotify.com/track/1txwaLQknVX822mGk13eEe) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo) | [Mt\. Kita](https://open.spotify.com/album/6LEAAJjaQDPzSxwy6pKHTs) | 2:29 | 2021-12-23 | 2022-08-13 |
+| [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 |  |
 | [My Favorite Sled](https://open.spotify.com/track/0mOp1W6ChQsQfdpxqYKEA4) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [My Favorite Sled](https://open.spotify.com/album/2mNWkRT6uTeHghQ9PCfDyc) | 3:06 | 2023-01-19 | 2023-01-21 |
 | [My Favorite Sled](https://open.spotify.com/track/6426skUo8oTgrEeMkxr1aI) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [My Favorite Sled](https://open.spotify.com/album/6mPFzZq0I56A4I86StgAbD) | 3:06 | 2023-01-19 | 2023-04-05 |
 | [My Holiday](https://open.spotify.com/track/2SoUXBqoOo1R0QnDQSnB58) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [My Holiday](https://open.spotify.com/album/2zuKgk99s5W3C5Ran0ZCYt) | 3:09 | 2021-12-23 | 2022-07-29 |
@@ -615,7 +616,7 @@
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
-| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 |  |
+| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2023-06-22 |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

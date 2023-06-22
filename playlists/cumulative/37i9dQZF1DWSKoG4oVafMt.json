@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Bura Haal (\"Carry On Jatta 3\")",
+        "url": "https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "Bura Haal (\"Carry On Jatta 3\")",
+      "url": "https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ"
+    },
+    {
+      "album": {
         "name": "High Five",
         "url": "https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4"
       },

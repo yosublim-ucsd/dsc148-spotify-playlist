@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-185 songs - 11 hr 10 min
+186 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BERMUDA TRIANGLE](https://open.spotify.com/track/2UKT6K3gydaJ8MGDgeQtQz) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BERMUDA TRIANGLE](https://open.spotify.com/album/1xy6B6nLYoyUdcAcJT7zcj) | 3:27 | 2020-12-27 | 2022-07-29 |
 | [Bittersweet](https://open.spotify.com/track/18rxYVdlKgiVG3tCBVIsI3) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Bittersweet](https://open.spotify.com/album/7aZr4nLYyiFx9WUrV2q4PX) | 3:57 | 2020-12-27 |  |
 | [Bittersweet](https://open.spotify.com/track/431fVJWWDSPmpdcNhmNQ3u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Bittersweet](https://open.spotify.com/album/0KxKWeGiXcAECXkvlN63Mv) | 3:57 | 2020-12-27 | 2022-07-29 |
+| [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 | 2023-06-21 |  |
 | [Blue](https://open.spotify.com/track/0q7JdAn2mQ20GjAIdKqIjX) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Blue](https://open.spotify.com/album/6Sd2Vxt7NeEfS82UYbToqf) | 4:18 | 2020-12-27 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/1stebKrxPzXNCNUhhVWdrb) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/7qbL1d3qCCzRIBJUTYjNLI) | 4:23 | 2020-12-27 | 2022-07-29 |
 | [Blue \(Feat\. Crush, SOLE\)](https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 4:23 | 2020-12-27 |  |

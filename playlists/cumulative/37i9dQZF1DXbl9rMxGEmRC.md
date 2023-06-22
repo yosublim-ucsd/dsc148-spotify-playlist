@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-420 songs - 1 day 12 hr 16 min
+421 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
 | [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 | 2023-05-30 |
-| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 | 2023-06-18 |
+| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2023-06-07 |
@@ -171,7 +171,7 @@
 | [Havenless](https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Below The Lights](https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8) | 5:35 | 2022-07-13 |  |
 | [Hearts Turn To Stone](https://open.spotify.com/track/3wIOB1z2Vxse4W6fulRqJg) | [Trna](https://open.spotify.com/artist/6X78UG1TKS2NTAJ9bovuqp) | [Istok](https://open.spotify.com/album/6ZjiERTM8gvDyJFc49g4P9) | 6:45 | 2021-12-17 | 2022-04-29 |
 | [Heavy Friends](https://open.spotify.com/track/2VEamv1GrepvxhStHkZAwE) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Heavy Friends](https://open.spotify.com/album/4544LwAo6RqD35G4EWf9u9) | 4:49 | 2023-06-09 |  |
-| [Hemoclysm](https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia \- EP](https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN) | 6:48 | 2023-04-07 |  |
+| [Hemoclysm](https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia \- EP](https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN) | 6:48 | 2023-04-07 | 2023-06-22 |
 | [Her Ghost in the Fog](https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Midian](https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ) | 6:24 | 2022-07-13 | 2023-02-16 |
 | [Hide from the Sun](https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Hide from the Sun](https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S) | 5:37 | 2021-12-17 | 2022-01-22 |
 | [His Masters Voice](https://open.spotify.com/track/7IQjBiSjclkJlwGW1RbOpn) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Eternal Hails......](https://open.spotify.com/album/0ktSEj7BjykHXm9NJkIrtL) | 7:17 | 2021-12-17 | 2022-03-11 |
@@ -404,6 +404,7 @@
 | [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 |  |
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 |  |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
+| [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |
 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 | 2022-08-13 |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |
@@ -425,7 +426,7 @@
 | [Ye Entrancemperium](https://open.spotify.com/track/5LtWEwhRSj1RSfMNC3Y2iw) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Anthems To The Welkin At Dusk](https://open.spotify.com/album/7MOaD3Y4SmevciBliFGqiQ) | 5:14 | 2023-05-19 |  |
 | [Ye Entrancemperium](https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Anthems To The Welkin At Dusk](https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M) | 5:14 | 2022-07-13 | 2023-05-05 |
 | [Ymir](https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Ymir](https://open.spotify.com/album/7rRdCtu9eHLWrxCMSeOSMT) | 5:04 | 2021-12-17 | 2022-01-22 |
-| [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 |  |
+| [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2023-06-22 |
 | [Ze Nigmar](https://open.spotify.com/track/3niz4765xdQsl0DSMf4DIx) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Rituals](https://open.spotify.com/album/261LnV8eQ6ZaNmh7A5SjF3) | 4:43 | 2022-07-13 |  |
 | [Χ Ξ Σ \- 666](https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Kata Ton Daimona Eaytoy \(Do What Thou Wilt\)](https://open.spotify.com/album/3z7rdtYy9L5RYgTpRQBygo) | 5:48 | 2022-07-13 |  |
 

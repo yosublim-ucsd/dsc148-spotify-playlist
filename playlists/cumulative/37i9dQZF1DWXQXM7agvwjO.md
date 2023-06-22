@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ADOY
 
-825 songs - 2 day 1 hr 26 min
+827 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-24 | 2022-05-13 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-02-17 |
 | [BAHASA BARU](https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [BAHASA BARU](https://open.spotify.com/album/0PnkH2LvSSZwXCtoRJdfEg) | 4:10 | 2023-03-09 | 2023-04-09 |
-| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 |  |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-15 |  |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2022-03-24 | 2022-05-20 |
 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 | 2023-04-20 |  |
 | [Bayang\-Bayang](https://open.spotify.com/track/2TLAWyJ6LLoNUOMKfQsP4u) | [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Bayang\-Bayang](https://open.spotify.com/album/3dtw0tzcdEntohwfNgXf90) | 4:25 | 2023-02-09 | 2023-04-01 |
@@ -387,7 +388,7 @@
 | [Lepas Berdansa](https://open.spotify.com/track/0IzuVV47KPKT0ejyaKLQaT) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd), [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY) | [Cipta di Batas Rasa / Lepas Berdansa](https://open.spotify.com/album/1jdYQWbLFxrTX6aHyHDfgj) | 4:06 | 2022-12-08 | 2023-02-17 |
 | [Lepas Semua](https://open.spotify.com/track/02p6ITN86xa4CTdWR10NeK) | [Fostan](https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj) | [Lepas Semua](https://open.spotify.com/album/11uECqCobp8Nm6leo9N2LK) | 4:09 | 2023-03-23 | 2023-04-21 |
 | [Less Afraid](https://open.spotify.com/track/3aggFkF8DB0OOEhd2DbIXj) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j), [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [Less Afraid](https://open.spotify.com/album/0CO9494SdMU3ZT1Ush6hQ0) | 4:50 | 2022-10-20 | 2022-12-16 |
-| [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 | 2023-04-20 |  |
+| [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 | 2023-04-20 | 2023-06-22 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2022-12-08 | 2022-12-24 |
 | [Let Me Love U](https://open.spotify.com/track/2n82NbbGsaaMMT4eqPX8ZK) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Let Me Love U](https://open.spotify.com/album/1BF6WHNLLq3uQJrH9jQj87) | 3:51 | 2023-02-23 | 2023-04-22 |
 | [Let's Just](https://open.spotify.com/track/6UcoNdWZiTkV13VYENFP9V) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Let's Just](https://open.spotify.com/album/45ughHI0FcfZT3B1SCzZWl) | 2:28 | 2022-07-07 | 2022-09-30 |
@@ -404,6 +405,7 @@
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-25 | 2022-10-07 |
 | [Little Balcony](https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 3:15 | 2022-07-14 | 2022-08-12 |
 | [Little Balcony](https://open.spotify.com/track/0ALdUxWVaIDeuPjP78hgIe) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 2:34 | 2022-07-14 | 2023-04-30 |
+| [Little Old Man feat\. Ariel NOAH](https://open.spotify.com/track/0OePFhUgaA0CitYatErXuR) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Little Old Man feat\. Ariel NOAH](https://open.spotify.com/album/5fDW3YQ2EQiFF8mORV0s1e) | 4:51 | 2023-06-15 |  |
 | [Lonestar](https://open.spotify.com/track/0y3skHpU8JN23aFHgvya6t) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lonestar](https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv) | 4:28 | 2022-03-24 | 2022-05-27 |
 | [Lose Face](https://open.spotify.com/track/6mcgOEAqofUSR52I6dgeVs) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Lose Face](https://open.spotify.com/album/1KKqOyqwhcZKjDMH2tFZh1) | 2:40 | 2022-03-24 | 2022-04-01 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-16 | 2022-07-29 |

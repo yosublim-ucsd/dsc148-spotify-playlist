@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-106 songs - 6 hr 0 min
+112 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Better](https://open.spotify.com/track/16dIxFF6tjoPSWqsNGP5tj) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:36 | 2022-02-03 |  |
 | [Better \- Korean Version](https://open.spotify.com/track/4PyRAVwFRxwPESvpVKZfiJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:34 | 2022-02-03 |  |
 | [Blue Summer](https://open.spotify.com/track/7oLyy8aPrMu6hka0SaUWxz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:31 | 2022-02-03 |  |
+| [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-21 |  |
 | [Celebrate](https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:16 | 2022-02-03 |  |
 | [Cyberpunk](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:44 | 2022-07-29 |  |
 | [Dancing Like Butterfly Wings](https://open.spotify.com/track/0sZpzFq1Ms8MQwuCe8WThA) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:02 | 2022-02-03 |  |
@@ -31,8 +32,10 @@
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2022-02-03 |  |
 | [Desire](https://open.spotify.com/track/0UsHnRSfWyviHYhqsLMi0g) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:54 | 2022-02-03 |  |
 | [DIAMOND](https://open.spotify.com/track/5sIcMld4YXTlTqztVEa3hU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:26 | 2023-05-04 |  |
+| [DJANGO](https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:11 | 2023-06-21 |  |
 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-03 |  |
 | [Dreamers](https://open.spotify.com/track/4PO5Y8KEPVBk7JVpkXumx6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:33 | 2022-02-03 |  |
+| [Dune](https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:15 | 2023-06-21 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:29 | 2022-02-03 |  |
 | [Feeling Like I Do](https://open.spotify.com/track/1lWoDFIoclXSdMF9g8tjPY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:17 | 2022-02-03 |  |
 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 | 2022-02-03 |  |
@@ -57,6 +60,7 @@
 | [New World](https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:36 | 2022-07-29 |  |
 | [Not Too Late](https://open.spotify.com/track/0fmdJr4UEfmqFCGFswAJPe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:34 | 2022-02-03 |  |
 | [One Day At A Time](https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:23 | 2022-02-03 |  |
+| [Outlaw](https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:19 | 2023-06-21 |  |
 | [Outro : Blue Bird](https://open.spotify.com/track/7H9O0vNSv2cAfKa2OQtwji) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 2:06 | 2023-01-02 |  |
 | [Outro : Over the Horizon](https://open.spotify.com/track/50E6fZjrXlueE5CGwYQh3m) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 1:41 | 2022-02-03 |  |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-02-03 |  |
@@ -91,6 +95,7 @@
 | [The Letter](https://open.spotify.com/track/36Pv4AULgye6Y8Zhq9GDQz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:49 | 2022-02-03 |  |
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2022-02-03 |  |
 | [The Ring](https://open.spotify.com/track/1s9dHDYdTjQo1Ow8MoF9nV) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 4:00 | 2022-07-29 |  |
+| [This World](https://open.spotify.com/track/6QDcmN2Avrim8kNoCHkw9s) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:32 | 2023-06-21 |  |
 | [Time Of Love](https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 2:56 | 2022-02-03 |  |
 | [TO THE BEAT](https://open.spotify.com/track/3c8UznwIeQjux7OWT0Wa0s) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:01 | 2022-02-03 |  |
 | [Treasure](https://open.spotify.com/track/0SDUepNAC5xZPkIEb6Kpce) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:40 | 2022-02-03 |  |
@@ -102,6 +107,7 @@
 | [Utopia \- Japanese Ver.](https://open.spotify.com/track/2IXTCvoqz9jGzWKn4RgYyJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Utopia \(Japanese Ver.\)](https://open.spotify.com/album/1NxCgg8mAdzpyjcHs5cAQz) | 3:58 | 2022-02-03 |  |
 | [Utopia \- Japanese Ver.](https://open.spotify.com/track/4ipCNXuuajObGmHo1FNfM7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:58 | 2022-02-03 |  |
 | [UTOPIA \- Japanese Ver.](https://open.spotify.com/track/7Ax7wdY72wSBA43A3AHlfT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:59 | 2022-02-03 |  |
+| [Wake Up](https://open.spotify.com/track/2fZ1DdMpQZIiPMIgyt27dT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:06 | 2023-06-21 |  |
 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2022-02-03 |  |
 | [WAVE \(Overture\)](https://open.spotify.com/track/4MmTThXHLm5dPLhLMBnXgq) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 1:42 | 2022-02-03 |  |
 | [Wave \- Ollounder's Bold Dynamics Mix](https://open.spotify.com/track/178BwxzvYbZze3eF7hAMYs) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 2:45 | 2022-02-03 |  |

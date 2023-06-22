@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-145 songs - 8 hr 48 min
+146 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Give It to Me](https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic, Vol\. 1 \- EP](https://open.spotify.com/album/3W8TE3M9M5QPsnm4wj06wZ) | 3:49 | 2020-12-03 | 2023-06-03 |
 | [Good Days](https://open.spotify.com/track/0Rh8r2UXibzTGMMEcT4Of7) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/1PIz8lTokG306w5BdjSIYt) | 2:49 | 2020-12-03 |  |
 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 | 2020-12-03 | 2023-06-02 |
-| [Grateful](https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg) | 3:15 | 2020-12-03 |  |
+| [Grateful](https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg) | 3:15 | 2020-12-03 | 2023-06-22 |
+| [Grateful](https://open.spotify.com/track/2YsJMtlbBz0IkpFSnpWCzr) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/7AnMZI0aVrL78woSutj73B) | 3:15 | 2020-12-03 |  |
 | [Grateful](https://open.spotify.com/track/6XjjJdyY0zS25nsqzXeMAl) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/7IU1PzMDcGwzix55L8FUH5) | 3:15 | 2020-12-03 | 2023-06-02 |
 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 | 2020-12-03 | 2022-07-29 |
 | [Heavy Heat](https://open.spotify.com/track/2HV3hX5FCRl4iyNf2Sj3Fe) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:43 | 2020-12-03 | 2023-05-15 |

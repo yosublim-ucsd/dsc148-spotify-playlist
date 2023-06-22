@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: JULES IS DEAD
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,169 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,173 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 5 | [See You Soon](https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [See You Soon](https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl) | 5:28 |
 | 6 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 |
 | 7 | [Red Light, Green Light](https://open.spotify.com/track/4CwuKAb7TvvHWu5atcfhZE) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Red Light, Green Light](https://open.spotify.com/album/4b2yYikddMda3CGCME36vM) | 2:51 |
-| 8 | [Milk & Honey](https://open.spotify.com/track/1SJFHy930Kjk7xuDMQbHB9) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo, Act 1](https://open.spotify.com/album/3HXcAoK3kdP0KkKFf4l9vQ) | 3:31 |
+| 8 | [Milk & Honey](https://open.spotify.com/track/5HbRV59soROCcEtdbshRLR) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo, Act 1 & 2](https://open.spotify.com/album/37MviduEpwgw98HKUPVjqm) | 3:31 |
 | 9 | [OFF BAT](https://open.spotify.com/track/6QA42ZcBRWeLGH1DMwWILs) | [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [OFF BAT](https://open.spotify.com/album/53q6YzR84HesqPLahd1qRI) | 2:08 |
 | 10 | [Witches + Vampires](https://open.spotify.com/track/3Gr1doW9BPGUBxSH9ZBqXY) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [Witches + Vampires](https://open.spotify.com/album/1JK1buOtQgJAtzfKPNmK9C) | 3:22 |
 | 11 | [Peace Jam](https://open.spotify.com/track/1iKMc4nv8k48g762N3NTVz) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Peace Jam](https://open.spotify.com/album/7H8MtdwMRJKIaR8bzflEpa) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 |
 | 100 | [Lucky](https://open.spotify.com/track/76GHtojL0BQfPRMQZ6EOLg) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 3:00 |
 
-Snapshot ID: `MCxjMDkzZmVhOGJkNDc0NmIxNzhiOTAxMmNjYTc1OWZlZWRkYjBmNTE1`
+Snapshot ID: `MCw2NDIyNjc5MTQ5NDliZmU3MGQ2Y2VkMWM4ZTBiNDdhZDg2YTlkODNi`

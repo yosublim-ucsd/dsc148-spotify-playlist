@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano del momento\. Cover: Rhove
 
-313 songs - 14 hr 30 min
+314 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 | 2022-05-12 | 2022-11-18 |
 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-03-24 |  |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-11 | 2022-12-16 |
+| [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 |  |
 | [Hobby](https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Hobby](https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP) | 2:02 | 2023-01-26 | 2023-02-17 |
 | [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 | 2023-06-01 |  |
 | [HOUMA](https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [HOUMA](https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3) | 2:44 | 2022-05-26 | 2022-06-17 |
@@ -205,7 +206,7 @@
 | [NON CI TORNI PIÙ \(feat\. Paky\)](https://open.spotify.com/track/7z8jf3dtJPXUxlc9xJCKEh) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:39 | 2023-01-05 | 2023-03-03 |
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-12 | 2022-11-25 |
 | [Non è un gioco](https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Non è un gioco](https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM) | 2:12 | 2023-02-16 | 2023-03-03 |
-| [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 |  |
+| [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 | 2023-06-22 |
 | [NUN SE VER \(feat\. Guè\)](https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:38 | 2023-01-05 | 2023-03-18 |
 | [NVNSNP \(feat\. Sacky, Neima Ezza, Kilimoney, Keta, Nko\)](https://open.spotify.com/track/125tb3apTnaopglXzXszi3) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:59 | 2022-05-26 | 2022-08-05 |
 | [Ogni 2 Minuti](https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Ogni 2 Minuti](https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA) | 2:35 | 2023-01-19 | 2023-02-24 |

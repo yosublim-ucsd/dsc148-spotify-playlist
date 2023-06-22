@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 13703,
+  "num_followers": 13733,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDZjMjMwMWQ4ODYxNTAyMThhOWU0OTk0MDJiOGU0NmYzMzgxMWU3",
+  "snapshot_id": "MCw1Mzg4MjAxNDEyZWNhMTAyYTBkODY3ZDAyNTRiYzMyMjZmYTkxOTMy",
   "tracks": [
     {
       "added_at": "2023-06-16 06:53:30",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "Jambazz",
-        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 139573,
-      "name": "Jambazz",
-      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -963,30 +963,6 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg"
-      },
-      "artists": [
-        {
-          "name": "Killertunes",
-          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
-        },
-        {
-          "name": "BZ",
-          "url": "https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF"
-        },
-        {
-          "name": "Not3s",
-          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
         "name": "san siro",
         "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
       },
@@ -1027,54 +1003,26 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Busy Body",
-      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "BZ",
+          "url": "https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
         }
       ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+      "duration_ms": 177391,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -1099,70 +1047,34 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "Many Man",
-        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
       },
       "artists": [
         {
-          "name": "Stainless",
-          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 156494,
-      "name": "Many Man",
-      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
+      "duration_ms": 162063,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
     },
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
       },
       "artists": [
         {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "troublin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 145594,
-      "name": "troublin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -1187,6 +1099,94 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
+        "name": "Mango Juice & Bad Decisions",
+        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "Andr\u0119 Wolff",
+          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "'00 Nostalgia",
+      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
+        "name": "Many Man",
+        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
+      },
+      "artists": [
+        {
+          "name": "Stainless",
+          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+        }
+      ],
+      "duration_ms": 156494,
+      "name": "Many Man",
+      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
+        "name": "troublin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "duration_ms": 145594,
+      "name": "troublin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
       },
@@ -1199,26 +1199,6 @@
       "duration_ms": 156734,
       "name": "2 Bad",
       "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -1243,6 +1223,22 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 258577,
+      "name": "Osondu",
+      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
       "artists": [
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 258577,
-      "name": "Osondu",
-      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
         "name": "KOA II Part 1",
         "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
     },
     {
       "added_at": "2023-06-16 06:53:30",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-06-16 06:53:30",
       "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+    },
+    {
+      "added_at": "2023-06-16 06:53:30",
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 124569,
       "name": "ABENA",
       "url": "https://open.spotify.com/track/4j5eFFqrvJ3UZIMDdogVc9"
-    },
-    {
-      "added_at": "2023-06-16 06:53:30",
-      "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
     }
   ],
   "unique_name": "Chill Bops",

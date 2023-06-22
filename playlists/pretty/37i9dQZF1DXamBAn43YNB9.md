@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,165 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,197 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 50 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 51 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 |
 | 52 | [Flame Trees](https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Flame Trees](https://open.spotify.com/album/1EjnQlHUJ3goSocfydn1bK) | 4:30 |
-| 53 | [Where Are You Now \- Td's Song](https://open.spotify.com/track/0lDozc3d0cJB2MZADfFvCV) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Jamie Mcdell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:35 |
+| 53 | [Where Are You Now \- Td's Song](https://open.spotify.com/track/0lDozc3d0cJB2MZADfFvCV) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:35 |
 | 54 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 |
-| 55 | [Limousine Running](https://open.spotify.com/track/1YlMDKuzoTD6OlvN3OWeI9) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie Mcdell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:39 |
+| 55 | [Limousine Running](https://open.spotify.com/track/1YlMDKuzoTD6OlvN3OWeI9) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:39 |
 | 56 | [Lake House \- Acoustic](https://open.spotify.com/track/2gxyxKWIHVy8DxWqyVHz2Y) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What's Your Favourite Country Song?](https://open.spotify.com/album/4eDslpbPN47t4gFYP3vTRI) | 3:43 |
 | 57 | [The Road](https://open.spotify.com/track/1aQaYbYZkkQzGOt8BAEMrx) | [Colin Lillie](https://open.spotify.com/artist/5a1yu0NIiNh52zaCjD4rEb), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [The Road](https://open.spotify.com/album/0H7naYz3qpnF4k9f4vRomm) | 3:45 |
 | 58 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 |
 | 59 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 60 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 |
 | 61 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
-| 62 | [Poor Boy](https://open.spotify.com/track/1Ru1gxjH8MkNfjP0owMa1X) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Tom Busby](https://open.spotify.com/artist/0lwMijmTI46U8XkAzdsozY) | [Jamie Mcdell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 4:01 |
+| 62 | [Poor Boy](https://open.spotify.com/track/1Ru1gxjH8MkNfjP0owMa1X) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Tom Busby](https://open.spotify.com/artist/0lwMijmTI46U8XkAzdsozY) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 4:01 |
 | 63 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 |
 | 64 | [Where Would I Be](https://open.spotify.com/track/132gv2iIWfIInnqHNucPIW) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Where Would I Be](https://open.spotify.com/album/7JKbD0TazFKWjG413NoRnM) | 3:43 |
 | 65 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 79 | [Rainy Day](https://open.spotify.com/track/0BMV5YD79S0OBwZZ8b8ML2) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wreck Me](https://open.spotify.com/album/0CQbnXgNwRg3noHVFn4Rn0) | 3:21 |
 | 80 | [Long Way from Lonely](https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Long Way from Lonely](https://open.spotify.com/album/6tC9jtsZH1T1Ka496bjp08) | 3:39 |
 
-Snapshot ID: `MCw1NDY5NmZjYjA4NGViYzFlN2JmMjA0YjUxN2Y1ZGZlODQ3MzM3Njgy`
+Snapshot ID: `MCw4OTNkNjI0MWFmYTMxMDFlOGFkZmZiZjVjNDRjNTkwZjcyOTY4MDcw`

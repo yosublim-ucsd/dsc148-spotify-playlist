@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 152675,
+  "num_followers": 152775,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTEzNzBiZmI0ZWFjYzNjODE4OTUxZTcyY2RmZGYwMTYxYjgxNzgx",
+  "snapshot_id": "MCwwNDk5Y2EzNTg3ZmU5ZDFkNThjOTkyMGIyNDM5OTlhMDAwZDU5OTEx",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 215645,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -487,34 +487,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Alkantara",
-        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
-      },
-      "artists": [
-        {
-          "name": "Bottai",
-          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Alkantara",
-      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -531,6 +515,22 @@
       "duration_ms": 228843,
       "name": "Another Riff For The Good Times",
       "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Alkantara",
+        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
+      },
+      "artists": [
+        {
+          "name": "Bottai",
+          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Alkantara",
+      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Celestia EP",
         "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Ascendance / Give It Up",
         "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 230673,
       "name": "Ascendance",
       "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "All We Have Is Now / Stay The Same",
         "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 252125,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "The Old You",
+        "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        },
+        {
+          "name": "Jackarta",
+          "url": "https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "The Old You",
+      "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 231830,
       "name": "Shizumu",
       "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "The Old You",
-        "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        },
-        {
-          "name": "Jackarta",
-          "url": "https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "The Old You",
-      "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 236101,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 214634,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 236101,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
     }
   ],
   "unique_name": "Melodic & Euphoric",

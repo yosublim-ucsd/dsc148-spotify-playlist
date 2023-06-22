@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Llunr
+> Global crossovers by/with Arab artists\. Cover: Ghita Askari
 
 284 songs - 15 hr 57 min
 

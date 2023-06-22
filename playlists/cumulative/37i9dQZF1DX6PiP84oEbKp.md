@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-56 songs - 2 hr 32 min
+57 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [True Colors \- Film Version](https://open.spotify.com/track/1JY9hsqLWZ3JB3K39Ve1xF) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:00 | 2021-08-27 |  |
 | [Two Mommies](https://open.spotify.com/track/5lPbdlNyrYHlkncyBMHogk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [A Cow Says Moock](https://open.spotify.com/album/2dRPrKVUY7VXlrazYNw0YZ) | 2:29 | 2021-08-27 |  |
 | [Unbreakable](https://open.spotify.com/track/0Mi9oDxTwC7u9X6nxSQGN6) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [UglyDolls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq) | 3:24 | 2023-06-01 |  |
+| [Wave a Flag for Harvey Milk](https://open.spotify.com/track/1ucKIEDuGeZP2n9Cf1aGGa) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wave a Flag for Harvey Milk](https://open.spotify.com/album/1WGuKxMpGZoQqwT1dMe5Wz) | 3:22 | 2023-06-21 |  |
 | [We Royal](https://open.spotify.com/track/5NBea5qyOZ6MzUdmIZS9NK) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:02 | 2021-08-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

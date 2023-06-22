@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-103 songs - 5 hr 23 min
+105 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2022-07-22 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2022-07-22 |  |
 | [Cruise](https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u) | [Trap McGrady](https://open.spotify.com/artist/48NVhVESjFx8fte6W9Bwte) | [Love Trap](https://open.spotify.com/album/6D6WhJox7MrEtsxJwO0Xfb) | 3:23 | 2022-07-22 | 2023-03-23 |
+| [D\. Flutie](https://open.spotify.com/track/0dM5IvlcBc53e5OcW3GaNG) | [The Doppelgangaz](https://open.spotify.com/artist/4J8pjytuR06BizCeBKBIDk) | [Beats for Brothels, Vol\. 2](https://open.spotify.com/album/6d0v2nW62OOEHXyK6eLgvr) | 2:41 | 2023-06-21 |  |
 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 | 2022-07-22 |  |
 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 | 2022-07-22 |  |
 | [Doping](https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw) | [DOPE90](https://open.spotify.com/artist/5PvSb8IlXP6e2rX6Pwoj8u), [Kovsh](https://open.spotify.com/artist/08g5Q6KdzrLJsXxoZzqDmB) | [Sputnik](https://open.spotify.com/album/7osdfCoxMwonsdCbZKSgf3) | 3:08 | 2022-07-22 |  |
@@ -90,6 +91,7 @@
 | [Sunshine](https://open.spotify.com/track/6f2imXhHCuzHNG74VNRowk) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/2leXozJUh9X7VhlWf8hbpk) | 2:12 | 2022-12-09 |  |
 | [Sunshine](https://open.spotify.com/track/6hfkvmDhYHiaN7SR8A6DiR) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5fkugNa58jJck6DctP5J4C) | 2:12 | 2022-10-14 | 2022-12-14 |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-07-22 |  |
+| [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 | 2023-06-21 |  |
 | [The Come up \(Instrumental\)](https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Greatest Beats \(Instrumentals\)](https://open.spotify.com/album/66JOOuwoKp7ACuHidfD5Nx) | 3:07 | 2022-07-22 |  |
 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 | 2022-07-22 |  |
 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 | 2023-05-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54029,
+  "num_followers": 54027,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQ1M2Y2NmFlNTQxMTEzNmRiY2Q2MWY2ZTVjNzQ2ZDAyMGIzM2Fi",
+  "snapshot_id": "MCw2ZDc4ZWQ0MzEyMzg2MGI3OGU1ZDhiMDlkNWY5NGU5NzI3ZjAxYTZh",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 240000,
       "name": "He Paid It All",
       "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
+      },
+      "artists": [
+        {
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Oh Happy Day",
-        "url": "https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk"
-      },
-      "artists": [
-        {
-          "name": "Edwin Hawkins",
-          "url": "https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj"
-        },
-        {
-          "name": "Shirley Miller",
-          "url": "https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb"
-        }
-      ],
-      "duration_ms": 130306,
-      "name": "Oh Happy Day (feat. Shirley Miller)",
-      "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Healing - Live In Detroit (with Vision)",
         "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 357226,
       "name": "You Did It All (with Vision)",
       "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Oh Happy Day",
+        "url": "https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk"
+      },
+      "artists": [
+        {
+          "name": "Edwin Hawkins",
+          "url": "https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj"
+        },
+        {
+          "name": "Shirley Miller",
+          "url": "https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb"
+        }
+      ],
+      "duration_ms": 130306,
+      "name": "Oh Happy Day (feat. Shirley Miller)",
+      "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Vickie Winans: Greatest Hits",
         "url": "https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 421946,
       "name": "Oh What Love",
       "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live In Charleston",
+        "url": "https://open.spotify.com/album/4XhR1TP2AiiyvfDeJInORK"
+      },
+      "artists": [
+        {
+          "name": "Mighty Clouds Of Joy",
+          "url": "https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS"
+        }
+      ],
+      "duration_ms": 517799,
+      "name": "Jesus Cares",
+      "url": "https://open.spotify.com/track/77YjhohI2Pg75GfuImUs39"
     },
     {
       "added_at": "2023-04-09 08:49:39",

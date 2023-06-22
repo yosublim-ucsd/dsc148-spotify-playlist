@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,072 songs - 2 day 17 hr 37 min
+1,073 songs - 2 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Road Head \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6dvDU89abVcTMTYleUdrnl) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 3:18 | 2022-07-05 |  |
 | [Rock Lobster \- Recorded at RAK Studios, London](https://open.spotify.com/track/3G4j3qCxQK1lr9t7c8hwfP) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/2OxXAGSBSRLl1fvZUaCPu5) | 2:54 | 2022-07-05 |  |
 | [Rock Lobster \- Recorded at RAK Studios, London](https://open.spotify.com/track/4cb7mVR5o6NSgfvlYxOuhl) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/7yd0SwBCQ68uqyqaipNkKp) | 2:54 | 2022-01-19 | 2022-07-29 |
+| [Rock On \- Spotify Singles \- From "The Muppets Mayhem"](https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Rock On \- Spotify Singles \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup) | 3:20 | 2023-06-21 |  |
 | [Rockabye \(feat\. Anne\-Marie\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz) | 3:45 | 2022-01-19 |  |
 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 | 2022-01-19 |  |
 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 | 2023-04-28 |  |

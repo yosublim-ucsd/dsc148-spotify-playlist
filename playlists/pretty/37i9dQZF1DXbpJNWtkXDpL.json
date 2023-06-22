@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 70507,
+  "num_followers": 70521,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDEyMzIzOWU4NDhlYjkwNGJjMTBiNTIzZjRlMmY1NjZmNmQ4Yzg5",
+  "snapshot_id": "MCwzMTEwNTRjMzUwOTJkZDUwNTIzOTgyNGJmYWQ4MDllZDZhZDhhMTkw",
   "tracks": [
     {
       "added_at": "2023-06-05 21:45:32",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Andando Entre la Lumbre",
-        "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Buelna",
-          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
-        }
-      ],
-      "duration_ms": 183775,
-      "name": "Andando Entre la Lumbre",
-      "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Fuerza De Voluntad",
         "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 163251,
       "name": "Fuerza De Voluntad",
       "url": "https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Andando Entre la Lumbre",
+        "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "duration_ms": 183775,
+      "name": "Andando Entre la Lumbre",
+      "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -835,22 +851,6 @@
       "duration_ms": 171863,
       "name": "Pa' Que Sepas",
       "url": "https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/7yZ3wtLm2vdGM988Gnja0V"
-      },
-      "artists": [
-        {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
-        }
-      ],
-      "duration_ms": 215574,
-      "name": "DOLOR",
-      "url": "https://open.spotify.com/track/66kByrbdiufwvhvRyH5PSF"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

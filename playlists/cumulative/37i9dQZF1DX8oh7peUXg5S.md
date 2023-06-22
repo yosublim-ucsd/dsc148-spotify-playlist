@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-236 songs - 15 hr 10 min
+237 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 | 2022-06-28 | 2022-08-12 |
 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 | 2022-06-09 |  |
 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 | 2022-06-09 |  |
-| [Las Cosas Que Importan](https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB) | 3:34 | 2023-03-02 |  |
+| [Las Cosas Que Importan](https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB) | 3:34 | 2023-03-02 | 2023-06-22 |
+| [Las Cosas Que Importan](https://open.spotify.com/track/4jzcN41E4BMPFYp0WSlfQ5) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/4m8whfllhHJ02RU5LwIySw) | 3:34 | 2023-05-29 |  |
 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 | 2022-06-09 |  |
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
 | [Lo llaman vida](https://open.spotify.com/track/4Rk6Xfsj274vKcg1n4zvmm) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Lo llaman vida](https://open.spotify.com/album/3J3B93yIAPY0ybp9GuxTr1) | 3:18 | 2023-05-05 | 2023-05-30 |

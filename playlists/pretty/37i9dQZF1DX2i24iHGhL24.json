@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 101363,
+  "num_followers": 101463,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmJhNDdjMDFlMzE5Y2UyOTFiZmNkY2E5MDE5M2Y2NjI1MjFkYjEw",
+  "snapshot_id": "MCw4NTczYzM4YzQ4OTU0ODEwYmJmOWEwOGE4NmJlNzcwOWYyNDk4ZTRm",
   "tracks": [
     {
       "added_at": "2023-05-14 17:03:21",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Always on My Mind - 2003 Remaster",
-      "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
       },
@@ -687,22 +671,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -719,18 +687,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -747,6 +715,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/34RAxbFdvO9mbNWnj3r10E"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -1055,6 +1023,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1255,22 +1239,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1331,6 +1315,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "SMASH \u2013 The Singles 1985 \u2013 2020 (2023 Remaster)",
+        "url": "https://open.spotify.com/album/4FCjoPQe3bP2RmBE1SRCJj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Always on my mind - 2023 Remaster",
+      "url": "https://open.spotify.com/track/10umreSPAEw9G1cJIDV8ey"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "How Long Will I Love You",
         "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 140090,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "dancing in the moonlight",
+        "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
+      },
+      "artists": [
+        {
+          "name": "Luke Burr",
+          "url": "https://open.spotify.com/artist/76JR66y9YIbwd92enbWxLv"
+        }
+      ],
+      "duration_ms": 147457,
+      "name": "dancing in the moonlight",
+      "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+        "name": "Cruel Summer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
       "artists": [
         {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
         }
       ],
-      "duration_ms": 224588,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
+      "duration_ms": 176789,
+      "name": "Cruel Summer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1739,22 +1755,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
-        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
       },
       "artists": [
         {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
         }
       ],
-      "duration_ms": 144570,
-      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
-      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
+      "duration_ms": 224588,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1771,6 +1783,26 @@
       "duration_ms": 192029,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 144570,
+      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
+      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1823,38 +1855,6 @@
       "duration_ms": 319680,
       "name": "Just (feat. Phantom Planet)",
       "url": "https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Cruel Summer (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 176789,
-      "name": "Cruel Summer (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "dancing in the moonlight",
-        "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
-      },
-      "artists": [
-        {
-          "name": "Luke Burr",
-          "url": "https://open.spotify.com/artist/76JR66y9YIbwd92enbWxLv"
-        }
-      ],
-      "duration_ms": 147457,
-      "name": "dancing in the moonlight",
-      "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
@@ -2003,18 +2019,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
         }
       ],
-      "duration_ms": 266280,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2067,22 +2083,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2131,18 +2131,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
       },
       "artists": [
         {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
         }
       ],
-      "duration_ms": 217043,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
+      "duration_ms": 148514,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2163,18 +2163,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
       },
       "artists": [
         {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
         }
       ],
-      "duration_ms": 148514,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
+      "duration_ms": 217043,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 268437,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 268437,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
     },
     {
       "added_at": "2023-05-14 17:03:21",

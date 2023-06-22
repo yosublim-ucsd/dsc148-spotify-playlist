@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-383 songs - 21 hr 18 min
+384 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Be the Light \(Radio Edit\)](https://open.spotify.com/track/62O09SIJyoBvEEvI8XnJtl) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Be the Light \(Radio Edit\)](https://open.spotify.com/album/3gRP24p18Mq0q31FsvZiBi) | 3:33 | 2021-10-31 | 2022-06-06 |
 | [Beautiful Chaos](https://open.spotify.com/track/0WnYgsf5qsiIoRArSrelF9) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Beautiful Chaos](https://open.spotify.com/album/6pZR3NDVJRHuPQbgDoBLnU) | 3:06 | 2021-10-31 | 2022-07-29 |
 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-10-31 | 2023-02-08 |
-| [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 | 2023-02-07 |  |
+| [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 | 2023-02-07 | 2023-06-22 |
 | [Better King](https://open.spotify.com/track/1PRMBi6xAuwLFU48bm6sLh) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 2:56 | 2021-10-31 | 2023-02-08 |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Bigger](https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:21 | 2021-10-31 | 2022-07-27 |
@@ -379,6 +379,7 @@
 | [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2023-01-15 |
 | [Won't Rain Anymore](https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Won't Rain Anymore](https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9) | 2:39 | 2023-03-07 | 2023-05-09 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-02-07 |  |
+| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-02-07 |  |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-02-08 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2023-02-08 |
 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-02-07 |  |

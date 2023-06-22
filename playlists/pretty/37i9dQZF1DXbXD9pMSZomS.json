@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 431159,
+  "num_followers": 431283,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBiZDU0NDE5YzUwMDRmOTk5NGFlMzYzMGQ0NTNjY2I4OGQyNWI2",
+  "snapshot_id": "MCxhOTk5MmUyM2NkYjVhNDJkNjFlNmUwNDE4ZDk0NzNiNzkzMmNkYThm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:00:00",
@@ -18,27 +18,15 @@
         {
           "name": "Chaos In The CBD",
           "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Isaac Aesili",
+          "url": "https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE"
         }
       ],
       "duration_ms": 307082,
       "name": "78 To Stanley Bay",
       "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "You'll Understand",
-        "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 417099,
-      "name": "Talk to Me You'll Understand",
-      "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -55,6 +43,22 @@
       "duration_ms": 146949,
       "name": "SEX IS GOOD BUT HAVE U EVER",
       "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "You'll Understand",
+        "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 417099,
+      "name": "Talk to Me You'll Understand",
+      "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -519,22 +523,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -551,18 +539,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -587,18 +575,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
       "artists": [
         {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
         }
       ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -615,6 +603,22 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -667,22 +671,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "What It Is (2.0)",
-        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
-      },
-      "artists": [
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 336025,
-      "name": "The Body Move",
-      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "10Min JAM_V2",
         "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
       },
@@ -699,6 +687,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "What It Is (2.0)",
+        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "duration_ms": 336025,
+      "name": "The Body Move",
+      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -711,22 +715,6 @@
       "duration_ms": 282857,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -759,6 +747,22 @@
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -843,26 +847,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "I Knew It",
-        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
-      },
-      "artists": [
-        {
-          "name": "Yambow",
-          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
-        },
-        {
-          "name": "Latas",
-          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "I Knew It",
-      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -875,22 +859,6 @@
       "duration_ms": 182500,
       "name": "Tokyo Cruise",
       "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -911,6 +879,22 @@
       "duration_ms": 128571,
       "name": "Setra",
       "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -955,6 +939,26 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "I Knew It",
+        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
+      },
+      "artists": [
+        {
+          "name": "Yambow",
+          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
+        },
+        {
+          "name": "Latas",
+          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "I Knew It",
+      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Milkyway",
         "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
       },
@@ -987,22 +991,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Lazybones",
-        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
-      },
-      "artists": [
-        {
-          "name": "Gene On Earth",
-          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
-        }
-      ],
-      "duration_ms": 347408,
-      "name": "Pulse Mode",
-      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
       },
@@ -1015,6 +1003,22 @@
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     }
   ],
   "unique_name": "Lo-Fi House",

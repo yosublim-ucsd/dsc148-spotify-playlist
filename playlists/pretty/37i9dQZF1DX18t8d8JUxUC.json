@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Silvana Estrada",
-  "num_followers": 12621,
+  "num_followers": 12666,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmZkMzhmMzcwZDBiNDI3YjVmODI2MDVmOGFkNTUxYzYwYTczNDRk",
+  "snapshot_id": "MCw0ZjU1N2E5MDFmODQ4NGJjYTUyOGY1N2IzZDc2MDhlZmY0MTljZWUz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+        }
+      ],
+      "duration_ms": 198430,
+      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Perd\u00ed",
         "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 345706,
       "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
       "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     }
   ],
   "unique_name": "Latin Folk",

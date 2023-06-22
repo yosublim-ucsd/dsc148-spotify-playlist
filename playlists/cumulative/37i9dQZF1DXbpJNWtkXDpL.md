@@ -4,7 +4,7 @@
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-267 songs - 14 hr 20 min
+268 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 | 2022-08-26 | 2023-04-19 |
 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 | 2022-05-13 | 2023-03-11 |
 | [Dm](https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv) | 3:04 | 2022-05-13 | 2023-04-19 |
-| [DOLOR](https://open.spotify.com/track/66kByrbdiufwvhvRyH5PSF) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [5](https://open.spotify.com/album/7yZ3wtLm2vdGM988Gnja0V) | 3:35 | 2023-04-18 |  |
+| [DOLOR](https://open.spotify.com/track/66kByrbdiufwvhvRyH5PSF) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [5](https://open.spotify.com/album/7yZ3wtLm2vdGM988Gnja0V) | 3:35 | 2023-04-18 | 2023-06-22 |
 | [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 | 2022-05-12 | 2022-07-22 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-10-01 | 2022-05-12 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-29 | 2023-04-19 |
@@ -124,6 +124,7 @@
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2022-05-13 | 2022-07-29 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-20 | 2023-04-19 |
 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 | 2023-04-18 | 2023-06-20 |
+| [Locamente Enamorado](https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q) | 3:37 | 2023-04-21 |  |
 | [Los días grises](https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Los días grises](https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8) | 2:19 | 2022-09-09 | 2022-12-21 |
 | [Los Infieles](https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Los Infieles](https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI) | 3:03 | 2023-04-18 |  |
 | [LSNC](https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [LSNC](https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh) | 2:33 | 2022-05-13 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Teskey Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,715 likes - 93 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,723 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Lights Out](https://open.spotify.com/track/6aRgz7OGFmOkPJou4K1Kjk) | [The Superjesus](https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd) | [Lights Out](https://open.spotify.com/album/2YHgekK5nLHUnPeIe1YyLt) | 3:45 |
 | 93 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 |
 
-Snapshot ID: `MCxkYTM3MDMyMDFkOWIyMWU0OWMyYjUzZmI1NTJiMjU0NTM2OTk4NDdm`
+Snapshot ID: `MCwzNmE1NWFiYzAyZDNlODYwM2NkYmUwMWRlNDA2NGZlNDRhOTA5NGI3`

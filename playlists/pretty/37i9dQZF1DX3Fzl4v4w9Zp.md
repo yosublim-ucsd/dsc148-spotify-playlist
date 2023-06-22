@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,016 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,103 likes - 149 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 64 | [Every Light](https://open.spotify.com/track/4i8j6kulj1ipa8srEE4LZT) | [Radio Company](https://open.spotify.com/artist/3qBdT7NKSOBogHhGiUVLiV) | [Keep On Ramblin'](https://open.spotify.com/album/2A2aFLVWZKdon9eXdcJu6x) | 4:15 |
 | 65 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
 | 66 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
-| 67 | [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 |
+| 67 | [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/artist/0m5y5Le332rV9R18MVYR5F) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 |
 | 68 | [Back to You](https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:17 |
 | 69 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 |
 | 70 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 149 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 |
 
-Snapshot ID: `MCw0ZjZjMTI1OGNkOGZkZjgxODhlMmEzZWNmZmI0M2FiNmFmMmI4OTg3`
+Snapshot ID: `MCw4ZWI4ZjJhNDQ0YTU2YjgxNmYxOWJkYTM5NGYzOTQ4OTVmMjY4MTA3`

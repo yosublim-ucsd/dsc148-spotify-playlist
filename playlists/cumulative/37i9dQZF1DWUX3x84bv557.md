@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Pjotr & Melissa Lopes op de cover van dé Nederlandse pop playlist!
+> Nieuwe Nederlandstalige hits vind je hier! Cover: Pjotr & Melissa Lopes
 
 233 songs - 11 hr 18 min
 

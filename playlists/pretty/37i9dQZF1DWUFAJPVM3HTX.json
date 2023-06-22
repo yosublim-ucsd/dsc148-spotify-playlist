@@ -1,29 +1,13 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: King Sis. Updates every Wednesday.",
-  "num_followers": 200339,
+  "description": "The best new R&B by independent artists and labels. Cover: CARI. Updates every Wednesday.",
+  "num_followers": 200625,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWIzMzZjMGFmYTc4ZGJkZGJhYTNlNmUyNTQ1MGY0MTRmMTU3NTE5",
+  "snapshot_id": "MCw4NTgwMjIyNzIxYTI5NjlkYzI3MzFiZmY3YmU3YWQyZWYwNDViYzcy",
   "tracks": [
-    {
-      "added_at": "2023-06-14 14:49:39",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/5T7IP0zL9cUDs7N0wLzMgx"
-      },
-      "artists": [
-        {
-          "name": "King Sis",
-          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
-        }
-      ],
-      "duration_ms": 204715,
-      "name": "History",
-      "url": "https://open.spotify.com/track/2f4KlAKeZ2lLBPuPZrPSMN"
-    },
     {
       "added_at": "2023-06-14 15:48:26",
       "album": {
@@ -39,6 +23,442 @@
       "duration_ms": 231138,
       "name": "Colder in June",
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Just Like Her Father",
+        "url": "https://open.spotify.com/album/5sGcc4EJoo4wxKQEe2eTQ9"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Just Like Her Father",
+      "url": "https://open.spotify.com/track/4CdlBxaStYMMIQTsA8jFDk"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Where R We Now",
+        "url": "https://open.spotify.com/album/2FotJhseFZAcDsNHy7O4Ev"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        },
+        {
+          "name": "Jay James",
+          "url": "https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH"
+        }
+      ],
+      "duration_ms": 161054,
+      "name": "Where R We Now",
+      "url": "https://open.spotify.com/track/3FM0krwj4HkhilemtYGhtq"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Brayla",
+          "url": "https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "U",
+      "url": "https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "1SRAEL",
+          "url": "https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Lowkey Mama",
+        "url": "https://open.spotify.com/album/0iyls3n3V8bSO3MeECNDT7"
+      },
+      "artists": [
+        {
+          "name": "Darius James",
+          "url": "https://open.spotify.com/artist/5pAmgbodd20s2AsESr7lHH"
+        }
+      ],
+      "duration_ms": 152016,
+      "name": "Lowkey Mama",
+      "url": "https://open.spotify.com/track/6ZbwfjrnMI5sx52JYbaABG"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "What's My Name",
+        "url": "https://open.spotify.com/album/71hqba5gHXMLfxYp2HvCPq"
+      },
+      "artists": [
+        {
+          "name": "Khaliyah X",
+          "url": "https://open.spotify.com/artist/2g6W4fgqvwpnPRfKpJzNxZ"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "What's My Name",
+      "url": "https://open.spotify.com/track/5mzaG5DwGwyIcGmC8EXP4t"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "bringmeback",
+        "url": "https://open.spotify.com/album/1NMMR3wVAlGcMkrObK40Mo"
+      },
+      "artists": [
+        {
+          "name": "India Naia",
+          "url": "https://open.spotify.com/artist/1f3pAhbUiIQcluB27sZ06P"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "bringmeback",
+      "url": "https://open.spotify.com/track/1BjF2FwztC8d1dcL9Ml7Rq"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/7oZieKRJbp0VLE7sKfr2de"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 127051,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/2vgXXZbaMwfFgk8wg3bCX6"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV"
+      },
+      "artists": [
+        {
+          "name": "Vahn Black",
+          "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
+        }
+      ],
+      "duration_ms": 251489,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/2H3Tv6FIKEDSFCIslT2FSI"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Love & Flowers",
+        "url": "https://open.spotify.com/album/5Bv7h0plmkeJLalK9bIYHl"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 173539,
+      "name": "Love & Flowers",
+      "url": "https://open.spotify.com/track/7hBAbJM1fEJ8nCdhmtefOn"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        }
+      ],
+      "duration_ms": 107389,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/4XJP9b0NmInjWoWhGWPAF0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Bento",
+          "url": "https://open.spotify.com/artist/1lz8mmm4zJ07PO9sgaNjdY"
+        },
+        {
+          "name": "Omar Kadir",
+          "url": "https://open.spotify.com/artist/1dZdd4uleOGer6HoYZq62D"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/39SpCqGmRQm8jbd0Xs1RVD"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Love Is Long",
+        "url": "https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM"
+      },
+      "artists": [
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Love Is Long",
+      "url": "https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/3vKqqoFefBDFOcZ9ukiau2"
+      },
+      "artists": [
+        {
+          "name": "Ed\u00e1ja",
+          "url": "https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe"
+        }
+      ],
+      "duration_ms": 162339,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/4LiMAxnYfxkgfSbA4q9BvM"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "ghosted",
+        "url": "https://open.spotify.com/album/0y1TnzdpdOewAy4z1sh937"
+      },
+      "artists": [
+        {
+          "name": "Ausar",
+          "url": "https://open.spotify.com/artist/3ahvdZBrfKOLdDLr1eNXTg"
+        }
+      ],
+      "duration_ms": 258846,
+      "name": "ghosted",
+      "url": "https://open.spotify.com/track/3gC74awANsa3oPoA6eqNBI"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/23C4wgLgwufv7wXrDqXaej"
+      },
+      "artists": [
+        {
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/71s5CyqSwmQyK8CvCxNH4w"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Mid-May",
+        "url": "https://open.spotify.com/album/3FvKHhB9NxWDCrgzPUO5hL"
+      },
+      "artists": [
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        },
+        {
+          "name": "Teddy Roxpin",
+          "url": "https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A"
+        }
+      ],
+      "duration_ms": 272748,
+      "name": "Mid-May",
+      "url": "https://open.spotify.com/track/53JcTRKVcuq8yAooevvnYU"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Man on Fire",
+        "url": "https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Kissin' My Tattoos",
+        "url": "https://open.spotify.com/album/7ueCXrWwTa6Fe209cZuSYP"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Kissin' My Tattoos",
+      "url": "https://open.spotify.com/track/09xQ2YpARX6KfVKKbiDaoY"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "With it (Need Me remix)",
+        "url": "https://open.spotify.com/album/1YuOkP00m2EuMNIwSTKjTB"
+      },
+      "artists": [
+        {
+          "name": "DELE",
+          "url": "https://open.spotify.com/artist/2F5U6GYGNflUbq3YO5PHUp"
+        }
+      ],
+      "duration_ms": 86700,
+      "name": "With it (Need Me remix)",
+      "url": "https://open.spotify.com/track/68hAoaH8L9ZWKuoJg00vpR"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/6ykC2AuC8qgBVro8l0Y4Zy"
+      },
+      "artists": [
+        {
+          "name": "Sage Harris",
+          "url": "https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Heaven Only Knows",
+      "url": "https://open.spotify.com/track/3bYuS0r1krUv59094jVsom"
+    },
+    {
+      "added_at": "2023-06-21 17:20:12",
+      "album": {
+        "name": "Misplaced",
+        "url": "https://open.spotify.com/album/45jL4TtndNSCnTzrCumoDE"
+      },
+      "artists": [
+        {
+          "name": "KendyX",
+          "url": "https://open.spotify.com/artist/6eNjtAbWqzFhuO8KbyJrfO"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0Zd0W4Z5Uq30QawZJ1Yobp"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "GOOD 2 U/DAYLIGHT",
+        "url": "https://open.spotify.com/album/3RzFEx1S4ErKG3ia1DTsQx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "GOOD 2 U/DAYLIGHT",
+      "url": "https://open.spotify.com/track/3h80aXlxfBDPgtJCMQTB8o"
+    },
+    {
+      "added_at": "2023-06-21 17:16:02",
+      "album": {
+        "name": "Baby Wouldn't Have Me Waiting",
+        "url": "https://open.spotify.com/album/4hmIHzdjGAZcFQPtXGH0wo"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Baby Wouldn't Have Me Waiting",
+      "url": "https://open.spotify.com/track/15POcTAMaxKeEJ7P5LRd9Q"
+    },
+    {
+      "added_at": "2023-06-21 17:20:12",
+      "album": {
+        "name": "Love Heals All",
+        "url": "https://open.spotify.com/album/5q07LbcAfcIQGDGn1Z8H07"
+      },
+      "artists": [
+        {
+          "name": "Arianna Reid",
+          "url": "https://open.spotify.com/artist/2oDxeS4v0TZosWxD6zcihc"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Love Heals All",
+      "url": "https://open.spotify.com/track/2VVjDDcWaBhhPF6YLjGjSF"
+    },
+    {
+      "added_at": "2023-06-14 14:49:39",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/5T7IP0zL9cUDs7N0wLzMgx"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 204715,
+      "name": "History",
+      "url": "https://open.spotify.com/track/2f4KlAKeZ2lLBPuPZrPSMN"
     },
     {
       "added_at": "2023-06-14 14:49:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,577 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,834 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 49 | [golden hour \- Ruel Remix](https://open.spotify.com/track/5SxZtc0xXmrXcXaoUIQskY) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [golden hour \(Ruel Remix\)](https://open.spotify.com/album/4A21QpeV6cRI9yocOzfrv2) | 3:29 |
 | 50 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 
-Snapshot ID: `MCxiN2FiMTYwOGE5MWNjODg2ZDU3YjFiZWU3MmUzYzlhNDNlODBlZGU0`
+Snapshot ID: `MCxjMjE2YTBlYzAwNTVhNTM5MDkxNDIyYzE5NzRhNTVkN2U2OTUzYmFj`

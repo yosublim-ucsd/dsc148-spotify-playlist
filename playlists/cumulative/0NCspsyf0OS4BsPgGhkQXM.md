@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-765 songs - 1 day 17 hr 39 min
+766 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [Two Face \(Dark Version\)](https://open.spotify.com/track/3qFz4Yl3L2USyP7EfbVFQy) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Two Face \(Dark Version\)](https://open.spotify.com/album/21HSZwwUJvYRIGt595DQza) | 2:35 | 2022-03-18 | 2022-04-19 |
 | [Two Face \(Omido Remix\)](https://open.spotify.com/track/3lXNIytpQCrM77Ul6ev03T) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh), [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh) | [Two Face \(Omido Remix\)](https://open.spotify.com/album/4OCnAlV40y5U5uFRtNFzpq) | 2:32 | 2022-08-26 | 2022-10-08 |
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-11-22 |  |
+| [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-21 |  |
 | [ULTRA](https://open.spotify.com/track/0iz4UuJnAG1rx2jXHiFgLR) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [ULTRA](https://open.spotify.com/album/7KFGsYeWP46xuPSOqP867h) | 5:22 | 2022-03-23 | 2022-04-19 |
 | [Ultraviolet](https://open.spotify.com/track/3inG72xPY9bCmAn1cBihMZ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Hex & Solstice](https://open.spotify.com/artist/09IVjJm54cApXuwVwmG04B) | [Ultraviolet](https://open.spotify.com/album/2SuXUgAWLnSF89bHq7cLJN) | 3:04 | 2022-12-09 | 2023-01-28 |
 | [Undefeated](https://open.spotify.com/track/10yggPuoa0Bok31juJUUhi) | [Lucha](https://open.spotify.com/artist/0jkgNCEAyUXUD4u8nO6olG), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Undefeated](https://open.spotify.com/album/0isnfwtXBvNY2cMVrMosnn) | 3:06 | 2022-02-07 | 2022-03-19 |

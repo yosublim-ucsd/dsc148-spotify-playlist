@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-271 songs - 14 hr 0 min
+272 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,8 @@
 | [Vinte e Oito Dias](https://open.spotify.com/track/2CIHeEt9jP0Qd2XIMINGdd) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinte e Oito Dias](https://open.spotify.com/album/3oDWNLU7Onr7Qx59ZLsWM2) | 4:08 | 2022-01-07 | 2022-07-23 |
 | [Você Chegou na Hora Certa](https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Você Chegou na Hora Certa](https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln) | 2:28 | 2022-11-18 |  |
 | [Você Deveria Saber](https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe) | [Miguel Arcanjo](https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS) | [Você Deveria Saber](https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5) | 3:24 | 2022-01-07 | 2022-08-13 |
-| [Você Sabe](https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF) | 2:35 | 2022-10-28 |  |
+| [Você Sabe](https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF) | 2:35 | 2022-10-28 | 2023-06-22 |
+| [Você Sabe](https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6) | 2:35 | 2023-05-12 |  |
 | [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2022-10-14 | 2023-01-14 |
 | [Voraz](https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Voraz](https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw) | 2:11 | 2022-12-23 |  |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2022-08-26 | 2022-12-10 |

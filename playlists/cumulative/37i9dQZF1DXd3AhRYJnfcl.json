@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
@@ -3676,6 +3676,24 @@
       "duration_ms": 205114,
       "name": "\u0646\u062d\u0646\u0648\u062d",
       "url": "https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0635 \u0633\u064a\u0637\u0648 \u0645\u0646\u064a ( \u0627\u062d\u0646\u0627 \u0635\u062d\u0627\u0628 \u0628\u0644\u062f\u0646\u0627 )",
+        "url": "https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "\u0646\u0635 \u0633\u064a\u0637\u0648 \u0645\u0646\u064a ( \u0627\u062d\u0646\u0627 \u0635\u062d\u0627\u0628 \u0628\u0644\u0627\u062f\u0646\u0627 )",
+      "url": "https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs"
     },
     {
       "album": {

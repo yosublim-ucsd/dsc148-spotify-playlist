@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TIBASKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,113 likes - 125 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,139 likes - 125 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 82 | [Praise](https://open.spotify.com/track/4sZE7YGH1tM9zIyfc8erpX) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Praise](https://open.spotify.com/album/2r7MSIqqeINCoYKWQQlj8P) | 2:50 |
 | 83 | [Baby](https://open.spotify.com/track/2aG0MR34r8rPq914MH8KQd) | [Tyvion Valentine](https://open.spotify.com/artist/101muq6NLdlyX7E3IVUDRv) | [Baby](https://open.spotify.com/album/5XCqAFMVCn9beXLjYl6a4c) | 6:17 |
 | 84 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
-| 85 | [Basilisk](https://open.spotify.com/track/0JtZWbLmRuBDRKFaU9o2pL) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [AJ^6](https://open.spotify.com/album/6818Zvytt78CpfD2rgnMh7) | 4:56 |
+| 85 | [Basilisk](https://open.spotify.com/track/0hggD2nXY3ez5PlFXoUIYx) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [AJ^6](https://open.spotify.com/album/1yog6hz3W10YKqTVg68VBT) | 4:56 |
 | 86 | [These Days](https://open.spotify.com/track/4MVs7sv6YAO0wLEjQogfIR) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/6rfkg0L634lsGEYzNAYdF3) | 3:34 |
 | 87 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 |
 | 88 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 124 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 |
 | 125 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
 
-Snapshot ID: `MCxiYzJhMGVjODVhYTE5MjdhMDYyNGMzMDE0Y2ExYzA5YTg3NmNkN2Zm`
+Snapshot ID: `MCw3YTQ3M2RlNmU0MDY3YmUwOWJiOGMxZGRmZjIyNGUyYzk1YzMwZjhk`

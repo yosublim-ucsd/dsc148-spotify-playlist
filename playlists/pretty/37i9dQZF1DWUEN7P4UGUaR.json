@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 1310,
+  "num_followers": 1338,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzRkZmYwOTFlYzg2MTM3MWZkMjQ0ZjkzZmU2ZDM0MGU0ZmFmMmIy",
+  "snapshot_id": "MCw1NjgyMDEzY2VmYjk0MTdmNjMyNGIyMmRkOGFjMThmMjIxZDZmODNk",
   "tracks": [
     {
       "added_at": "2023-06-09 05:46:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
-        "name": "Testimony Therapy",
-        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 219824,
-      "name": "Testimony - Acoustic",
-      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
-    },
-    {
-      "added_at": "2023-06-09 05:46:00",
-      "album": {
         "name": "Lifted High",
         "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 222791,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
+    },
+    {
+      "added_at": "2023-06-09 05:46:00",
+      "album": {
+        "name": "Testimony Therapy",
+        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "Testimony - Acoustic",
+      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     },
     {
       "added_at": "2023-06-09 05:46:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-09 05:46:00",
       "album": {
-        "name": "Final Say (Live)",
-        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 408235,
-      "name": "Amenuveve (Grace) - Live",
-      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
-    },
-    {
-      "added_at": "2023-06-09 05:46:00",
-      "album": {
         "name": "Perfect Love (Romans 8:38-39)",
         "url": "https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176500,
       "name": "Perfect Love (Romans 8:38-39)",
       "url": "https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA"
+    },
+    {
+      "added_at": "2023-06-09 05:46:00",
+      "album": {
+        "name": "Final Say (Live)",
+        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 408235,
+      "name": "Amenuveve (Grace) - Live",
+      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
     }
   ],
   "unique_name": "Aseda",

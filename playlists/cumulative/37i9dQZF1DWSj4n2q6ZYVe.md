@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-111 songs - 7 hr 9 min
+112 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 | 2021-04-29 | 2023-04-16 |
 | [The Logical Song](https://open.spotify.com/track/6ACG1I3qXRpnkIKLVzy4Ww) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:54 | 2021-04-29 | 2023-05-02 |
 | [The Logical Song](https://open.spotify.com/track/3DwhQpLOuJB7uSCGrjRZM2) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [24 Carat Gold](https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl) | 3:54 | 2021-04-29 | 2023-06-18 |
+| [The Logical Song](https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Push The Beat For This Jam \(The Second Chapter\)](https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL) | 3:55 | 2021-04-29 |  |
 | [The Salmon Dance](https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [We Are The Night](https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr) | 3:40 | 2021-04-29 |  |
 | [The Sound Of San Francisco \- Progressive Album Mix](https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L) | [Network \- taken from Superstar](https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL) | 3:44 | 2021-04-29 |  |
 | [The Whistle Song](https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh) | [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Payback Time](https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na) | 3:43 | 2021-04-29 |  |
@@ -113,7 +114,7 @@
 | [Weekend!](https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Jumping All over the World \- Whatever You Want](https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy) | 3:34 | 2021-04-29 | 2023-06-19 |
 | [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 | 2021-04-29 | 2023-04-29 |
 | [Welcome to the Club \- Video Edit](https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN) | [Manian](https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD) | [Zoopreme Volume 01](https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897) | 3:12 | 2021-04-29 |  |
-| [What Hurts The Most](https://open.spotify.com/track/2umCb31luuHifyrJVTio5S) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:38 | 2021-04-29 |  |
+| [What Hurts The Most](https://open.spotify.com/track/2umCb31luuHifyrJVTio5S) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:38 | 2021-04-29 | 2023-06-22 |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 | 2021-04-29 |  |
 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 | 2021-04-29 |  |
 | [Will I Ever](https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:14 | 2021-04-29 |  |

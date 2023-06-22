@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, anni 70 e anni 80!",
-  "num_followers": 14348,
+  "num_followers": 14423,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjNhY2FjYzRkZDZlYjhhOGQxOTg5ZjI2MDVkZDUyMjAyMmZhZmU3",
+  "snapshot_id": "MCxiZTUwZDM5YjZiZDBiNWMxYzhjYzAxZDdhZmJmN2YyNDQ4MTE5YTI4",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Profumo di sole...",
+        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
+      },
+      "artists": [
+        {
+          "name": "Jo Fedeli",
+          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Sei come una lucertola",
+      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 151720,
       "name": "Guarda come dondolo",
       "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Profumo di sole...",
-        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
-      },
-      "artists": [
-        {
-          "name": "Jo Fedeli",
-          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Sei come una lucertola",
-      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Le pi\u00f9 belle canzoni di Milva",
+        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 159312,
       "name": "Pinne fucile ed occhiali",
       "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Le pi\u00f9 belle canzoni di Milva",
-        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
     },
     {
       "added_at": "2023-06-05 07:42:38",

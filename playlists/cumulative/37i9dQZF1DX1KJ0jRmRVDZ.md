@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-744 songs - 1 day 18 hr 31 min
+746 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [ponpon princess feat\. sakana](https://open.spotify.com/track/7cjJIpMrVa8T0J1ynjkWlC) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [ponpon princess feat\. sakana](https://open.spotify.com/album/2Idc44WfNuUsxUQpna6CGt) | 2:03 | 2023-03-09 | 2023-03-25 |
 | [position talk](https://open.spotify.com/track/4FkSBeVGH6BsXrctM08JGe) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [position talk](https://open.spotify.com/album/6kacmngtser9bpPL1oDODu) | 3:01 | 2022-09-06 | 2022-09-15 |
 | [Prima Stella](https://open.spotify.com/track/44ViFRPJfJTmJNEHQaKCBn) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [Prima Stella](https://open.spotify.com/album/7FrPYrqz1pL0ZvWCpneyuK) | 3:14 | 2023-01-19 | 2023-02-01 |
+| [Rain Fall](https://open.spotify.com/track/4V61GmoW19aSrFxw4DMhqy) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:45 | 2023-06-20 |  |
 | [Rain, Rain Go Away!](https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Rain, Rain Go Away!](https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg) | 4:14 | 2022-10-20 | 2023-01-18 |
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-21 | 2022-12-28 |
 | [RAWEVIL](https://open.spotify.com/track/6WkD6ZUX0UhmJYe7BzwHbQ) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [RAWEVIL](https://open.spotify.com/album/1StMZAxXqVAPaAUNN72j4s) | 2:25 | 2023-02-28 | 2023-03-08 |
@@ -191,7 +192,8 @@
 | [RestartSmile](https://open.spotify.com/track/7nn2z9nlUVacYiDDNbkrsi) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [RestartSmile](https://open.spotify.com/album/4Ne4UIGziyFGdReco9fNSi) | 3:28 | 2022-06-16 | 2022-07-12 |
 | [river relief](https://open.spotify.com/track/5LfrLmJ7Mnv9ZJOy3cROKk) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [river relief](https://open.spotify.com/album/4jGKhuY5FPaNYdiYn2KDmA) | 4:00 | 2023-02-28 | 2023-03-08 |
 | [river relief](https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [崎山蒼志](https://open.spotify.com/artist/7jOw1334Xnxq88NUyEEtOZ) | [river relief](https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB) | 4:00 | 2023-03-01 | 2023-03-02 |
-| [Ruthless](https://open.spotify.com/track/2znUvInSCRzXIg8CG4ppNc) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Ruthless](https://open.spotify.com/album/6bKz6IAUcZBXo4CulgbQV5) | 3:03 | 2023-06-20 |  |
+| [Ruthless](https://open.spotify.com/track/1O6Afquoyx9SAEWEuT4JV6) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Ruthless](https://open.spotify.com/album/3g9ud1Fg6Azr0i9FI47zN0) | 3:03 | 2023-06-20 |  |
+| [Ruthless](https://open.spotify.com/track/2znUvInSCRzXIg8CG4ppNc) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Ruthless](https://open.spotify.com/album/6bKz6IAUcZBXo4CulgbQV5) | 3:03 | 2023-06-20 | 2023-06-22 |
 | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/track/1kCn0Vx5jh6WNy7S7cCvab) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [natsumi](https://open.spotify.com/artist/0j5uL1aGwr2KzirkKWF2YD) | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/album/4EhAU964ARXJZKR8oegtPk) | 4:08 | 2022-07-24 | 2022-07-26 |
 | [sakura breeze](https://open.spotify.com/track/0wA4jgSYocJbr3VMGhgFI7) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8), [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [sakura breeze](https://open.spotify.com/album/5wG74dZ07tw3YFQu3BdpKp) | 3:33 | 2022-06-09 | 2022-07-15 |
 | [Sansan to Furitsumoru Yoru ha](https://open.spotify.com/track/79y2tDJEkshvARtHIWlv5g) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ONE MORE SHABON](https://open.spotify.com/album/1Xeegi7QJ8HdQWnow6IO2U) | 3:12 | 2022-06-21 | 2022-07-19 |
@@ -490,7 +492,7 @@
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2022-10-11 |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-02-02 | 2023-03-10 |
 | [レイニー ブルー feat.こぴ&未来](https://open.spotify.com/track/47Ndw7P01dq1kLZpxz7kZN) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [こぴ](https://open.spotify.com/artist/7o5Zl6NC3E8gO3sDoEjyqU), [未来](https://open.spotify.com/artist/2XRMhre9OgtMDUA9byHD4O) | [これくしょん ヴァイナル](https://open.spotify.com/album/7JGNOCHjSXe6MLPRQiLfbo) | 4:24 | 2022-06-16 | 2022-07-13 |
-| [レインフォール](https://open.spotify.com/track/5usrW9VzreLcGpj3R3mtJo) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [アンダーメンタリティ](https://open.spotify.com/album/4v0IPktCIEZCtqh6Z0fvGB) | 3:45 | 2023-06-20 |  |
+| [レインフォール](https://open.spotify.com/track/5usrW9VzreLcGpj3R3mtJo) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [アンダーメンタリティ](https://open.spotify.com/album/4v0IPktCIEZCtqh6Z0fvGB) | 3:45 | 2023-06-20 | 2023-06-22 |
 | [レインボー!](https://open.spotify.com/track/5HbCXXaf4o2hjw6s1tkLhc) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [間一発](https://open.spotify.com/album/1OmxRf8VOCmablACDWI6vF) | 1:32 | 2022-07-14 | 2022-07-16 |
 | [レブル](https://open.spotify.com/track/2866mFfVRWokPM8PHRPSUB) | [むト](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [レブル](https://open.spotify.com/album/4GjhNKHhyfR2F1AEaH4Jqg) | 3:38 | 2023-03-08 | 2023-04-21 |
 | [レモンの花](https://open.spotify.com/track/70AT1JCm28kVWclugOUbeM) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [レモンの花](https://open.spotify.com/album/02rdR2S8XYznEiYEQqTFvm) | 3:36 | 2023-04-13 | 2023-04-26 |

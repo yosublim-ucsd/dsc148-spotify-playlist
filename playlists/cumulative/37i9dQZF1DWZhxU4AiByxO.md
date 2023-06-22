@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-287 songs - 14 hr 26 min
+288 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Worldwide Party](https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX) | 2:58 | 2021-10-22 | 2022-10-14 |
 | [Worldwide Party](https://open.spotify.com/track/554PU8Cg8dhsoLwZZirqKx) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/2zoLtD8CJX2IoXj6fen83X) | 2:58 | 2022-10-07 | 2022-11-24 |
 | [Worldwide Party](https://open.spotify.com/track/5DKa9niZdClA8cuaOUsIou) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/2M2DH2Zng8tlhJ4EIeW53N) | 2:58 | 2022-11-23 |  |
+| [You Just Got Detention](https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Songs From The Hit YouTube Kids Show: Season One](https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP) | 3:20 | 2023-06-21 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/16QfYCJ6g1RVi0OOHZ5Iut) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t) | 2:47 | 2021-10-22 | 2022-07-29 |
 | [You Need To Calm Down](https://open.spotify.com/track/2KZ1CShivaQbwlZ1hiH0ze) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:48 | 2022-07-28 |  |
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-18 |  |

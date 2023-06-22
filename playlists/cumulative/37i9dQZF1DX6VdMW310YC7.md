@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,491 songs - 4 day 6 hr 51 min
+1,492 songs - 4 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Home](https://open.spotify.com/track/5xgVwIFfrm3yhLByAKzeYs) | [Mount Dreams](https://open.spotify.com/artist/6Ah6MMotJQevJaj47PDXMV), [Anatomy](https://open.spotify.com/artist/2NtkNBkanVI3q27YRGkASV) | [Home](https://open.spotify.com/album/2wA5firv9r9Vtl96nSMaCS) | 4:35 | 2020-05-18 | 2020-07-03 |
 | [Home \(feat\. AURORA\) \- Lane 8 Remix](https://open.spotify.com/track/6JHVg6uzRGJhHeyiosmWG1) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Home \(feat\. AURORA\) \[Remixes\]](https://open.spotify.com/album/21tfhTQxHNHZ5qPWtlzrJ3) | 7:47 | 2020-02-29\* | 2020-03-16 |
 | [Honeydew](https://open.spotify.com/track/6sBhU1fiwW3LeGd9RiuCMz) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [Honeydew](https://open.spotify.com/album/33dncp2Cj4fINJ38Wn2wBD) | 3:40 | 2021-08-27 | 2022-11-29 |
+| [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 | 2023-06-16 |  |
 | [Hope](https://open.spotify.com/track/3x2ewmvnhRaEPCYKUEY4EB) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Hope](https://open.spotify.com/album/19E368SaCPCcJazFZnhfH7) | 3:56 | 2022-04-29 | 2022-12-29 |
 | [Hope \- Parra For Cuva Remix](https://open.spotify.com/track/3TTsR15N3XY4G6z7F4eMwF) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [One Hundred Billion Sparks Remixed](https://open.spotify.com/album/4OIZvVt94hWeqwaSuIz7Uh) | 5:53 | 2020-03-16 | 2022-10-13 |
 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 | 2021-10-08 | 2022-07-28 |
@@ -1442,7 +1443,7 @@
 | [Where’s My Mind](https://open.spotify.com/track/7uWmtQRpPm134u2xyI8ocS) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [About Life](https://open.spotify.com/album/2ice5heUx8QI1WBKK4tkjy) | 6:20 | 2022-02-25 | 2022-10-01 |
 | [Whispering Still \(feat\. Charity Children\) \- Little Rose Remix](https://open.spotify.com/track/3D3Tkk0d9UmECpH5Fprmuv) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Charity Children](https://open.spotify.com/artist/0i5oKqsPL21cwL7acxZfNI), [Little Rose](https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI) | [Whispering Still \(Little Rose Remix\)](https://open.spotify.com/album/60uPPIcHMk4CIhs4hgOQXJ) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Whole Heart](https://open.spotify.com/track/4Z1t1aMRif8ES212kTN8H2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Whole Heart](https://open.spotify.com/album/5LKilxrPSOHakkR3V56YYZ) | 3:45 | 2020-05-18 | 2020-07-03 |
-| [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 | 2023-05-26 |  |
+| [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 | 2023-05-26 | 2023-06-22 |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2021-08-13 |  |
 | [Why Do We Shake In The Cold? \- Edit](https://open.spotify.com/track/64Eji6WqA3iHTwAa9DzZll) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/2c3KlBXKcaebkmPkR4sZSg) | 4:04 | 2020-08-20 | 2021-01-11 |
 | [Why Not](https://open.spotify.com/track/63fZmLcCAnG1tgGlqLQf0e) | [UTAH](https://open.spotify.com/artist/4n9KeaJeVwx1408RaOsUgL) | [Long Play](https://open.spotify.com/album/2528arkGrs9T77vJsE6nlM) | 3:16 | 2020-07-03 | 2020-10-09 |

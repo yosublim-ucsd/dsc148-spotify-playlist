@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 144521,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ"
@@ -1750,6 +1750,28 @@
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "album": {
+        "name": "Play this at my Funerals",
+        "url": "https://open.spotify.com/album/1SGpWhYIw9Lc02pDLke3bt"
+      },
+      "artists": [
+        {
+          "name": "Kadebostany",
+          "url": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143389,
+      "name": "Wild in Secret",
+      "url": "https://open.spotify.com/track/2jDNpZI9Ydk25K8qMCjpUc"
     },
     {
       "album": {

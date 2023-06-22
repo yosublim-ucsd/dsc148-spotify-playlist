@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-370 songs - 1 day 2 hr 57 min
+375 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [FOREVER LOVE](https://open.spotify.com/track/6nb0OhEI4AeCsPCrpquydA) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Forever Love](https://open.spotify.com/album/0ifbV7WWgPrqCOy5NMqJpx) | 8:43 | 2022-12-07 | 2023-01-12 |
 | [frozen eyez](https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:14 | 2022-06-07 | 2022-06-23 |
 | [GATE \- Soreha akatsukinoyouni](https://open.spotify.com/track/1skcbqJjFPWnXrwpSUgXmO) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [GATE \- Soreha akatsukinoyouni](https://open.spotify.com/album/5nGDV3rpVKSzNJhMrhdpDT) | 3:47 | 2023-01-28 |  |
+| [Get No Satisfaction!](https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:10 | 2023-06-21 |  |
 | [Get Wild](https://open.spotify.com/track/2l5JCe1KiH2BES2LlqR4AX) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Get Wild](https://open.spotify.com/album/2tIQ5SrcEJEojxba5YYJ8V) | 4:00 | 2022-12-07 | 2023-01-12 |
 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 | 2022-08-30 | 2023-01-12 |
 | [GIVE ME LOVE \- fhána Rainy Flow Ver.](https://open.spotify.com/track/6b0CCBrgCPwE8tFyhvaOhn) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [愛のシュプリーム!【アニメ盤】](https://open.spotify.com/album/4vOi6tqJA42xBAHzS4EWXJ) | 3:34 | 2022-06-07 | 2022-06-23 |
@@ -160,6 +161,7 @@
 | [RIDE ON SHOOTING STAR](https://open.spotify.com/track/6O4t5H68WJNd8RQjZcu2Oj) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [FLCL Season 1 Vol\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5qRZrLQSAnZkhdvQtR8MpT) | 2:22 | 2023-05-02 |  |
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2022-08-30 | 2023-01-12 |
 | [Rumbling hearts](https://open.spotify.com/track/1EU4qljfL1lZbV1ff9tik8) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 4:45 | 2023-05-30 |  |
+| [Rune ga Pikatto Hikattara \(Live Ver.\)](https://open.spotify.com/track/1QmCazsMsaielqF7iTM9x9) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [\[Macross Delta\] Live Best Album \[Absolute LIVE!!!!!\] Vol.1 LIVE from Walkure Attack!](https://open.spotify.com/album/16d0cGm0s2arjNsNVyunZx) | 6:11 | 2023-06-21 |  |
 | [Saihate](https://open.spotify.com/track/1jGOEBcjq9Wru5ABX6zumY) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [fruitful spring](https://open.spotify.com/album/4pXEaekMG4wN2fVw5Sr3l2) | 4:55 | 2023-01-27 |  |
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2022-08-02 | 2023-01-12 |
 | [Shangri\-La](https://open.spotify.com/track/3OxCaZnYX1pJA7CwV5rZ9O) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [I/O](https://open.spotify.com/album/5xeMXXALsJIvSfEDWyG0PB) | 4:40 | 2023-01-29 |  |
@@ -180,6 +182,7 @@
 | [stone cold](https://open.spotify.com/track/0VI3E1BtH30BcD9IPWCeCF) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 5:58 | 2023-05-16 |  |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-19 | 2023-01-12 |
 | [STONE OCEAN](https://open.spotify.com/track/538rTRGRJqV1L0P8DiSN4V) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1sbyyG5uTdaWHxcr8s85iv) | 3:29 | 2022-06-07 | 2022-07-29 |
+| [stray](https://open.spotify.com/track/7swECnbepUVzrMmUIBbXC2) | [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 5:22 | 2023-06-21 |  |
 | [STRIKE THE BLOOD](https://open.spotify.com/track/7zLqXlnPVwv2FQFWqRbX9G) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [STRIKE THE BLOOD](https://open.spotify.com/album/3FT0nwFT8Puwh4NlP04xsb) | 4:02 | 2023-01-28 |  |
 | [suddenly\~巡り合えて\~](https://open.spotify.com/track/2Jg1umSdTxZOGnHkyEwv16) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [MAGIC ATTRACTION](https://open.spotify.com/album/4h5mEy767IqzZ5ZW0eF1vJ) | 4:32 | 2022-10-12 | 2023-01-12 |
 | [Synthetic Sympathy](https://open.spotify.com/track/14YkayZQGmbxQpGApfxpUZ) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/62uq5JHze5hCeXhlWkBY1h) | 3:06 | 2023-01-29 |  |
@@ -275,6 +278,7 @@
 | [パララックス・ビュー](https://open.spotify.com/track/1KjpWTg2uHTYUIpHVKNCsv) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [20世紀の逆襲](https://open.spotify.com/album/3egajtMgA5sY4yNaPJl1t3) | 4:35 | 2023-01-28 |  |
 | [ヒカリアレ](https://open.spotify.com/track/2KP76NyUIH8XNvWa84lRPi) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ヒカリアレ](https://open.spotify.com/album/6P3es2NRZNMLV5VcQVT46r) | 4:04 | 2022-06-07 | 2022-06-23 |
 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 | 2022-06-07 | 2022-06-23 |
+| [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 | 2023-06-21 |  |
 | [ビードロ模様](https://open.spotify.com/track/4r33Tn9OGS6XNgDA3v0Ais) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ビードロ模様](https://open.spotify.com/album/1KHdG99TKNaU5gMhSWPqqb) | 4:51 | 2022-06-07 | 2022-06-23 |
 | [ピンキーフック](https://open.spotify.com/track/6v92TWCVNDylw7mgARlQdF) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Apiacere](https://open.spotify.com/album/0SmPHcLtOFL7cwPwu07sQr) | 4:15 | 2022-12-07 | 2023-01-28 |
 | [フェリチータ](https://open.spotify.com/track/1YeU4q2PYUCZmHkkMkVcPD) | [安野希世乃](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [「ARIA The CREPUSCOLO」オープニング&エンディングテーマ フェリチータ/echoes\(ARIA盤\)](https://open.spotify.com/album/3XACMz2HrtzzLQNh8EtcAz) | 4:56 | 2022-06-07 | 2022-06-23 |
@@ -357,6 +361,7 @@
 | [空色デイズ](https://open.spotify.com/track/4nogPuOo4AOHNGfy3hNA7P) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [Big☆Bang!!!](https://open.spotify.com/album/6bxrgkhcxQSeV4yEgIkMfR) | 4:11 | 2022-09-27 | 2023-01-12 |
 | [約束はいらない](https://open.spotify.com/track/2aMq7JJTMsFqxBORGjnY1c) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [約束はいらない](https://open.spotify.com/album/0UXM1HwBhBraeQl2okP8Db) | 3:32 | 2022-11-08 | 2023-01-12 |
 | [群青インフィニティ](https://open.spotify.com/track/5z2HCb9uJOhoJCpF8iHLGB) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [群青インフィニティ](https://open.spotify.com/album/1kMRbrBCEe2zMq9bvAM2Vq) | 5:04 | 2022-06-07 | 2022-06-23 |
+| [翼はPleasure Line](https://open.spotify.com/track/21BjjDZQpQtb1waVXn1c9n) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 4:36 | 2023-06-21 |  |
 | [花](https://open.spotify.com/track/2K5HWYTtLQOx9UFT5nU4jO) | [Asa\-Chang & Junray](https://open.spotify.com/artist/0AODSrFsTbyXq7Wnp7LfBV) | [花 \-20周年記念集\-](https://open.spotify.com/album/4S8634K4gH49wljTxptykO) | 6:46 | 2022-08-02 | 2023-01-12 |
 | [裏切りの夕焼け](https://open.spotify.com/track/3CmSagHUDDSpoMhn3tqvdR) | [THEATRE BROOK](https://open.spotify.com/artist/45mcHOr3FnakkF8oXLyhkr) | [裏切りの夕焼け](https://open.spotify.com/album/35hkp79Ri9SdFBUJ3zCmiL) | 3:28 | 2022-11-22 | 2023-01-12 |
 | [記憶](https://open.spotify.com/track/3oSchkfPihmNyKwM5fGXFE) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [Theory of evolution](https://open.spotify.com/album/52h7qsPBTRrpNkmFEbHY7y) | 6:32 | 2022-06-22 | 2023-01-12 |

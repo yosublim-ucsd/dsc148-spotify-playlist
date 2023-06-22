@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 354363,
+  "num_followers": 354518,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGJmOTg0NTY4MDRiMjczMGM4ZjY2ZjAzNmZhMWU3MzBkZTFkMTcx",
+  "snapshot_id": "MCxiZjM3ZDljODNiZTg0Y2NiMDIyMjU0NWM4YWU5ZjQyZDU1MmQ1YTNk",
   "tracks": [
     {
       "added_at": "2023-06-01 16:22:38",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -731,22 +711,22 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 212773,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+      "duration_ms": 213946,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -763,6 +743,26 @@
       "duration_ms": 145840,
       "name": "Used to Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 140698,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
         "name": "I Was Made",
         "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
       },
@@ -835,22 +855,22 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+        "name": "Hear Me Tonight",
+        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+          "name": "THRDL!FE",
+          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
         }
       ],
-      "duration_ms": 140698,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+      "duration_ms": 188500,
+      "name": "Hear Me Tonight",
+      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -919,26 +939,6 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
-        "name": "Hear Me Tonight",
-        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "THRDL!FE",
-          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Hear Me Tonight",
-      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
     },
     {
       "added_at": "2023-06-01 16:22:38",

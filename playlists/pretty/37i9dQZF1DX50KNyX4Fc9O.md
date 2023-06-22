@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Cat & Calmell
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,564 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,567 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 20 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 |
 | 21 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 22 | [boring](https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT) | [kate gill](https://open.spotify.com/artist/33xEE8UWA6WNNAev0Ctn6Y) | [boring](https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2) | 3:40 |
-| 23 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go EP](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
+| 23 | [Good Times Go](https://open.spotify.com/track/6iO8dAiOA3gnVHMCRfDwDy) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:27 |
 | 24 | [Girls!](https://open.spotify.com/track/3ZALUrmCyponBGvuBHuJQa) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Girls!](https://open.spotify.com/album/5R2N0QoR6XN5QwedwVn7jW) | 2:56 |
 | 25 | [Don't Play Me](https://open.spotify.com/track/43pneUzp06Vntu7XcBaon6) | [Dylan Jett](https://open.spotify.com/artist/1lVI7cnpOOQbZ7drrB3S9W) | [Don't Play Me](https://open.spotify.com/album/4c4DIe9BqJLsM5xMUu6vHJ) | 2:04 |
 | 26 | [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [A Long Time Coming](https://open.spotify.com/track/5vN5SUauKK3Z4l4yOuvF9I) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [A Long Time Coming](https://open.spotify.com/album/39yUUVakSBSoqIWg2JTvbv) | 2:47 |
 | 99 | [GO](https://open.spotify.com/track/5LuMzEBhXsbQpsy6vNKbYQ) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [GO](https://open.spotify.com/album/6Z8kJRbiWBPx4rsVcznL11) | 3:08 |
 
-Snapshot ID: `MCwzYzE0ZjkyMDE1YWU0NDMxN2EzYmNjZTgzMDY3NjNlYjU1ODliYjU1`
+Snapshot ID: `MCwyZjhjMzFiNjQxMzJmNjk2NTZmMTY3YzkzZDg4NTY5NWU0NDFkMzNm`

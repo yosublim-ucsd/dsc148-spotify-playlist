@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Daavula Darling",
+        "url": "https://open.spotify.com/album/2dmsXLOxnl5f0jlUFk7ISX"
+      },
+      "artists": [
+        {
+          "name": "Gana Ulaganathan",
+          "url": "https://open.spotify.com/artist/0xtvx5hHw1uN34pEC6euTe"
+        },
+        {
+          "name": "Gana Vimala",
+          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241111,
+      "name": "Daavula Darling",
+      "url": "https://open.spotify.com/track/0lFMi29egMLARQNudPnuzo"
+    },
+    {
+      "album": {
         "name": "Dammalu Dumeelu",
         "url": "https://open.spotify.com/album/21d5z8KNjwpo1BZi1FQ9rw"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 93022,
+  "num_followers": 93113,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE4YzI1YTM3M2NjYzlkZDc1ZWJiYmRlZTdmMTdkMWM3YzgyZTMz",
+  "snapshot_id": "MCw5ZjE5NGRlN2FmYjVmNmZlNWNlYTZmNGI2Y2UyMDQwMTZkMTNmZTI2",
   "tracks": [
     {
       "added_at": "2023-06-20 15:00:00",
@@ -568,7 +568,7 @@
       "added_at": "2023-06-20 15:00:00",
       "album": {
         "name": "Ruthless",
-        "url": "https://open.spotify.com/album/6bKz6IAUcZBXo4CulgbQV5"
+        "url": "https://open.spotify.com/album/3g9ud1Fg6Azr0i9FI47zN0"
       },
       "artists": [
         {
@@ -578,7 +578,7 @@
       ],
       "duration_ms": 183693,
       "name": "Ruthless",
-      "url": "https://open.spotify.com/track/2znUvInSCRzXIg8CG4ppNc"
+      "url": "https://open.spotify.com/track/1O6Afquoyx9SAEWEuT4JV6"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -603,38 +603,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Bokurano",
-        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 212708,
-      "name": "Bokurano",
-      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "\u30a2\u30f3\u30c0\u30fc\u30e1\u30f3\u30bf\u30ea\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/4v0IPktCIEZCtqh6Z0fvGB"
-      },
-      "artists": [
-        {
-          "name": "TUYU",
-          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
-        }
-      ],
-      "duration_ms": 225083,
-      "name": "\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5usrW9VzreLcGpj3R3mtJo"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "\u733f\u829d\u5c45",
         "url": "https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 175000,
       "name": "\u733f\u829d\u5c45",
       "url": "https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "Under Mentality",
+        "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "duration_ms": 225083,
+      "name": "Rain Fall",
+      "url": "https://open.spotify.com/track/4V61GmoW19aSrFxw4DMhqy"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
     },
     {
       "added_at": "2023-06-20 15:00:00",

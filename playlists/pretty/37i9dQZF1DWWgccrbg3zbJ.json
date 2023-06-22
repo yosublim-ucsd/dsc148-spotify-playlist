@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 117676,
+  "num_followers": 117934,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDRiZjFjY2YzYzVkMzYzYWZmMTVjNDQ3ZjlmMWU1MTU5YmVlNDFi",
+  "snapshot_id": "MCw2NTc1Y2ZiNDUyZTI0ZGUyNzE5M2FjOTQ4N2FjMWY1NDNkOWI0ZjBi",
   "tracks": [
     {
       "added_at": "2023-06-20 12:42:46",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Bluchanga",
-        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
+        "name": "Chico Buarque De Hollanda N\u00ba4",
+        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Bluchanga",
-      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
+      "duration_ms": 147840,
+      "name": "Gente Humilde",
+      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
+        "name": "Bluchanga",
+        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Bluchanga",
+      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
+    },
+    {
+      "added_at": "2023-06-20 12:42:46",
+      "album": {
         "name": "Nara Dez Anos Depois",
         "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 152933,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
-    },
-    {
-      "added_at": "2023-06-20 12:42:46",
-      "album": {
-        "name": "Chico Buarque De Hollanda N\u00ba4",
-        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Gente Humilde",
-      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+        "name": "Gilbertos Samba",
+        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+      "duration_ms": 242493,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/3Vjr3IYUWrhfcM1rmOXaIn"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Gilbertos Samba",
-        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/3Vjr3IYUWrhfcM1rmOXaIn"
-    },
-    {
-      "added_at": "2023-06-20 12:42:46",
-      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
@@ -759,6 +743,26 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
+    },
+    {
+      "added_at": "2023-06-20 12:42:46",
+      "album": {
+        "name": "Mr. Bossa Nova",
+        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
+      },
+      "artists": [
+        {
+          "name": "Quarteto do Rio",
+          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -787,18 +791,18 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
       },
       "artists": [
         {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/1H3vHQSD9528EfWpoXaQik"
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Mr. Bossa Nova",
-        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
       "artists": [
         {
-          "name": "Quarteto do Rio",
-          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
+      "duration_ms": 204093,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/1H3vHQSD9528EfWpoXaQik"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+        "name": "A Bossa de Cauby Peixoto",
+        "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Cauby Peixoto",
+          "url": "https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v"
         }
       ],
-      "duration_ms": 181453,
-      "name": "One Note Samba - Live",
-      "url": "https://open.spotify.com/track/1sIa27mKwinFFyXblq19ZQ"
+      "duration_ms": 157333,
+      "name": "At\u00e9 Quem Sabe",
+      "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -899,22 +895,6 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
-        "name": "A Bossa de Cauby Peixoto",
-        "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
-      },
-      "artists": [
-        {
-          "name": "Cauby Peixoto",
-          "url": "https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "At\u00e9 Quem Sabe",
-      "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
-    },
-    {
-      "added_at": "2023-06-20 12:42:46",
-      "album": {
         "name": "O Poeta e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 246453,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
+    },
+    {
+      "added_at": "2023-06-20 12:42:46",
+      "album": {
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "One Note Samba - Live",
+      "url": "https://open.spotify.com/track/1sIa27mKwinFFyXblq19ZQ"
     },
     {
       "added_at": "2023-06-20 12:42:46",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-06-20 12:42:46",
       "album": {
+        "name": "Personalidade",
+        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 414200,
+      "name": "Samba Da Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn"
+    },
+    {
+      "added_at": "2023-06-20 12:42:46",
+      "album": {
         "name": "The Music of Brazil / Maysa , Vol. 1 / Recordings 1956 - 1958",
         "url": "https://open.spotify.com/album/6Y3pcIFa5TX6GBJh3A2boh"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 187626,
       "name": "Samba De Verao",
       "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
-    },
-    {
-      "added_at": "2023-06-20 12:42:46",
-      "album": {
-        "name": "Personalidade",
-        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 414200,
-      "name": "Samba Da Ben\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn"
     },
     {
       "added_at": "2023-06-20 12:42:46",

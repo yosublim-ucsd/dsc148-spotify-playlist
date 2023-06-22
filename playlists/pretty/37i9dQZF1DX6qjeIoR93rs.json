@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 45384,
+  "num_followers": 45415,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmNlMTQ3MGNlZDY4NGFlM2E2YzAyZDU0NThiOTZhNDBhMzI1ZDNi",
+  "snapshot_id": "MCxkZWI2Y2NlZGMyOWJjMzUzNDg1NGZlNjg0ZmI1NzZiMGZkNmRiNDJk",
   "tracks": [
     {
       "added_at": "2023-06-15 07:02:44",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Muntasib Alqamah Amshi",
-        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 240195,
-      "name": "Dammi Falastini",
-      "url": "https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Haifa in a Tesla",
         "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 165591,
       "name": "Haifa in a Tesla",
       "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Muntasib Alqamah Amshi",
+        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 240195,
+      "name": "Dammi Falastini",
+      "url": "https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
+        "name": "Nirvana in Gaza",
+        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Nirvana in Gaza",
+      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
         "name": "Jdeed, Vol. 3",
         "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 312032,
       "name": "Hada el 7aki 3eh",
       "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
-        "name": "Dalaa Dalouna",
-        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Dalaa Dalouna",
-      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Nirvana in Gaza",
-        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+        "name": "Dalaa Dalouna",
+        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
         }
       ],
-      "duration_ms": 183870,
-      "name": "Nirvana in Gaza",
-      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+      "duration_ms": 199334,
+      "name": "Dalaa Dalouna",
+      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Can I Live",
-        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
-      },
-      "artists": [
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 317241,
       "name": "Long Live Palestine 3",
       "url": "https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Dabke System",
-        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 342784,
-      "name": "Dabke System",
-      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Mariam",
         "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235000,
       "name": "Mariam",
       "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Dabke System",
+        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 342784,
+      "name": "Dabke System",
+      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Muntasib Alqamah Amshi",
-        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 363206,
-      "name": "Erfaa Rasak",
-      "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Tareeq",
         "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 255066,
       "name": "Al Rozana",
       "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Muntasib Alqamah Amshi",
+        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Erfaa Rasak",
+      "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -1083,6 +1083,22 @@
       "duration_ms": 225880,
       "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
       "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "NAS",
+        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 326387,
+      "name": "NAS",
+      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "NAS",
-        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 326387,
-      "name": "NAS",
-      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Checkpoint Rock: Canciones Desde Palestina",
         "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 292413,
       "name": "Yalah Yalah Ramallah",
       "url": "https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Shauq",
+        "url": "https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 333640,
+      "name": "Sitti (Grandma)",
+      "url": "https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -1203,22 +1219,6 @@
       "duration_ms": 166421,
       "name": "Bel7afli",
       "url": "https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
-      },
-      "artists": [
-        {
-          "name": "Fadi Ammous",
-          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
     }
   ],
   "unique_name": "Palestine Sounds",

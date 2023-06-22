@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 27211,
+  "num_followers": 27218,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjlkODQ1NTc0YmM3M2MwYzQ3NGZmZWQzMjhlNGRiNDE5ZDg0Nzc0",
+  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 158032,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Perlen",
         "url": "https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 192591,
       "name": "Durch die Nacht",
       "url": "https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 158032,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Weil mein Herz ein L\u00fcgner ist",
-        "url": "https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Weil mein Herz ein L\u00fcgner ist",
-      "url": "https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 154000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Weil mein Herz ein L\u00fcgner ist",
+        "url": "https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Weil mein Herz ein L\u00fcgner ist",
+      "url": "https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo"
-      },
-      "artists": [
-        {
-          "name": "Anna-Sophie",
-          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
-        }
-      ],
-      "duration_ms": 165692,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo"
+      },
+      "artists": [
+        {
+          "name": "Anna-Sophie",
+          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "Polly Pocket",
         "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 169917,
       "name": "Polly Pocket",
       "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2"
-      },
-      "artists": [
-        {
-          "name": "LAYLA",
-          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
-        }
-      ],
-      "duration_ms": 169777,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -479,18 +463,34 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Welle Vol. 1",
-        "url": "https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV"
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2"
       },
       "artists": [
         {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9"
+          "name": "LAYLA",
+          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
         }
       ],
-      "duration_ms": 173118,
-      "name": "Baddest Bitch",
-      "url": "https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM"
+      "duration_ms": 169777,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Feuer",
+        "url": "https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "duration_ms": 174995,
+      "name": "Feuer",
+      "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Feuer",
-        "url": "https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl"
+        "name": "Welle Vol. 1",
+        "url": "https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV"
       },
       "artists": [
         {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9"
         }
       ],
-      "duration_ms": 174995,
-      "name": "Feuer",
-      "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
+      "duration_ms": 173118,
+      "name": "Baddest Bitch",
+      "url": "https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM"
     },
     {
       "added_at": "2023-06-06 22:00:00",

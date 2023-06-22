@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 23135,
+  "num_followers": 23165,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5NGJiMzczOTlhMjVkNTI3ZDkyMzc3YjZmMjRiMTlmMDg5ZDY2",
+  "snapshot_id": "MCw3MTg1MTQ3N2JkZTM0YmQzMWQxMTg4ODUwOTk2ZWQ0ZjM2MTA1MDk5",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:08",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
+        "name": "TIME DIFFERENCE",
+        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+      },
+      "artists": [
+        {
+          "name": "AARON",
+          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+        }
+      ],
+      "duration_ms": 197552,
+      "name": "TIME DIFFERENCE",
+      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -487,26 +503,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
-      },
-      "artists": [
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "TIME DIFFERENCE",
-        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
       "artists": [
         {
-          "name": "AARON",
-          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 197552,
-      "name": "TIME DIFFERENCE",
-      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 199026,
       "name": "FALL IN LUST",
       "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "EMO #1",
         "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 217489,
       "name": "Justin Bieber (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -811,30 +811,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "RESONANCE",
-        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
-      },
-      "artists": [
-        {
-          "name": "blienty",
-          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 163163,
-      "name": "24K (feat. Kvsh, DUT2)",
-      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
+      },
+      "artists": [
+        {
+          "name": "blienty",
+          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 163163,
+      "name": "24K (feat. Kvsh, DUT2)",
+      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
     },
     {
       "added_at": "2023-06-13 08:58:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-13 08:58:08",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 160443,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
-    },
-    {
-      "added_at": "2023-06-13 08:58:08",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224000,
       "name": "Harujongil",
       "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+    },
+    {
+      "added_at": "2023-06-13 08:58:08",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
       "added_at": "2023-06-13 08:58:08",

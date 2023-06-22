@@ -1,13 +1,125 @@
 {
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Nidhi Rawat , Artwork: Isu Kim",
-  "num_followers": 44590,
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shirina Biswas , Artwork: Isu Kim",
+  "num_followers": 44612,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTFjOGZiMjU5NDA0YTkxZGE2NjNmYTU2YzIxNzY3MzgzMDQzOTI4",
+  "snapshot_id": "MCwxNGM1ZDY5ODk5ZjBkMDg1MDRiMDg4NDFjNTNiNjljOThkNjJmZGYz",
   "tracks": [
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Wonderlands In Alice",
+        "url": "https://open.spotify.com/album/2sJRhepc1zmIHgU7EDeI1h"
+      },
+      "artists": [
+        {
+          "name": "Shirina Biswas",
+          "url": "https://open.spotify.com/artist/2UPyJ2affDvadQFO30lsjD"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Wonderlands In Alice",
+      "url": "https://open.spotify.com/track/5QCcXJBCqF8kSCd5ulaf4h"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Nazaare",
+        "url": "https://open.spotify.com/album/2J8NUVYbewnR82x4dqrcul"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        }
+      ],
+      "duration_ms": 213152,
+      "name": "Nazaare",
+      "url": "https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Barsaat",
+        "url": "https://open.spotify.com/album/1Y88C2cAMKYGQprr8b9EHA"
+      },
+      "artists": [
+        {
+          "name": "Aysh K",
+          "url": "https://open.spotify.com/artist/7078EoOq7u43k3NjWxML3z"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Barsaat",
+      "url": "https://open.spotify.com/track/4NLVsU2UqzfEmrbiCOLkSK"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Fitoor",
+        "url": "https://open.spotify.com/album/2SCFdzQvcBHANGALzgeB61"
+      },
+      "artists": [
+        {
+          "name": "Third Hour",
+          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
+        }
+      ],
+      "duration_ms": 140210,
+      "name": "Fitoor",
+      "url": "https://open.spotify.com/track/4epUtWMaUTjrk15xWzDVsk"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Tu Mera Hua",
+        "url": "https://open.spotify.com/album/2wGBJjqmgEGzjkQXgSXB4j"
+      },
+      "artists": [
+        {
+          "name": "Fiza Sharma",
+          "url": "https://open.spotify.com/artist/0nO3GOfwxl7jmysKqzPOaT"
+        }
+      ],
+      "duration_ms": 248031,
+      "name": "Tu Mera Hua",
+      "url": "https://open.spotify.com/track/54EiaA4kY2TmTYXYdQ1KuH"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/54dxanZEoxqukmYhsslk2s"
+      },
+      "artists": [
+        {
+          "name": "Postcard17",
+          "url": "https://open.spotify.com/artist/7JVLj2aW4SlCtsnCjWunkz"
+        }
+      ],
+      "duration_ms": 254250,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/2RrrBan1UEgGM3C15RHbpg"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Comfortable Paralyses and Effortless Fallacies",
+        "url": "https://open.spotify.com/album/61LHs9CWp3Un17pGzNjxGe"
+      },
+      "artists": [
+        {
+          "name": "The Sitch",
+          "url": "https://open.spotify.com/artist/4i7pfkt1ODSa56cOkQ9zcn"
+        }
+      ],
+      "duration_ms": 249041,
+      "name": "Comfortable Paralyses and Effortless Fallacies",
+      "url": "https://open.spotify.com/track/61kSxrUSHRzBXcA08sMGUx"
+    },
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
@@ -119,6 +231,22 @@
       "duration_ms": 147300,
       "name": "I'm Bad At Love",
       "url": "https://open.spotify.com/track/3Ki3nqQVZaj1djhNSUmsxJ"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Tumble",
+        "url": "https://open.spotify.com/album/4PT6B0it4f6r0jOMLMREVf"
+      },
+      "artists": [
+        {
+          "name": "Loose Puppets",
+          "url": "https://open.spotify.com/artist/0F8Op5goALjWe9TuPxvEAl"
+        }
+      ],
+      "duration_ms": 174078,
+      "name": "Tumble",
+      "url": "https://open.spotify.com/track/0OtVXnz2McJuVlRZbrfOlZ"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1203,26 +1331,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Maahi Ve",
-        "url": "https://open.spotify.com/album/63MgYk376xqxQnAelGFo5W"
-      },
-      "artists": [
-        {
-          "name": "Dhidipon Dowarah",
-          "url": "https://open.spotify.com/artist/6Jo2vlcbQNZS1hBusXJzen"
-        },
-        {
-          "name": "Bastov",
-          "url": "https://open.spotify.com/artist/1L1sWpxfUtnTtySdjRGztp"
-        }
-      ],
-      "duration_ms": 229303,
-      "name": "Maahi Ve",
-      "url": "https://open.spotify.com/track/67CqL411a5F40sJIvobrHI"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/0OvbS06QupGdvdpeDWJBY0"
       },
@@ -1347,22 +1455,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Kabhii",
-        "url": "https://open.spotify.com/album/5s9RViSx78pW9MeUOraHEo"
-      },
-      "artists": [
-        {
-          "name": "Nishant Singh Rajput",
-          "url": "https://open.spotify.com/artist/4SUHxaglZsbzu3lBAvqS3V"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Kabhii",
-      "url": "https://open.spotify.com/track/2se0iPyqgfPfY3pPlpMJmA"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Bhare Bhare Se Naina",
         "url": "https://open.spotify.com/album/5UW8dp3XgJXqvDs6uVBd9o"
       },
@@ -1411,22 +1503,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Rehnuma",
-        "url": "https://open.spotify.com/album/2m9aLdoGS6Q1st19pyUyQd"
-      },
-      "artists": [
-        {
-          "name": "Atul Gupta",
-          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
-        }
-      ],
-      "duration_ms": 211359,
-      "name": "Rehnuma",
-      "url": "https://open.spotify.com/track/7dUdQ5EJcX295vNMPBkHaG"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Chal Phir Wahin",
         "url": "https://open.spotify.com/album/0cR0GZa00ko0d77zAmMhDY"
       },
@@ -1439,22 +1515,6 @@
       "duration_ms": 240000,
       "name": "Chal Phir Wahin",
       "url": "https://open.spotify.com/track/4kSiTJu50XxwaAzpbIyov2"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Rijhaaun",
-        "url": "https://open.spotify.com/album/4iS93adsqTSTkngmcYb6lr"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 270449,
-      "name": "Rijhaaun",
-      "url": "https://open.spotify.com/track/4yguCbiNZVvdJGRMm122Q3"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1475,22 +1535,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Dhoop",
-        "url": "https://open.spotify.com/album/0CMr49eak5L8DzITSYzYYZ"
-      },
-      "artists": [
-        {
-          "name": "Kratu Bhatt",
-          "url": "https://open.spotify.com/artist/7zb7fsHe6SPONF5a4ceXfw"
-        }
-      ],
-      "duration_ms": 190547,
-      "name": "Dhoop",
-      "url": "https://open.spotify.com/track/056kYNzLvMlcPwz3dpwiO4"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Oh Rangreza",
         "url": "https://open.spotify.com/album/6e8gnHEpDhq6CsFAhk6G5m"
       },
@@ -1507,38 +1551,6 @@
       "duration_ms": 262025,
       "name": "Oh Rangreza",
       "url": "https://open.spotify.com/track/4JrTCU3JOJoGgu46aSMB4M"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Kuch Toh Hain",
-        "url": "https://open.spotify.com/album/0NdzX00wmXI0Bv4DF37f2A"
-      },
-      "artists": [
-        {
-          "name": "Sujit Gogoi",
-          "url": "https://open.spotify.com/artist/23XrVbRoxMIBY75bgY5r6x"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "Kuch Toh Hain",
-      "url": "https://open.spotify.com/track/566LBPzJEP9KjbcmfTlSYy"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Daaye Baaye",
-        "url": "https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 192219,
-      "name": "Daaye Baaye",
-      "url": "https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1607,22 +1619,6 @@
       "duration_ms": 214285,
       "name": "Bairagi",
       "url": "https://open.spotify.com/track/35kI7c8aUgLiGZlsiyduDW"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Saanson Ki Baatein",
-        "url": "https://open.spotify.com/album/41ah06Q7eu9sequA1ZaNLu"
-      },
-      "artists": [
-        {
-          "name": "Gamak",
-          "url": "https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN"
-        }
-      ],
-      "duration_ms": 323863,
-      "name": "Saanson Ki Baatein",
-      "url": "https://open.spotify.com/track/4lDdywqvrKQ7SVt1TLmyDn"
     },
     {
       "added_at": "2023-06-14 06:08:17",

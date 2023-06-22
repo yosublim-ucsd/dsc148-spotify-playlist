@@ -4,7 +4,7 @@
 
 > Uptempo jazz classics.
 
-112 songs - 12 hr 16 min
+113 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,9 +84,10 @@
 | [On the Que\-Tee](https://open.spotify.com/track/2S4zpjfSKapsaSbDKTx9vK) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 5:47 | 2023-03-24 |  |
 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 | 2023-03-24 |  |
 | [Open Sesame \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 7:11 | 2023-03-24 |  |
-| [Orbits](https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 4:35 | 2023-03-24 |  |
+| [Orbits](https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 4:35 | 2023-03-24 | 2023-06-22 |
 | [Ornithology](https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Genius Of Charlie Parker](https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ) | 3:02 | 2023-03-24 |  |
 | [Our Man Higgins](https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 8:54 | 2023-03-24 |  |
+| [Ping Pong](https://open.spotify.com/track/1cjVMCYoLlzZ6AeC6fUvZJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Roots And Herbs](https://open.spotify.com/album/6CZhhfK5gP6KOucByv9Hiy) | 7:06 | 2023-06-21 |  |
 | [Prince of Darkness \(feat\. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams\)](https://open.spotify.com/track/6NoKEoRNeiry3tHz830t46) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Sorcerer](https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo) | 6:32 | 2023-03-24 |  |
 | [Rhythm\-A\-Ning](https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Art Blakey's Jazz Messengers With Thelonious Monk \(Deluxe Edition\)](https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe) | 7:17 | 2023-03-24 |  |
 | [Roll Call \- Rudy Van Gelder Edition](https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 10:33 | 2023-03-24 |  |

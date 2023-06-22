@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: TM NETWORK
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,940 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,935 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [no utopia](https://open.spotify.com/track/7G65slkWFlFleLyKawFBXe) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [acetone](https://open.spotify.com/album/1SBnHztfBDSyjlw7ngf58p) | 2:56 |
 | 80 | [13月](https://open.spotify.com/track/6gcTz0u97hwBbTJeO8OZK5) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [III](https://open.spotify.com/album/5RpZJxuIkhiDNSPC9bl2l5) | 8:30 |
 
-Snapshot ID: `MCxkZjQ2NTRiZDYzYWYyNzhhMDgxN2ZkZmUxYWUxOGRiOTVjYjMzNjAx`
+Snapshot ID: `MCwyMDNmY2FhNDljZGY1ZmQ1NDk3ZjNhMDU0YzNkMzY1ZGNjYzIwMDQ3`

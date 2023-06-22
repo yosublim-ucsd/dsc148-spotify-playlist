@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-881 songs - 1 day 14 hr 21 min
+883 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Elvágyódás](https://open.spotify.com/track/5AQuvkfVQFNT5mN1eUB1MR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Elvágyódás](https://open.spotify.com/album/3StYDfy4jqkoG8v3TzNmnp) | 2:02 | 2020-08-14\* | 2021-02-25 |
 | [Elysian](https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Oversoul](https://open.spotify.com/album/5GPrxmIXNWxWUirGs5GxSq) | 3:19 | 2021-10-06 | 2023-03-28 |
 | [Embrace Me](https://open.spotify.com/track/6nHIbgfYfpnh9TDIrNSzve) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 4:01 | 2020-08-14\* | 2020-10-15 |
-| [Emergence de l'Aube](https://open.spotify.com/track/03HMaZlMvtdl8HRkMr30jv) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Emergence de l'Aube](https://open.spotify.com/album/4M8lhArf7nxYD1coJndg7z) | 1:54 | 2023-05-03 |  |
+| [Emergence de l'Aube](https://open.spotify.com/track/03HMaZlMvtdl8HRkMr30jv) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Emergence de l'Aube](https://open.spotify.com/album/4M8lhArf7nxYD1coJndg7z) | 1:54 | 2023-05-03 | 2023-06-22 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2021-10-14 | 2022-04-22 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2020-11-12 | 2021-03-24 |
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2020-08-14\* |  |
@@ -222,6 +222,7 @@
 | [Etude in Em](https://open.spotify.com/track/2peMLXHmImghoblbAkNjIa) | [Bill Prokopow](https://open.spotify.com/artist/0Mj8WEFMgsMyXkMmKIRwJ2) | [Etude in Em](https://open.spotify.com/album/6fbweH68e1XLsyXVuNq4i3) | 5:01 | 2020-09-02 | 2021-05-06 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-11-12 |  |
 | [Eurytmi](https://open.spotify.com/track/2nMjde4kw1yuDyNnu9GJTO) | [Ola Claësson](https://open.spotify.com/artist/3MFfHtQUhTuey7urPpdWqQ) | [Eurytmi](https://open.spotify.com/album/6uLzK7fzvPskfWDDCwLoEj) | 2:39 | 2021-03-14 | 2021-08-05 |
+| [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 | 2023-06-20 |  |
 | [Evergreen Tree](https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Claudia](https://open.spotify.com/album/3jHGLuvTzPVEeXwjXe3HjW) | 3:00 | 2020-08-14\* |  |
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2021-11-12 | 2022-12-24 |
 | [Faire le pont](https://open.spotify.com/track/0n7RacgSiGRYOEKysh0glU) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Faire le pont](https://open.spotify.com/album/7GYy9vKElgUbrFGzrPkWJ3) | 2:02 | 2020-08-14\* | 2021-09-14 |
@@ -255,6 +256,7 @@
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2020-11-12 | 2022-05-21 |
 | [Forever is the Heart](https://open.spotify.com/track/7IYr9hJ2lDINYLivIKG1IU) | [Diamond Thief](https://open.spotify.com/artist/1KGt5E7QcIrmo3j55JWver) | [The Great Outdoors](https://open.spotify.com/album/6x6GdQTj4bQXvYslORF1yQ) | 2:41 | 2020-08-14\* | 2021-08-30 |
+| [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Forgiveness](https://open.spotify.com/track/7IOhTZyPfyCPhO041cdiDv) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:07 | 2020-08-14\* | 2020-12-10 |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2021-03-31 | 2021-08-18 |
@@ -562,7 +564,7 @@
 | [Piano Rain](https://open.spotify.com/track/5UracyOz5UQ8OH86ngaBgb) | [Linda Stephenson](https://open.spotify.com/artist/0BIkcSmX3Ghgcz8TADTocv) | [Piano Rain](https://open.spotify.com/album/1yVUf3YQiJQZfGzC1IfAni) | 3:01 | 2020-08-14\* | 2020-09-02 |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-07-01 |  |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2022-07-19 |  |
-| [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2020-11-12 |  |
+| [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2020-11-12 | 2023-06-22 |
 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 | 2021-10-31 |  |
 | [Pour tes yeux](https://open.spotify.com/track/6FYGyPEvb8g6toIfTwZTOH) | [Genevieve Beaumont](https://open.spotify.com/artist/0h1CKc837hgJJGRRUxP3dJ) | [Pour tes yeux](https://open.spotify.com/album/16Yn1gBuk3U4lzs7siFNzK) | 1:57 | 2020-08-14\* | 2022-05-21 |
 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 | 2020-08-14\* | 2020-08-20 |

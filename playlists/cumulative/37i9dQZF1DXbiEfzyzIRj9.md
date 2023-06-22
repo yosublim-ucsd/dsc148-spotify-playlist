@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Peggy Gou
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Aphex Twin
 
-269 songs - 19 hr 42 min
+270 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/1u2ve7Ju0PMxjIYAAnRzIP) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0u1zCmHt9n4jX7FZIxeztc) | 4:33 | 2023-05-25 |  |
 | [Beee\-Hive](https://open.spotify.com/track/7I2ViRmeZhDSxNBTSwLMXa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Beee\-Hive](https://open.spotify.com/album/5OLSia3v0gJn2bKuDMWcWT) | 4:38 | 2023-06-09 |  |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-16 |  |
+| [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-21 |  |
 | [Bliss](https://open.spotify.com/track/44RvlfCAkKSaYI0XsxUHrU) | [Fybe:One](https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Bliss](https://open.spotify.com/album/1rS8jtRpGvJtvsfBUwvOzj) | 4:24 | 2023-05-19 | 2023-06-09 |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-16 |  |
 | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/album/65rWyGlUaqsWQwYwOLFxIH) | 3:50 | 2023-06-09 |  |

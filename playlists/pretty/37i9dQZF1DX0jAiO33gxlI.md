@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Fabio Brazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,507 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,526 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 2 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
 | 3 | [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 |
 | 4 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
-| 5 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6QIDGlXeq4WhjwXK72Zbbi) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
+| 5 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 6 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
 | 7 | [Era uma Ex](https://open.spotify.com/track/1m9MZZdePVg4uxzGuY819a) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE) | [Era uma Ex](https://open.spotify.com/album/3dDiR9aVEAseyBLjluCWnv) | 2:13 |
 | 8 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
 | 75 | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/track/07UJUwwyi3JLEEtbawn3CL) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/2O5WdoR4ZPa7PtVdT16Nzo) | 5:09 |
 
-Snapshot ID: `MCw0MDRkZTQ1YjUxNzcwMzMyYjdjZjQyMjAyYzA3ZGVhYWEwMjcxNjA4`
+Snapshot ID: `MCxjYmMyNWU1NjFjNTkwZmNkMWY4ODJhMDA4N2E4MjkyNGZkYjExZWJi`

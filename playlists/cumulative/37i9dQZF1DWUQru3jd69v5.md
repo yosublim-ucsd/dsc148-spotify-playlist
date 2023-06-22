@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Mikush e Niky Savage in cover.
 
-609 songs - 1 day 2 hr 32 min
+611 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [GUAP](https://open.spotify.com/track/6SsDsEklz3j7hWCLv7pGyG) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [GUAP](https://open.spotify.com/album/1DWB7jQzzAUYjZAfWBStun) | 2:56 | 2023-04-06 | 2023-05-05 |
 | [Guardo la moon](https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [Guardo la moon](https://open.spotify.com/album/0S4ADNwKbyzj42x2IvSS2w) | 2:39 | 2023-05-18 | 2023-05-26 |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-09-30 |
+| [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 |  |
 | [HALO MONSIEUR](https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HALO MONSIEUR](https://open.spotify.com/album/04Qyq05nMkhB62qURUJk4j) | 3:01 | 2023-01-12 | 2023-02-10 |
 | [Hammamet \(feat\. Security & Kira\)](https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Marchingegno](https://open.spotify.com/album/17FGUh4lQoa0Z4vx0aLXBX) | 2:09 | 2022-12-15 | 2023-01-18 |
 | [HANNIBAL](https://open.spotify.com/track/4goiLHnCVjXQUThiwMGOax) | [Fiore](https://open.spotify.com/artist/4GOWLNptHmjfpDP4HN21Im), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR) | [HANNIBAL](https://open.spotify.com/album/6djlLJmHozqyLytbQlrAS0) | 2:36 | 2022-10-06 | 2022-11-18 |
@@ -516,7 +517,8 @@
 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 | 2022-05-26 | 2022-06-24 |
 | [Sinapsi](https://open.spotify.com/track/2D7GNRfeQjOjd7q3C8t0Rs) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Sinapsi](https://open.spotify.com/album/4nD9hr8u4swzRGm4bWNz42) | 3:00 | 2023-03-30 | 2023-04-14 |
 | [SINCERO](https://open.spotify.com/track/5yONnAl8O86eSD8mFrt95Q) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SINCERO](https://open.spotify.com/album/3jrXY9OJYVcugfHw69vYgQ) | 2:33 | 2022-08-11 | 2022-09-02 |
-| [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 | 2023-05-11 |  |
+| [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/3NLdcu14EPntcZIn3mxSR7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf) | 2:31 | 2023-06-21 |  |
+| [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 | 2023-05-11 | 2023-06-22 |
 | [SKI](https://open.spotify.com/track/2gAJM0gtcA24UXzKmJJDrn) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [SKI](https://open.spotify.com/album/4fCiOCAlxIZnw8s01FAEul) | 2:17 | 2022-08-04 | 2022-08-20 |
 | [Snobbava](https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Snobbava](https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs) | 2:33 | 2023-03-16 |  |
 | [SOCIAL](https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [SOCIAL](https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP) | 2:08 | 2022-09-29 | 2022-10-28 |

@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=NydbujHxT7C\_NvkZWa43FQ">Naomi Raine</a>
 
-380 songs - 1 day 12 hr 57 min
+381 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Blessed Hope](https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Blessed Hope](https://open.spotify.com/album/2op3eogwOF5fW5PlpokiNn) | 6:14 | 2023-01-13 |  |
 | [Bloom \- Live](https://open.spotify.com/track/7ebNynWIxv70Dnkqfyc3rm) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective \(Live\)](https://open.spotify.com/album/0GRiESh2EmEqqIYFIbDdcv) | 6:44 | 2022-08-05 | 2022-10-08 |
 | [Breaking Me Down](https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Breaking Me Down](https://open.spotify.com/album/45E5aRQy738kHrJlxzuGUZ) | 4:17 | 2023-05-05 | 2023-06-02 |
-| [Breaking Me Down](https://open.spotify.com/track/6NikDZyH6T5HtKRcsULDSk) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [No Vacant Thrones](https://open.spotify.com/album/0BJIQ0nnxKYJSKiZfQR62M) | 4:17 | 2023-05-26 |  |
+| [Breaking Me Down](https://open.spotify.com/track/6A2sbpVQxa31IGAyglsLGy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Take Over](https://open.spotify.com/album/2rHDifXL5BVB6mQSE48M0b) | 4:17 | 2023-06-16 |  |
+| [Breaking Me Down](https://open.spotify.com/track/6NikDZyH6T5HtKRcsULDSk) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [No Vacant Thrones](https://open.spotify.com/album/0BJIQ0nnxKYJSKiZfQR62M) | 4:17 | 2023-05-26 | 2023-06-22 |
 | [Breathe \(feat\. Chandler Moore, Jonathan McReynolds, DOE & Mav City Gospel Choir\) \- Studio Version](https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 5:26 | 2022-02-25 | 2022-04-09 |
 | [Broken Into Beautiful \- Live](https://open.spotify.com/track/6AFDiYC7mHnPXSt4B9NoSs) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Broken Into Beautiful \(Live\)](https://open.spotify.com/album/6F5YWV5AkgtdeenIYDFepO) | 6:25 | 2022-12-09 | 2023-02-11 |
 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 | 2022-02-25 | 2022-08-27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDAwMGYyOTRmMTJhOGQyMzE5NDUxMTA1Y2M3Y2YzYzQ0MA==",
+  "snapshot_id": "MjgxMTQ4MDAsMDAwMDAwMDA2NDA5MWY0OTMyZGNmZjU1MzA2ZjI4MDdjMTk2NTBhZg==",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 385052,
       "name": "I Think About You Daily",
       "url": "https://open.spotify.com/track/5FEvmd6D7RNHkAbBHdy3wV"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace (15th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YGXlFehYvg5MuzMPfgkdp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "You're Gonna Go Far, Kid - Live At Hellfest 2022",
+      "url": "https://open.spotify.com/track/22wm7544Ew8QlwCTEAh4hK"
     },
     {
       "added_at": "2023-06-16 04:00:00",

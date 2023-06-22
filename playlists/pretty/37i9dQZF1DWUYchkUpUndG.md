@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"> We Will Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,443 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,539 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 15 | [Coming Home](https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [Coming Home](https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd) | 3:19 |
 | 16 | [UKA](https://open.spotify.com/track/2K6YgZNNK7ZcE5nWa2LxNV) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp), [Emmzz](https://open.spotify.com/artist/0bm9glhmXRiiBFDRUTog5X) | [UKA](https://open.spotify.com/album/5eeFmnTzCakcTr1rzdverK) | 3:11 |
 | 17 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
-| 18 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/7GHIgfZzrmEBa5fAQmQggW) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 |
+| 18 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 |
 | 19 | [Loves](https://open.spotify.com/track/1y6KJhZ5LFKXcW9RcLILJL) | [Blessed Joseph](https://open.spotify.com/artist/1LIwdzPM43phmVUQpGMkAl) | [Loves](https://open.spotify.com/album/5OBBMikmXdesLnJvxN2SAk) | 3:54 |
 | 20 | [Jesus You Set Me Free](https://open.spotify.com/track/6B8rlAW9iprZCrz5zld4qw) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus You Set Me Free](https://open.spotify.com/album/5h4BZhMSikZrXMR1n1b1tv) | 2:43 |
 | 21 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 27 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 |
 | 28 | [Far Away](https://open.spotify.com/track/4BsESP6KASlgiX2qPOLr1S) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH), [Latest gospel praise worship Africa](https://open.spotify.com/artist/1L5Z3bIr274qPHQmxcX8Kp), [Latest Nigerian Gospel](https://open.spotify.com/artist/3Ckv0s7EJRHpmvpjEbd8hC), [Gospel Praise Worship](https://open.spotify.com/artist/7oY1QaWEK1lNeCvcDn5DwZ), [latest Nigerian Release](https://open.spotify.com/artist/1Dn8PMkY1JE2T9dhAxoi7b), [9javibs Gospel Music](https://open.spotify.com/artist/2W0mhvc7qZyxjg1E3UvqWB), [Naija Gospel Praise Worship Team](https://open.spotify.com/artist/4f3B6CochreNZP7neW93kK) | [Far Away](https://open.spotify.com/album/3brGghS70KRzvWHK7tHioZ) | 2:14 |
 | 29 | [Preternatural](https://open.spotify.com/track/476H6f3OLPNIj4poNBzdDk) | [Obed Flames](https://open.spotify.com/artist/3zcRPJjUIXHBPa2QEUgEtr), [MOF](https://open.spotify.com/artist/0WAabvKqQjPexI9UlQZ8sk) | [Preternatural](https://open.spotify.com/album/12q44NPwGwislzlHQyBjOv) | 3:44 |
-| 30 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
+| 30 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
 | 31 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 32 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 |
 | 33 | [Blessings](https://open.spotify.com/track/0E7nx02VQ9ZzYMxuUhnuLQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Rudy](https://open.spotify.com/artist/5oENS3JKpjgNOBrkFKvZqI) | [Blessings](https://open.spotify.com/album/3EDcinXZPsoEBPPgqL27uD) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 | 50 | [Calling you](https://open.spotify.com/track/6B7GADwWCK1yPvZCz8fCAY) | [Peter Ifeanyi](https://open.spotify.com/artist/3CPXdR36B6K5gpdLCuil8g) | [Calling you](https://open.spotify.com/album/6TDAZ11fcm7CiIDnwfHRDZ) | 4:07 |
 
-Snapshot ID: `MCwyM2EzYjI2NDRiOTc3YWRjOWRiMzk1ZmZjNTE3NWZkNWNlMDhjZGU2`
+Snapshot ID: `MCxlOTRlNjkzYWE5NDVmYjNkNjdkYWZkZWMxNTgwYzZhOGYzMjEzZGRi`

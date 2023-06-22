@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"> Oba Reengy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,737 likes - 85 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 85 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 7 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
 | 8 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 9 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 10 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/7GHIgfZzrmEBa5fAQmQggW) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 |
+| 10 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 |
 | 11 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 |
 | 12 | [Dwelling in Your Presence](https://open.spotify.com/track/2c4E6R4mcCKQdjrELBpdVO) | [Douye Ajeh](https://open.spotify.com/artist/2fgSJzayamYbAbx71R2T6V) | [Dwelling in Your Presence](https://open.spotify.com/album/2AYuDNRVK84oGClYMmxX4B) | 3:49 |
 | 13 | [Answer Call](https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Answer Call](https://open.spotify.com/album/1UwO44E4nxapmMRXmioczM) | 3:43 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 36 | [VICTORY DANCE](https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [VICTORY DANCE](https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M) | 9:53 |
 | 37 | [For my good](https://open.spotify.com/track/5Rm7NeUXtHYJrfwNmHKg0s) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:59 |
 | 38 | [Asiwaju](https://open.spotify.com/track/1tbTHTUi3sXr39HQLDfuaR) | [DJ D'mo](https://open.spotify.com/artist/1vTeSzVCEXpzFQMj7R6npQ), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Asiwaju](https://open.spotify.com/album/4vkBSzI4bAEfU5wF3PA97B) | 2:34 |
-| 39 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
+| 39 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
 | 40 | [Look what you've done](https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Look what you've done](https://open.spotify.com/album/1VwL7Cjd9Bs7gDIKAQPbv9) | 8:48 |
 | 41 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 |
 | 42 | [Today](https://open.spotify.com/track/2lYo77nYrYHxK1dfbXOUWr) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Today](https://open.spotify.com/album/42hBSYo8UAZgOvBTdl0Sol) | 3:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 84 | [Normally](https://open.spotify.com/track/43PP6uQTCCX6l3csbG3iVR) | [McKoy](https://open.spotify.com/artist/7ap3Efzaf5HUcjgozkUvEW), [Fazil](https://open.spotify.com/artist/6lwtE1EhV20J6vQ19lYeAd), [Jayson Wealth](https://open.spotify.com/artist/1saeLam3PrBw973vxMaYan) | [Normally](https://open.spotify.com/album/3P7aBiyJgBZJujzQamTaBF) | 2:36 |
 | 85 | [Better](https://open.spotify.com/track/0MCYvRShR4Q2FGArAoqKf3) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 3:11 |
 
-Snapshot ID: `MCwxMDQyYzk4YmM1ZjJhYmI4N2FkOGJmMWNkY2NkNjI0MWM0ZWZhMDVk`
+Snapshot ID: `MCxkNzk2MDM3OTIxNDczODhmZGU0Y2Y1Mjk3YjQzOTU1M2EzYmYzZTlm`

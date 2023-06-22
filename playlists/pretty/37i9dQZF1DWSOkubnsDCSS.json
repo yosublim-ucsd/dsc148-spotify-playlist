@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Sir Spyro\ud83d\udc51 ",
-  "num_followers": 747041,
+  "num_followers": 747039,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjc3MjY0MTIzOTRhZWY3YThiODQzY2IwMmRhZGRkN2UzYmQ2ZWUy",
+  "snapshot_id": "MCxmZTI2YTBkMjhjMmE0MTVkYmFlYzhlNzAyY2FmOTk3OTM0ZGFmZjI5",
   "tracks": [
     {
       "added_at": "2023-05-24 16:29:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
-      },
-      "artists": [
-        {
-          "name": "Genesis Elijah",
-          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Teachers Pets",
         "url": "https://open.spotify.com/album/57ERYkISa1Xx09lksKyTyD"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 223000,
       "name": "Teachers Pets",
       "url": "https://open.spotify.com/track/5HAluJDwIe8r1Zt6ud1tFe"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
+      },
+      "artists": [
+        {
+          "name": "Genesis Elijah",
+          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "No Celebrations EP",
+        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Come From",
+      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Streets of Rage",
         "url": "https://open.spotify.com/album/4FBAK6ZKG1HTBAD9kt4dXl"
       },
@@ -1143,22 +1163,30 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "No Celebrations EP",
-        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
+        "name": "Manny Way",
+        "url": "https://open.spotify.com/album/5wiiDapuFXlGUHrm0h1OQo"
       },
       "artists": [
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Britizen Kane",
+          "url": "https://open.spotify.com/artist/4WKrPvciql1dn1a3A0HIGp"
         },
         {
-          "name": "Abstrakt Sonance",
-          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+          "name": "Turkish Dcypha",
+          "url": "https://open.spotify.com/artist/5o6zDmcCIfP6RAdWUFBoEK"
+        },
+        {
+          "name": "Feeemo",
+          "url": "https://open.spotify.com/artist/1B1wJeqs5jsL3IzdHrx1VB"
+        },
+        {
+          "name": "Mennis",
+          "url": "https://open.spotify.com/artist/3gR8TE5UqFjTa3fbA2Lh30"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Come From",
-      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
+      "duration_ms": 259165,
+      "name": "Manny Way",
+      "url": "https://open.spotify.com/track/6PEagkJ9YVt2viFHheVsDa"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1211,34 +1239,6 @@
       "duration_ms": 285255,
       "name": "Man in Meridian",
       "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Manny Way",
-        "url": "https://open.spotify.com/album/5wiiDapuFXlGUHrm0h1OQo"
-      },
-      "artists": [
-        {
-          "name": "Britizen Kane",
-          "url": "https://open.spotify.com/artist/4WKrPvciql1dn1a3A0HIGp"
-        },
-        {
-          "name": "Turkish Dcypha",
-          "url": "https://open.spotify.com/artist/5o6zDmcCIfP6RAdWUFBoEK"
-        },
-        {
-          "name": "Feeemo",
-          "url": "https://open.spotify.com/artist/1B1wJeqs5jsL3IzdHrx1VB"
-        },
-        {
-          "name": "Mennis",
-          "url": "https://open.spotify.com/artist/3gR8TE5UqFjTa3fbA2Lh30"
-        }
-      ],
-      "duration_ms": 259165,
-      "name": "Manny Way",
-      "url": "https://open.spotify.com/track/6PEagkJ9YVt2viFHheVsDa"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Don't Sleep",
+        "url": "https://open.spotify.com/album/210WQBM6ShQnE48Hc60vIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Brewer",
+          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "Don't Sleep",
+      "url": "https://open.spotify.com/track/7vJrXwaewbnv93z5h1Sjvo"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Bout Dis",
         "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Don't Sleep",
-        "url": "https://open.spotify.com/album/210WQBM6ShQnE48Hc60vIf"
+        "name": "Lethal B vs Lethal Bizzle",
+        "url": "https://open.spotify.com/album/62j4atNAMNC2DUU2J7gm8t"
       },
       "artists": [
         {
-          "name": "Nick Brewer",
-          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
         }
       ],
-      "duration_ms": 141020,
-      "name": "Don't Sleep",
-      "url": "https://open.spotify.com/track/7vJrXwaewbnv93z5h1Sjvo"
+      "duration_ms": 134492,
+      "name": "Practice Hours",
+      "url": "https://open.spotify.com/track/2FNTTRzgtuNa8enntR4ed8"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Lethal B vs Lethal Bizzle",
-        "url": "https://open.spotify.com/album/62j4atNAMNC2DUU2J7gm8t"
-      },
-      "artists": [
-        {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
-        }
-      ],
-      "duration_ms": 134492,
-      "name": "Practice Hours",
-      "url": "https://open.spotify.com/track/2FNTTRzgtuNa8enntR4ed8"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Memories Over Money",
         "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
       },
@@ -1387,30 +1387,6 @@
       "duration_ms": 163750,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Natural Selection",
-        "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
-      },
-      "artists": [
-        {
-          "name": "Jammer",
-          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        }
-      ],
-      "duration_ms": 153954,
-      "name": "Built This City",
-      "url": "https://open.spotify.com/track/3ZmuVItqDKeF5kFKzutmtn"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1459,6 +1435,30 @@
       "duration_ms": 179586,
       "name": "Joe Pesci",
       "url": "https://open.spotify.com/track/56yZtjgHz1DQLQhcMhhHET"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Natural Selection",
+        "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
+      },
+      "artists": [
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "duration_ms": 153954,
+      "name": "Built This City",
+      "url": "https://open.spotify.com/track/3ZmuVItqDKeF5kFKzutmtn"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Man Know",
-        "url": "https://open.spotify.com/album/3asq4P6GCqeStZqb4bck7H"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Man Know",
-      "url": "https://open.spotify.com/track/08ethh0KUcRzvm3OS9nePQ"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Serious 2020",
         "url": "https://open.spotify.com/album/01LlyrmddUcbRLMGEBtI1g"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 197616,
       "name": "Serious 2020",
       "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Man Know",
+        "url": "https://open.spotify.com/album/3asq4P6GCqeStZqb4bck7H"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Man Know",
+      "url": "https://open.spotify.com/track/08ethh0KUcRzvm3OS9nePQ"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Dumping Again",
+        "url": "https://open.spotify.com/album/0ucKLP8cWG5LRx86oy7O9v"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dumping Again",
+      "url": "https://open.spotify.com/track/6bWVnf258N4eOn1NcOZFhs"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/0mUwWZtuTosR55KwBYIKJ4"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 57391,
       "name": "Frisco's Pattern",
       "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Bruce Wayne",
-        "url": "https://open.spotify.com/album/4RWlNFRhJ1TJCpipr7WYt7"
-      },
-      "artists": [
-        {
-          "name": "Suspect OTB",
-          "url": "https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/316fCLEpkEZKqaeaXIKwNf"
     }
   ],
   "unique_name": "Grime Shutdown",

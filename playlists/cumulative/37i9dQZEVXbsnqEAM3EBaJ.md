@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-495 songs - 1 day 9 hr 47 min
+496 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [You Spin Me Round \(Like A Record\) \- Re\-Recorded \- Slowed + Reverb](https://open.spotify.com/track/3JgvZb3xC37ab5Lo9NmfJ0) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [You Spin Me Round \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/1OBQ3JSqahNuMu4cu8Vl9o) | 5:57 | 2023-05-12 | 2023-05-19 |
 | [You Spin Me Round \(Like A Record\) \- Re\-Recorded \- Sped Up](https://open.spotify.com/track/0pnwVkETnoYI57hBeJxAlc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [You Spin Me Round \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/1OBQ3JSqahNuMu4cu8Vl9o) | 3:34 | 2023-04-28 | 2023-05-21 |
 | [You Spin Me Round \(Like A Record\) \- Re\-Recorded \- Sped Up](https://open.spotify.com/track/4uCGkxZ4F2BOMEJ4w4K9OW) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [You Spin Me Round \(Like a Record\) \[Re\-Recorded \- Sped Up\]](https://open.spotify.com/album/6hogAEZn8zDiDb7mPVuTIf) | 3:43 | 2023-03-10 | 2023-03-25 |
+| [You're Gonna Go Far, Kid \- Live At Hellfest 2022](https://open.spotify.com/track/22wm7544Ew8QlwCTEAh4hK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6YGXlFehYvg5MuzMPfgkdp) | 3:12 | 2023-06-16 |  |
 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 | 2023-05-05 | 2023-06-04 |
 | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS) | 3:20 | 2023-05-26 |  |
 | [ウェザーリポート](https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv) | 3:11 | 2023-03-03 | 2023-03-05 |

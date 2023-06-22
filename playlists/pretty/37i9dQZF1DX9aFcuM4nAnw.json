@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2850,
+  "num_followers": 2856,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTRkNTYxNTdjMTM5YzNkZmIwMDA4YzkzM2I5MDlhOTgwZWMyYmMw",
+  "snapshot_id": "MCwyMTNkZGFmNGEwZWMzNzk0ZGI5MWQ3ZmQ0NzU0YTY3ZGQ3NWM2Mzk0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Draconian Poetry",
-        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
-      },
-      "artists": [
-        {
-          "name": "Sephiroth",
-          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "Now Night Her Course Began",
-      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 381424,
       "name": "The Price of Failure",
       "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Draconian Poetry",
+        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
+      },
+      "artists": [
+        {
+          "name": "Sephiroth",
+          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "Now Night Her Course Began",
+      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 480506,
-      "name": "#14",
-      "url": "https://open.spotify.com/track/52KJRzaJGFW4CmzaWVMx4o"
+      "duration_ms": 438093,
+      "name": "#11",
+      "url": "https://open.spotify.com/track/1J9HzZ1mPuFafLSTRU2a6F"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
     },
     {
-      "added_at": "2022-09-03 03:45:57",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
       "added_at": "2022-07-06 17:58:03",
       "album": {
         "name": "The Disintegration Loops (Remastered)",
@@ -831,6 +815,22 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2022-09-03 03:45:57",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Witch's Will",
-      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Lone Driver",
         "url": "https://open.spotify.com/album/6DjqLLCF5ykP7HOD9YBZgu"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 249375,
       "name": "Lone Driver",
       "url": "https://open.spotify.com/track/7xsLiXMWiLrV5mcogcQp2J"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Witch's Will",
+      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     }
   ],
   "unique_name": "Stranger Ambient",

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-397 songs - 1 day 0 hr 1 min
+398 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-12-06 | 2023-01-11 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-04-19 |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-15 |  |
+| [Mayonaka no Door\~Stay with Me \- 2023 Mix](https://open.spotify.com/track/3cSIP8SktGigy9EUL3QAAe) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 Mix\)](https://open.spotify.com/album/6ZogsaUTY6mwjzg0503GvU) | 5:10 | 2023-06-20 |  |
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2022-11-29 | 2022-12-16 |
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
@@ -397,7 +398,7 @@
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2023-01-06 |
-| [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 |  |
+| [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 | 2023-06-22 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
 | [肌](https://open.spotify.com/track/4feplpsR36DD09WfE5MqLl) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [肌](https://open.spotify.com/album/3gt2UvnXJQHQugGxaZO6Jx) | 3:43 | 2022-12-01 | 2023-01-13 |
 | [話そうよ](https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [AIRPORT](https://open.spotify.com/album/025EE81TmzGA11OpBbKuoI) | 4:41 | 2023-05-16 | 2023-05-18 |

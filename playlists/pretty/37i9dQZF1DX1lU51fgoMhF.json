@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 145609,
+  "num_followers": 145944,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjA4NTU2YmI1NWIyNGE4NDdjYTgyYTQ4ODQ5Y2MwY2I4ZTE0YmE2",
+  "snapshot_id": "MCwyODJiNDdiODU0YjA3NjllMzRhMTI3ZjM2ZTNlNzdhODYyYjc0ZDI5",
   "tracks": [
     {
       "added_at": "2023-06-19 08:39:17",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 197795,
-      "name": "TFW (That Feeling When)",
-      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "THE WAR - The 4th Album",
         "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 190422,
       "name": "Ko Ko Bop",
       "url": "https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 197795,
+      "name": "TFW (That Feeling When)",
+      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 189858,
-      "name": "Let Me In (20 CUBE)",
-      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -583,6 +567,22 @@
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "DUMDi DUMDi",
         "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "KARD 1st Mini Album 'Hola Hola'",
-        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "Hola Hola",
-      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "ZERO : FEVER Part.1",
         "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "KARD 1st Mini Album 'Hola Hola'",
+        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
       "artists": [
         {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+      "duration_ms": 173133,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
         }
       ],
-      "duration_ms": 173133,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "COME TO ME",
-      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "As You Wish",
         "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "COME TO ME",
+      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
+      "duration_ms": 203613,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "Dynamite (DayTime Version)",
         "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 197993,
       "name": "Dynamite (Acoustic Remix)",
       "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "HEART*IZ",
-        "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 192851,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "Season Songs",
         "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "HEART*IZ",
+        "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 192851,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
     },
     {
       "added_at": "2023-06-19 08:39:17",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
         "name": "SUMMERIDE",
         "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
       },
@@ -1571,38 +1587,6 @@
     {
       "added_at": "2023-06-19 08:39:17",
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
-        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
-    },
-    {
-      "added_at": "2023-06-19 08:39:17",
-      "album": {
         "name": "OCEAN VIEW",
         "url": "https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 187200,
       "name": "OCEAN VIEW (Feat.CHANYEOL)",
       "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
+    },
+    {
+      "added_at": "2023-06-19 08:39:17",
+      "album": {
+        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
     },
     {
       "added_at": "2023-06-19 08:39:17",

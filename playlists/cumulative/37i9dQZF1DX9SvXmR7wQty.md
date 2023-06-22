@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Zeina, Smeels
 
-1,907 songs - 4 day 6 hr 3 min
+1,908 songs - 4 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Aimer d'amour](https://open.spotify.com/track/0MaQf08KMSfzFAokIBLxGW) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Aimer d'amour](https://open.spotify.com/album/0UU1EcK1t9MsHIHpjbgswf) | 3:43 | 2023-03-17 | 2023-04-15 |
 | [Airbag](https://open.spotify.com/track/3y4tm1BSZMlg8YfwIQh8qU) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Airbag](https://open.spotify.com/album/28ceNLJVzA6XsEgJv9RxfU) | 1:55 | 2022-09-09 | 2022-09-24 |
 | [Airbag](https://open.spotify.com/track/1rKci6yiF4rb4zrDlt5JEH) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Airbag](https://open.spotify.com/album/176ozys6mXiCvXfefvglGp) | 3:22 | 2022-05-13 | 2022-05-28 |
+| [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-06-16 |  |
 | [Albert](https://open.spotify.com/track/5LkQYLJcKnlDKUBXctdZcP) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Albert](https://open.spotify.com/album/12CFpojTsPlE4oHt4ETJf5) | 2:52 | 2022-03-04 | 2022-03-18 |
 | [Alchimie](https://open.spotify.com/track/4LbcM1JxYsuBEqLg8gtwEH) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Territoiredelours](https://open.spotify.com/album/4dc7lc9vGkSCogIKIPSXF6) | 3:33 | 2023-02-10 | 2023-02-25 |
 | [ALCHIMISTE](https://open.spotify.com/track/7qECazkIfcZ06HgjDRMwfr) | [Xone](https://open.spotify.com/artist/68TAqd3LgdVtgRez3IEwra) | [ALCHIMISTE](https://open.spotify.com/album/5gBZKJpC0M4qU66QkFPMkc) | 2:36 | 2022-04-15 | 2022-04-23 |
@@ -1109,7 +1110,7 @@
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |
 | [Maison Sérieuse](https://open.spotify.com/track/3NxGzIj7N31sQPrAqec8Vq) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [Maison Sérieuse](https://open.spotify.com/album/5WDbgkqHGUlchrsE4gDFG3) | 2:31 | 2022-06-10 | 2022-06-25 |
-| [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 | 2023-05-12 |  |
+| [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 | 2023-05-12 | 2023-06-22 |
 | [Making Sense Stop](https://open.spotify.com/track/2lxVvIdKuCtjNiRXt0HuDt) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 4:00 | 2022-03-04 | 2022-03-18 |
 | [Mal Luné](https://open.spotify.com/track/13BEk2ZVdI8utzRXJFsc14) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Mal Luné](https://open.spotify.com/album/16rF05yT8363p12rtHeT1Y) | 2:56 | 2021-12-31 | 2022-01-22 |
 | [Malpolis](https://open.spotify.com/track/3sgzxVe4NjuezbZ8CiPlLP) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/4Vuld8wVr4SATvO8v625Ht) | 3:20 | 2022-09-23 | 2022-10-08 |

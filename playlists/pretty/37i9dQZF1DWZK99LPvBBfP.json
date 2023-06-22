@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 177075,
+  "num_followers": 177561,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTM5MGRjNTJjYTM2N2FkMDZlZjYzMDkzNTlhOTlhZDlkZDk5ZDY3",
+  "snapshot_id": "MCxkM2YwYzNhNDJmYTg5MzgwMjNmNTE5OGY4MjVhYmQxYTZkMjFkNTI1",
   "tracks": [
     {
       "added_at": "2023-06-13 14:33:36",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-06-13 14:33:36",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
-    },
-    {
-      "added_at": "2023-06-13 14:33:36",
-      "album": {
         "name": "Pasilda",
         "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 209500,
       "name": "Pasilda - Knee Deep Mix",
       "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
+    },
+    {
+      "added_at": "2023-06-13 14:33:36",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
     },
     {
       "added_at": "2023-06-13 14:33:36",

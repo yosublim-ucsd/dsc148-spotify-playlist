@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 311290,
+  "num_followers": 311489,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2UyNjUwOTQ2ZTEyMDNmOWQ2NDUxM2I0NDEwY2QxOTNlZDk1ZDc0",
+  "snapshot_id": "MCwxMjFjZDQ2MWYzMzk4ZDJjNmMxMmVlNzVkODQwZWY3NGE1MWI4YWE0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -351,42 +351,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "If I Had Stayed",
-        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "If I Had Stayed",
-      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -407,6 +371,42 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "If I Had Stayed",
+        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "If I Had Stayed",
+      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 194102,
-      "name": "Meet Me There",
-      "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219272,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 194102,
+      "name": "Meet Me There",
+      "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "It's a Wonderful Life",
         "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -847,22 +863,6 @@
       "duration_ms": 268360,
       "name": "Shiloh",
       "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be My Shalom",
-        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 187943,
-      "name": "Be My Shalom",
-      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+        "name": "Be My Shalom",
+        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
         }
       ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+      "duration_ms": 187943,
+      "name": "Be My Shalom",
+      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Goodness of God: Songs of Worship",
-        "url": "https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 289111,
-      "name": "So Well",
-      "url": "https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Goodness of God: Songs of Worship",
+        "url": "https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 289111,
+      "name": "So Well",
+      "url": "https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Battle Is the Lord's",
         "url": "https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 235360,
       "name": "Battle Is the Lord's",
       "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2023-02-07 17:43:02",

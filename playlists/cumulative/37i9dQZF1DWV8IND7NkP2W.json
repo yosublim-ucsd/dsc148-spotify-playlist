@@ -6567,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "mugen",
+        "url": "https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "mugen",
+      "url": "https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9"
+    },
+    {
+      "album": {
         "name": "My Favorite Sled",
         "url": "https://open.spotify.com/album/2mNWkRT6uTeHghQ9PCfDyc"
       },
@@ -11638,7 +11656,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 115975,
       "name": "\u82b1\u706b 01",
       "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"

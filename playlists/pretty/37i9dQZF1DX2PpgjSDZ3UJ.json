@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20687,
+  "num_followers": 20693,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmMwMTNhOTQ0OTZlMGY2NWQ3ZmIzNTRjZjA5NWQ0ZjhiM2E5YTg3",
+  "snapshot_id": "MCxkNGU0NjZkMjg0ZWQxMWZjZjNiZDI5MDM0NWQ1M2I4YThlM2YwZWZl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "The Prettiest Curse",
-        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Good Bad Times",
-      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "The Prettiest Curse",
+        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Chocadito",
-        "url": "https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2"
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
         }
       ],
-      "duration_ms": 285942,
-      "name": "Los Dem\u00e1s",
-      "url": "https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM"
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 216506,
       "name": "Cuando quieres jugar conmigo",
       "url": "https://open.spotify.com/track/6XVE5aiEJtV14YNiGLJiYz"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Chocadito",
+        "url": "https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 285942,
+      "name": "Los Dem\u00e1s",
+      "url": "https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Mol\u00e9cula",
-        "url": "https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c"
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
       },
       "artists": [
         {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
         }
       ],
-      "duration_ms": 214661,
-      "name": "Mol\u00e9cula",
-      "url": "https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y"
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+        "name": "Mol\u00e9cula",
+        "url": "https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c"
       },
       "artists": [
         {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
+      "duration_ms": 214661,
+      "name": "Mol\u00e9cula",
+      "url": "https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
-      },
-      "artists": [
-        {
-          "name": "Paraisso",
-          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
-        }
-      ],
-      "duration_ms": 217002,
-      "name": "Momento de Escapar",
-      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Miedo, Amor y Vida - EP",
         "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216857,
       "name": "La Oscuridad",
       "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
+      },
+      "artists": [
+        {
+          "name": "Paraisso",
+          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Momento de Escapar",
+      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
     },
     {
       "added_at": "2020-12-01 05:03:00",

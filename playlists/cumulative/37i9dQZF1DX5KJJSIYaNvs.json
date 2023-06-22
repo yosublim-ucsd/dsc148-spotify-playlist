@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Dil Khanjar",
+        "url": "https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189183,
+      "name": "Dil Khanjar",
+      "url": "https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6"
+    },
+    {
+      "album": {
         "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
         "url": "https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe"
       },

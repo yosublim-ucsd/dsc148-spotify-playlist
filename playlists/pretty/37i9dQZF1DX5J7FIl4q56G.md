@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Zulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,833 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,899 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 7 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 |
 | 8 | [the INVISIBLE](https://open.spotify.com/track/3tVgRpCpmByRVfzbZcx8Qt) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [the INVISIBLE](https://open.spotify.com/album/4XY59TAY7Oac5lCgmMQknq) | 3:42 |
 | 9 | [PARASITE](https://open.spotify.com/track/0krPv4Swp6XVYr8HC8qOTa) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 2:09 |
-| 10 | [Blood of the Machine](https://open.spotify.com/track/0zqkXaSdGWSrnrin0eHkk9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Fear & Loathing](https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A) | 3:47 |
+| 10 | [Blood Of The Machine](https://open.spotify.com/track/0zqkXaSdGWSrnrin0eHkk9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Fear & Loathing](https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A) | 3:47 |
 | 11 | [Get That Done](https://open.spotify.com/track/5AKzAajma8Wl7h0GqBRknc) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Get That Done](https://open.spotify.com/album/0rk3cPpQxE4pDhswHxRlnf) | 4:17 |
 | 12 | [Hopeless Portrait](https://open.spotify.com/track/4Kv9hHjrL5QKg2BLCmaJDc) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [Hopeless Portrait](https://open.spotify.com/album/3Ino5A3iTUQDm32HfxF7Vw) | 1:07 |
 | 13 | [Razryvaya plot' ot bezyskhodnosti bytiya](https://open.spotify.com/track/6XqqNWAmvKOYpOVmAHd7NR) | [Arkona](https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF) | [Razryvaya plot' ot bezyskhodnosti bytiya](https://open.spotify.com/album/262QX7ruwE1WNt3IEN6fqp) | 7:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 |
 | 50 | [Last Gasp of the Dying](https://open.spotify.com/track/0Oid34x2WWh3eaaboLOBu6) | [Sammath](https://open.spotify.com/artist/09OEHseRdgqYGVceDcdsmm) | [Grebbeberg](https://open.spotify.com/album/26wwbBydmrikctKqkAwtip) | 6:42 |
 
-Snapshot ID: `MCwxYWI5YzE0ZDIyNDJiOWU3NDY3ZmYwOTYxZWJjZjI3OWQ1OWFkMTNl`
+Snapshot ID: `MCxiNjAxNDk0N2RiOWEyNTg5MmI2NWM3NjhiYmYwZTEwODk5YTk3NmUw`

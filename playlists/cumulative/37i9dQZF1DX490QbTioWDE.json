@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Cada martes",
+        "url": "https://open.spotify.com/album/6Q9voKvDeoIne1cEJC8kPR"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158039,
+      "name": "Cada martes",
+      "url": "https://open.spotify.com/track/3Yak6j9IEj9qibjgIUPJHY"
+    },
+    {
+      "album": {
         "name": "Carne y Hueso",
         "url": "https://open.spotify.com/album/79zO4F3krOtJl4NevEku1F"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 145334,
       "name": "Casi Que Me Pierdo",
       "url": "https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg"
@@ -740,6 +758,28 @@
       "duration_ms": 172183,
       "name": "CHANGA CHANGA",
       "url": "https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6"
+    },
+    {
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
     },
     {
       "album": {
@@ -2177,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Homenaje al Cuarteto",
+        "url": "https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156984,
+      "name": "Intro Homenaje al Cuarteto - La Gaita de la Cenicienta - En Vivo",
+      "url": "https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6"
+    },
+    {
+      "album": {
         "name": "Ji Ji Ji",
         "url": "https://open.spotify.com/album/2RXtIUWgZ3CynngFotIDUF"
       },
@@ -3320,7 +3378,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 168757,
       "name": "Miel",
       "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"

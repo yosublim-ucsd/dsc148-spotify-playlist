@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima, Rebecca, Pabllo Vittar e Vivi, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882,403 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,882,719 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solteiro Frustrado \- Ao Vivo](https://open.spotify.com/track/2LJLGfBHKFmNdD4iXRRPXV) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador \- 15 Anos \(Ao Vivo\)](https://open.spotify.com/album/0u4tUXZo8fVWG5BgCg1Tm2) | 3:00 |
 | 2 | [Porque Eu Presto \- Ao Vivo](https://open.spotify.com/track/4nboxA41IyF61yivtkaKbj) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [João Neto & Frederico 25 Anos Ao Vivo \(Murilo Huff\)](https://open.spotify.com/album/6VztmMNWa2tW98VbO0FZZZ) | 3:14 |
 | 3 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 |
-| 4 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6QIDGlXeq4WhjwXK72Zbbi) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
+| 4 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 5 | [Pirulito Vermelho](https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pirulito Vermelho](https://open.spotify.com/album/6QyoTHLRSr8Z8EkvpQXBQX) | 2:32 |
 | 6 | [Covardias Digitais \- Ao Vivo](https://open.spotify.com/track/0seCbsMqwvI539X8HvtIrc) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Covardias Digitais \(Ao Vivo\)](https://open.spotify.com/album/66bASBfMscBiDQQZZbZq6y) | 2:40 |
 | 7 | [Descontando Traição \- Ao Vivo](https://open.spotify.com/track/1YDk638sEUH4Q7MJNuz3EJ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua \(Ao Vivo\)](https://open.spotify.com/album/2Sf7a6rZKOj3Z7RXFQ1Dd2) | 2:35 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
 | 97 | [Jerry](https://open.spotify.com/track/2cg8aiFDLOPis3XaczNIVq) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Jerry](https://open.spotify.com/album/76QkizQNGfiXYBpSSl2COz) | 3:10 |
 
-Snapshot ID: `MCw0MjVhYmJmYTIzOTBjMmI1ZDlmNWRhZWYwYmNkMThkMDBiMjhhOWEw`
+Snapshot ID: `MCxiNDhmYzM3MDE1OTFlMzAwZTkyODYwMDg5YWVjM2JjYWUxMTAzODUz`

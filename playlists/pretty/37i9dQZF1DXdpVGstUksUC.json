@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 512934,
+  "num_followers": 513171,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmQ1ZTRhNjI1NmFhYWE3YTcyYmFlZjc0ZjAzODk0YjY3OGEyM2Yy",
+  "snapshot_id": "MCw0NmQ3MDdiZmU0MTYwMTdjNGQ1Yjc4NjMxYzU1MTEwOGUxMDFhYzdi",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Woodland Rites",
-        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
       },
       "artists": [
         {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Let the Devil In",
-      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
       "artists": [
         {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
         }
       ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
+      "duration_ms": 300226,
+      "name": "Let the Devil In",
+      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Nothing as the Ideal",
         "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 320350,
       "name": "41",
       "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "GAUPA",
-        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 447680,
-      "name": "Febersvan",
-      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Sunrise on Slaughter Beach (The Complete Edition)",
         "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 175580,
       "name": "Boogeyman Blues",
       "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "GAUPA",
+        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 447680,
+      "name": "Febersvan",
+      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
-      },
-      "artists": [
-        {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
-        }
-      ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Our Mother Electricity",
         "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+      },
+      "artists": [
+        {
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+        }
+      ],
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
       "artists": [
         {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -855,6 +839,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
-      },
-      "artists": [
-        {
-          "name": "Somali Yacht Club",
-          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
-        }
-      ],
-      "duration_ms": 492508,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Trance States in Tongues",
         "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
+      },
+      "artists": [
+        {
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+        }
+      ],
+      "duration_ms": 492508,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+        "name": "Tales of the Wicked West",
+        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
       "artists": [
         {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+          "name": "MaidaVale",
+          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
         }
       ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+      "duration_ms": 318023,
+      "name": "(If You Want the Smoke) Be the Fire",
+      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Tales of the Wicked West",
-        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
       "artists": [
         {
-          "name": "MaidaVale",
-          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
+          "name": "Gas Giant",
+          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
         }
       ],
-      "duration_ms": 318023,
-      "name": "(If You Want the Smoke) Be the Fire",
-      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
+      "duration_ms": 371983,
+      "name": "Too Stoned",
+      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Beyond the Wasteland",
-        "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
+        "name": "Superjudge",
+        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
       },
       "artists": [
         {
-          "name": "Brain Police",
-          "url": "https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 266200,
-      "name": "Rooster Booster",
-      "url": "https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B"
+      "duration_ms": 409466,
+      "name": "Superjudge",
+      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Superjudge",
-        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
+        "name": "Beyond the Wasteland",
+        "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "Brain Police",
+          "url": "https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR"
         }
       ],
-      "duration_ms": 409466,
-      "name": "Superjudge",
-      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+      "duration_ms": 266200,
+      "name": "Rooster Booster",
+      "url": "https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B"
     },
     {
       "added_at": "2023-06-02 04:01:00",

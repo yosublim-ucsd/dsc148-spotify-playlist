@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-504 songs - 1 day 5 hr 13 min
+505 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Commencement \(feat\. Gracie Van Brunt\)](https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Commencement \(feat\. Gracie Van Brunt\)](https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7) | 3:24 | 2023-04-28 | 2023-06-09 |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-10-29 |
-| [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-09 |  |
+| [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-09 | 2023-06-22 |
 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 |  |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2022-09-03 |
 | [DAYTONS](https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu) | [SuperAve.](https://open.spotify.com/artist/1jZuVcvrLxmzjg9K0TU53g) | [The Streets Hear Everything](https://open.spotify.com/album/3QWjr2YbklfsFDTNocoGk3) | 2:55 | 2021-12-17 | 2022-03-12 |
@@ -173,6 +173,7 @@
 | [Flow](https://open.spotify.com/track/2F14jGKSIvL10dEYhimqVY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [C.D](https://open.spotify.com/artist/709rmeAswe9n36FbeXXOFk) | [Flow](https://open.spotify.com/album/4V1hkAAIZRNP9CVj4hJkZW) | 3:12 | 2022-04-22 | 2022-08-06 |
 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 | 2022-11-11 | 2023-04-01 |
 | [Flying \(Pegboard Nerds Remix\)](https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Eda Lovelace](https://open.spotify.com/artist/3bOvxcNS1rpC7aN1tLAahr), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Flying \(Pegboard Nerds Remix\)](https://open.spotify.com/album/2WhrRHs1WCqjgP4JHZM52m) | 2:48 | 2023-03-24 | 2023-06-12 |
+| [Follow You Home](https://open.spotify.com/track/3RaXvdP3mefcmxvBGm0rzI) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Follow You Home](https://open.spotify.com/album/4LNlOLPYFoaoW2qpgKzD0K) | 4:22 | 2023-06-16 |  |
 | [Fool For Ya](https://open.spotify.com/track/3MzC6XQa26SurM3VX5ovZE) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Fool For Ya](https://open.spotify.com/album/36ZjyrSiKwq9wdR6p5j4yV) | 3:08 | 2021-12-17 | 2022-02-19 |
 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-04-08 | 2023-04-22 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-12-17 | 2022-02-19 |

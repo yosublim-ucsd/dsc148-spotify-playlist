@@ -1,28 +1,60 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: La Rhonza",
-  "num_followers": 187438,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Virgin Miri",
+  "num_followers": 187586,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTZhNWIxZTlmMTg4NTg5MmMwZTM0NjNiOTk2ZTgwNDZmYWM2MmEw",
+  "snapshot_id": "MCw5OWEwZWExMDM1N2I2MDFlMWQyMDhhNmZiODEyYjk1MDFlZjQ1N2Zm",
   "tracks": [
     {
-      "added_at": "2023-06-07 12:22:16",
+      "added_at": "2023-06-21 03:57:25",
       "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/1WT5tmBb2NgfDha72f4dCb"
+        "name": "h4msterb0y",
+        "url": "https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR"
       },
       "artists": [
         {
-          "name": "La Rhonza",
-          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
         }
       ],
-      "duration_ms": 155678,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/3m6bHUrN8khopVUAhi7Xut"
+      "duration_ms": 168236,
+      "name": "h4msterb0y",
+      "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
+    },
+    {
+      "added_at": "2023-06-21 04:16:18",
+      "album": {
+        "name": "All My Friends Need Therapy",
+        "url": "https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7"
+      },
+      "artists": [
+        {
+          "name": "Georgia Meek",
+          "url": "https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS"
+        }
+      ],
+      "duration_ms": 145310,
+      "name": "All My Friends Need Therapy",
+      "url": "https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A"
+    },
+    {
+      "added_at": "2023-06-14 04:00:00",
+      "album": {
+        "name": "Never the One",
+        "url": "https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B"
+      },
+      "artists": [
+        {
+          "name": "Lo Lauren",
+          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+        }
+      ],
+      "duration_ms": 177567,
+      "name": "Never the One",
+      "url": "https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz"
     },
     {
       "added_at": "2023-06-14 04:00:00",
@@ -41,20 +73,36 @@
       "url": "https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH"
     },
     {
-      "added_at": "2023-06-14 04:00:00",
+      "added_at": "2023-06-07 12:22:16",
       "album": {
-        "name": "The Greatest Story Never Told",
-        "url": "https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH"
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/1WT5tmBb2NgfDha72f4dCb"
       },
       "artists": [
         {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+          "name": "La Rhonza",
+          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
         }
       ],
-      "duration_ms": 167562,
-      "name": "The Greatest Story Never Told",
-      "url": "https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K"
+      "duration_ms": 155678,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/3m6bHUrN8khopVUAhi7Xut"
+    },
+    {
+      "added_at": "2023-06-21 04:16:18",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6CpucIaTTyKYlL5Z9S1IIf"
+      },
+      "artists": [
+        {
+          "name": "Anassa",
+          "url": "https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf"
+        }
+      ],
+      "duration_ms": 163814,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/570oyFJazrcr2dw3un9lfL"
     },
     {
       "added_at": "2023-06-14 04:00:00",
@@ -73,20 +121,52 @@
       "url": "https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu"
     },
     {
-      "added_at": "2023-06-14 04:00:00",
+      "added_at": "2023-06-21 03:57:25",
       "album": {
-        "name": "Never the One",
-        "url": "https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/2yczGhWquwpckpXCIXEbED"
       },
       "artists": [
         {
-          "name": "Lo Lauren",
-          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+          "name": "Caly Bevier",
+          "url": "https://open.spotify.com/artist/5jMdkF29epK5cTCeMV17fh"
         }
       ],
-      "duration_ms": 177567,
-      "name": "Never the One",
-      "url": "https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz"
+      "duration_ms": 132253,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/2INw6pVfZExHnTZ9CdrAI6"
+    },
+    {
+      "added_at": "2023-06-21 03:57:25",
+      "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj"
+      },
+      "artists": [
+        {
+          "name": "Luca George",
+          "url": "https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA"
+        }
+      ],
+      "duration_ms": 178523,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7"
+    },
+    {
+      "added_at": "2023-06-14 04:00:00",
+      "album": {
+        "name": "The Greatest Story Never Told",
+        "url": "https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 167562,
+      "name": "The Greatest Story Never Told",
+      "url": "https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K"
     },
     {
       "added_at": "2023-06-14 04:00:00",

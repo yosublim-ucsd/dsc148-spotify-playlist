@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,573 likes - 88 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,715 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,17 +84,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 74 | [Stages And Lights \- Instrumental](https://open.spotify.com/track/3LAnfrxSjShV7Y0nmWPLBo) | [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Hang 'Em High](https://open.spotify.com/album/7ATmXoNwLDE5J2w7y7ZrfA) | 4:16 |
 | 75 | [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 |
 | 76 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
-| 77 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
-| 78 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
-| 79 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 |
-| 80 | [93 'Til Infinity \- LP Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
-| 81 | [DTFT \(Instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Yancey Boys \(Instrumentals\) Produced By Jay Dee Aka J Dilla](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:24 |
-| 82 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
-| 83 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
-| 84 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
-| 85 | [Quotas](https://open.spotify.com/track/0qOicDKD4pHBvdcbxnW5A7) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#2](https://open.spotify.com/album/1KZTSCU5psinmwZr7ziKGF) | 2:15 |
-| 86 | [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 |
-| 87 | [My Street](https://open.spotify.com/track/1TyPatt6gp9mLRW18GuExN) | [KLIM Beats](https://open.spotify.com/artist/37rwydiu8MSMey87ktxdPT) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 1:54 |
-| 88 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
+| 77 | [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 |
+| 78 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
+| 79 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
+| 80 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 |
+| 81 | [93 'Til Infinity \- LP Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
+| 82 | [DTFT \(Instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Yancey Boys \(Instrumentals\) Produced By Jay Dee Aka J Dilla](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:24 |
+| 83 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
+| 84 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
+| 85 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 86 | [Quotas](https://open.spotify.com/track/0qOicDKD4pHBvdcbxnW5A7) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#2](https://open.spotify.com/album/1KZTSCU5psinmwZr7ziKGF) | 2:15 |
+| 87 | [D\. Flutie](https://open.spotify.com/track/0dM5IvlcBc53e5OcW3GaNG) | [The Doppelgangaz](https://open.spotify.com/artist/4J8pjytuR06BizCeBKBIDk) | [Beats for Brothels, Vol\. 2](https://open.spotify.com/album/6d0v2nW62OOEHXyK6eLgvr) | 2:41 |
+| 88 | [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 |
+| 89 | [My Street](https://open.spotify.com/track/1TyPatt6gp9mLRW18GuExN) | [KLIM Beats](https://open.spotify.com/artist/37rwydiu8MSMey87ktxdPT) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 1:54 |
+| 90 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MCwyMDNhMDVhNTk1NTBhZjk2OTk0NjA3ZWE4YzQ4YzdkOGIzZDA0OGU3`
+Snapshot ID: `MCwyN2U3MWU3OGEwMDBiMmNjY2JiOTNlZDlkY2NkOWU3ZTdlYWQ2Yzdh`

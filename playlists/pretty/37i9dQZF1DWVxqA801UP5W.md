@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,222 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,292 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Rasputin \- Majestic Club VIP Remix](https://open.spotify.com/track/6FO4K7MrMoYkc5BlpX5LNV) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin \(Remixes\)](https://open.spotify.com/album/19TzoU9GkP6UpHGMgZaUdJ) | 5:45 |
 | 50 | [If We Ever Broke Up \- goddard\. Remix](https://open.spotify.com/track/2U9nC0E0VMiGEadMOdV6dN) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [If We Ever Broke Up \(goddard\. Remix\)](https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr) | 2:36 |
 
-Snapshot ID: `MCwxYThjMWM0NjM4NDhkMTRhMmI0YjExYmVkYmQ0Y2U0M2Y0YzY1NGFi`
+Snapshot ID: `MCwxZDAxMjU5NzY3YzQ2ZTVhMzc1YjA1NmMzMWZiMjc2NGViNmQwYThj`

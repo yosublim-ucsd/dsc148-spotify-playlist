@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86638,
+  "num_followers": 86661,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTU1YzAzZDU1YjI1ZWUwY2YwNjdhMGM1NWEzM2M5NWRkZjlmOWQ5",
+  "snapshot_id": "MCxiZTc4NGMzZDdlYTVjZTQxNzFkNTQ1MzFjNzg4NTczZGJkZmI2MDk3",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "One Pop",
+        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
+      },
+      "artists": [
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "One Pop",
+      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Shipp\u016bden",
         "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Pop",
-        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
       },
       "artists": [
         {
-          "name": "Glizz",
-          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+          "name": "Adzmilli",
+          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
         }
       ],
-      "duration_ms": 184320,
-      "name": "One Pop",
-      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
+      "duration_ms": 198620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -699,22 +715,6 @@
       "duration_ms": 163723,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
-      },
-      "artists": [
-        {
-          "name": "Adzmilli",
-          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "J\u00f6etry",
         "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 190615,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -963,18 +943,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
       "artists": [
         {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 191611,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -991,6 +975,22 @@
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1027,22 +1027,6 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Derby To Moston",
-        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 182648,
-      "name": "Derby To Moston",
-      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "No Emotions",
         "url": "https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 170062,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1139,26 +1155,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Lowkey '",
-        "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Halllow",
-          "url": "https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P"
-        },
-        {
-          "name": "Nyc Drill Rap",
-          "url": "https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA"
-        }
-      ],
-      "duration_ms": 154157,
-      "name": "Lowkey '",
-      "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1175,6 +1171,26 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Lowkey '",
+        "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Halllow",
+          "url": "https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P"
+        },
+        {
+          "name": "Nyc Drill Rap",
+          "url": "https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA"
+        }
+      ],
+      "duration_ms": 154157,
+      "name": "Lowkey '",
+      "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "High (All The Time)",
         "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 160030,
       "name": "High (All The Time)",
       "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1279,6 +1295,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "bu h\u00fcseyin bayba\u015fin i\u00e7in",
+        "url": "https://open.spotify.com/album/0TZfpMHDVfFDRcdqHt4pQU"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "duration_ms": 200124,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/6xikniI7OrvyxnRV5hBR9Y"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Scorpio Trait",
         "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
       },
@@ -1307,42 +1343,6 @@
       "duration_ms": 169411,
       "name": "Just You",
       "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "bu h\u00fcseyin bayba\u015fin i\u00e7in",
-        "url": "https://open.spotify.com/album/0TZfpMHDVfFDRcdqHt4pQU"
-      },
-      "artists": [
-        {
-          "name": "Svaroda",
-          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
-        },
-        {
-          "name": "Hasan Ceddi",
-          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
-        }
-      ],
-      "duration_ms": 200124,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/6xikniI7OrvyxnRV5hBR9Y"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Losing Interest",
-        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
-      },
-      "artists": [
-        {
-          "name": "Kstan",
-          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
-        },
-        {
-          "name": "WiTTZ SG",
-          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1435,18 +1415,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+        "name": "Losing Interest",
+        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Kstan",
+          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
+        },
+        {
+          "name": "WiTTZ SG",
+          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+      "duration_ms": 159753,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1479,6 +1463,22 @@
       "duration_ms": 110759,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",

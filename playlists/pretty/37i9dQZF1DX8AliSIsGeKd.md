@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: ARTBAT, Another Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,916 likes - 88 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,084 likes - 88 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breathe In](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
 | 2 | [Cypher](https://open.spotify.com/track/2mWV8pMyPFA3Gy4cxOAPDU) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR), [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843) | [Cypher](https://open.spotify.com/album/1L08CGVirJ1jBFCAUOcaHG) | 3:45 |
 | 3 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 |
-| 4 | [The Pulse Of The Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 |
+| 4 | [The Pulse Of Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 |
 | 5 | [Peaks & Valleys](https://open.spotify.com/track/6uXIdYG3WQm6tPGACvZMDE) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Myriad](https://open.spotify.com/album/4cQy7icF8mFCjxUU3br4wy) | 4:47 |
 | 6 | [Elements](https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 6:15 |
 | 7 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Pillars of Eternity](https://open.spotify.com/track/3eu66kYYZFybIvVjiaik88) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Pillars of Eternity](https://open.spotify.com/album/4NADip54gVKmdwHIbLXBt2) | 6:31 |
 | 88 | [Timeshift](https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW) | [Chloe Lula](https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx) | [Timeshift](https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP) | 4:29 |
 
-Snapshot ID: `MCwyMDJjZDdkYjk5YTJjM2VlNTgzZmFiYmQ3ZWE3MjcwYWY3YjhmNDFi`
+Snapshot ID: `MCxjOWQzOTgyOTMxOTUyM2Y1ZGQ1OTg3ZWQzNWQzOGNkYjcxYWQ3M2Fm`

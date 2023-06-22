@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 168610,
+  "num_followers": 168749,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2I1NDM0NTJjZWRlZGNjN2M0NDc2MDY3ZGUyYTQ0MjY0Yzk4Y2Y2",
+  "snapshot_id": "MCwwMjBkODJlYzY1ZjUxOWFmMzlmMzRkNDQzNTJlOTQ1YzgwYjc2NjNk",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Andrew McMahon In The Wilderness",
         "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 223879,
       "name": "Cecilia And The Satellite",
       "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
-        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "This Ain't a Love Song",
-      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "We Won't Be Shaken",
         "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 236546,
       "name": "We Won't Be Shaken",
       "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
+        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "This Ain't a Love Song",
+      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
     },
     {
       "added_at": "2022-11-17 15:48:46",

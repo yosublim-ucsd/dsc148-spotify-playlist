@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Vk Mac, Duzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,233 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,244 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 2 | [Pra Você Ficar](https://open.spotify.com/track/61JLcgwqCPklv7QOsmqrvR) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Pra Você Ficar](https://open.spotify.com/album/5dRk25j5gv9HNkqzfDF2CG) | 2:37 |
 | 3 | [O Último Romântico Online \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:50 |
 | 4 | [24hrs](https://open.spotify.com/track/105k1aiq6HKSONlNFOzYIA) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [24hrs](https://open.spotify.com/album/3OMsGLHvXjhj19gSULJzKQ) | 2:57 |
-| 5 | [Meu Bonde](https://open.spotify.com/track/3z6qoU5pfQDtSvYctC3AkH) | [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Cristal](https://open.spotify.com/artist/7oFmCQl2Ub1Pzr6uYqCe6W), [Maff](https://open.spotify.com/artist/0NtgwuL7bDfkbxwO3dj3C2) | [Diamandra](https://open.spotify.com/album/5YhdCHqkkCMJ3AGCilrf4j) | 3:10 |
+| 5 | [Meu Bonde](https://open.spotify.com/track/3z6qoU5pfQDtSvYctC3AkH) | [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Maff](https://open.spotify.com/artist/0NtgwuL7bDfkbxwO3dj3C2) | [Diamandra](https://open.spotify.com/album/5YhdCHqkkCMJ3AGCilrf4j) | 3:10 |
 | 6 | [Original](https://open.spotify.com/track/1uQmYGF2iYjlLTx9Ij5lFZ) | [BigJow](https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh) | [Original](https://open.spotify.com/album/77EjzH7Bv46gZfMVQSPaHD) | 2:36 |
 | 7 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
 | 8 | [Fala Pra Mim](https://open.spotify.com/track/3YFcWj5J3NizTOFCICudkU) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Foltran](https://open.spotify.com/artist/2bjvIbzVp3PIIxVzmTt2ZR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Fala Pra Mim](https://open.spotify.com/album/1Ns6fYPE01xuYlE4bkDTc5) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 69 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 70 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCxiZjI1MmVkMjk4YTQzMDE5M2VjYjdhMTExZmJiOGQ0ODFjMjRhMDY2`
+Snapshot ID: `MCw5NTk5NDUxNDI0ODU4OTkxNDVmNzllNWJlZWI5MjNmZTNjZmVlZGRh`

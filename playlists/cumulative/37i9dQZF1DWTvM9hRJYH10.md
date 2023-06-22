@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Tiera Kennedy
 
-283 songs - 14 hr 59 min
+284 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 |  |
 | [My Favorite](https://open.spotify.com/track/2IVy3iMsdJpoL93FYaPZZD) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [My Favorite](https://open.spotify.com/album/7EYrUwCFsD1544kVlGtP0r) | 2:39 | 2022-04-08 |  |
 | [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 | 2023-01-13 |  |
-| [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 |  |
+| [My Mistake](https://open.spotify.com/track/3KKzYn1hHHwdATpAzYWV5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/6Augs9cdAbmK60GzMGx1gc) | 3:41 | 2023-06-02 |  |
+| [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 | 2023-06-22 |
 | [My Turn](https://open.spotify.com/track/4fREYVupHFsPepnZeZrKI5) | [Alyssa Trahan](https://open.spotify.com/artist/0aMw8k8BbQf9sEeVokLzSo) | [Baby Blues & Stilettos](https://open.spotify.com/album/7xhGmTGboj8tUh1XfeW0k6) | 2:53 | 2021-12-31 | 2022-01-08 |
 | [My Way \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/42OXgCBByC4p3tm0w4MXIT) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [My Way](https://open.spotify.com/album/3nF1XbXuOHfFUxAPN6p3VM) | 2:22 | 2021-12-31 | 2022-01-08 |
 | [Naive](https://open.spotify.com/track/0pOqOiXB6UGyBMJyFKveGs) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive \(Acoustic\)](https://open.spotify.com/album/5okczttY81sU0vEyqW5iy2) | 3:28 | 2023-05-03 |  |

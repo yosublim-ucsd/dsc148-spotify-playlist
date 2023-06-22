@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
+    },
+    {
+      "album": {
         "name": "THE CODE",
         "url": "https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ"
       },

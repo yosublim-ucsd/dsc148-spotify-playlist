@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 27271,
+  "num_followers": 27296,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGYwZjJkYTkzOTg1Nzc0Zjc2ZGRkZDNjNTBmMzRlMTBiOGQzOTQ5",
+  "snapshot_id": "MCw1NDFmNWMyZmQ5NmU1MjdlZTI3NjA5NWY4OWU3YWM5MThjMWMzZGU5",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Information",
         "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 272893,
       "name": "Been A Long Night",
       "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 246855,
-      "name": "Another Story",
-      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Moodymann",
         "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 708706,
       "name": "Sloppy Cosmic",
       "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 246855,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "See-Line Woman",
         "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 226000,
       "name": "See-Line Woman - Main Mix",
       "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,26 +787,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Boro",
-        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
+        "name": "Clockwork Visit",
+        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
       },
       "artists": [
         {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Jonoa",
-          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
-        },
-        {
-          "name": "Rachel Shirley",
-          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
         }
       ],
-      "duration_ms": 352909,
-      "name": "Golden Gai",
-      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
+      "duration_ms": 224500,
+      "name": "A Place With A View - Edit",
+      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,22 +819,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Clockwork Visit",
-        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "A Place With A View - Edit",
-      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
+        }
+      ],
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
     },
     {
       "added_at": "2021-10-08 17:36:35",

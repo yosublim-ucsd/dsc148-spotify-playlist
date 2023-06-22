@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDcwMmRlMzhjNTllOWViZmFhYzEyMWFiM2FkZjExYWQ0NjVlZDk1",
+  "snapshot_id": "MCwwZTYxNmQxN2YyZThlMjlhNGJhYWE1OTQzMTZiY2ZjMGQzZDk4MWI2",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Something Melancholy",
-        "url": "https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy"
-      },
-      "artists": [
-        {
-          "name": "AMYRA",
-          "url": "https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC"
-        }
-      ],
-      "duration_ms": 392808,
-      "name": "Burning in Birmingham",
-      "url": "https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Nina with Strings",
         "url": "https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 243733,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Something Melancholy",
+        "url": "https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy"
+      },
+      "artists": [
+        {
+          "name": "AMYRA",
+          "url": "https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC"
+        }
+      ],
+      "duration_ms": 392808,
+      "name": "Burning in Birmingham",
+      "url": "https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr"
     },
     {
       "added_at": "2023-06-01 04:00:00",

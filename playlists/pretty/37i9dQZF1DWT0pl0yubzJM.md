@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,640 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Primavera 0 \- Remasterizado 2007](https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:41 |
 | 2 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 |
-| 3 | [Suficiente](https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Suficiente](https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI) | 4:04 |
-| 4 | [Sabado A La Noche](https://open.spotify.com/track/3Aa4WYAaWgoZLrvwsTgKD8) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Belleza](https://open.spotify.com/album/5fo4yhqxaQ9fYwbuT8xxtB) | 2:45 |
+| 3 | [Sabado A La Noche](https://open.spotify.com/track/3Aa4WYAaWgoZLrvwsTgKD8) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Belleza](https://open.spotify.com/album/5fo4yhqxaQ9fYwbuT8xxtB) | 2:45 |
+| 4 | [Suficiente](https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Suficiente](https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI) | 4:04 |
 | 5 | [Kanishka](https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Fin De Semana Salvaje](https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo) | 2:38 |
 | 6 | [Trece](https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 2:25 |
 | 7 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Emoción Diamante](https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy) | 3:48 |
 | 35 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
 
-Snapshot ID: `MCxhYTIxNjQyZmE1Y2EyZmIxNWVlNGQyZjFmYjI3ZDQ2ZjdhYWYxNzNj`
+Snapshot ID: `MCw4ZmI4YTFmZDQzNTdiZTE4MDc4MjRlOWNmNTlkYjg1MzNjNGRlZmIw`

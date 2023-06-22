@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-366 songs - 23 hr 18 min
+367 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Kiska \(киска\)](https://open.spotify.com/track/5VkZXhdpIKFSHICfdlqObU) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/5ijVr4vWC2EappNFNYA3q3) | 3:46 | 2021-09-01 |  |
 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 | 2022-11-24 |  |
 | [Knife](https://open.spotify.com/track/7zJez9dgwuDp2K0SodHXqE) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [Knife](https://open.spotify.com/album/3zwswJSHvyf20opVthp5vc) | 4:23 | 2021-09-01 |  |
-| [Kuyayki](https://open.spotify.com/track/2UbsoRco9xyXkjNFWtf5va) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/43YFvu5sxCu5ohsF4oX2bI) | 3:32 | 2021-09-01 |  |
+| [Kuyayki](https://open.spotify.com/track/25eJ7HWISJUYZ0tM9393c6) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/4kBlPYtTcXYt4xfLFmWUOe) | 3:32 | 2021-09-01 |  |
+| [Kuyayki](https://open.spotify.com/track/2UbsoRco9xyXkjNFWtf5va) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/43YFvu5sxCu5ohsF4oX2bI) | 3:32 | 2021-09-01 | 2023-06-22 |
 | [La Electricidad](https://open.spotify.com/track/0bfpXEdKjph2BbFdaG3PY3) | [McEnroe](https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2) | [Rugen las Flores](https://open.spotify.com/album/3QiJU2sZP7ygkzWE1vtKKZ) | 4:00 | 2022-04-08 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-11-24 |  |
 | [Lemon](https://open.spotify.com/track/5zxYB4n00DrMRiqZGxYYei) | [Metro](https://open.spotify.com/artist/0YFjT675XQQLPuwiBnWRdH) | [Heaven Only Knows](https://open.spotify.com/album/1H6WIx83ce7Pl3PPt85m0v) | 3:45 | 2021-09-01 |  |

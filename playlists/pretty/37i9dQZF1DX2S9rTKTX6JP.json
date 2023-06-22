@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 646707,
+  "num_followers": 646841,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTFkZGQzNjVlZDFlMDViODQxNWYyYjZiYTM5ZGFmODk5MzljMDgx",
+  "snapshot_id": "MCw5Y2FmNzRlYmM2ZmQxODQ1NGJjMjU4YmVmNDU1ZGIyN2QyMzJmNDhi",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 109900,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Pisces Iscariot (Deluxe)",
-        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -867,6 +871,22 @@
       "duration_ms": 247388,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Pisces Iscariot (Deluxe)",
+        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -899,26 +919,6 @@
       "duration_ms": 238626,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
-        }
-      ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 193080,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Burn the Ships",
         "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 265476,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "What Doesn't Kill Us",
-        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 206227,
-      "name": "(I Just) Died in Your Arms",
-      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Table For Glasses",
         "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 231368,
       "name": "Table For Glasses",
       "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "What Doesn't Kill Us",
+        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 206227,
+      "name": "(I Just) Died in Your Arms",
+      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
     },
     {
       "added_at": "2023-06-16 04:00:00",

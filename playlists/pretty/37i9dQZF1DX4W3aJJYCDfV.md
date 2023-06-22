@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Asake \(pictured\), Doja Cat, Tom Grennan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,284 likes - 144 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,329 likes - 144 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [Other Side](https://open.spotify.com/track/0XQCSeMewgwRdAUiZlMdFB) | [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Other Side](https://open.spotify.com/album/6stbeO8ul2jP9PZwxUSaoL) | 2:08 |
 | 144 | [Runaway](https://open.spotify.com/track/2LeuPP8lfPi5YtqK2jv8VH) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Runaway](https://open.spotify.com/album/0nHYvEBLnYbIApQLBIS4f3) | 3:04 |
 
-Snapshot ID: `MCxlNGFmMWViN2FiMzZlY2Y5NmM3NjQ1NzQwYTIwNGE4MDU0NTBjMDll`
+Snapshot ID: `MCw1MWJkZDBiMWQwMjNlNGQyMzQyNDc3NDc1ZGRjN2EzN2QzOWJmYWM0`

@@ -1136,6 +1136,32 @@
     {
       "album": {
         "name": "G\u00f3recki: Miserere",
+        "url": "https://open.spotify.com/album/0T8MdEPHYeBmghGAFafhAB"
+      },
+      "artists": [
+        {
+          "name": "Henryk G\u00f3recki",
+          "url": "https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI"
+        },
+        {
+          "name": "Los Angeles Master Chorale",
+          "url": "https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x"
+        },
+        {
+          "name": "Grant Gershon",
+          "url": "https://open.spotify.com/artist/6ue8YoBGM5IQGRKnCmCJ2W"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "Miserere, Op. 44: 11. Miserere nobis - Lento, tranquilissimo, cantabilissimo, dolcissimo",
+      "url": "https://open.spotify.com/track/0aBnLtwnQVTtTrSL41Qfmb"
+    },
+    {
+      "album": {
+        "name": "G\u00f3recki: Miserere",
         "url": "https://open.spotify.com/album/1UQnYM5lunxFGXadRGynvn"
       },
       "artists": [
@@ -1158,32 +1184,6 @@
       "duration_ms": 170853,
       "name": "Miserere, Op. 44: 11. Miserere nobis - Lento, tranquilissimo, cantabilissimo, dolcissimo",
       "url": "https://open.spotify.com/track/12sHdE4waQ9BkFPBF1AvZ0"
-    },
-    {
-      "album": {
-        "name": "G\u00f3recki: Miserere",
-        "url": "https://open.spotify.com/album/0T8MdEPHYeBmghGAFafhAB"
-      },
-      "artists": [
-        {
-          "name": "Henryk G\u00f3recki",
-          "url": "https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI"
-        },
-        {
-          "name": "Los Angeles Master Chorale",
-          "url": "https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x"
-        },
-        {
-          "name": "Grant Gershon",
-          "url": "https://open.spotify.com/artist/6ue8YoBGM5IQGRKnCmCJ2W"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170853,
-      "name": "Miserere, Op.44: 11. Miserere nobis - Lento, tranquilissimo, cantabilissimo, dolcissimo",
-      "url": "https://open.spotify.com/track/0aBnLtwnQVTtTrSL41Qfmb"
     },
     {
       "album": {
@@ -1621,7 +1621,7 @@
       "artists": [
         {
           "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/6ynDIYNsMKpH8VwK5qJsqI"
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
         },
         {
           "name": "LaCappella",
@@ -2283,7 +2283,7 @@
       "artists": [
         {
           "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/5pcwq11i2MzWrVSQRHSVYk"
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
         },
         {
           "name": "Apollo5",

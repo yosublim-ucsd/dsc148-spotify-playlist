@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Zouj, Sahareya, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: MYA, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 164651,
       "name": "2 Nights",
       "url": "https://open.spotify.com/track/4etc6ilk9J0jrSaqpacgw3"
@@ -450,6 +450,24 @@
       "duration_ms": 214548,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0mOOCAjXTjg3rNhqcSQWjA"
+    },
+    {
+      "album": {
+        "name": "All The Voices",
+        "url": "https://open.spotify.com/album/2jTOYlD1DT1hqY68kgOFjn"
+      },
+      "artists": [
+        {
+          "name": "Feyva",
+          "url": "https://open.spotify.com/artist/7GLq2u4tmRyLSW0k66J17w"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192433,
+      "name": "All The Voices",
+      "url": "https://open.spotify.com/track/2r2Tnqvp9ByZNTqKm38jnY"
     },
     {
       "album": {
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 115607,
       "name": "Aus Liebe",
       "url": "https://open.spotify.com/track/5L77WMdtYInJ6Hy96dVFQ7"
@@ -1020,6 +1038,24 @@
       "duration_ms": 159829,
       "name": "Baby Steps - Single Edit",
       "url": "https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC"
+    },
+    {
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/74B74aZj2BjNFdRNCYOZu7"
+      },
+      "artists": [
+        {
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275395,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/12vILCUH2YjOF6vK102dpj"
     },
     {
       "album": {
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 223292,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/7oOYclRZ2iI4DIJCjn11sA"
@@ -2208,7 +2244,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 263882,
       "name": "Cats (Not The Musical)",
       "url": "https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb"
@@ -2508,7 +2544,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 268363,
       "name": "Cops And Robbers",
       "url": "https://open.spotify.com/track/5IvkKsO8piNCWP7MfCG0oO"
@@ -2840,6 +2876,24 @@
       "duration_ms": 225958,
       "name": "Das Kapital",
       "url": "https://open.spotify.com/track/1YY4vxcVyPacQHvHQqlYYp"
+    },
+    {
+      "album": {
+        "name": "Das stimmt doch gar nicht",
+        "url": "https://open.spotify.com/album/7s8EMDgQIWv3xBCsdYHxlt"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/14TYA16u3JaszjSQTLxtsS"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182299,
+      "name": "Das stimmt doch gar nicht",
+      "url": "https://open.spotify.com/track/0VPbCiBVoZfIZ0WX4jVqCt"
     },
     {
       "album": {
@@ -4301,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "Feuer & Licht",
+        "url": "https://open.spotify.com/album/24ozTGiddzxlsJzPvwSXVu"
+      },
+      "artists": [
+        {
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Joulyn",
+          "url": "https://open.spotify.com/artist/4jiarfPX3Ve0H0wcEymkAO"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416733,
+      "name": "Feuer & Licht",
+      "url": "https://open.spotify.com/track/2vg6sBQm9TsnT4eKIHmLRB"
+    },
+    {
+      "album": {
         "name": "Fick dich hart",
         "url": "https://open.spotify.com/album/5veX9WGPhDKMIsojUgmcXz"
       },
@@ -4912,7 +4988,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 204035,
       "name": "Go",
       "url": "https://open.spotify.com/track/2aCcdJXnEzuitdeHzP79Wz"
@@ -5620,7 +5696,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 167441,
       "name": "her name",
       "url": "https://open.spotify.com/track/3YT7sk2Q1jL03lKS4Vidjo"
@@ -6247,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "WEICH",
+        "url": "https://open.spotify.com/album/7ffhILR3RMdTQCWRQyui6d"
+      },
+      "artists": [
+        {
+          "name": "Peat",
+          "url": "https://open.spotify.com/artist/63PWHfegUNVId6jDiZLOCL"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166587,
+      "name": "ICH JAGE EINEN ZUG IN DIE LUFT",
+      "url": "https://open.spotify.com/track/0vh7IEWBOUBMmPx5x0Eaqo"
+    },
+    {
+      "album": {
         "name": "Ich lass mich heut nicht gehn",
         "url": "https://open.spotify.com/album/2FyHzgsdq9NA2ODVJ93Dsm"
       },
@@ -6842,6 +6936,24 @@
       "duration_ms": 183624,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/5cOsBPbyuoVIhC02cqi73m"
+    },
+    {
+      "album": {
+        "name": "Katze",
+        "url": "https://open.spotify.com/album/7mHXiAijBBieCEQsqs3gLD"
+      },
+      "artists": [
+        {
+          "name": "REMOTE BONDAGE",
+          "url": "https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Katze",
+      "url": "https://open.spotify.com/track/6Jt4imSazIp46uJkbRYw5K"
     },
     {
       "album": {
@@ -8394,7 +8506,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 97411,
       "name": "MOUNTAINBIKER",
       "url": "https://open.spotify.com/track/7sbZnYpLsdxvw0ywLpRte0"
@@ -8592,7 +8704,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 178600,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/3Drhe1fCYzpPbzojJxThXW"
@@ -10431,6 +10543,24 @@
     },
     {
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0L3BXG37WlJRAz80lgwGYO"
+      },
+      "artists": [
+        {
+          "name": "San Silvan",
+          "url": "https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185045,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/4xxuQJfWreN9cdXQwthnSh"
+    },
+    {
+      "album": {
         "name": "Same",
         "url": "https://open.spotify.com/album/5QCjxj0muKSrn493w25hjg"
       },
@@ -10482,6 +10612,24 @@
       "duration_ms": 168750,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/4pRCVprlg9ZuvBigqnSLOd"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1vueDWjeJykVhvPzvdVHmI"
+      },
+      "artists": [
+        {
+          "name": "Fabio Battista",
+          "url": "https://open.spotify.com/artist/7LrLPGdPM6uqy29dZXgkv9"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175470,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/4GEQaWchQApNxs9w2ecROe"
     },
     {
       "album": {
@@ -12235,6 +12383,24 @@
     },
     {
       "album": {
+        "name": "Timeshift",
+        "url": "https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lula",
+          "url": "https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269428,
+      "name": "Timeshift",
+      "url": "https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW"
+    },
+    {
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/5xl7j7J98elPb2bP2OJ9oZ"
       },
@@ -13155,6 +13321,24 @@
     },
     {
       "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm"
+      },
+      "artists": [
+        {
+          "name": "Ant Antic",
+          "url": "https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt"
+    },
+    {
+      "album": {
         "name": "We Didn't Fit Together At All",
         "url": "https://open.spotify.com/album/5h0iJ7s2AySm2OuZdBirwV"
       },
@@ -13494,7 +13678,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 125537,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/4vRgJ27enjkkr4dGcW8aKZ"

@@ -5373,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Hit YouTube Kids Show: Season One",
+        "url": "https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "You Just Got Detention",
+      "url": "https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9"
+    },
+    {
+      "album": {
         "name": "Mini Pop Kids 17",
         "url": "https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t"
       },

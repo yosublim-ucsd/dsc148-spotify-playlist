@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,806 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,834 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 252 | [Afraid](https://open.spotify.com/track/0wMkpWBTPX4ScgUBCCPjk4) | [Anavae](https://open.spotify.com/artist/0JseT2AZzVMKsBlrAywFcO) | [45](https://open.spotify.com/album/4GO80k3K2QDOrSCeC2ASCn) | 3:38 |
 | 253 | [The Wall & I](https://open.spotify.com/track/5qIOUorQ9AInP9UliORgCC) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 5:04 |
 | 254 | [Wonder Woman](https://open.spotify.com/track/2FUPJxcJwZu4F7H4gs3wCu) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 3:19 |
-| 255 | [Kuyayki](https://open.spotify.com/track/2UbsoRco9xyXkjNFWtf5va) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/43YFvu5sxCu5ohsF4oX2bI) | 3:32 |
+| 255 | [Kuyayki](https://open.spotify.com/track/25eJ7HWISJUYZ0tM9393c6) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/4kBlPYtTcXYt4xfLFmWUOe) | 3:32 |
 | 256 | [They Know](https://open.spotify.com/track/3FBfzFwT408wu5fYQmZwJ4) | [MOTTRON](https://open.spotify.com/artist/5AY0Rks5xEfIXALj5HBHeu) | [Giants](https://open.spotify.com/album/4dftSYwDzkJkeaG1OK5oCD) | 2:52 |
 | 257 | [Fun Fair](https://open.spotify.com/track/5iwpbwgbaNcdFA2MXZynXq) | [The Last Detail](https://open.spotify.com/artist/2TOQ5b0RlP66nGOKBK66cU), [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu), [Fugu](https://open.spotify.com/artist/4PwseIxW9scQG0S8ZxM5MK) | [The Last Detail](https://open.spotify.com/album/5mTpIa8cHVdqgxsqEpBCdH) | 2:38 |
 | 258 | [Juanita](https://open.spotify.com/track/1Ik5g1Fkqdi9S4qxanHfn9) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [That Place by the Thing with the Cool Name](https://open.spotify.com/album/3hrJBKVG1BaNyW7HLXKCok) | 3:21 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxmNTE0OWExY2IxYTRkYzM4NmI0YWJhOTZiYmU0ZTFlNGNjNDUwMzMw`
+Snapshot ID: `MCw3NzA1ZTNhMWYzZDFlMWY4MmE0YjU4MGM2ZGI0ZjM3MGQwODY1YzUz`

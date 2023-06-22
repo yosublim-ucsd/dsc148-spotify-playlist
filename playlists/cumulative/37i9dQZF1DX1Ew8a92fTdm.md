@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-218 songs - 5 hr 31 min
+219 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Lullaby of Colors](https://open.spotify.com/track/0tBZQVRq7zRvTUHv7LnpkT) | [Peggy Roxie](https://open.spotify.com/artist/3FWKZdvRjRtGSgMNnVis04) | [Lullaby of Colors](https://open.spotify.com/album/7kf9KGjbvQqRIMHeynnkPP) | 1:10 | 2022-02-10 |  |
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-11-25 |  |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-11-25 |  |
+| [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 |  |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |

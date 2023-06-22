@@ -14435,6 +14435,24 @@
     },
     {
       "album": {
+        "name": "Rock On - Spotify Singles (From \"The Muppets Mayhem\")",
+        "url": "https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200331,
+      "name": "Rock On - Spotify Singles - From \"The Muppets Mayhem\"",
+      "url": "https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: La Rhonza
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Virgin Miri
 
-3,026 songs - 6 day 10 hr 13 min
+3,031 songs - 6 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [all my friends are sad](https://open.spotify.com/track/6NJRh5hVk9nm3aWRxsbGB0) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn), [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [all my friends are sad](https://open.spotify.com/album/0nQtc3n68PF2pIHGrFri1A) | 2:56 | 2020-11-27 | 2020-12-08 |
 | [All My Friends Are Stoned](https://open.spotify.com/track/11h0mPshswWfgEnQpsCceY) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp) | [All My Friends Are Stoned](https://open.spotify.com/album/1ksT70kOiQL6gKnlwk4HCa) | 2:14 | 2021-09-30 | 2021-10-28 |
 | [All My Friends Keep Dying From Drugs](https://open.spotify.com/track/35S0SX2nBy1YgcBx0OQHnB) | [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [All My Friends Keep Dying From Drugs](https://open.spotify.com/album/3YxgCq3HsdRDmttj80wf4I) | 2:56 | 2022-02-16 | 2022-03-10 |
+| [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-21 |  |
 | [All of the Time](https://open.spotify.com/track/4abd4BEjKqfII0IpP3xDuG) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [All of the Time](https://open.spotify.com/album/75tZiNswnFZBdeaSmwJQjy) | 3:45 | 2021-05-06 | 2021-05-27 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-19 | 2021-12-01 |
 | [all over the world](https://open.spotify.com/track/5d3FBrRB65AExn9CO8tNLZ) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [all over the world](https://open.spotify.com/album/0SF0d7rdOmP6dCfR1NCHlM) | 2:42 | 2022-03-02 | 2022-03-24 |
@@ -656,6 +657,7 @@
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-03-30 | 2022-05-05 |
 | [DGAF BOY](https://open.spotify.com/track/33TJMVW7BMDOW7l0Xv0eqO) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [DGAF BOY](https://open.spotify.com/album/3Xj4sBMCZnsHMgeR5hg4JG) | 2:09 | 2021-09-24 | 2021-10-28 |
 | [dial tone](https://open.spotify.com/track/1vWyivoBHrcBGWxUs0mZ95) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [dial tone](https://open.spotify.com/album/4l2UhrXMutG7doGGyoQLcj) | 2:22 | 2021-03-11 | 2021-04-08 |
+| [Diamonds](https://open.spotify.com/track/570oyFJazrcr2dw3un9lfL) | [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Diamonds](https://open.spotify.com/album/6CpucIaTTyKYlL5Z9S1IIf) | 2:43 | 2023-06-21 |  |
 | [Diamonds](https://open.spotify.com/track/0PUeN3Wz0rSxqYZX3mtyQt) | [MANILA](https://open.spotify.com/artist/77W7Db1EUROjIy3VVDJpRf) | [Diamonds](https://open.spotify.com/album/1Selb0LTj9S5T22sqh7977) | 2:42 | 2020-10-22 | 2020-11-18 |
 | [diamonds](https://open.spotify.com/track/4QOdx9SyiOUBgn6J9fI9uR) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [diamonds](https://open.spotify.com/album/3OTFQ2KPvfh6QvBRW5WyYi) | 2:50 | 2023-01-11 | 2023-02-23 |
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2020-11-05 | 2020-11-18 |
@@ -985,6 +987,7 @@
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-27 | 2023-01-12 |
 | [Gasp](https://open.spotify.com/track/4Sb1AjM4gzuSv5BQGIe7lq) | [Laura Jinn](https://open.spotify.com/artist/6oHcWUmB7aiGDwYURi9hGs) | [Gasp](https://open.spotify.com/album/4KxODFdlDd6gL0jUbzs2dG) | 5:00 | 2022-03-30 | 2022-04-14 |
 | [Geekn](https://open.spotify.com/track/1PvHgeSWeNDh1JaeEog0Ec) | [Leah Clark](https://open.spotify.com/artist/2EaRbpzDGMvzKhht7lrGF8) | [Geekn / sleep off a feeling](https://open.spotify.com/album/2lFE9gfh68QDtfWCmBu0kL) | 2:49 | 2021-07-29 | 2021-08-26 |
+| [Gemini](https://open.spotify.com/track/2INw6pVfZExHnTZ9CdrAI6) | [Caly Bevier](https://open.spotify.com/artist/5jMdkF29epK5cTCeMV17fh) | [Gemini](https://open.spotify.com/album/2yczGhWquwpckpXCIXEbED) | 2:12 | 2023-06-21 |  |
 | [Gemini](https://open.spotify.com/track/7lIGWqCphjoLeSXjT71MMC) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Gemini](https://open.spotify.com/album/2Yilbq95tQfn2Yzn14YH73) | 3:33 | 2021-09-16 | 2021-10-28 |
 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 | 2020-10-29 | 2020-11-18 |
 | [Get Better](https://open.spotify.com/track/3KQWwSelF05T6zXBlW2ZQu) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Get Better](https://open.spotify.com/album/6kHJll0WmzhcDOQYV6F84i) | 3:26 | 2021-05-06 | 2021-05-27 |
@@ -1027,6 +1030,7 @@
 | [God Porn](https://open.spotify.com/track/02Ri5a7Agbhn8zB4zoyIBO) | [heck](https://open.spotify.com/artist/7y5KlPii36z5bfYIIDGlfU) | [God Porn](https://open.spotify.com/album/1NuHn6Mt7vHsLMlf0SUuMg) | 3:06 | 2021-08-20 | 2021-08-26 |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-12-01 | 2022-01-13 |
 | [God, Sex, & Shame](https://open.spotify.com/track/0V1hC2tY1d3x7bj6s8tAJX) | [Lacy Cavalier](https://open.spotify.com/artist/0JoKhMFAxTx3WeYAJaYvAa) | [God, Sex, & Shame](https://open.spotify.com/album/3quX64IUQhqxLWE8wDnNn6) | 3:24 | 2021-01-15 | 2021-02-10 |
+| [Godless](https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Godless](https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj) | 2:58 | 2023-06-21 |  |
 | [Going Down](https://open.spotify.com/track/6YyHpPQbPcOp8Mvcd8eVfT) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Going Down](https://open.spotify.com/album/283qPj2uRwrdAeesi6WwS6) | 2:31 | 2021-05-20 | 2021-06-18 |
 | [Golden Eyes](https://open.spotify.com/track/2CVWGyKDFZRYzYkd9OxQRv) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Golden Eyes](https://open.spotify.com/album/11BEhlO8TEX1tmeXtdxkZb) | 2:28 | 2020-10-13\* | 2021-01-15 |
 | [Goldfish Crackers](https://open.spotify.com/track/5Cy0elV2l16CNjt2IPGV6n) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Goldfish Crackers](https://open.spotify.com/album/0S93LXaE9ARC38BUNgnWTd) | 2:50 | 2021-10-14 | 2021-11-11 |
@@ -1078,6 +1082,7 @@
 | [guy friends](https://open.spotify.com/track/65ADzGXf5dSdiH5s1uy7RZ) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [guy friends](https://open.spotify.com/album/1AdlWIvB021sDkhNTQ7Ark) | 3:05 | 2022-04-27 | 2022-05-26 |
 | [Guys & Cars](https://open.spotify.com/track/5VC2AMjQ4fAnluIuvDmDaP) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Guys & Cars](https://open.spotify.com/album/6OSWkcHR5hx9qJSCgw8hIl) | 3:03 | 2021-01-21 | 2021-02-25 |
 | [H34RTBR0K3N](https://open.spotify.com/track/2WUXmf53FccbzHWbIL35UM) | [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn) | [H34RTBR0K3N](https://open.spotify.com/album/2DRM9ro0j27felJLTQbYvo) | 2:48 | 2021-02-25 | 2021-03-18 |
+| [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 | 2023-06-21 |  |
 | [Habit](https://open.spotify.com/track/3YtjsqJOpfSuFV0KCCOxof) | [Judge Neal](https://open.spotify.com/artist/0ew8JtoFP1TiRvt4Yq7S7j) | [Habit](https://open.spotify.com/album/5AylX41acJ6zrutRpIn6GI) | 2:25 | 2022-04-27 | 2022-05-05 |
 | [habits](https://open.spotify.com/track/0Xt68NcFaT3sBuLSU0dp4b) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [habits](https://open.spotify.com/album/7fa83XbYeKOoWtVRtcKYEV) | 3:09 | 2020-12-03 | 2020-12-08 |
 | [Habits](https://open.spotify.com/track/5rz4fPVz6NrIaG21zfKkrg) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Habits](https://open.spotify.com/album/7n3LmLgfg5ewLr43FlQ57c) | 4:14 | 2023-04-12 | 2023-06-08 |

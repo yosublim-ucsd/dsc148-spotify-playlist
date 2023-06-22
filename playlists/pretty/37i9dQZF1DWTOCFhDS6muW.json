@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19850,
+  "num_followers": 19862,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2RjYjkxZWZmNDNiYzQ0YTA2OWQ5ZDBkM2M0NmRkNWU3ZWNkMWMx",
+  "snapshot_id": "MCwxNTJlNDhmYWFkN2E5ZGE2YTQxZjU1MDc5ODdjZWI2MTEzMDEyZTE1",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -131,6 +131,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/5lPNxtT9aKlEglvRoHdLCw"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 303266,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/1LWk0hrphIPqDorCCzASZF"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Punta Vibe",
         "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 268226,
       "name": "El Amor de una Rosa",
       "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/5lPNxtT9aKlEglvRoHdLCw"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 303266,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/1LWk0hrphIPqDorCCzASZF"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -391,38 +391,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 444533,
-      "name": "Puntas Garifunas Criollas 2",
-      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -455,6 +423,38 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 444533,
+      "name": "Puntas Garifunas Criollas 2",
+      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",

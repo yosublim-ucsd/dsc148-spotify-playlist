@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3201,
+  "num_followers": 3202,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzk3MjNhYmNiODVmNDgyMjhmMjViZmVkODczOTNlMjMwODlmNGE2",
+  "snapshot_id": "MCwwZWVmZDVjODgwM2UxNzNmMGU5MzZmYzFkYTFiNzFiNjc5NTRmODFk",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
+      "added_at": "2021-12-03 21:38:02",
+      "album": {
+        "name": "Overtime / Physically",
+        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 168501,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "La Pasion",
@@ -175,22 +191,6 @@
       "duration_ms": 187142,
       "name": "La Pasion",
       "url": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid"
-    },
-    {
-      "added_at": "2021-12-03 21:38:02",
-      "album": {
-        "name": "Overtime / Physically",
-        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 168501,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
-      "added_at": "2021-10-15 05:57:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Ecua",
-        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
+        "name": "Me Duele el Alma",
+        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Jesse Garcia",
+          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
         }
       ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
+      "duration_ms": 303240,
+      "name": "Me Duele el Alma",
+      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
     },
     {
       "added_at": "2021-11-05 06:05:00",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-10-15 05:57:00",
       "album": {
-        "name": "Me Duele el Alma",
-        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
+        "name": "Ecua",
+        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
       },
       "artists": [
         {
-          "name": "Jesse Garcia",
-          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 303240,
-      "name": "Me Duele el Alma",
-      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -925,28 +925,20 @@
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-11-05 06:05:00",
       "album": {
-        "name": "Felicidad (Colombian Mix)",
-        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
       },
       "artists": [
         {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        },
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        },
-        {
-          "name": "LA GUR\u00da",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Felicidad - Colombian Mix",
-      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     }
   ],
   "unique_name": "Alma",

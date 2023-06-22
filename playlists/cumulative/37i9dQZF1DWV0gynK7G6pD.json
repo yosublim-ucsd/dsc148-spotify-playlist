@@ -18547,6 +18547,28 @@
     },
     {
       "album": {
+        "name": "Rethinking Bach: The Cello Suites",
+        "url": "https://open.spotify.com/album/254PX4HcfIaSoFmIgQKIlf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jorge Jimenez",
+          "url": "https://open.spotify.com/artist/1tIrKgexPXS3cKcmRUrbW1"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138546,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007 (Arr. for Violin by Ferdinand David): I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5zLrkzpOcEVFqjUJwCa1Hr"
+    },
+    {
+      "album": {
         "name": "Bram van Sambeek Plays Bach on the Bassoon",
         "url": "https://open.spotify.com/album/3x4jHK9Xa8QOOYtJO2D1Aw"
       },
@@ -18672,28 +18694,6 @@
       "duration_ms": 136765,
       "name": "Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/4cBSha14gIBIoF6Sa3grNW"
-    },
-    {
-      "album": {
-        "name": "Rethinking Bach \u2013 The Cello Suites",
-        "url": "https://open.spotify.com/album/254PX4HcfIaSoFmIgQKIlf"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jorge Jimenez",
-          "url": "https://open.spotify.com/artist/1tIrKgexPXS3cKcmRUrbW1"
-        }
-      ],
-      "date_added": "2023-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138546,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude (Arr. for violin by Ferdinand David)",
-      "url": "https://open.spotify.com/track/5zLrkzpOcEVFqjUJwCa1Hr"
     },
     {
       "album": {

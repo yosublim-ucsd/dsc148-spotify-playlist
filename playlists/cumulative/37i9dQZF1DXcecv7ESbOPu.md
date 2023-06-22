@@ -4,7 +4,7 @@
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-8,444 songs - 18 day 6 hr 21 min
+8,445 songs - 18 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [All Around The World \(with Duckwrth\)](https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [All Around The World \(with Duckwrth\)](https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt) | 2:47 | 2022-06-30 | 2022-07-08 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-06 | 2022-10-14 |
 | [All Comes Back To You](https://open.spotify.com/track/1XqWSF1yKnKdEkgZ2JWouq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [All Comes Back To You](https://open.spotify.com/album/7LIma3JhuhzLm30VHqvaNK) | 3:16 | 2023-02-09 | 2023-02-17 |
-| [All Day Long](https://open.spotify.com/track/6HiGNUZ14GtBryrtLaql2n) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [All Day Long](https://open.spotify.com/album/3kqGbuqzgHdQcPQfrLzAcf) | 2:41 | 2023-06-15 |  |
+| [All Day Long](https://open.spotify.com/track/6HiGNUZ14GtBryrtLaql2n) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [All Day Long](https://open.spotify.com/album/3kqGbuqzgHdQcPQfrLzAcf) | 2:41 | 2023-06-15 | 2023-06-22 |
+| [All Day Long](https://open.spotify.com/track/6Q6lwa8690vNDPcZmmOLyB) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [All Day Long](https://open.spotify.com/album/1eZxpYK2uXMzzNsYkPpeBJ) | 2:41 | 2023-06-17 |  |
 | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW) | 2:18 | 2022-06-30 | 2022-07-08 |
 | [All Eyes On Me](https://open.spotify.com/track/3EgG8FCbyTpVBU0BgDpiMF) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [All Eyes On Me](https://open.spotify.com/album/29k0P1t3FOjhpQqBI1Ovza) | 4:00 | 2022-01-13 | 2022-01-21 |
 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 | 2023-05-25 | 2023-06-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 426860,
+  "num_followers": 427042,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTk0MWQ3M2RjMDMzMGFhYzM1NTg2YTVmYWQ2ODAyMThkNDk4Mjc0",
+  "snapshot_id": "MCw4YmIwY2YzNzIyNDU1YWQ5YWExZTkwYTVkNjBmODJkMmQ1NDNmYThj",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
-      },
-      "artists": [
-        {
-          "name": "90sFlav",
-          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Can't Love Myself",
         "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 122723,
       "name": "Can't Love Myself",
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
+      },
+      "artists": [
+        {
+          "name": "90sFlav",
+          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
-      },
-      "artists": [
-        {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
-        }
-      ],
-      "duration_ms": 96092,
-      "name": "memories of you",
-      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "With Somebody Else",
         "url": "https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 161406,
       "name": "With Somebody Else",
       "url": "https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 96092,
+      "name": "memories of you",
+      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Esuna",
-        "url": "https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH"
-      },
-      "artists": [
-        {
-          "name": "Nohidea",
-          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 130169,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Esuna",
+        "url": "https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH"
+      },
+      "artists": [
+        {
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv"
     },
     {
       "added_at": "2023-02-16 22:50:07",

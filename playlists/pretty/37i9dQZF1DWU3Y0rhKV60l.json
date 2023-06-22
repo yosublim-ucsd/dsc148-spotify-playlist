@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 6341,
+  "num_followers": 6358,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRhYzkxMzQxZDI3OWViYmJkMzlkZDEwNDc2ZWI3ZDE0OWEzNTcy",
+  "snapshot_id": "MCw5MWNhNzBmNDk4MDMxYzg1OTNhY2JmZjAwZjVmYWUwZDAzZThjY2Nm",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Oceanic Samples",
-        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
-      },
-      "artists": [
-        {
-          "name": "Hi Freq Samples",
-          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Heavy Oceans",
-      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Summer Ocean Waves",
         "url": "https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF"
       },
@@ -411,18 +395,34 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Epic Waves - vol.1",
-        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+        "name": "Oceanic Samples",
+        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
       },
       "artists": [
         {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
         }
       ],
-      "duration_ms": 229337,
-      "name": "Relaxing Waves",
-      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
+      "duration_ms": 156000,
+      "name": "Heavy Oceans",
+      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Ocean Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Baltic Ocean Wave Sounds",
+      "url": "https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Ocean Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
       },
       "artists": [
         {
-          "name": "JBE Nature Sounds",
-          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
         }
       ],
-      "duration_ms": 175750,
-      "name": "Baltic Ocean Wave Sounds",
-      "url": "https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B"
+      "duration_ms": 229337,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
+        "name": "Mystic Oceanic Haze",
+        "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mystic Oceanic Haze",
+      "url": "https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
         "name": "Pieces of Paradise (Nature)",
         "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
       },
@@ -827,24 +843,8 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Luscious Waves",
-        "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
-      },
-      "artists": [
-        {
-          "name": "Focus 365",
-          "url": "https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Luscious Waves",
-      "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
-        "name": "The Vast Sea",
-        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+        "name": "Oceanside Waves & Outer Channel Waves",
+        "url": "https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Sleepy Rolling Depths (Ocean)",
-      "url": "https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh"
+      "duration_ms": 244000,
+      "name": "Oceanside Waves",
+      "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -871,6 +871,38 @@
       "duration_ms": 177000,
       "name": "Deep And Beautiful - Seamless",
       "url": "https://open.spotify.com/track/4GahIgDfF61wccryMGdTeu"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Oceania",
+        "url": "https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sounds FX",
+          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
+        }
+      ],
+      "duration_ms": 129746,
+      "name": "Salty Sea Breezes",
+      "url": "https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Luscious Waves",
+        "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
+      },
+      "artists": [
+        {
+          "name": "Focus 365",
+          "url": "https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Luscious Waves",
+      "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -923,22 +955,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Mystic Oceanic Haze",
-        "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
-      },
-      "artists": [
-        {
-          "name": "Dreams of Dreams",
-          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mystic Oceanic Haze",
-      "url": "https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "On Formentera Island",
         "url": "https://open.spotify.com/album/1TPKlNlIynyFcMZfKHFdLA"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 201688,
       "name": "Playa Formentera Waves",
       "url": "https://open.spotify.com/track/3PMiF1Df2XzFHSK6kkb0zx"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
-        "name": "Oceania",
-        "url": "https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sounds FX",
-          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
-        }
-      ],
-      "duration_ms": 129746,
-      "name": "Salty Sea Breezes",
-      "url": "https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc"
     }
   ],
   "unique_name": "White Waves",

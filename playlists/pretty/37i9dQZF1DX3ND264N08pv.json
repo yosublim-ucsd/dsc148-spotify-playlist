@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 47127,
+  "num_followers": 47236,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ3OWVhZGYwMDVlMjFmZDQ4NmI1OTZlYWZkMzU0M2JiMzAzZDA4",
+  "snapshot_id": "MCw2NzE0NmFlMTg4NzVhOWQzMmRlNGZkYzI3OTg0NjA3NDIxMWU2YzBm",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Mad Masquerade",
+        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Mad Masquerade",
+      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "READY 4 WAR",
         "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172729,
       "name": "READY 4 WAR",
       "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Mad Masquerade",
-        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Mad Masquerade",
-      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/0vMsQ7wShHQP57T33VmuCn"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 179251,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7gVm5cBMqXahUkz3Dvlwrv"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Pac-man 2.0",
+        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
+      },
+      "artists": [
+        {
+          "name": "FrenchFaces",
+          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Pac-man 2.0",
+      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1147,18 +1163,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Pac-man 2.0",
-        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
       "artists": [
         {
-          "name": "FrenchFaces",
-          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 148360,
-      "name": "Pac-man 2.0",
-      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1179,26 +1199,6 @@
       "duration_ms": 239500,
       "name": "Premortality",
       "url": "https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1491,6 +1491,26 @@
       "duration_ms": 175271,
       "name": "Sky Ablaze",
       "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Gabba Flow",
+        "url": "https://open.spotify.com/album/68H48CmcvAjcXeXYgFhRAD"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Gabba Flow",
+      "url": "https://open.spotify.com/track/42aVtMaaZd0VbHcDhKfPDj"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Gabba Flow",
-        "url": "https://open.spotify.com/album/68H48CmcvAjcXeXYgFhRAD"
-      },
-      "artists": [
-        {
-          "name": "Yoshiko",
-          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Gabba Flow",
-      "url": "https://open.spotify.com/track/42aVtMaaZd0VbHcDhKfPDj"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Demonic Rage",
         "url": "https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
+      },
+      "artists": [
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        },
+        {
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
       },
@@ -1695,22 +1715,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
       "artists": [
         {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
         },
         {
-          "name": "EQUAL2",
-          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
         }
       ],
-      "duration_ms": 294600,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
+      "duration_ms": 233806,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1731,22 +1751,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
+        "name": "Dikke Rave Beat",
+        "url": "https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC"
       },
       "artists": [
         {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
         },
         {
-          "name": "LXCPR",
-          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+          "name": "Unlocked",
+          "url": "https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj"
         }
       ],
-      "duration_ms": 233806,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
+      "duration_ms": 173871,
+      "name": "Dikke Rave Beat",
+      "url": "https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1775,26 +1795,6 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Dikke Rave Beat",
-        "url": "https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC"
-      },
-      "artists": [
-        {
-          "name": "Gezellige Uptempo",
-          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
-        },
-        {
-          "name": "Unlocked",
-          "url": "https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Dikke Rave Beat",
-      "url": "https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481"
     },
     {
       "added_at": "2023-06-15 22:00:00",

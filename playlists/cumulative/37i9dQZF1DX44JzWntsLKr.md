@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-133 songs - 7 hr 16 min
+134 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Flavors of love](https://open.spotify.com/track/4FIw3GVcUKtT8UKGJbOZiD) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Flavors of love](https://open.spotify.com/album/7rCi68Tnlj8DWwFycetmve) | 3:17 | 2021-12-09 |  |
 | [FLOW](https://open.spotify.com/track/2t4z8kk5mjTBmZ4MsgXzH8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:36 | 2021-12-09 |  |
 | [Follow](https://open.spotify.com/track/7ri0aUbwDcItOnQbywEGU5) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FOLLOW \- FIND YOU](https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy) | 3:33 | 2021-12-09 |  |
+| [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-06-21 |  |
 | [From Zero](https://open.spotify.com/track/7EzmCxS5OMbH4XViWGvV8v) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:26 | 2021-12-09 |  |
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2021-12-09 |  |
 | [Give Me Dat](https://open.spotify.com/track/42i396f8Oen7VVyA7ujBMi) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:25 | 2021-12-09 |  |

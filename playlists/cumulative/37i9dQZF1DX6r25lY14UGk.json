@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "The Bicycle Song (from the Welcome to the Flea Circus EP)",
+        "url": "https://open.spotify.com/album/4u1FQyRQUWvcDTgsH63JzR"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Belles",
+          "url": "https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127828,
+      "name": "The Bicycle Song",
+      "url": "https://open.spotify.com/track/7q0vOWQvZBSAZbOEAJYfE4"
+    },
+    {
+      "album": {
         "name": "Whoopty Whoop",
         "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
       },

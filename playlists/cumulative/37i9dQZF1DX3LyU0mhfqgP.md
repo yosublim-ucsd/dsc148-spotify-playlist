@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Urias
 
-791 songs - 1 day 19 hr 12 min
+793 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Better Version \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:53 | 2022-11-22 | 2022-12-01 |
 | [Bhuti](https://open.spotify.com/track/7bEIVw6nFRu0yn3W0aqv1f) | [Umlilo](https://open.spotify.com/artist/14oq8TIMDzq12ttQIdKoow), [Jumping Backslash](https://open.spotify.com/artist/2ymGU4OA96plBXhc8tsD1b) | [Bhuti](https://open.spotify.com/album/3RYkAFIAEFzmrB3SwwgzqO) | 4:26 | 2023-01-24 | 2023-03-08 |
 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 | 2023-06-02 |  |
+| [BIG D\*\*\* ENERGY](https://open.spotify.com/track/2uwk9kkqbelVnL7RgNxhhw) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [BIG D\*\*\* ENERGY](https://open.spotify.com/album/7dhgkpNhPbDQrSUw2PDPvf) | 3:53 | 2023-06-21 |  |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-04-29 | 2022-12-01 |
 | [biggest asshole in the room](https://open.spotify.com/track/5p6hhmsw3JMoDc4bxMR3zY) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [biggest asshole in the room](https://open.spotify.com/album/4CII79RgJo3ijYIgiX1xMI) | 2:31 | 2023-03-07 | 2023-04-01 |
 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 | 2022-09-16 | 2022-10-08 |
@@ -540,6 +541,7 @@
 | [Overexposed](https://open.spotify.com/track/5R5KHwKv7QPau0ASPVaRaF) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Overexposed](https://open.spotify.com/album/6vxUpXnG1PfMhwyemBgVfU) | 2:28 | 2023-06-01 |  |
 | [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 | 2022-09-20 |
 | [Palladium](https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:07 | 2022-09-09 | 2022-10-08 |
+| [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-21 |  |
 | [paranoia party](https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/5kmn5lkE9iXZTcObGqtWam) | 3:05 | 2021-12-17 | 2022-01-29 |
 | [Parasites](https://open.spotify.com/track/1jTUPYLNOVm37c8QA8n25V) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Parasites](https://open.spotify.com/album/7hN9w3VNhYlxUeSPyWjhxZ) | 3:57 | 2022-05-27 | 2022-07-09 |
 | [Paris Girls](https://open.spotify.com/track/7BkRDpjFzNhhGDBZPVQt4k) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Paris Girls](https://open.spotify.com/album/51VwBB63KPh9smbmjXTWFc) | 3:27 | 2022-03-11 | 2022-07-27 |
@@ -784,7 +786,7 @@
 | [Your Side of It](https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Your Side of It](https://open.spotify.com/album/1r4lhS2o8slWxrNPpkdN5I) | 3:23 | 2022-01-21 | 2022-02-22 |
 | [אוהבת אותך](https://open.spotify.com/track/3i5f4CksO6h06hQ5BXfjBh) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g) | [24](https://open.spotify.com/album/5JnHpd9o8n1snOjhQIrTE0) | 3:32 | 2023-01-24 | 2023-03-08 |
 | [חזרה למציאות](https://open.spotify.com/track/105zU8MJxjQHOf9cRxDMZQ) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [חזרה למציאות](https://open.spotify.com/album/3bUjdo78ZOju0dCDKq8kOS) | 3:04 | 2023-06-01 |  |
-| [לה קוקרצ'ה](https://open.spotify.com/track/4NM9QIGs9sjfvKELPUocwQ) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [לה קוקרצ'ה](https://open.spotify.com/album/354MORn0U4ij5ySIAdx48w) | 2:14 | 2023-03-07 |  |
+| [לה קוקרצ'ה](https://open.spotify.com/track/4NM9QIGs9sjfvKELPUocwQ) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [לה קוקרצ'ה](https://open.spotify.com/album/354MORn0U4ij5ySIAdx48w) | 2:14 | 2023-03-07 | 2023-06-22 |
 | [למה מה \(Prod\. By Triangle\)](https://open.spotify.com/track/5U1SF3uuktsDtUikhWK9Ad) | [טום באום](https://open.spotify.com/artist/5nvSfnVX5gYHVChrIXBwza), [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [למה מה \(Prod\. By Triangle\)](https://open.spotify.com/album/3CdDXZWNpS0qsDOweysllE) | 2:57 | 2023-05-02 | 2023-06-02 |
 | [מעבר להר](https://open.spotify.com/track/6cxdCpoNZsvWNaJrD13QKy) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy) | [מעבר להר](https://open.spotify.com/album/4jDAKX4ZPgpXmGWDNJAqAA) | 3:20 | 2023-04-13 | 2023-05-10 |
 | [คืนให้ \(ps.\)](https://open.spotify.com/track/6RZJoBLhiRKqXeW7N55iFd) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [Mean TaitosmitH](https://open.spotify.com/artist/2cUSxZOzaRA7D3cxuIWVNT) | [คืนให้ \(ps.\)](https://open.spotify.com/album/2PCCiKnz9rt84NssRnQx1Q) | 3:37 | 2023-04-13 | 2023-05-10 |

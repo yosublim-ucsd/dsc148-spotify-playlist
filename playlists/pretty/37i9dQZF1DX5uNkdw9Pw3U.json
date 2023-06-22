@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 64621,
+  "num_followers": 64668,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDA1YTgxNDNmNzNmZTRmZWNlODhkZDBiNDMyMGIxYTY2OTQyOTdk",
+  "snapshot_id": "MCwzOWQ2MzhjMmIyYzI1MWQ3ZjkzYWI4MWNiY2VhOGJmZTk3ZTlhYmJm",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+      "duration_ms": 215293,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/3cn94Lk8pmA6CN8K25dIdM"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/3cn94Lk8pmA6CN8K25dIdM"
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 301000,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Orbit (Live from Air Studios)",
-        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 234313,
-      "name": "Orbit - Live from Air Studios",
-      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Orbit (Live from Air Studios)",
+        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 234313,
+      "name": "Orbit - Live from Air Studios",
+      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "21",
-      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Avenue",
         "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Treat Me so Bad (feat. Beharie)",
+        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 171489,
+      "name": "Treat Me so Bad",
+      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1599,26 +1619,6 @@
       "duration_ms": 160000,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Treat Me so Bad (feat. Beharie)",
-        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 171489,
-      "name": "Treat Me so Bad",
-      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1695,38 +1695,38 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Sweet Insomnia",
-        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
       "artists": [
         {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Land of Regrets",
-        "url": "https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx"
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
       },
       "artists": [
         {
-          "name": "Alvah",
-          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
+          "name": "Lil Halima",
+          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
+        },
+        {
+          "name": "Canto",
+          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
         }
       ],
-      "duration_ms": 204448,
-      "name": "Land of Regrets",
-      "url": "https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML"
+      "duration_ms": 140924,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
     }
   ],
   "unique_name": "Laid Back Beats",

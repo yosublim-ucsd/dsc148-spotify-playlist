@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,740 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,110 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Stylist \(feat\. Guè\)](https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Stylist \(feat\. Guè\)](https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5) | 2:19 |
 | 50 | [Giochi](https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Giochi](https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B) | 2:54 |
 
-Snapshot ID: `MCw2MjU1MjU5ZjMyOTMwMTkwNGQ2M2M5MWQwNTg5YTAyMzRhNmMxNzZi`
+Snapshot ID: `MCwzYzAyOWU2NGEzZDYyZGYxNmQwOTcwNDE0NWY1OTUwN2NkYmZjYTY0`

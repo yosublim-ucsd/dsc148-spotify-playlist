@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-242 songs - 12 hr 45 min
+243 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Confession Obsession](https://open.spotify.com/track/36Z7sgxX5uPII38f21gwya) | [Kill Lincoln](https://open.spotify.com/artist/6vw3QQUYW5TSxqsEvI28W6) | [Confession Obsession](https://open.spotify.com/album/2MeBP6wdOKSGfJdHV2brdc) | 2:25 | 2021-09-02 | 2022-07-08 |
 | [Crocodile](https://open.spotify.com/track/4eEK1bzaARHBik8zQbtLv4) | [Arrows to Fire](https://open.spotify.com/artist/4br1yh8u3jTsvKkeSESW5M) | [Crocodile](https://open.spotify.com/album/5mxNNvbl6SKNHbLXr5FFwU) | 2:38 | 2022-04-14 | 2022-04-19 |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/6bcnIiOiDS3YxgqV93bXjY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/0yTSmlPjXIW5CsOFaqJT8r) | 2:43 | 2021-09-02 | 2022-07-24 |
-| [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 |  |
+| [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 | 2023-06-22 |
 | [Detonate](https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM) | [Joystick!](https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF) | [I Can't Take It Anymore](https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w) | 1:19 | 2021-09-02 | 2022-07-09 |
 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 | 2021-09-02 |  |
 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 | 2021-09-02 | 2022-12-10 |
@@ -231,6 +231,7 @@
 | [We Will Fall Together](https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 4:49 | 2022-04-14 |  |
 | [We Will Fall Together](https://open.spotify.com/track/2oRJOGttP04fYcWLZbU84t) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere In The Between](https://open.spotify.com/album/0sYcAlL5ztWcw3FIJay3qD) | 4:49 | 2021-09-02 | 2022-07-29 |
 | [What You Burn](https://open.spotify.com/track/7tp2beIGRHisVsXz8DJi5O) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [What You Burn](https://open.spotify.com/album/3YKiGR3JRVp99NJTdAH3Cc) | 3:22 | 2021-09-02 | 2022-07-22 |
+| [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 | 2023-05-19 |  |
 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 | 2021-09-02 | 2022-12-10 |
 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 | 2021-09-02 |  |
 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 | 2022-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Tseba
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,195 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,213 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 22 | [Solteiro Sou um Perigo](https://open.spotify.com/track/4faZxf6Jp2DRwlcb8wZBhx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou um Perigo](https://open.spotify.com/album/2223agbx14JdDzzjiPUh3N) | 2:49 |
 | 23 | [THRILL](https://open.spotify.com/track/7FS1ozfgxmnKG22hWMqKiB) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [THRILL](https://open.spotify.com/album/1tRnK7TAlMreFLVE01gzXZ) | 2:18 |
 | 24 | [Truths](https://open.spotify.com/track/4PC0UqnSndVDRispI75OyD) | [Lambo](https://open.spotify.com/artist/6yclXxDJ7Co1CpxN2fm79m) | [Truths](https://open.spotify.com/album/6QpYbWUrXplBlmZe7Kc5G2) | 3:35 |
-| 25 | [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [Bavhu](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 |
+| 25 | [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 |
 | 26 | [PLEASE DON’T DO DRUGS!!](https://open.spotify.com/track/52BvYW1DiarvgTJsocrZni) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn) | [THE MIXTAPE](https://open.spotify.com/album/6hIlMAm0ZTe7SVrFS0bXH5) | 3:43 |
 | 27 | [Over the Hill](https://open.spotify.com/track/5fctnw5MEVyXYAlGxsjz3E) | [Self Tape](https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI) | [Over the Hill](https://open.spotify.com/album/6j0STyOcbk6jNRZcWAHBNz) | 2:48 |
 | 28 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Way It Is](https://open.spotify.com/track/7MvmvKyJpfHyQDwAYuuap3) | [GC](https://open.spotify.com/artist/5aiWppvbSrw0HQI4Mp7mpI) | [Way It Is](https://open.spotify.com/album/5B2Rkuj8EEgvY2LakKvCfF) | 2:18 |
 | 101 | [Parallels](https://open.spotify.com/track/0kVks3qR893AzdY7bH8v4o) | [Tom Day](https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Parallels](https://open.spotify.com/album/4jtz79c1GnbAWU8P89fKrN) | 6:56 |
 
-Snapshot ID: `MCwyMTAwZWRiZjdhNGNkYWY3NWZkNTkwMWJhNGYzMmIwYTYzZWZmZTI5`
+Snapshot ID: `MCw5ZWVkNDkwZDIzYzBmNzkxZWY4Zjc4NDM3MmZlNTE4ZGRjZGJjN2U2`

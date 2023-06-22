@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 629037,
+  "num_followers": 629011,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQ3ZTE5MGIyZjY4ODQ4ZTYwMThkZGE3NDFmNTJhZGIyMzAwOTk0",
+  "snapshot_id": "MCwyMDZlZmIyODRjNDEzNjAwMWNjOWEzNDY1ODY4ODBhOTY1M2I4NGU1",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -491,42 +511,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "\u00c9chame La Culpa",
-      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Love Lies (with Normani)",
         "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 201707,
       "name": "Love Lies (with Normani)",
       "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FORASTEIRO",
-      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "MAMACITA (remixes)",
         "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
       },
@@ -1927,6 +1907,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FORASTEIRO",
+      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Los Chulitos",
         "url": "https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN"
       },
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
-      },
-      "artists": [
-        {
-          "name": "FTampa",
-          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Make It Hot",
         "url": "https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
     },
     {
       "added_at": "2023-02-17 03:00:00",

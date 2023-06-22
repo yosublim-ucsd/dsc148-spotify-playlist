@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 490032,
+  "num_followers": 489947,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGE5ZjYyMjMzNTMwNzQwODYzNWE2YWJmZGU4YmQzMmU4YjJkMTc2",
+  "snapshot_id": "MCxkNGNmMWVhNjAxNGNhYWIzZTkzMDAxYTEwZWRmODVhY2UwMDFmODU0",
   "tracks": [
     {
       "added_at": "2023-05-22 17:51:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Dern Kala",
-      "url": "https://open.spotify.com/track/47FmTHqPWGWEfbgDpLjvCt"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
         "name": "Learn to Exist",
         "url": "https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+        "name": "Goose Bumps",
+        "url": "https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Boyscott",
+          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
         }
       ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+      "duration_ms": 192542,
+      "name": "Nova Scotia 500",
+      "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
     },
     {
       "added_at": "2023-05-22 17:51:40",
@@ -555,18 +539,34 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "Goose Bumps",
-        "url": "https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM"
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
       },
       "artists": [
         {
-          "name": "Boyscott",
-          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 192542,
-      "name": "Nova Scotia 500",
-      "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
+      "duration_ms": 219840,
+      "name": "Dern Kala",
+      "url": "https://open.spotify.com/track/47FmTHqPWGWEfbgDpLjvCt"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-05-22 17:51:40",

@@ -1,12 +1,12 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 118316,
+  "num_followers": 118373,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzUyOTRlNGFmMTkzYjkzZWZkOTI1ZTU1NTg4OTA2ZjliZTcxMTM5",
+  "snapshot_id": "MCw5MWM3NDg3YzMxYjE2OTFiMWMyNmIxNmZjMzQwZGJhOTNmMzU4NTMy",
   "tracks": [
     {
       "added_at": "2023-06-07 06:28:03",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Udd Gaye",
+      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
+    },
+    {
+      "added_at": "2023-06-07 06:28:03",
+      "album": {
         "name": "Aaya Na Tu",
         "url": "https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 210000,
       "name": "Aaya Na Tu",
       "url": "https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4"
-    },
-    {
-      "added_at": "2023-06-07 06:28:03",
-      "album": {
-        "name": "Ved",
-        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Udd Gaye",
-      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
-        "name": "Khwaab",
-        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
       },
       "artists": [
         {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
         }
       ],
-      "duration_ms": 178421,
-      "name": "Khwaab",
-      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
-        "name": "Baaraat",
-        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
       },
       "artists": [
         {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
         }
       ],
-      "duration_ms": 222096,
-      "name": "Baaraat",
-      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
+      "duration_ms": 178421,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -407,6 +407,26 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
+        "name": "Dev",
+        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "duration_ms": 184370,
+      "name": "Chalo Chalein",
+      "url": "https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe"
+    },
+    {
+      "added_at": "2023-06-07 06:28:03",
+      "album": {
         "name": "Aalas Ka Pedh",
         "url": "https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 178197,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
-    },
-    {
-      "added_at": "2023-06-07 06:28:03",
-      "album": {
-        "name": "Dev",
-        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Seedhe Maut",
-          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
-        }
-      ],
-      "duration_ms": 184370,
-      "name": "Chalo Chalein",
-      "url": "https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
+        "name": "Pehli Baarish",
+        "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Pehli Baarish",
+      "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
+    },
+    {
+      "added_at": "2023-06-07 06:28:03",
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
-    },
-    {
-      "added_at": "2023-06-07 06:28:03",
-      "album": {
-        "name": "Pehli Baarish",
-        "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Pehli Baarish",
-      "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
-        "name": "Sifar",
-        "url": "https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF"
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw"
       },
       "artists": [
         {
-          "name": "Lucky Ali",
-          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Dekha Hai Aise Bhi",
-      "url": "https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei"
+      "duration_ms": 183942,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw"
+        "name": "Sifar",
+        "url": "https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF"
       },
       "artists": [
         {
-          "name": "Shamoon Ismail",
-          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
         }
       ],
-      "duration_ms": 183942,
-      "name": "Rung",
-      "url": "https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM"
+      "duration_ms": 238066,
+      "name": "Dekha Hai Aise Bhi",
+      "url": "https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei"
     },
     {
       "added_at": "2023-06-07 06:28:03",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-06-07 06:28:03",
       "album": {
-        "name": "Genesis 1:1",
-        "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
-      },
-      "artists": [
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        },
-        {
-          "name": "somanshu",
-          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "intezaar",
-      "url": "https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh"
-    },
-    {
-      "added_at": "2023-06-07 06:28:03",
-      "album": {
         "name": "Sha- Dobara",
         "url": "https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 192540,
       "name": "Sha- Dobara",
       "url": "https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC"
+    },
+    {
+      "added_at": "2023-06-07 06:28:03",
+      "album": {
+        "name": "Genesis 1:1",
+        "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "intezaar",
+      "url": "https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh"
     },
     {
       "added_at": "2023-06-07 06:28:03",

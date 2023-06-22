@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=LMyz910ATeW2\-vfCbmM0OA">Anke Richards</a>
 
-357 songs - 20 hr 46 min
+358 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-01 |  |
 | [Bad For My Health](https://open.spotify.com/track/5b7Fs1ejAcHoD02OyDIqYB) | [SunMan](https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1) | [Bad For My Health](https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw) | 2:57 | 2023-03-02 | 2023-04-22 |
 | [Bait](https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl) | [Chloe Theron](https://open.spotify.com/artist/4gt7EExnJtmS8Ed59AbAHa) | [Bait](https://open.spotify.com/album/2YsmbxnxeMuOAjhF0UKk0E) | 3:48 | 2023-03-02 | 2023-05-06 |
-| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 |  |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-08 |  |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2022-12-16 |
 | [Be Safe](https://open.spotify.com/track/4ew3JQ22NjwC0zyyzx0tob) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Be Safe](https://open.spotify.com/album/4kziQRgKsbodafWnaShxUM) | 3:25 | 2022-07-21 | 2022-11-25 |
 | [Before The Sun Comes Up](https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P) | [The Charles Géne Suite](https://open.spotify.com/artist/5IY1vGqRklTMkio7Pi33ci), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lerato lichaba](https://open.spotify.com/artist/2kGjcOOtMDyTEK9po6n9l4) | [Suite Nites](https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r) | 6:42 | 2022-07-21 | 2022-11-04 |

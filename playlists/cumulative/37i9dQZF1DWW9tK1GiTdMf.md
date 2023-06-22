@@ -2,7 +2,7 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> È ora di una nuova SUMMERSAD ☔ ☀️ La Sad e NASKA in cover!
+> È ora di una nuova SUMMERSAD ☔ La Sad e NASKA in cover!
 
 550 songs - 1 day 1 hr 14 min
 

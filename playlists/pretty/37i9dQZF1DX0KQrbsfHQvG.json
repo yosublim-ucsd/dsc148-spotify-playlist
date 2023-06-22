@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 179708,
+  "num_followers": 179791,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTE5MmMzMGE4ZTI2YWFkMTYyZWViODViY2I2NWJmYTlhNTZjNTdm",
+  "snapshot_id": "MCxhYzRiMWQ0MmNiMGExYmUwOTcwODNjMzA2Y2I4ZTFkYTUzNmFhYmVl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 176373,
-      "name": "American Attraction",
-      "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
+      "duration_ms": 203118,
+      "name": "American Dreams",
+      "url": "https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -695,18 +711,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
         }
       ],
-      "duration_ms": 203118,
-      "name": "American Dreams",
-      "url": "https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO"
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 141620,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -787,38 +803,6 @@
       "duration_ms": 189262,
       "name": "21st Century Liability",
       "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 220528,
       "name": "Our House (The Mess We Made)",
       "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Year Zero",
-        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Capital G",
-      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Year Zero",
+        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Capital G",
+      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "We Fight",
-      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 214170,
       "name": "None Of The Above",
       "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "We Fight",
+      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "WRONG GENERATION",
+        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "WRONG GENERATION",
+      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 194160,
       "name": "The Culling",
       "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "WRONG GENERATION",
-        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "WRONG GENERATION",
-      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
     },
     {
       "added_at": "2022-11-04 04:00:00",

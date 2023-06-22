@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: Kiana Ledé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784,787 likes - 147 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784,919 likes - 147 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 146 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 147 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 |
 
-Snapshot ID: `MCw1YmI2NzEyMjUwYjdlOGIzYzRlNjk1ZTBjMDUzN2JkYjE0ODgxOTJm`
+Snapshot ID: `MCw2ODIxMTdhNTRhNzg4OTUwOWIzOWU3ZWFmNjdhMzFkNmVhYmUzZmNk`

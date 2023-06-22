@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 69794,
+  "num_followers": 69821,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2UxMzQ0Y2VhYTMzMGM0YTk4ZTMwNjNiNGU2MGQzOWY5ZjQ3ZWQ0",
+  "snapshot_id": "MCw3N2ExODQ1MWM3MDliMzUzNWQ0ZTE4MmY5ODhmNmRiZmUxOTFhOWY4",
   "tracks": [
     {
       "added_at": "2023-05-23 13:45:39",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 419640,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -831,18 +831,34 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -859,22 +875,6 @@
       "duration_ms": 255066,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1107,6 +1091,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "The Clarke/Duke Project",
         "url": "https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 227200,
       "name": "Sweet Baby",
       "url": "https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "One Heartbeat",
         "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "Funky Nassau",
+        "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
+      },
+      "artists": [
+        {
+          "name": "The Beginning Of The End",
+          "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR"
+        }
+      ],
+      "duration_ms": 186301,
+      "name": "Funky Nassau, Pt. 1",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "All In The Name Of Love",
         "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 275640,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Funky Nassau",
-        "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
-      },
-      "artists": [
-        {
-          "name": "The Beginning Of The End",
-          "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Funky Nassau, Pt. 1",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
-      },
-      "artists": [
-        {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "Oh Girl",
-      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -1983,18 +1967,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Come into My Life: The Very Best of Joyce Sims",
-        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
       },
       "artists": [
         {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
         }
       ],
-      "duration_ms": 227773,
-      "name": "Come into My Life (Radio Mix)",
-      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
+      "duration_ms": 217520,
+      "name": "Oh Girl",
+      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2015,6 +1999,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "80's R&B Love Songs",
+        "url": "https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 246906,
+      "name": "No One In the World",
+      "url": "https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "80's R&B Love Songs",
-        "url": "https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n"
+        "name": "Come into My Life: The Very Best of Joyce Sims",
+        "url": "https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
         }
       ],
-      "duration_ms": 246906,
-      "name": "No One In the World",
-      "url": "https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H"
+      "duration_ms": 227773,
+      "name": "Come into My Life (Radio Mix)",
+      "url": "https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Come On Train",
-        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
-      },
-      "artists": [
-        {
-          "name": "Don Thomas",
-          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Come On Train - Original Mix",
-      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Super 20 - Discoparty",
         "url": "https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7"
       },
@@ -2675,6 +2659,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "Come On Train",
+        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
+      },
+      "artists": [
+        {
+          "name": "Don Thomas",
+          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Come On Train - Original Mix",
+      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "One Heartbeat",
         "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
       },
@@ -2687,6 +2687,22 @@
       "duration_ms": 247000,
       "name": "One Heartbeat",
       "url": "https://open.spotify.com/track/74mogflQPJsYtZWZQ9mFmM"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2711,18 +2727,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
       },
       "artists": [
         {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
+      "duration_ms": 262733,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/0M9IxiWUPqYXlBbPLaJg0R"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2743,18 +2759,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+        "name": "Love Jams Volume Two",
+        "url": "https://open.spotify.com/album/5VsuiqM0wEpysi8KctGdEG"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
         }
       ],
-      "duration_ms": 262733,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/0M9IxiWUPqYXlBbPLaJg0R"
+      "duration_ms": 272226,
+      "name": "Superwoman - Edit",
+      "url": "https://open.spotify.com/track/5iUGRvlnBtz9D1rmR3Sc9x"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2771,22 +2787,6 @@
       "duration_ms": 186617,
       "name": "I Want to Make It with You",
       "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Love Jams Volume Two",
-        "url": "https://open.spotify.com/album/5VsuiqM0wEpysi8KctGdEG"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Superwoman - Edit",
-      "url": "https://open.spotify.com/track/5iUGRvlnBtz9D1rmR3Sc9x"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Swept Away (Expanded Edition)",
-        "url": "https://open.spotify.com/album/20SrAySYqHsaUE4XGlH6Pv"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Missing You - 7\" Single Mix",
-      "url": "https://open.spotify.com/track/1MGgmB8tBTpicGil7mfUqc"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Looking Up: The Complete Works",
         "url": "https://open.spotify.com/album/1cCPp72pYp0Qi58RonEgG9"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 348500,
       "name": "Love Will Set You Free",
       "url": "https://open.spotify.com/track/1Lneu3yr39cjBUy5Puo7Fr"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Swept Away (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20SrAySYqHsaUE4XGlH6Pv"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Missing You - 7\" Single Mix",
+      "url": "https://open.spotify.com/track/1MGgmB8tBTpicGil7mfUqc"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3019,18 +3019,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Method To The Madness",
-        "url": "https://open.spotify.com/album/56VMIvmsPptQmzkgB4gvg5"
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
       "artists": [
         {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Take a Vacation from Life (And Visit Your Dreams)",
-      "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
+      "duration_ms": 174333,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3051,18 +3051,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
+        "name": "Method To The Madness",
+        "url": "https://open.spotify.com/album/56VMIvmsPptQmzkgB4gvg5"
       },
       "artists": [
         {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+      "duration_ms": 271453,
+      "name": "Take a Vacation from Life (And Visit Your Dreams)",
+      "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Masters Series: 70's Soul Vol. 2",
-        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
-      },
-      "artists": [
-        {
-          "name": "Al Matthews",
-          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "A Nickel And A Nail And Ace Of Spades",
         "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
@@ -3143,6 +3127,22 @@
       "duration_ms": 254800,
       "name": "I Have Learned To Do Without You",
       "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "The Masters Series: 70's Soul Vol. 2",
+        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
+      },
+      "artists": [
+        {
+          "name": "Al Matthews",
+          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3423,18 +3423,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "No Easy Way Down: Rare Soul Sides",
-        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
+        "name": "Love And Happiness",
+        "url": "https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg"
       },
       "artists": [
         {
-          "name": "Na Allen",
-          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 173480,
-      "name": "No Easy Way Down",
-      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
+      "duration_ms": 187880,
+      "name": "You Ought To Be With Me",
+      "url": "https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3455,18 +3455,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Love And Happiness",
-        "url": "https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg"
+        "name": "No Easy Way Down: Rare Soul Sides",
+        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Na Allen",
+          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
         }
       ],
-      "duration_ms": 187880,
-      "name": "You Ought To Be With Me",
-      "url": "https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL"
+      "duration_ms": 173480,
+      "name": "No Easy Way Down",
+      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
     },
     {
       "added_at": "2023-05-23 13:45:39",

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 61690,
+  "num_followers": 61729,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTFlYjU3ZWRiNmUzMTMzNjg3ZjEzNjhhZDc2NDZjODNjNzcxMzdj",
+  "snapshot_id": "MCxmOWI2MGIwZTBlYjk5NzhmZmE0MGJkOTUxNTFlOTQxOGY1MzJjZGYy",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "405 - Metronomy x Biig Piig",
+        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "405 - Metronomy x Biig Piig",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -451,26 +451,6 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -511,6 +491,26 @@
       "duration_ms": 183943,
       "name": "Somewhere (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
+      },
+      "artists": [
+        {
+          "name": "Viratempo",
+          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Se Eu Soubesse",
+      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Daikiri",
         "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
       "artists": [
         {
-          "name": "Viratempo",
-          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
+          "name": "Xavier Martinex",
+          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
         }
       ],
-      "duration_ms": 217151,
-      "name": "Se Eu Soubesse",
-      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
+      "duration_ms": 176120,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -819,22 +835,6 @@
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
-      },
-      "artists": [
-        {
-          "name": "Xavier Martinex",
-          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Invierno (Remix)",
         "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1039,26 +1039,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Born a Loser (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB"
+        "name": "Drinkee (Radio Edit)",
+        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Moving Men - Metronomy Remix",
-      "url": "https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO"
+      "duration_ms": 191468,
+      "name": "Drinkee (Radio Edit)",
+      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1083,18 +1075,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Drinkee (Radio Edit)",
-        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
+        "name": "Born a Loser (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 191468,
-      "name": "Drinkee (Radio Edit)",
-      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
+      "duration_ms": 240853,
+      "name": "Moving Men - Metronomy Remix",
+      "url": "https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO"
     },
     {
       "added_at": "2023-03-10 05:01:00",

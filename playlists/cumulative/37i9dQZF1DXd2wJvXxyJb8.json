@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Em Cima Sempre",
+        "url": "https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD"
+      },
+      "artists": [
+        {
+          "name": "O Er\u00f3tico",
+          "url": "https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8"
+    },
+    {
+      "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
       },

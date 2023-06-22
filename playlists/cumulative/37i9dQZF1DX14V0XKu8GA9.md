@@ -4,7 +4,7 @@
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-290 songs - 13 hr 45 min
+291 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 | 2023-05-27 |  |
 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 | 2022-06-07 | 2023-01-28 |
 | [PRO CLUB](https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PRO CLUB](https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61) | 2:46 | 2022-02-25 | 2023-01-28 |
-| [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 | 2023-05-27 |  |
+| [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 | 2023-05-27 | 2023-06-22 |
+| [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 | 2023-05-27 |  |
 | [Push It](https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:22 | 2022-09-11 | 2023-01-28 |
 | [Put My Life on It](https://open.spotify.com/track/1dpTlkDdSAMTCPhu28FM92) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 4:22 | 2022-02-25 | 2022-07-02 |
 | [Put Yo Hood Up](https://open.spotify.com/track/5yHXeweGNpVV4oXb8g8zN0) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Southside Hoodlum](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ) | [No Hesitation](https://open.spotify.com/album/0872l0VaA9zcuG1NhSHjQQ) | 2:12 | 2022-01-10 | 2022-02-26 |

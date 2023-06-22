@@ -2,7 +2,7 @@
 
 ### [Rock Frequency](https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke)
 
-> New Rock & Alt driving the current, every week\. Cover: KennyHoopla
+> New Rock & Alt driving the current, every week\. Cover: Hemlocke Springs
 
 214 songs - 10 hr 45 min
 

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-491 songs - 1 day 3 hr 11 min
+492 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Down With Me](https://open.spotify.com/track/1poa3266sVq4mnVbgocKda) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Down With Me](https://open.spotify.com/album/3j95Z60Qiu2cyDQaRQWmu5) | 3:12 | 2023-02-17 | 2023-05-13 |
 | [Dream](https://open.spotify.com/track/1xrsU12VcEATEYMc8XE1az) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Dream](https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm) | 2:39 | 2023-05-12 |  |
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-06 | 2022-09-24 |
+| [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-09 |  |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-05 |  |
 | [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 | 2022-08-06 |
@@ -253,7 +254,7 @@
 | [Lightspeed](https://open.spotify.com/track/5gITmjpV05xxyylbHccLvS) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Lightspeed](https://open.spotify.com/album/5A56BDZ9UIoDkYpC6dLk2z) | 2:52 | 2022-01-14 | 2022-03-12 |
 | [Like a Drug](https://open.spotify.com/track/5E5r6I7krISw3mbmzNIHLZ) | [Glowing Embers](https://open.spotify.com/artist/6PLbxzJR9btPPNFFCw20JC) | [Like a Drug/Comin' Down](https://open.spotify.com/album/4esqeqh6tgxd7Z3aqeJOrZ) | 4:57 | 2022-01-21 | 2022-02-26 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 | 2022-09-03 |
-| [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 | 2023-02-24 |  |
+| [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 | 2023-02-24 | 2023-06-22 |
 | [Locco](https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco](https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj) | 3:03 | 2022-02-04 | 2022-06-25 |
 | [Look In My Eyes](https://open.spotify.com/track/5pRZVUGi1Z9QteqfEAFNw0) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Look In My Eyes](https://open.spotify.com/album/2u1wqzI86mTpqylQPJ3iHm) | 3:25 | 2022-08-19 | 2022-10-29 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-10-14 | 2023-01-06 |

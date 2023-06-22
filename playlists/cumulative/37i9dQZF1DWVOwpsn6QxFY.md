@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-251 songs - 15 hr 20 min
+252 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Everything You Got](https://open.spotify.com/track/2VCvlbv5kn9pjnyY76Bgid) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Everything You Got](https://open.spotify.com/album/0bRxuO3LcjfFh8pFaBmKYG) | 3:36 | 2022-03-31 | 2022-04-15 |
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-08 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-11-13 |
+| [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 | 2023-05-19 |  |
 | [Falling by the Wayside](https://open.spotify.com/track/6lLABGIpkcR84c13Gg1lnT) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Falling by the Wayside](https://open.spotify.com/album/2EhEO1Avj1EUg0zHrOk29f) | 4:46 | 2021-11-12 | 2022-07-25 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-11-12 | 2023-03-18 |
 | [Fine & Peachy](https://open.spotify.com/track/3pOlJ93rJ9Bm0WWhDkU8wr) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Woman You Want](https://open.spotify.com/album/3tj0F758dlqS3TZjKmtgnM) | 2:52 | 2021-11-12 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-08 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 | 2023-04-10 |
 | [I Found Out When the Day Had Come](https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [I Found Out When the Day Had Come](https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc) | 2:44 | 2021-11-12 | 2023-05-05 |
-| [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 |  |
+| [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 | 2023-06-22 |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-22 | 2022-06-24 |
 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 | 2022-03-31 | 2022-08-10 |
 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 | 2023-04-27 | 2023-06-06 |
@@ -167,7 +168,7 @@
 | [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-08-12 | 2022-09-20 |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-03-31 | 2022-11-30 |
 | [Nightmare Town](https://open.spotify.com/track/6wbiM1tYV2OSsbddUSILCt) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Nightmare Town](https://open.spotify.com/album/4Vkqv8l95KNbujVrIEPlSN) | 3:37 | 2022-03-31 | 2022-04-20 |
-| [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-03-31 | 2022-04-20 |
+| [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-03-31 |  |
 | [Oh My Love](https://open.spotify.com/track/6hut3RLbA9VioNhAyif4hj) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Oh My Love](https://open.spotify.com/album/29cXpTS6yx0BwbWxrw7CiD) | 2:20 | 2022-03-31 | 2022-04-21 |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-06-23 |  |
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2021-11-12 | 2022-07-29 |
@@ -204,7 +205,7 @@
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-05-19 |  |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-06-23 |  |
-| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 |  |
+| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 | 2023-06-22 |
 | [Slow Motion](https://open.spotify.com/track/5j3Ipgq1HyrjrYbvTg6Jhc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/52KR7xjSGks9TH2UkbOaFU) | 3:45 | 2022-03-31 | 2022-04-21 |
 | [Small Talk](https://open.spotify.com/track/1d9jMSfABayTo8IaYYNTWG) | [Billy Low](https://open.spotify.com/artist/011KwWWxPlWLYa8ZvDj7ht) | [Small Talk](https://open.spotify.com/album/5YbE1AKOHsm0iKmbYKTuhQ) | 3:40 | 2022-03-31 | 2022-04-21 |
 | [so sad](https://open.spotify.com/track/04wi6jJm7gAGpiqOZM7uiK) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [so sad](https://open.spotify.com/album/0LcgRpayGiKHRTz3M7oKkX) | 0:29 | 2021-11-12 | 2022-07-03 |

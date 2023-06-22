@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 34786,
+  "num_followers": 34835,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2YwMDNjMTI1OWI1NzNjNzE5NTYyOTdlOTUwNTk5MTVjMTlmNDlk",
+  "snapshot_id": "MCw0NmQ1MmE0ZDVjNTRmM2M4MmJiOTIzNTRlYzBjZjAzZTBkOTM4ZmZm",
   "tracks": [
     {
       "added_at": "2023-06-15 23:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "ANTI$$OCIAL",
-        "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 204814,
-      "name": "DIAMANTE",
-      "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
       },
@@ -163,6 +143,30 @@
       "duration_ms": 260571,
       "name": "Fica",
       "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -215,26 +219,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+        "name": "ANTI$$OCIAL",
+        "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
       },
       "artists": [
         {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
         },
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 223100,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+      "duration_ms": 204814,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Deepak Looper",
         "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 193492,
       "name": "Impec",
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+        "name": "Sons de Amor",
+        "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "ANDREZO",
+          "url": "https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+      "duration_ms": 254400,
+      "name": "Sons de Amor",
+      "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Sons de Amor",
-        "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
       },
       "artists": [
         {
-          "name": "ANDREZO",
-          "url": "https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Sons de Amor",
-      "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "L\u00e1grima na M\u00e3o",
-        "url": "https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku"
-      },
-      "artists": [
-        {
-          "name": "TAY",
-          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "L\u00e1grima na M\u00e3o",
-      "url": "https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Estic\u00e3o",
         "url": "https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 193282,
       "name": "Estic\u00e3o",
       "url": "https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "L\u00e1grima na M\u00e3o",
+        "url": "https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku"
+      },
+      "artists": [
+        {
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "L\u00e1grima na M\u00e3o",
+      "url": "https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Vistas",
-        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
-      },
-      "artists": [
-        {
-          "name": "Ary Rafeiro",
-          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vistas",
-      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/7o2gLbTGJCHuRXPqWZF6qP"
       },
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
+        "name": "Vistas",
+        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
+      },
+      "artists": [
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vistas",
+      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
+        "name": "O Brilho de Viver",
+        "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
       },
       "artists": [
         {
-          "name": "TT",
-          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM"
         }
       ],
-      "duration_ms": 173052,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
+      "duration_ms": 255652,
+      "name": "O Brilho de Viver",
+      "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1179,6 +1183,22 @@
       "duration_ms": 191250,
       "name": "Compensa",
       "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+    },
+    {
+      "added_at": "2023-06-15 23:00:00",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1231,22 +1251,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "O Brilho de Viver",
-        "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/6eBmDkYHMMin2VZ5cyfUw6"
       },
       "artists": [
         {
-          "name": "Mundo Segundo",
-          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
         },
         {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM"
+          "name": "Uami Ndongadas",
+          "url": "https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC"
         }
       ],
-      "duration_ms": 255652,
-      "name": "O Brilho de Viver",
-      "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
+      "duration_ms": 200869,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/1hIXfKQYuMl1aioQkvzNCM"
     },
     {
       "added_at": "2023-06-15 23:00:00",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Envelope",
-        "url": "https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5"
-      },
-      "artists": [
-        {
-          "name": "Ary Bronze",
-          "url": "https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ"
-        },
-        {
-          "name": "Prince do P\u00e2nico",
-          "url": "https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI"
-        }
-      ],
-      "duration_ms": 179635,
-      "name": "Envelope",
-      "url": "https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
         "name": "Fica Pra Depois",
         "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
       },
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-06-15 23:00:00",
       "album": {
-        "name": "Sou Eu",
-        "url": "https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb"
+        "name": "Envelope",
+        "url": "https://open.spotify.com/album/2m7UmnXmKbPjWiPWFx02F5"
       },
       "artists": [
         {
-          "name": "TYKID",
-          "url": "https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4"
+          "name": "Ary Bronze",
+          "url": "https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ"
+        },
+        {
+          "name": "Prince do P\u00e2nico",
+          "url": "https://open.spotify.com/artist/1OWkdbkoNHyee3GVJxvBRI"
         }
       ],
-      "duration_ms": 214641,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI"
+      "duration_ms": 179635,
+      "name": "Envelope",
+      "url": "https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL"
     }
   ],
   "unique_name": "Seda",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 435853,
+  "num_followers": 435935,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjQ2MDQ3MzIzZDZhYmI4NDEyNGJlYmM3NDM1ZDQyY2MyMmI3MDE3",
+  "snapshot_id": "MCwzMjM4MmVmMmNhOWI3OGE5MWVjNTg1MWQ0OTgzOTI1ZWNlMjAwODhi",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "How Deep is Your Love",
         "url": "https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 218285,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "I'll Stand by You",
         "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 204854,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thank you for the happiest year of my life",
-        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
-      },
-      "artists": [
-        {
-          "name": "if we were lakes",
-          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "Thank you for the happiest year of my life",
-      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thank you for the happiest year of my life",
+        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
+      },
+      "artists": [
+        {
+          "name": "if we were lakes",
+          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "Thank you for the happiest year of my life",
+      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Late Night Tales: \u00d3lafur Arnalds",
         "url": "https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad"
       },
@@ -1043,38 +1027,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
       "artists": [
         {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
         }
       ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
-        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "I Know (feat. Fiona Apple) - RISE Recording",
-      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1095,6 +1059,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
+        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "I Know (feat. Fiona Apple) - RISE Recording",
+      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Friday I'm in Love",
         "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 173475,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Black Hole Sun",
-        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
-      },
-      "artists": [
-        {
-          "name": "Nouela",
-          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
-        }
-      ],
-      "duration_ms": 275966,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+        "name": "Black Hole Sun",
+        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Nouela",
+          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
         }
       ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+      "duration_ms": 275966,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "No One's Gonna Love You",
-        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 232347,
-      "name": "No One's Gonna Love You",
-      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Bang Bang (My Baby Shot Me Down)",
         "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "No One's Gonna Love You",
+        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 232347,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1439,26 +1455,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Feel Good Inc.",
-        "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
-      },
-      "artists": [
-        {
-          "name": "filous",
-          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The Scientist",
         "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
       },
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 165309,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
+      "duration_ms": 236129,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
     },
     {
       "added_at": "2022-03-22 14:40:29",

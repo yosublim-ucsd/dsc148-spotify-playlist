@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-284 songs - 15 hr 47 min
+285 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ah Doh Have](https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl) | [Deno Outta Range Mason](https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V), [Temptress](https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je) | [Dennis Riddim](https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD) | 2:46 | 2022-08-18 | 2022-11-13 |
 | [Ah Doh Have](https://open.spotify.com/track/0xR7HQRYN8qWurc4sdPMuY) | [Temptress](https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je), [Deno Outta Range Mason](https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V) | [Dennis Riddim](https://open.spotify.com/album/264pdxzdLi4eNMSZJPAQnf) | 2:46 | 2022-08-18 | 2022-10-05 |
 | [All I Need](https://open.spotify.com/track/6F721B9BrRiEiSTyK554rZ) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [All I Need](https://open.spotify.com/album/5tJt1IXP2O1bI3IOwCFgBy) | 2:57 | 2022-02-26 | 2022-08-19 |
-| [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 | 2023-02-21 |  |
+| [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 | 2023-02-21 | 2023-06-22 |
 | [Ammunition](https://open.spotify.com/track/2UFDkkQAVpCmDS0YW33pdi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [VENT DELUXE](https://open.spotify.com/album/7MyHCz9ZMfRlIpfs4ov6Cq) | 4:16 | 2022-02-24 | 2022-08-19 |
 | [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 | 2021-08-26 |  |
 | [Back Bend \(Remix\)](https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts) | [Subance](https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv), [Uncle Ellis](https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx) | [Back Bend \(Remix\)](https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW) | 3:05 | 2023-05-15 |  |
@@ -253,6 +253,7 @@
 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/6PVJT1HLoXJ1czT0699lfX) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 | 2022-02-24 |  |
 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 | 2023-02-21 |  |
 | [Tender](https://open.spotify.com/track/15ZCVWArG1AjHG51AfjeHU) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Tender Touch Riddim](https://open.spotify.com/album/1FbJ7I3RlQUMiZ91Vq16G0) | 3:05 | 2022-02-24 | 2022-08-19 |
+| [The Best](https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs) | [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Kan Kan Riddim](https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx) | 3:08 | 2023-05-15 |  |
 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 | 2023-05-15 |  |
 | [Tilt](https://open.spotify.com/track/4boWnSLvtMns64y7Ns6fYx) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Tilt Riddim, Pt\. 1](https://open.spotify.com/album/2uJ638CIojgWY2CA1hFbEi) | 2:59 | 2022-02-24 | 2022-08-19 |
 | [Ting Go Nice Again](https://open.spotify.com/track/1UKRyezn6KQYNi73yUUv4Z) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Get Soca 2021](https://open.spotify.com/album/0PApIAfcwQtDRXhMefkkOZ) | 2:57 | 2022-08-18 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556373,
+  "num_followers": 556463,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGE1MzZhNWNhZGQ1MWM0MjliNzYwYTczYjMzMjA4MGNiNDNjNDQx",
+  "snapshot_id": "MCw2OWJmMDYwOTZmMGY5M2QyYTMzZTkyMzZmZjBjMmJmMGExM2JlOTdi",
   "tracks": [
     {
       "added_at": "2023-06-07 04:51:17",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
+      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+    },
+    {
+      "added_at": "2023-06-07 04:51:17",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-06-07 04:51:17",
-      "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
-      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
-        "name": "Melukis Senja",
-        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 251119,
-      "name": "Melukis Senja",
-      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
-    },
-    {
-      "added_at": "2023-06-07 04:51:17",
-      "album": {
         "name": "MARKERS AND SUCH",
         "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 211244,
       "name": "Kita usahakan rumah itu",
       "url": "https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl"
+    },
+    {
+      "added_at": "2023-06-07 04:51:17",
+      "album": {
+        "name": "Melukis Senja",
+        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 251119,
+      "name": "Melukis Senja",
+      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2023-06-07 04:51:17",
-      "album": {
         "name": "Lelaku",
         "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 358626,
       "name": "Fana Merah Jambu",
       "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
+    },
+    {
+      "added_at": "2023-06-07 04:51:17",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2023-06-07 04:51:17",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-06-07 04:51:17",
       "album": {
+        "name": "1st Special Edition",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2023-06-07 04:51:17",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 229120,
       "name": "Mine",
       "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
-    },
-    {
-      "added_at": "2023-06-07 04:51:17",
-      "album": {
-        "name": "1st Special Edition",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2023-06-07 04:51:17",

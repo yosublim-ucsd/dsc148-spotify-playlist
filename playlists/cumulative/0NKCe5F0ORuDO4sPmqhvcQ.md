@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-457 songs - 1 day 1 hr 40 min
+458 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Ms\. Intentions](https://open.spotify.com/track/0cV5T2pHqsc7xeA0O8e91X) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Couchsurfing](https://open.spotify.com/album/3VlbUTneAskcOcBmeZjD3F) | 3:29 | 2021-11-22 | 2022-01-08 |
 | [My Everything](https://open.spotify.com/track/0Qq4NdNUkHBD887Dpozvhn) | [Sulvida](https://open.spotify.com/artist/0phDitF6QOKVk0ALx5d9wI), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [My Everything](https://open.spotify.com/album/1drSpyjhFJf9XCtS09BUBX) | 3:34 | 2022-07-22 | 2022-09-19 |
 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 | 2022-03-24 |  |
+| [My Only Mistake](https://open.spotify.com/track/6Roj2cBQsnxamGOLiBYy3z) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [My Only Mistake](https://open.spotify.com/album/0UrIGVcrRsDc6H2CO1Wg9B) | 6:44 | 2023-06-21 |  |
 | [Needed U](https://open.spotify.com/track/27LIalxllS0CO5uJmpufmn) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC) | [Needed U](https://open.spotify.com/album/3ATX4bLecWifezKKZ67zAo) | 3:45 | 2022-11-22 | 2023-01-30 |
 | [Never Be](https://open.spotify.com/track/2YZGc7EmCyqJZsMJP4Sogm) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Never Be](https://open.spotify.com/album/6JOtiSGegZqr7kTQvlpAzi) | 3:49 | 2022-06-24 | 2023-04-01 |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-18 | 2022-06-25 |

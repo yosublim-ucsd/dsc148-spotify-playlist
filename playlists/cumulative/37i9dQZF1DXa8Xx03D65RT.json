@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Along Came You",
+        "url": "https://open.spotify.com/album/4W1QLtlQHhRDMlsIlANNf9"
+      },
+      "artists": [
+        {
+          "name": "Michael Lavigne",
+          "url": "https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "Along Came You",
+      "url": "https://open.spotify.com/track/6S89pQkAuxmU1MFUHIWuzE"
+    },
+    {
+      "album": {
         "name": "Along dammed rivers",
         "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
       },
@@ -2470,6 +2488,24 @@
     {
       "album": {
         "name": "Echoes",
+        "url": "https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM"
+    },
+    {
+      "album": {
+        "name": "Echoes",
         "url": "https://open.spotify.com/album/6davSrv4DvlDFXrZF0CtwD"
       },
       "artists": [
@@ -2718,6 +2754,24 @@
       "duration_ms": 177922,
       "name": "even slow",
       "url": "https://open.spotify.com/track/4CHuMXtt9m64sb3iun6DZc"
+    },
+    {
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "album": {
@@ -4719,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5f0Nwusj5eiz92QhCatBtu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "June",
+      "url": "https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC"
+    },
+    {
+      "album": {
         "name": "Just a Thought",
         "url": "https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP"
       },
@@ -5548,7 +5620,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 162295,
       "name": "Look to the Sea",
       "url": "https://open.spotify.com/track/0niChogoxtdK17KtHH0jni"
@@ -5876,7 +5948,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 120458,
       "name": "Meditation: I. Promise",
       "url": "https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc"
@@ -8998,7 +9070,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 166666,
       "name": "Spring Shower",
       "url": "https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH"
@@ -9272,7 +9344,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 138833,
       "name": "Sv\u00e6rmer",
       "url": "https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh"
@@ -9762,6 +9834,24 @@
       "duration_ms": 129071,
       "name": "The Slow Down",
       "url": "https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G"
+    },
+    {
+      "album": {
+        "name": "The Stars And The Sea",
+        "url": "https://open.spotify.com/album/0cqCFH41n3f5RllKGazO8u"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144775,
+      "name": "The Stars And The Sea",
+      "url": "https://open.spotify.com/track/3qKxRzPbXwEG3AFnpOFCVq"
     },
     {
       "album": {
@@ -10500,7 +10590,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 127303,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"

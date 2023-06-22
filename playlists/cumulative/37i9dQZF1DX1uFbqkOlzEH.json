@@ -325,6 +325,28 @@
     },
     {
       "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244536,
+      "name": "BLEACHING (feat. Crush)",
+      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6Sd2Vxt7NeEfS82UYbToqf"
       },

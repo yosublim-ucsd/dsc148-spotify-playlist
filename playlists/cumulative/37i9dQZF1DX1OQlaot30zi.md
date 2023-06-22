@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Kid Yugi, Charlie Charles, Niky Savage, Vegas Jones e e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Neima Ezza, Rhove, Vegas Jones e molti altri.
 
-1,941 songs - 3 day 16 hr 31 min
+1,942 songs - 3 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-05-20 |
 | [Habibi](https://open.spotify.com/track/3SfZxe7YAVOM1uHvKXNuW8) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [Habibi](https://open.spotify.com/album/2kw95zPkFqxlduRqPMOwYm) | 3:26 | 2022-07-21 | 2022-08-26 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-06-09 | 2022-07-01 |
+| [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 |  |
 | [hai paura,,?](https://open.spotify.com/track/3ZF6D1Ye3WQhONihK75dIA) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo) | [hai paura,,?](https://open.spotify.com/album/4aQeO30jFTUNsjaTCZrsp4) | 2:26 | 2022-05-10 | 2022-05-13 |
 | [Hai sofferto quanto me](https://open.spotify.com/track/3agKWPTc8NNsjpcDQOjwjB) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf), [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [Emotions](https://open.spotify.com/album/0bUdlcFMcRNAr240hKPDVq) | 2:48 | 2023-04-20 | 2023-05-05 |
 | [Hakimi](https://open.spotify.com/track/79w0KcdnxGLF23Y9Vd853A) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [Hakimi](https://open.spotify.com/album/7za39EFvnVGAKXKSSD3O1C) | 2:16 | 2023-05-18 | 2023-06-02 |

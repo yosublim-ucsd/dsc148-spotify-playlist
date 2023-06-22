@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 56922,
+  "num_followers": 57011,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjdiMmZjMGZjMGUwNjJkN2U1YzFjYTg1NDJhNjQ3YmVjNGRkNThh",
+  "snapshot_id": "MCwxYjc2OWU2MjVlMjk5MTRhM2ZhZTdkMTM0MDIzYTYwNjgwZGZiNDc1",
   "tracks": [
     {
       "added_at": "2023-06-16 14:15:43",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Corinna - From \"The Natch'l Blues\"",
-      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 182813,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Corinna - From \"The Natch'l Blues\"",
+      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Slip-In Mules",
-      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 226131,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Slip-In Mules",
+      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Soul Deep",
-        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
-      },
-      "artists": [
-        {
-          "name": "Noora Noor",
-          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Forget What I Said",
-      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Don't Let the Green Grass Fool You",
         "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 225160,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Soul Deep",
+        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
+      },
+      "artists": [
+        {
+          "name": "Noora Noor",
+          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Forget What I Said",
+      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 368186,
       "name": "In From The Cold",
       "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
-      },
-      "artists": [
-        {
-          "name": "solace",
-          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 225077,
       "name": "No Mercy In This Land",
       "url": "https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+      },
+      "artists": [
+        {
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+        }
+      ],
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
         "name": "He Was a Friend of Mine",
         "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
       },
       "artists": [
         {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
         }
       ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 295346,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "I Know - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1171,6 +1187,22 @@
       "duration_ms": 356426,
       "name": "A Quitter Never Wins",
       "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 327469,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1327,18 +1359,18 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+        "name": "West Coast Eyes",
+        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+      "duration_ms": 245306,
+      "name": "West Coast Eyes",
+      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1359,6 +1391,22 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
         "name": "From the Cradle",
         "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
       },
@@ -1371,22 +1419,6 @@
       "duration_ms": 308893,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 252607,
-      "name": "Remember The Time",
-      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1407,22 +1439,6 @@
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "West Coast Eyes",
-        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "West Coast Eyes",
-      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Get Behind the Wheel",
-        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
-      },
-      "artists": [
-        {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
-        }
-      ],
-      "duration_ms": 163534,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "How Many Times?",
         "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Get Behind the Wheel",
+        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "duration_ms": 163534,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 327469,
-      "name": "London Bridge",
-      "url": "https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Driving Wheel",
         "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
@@ -1579,6 +1579,54 @@
       "duration_ms": 157266,
       "name": "Drivin' Wheel - Single Version",
       "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Dinah Washington Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 282253,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1615,38 +1663,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "Dinah Washington Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Not the One",
         "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 218666,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-06-16 14:15:43",

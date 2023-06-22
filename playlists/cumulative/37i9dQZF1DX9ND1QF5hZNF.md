@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-87 songs - 4 hr 39 min
+88 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Now You Know](https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [Now You Know](https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw) | 2:49 | 2022-12-20 | 2023-05-13 |
 | [Our Place ft\. Thom Gill](https://open.spotify.com/track/4fvyspoROGz30LjX2Fu47O) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Thom Gill](https://open.spotify.com/artist/3zj39NVYkiKY8KUx7lFZRL) | [Our Place ft\. Thom Gill](https://open.spotify.com/album/5DstTguxvodTBYHifdo8hv) | 3:00 | 2023-05-12 |  |
 | [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2023-05-12 |  |
-| [Paradise](https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Rya Rey](https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS) | [Paradise](https://open.spotify.com/album/1sawVZiyUViCzUPVmjUxsU) | 2:24 | 2022-12-20 |  |
+| [Paradise](https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Rya Rey](https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS) | [Paradise](https://open.spotify.com/album/1sawVZiyUViCzUPVmjUxsU) | 2:24 | 2022-12-20 | 2023-06-22 |
 | [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 | 2023-05-12 |  |
 | [Passage](https://open.spotify.com/track/3Q8CwfdyDIjHdlItATIxLt) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Passage](https://open.spotify.com/album/1UqfHtwpJsgz8FtEzPmpoR) | 2:10 | 2022-12-20 | 2023-05-13 |
 | [Pink Soldiers](https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Pink Soldiers](https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4) | 2:15 | 2022-12-20 | 2023-05-13 |
@@ -92,6 +92,7 @@
 | [Welcome Home](https://open.spotify.com/track/4bDbcJrUfGXbgEpzzlGKOw) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Welcome Home](https://open.spotify.com/album/3xXkf8NdxsZWdPesmDoEJt) | 2:44 | 2022-12-20 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5vxumGUQQAKNzE0osbTecZ) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [What A Wonderful World](https://open.spotify.com/album/1iTccmhnjuEyE2wzkEGALD) | 3:25 | 2022-12-20 |  |
 | [Wicked Games \(feat\. Anna Naklab\) \- Radio Edit](https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games \(feat\. Anna Naklab\) \[Radio Edit\]](https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz) | 3:15 | 2023-05-12 |  |
+| [Wild in Secret](https://open.spotify.com/track/2jDNpZI9Ydk25K8qMCjpUc) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Play this at my Funerals](https://open.spotify.com/album/1SGpWhYIw9Lc02pDLke3bt) | 2:23 | 2023-06-21 |  |
 | [Yellow](https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Yellow](https://open.spotify.com/album/1AWfn2bdgCCoc1ufl0qsSE) | 3:02 | 2022-12-20 |  |
 | [You've Got The Love](https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [You've Got The Love](https://open.spotify.com/album/1uc2h6yfp4xyIrVSeHLNsn) | 2:27 | 2022-12-20 | 2023-03-25 |
 | [Your Light](https://open.spotify.com/track/3xwNqcWd3fGL5z0hhtMBmE) | [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [MLY](https://open.spotify.com/artist/0Olk5iLDJdsyf6csDCqtGk) | [Your Light](https://open.spotify.com/album/0VNiTeefqQ66bbMumnVzQh) | 2:49 | 2022-12-20 | 2023-05-13 |

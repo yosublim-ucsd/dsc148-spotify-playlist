@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Aastha Gill
 
-194 songs - 11 hr 13 min
+195 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dholida](https://open.spotify.com/track/3e1JStKIIfidujpSzjqv3F) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Jahnvi Shrimankar](https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Dipti](https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR), [Pragati](https://open.spotify.com/artist/28158US0Sov816JcVhUGVz), [Rucha](https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f), [Arohi](https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat), [Archana](https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX) | [Dholida \- Gangubai Kathiawadi](https://open.spotify.com/album/6oH4j0fIkr2BWEt9nirAdy) | 2:59 | 2022-03-07 | 2022-07-29 |
 | [Dholida \(From "Gangubai Kathiawadi"\)](https://open.spotify.com/track/7tqkqlRNXLuOCO2Vwr8BsY) | [Jahnvi Shrimankar](https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Dipti](https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR), [Pragati](https://open.spotify.com/artist/28158US0Sov816JcVhUGVz), [Rucha](https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f), [Arohi](https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat), [Archana](https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Dholida \(From "Gangubai Kathiawadi"\) \- Single](https://open.spotify.com/album/3Unqe9EiUnPMKVRcmO3hTe) | 2:59 | 2022-11-09 | 2022-11-13 |
 | [Dhoondein Sitaare](https://open.spotify.com/track/3pUvP2fB9xTVdOg9IQMM9k) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Dhoondein Sitaare](https://open.spotify.com/album/6fp2YnNrn2pDfge2ZxIaNs) | 3:09 | 2022-02-01 | 2022-03-08 |
+| [Dil Khanjar](https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Dil Khanjar](https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM) | 3:09 | 2023-06-21 |  |
 | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe) | 3:51 | 2022-02-01 |  |
 | [Dil Todne Se Pehle](https://open.spotify.com/track/1FjSn2tGkFzotAk6D6kcdq) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Dil Todne Se Pehle](https://open.spotify.com/album/3Te44op6dOYcYHpI3bbW4X) | 3:47 | 2021-12-10 | 2022-02-02 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2022-03-07 | 2022-04-06 |

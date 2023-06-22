@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 147301,
       "name": "Flash & Dash",
       "url": "https://open.spotify.com/track/5rQTRNaJOiSqGfhYrf4Tc2"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 216695,
       "name": "Kembalilah",
       "url": "https://open.spotify.com/track/16chL4feuTZ9ACni38HxsS"
@@ -2486,6 +2486,24 @@
       "duration_ms": 319114,
       "name": "Mengertilah Kasih",
       "url": "https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM"
+    },
+    {
+      "album": {
+        "name": "Menggenggam Bahagia",
+        "url": "https://open.spotify.com/album/36k1jiu3Gme2uITF7WDsJf"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262557,
+      "name": "Menggenggam Bahagia",
+      "url": "https://open.spotify.com/track/0eUjxRjLnxBbXDJifYul0X"
     },
     {
       "album": {
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 220632,
       "name": "Salah Hati",
       "url": "https://open.spotify.com/track/3u6QUGEVqlXUNdhMHEiEN0"
@@ -3390,6 +3408,24 @@
       "duration_ms": 176500,
       "name": "Sambut",
       "url": "https://open.spotify.com/track/2trfesA8NiTSjV1WBUFiIW"
+    },
+    {
+      "album": {
+        "name": "Sampai Syurga (Reimagined)",
+        "url": "https://open.spotify.com/album/5d0FGLgjzatEWLhwSgTeWR"
+      },
+      "artists": [
+        {
+          "name": "Faizal Tahir",
+          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213632,
+      "name": "Sampai Syurga - Reimagined",
+      "url": "https://open.spotify.com/track/6HCiEHQcv6Cifve8CtM0cl"
     },
     {
       "album": {
@@ -3554,6 +3590,28 @@
       "duration_ms": 228640,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/6QGyP2oyiOKHzh87rokO7d"
+    },
+    {
+      "album": {
+        "name": "Sebentar",
+        "url": "https://open.spotify.com/album/7gMYzYgRfGzjkv0TPTpCk6"
+      },
+      "artists": [
+        {
+          "name": "Guccimith",
+          "url": "https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy"
+        },
+        {
+          "name": "Zhe Kamil",
+          "url": "https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186722,
+      "name": "Sebentar",
+      "url": "https://open.spotify.com/track/2HkOiHX8LEhuT6eDHYbyYZ"
     },
     {
       "album": {

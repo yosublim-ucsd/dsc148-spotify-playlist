@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67132,
+  "num_followers": 67153,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQ2MTZiM2ZlMDAzZmYwMmJiYzgyODFiNzI1NmM4MTE3MDk2NmQy",
+  "snapshot_id": "MCxiNzM3YTA1ZjM5MDQwOGQ5MTFlZjk1YTliMThjYjkzNmYwNzA0YjFi",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Mera tid",
-        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Mera tid",
-      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
         "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 232382,
       "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
       "url": "https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Mera tid",
+        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Mera tid",
+      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -783,22 +783,26 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "The Tomtations Show",
-        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
+        "name": "Slutpl\u00e4deringen",
+        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
       "artists": [
         {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+          "name": "Kartellen",
+          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
         },
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 282124,
-      "name": "Aina \u00c4lskar Reggae",
-      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+      "duration_ms": 156360,
+      "name": "Rikslarm",
+      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -835,42 +839,38 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Slutpl\u00e4deringen",
-        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
+        "name": "The Tomtations Show",
+        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
       "artists": [
         {
-          "name": "Kartellen",
-          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
         },
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        },
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
         }
       ],
-      "duration_ms": 156360,
-      "name": "Rikslarm",
-      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
+      "duration_ms": 282124,
+      "name": "Aina \u00c4lskar Reggae",
+      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
     },
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2023-06-08 22:00:00",

@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-110 songs - 7 hr 19 min
+111 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx) | 6:36 | 2022-08-05 |  |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-19 |  |
 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 | 2022-08-05 |  |
-| [If I Could \(feat\. Joe Killington\)](https://open.spotify.com/track/52UFPPFMnUzaWfiU8oYgpw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:51 | 2023-05-19 |  |
+| [If I Could \(feat\. Joe Killington\)](https://open.spotify.com/track/52UFPPFMnUzaWfiU8oYgpw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:51 | 2023-05-19 | 2023-06-22 |
 | [If We Ever](https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Tough Guys Don't Dance](https://open.spotify.com/album/4TGg8UNwHYZszTjM24hJSo) | 5:20 | 2023-01-13 |  |
 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 | 2022-08-05 |  |
 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 | 2022-08-05 |  |
@@ -75,6 +75,7 @@
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2022-11-25 |  |
 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-08-05 |  |
 | [My Love \(feat\. Jess Glynne\) \- Sigma Remix](https://open.spotify.com/track/4gjTpaz6WRV9nX7q4fHwRp) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [My Love \(feat\. Jess Glynne\) \[Remixes\]](https://open.spotify.com/album/4zQRCFEwZX7qvPij5qWlVW) | 4:30 | 2022-08-05 | 2023-06-07 |
+| [My Love \- Sigma Remix](https://open.spotify.com/track/0vSkBIWphrAM777tZr0eBi) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/4uenMswaaasTqFvu2KsWuY) | [My Love](https://open.spotify.com/album/7FSfVdPaYgi3mQfjpfmMBP) | 4:30 | 2023-06-13 |  |
 | [Never Let You Down \(feat\. Penny Ivy\)](https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Penny Ivy](https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL) | [Never Let You Down \(feat\. Penny Ivy\)](https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID) | 3:08 | 2022-08-05 |  |
 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 | 2022-08-05 |  |
 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-13 |  |

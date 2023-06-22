@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Poe Leos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,823 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,826 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 25 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 26 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 | 27 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
-| 28 | [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 |
-| 29 | [Up For It](https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Up For It](https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy) | 2:46 |
-| 30 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
+| 28 | [Up For It](https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Up For It](https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy) | 2:46 |
+| 29 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
+| 30 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 
-Snapshot ID: `MCwyYzYzMzRhNDA2ZTUyMmUyZTEwMTQzYjIwYWI1YTQyYmE4NThmYzdi`
+Snapshot ID: `MCxhMTM2OGQxMzYzNjk0MWNmYzk2YjJhMDQ2NTYzMjFhYzYxMjcwOTdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0?si=3apIL9lHSOmSc0x99vwC5g">JOSHUA LAZER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,568 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,711 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 54 | [Tremble](https://open.spotify.com/track/6GPU6ddPncezJZyMimnG0Q) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Trumpet Pete](https://open.spotify.com/artist/3I09Uh9SNtnaU4QGfmwTVO) | [Tremble](https://open.spotify.com/album/27z3KNGIVFS5vLQfK7zdsL) | 3:24 |
 | 55 | [Trust You](https://open.spotify.com/track/2Vm4e7vijEbMFar4ZeCs0m) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Trust You](https://open.spotify.com/album/0vVDFRTEaubDiE2jjIauEM) | 3:00 |
 | 56 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
-| 57 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
+| 57 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
 | 58 | [Energy](https://open.spotify.com/track/7Gx1vqpMlIubCjumPzommm) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul 2](https://open.spotify.com/album/4BZDq8c68mmVeho3adc5MF) | 2:49 |
 | 59 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 60 | [This One's For You](https://open.spotify.com/track/55q5SPNOKYZ2ilCLBiRtyG) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [TaMyya J](https://open.spotify.com/artist/17X613fqw9CxZZ4BPhxxMT) | [This One's For You](https://open.spotify.com/album/3FilxfG3cCNeV4nWZmluzO) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [God & Prozac](https://open.spotify.com/track/18dFJE2Lol614AQadNfDNq) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [God & Prozac](https://open.spotify.com/album/5HNEPsjxdo9NpZaqWksFRI) | 4:03 |
 | 100 | [Rooms](https://open.spotify.com/track/1xPj2ZeSTBNZWGTnhEsHM0) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Rooms](https://open.spotify.com/album/36reTGdzFB3HUhYaR7MYu4) | 4:45 |
 
-Snapshot ID: `MCxjZTYwMTc2N2YwNDc0YTMxM2Q2Mjg4NDVjNWEzNmZlYjc0ZmQyMWNh`
+Snapshot ID: `MCxmYjk2OWFlMjIzN2U2MGYwMmM0YmEzNjZhOTkwMTM2OGJhZjAxYzg4`

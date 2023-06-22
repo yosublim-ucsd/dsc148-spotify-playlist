@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,321 songs - 2 day 19 hr 56 min
+1,322 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [BELLA FREGATURA](https://open.spotify.com/track/11H6R8nu1QxB1yGWHgzKl7) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 2:54 | 2022-12-08 | 2023-03-26 |
 | [BELLA FREGATURA](https://open.spotify.com/track/2WCxbRxzTDAza5wEBrmWJV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:54 | 2022-11-19 | 2022-12-09 |
 | [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2022-10-13 | 2023-06-04 |
+| [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 | 2023-06-21 |  |
 | [BENEF](https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:47 | 2022-05-18 | 2022-05-22 |
 | [BERETTA](https://open.spotify.com/track/2PRAK8G9My2N2s6Sq6CuLg) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 2:42 | 2021-03-27 | 2021-03-29 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 |  |
@@ -1059,7 +1060,7 @@
 | [Santana Season](https://open.spotify.com/track/2mD3a5Yyo4OxHL8CVA0edT) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 2:47 | 2023-06-10 | 2023-06-16 |
 | [SAPORE – with Tedua](https://open.spotify.com/track/3QdtpN3K8s2aDsX6o10KZK) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [DISUMANO](https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9) | 3:15 | 2021-11-28 | 2022-02-23 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-05-03 |
-| [Scala Di Milano \(feat\. Guè\)](https://open.spotify.com/track/10mc5WaaFg1TC4sJhBBLBL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:55 | 2023-06-03 |  |
+| [Scala Di Milano \(feat\. Guè\)](https://open.spotify.com/track/10mc5WaaFg1TC4sJhBBLBL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:55 | 2023-06-03 | 2023-06-22 |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-17 | 2022-09-28 |
 | [Scegliere Bene](https://open.spotify.com/track/4sCo94hVNKTO2VTCfulT6s) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli \(ascendente Milano\)](https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g) | 2:55 | 2021-05-23 | 2021-05-24 |
 | [sci@ll@ \(feat\. Tananai\)](https://open.spotify.com/track/53qZFgUIQKnFmdgsSDIYB1) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:04 | 2022-10-01 | 2022-10-16 |

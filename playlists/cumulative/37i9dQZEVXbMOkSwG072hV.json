@@ -13458,7 +13458,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 139354,
       "name": "Karolina Vai no Ch\u00e3o",
       "url": "https://open.spotify.com/track/7MnzjHAKqZ95alfmyXkBf8"
@@ -16797,6 +16797,28 @@
     },
     {
       "album": {
+        "name": "We All Shine",
+        "url": "https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Mixed Personalities (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL"
+    },
+    {
+      "album": {
         "name": "Molhando o Volante",
         "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
       },
@@ -16914,7 +16936,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 83576,
       "name": "MONTAGEM - FR PUNK - Slowed & Reverb",
       "url": "https://open.spotify.com/track/5gB7sGit8xwBrcWKx3hHHk"
@@ -16950,7 +16972,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
@@ -20452,7 +20474,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 214373,
       "name": "Parte Do Seu Mundo",
       "url": "https://open.spotify.com/track/5z69yhhJkqL9K8tcf3PsLr"
@@ -27228,7 +27250,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Tropa do Faz Acontece",
       "url": "https://open.spotify.com/track/5wVWXgOQN3tNUWIwTitZ87"

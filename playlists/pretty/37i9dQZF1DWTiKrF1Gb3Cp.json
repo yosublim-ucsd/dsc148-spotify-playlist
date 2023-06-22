@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 154134,
+  "num_followers": 154200,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODAxYTNhMDM4MWU3NzRlYmRjODEzOTUxYmJlNWRmZDc1NjQxNWRi",
+  "snapshot_id": "MCwyMjVhZDM1MzAyZWQ1MmZjODFmOTAzM2ZjOWQyNDAxOGVhMmY1MzNk",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A"
       },
       "artists": [
         {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
         }
       ],
-      "duration_ms": 252533,
-      "name": "La Feria Drogas y Muerte",
-      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+      "duration_ms": 239397,
+      "name": "Soy De Barrio",
+      "url": "https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A"
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
       "artists": [
         {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 239397,
-      "name": "Soy De Barrio",
-      "url": "https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE"
+      "duration_ms": 252533,
+      "name": "La Feria Drogas y Muerte",
+      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "99'S",
-        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 233941,
-      "name": "99'S",
-      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "MEXplico",
         "url": "https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 133899,
       "name": "MEXplico",
       "url": "https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "99'S",
+        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 233941,
+      "name": "99'S",
+      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1671,26 +1671,6 @@
       "duration_ms": 238210,
       "name": "Corren Con Suerte",
       "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Los Pizzas",
-        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 136520,
-      "name": "Los Pizzas",
-      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1739,6 +1719,26 @@
       "duration_ms": 229251,
       "name": "Sabadrugs",
       "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Los Pizzas",
+        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 136520,
+      "name": "Los Pizzas",
+      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1943,18 +1943,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+        "name": "Acelerado",
+        "url": "https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y"
       },
       "artists": [
         {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 175186,
-      "name": "Activados y Prendidos",
-      "url": "https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt"
+      "duration_ms": 181500,
+      "name": "Acelerado",
+      "url": "https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1975,22 +1979,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Acelerado",
-        "url": "https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y"
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
       },
       "artists": [
         {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Acelerado",
-      "url": "https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel"
+      "duration_ms": 175186,
+      "name": "Activados y Prendidos",
+      "url": "https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt"
     },
     {
       "added_at": "2023-06-16 06:00:00",

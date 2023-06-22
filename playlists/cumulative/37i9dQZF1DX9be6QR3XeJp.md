@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Zino Vinci
+> Discover your new favourite artists from UK&IE\. Cover: Coupdekat
 
-211 songs - 11 hr 33 min
+212 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Stuck](https://open.spotify.com/track/1JzKProcrUzCxImOP23hXb) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/2LugScLewUNGEC1CdfE2un) | 3:07 | 2022-10-06 |  |
 | [Stuck](https://open.spotify.com/track/1MkOIf6TbyY5DKYltfXD9o) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/5A9kxjtm6IJQcqSnXlFom8) | 3:07 | 2022-11-11 | 2022-11-13 |
 | [Stuck](https://open.spotify.com/track/6RkRUuD6TowtgTZhPl6mSi) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/36c3aMnPKZFg8QFvCPVkte) | 3:07 | 2022-02-18 | 2022-10-13 |
+| [STUNT GIRL](https://open.spotify.com/track/30MW0bdlhJDOyZBHAERVLe) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [\*FOR ENTERTAINMENT PURPOSES ONLY](https://open.spotify.com/album/70t4optPjcSeQJq8gg9SQQ) | 2:20 | 2023-06-21 |  |
 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 | 2023-01-09 |  |
 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 | 2022-02-18 | 2023-02-03 |
 | [Sundown](https://open.spotify.com/track/6e40VGmlR2S8yhmBNkISlP) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Sundown](https://open.spotify.com/album/3FIEevE1XXBP1rg4BCdBcH) | 3:01 | 2022-02-18 |  |

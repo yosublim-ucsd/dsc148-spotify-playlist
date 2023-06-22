@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 110258,
+  "num_followers": 110373,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjEwZjdlMTg0ZjI0Y2QwMDg1MDYzNTAwOWM5MWQzZTUxMTJmNGZh",
+  "snapshot_id": "MCxjOGUyYjk2N2E4ODIxNThiNjc2YzZjYmE5YzllZmU2ZjEwNjU1YTYy",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
-      },
-      "artists": [
-        {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
-        }
-      ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 302750,
       "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -679,6 +679,42 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Infinito Amor",
+        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 243417,
+      "name": "Infinito Amor",
+      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -711,42 +747,6 @@
       "duration_ms": 352173,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Infinito Amor",
-        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 243417,
-      "name": "Infinito Amor",
-      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
       "artists": [
         {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
         }
       ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -899,22 +915,6 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
-      },
-      "artists": [
-        {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
-        }
-      ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -955,30 +955,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Agora, Aqui",
-        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
-      },
-      "artists": [
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
-        }
-      ],
-      "duration_ms": 205329,
-      "name": "Agora, Aqui",
-      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
       },
@@ -1015,6 +991,30 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Agora, Aqui",
+        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
+      },
+      "artists": [
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        }
+      ],
+      "duration_ms": 205329,
+      "name": "Agora, Aqui",
+      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 277884,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Leidy Murilho Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 227046,
-      "name": "Filho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1063,6 +1047,22 @@
       "duration_ms": 210495,
       "name": "M\u00e3o No Arado",
       "url": "https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Leidy Murilho Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Filho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
     },
     {
       "added_at": "2023-04-28 19:03:48",

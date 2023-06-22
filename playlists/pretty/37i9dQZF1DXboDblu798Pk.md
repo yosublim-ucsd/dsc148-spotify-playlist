@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Tom Grennan
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,457 likes - 82 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,476 likes - 82 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 81 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 82 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 |
 
-Snapshot ID: `MCxmMjM2NjZmMWIwZmYyNmQ0MzA0NDJkMDkzMDAwZTlkMjFlYzk0YzAx`
+Snapshot ID: `MCwzMmQ0NzJiOGViZDE1ZTZhYThiNGVjYmI3NzJhNWM0YmNlN2JjODU3`

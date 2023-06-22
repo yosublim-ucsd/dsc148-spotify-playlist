@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-992 songs - 22 hr 22 min
+993 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [At Last](https://open.spotify.com/track/1yTj91vUbgHPKQW0c0WthZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-20 |  |
 | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/track/2P4bxTEd6S2c9jvg9NoTft) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/album/7d0BbKXgeKBhI4EMoPVaZ3) | 1:01 | 2023-04-19 |  |
 | [Aura](https://open.spotify.com/track/4kASo6yeuq5rhG8iZuRRPa) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Everglow](https://open.spotify.com/album/4B0IbcEFp7z00KAWzQp4NI) | 1:13 | 2022-01-12 |  |
+| [Aurora](https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora](https://open.spotify.com/album/7kEf7DoJHnwK9nQBKrRJlr) | 1:00 | 2023-06-21 |  |
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 |  |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |

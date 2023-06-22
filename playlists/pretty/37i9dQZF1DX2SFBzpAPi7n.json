@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 214042,
+  "num_followers": 214106,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDgzOGIxNjAwMGU1OGE0YTdlYTJkZTFkN2YyNjA1ZjZkNjZlNGI5",
+  "snapshot_id": "MCwyNmMxMGE3YTFhMTgyYzJhZmQxNWQ2OGViMjNhMGNmMDgzZTBiYjg2",
   "tracks": [
     {
       "added_at": "2023-06-19 09:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-06-19 09:00:00",
       "album": {
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
-    },
-    {
-      "added_at": "2023-06-19 09:00:00",
-      "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
     },
     {
       "added_at": "2023-06-19 09:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-06-19 09:00:00",
-      "album": {
         "name": "Self-Portrait - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 229626,
       "name": "Let\u2019s Love",
       "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
       "added_at": "2023-06-19 09:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "Verse 2",
-        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
-      },
-      "artists": [
-        {
-          "name": "JJ Project",
-          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
-      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
-    },
-    {
-      "added_at": "2023-06-19 09:00:00",
-      "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
       "added_at": "2023-06-19 09:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
     },
     {
       "added_at": "2023-06-19 09:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-19 09:00:00",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2023-06-19 09:00:00",
-      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 268453,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2023-06-19 09:00:00",
+      "album": {
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

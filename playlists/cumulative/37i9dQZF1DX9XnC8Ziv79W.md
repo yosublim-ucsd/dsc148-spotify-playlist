@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-53 songs - 3 hr 42 min
+54 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bhae Bhae](https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG) | [AG Maggy](https://open.spotify.com/artist/3I4Vemt9tNQnBG7apbbMJY) | [Bhae Bhae](https://open.spotify.com/album/4qP8WhOmeSmMuuaY3WTkHr) | 4:09 | 2023-01-11 |  |
 | [Chikkom](https://open.spotify.com/track/2auqkXYwA848ortEvX88m7) | [Thiruvallur Gana Akash](https://open.spotify.com/artist/2aFQWgQ2qM5dhyP6RGzeOQ) | [Chikkom](https://open.spotify.com/album/0nOGQn9LPxeMRTaKl6K9zY) | 4:23 | 2023-03-22 |  |
 | [Ciroc](https://open.spotify.com/track/6oP9lZa4DcHeCXyGMbEAjA) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Vaeraan](https://open.spotify.com/album/51k2UGRpwrrCD6ooIvwfYa) | 4:37 | 2023-01-11 |  |
+| [Daavula Darling](https://open.spotify.com/track/0lFMi29egMLARQNudPnuzo) | [Gana Ulaganathan](https://open.spotify.com/artist/0xtvx5hHw1uN34pEC6euTe), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Daavula Darling](https://open.spotify.com/album/2dmsXLOxnl5f0jlUFk7ISX) | 4:01 | 2023-06-21 |  |
 | [Dammalu Dumeelu](https://open.spotify.com/track/3XtMiD7Oq7bvNEG2Ab7vB7) | [Docomo Mani](https://open.spotify.com/artist/1LSDQTKpM6lCe3t5LMZzGq) | [Dammalu Dumeelu](https://open.spotify.com/album/21d5z8KNjwpo1BZi1FQ9rw) | 4:29 | 2022-11-05 |  |
 | [Dolakku Dakku](https://open.spotify.com/track/3OAZIKrB0wUCzuA3ZxfTwW) | [Palani](https://open.spotify.com/artist/2ek6C69timLZWHkd3qlb6b) | [Gana Ulagam Vol \- 1](https://open.spotify.com/album/3ISlqx1ncmk4x13zWU44uT) | 3:36 | 2023-01-11 |  |
 | [Enga Chennai](https://open.spotify.com/track/4D7z4o6E20x3etPXDiGE0H) | [Gana Kalaimani](https://open.spotify.com/artist/1SPYnGnTOjzAmwJn1AxnPm) | [Enga Chennai](https://open.spotify.com/album/1C3j0bCWnPM7pj9bWzXr5I) | 3:54 | 2023-03-24 |  |

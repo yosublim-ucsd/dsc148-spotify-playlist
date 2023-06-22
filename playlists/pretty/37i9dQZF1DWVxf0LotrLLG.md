@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Vico C
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,941 likes - 201 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,953 likes - 201 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:40 |
 | 201 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/6b7zrII4Rw44VkV0xvCBQE) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:36 |
 
-Snapshot ID: `MCxmZWYyOTQ0NTlhOGMyNmFmOWU0NWE1OGNlMmFmYWJmZGNlZjY3NGUy`
+Snapshot ID: `MCw1ZDBkMjc3YTdhZDhlNmUzNGEyNDk3OTYxZDg3NGNlNzI2M2JhNjYx`

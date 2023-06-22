@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Big Pun",
-  "num_followers": 324197,
+  "num_followers": 324472,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjhhNTNlNzIwYjU4ZTM0ODFmZjhjMjkxZTJiMjI2ODY0ZTRjYzll",
+  "snapshot_id": "MCwzOTFkNDVlOWMwYzdlMjA1OTU2ZTZlZWM0NDhjMjhiZWI0ODE1YTY0",
   "tracks": [
     {
       "added_at": "2023-05-08 03:17:44",
@@ -719,18 +719,26 @@
     {
       "added_at": "2023-05-08 03:17:44",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+        "name": "Party and Bullshit",
+        "url": "https://open.spotify.com/album/6WKXu5ynFZNdLjtUoWL0Vq"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "jazyxd",
+          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
+        },
+        {
+          "name": "ofk",
+          "url": "https://open.spotify.com/artist/1f7ye5Xc99Iq2CKuHYJM5O"
         }
       ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+      "duration_ms": 217048,
+      "name": "Party and Bullshit",
+      "url": "https://open.spotify.com/track/1FmHGLw986ZNyMDWmwmdY4"
     },
     {
       "added_at": "2023-05-08 03:17:44",
@@ -755,26 +763,18 @@
     {
       "added_at": "2023-05-08 03:17:44",
       "album": {
-        "name": "Party and Bullshit",
-        "url": "https://open.spotify.com/album/6WKXu5ynFZNdLjtUoWL0Vq"
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
       "artists": [
         {
-          "name": "Ayparia",
-          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
-        },
-        {
-          "name": "jazyxd",
-          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
-        },
-        {
-          "name": "ofk",
-          "url": "https://open.spotify.com/artist/1f7ye5Xc99Iq2CKuHYJM5O"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 217048,
-      "name": "Party and Bullshit",
-      "url": "https://open.spotify.com/track/1FmHGLw986ZNyMDWmwmdY4"
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2023-05-08 03:17:44",

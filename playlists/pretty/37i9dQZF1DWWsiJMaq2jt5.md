@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Nosowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,688 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,760 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 7 | [Tańcz głupia](https://open.spotify.com/track/5wPZgnPLhXwXuFbDy7Fnbg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Tańcz głupia](https://open.spotify.com/album/4srQR1a4fME6lCR2PpXGzN) | 2:34 |
 | 8 | [Stop Playing Games](https://open.spotify.com/track/0P3yaXoAKUBvBXTktpkFxr) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Stop Playing Games](https://open.spotify.com/album/7hcUV22P9RiOnfNVFmjygO) | 2:58 |
 | 9 | [Za zimną wodę](https://open.spotify.com/track/27hQd4RIgdmsfFQFVtBb8L) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Za zimną wodę](https://open.spotify.com/album/5d6ZciMccGnsM8XXcBtFxK) | 3:50 |
-| 10 | [Spadamy](https://open.spotify.com/track/2kDpPCEPfnxoWkVxPx2kB9) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:26 |
+| 10 | [Spadamy](https://open.spotify.com/track/2kDpPCEPfnxoWkVxPx2kB9) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:26 |
 | 11 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
 | 12 | [Po trupach do Ciebie](https://open.spotify.com/track/1yStrM5hVHlC1MWBZ6rCJg) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Po trupach do Ciebie](https://open.spotify.com/album/4MLpARvlTDmBPPF5DE6Drm) | 3:30 |
 | 13 | [Karminowe Usta](https://open.spotify.com/track/1fLlLFDWPSwBsnEk4rUobe) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR) | [Karminowe Usta](https://open.spotify.com/album/0E3gJa2cJr37HS4DEJPr7r) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 48 | [Domino](https://open.spotify.com/track/00EN9DwDbhPehNLjsMtWVC) | [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Domino](https://open.spotify.com/album/6M7lFKyPb3PzOoT0WO491p) | 3:07 |
 | 49 | [SIXTEEN](https://open.spotify.com/track/2x4xuodiNG3Mfykj8v7jde) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SIXTEEN](https://open.spotify.com/album/60H3Z95knAU1oZautoERSN) | 3:01 |
 
-Snapshot ID: `MCwxZDViY2NkZTZlOWJlZjJmNGQ1M2RlMzIwMWQxNjFjNDQwMGZmMWIz`
+Snapshot ID: `MCw3NmNiNmVkZjRhZjU4YzYxOTU0N2Q0NTdlMGUzNDc4ZmI1Y2QyMDMw`

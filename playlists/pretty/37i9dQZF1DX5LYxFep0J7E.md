@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,985 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,991 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 30 | [Brouhaha](https://open.spotify.com/track/5d6C0v7ir8lVRCymD9X2Ss) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Q Sessions](https://open.spotify.com/album/2HLVQ7b0y9D1wgRUFslaDq) | 4:56 |
 | 31 | [LDN](https://open.spotify.com/track/5EcuMsEpZ3K9HLsdS03oq4) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [The Space Between](https://open.spotify.com/album/2PmSdBdo1QpRYpeHwlXNRf) | 7:28 |
 | 32 | [A Night In Tunisia](https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [A Night in Tunisia](https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp) | 4:14 |
-| 33 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |
+| 33 | [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 |
 | 34 | [Reste un oiseau](https://open.spotify.com/track/2EJF3EdnuLtLNVNafgP08h) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:15 |
 | 35 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 |
 | 36 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MCwxZjVmNTIwZGNhYzBhMWYxMTQzZTM5NjRkODgyMTIyOGQxMTBmMjBl`
+Snapshot ID: `MCw4ZTdlOWRkNGU3NTcyOTcxOGNlYTJmMzJhMWY5NmU5NjJlNDJkOWRk`

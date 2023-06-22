@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-720 songs - 1 day 14 hr 7 min
+721 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Låt Tystnaden Tala](https://open.spotify.com/track/6CNipGzy4tNHZ1HBA5zdhj) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Låt Tystnaden Tala](https://open.spotify.com/album/2iRz9ohfyfx6xYtarEIXEk) | 2:49 | 2021-12-16 | 2022-03-11 |
 | [Låtsas du är min](https://open.spotify.com/track/1zwZK6nbGFzE4oJ5jSP4bq) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Låtsas du är min](https://open.spotify.com/album/1MCqhCmD8DbK70xoeTyqxU) | 2:51 | 2022-02-24 | 2022-05-12 |
 | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/track/3jUz8mlxuxFe8sZPbg0jrK) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/album/3L9f425mm6DIzpIC1LIC8B) | 2:42 | 2022-03-17 | 2022-08-24 |
+| [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-15 |  |
 | [Magik](https://open.spotify.com/track/6MjSZDtkKMNaFY9CV4oArA) | [DUO](https://open.spotify.com/artist/6FFSeDNJPtdauDFJQt6hZD) | [Magik](https://open.spotify.com/album/6MWKGkxYUhO5zi2y29Ttol) | 4:00 | 2022-01-13 | 2022-04-02 |
 | [Mamma](https://open.spotify.com/track/6GuWgmVACcJo9amMxliQOR) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Mamma](https://open.spotify.com/album/4NneLR9nt7OZ2MVKSoOMTl) | 2:57 | 2021-12-16 | 2022-01-12 |
 | [Mamma](https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Mamma](https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv) | 2:20 | 2023-01-19 | 2023-03-04 |
@@ -498,7 +499,7 @@
 | [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 | 2023-05-19 |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
-| [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 |  |
+| [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2023-06-22 |
 | [River In Reverse](https://open.spotify.com/track/6lQoYDLeDtIbvBAuslKy4d) | [Winhill/Losehill](https://open.spotify.com/artist/7fXcDsj4r6w3mVHauFRNqu) | [The Grief](https://open.spotify.com/album/6SzQzNJsxlpH9k3oHHSIy5) | 3:58 | 2022-06-30 | 2022-07-13 |
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |

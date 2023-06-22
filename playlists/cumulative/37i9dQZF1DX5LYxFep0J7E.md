@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-153 songs - 12 hr 57 min
+154 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Unrest II](https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unrest](https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO) | 4:08 | 2022-11-30 |  |
 | [Victory Dance](https://open.spotify.com/track/7y4FhiHBPKB6EqFQV66CDR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 4:55 | 2022-11-30 |  |
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2021-12-01 | 2022-12-01 |
-| [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 | 2022-11-30 |  |
+| [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 | 2022-11-30 |  |
+| [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 | 2022-11-30 | 2023-06-22 |
 | [Warp](https://open.spotify.com/track/0U9hekAvk594eG77ipTLDR) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:25 | 2022-11-30 |  |
 | [Wayne's Words](https://open.spotify.com/track/0zJlRE40wzh02mBYcT4UEB) | [Belmondo Quintet](https://open.spotify.com/artist/1rnnnxmIRIgMsYOVlCWm1H), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ), [Lionel Belmondo](https://open.spotify.com/artist/5qw1KySGdjwYRyrRvXZ2Xs), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Sylvain Romano](https://open.spotify.com/artist/3xfBsb1PTVruL4bh15TCDv), [Tony Rabeson](https://open.spotify.com/artist/45LGAkWGlJIzAa21Trpiaa) | [Brotherhood](https://open.spotify.com/album/4P1gs1NNheK0KeujsETd4F) | 5:55 | 2021-12-01 | 2022-12-01 |
 | [What Happens Next?](https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [What Happens Next?](https://open.spotify.com/album/3lw981bFN4nTdJXWJbhJvG) | 4:37 | 2022-11-30 |  |

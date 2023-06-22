@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 87613,
+  "num_followers": 87782,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODhiY2FlYTMwNmIzMjQ3NThhZmRjNjJlMzBhNjcxMmMwMjkwN2Ey",
+  "snapshot_id": "MCwyZTE0NTY0NzdlZTk5YTllYjA2NDQxYTBmMWFiNzM5MmE1YzM4N2Ez",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Indianola Mississippi Seeds",
         "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 364906,
       "name": "You're Still My Woman",
       "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 184466,
       "name": "Black Angel Blues",
       "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
       },
       "artists": [
         {
-          "name": "Albert Collins, Robert Cray and Johnny Copeland",
-          "url": "https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG"
+          "name": "Savoy Brown Blues Band",
+          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
         }
       ],
-      "duration_ms": 331493,
-      "name": "The Dream - Remastered",
-      "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
+      "duration_ms": 292040,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
       "artists": [
         {
-          "name": "Savoy Brown Blues Band",
-          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+          "name": "Albert Collins, Robert Cray and Johnny Copeland",
+          "url": "https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG"
         }
       ],
-      "duration_ms": 292040,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
+      "duration_ms": 331493,
+      "name": "The Dream - Remastered",
+      "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Driftin' Blues (Live)",
         "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 252000,
       "name": "Driftin' Blues - Live",
       "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Major League Blues",
-        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
-      },
-      "artists": [
-        {
-          "name": "Jose Ramirez",
-          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Here in the Delta",
-      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Old Bones, New Fire",
         "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Major League Blues",
+        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
+      },
+      "artists": [
+        {
+          "name": "Jose Ramirez",
+          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Here in the Delta",
+      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Soul Of The Blues",
-        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Along About Midnight",
-      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Reflection (Digitally Remastered Version)",
         "url": "https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 447520,
       "name": "Twenty-Four Hours - Digitally Remastered Version",
       "url": "https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Soul Of The Blues",
+        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Along About Midnight",
+      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
     }
   ],
   "unique_name": "Midnight Blues",

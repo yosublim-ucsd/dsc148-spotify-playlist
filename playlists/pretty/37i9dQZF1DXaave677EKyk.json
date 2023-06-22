@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 24860,
+  "num_followers": 24871,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGViMjU1OTRmZWZmZDQyYTkyODU1NDBlNDAyZjg5ZmE1OWY0YWY2",
+  "snapshot_id": "MCw0ODYxYzBkNDk2MDgzN2Y1ODgyZjZiZWJmOTJiNzAzZGNhZWNkNjJm",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
+      },
+      "artists": [
+        {
+          "name": "Bazzyb",
+          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
+        }
+      ],
+      "duration_ms": 137380,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Stars On The Roof (feat. MoMo)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 242769,
       "name": "Stars On The Roof (feat. MoMo)",
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
-      },
-      "artists": [
-        {
-          "name": "Bazzyb",
-          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
-        }
-      ],
-      "duration_ms": 137380,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 123488,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 178520,
       "name": "say it",
       "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 123488,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Love Me, Leave Me Alone",
-        "url": "https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Love Me, Leave Me Alone",
-      "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 230913,
       "name": "Make The Night Last",
       "url": "https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Love Me, Leave Me Alone",
+        "url": "https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Love Me, Leave Me Alone",
+      "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "Don't Call Me Baby",
         "url": "https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 187755,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp"
     },
     {
       "added_at": "2023-06-02 15:32:09",

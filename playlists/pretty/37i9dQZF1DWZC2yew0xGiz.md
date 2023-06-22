@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,462 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,465 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 21 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 22 | [Shame](https://open.spotify.com/track/1apzxNzMksJZtbDBKFIsdx) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [A Low Down Dirty Shame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M) | 4:14 |
 | 23 | [A Heart Is A House For Love](https://open.spotify.com/track/7sGneWBaDd89TrIFLBw3Nd) | [The 5 Heartbeats](https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG) | [The Five Heartbeats \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta) | 6:11 |
-| 24 | [Pass The Peas](https://open.spotify.com/track/4FD1AIbChsuCiwt2mqPfWo) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 3:10 |
+| 24 | [Get It Up \- From The Columbia Motion Picture "Poetic Justice"](https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:23 |
 | 25 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
-| 26 | [Get It Up \- From The Columbia Motion Picture "Poetic Justice"](https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:23 |
+| 26 | [Pass The Peas](https://open.spotify.com/track/4FD1AIbChsuCiwt2mqPfWo) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 3:10 |
 | 27 | [Kid Vs\. Play \(The Battle\) \- From "House Party" Soundtrack](https://open.spotify.com/track/10PcEaonfyrhDfzrOrBTyq) | [Kid 'N Play](https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 4:26 |
 | 28 | [Ain't No N\-G\-A](https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 4:27 |
 | 29 | [Gonna Give It To Ya](https://open.spotify.com/track/12LKTGOxhik5p08cIpaa6t) | [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:51 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 39 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MCw5YTU0MmQwNmQ3YzQyY2FmOGY2MDM0MzYyNWMzNDI5NTAzMjQyYjU5`
+Snapshot ID: `MCxmYzA4MTA2YWNhYjIzNjU0MTU2ODgxYmJjOTc0ZDQyMzM5YzVjMWQz`

@@ -2,7 +2,7 @@
 
 ### [Gen\-Z Nostalgie](https://open.spotify.com/playlist/37i9dQZF1DXanDkFGa4syx)
 
-> pov: geef me mijn jeugd terug
+> basic emotions, ik wil terug naar toen
 
 211 songs - 13 hr 27 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,536 likes - 613 songs - 1 day 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,167 likes - 613 songs - 1 day 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -622,4 +622,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 612 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 |
 | 613 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 |
 
-Snapshot ID: `MCw2YmQwYWU1ZDE1MDVhY2MwYTRjNmFkYjZjNmVkM2Q3NGNhODczY2Jh`
+Snapshot ID: `MCw2NWQzZDNiZjExMmIyNGZhNTU4ZTRmYjRiYmNkMWI3YzViNDBmZTE4`

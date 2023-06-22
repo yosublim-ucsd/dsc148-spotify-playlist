@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 63190,
+  "num_followers": 63229,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRiZjE0MDQzOWYxMmJjYjNiNjE5ODg1YjczZGI3MjE0YWExMDJj",
+  "snapshot_id": "MCxmNjdjNjc5OTk2NGNmNDNlYjNmMjQ3MzY4M2UyOTJjMmY0OTk1YjA1",
   "tracks": [
     {
       "added_at": "2023-05-29 10:26:29",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Han Jan",
+        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 242982,
+      "name": "Han Jan - Edit",
+      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Bayside",
         "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "Han Jan",
-        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 242982,
-      "name": "Han Jan - Edit",
-      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "I Go (Remixes)",
+        "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 410880,
+      "name": "I Go - Soulwax Remix",
+      "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },
@@ -451,42 +471,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "I Go (Remixes)",
-        "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 410880,
-      "name": "I Go - Soulwax Remix",
-      "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Mind Fruit",
         "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 330533,
       "name": "It's a Fine Day",
       "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Pick Up (Even Shorter Version)",
+        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Pick Up - Even Shorter Version",
+      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Pick Up (Even Shorter Version)",
-        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
       },
       "artists": [
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Pick Up - Even Shorter Version",
-      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
+      "duration_ms": 267666,
+      "name": "Little Fluffy Clouds",
+      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -951,22 +967,6 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "Adventures Beyond The Ultraworld",
-        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Little Fluffy Clouds",
-      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Sharevari",
         "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 351306,
       "name": "Sharevari",
       "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 413600,
       "name": "Musique",
       "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Elaenia",
         "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2023-05-29 10:26:29",

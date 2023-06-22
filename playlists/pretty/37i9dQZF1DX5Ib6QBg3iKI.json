@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125980,
+  "num_followers": 125974,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlNzFlZDc0MWY0MjZkNmMyOGE2MjUzOWZmN2IwZjMzN2Q4ZjM0",
+  "snapshot_id": "MCxmOWNkNDMxNmEwN2ZjNzRhMTg5MTk2N2MwNWY3ZjVmMGUwMjI3NTA3",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
     },
     {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Step Into Christmas",
+      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+    },
+    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "Walking in The Air",
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Step Into Christmas",
-      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "All I Want (For Christmas)",
         "url": "https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 181144,
       "name": "All I Want (For Christmas)",
       "url": "https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Warm on a Christmas Night",
-        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 268781,
-      "name": "Warm on a Christmas Night",
-      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -519,6 +503,22 @@
       "duration_ms": 230577,
       "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
       "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Warm on a Christmas Night",
+        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 268781,
+      "name": "Warm on a Christmas Night",
+      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "I Need You Christmas",
         "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 206066,
       "name": "I Need You Christmas",
       "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -671,38 +687,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Wishes Come True",
-        "url": "https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 164355,
-      "name": "Wishes Come True",
-      "url": "https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Wishes Come True",
+        "url": "https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 164355,
+      "name": "Wishes Come True",
+      "url": "https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Tracks in the Snow",
-        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tracks in the Snow",
-      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "This Christmas Day",
         "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 225040,
       "name": "This Christmas Day",
       "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Tracks in the Snow",
+        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tracks in the Snow",
+      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
     },
     {
       "added_at": "2022-11-18 01:05:05",

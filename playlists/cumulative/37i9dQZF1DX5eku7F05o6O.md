@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-160 songs - 10 hr 19 min
+161 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 | 2021-02-06 |  |
 | [Le cœur de l'océan](https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Dire combien je t'aime](https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf) | 4:07 | 2021-02-06 |  |
 | [Le long chemin \- Version acoustique](https://open.spotify.com/track/21VcCEgVoqNhkxLNJa7W5g) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Le long chemin \(Version acoustique\)](https://open.spotify.com/album/3KynHvxBIXwGyQDlAiwnlN) | 3:40 | 2021-02-06 | 2022-07-29 |
-| [Le long chemin \- Version acoustique](https://open.spotify.com/track/6V0ljhx2IN2V3WdN7rU5hs) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Le long chemin \(Version acoustique\)](https://open.spotify.com/album/3ucnDEuxr967xAyqfulDBl) | 3:40 | 2021-02-06 |  |
+| [Le long chemin \- Version acoustique](https://open.spotify.com/track/6V0ljhx2IN2V3WdN7rU5hs) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Le long chemin \(Version acoustique\)](https://open.spotify.com/album/3ucnDEuxr967xAyqfulDBl) | 3:40 | 2021-02-06 | 2023-06-22 |
+| [Le long chemin \- version acoustique](https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Le long chemin \(version acoustique\)](https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB) | 3:40 | 2021-02-06 |  |
 | [Le loup \- Version Vingt](https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Le loup \- Single \(Version Vingt\)](https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V) | 4:49 | 2021-02-06 | 2022-07-29 |
 | [Le loup \- Version Vingt](https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Vingt](https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH) | 4:49 | 2021-02-06 |  |
 | [Le nouveau vocabulaire](https://open.spotify.com/track/1evGFktCJPdkVKe6rAzZ3N) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Les ombres longues](https://open.spotify.com/album/1t9tJMcqM13KXF0sM6HZo9) | 3:08 | 2021-02-06 | 2022-07-29 |

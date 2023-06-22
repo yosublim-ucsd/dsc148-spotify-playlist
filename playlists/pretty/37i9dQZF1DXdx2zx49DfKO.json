@@ -1,12 +1,12 @@
 {
   "description": "The fastest growing genre in 2022.",
-  "num_followers": 11562,
+  "num_followers": 11582,
   "original_name": "Best of phonk 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWIzMjhkOTNkOTA2MjkxYmYwOTZmY2NmM2FlOWVhNDlmMzM1MDNk",
+  "snapshot_id": "MCxhMzZlYmY1OWQ5NmViZmI1OWVlZTlmY2ZhZGYyY2IxOWIyY2RkYTg2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -599,18 +599,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "HELL DRIFT 2",
-        "url": "https://open.spotify.com/album/5baNyrf7DzcEvwOJrzPVDM"
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz"
       },
       "artists": [
         {
-          "name": "trxmbolona",
-          "url": "https://open.spotify.com/artist/2xHJwz7ybXbFiG6X8seXi5"
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        },
+        {
+          "name": "HXELLPLAYA",
+          "url": "https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
         }
       ],
-      "duration_ms": 171625,
-      "name": "HELL DRIFT 2",
-      "url": "https://open.spotify.com/track/2pXz6Lc3KhTifUsO91ykvx"
+      "duration_ms": 171028,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
     },
     {
       "added_at": "2022-11-30 13:45:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 238553,
+  "num_followers": 238695,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ4NDFiOTRjNTAzM2MyODQ5ZDk4YzMxYmYzZDIzYjliZGY5NzI3",
+  "snapshot_id": "MCwwNTQzODAxNTBlYmQxOThiZGNmZTUyNDViNWViNjg2ZDg3NmE5M2Fk",
   "tracks": [
     {
       "added_at": "2023-05-24 19:04:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "One Step Closer",
         "url": "https://open.spotify.com/album/5BVnu0gNiU6VJhRA4AdqUi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 259266,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1NI2i1BjKiVrEYCC0WTug4"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 184026,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/0shzwsbUpKgI8kQhFsOl0w"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Break Of Dawn",
-        "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 227773,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Dan Hill (1987)",
         "url": "https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 226533,
       "name": "Carmelia",
       "url": "https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Break Of Dawn",
+        "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 227773,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "World Radio",
-        "url": "https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "Heart (Stop Beating In Time)",
-      "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Street Corner Heroes",
         "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 300626,
       "name": "Free Fallin' - Remastered",
       "url": "https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "World Radio",
+        "url": "https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "Heart (Stop Beating In Time)",
+      "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
     }
   ],
   "unique_name": "80s Soft Rock",

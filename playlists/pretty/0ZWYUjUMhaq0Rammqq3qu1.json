@@ -1,12 +1,12 @@
 {
   "description": "Dance hits in 2023. Cover: Swedish House Mafia",
-  "num_followers": 116321,
+  "num_followers": 116315,
   "original_name": "Dance Hits 2023",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NDYyOSxmMzQxOWU5ZThlYmUyOWQxZmY5MjNkOGQxNjA2Y2MwNDk4ZWI1MTIx",
+  "snapshot_id": "NDYzMSwxYzk5MTZjNzlkNjlkN2IwYmJiZWMxMWU1YTBmOGE0MzVlN2IxZjNj",
   "tracks": [
     {
       "added_at": "2023-06-19 19:51:12",
@@ -463,6 +463,46 @@
       "duration_ms": 135276,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+    },
+    {
+      "added_at": "2023-06-22 00:23:27",
+      "album": {
+        "name": "Love 2 U",
+        "url": "https://open.spotify.com/album/19ytKTcMUtwlIwThQWELyB"
+      },
+      "artists": [
+        {
+          "name": "Emdey",
+          "url": "https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J"
+        },
+        {
+          "name": "Cr3on",
+          "url": "https://open.spotify.com/artist/2kARXKmAASddORKnpXif8j"
+        },
+        {
+          "name": "Aidan O\u2019Brien",
+          "url": "https://open.spotify.com/artist/4nEshNcStqpI3Fk6TYQP7b"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "Love 2 U",
+      "url": "https://open.spotify.com/track/5IdjonofmOR2iPNjAeQ0PW"
+    },
+    {
+      "added_at": "2023-06-22 00:23:31",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR"
     },
     {
       "added_at": "2023-06-19 19:51:12",

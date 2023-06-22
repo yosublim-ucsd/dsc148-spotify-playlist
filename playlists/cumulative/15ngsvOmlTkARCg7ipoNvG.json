@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7kEf7DoJHnwK9nQBKrRJlr"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60618,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC"
+    },
+    {
+      "album": {
         "name": "Autumn Morning",
         "url": "https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8"
       },

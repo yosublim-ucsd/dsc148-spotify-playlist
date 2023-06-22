@@ -1815,6 +1815,32 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68339,
+      "name": "Make Your Own Sunshine",
+      "url": "https://open.spotify.com/track/5lq53aSenKTQKlHkZVraxL"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
         "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
       },
@@ -3550,6 +3576,32 @@
       "duration_ms": 58746,
       "name": "What This Frog Likes",
       "url": "https://open.spotify.com/track/1ZZLBoiZ8MD1oBVFBJzat0"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45177,
+      "name": "When I Was Hiking",
+      "url": "https://open.spotify.com/track/0Qv4rnSFD0Y6oKrmg3oLWc"
     },
     {
       "album": {

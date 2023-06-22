@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 14978,
+  "num_followers": 14981,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTBhZmZkNTYxZmE1Mjc0YjI1Mzc5NzE3YTA5MzdhOTJjOTY2ODQw",
+  "snapshot_id": "MCw5NTY1NGZhMWIwOTBiN2FhNGY5MTFjMzZjOTYzNmJlNjJhZGM5MWVm",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Not All Heroes Wear Capes",
         "url": "https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 226568,
       "name": "Not All Heroes Wear Capes",
       "url": "https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
     },
     {
       "added_at": "2022-06-09 16:13:45",

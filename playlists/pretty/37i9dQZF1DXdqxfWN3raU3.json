@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Latin Mafia en portada.",
-  "num_followers": 98961,
+  "num_followers": 99033,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWUwNjNjMmQ0ZTkzYWMxYzZiMWE3OGEyZjc0OWYyYmZmMzU3MmQ5",
+  "snapshot_id": "MCwzMjU1MTdlZGVkMTkxNjU5OGE4NzQwMzAyZjQzM2ZjY2JhNDA0OWFh",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "9:15",
         "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Daydream (Spanish Remix)",
-        "url": "https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
       },
       "artists": [
         {
-          "name": "JOIE GREY",
-          "url": "https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU"
-        },
-        {
-          "name": "Cristina Malakhai",
-          "url": "https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp"
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
         }
       ],
-      "duration_ms": 207748,
-      "name": "Daydream - Spanish Remix",
-      "url": "https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG"
+      "duration_ms": 233105,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
+        "name": "Daydream (Spanish Remix)",
+        "url": "https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI"
       },
       "artists": [
         {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+          "name": "JOIE GREY",
+          "url": "https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU"
+        },
+        {
+          "name": "Cristina Malakhai",
+          "url": "https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp"
         }
       ],
-      "duration_ms": 233105,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+      "duration_ms": 207748,
+      "name": "Daydream - Spanish Remix",
+      "url": "https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1355,42 +1355,6 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "N\u00e9bula",
-        "url": "https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 150698,
-      "name": "N\u00e9bula",
-      "url": "https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Mabiland Hotline: Cobuz & Bustta",
-        "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
-      },
-      "artists": [
-        {
-          "name": "Cobuz & Bustta",
-          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Mabiland Hotline: Cobuz & Bustta",
-      "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1415,6 +1379,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "N\u00e9bula",
+        "url": "https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 150698,
+      "name": "N\u00e9bula",
+      "url": "https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Mabiland Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Mabiland Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 168804,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "203",
         "url": "https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 170166,
       "name": "203",
       "url": "https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 168804,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "I'd Better",
-        "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
+        "name": "Elige Bien",
+        "url": "https://open.spotify.com/album/65izBXafV2afavC0J3JX5y"
       },
       "artists": [
         {
-          "name": "Du\u00f1e",
-          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 190120,
-      "name": "I'd Better",
-      "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
+      "duration_ms": 221250,
+      "name": "Elige Bien",
+      "url": "https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Elige Bien",
-        "url": "https://open.spotify.com/album/65izBXafV2afavC0J3JX5y"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Elige Bien",
-      "url": "https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "I'd Better",
+        "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
+      },
+      "artists": [
+        {
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "I'd Better",
+      "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 248550,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu"
       },
@@ -1743,22 +1723,6 @@
       "duration_ms": 174626,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "WM (Wifey Material)",
-        "url": "https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "WM (Wifey Material)",
-      "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1779,6 +1743,42 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 248550,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "WM (Wifey Material)",
+        "url": "https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "WM (Wifey Material)",
+      "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Quiere Volar",
+        "url": "https://open.spotify.com/album/1gqMgFqBBzJKRpS6OGyuAk"
+      },
+      "artists": [
+        {
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Quiere Volar",
+      "url": "https://open.spotify.com/track/21xHCMIUcG2ZYkgobStWjA"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "La \u00danica",
         "url": "https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 227200,
       "name": "La \u00danica",
       "url": "https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Duele Tanto",
-        "url": "https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor"
-      },
-      "artists": [
-        {
-          "name": "Jose Macario",
-          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 192570,
-      "name": "Duele Tanto",
-      "url": "https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo"
     }
   ],
   "unique_name": "R&B Latino",

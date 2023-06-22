@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 885454,
+  "num_followers": 885366,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjdhN2UwM2U0YzljZGQ4ODZjY2Q2MDE1OWM1MzQyMDY4Mjc1Y2Jh",
+  "snapshot_id": "MCwzNWVjODMwZmJjOTIyNmI2OGFiZWZiMzM1MTk1MWVmODIxMjYzNTk2",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "The Return of House Music",
-        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Elayna Boynton",
-          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
-        }
-      ],
-      "duration_ms": 244302,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -687,22 +667,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Limelight (NGHTMRE Remix)",
-        "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
       },
       "artists": [
         {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
         },
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Elayna Boynton",
+          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
         }
       ],
-      "duration_ms": 254896,
-      "name": "Limelight (NGHTMRE Remix)",
-      "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+      "duration_ms": 244302,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -723,6 +703,26 @@
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Limelight (NGHTMRE Remix)",
+        "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "duration_ms": 254896,
+      "name": "Limelight (NGHTMRE Remix)",
+      "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 224017,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Braincase",
         "url": "https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 192000,
       "name": "Braincase",
       "url": "https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "The Drop EP",
+        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
+      },
+      "artists": [
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Leisure Season Vol. 1",
         "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 216428,
       "name": "People I Know",
       "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "The Drop EP",
-        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
-      },
-      "artists": [
-        {
-          "name": "Bro Safari",
-          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Cartel II",
         "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 270000,
       "name": "Fatal Attraction (feat. Reese LAFLARE)",
       "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "In Motion",
         "url": "https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 181020,
       "name": "In Motion (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "PHASE III",
         "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 178333,
       "name": "Mumbai Mode",
       "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1947,22 +1947,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "MINDDD",
-        "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
+        "name": "HOMETOWN HEROES",
+        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
         },
         {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
         }
       ],
-      "duration_ms": 121681,
-      "name": "MINDDD",
-      "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
+      "duration_ms": 270422,
+      "name": "GOD (MUSIC)",
+      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
     }
   ],
   "unique_name": "Trap Mojito",

@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 176413,
       "name": "Achtung",
       "url": "https://open.spotify.com/track/7luiAw0Fc4OGaA07UCyMnV"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 192959,
       "name": "Entombed In Ice",
       "url": "https://open.spotify.com/track/75tyRe2oY9NRJc7yr1SZwl"
@@ -3316,6 +3316,24 @@
       "duration_ms": 256160,
       "name": "Fourth Street",
       "url": "https://open.spotify.com/track/0X0wvYSFhO4x16YPjsf5lt"
+    },
+    {
+      "album": {
+        "name": "Girl with Fish",
+        "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107607,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF"
     },
     {
       "album": {
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 188893,
       "name": "Hares on the Mountain",
       "url": "https://open.spotify.com/track/3QBsP66ixM2caNrOYzcUng"
@@ -4661,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/4wIR23Y3e4CdOS1Ip9JjiV"
+      },
+      "artists": [
+        {
+          "name": "dreamTX",
+          "url": "https://open.spotify.com/artist/2GfLt6EIU2Lhg53DljRCue"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/4DIoy6uiLofPZhc3dNLqqH"
+    },
+    {
+      "album": {
         "name": "No Highs",
         "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
@@ -5134,6 +5170,24 @@
       "duration_ms": 796857,
       "name": "Kiss U - Ricardo Villalobos Remix",
       "url": "https://open.spotify.com/track/2BsDtdmu8H6ZlMWK4oPlL6"
+    },
+    {
+      "album": {
+        "name": "kisses",
+        "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237434,
+      "name": "kisses",
+      "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
     },
     {
       "album": {
@@ -5647,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "Daystar",
+        "url": "https://open.spotify.com/album/0bgmCpZhjWa6F4bAtMT8GS"
+      },
+      "artists": [
+        {
+          "name": "Beta Librae",
+          "url": "https://open.spotify.com/artist/5aOx0DSs7guwHbcE4R4FIx"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332092,
+      "name": "Megafauna",
+      "url": "https://open.spotify.com/track/67fioyJudWhfqoK3t533XJ"
+    },
+    {
+      "album": {
         "name": "Paste",
         "url": "https://open.spotify.com/album/6ovELXbM0sve6oZSU0SIeg"
       },
@@ -5906,7 +5978,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-22",
       "duration_ms": 213520,
       "name": "Movement 3 - Pt. 2",
       "url": "https://open.spotify.com/track/7dGG8bWKcfil2mLxXp6GZy"

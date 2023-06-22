@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Doja Cat and more\. Cover: YG & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,591 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,688 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Before The Rap](https://open.spotify.com/track/4m4WOnPOVpPfqJoMzzR5Xw) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Taleban vs\. Dooda](https://open.spotify.com/album/6mNpkjIjgsVbR1MJqxaY4I) | 2:18 |
 | 51 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
 
-Snapshot ID: `MCxiNTRiMjM5NGM0N2NlYjNkYjc3NjllZjU5MDE2OWVjZTY2ZTZlMGFk`
+Snapshot ID: `MCxmYzU4ODg4M2FmMTc3MmFhZjVjMWU2YjM0ZGEzMTZmODMxOGNiM2Y3`

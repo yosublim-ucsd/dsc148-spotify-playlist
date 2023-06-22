@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Los Aptos x Cuco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,750 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,786 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 6 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 |
 | 7 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [To Love](https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe) | 3:36 |
 | 8 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
-| 9 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 |
+| 9 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 |
 | 10 | [Otra Madrugada](https://open.spotify.com/track/2JG0iWBiXNbiYRNGvsTedP) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv), [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [Otra Madrugada](https://open.spotify.com/album/4GRNSyCMFFrYL1tOQRn9BC) | 2:42 |
 | 11 | [Old With You](https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Old With You](https://open.spotify.com/album/25IShYtZX8wk1wFgPObY8m) | 3:26 |
 | 12 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [MOCHILA](https://open.spotify.com/track/3gVj2X3AlTpWEZTrxHRh7N) | [Sr\. Chen](https://open.spotify.com/artist/6GqSICEGHY2MW8mgwYzz5Q), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [TERRIBLE](https://open.spotify.com/album/6o4irqTbhXUjEs1q43m5Jb) | 2:59 |
 | 103 | [Take It Easy](https://open.spotify.com/track/3W9aku7UEJPrVDzVQAG7yf) | [Nicaragua](https://open.spotify.com/artist/52xrPZ8EC64iktrGrmVa4B) | [Almost Home](https://open.spotify.com/album/523L2aobtB2ThLEzHpJLnb) | 3:13 |
 
-Snapshot ID: `MCwyZjBjZGZhYjQ2MGZjZGU0MDNjNmY3N2NlYmZjNmVmMWUzMDcyMzQ4`
+Snapshot ID: `MCxhNWJlMmE1NDAwNjNjMTRmYTkwODU2MWRiMDliZDczMzEyNDAyOWZl`

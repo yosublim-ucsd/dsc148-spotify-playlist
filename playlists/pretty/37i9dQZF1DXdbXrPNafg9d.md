@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vagabon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,418 likes - 185 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,435 likes - 185 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 55 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 |
 | 56 | [Disco Ball Soul](https://open.spotify.com/track/2imay8Aui7TAY38a5zqy9Q) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Disco Ball Soul](https://open.spotify.com/album/2hM3VQXBbrHWibLUrpPNyR) | 3:39 |
 | 57 | [Hot Mess Nonsense](https://open.spotify.com/track/6wCnKloIpE6mVOfcIoC1jI) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Hot Mess Nonsense](https://open.spotify.com/album/1bfMzZnG9tNNWnZwKgK4bK) | 2:15 |
-| 58 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 |
+| 58 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 |
 | 59 | [Big Blues](https://open.spotify.com/track/2o1FVnh6hmeiWuFof7MXzZ) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Biblickle](https://open.spotify.com/album/3gRttldMpmma0VSITkMScY) | 2:18 |
 | 60 | [bruise \- Billy Lemos flip](https://open.spotify.com/track/4Y2nQ86lLu36wPuDqKf6lU) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [bruise \(Billy Lemos flip\)](https://open.spotify.com/album/1FSzwmAs0jeT0lHy1Wplyy) | 1:40 |
 | 61 | [Gravity](https://open.spotify.com/track/69AUOZ9MmyiNrA0FqjWcrg) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gravity](https://open.spotify.com/album/5oURkWqLT3VyVALJgjTxuv) | 3:25 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 184 | [Glitter 2](https://open.spotify.com/track/2NmIwfhMayON6aiKvUlKv2) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter 2](https://open.spotify.com/album/0L2Cx19eLGugnvTkGT6HMh) | 3:25 |
 | 185 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 |
 
-Snapshot ID: `MCxhNGQzNzAwZjU1ZDgxMGQwMWJkMmE5M2M5MWVhYmM2NTRlZDY5ZDIw`
+Snapshot ID: `MCw3ZjA1OWJhMzBiZjc0OWU2NGE1MTQxNTQ5M2ZmZTJmZmQxOTY2NDdh`

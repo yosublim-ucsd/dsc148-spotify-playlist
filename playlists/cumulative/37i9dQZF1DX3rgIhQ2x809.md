@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-103 songs - 5 hr 35 min
+104 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cenizas](https://open.spotify.com/track/6ESAAoYM3hNHZiZpO5D5QW) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Cenizas](https://open.spotify.com/album/39Y9JiyprWyT3zkVXr8pek) | 2:34 | 2023-06-09 | 2023-06-14 |
 | [Champions Under The Sun](https://open.spotify.com/track/33wKSyYa3Nt99oDF9j504r) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Champions Under The Sun](https://open.spotify.com/album/4mwDMi0vhKjGxEJbThDmtY) | 3:14 | 2023-06-09 |  |
 | [Chica Basic](https://open.spotify.com/track/7LtUnhtRiywni5SgHfk138) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875) | [Chica Basic](https://open.spotify.com/album/1mw0Jqro40KIMytPQHjU1s) | 3:30 | 2023-06-09 |  |
-| [Como Agua](https://open.spotify.com/track/2D11UPugNp782PwAfHO5QW) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Como Agua](https://open.spotify.com/album/5RClmowbgbMxeV7UKuw1uU) | 3:02 | 2023-06-09 |  |
+| [Como Agua](https://open.spotify.com/track/2D11UPugNp782PwAfHO5QW) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Como Agua](https://open.spotify.com/album/5RClmowbgbMxeV7UKuw1uU) | 3:02 | 2023-06-09 | 2023-06-22 |
 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 | 2023-06-09 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-06-09 |  |
 | [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 | 2023-06-09 |  |
@@ -67,6 +67,7 @@
 | [Mundo Al Revés](https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Mundo Al Revés](https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7) | 2:54 | 2023-06-09 |  |
 | [Más de Ti](https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Más de Ti](https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv) | 4:26 | 2023-06-09 |  |
 | [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 | 2023-06-09 |  |
+| [Nube](https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Nube](https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l) | 3:43 | 2023-06-09 |  |
 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 | 2023-06-09 |  |
 | [Otra](https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Otra](https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG) | 2:46 | 2023-06-09 |  |
 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 | 2023-06-09 |  |

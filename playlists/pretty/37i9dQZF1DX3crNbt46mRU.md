@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lena
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,174 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,176 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 97 | [I wanna go home](https://open.spotify.com/track/3twtFktuEmkNtuLnmeoV7H) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/4HPinQsdW1k7fzQu16kSih) | 2:36 |
 | 98 | [Blüten](https://open.spotify.com/track/6ZMpVMmcWOpPv9HolHpNLd) | [Tim Baldus](https://open.spotify.com/artist/6tNFo8CQXEEY3KOONGTLQY) | [Blüten](https://open.spotify.com/album/7dqgqzJ1Oxmcvj0TAezmfR) | 2:13 |
 
-Snapshot ID: `MCwyOTIyZTA3YmQ5YTRlODk4ODRlMzkxZGY1YzJmOTY5ZTYwNmNhNzZh`
+Snapshot ID: `MCw3NWYwNTcwM2UyMmYxNmZkYzE3YzU1MGNlYWRmY2ExZDlkNWU0MjU4`

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-113 songs - 7 hr 10 min
+114 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 |  |
 | [Bitterzoet](https://open.spotify.com/track/39He9xYIIOdK0pU3U9OjAs) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Bitterzoet](https://open.spotify.com/album/6i4IItGQSRvbdBguRDggMI) | 3:58 | 2023-02-10 | 2023-03-18 |
 | [Blijf Bij Mij \- Live](https://open.spotify.com/track/3iDaIXcvqurUTjJbaAu3Xb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Plugged \(Live\)](https://open.spotify.com/album/3GRkSdhiHZS9wepjQInp8v) | 3:00 | 2023-02-10 | 2023-05-12 |
-| [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 |  |
+| [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 | 2023-06-22 |
 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 | 2023-02-10 |  |
 | [Daarom Doe Ik Het Niet](https://open.spotify.com/track/3TJ3neKQCwrOfkstbExr9f) | [Musketiers](https://open.spotify.com/artist/3i57Jc20l9fkihVbs3ZOZq), [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6), [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Musketiers](https://open.spotify.com/album/4pLF4cLdZ5Xp2akThDvtpO) | 2:59 | 2023-02-10 | 2023-04-21 |
 | [Dans met me](https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Dans met me](https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21) | 4:38 | 2023-05-11 |  |
@@ -81,6 +81,7 @@
 | [Mooi Geweest](https://open.spotify.com/track/5o2faEX74VH3rc1gKB6nx1) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Mooi Geweest](https://open.spotify.com/album/4pSWksRCcg369pG3LjChh2) | 2:51 | 2023-03-23 |  |
 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda & De Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 | 2023-02-10 | 2023-04-07 |
 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 | 2023-02-10 |  |
+| [Mooier](https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:28 | 2023-06-21 |  |
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 |  |
 | [Niet Of Nooit Geweest](https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Naar Huis](https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg) | 4:02 | 2023-02-10 | 2023-04-07 |
 | [Nooit meer van God los](https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO), [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Nooit meer van God los](https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK) | 3:06 | 2023-04-06 |  |

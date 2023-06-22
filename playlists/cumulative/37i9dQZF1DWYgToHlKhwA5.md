@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-425 songs - 19 hr 18 min
+426 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Tropicallers](https://open.spotify.com/artist/4yWbv6GvbwNLjPGgvQkSfr) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-04-07 |  |
 | [Calm Deluge Sounds](https://open.spotify.com/track/28WIaeozgN7ff4JoXlOywG) | [Wilderness Recorders](https://open.spotify.com/artist/7yWuFubtaAy9QImLX4oZsY) | [Afternoon Rain Sounds](https://open.spotify.com/album/5AQPFFr9p2fKvcnzK8B6TZ) | 2:44 | 2023-06-15 |  |
 | [Calm Evening Rain](https://open.spotify.com/track/26d4W0pwjf1hLxkVOzvA9v) | [Light Camera Rain](https://open.spotify.com/artist/64M0VF8ZKRHOlrjUXCv0VA) | [Calm Bedtime Rain](https://open.spotify.com/album/1MvLHAL8JIC9d7S5mOnrja) | 2:32 | 2023-06-15 |  |
-| [Calm Rain and Distant Thunder](https://open.spotify.com/track/44h6z1eReBUJaTl0cY8pof) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 2:06 | 2022-07-19 |  |
+| [Calm Rain and Distant Thunder](https://open.spotify.com/track/44h6z1eReBUJaTl0cY8pof) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 2:06 | 2022-07-19 | 2023-06-22 |
 | [Calm Rain, Thunder](https://open.spotify.com/track/3Gp2W5Po1dSh0oMTxA8LGX) | [Climate Hive](https://open.spotify.com/artist/3mSx3nlKy6R4HHqeRVFLxx) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:08 | 2022-07-19 |  |
 | [Calm Thunder](https://open.spotify.com/track/03gfve0EKLdBoQCGZDkbet) | [Nature's Noise](https://open.spotify.com/artist/5i2JKg9O2zy5LwcBglqrZb) | [Downdraft](https://open.spotify.com/album/1vPNqcrlnVNnI9D589Xn5c) | 2:39 | 2022-07-19 |  |
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2023-06-15 |  |
@@ -161,6 +161,7 @@
 | [Light Up The Sky](https://open.spotify.com/track/7bnY0z3DPNHk3gfhLvAuvx) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Lightning In the Sky](https://open.spotify.com/album/76XtY4E8aszFjzA6jRySU5) | 3:28 | 2022-07-19 |  |
 | [Lightning](https://open.spotify.com/track/17T1PhUwVor4Q4ZdqhkVL7) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Rumbling Storm](https://open.spotify.com/album/4Lc0u3AHqUcO9d9gSx9wak) | 3:36 | 2023-06-15 |  |
 | [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 | 2022-07-19 |  |
+| [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-06-15 |  |
 | [Lincoln Way Rain](https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV) | [Granular FX](https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu) | [San Fran Rain](https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR) | 2:35 | 2023-06-15 |  |
 | [Lluvia intensa y truenos](https://open.spotify.com/track/3dUYKGGxMCT5vFFp2uIuNB) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:56 | 2022-07-19 | 2023-06-16 |
 | [Lluvia suave y truenos](https://open.spotify.com/track/19vICChcY7vRxy4NXp28mn) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:58 | 2022-07-19 | 2023-06-16 |

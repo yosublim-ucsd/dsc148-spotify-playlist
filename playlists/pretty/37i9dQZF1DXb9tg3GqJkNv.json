@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Smiley",
-  "num_followers": 5427,
+  "num_followers": 5462,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWY5MmE1YTc2YWM4NzhhOTdhOGQyNDU4ZTQ2MmUwNjFlYWNiZmQ4",
+  "snapshot_id": "MCwxODU5YTY2MDc2NThkYmNhMzM3NWYzMWNjNWYwMzgzNjNjY2IxZWI5",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
       },
       "artists": [
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
         }
       ],
-      "duration_ms": 149042,
-      "name": "NIGHTFALL (feat. Dro Kenji)",
-      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
+      "duration_ms": 198321,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -775,6 +755,26 @@
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 149042,
+      "name": "NIGHTFALL (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Rastar",
-        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
-      },
-      "artists": [
-        {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 173932,
-      "name": "Netflix & Chill (feat. Fenix Flexin)",
-      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "HOU I AM",
         "url": "https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 228545,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Rastar",
+        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
+      },
+      "artists": [
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "Netflix & Chill (feat. Fenix Flexin)",
+      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
-      },
-      "artists": [
-        {
-          "name": "Robin Banks",
-          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
-        },
-        {
-          "name": "FB",
-          "url": "https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar"
-        }
-      ],
-      "duration_ms": 272052,
-      "name": "Priceless",
-      "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Fleurever",
         "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 142640,
       "name": "\u2022 RIGHT NOW",
       "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
+      },
+      "artists": [
+        {
+          "name": "Robin Banks",
+          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
+        },
+        {
+          "name": "FB",
+          "url": "https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar"
+        }
+      ],
+      "duration_ms": 272052,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
     },
     {
       "added_at": "2023-06-16 04:01:00",

@@ -2,9 +2,9 @@
 
 ### [Ska Around The Globe](https://open.spotify.com/playlist/37i9dQZF1DX4mnAzYEyRVc)
 
-> The world series of Ska\. Cover: Alamedadosoulna
+> The world series of Ska\. Cover: Ska\-P
 
-514 songs - 1 day 5 hr 41 min
+515 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-06 | 2023-04-22 |
 | [El Vals del Obrero](https://open.spotify.com/track/7vjywEvwYqPyCGZBgOjvLH) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Todo Ska\-p](https://open.spotify.com/album/6XAsEb7ixXRIToeVC4UIZT) | 4:37 | 2021-12-06 | 2022-11-13 |
 | [El Vals del Obrero](https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf) | 4:37 | 2021-12-06 | 2022-07-28 |
+| [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 | 2023-06-22 |  |
 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 | 2021-12-06 |  |
 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 | 2021-12-06 | 2022-07-29 |
 | [Entre Vos y Yo](https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 4:38 | 2021-12-06 | 2023-04-22 |
@@ -227,7 +228,7 @@
 | [Last Instrumental](https://open.spotify.com/track/6vsN18BMXvSlMtiOEcrcyG) | [Root Diamoons](https://open.spotify.com/artist/7BNUk7Gaw629fGVmoMCNsE) | [Tot Al Seu Temps](https://open.spotify.com/album/41CLwteCpm6w18ylgl4NZj) | 3:28 | 2021-12-06 | 2022-07-29 |
 | [Last Night](https://open.spotify.com/track/2jeBmPUZAwroyZGz5rQoP3) | [Dancing Me And The Ska Machine](https://open.spotify.com/artist/2vZbn60fL2qD04c1Mgt9FE) | [Rise Of The Machine](https://open.spotify.com/album/49s7Bpwh5NyHq2sK8OfSnd) | 2:34 | 2021-12-06 | 2022-07-09 |
 | [Latin Ska](https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Latin Ska](https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX) | 3:14 | 2021-12-06 | 2023-04-22 |
-| [Libertá](https://open.spotify.com/track/0dfNOzr9tbG2Nrb11GKwOu) | [Agua Bendita](https://open.spotify.com/artist/2e3P7zO9duFmWItDELoQfq) | [Amén 30 Aniversario](https://open.spotify.com/album/5kTbLlRKj1NkkJLPN6q26i) | 2:30 | 2023-05-19 |  |
+| [Libertá](https://open.spotify.com/track/0dfNOzr9tbG2Nrb11GKwOu) | [Agua Bendita](https://open.spotify.com/artist/2e3P7zO9duFmWItDELoQfq) | [Amén 30 Aniversario](https://open.spotify.com/album/5kTbLlRKj1NkkJLPN6q26i) | 2:30 | 2023-05-19 | 2023-06-22 |
 | [Life on Mars?](https://open.spotify.com/track/4MwCaANhDdWxX7hoGJYmme) | [Suspense Heroes Syndicate](https://open.spotify.com/artist/1ByxYfnFGrxRhVv7zD0TX0) | [Life on Mars?](https://open.spotify.com/album/5q18ipMyWRfGkFa0BFNTJr) | 4:01 | 2021-12-06 | 2022-07-28 |
 | [Line](https://open.spotify.com/track/4R3poPOoGOo1x0ATaKMzUS) | [Racer](https://open.spotify.com/artist/5mGxur8Tn9si7x9p58aaeF) | [Line](https://open.spotify.com/album/5IUJ2cPQGisBXQ6uzWVS4j) | 3:26 | 2023-04-28 | 2023-06-03 |
 | [Lip up Fatty](https://open.spotify.com/track/5myzkbUsDzFuGjSdYXl7dV) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Ska 'N' B](https://open.spotify.com/album/36Jbhd2RfuDnhqup2PgBzx) | 2:48 | 2021-12-06 | 2023-04-22 |

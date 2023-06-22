@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7450,
+  "num_followers": 7451,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTBhMGZmYTU4MDAyMmEzNzJkODE0MzU1YmJmODI0MTU4YTg4OWU4",
+  "snapshot_id": "MCw5ZjY2MDU1YTRlNWRjZmI1N2JlODI0NDBlMmFmYmIzOWY5NWQyN2Fm",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -775,26 +775,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Si Me Dices Que S\u00ed (feat. Camilo) [R3HAB Remix]",
         "url": "https://open.spotify.com/album/6i2maKWlX3CxMAeXotdTPu"
       },
@@ -823,6 +803,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "B\u00e9same (I Need You) (with TINI & Reik)",
         "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
       },
@@ -847,30 +847,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Contra La Pared (Remixes)",
-        "url": "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 257274,
-      "name": "Contra La Pared - GTA Remix",
-      "url": "https://open.spotify.com/track/5RE2mMitKRWTQuh1jSzlBu"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 167310,
       "name": "Sua Cara",
       "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Contra La Pared (Remixes)",
+        "url": "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 257274,
+      "name": "Contra La Pared - GTA Remix",
+      "url": "https://open.spotify.com/track/5RE2mMitKRWTQuh1jSzlBu"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -999,30 +999,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "Buscando Huellas",
-      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Napoleona",
         "url": "https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb"
       },
@@ -1103,6 +1079,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Mi Gente (Alesso Remix)",
         "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
       },
@@ -1127,26 +1127,38 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Music Is The Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+        "name": "No Te Enamores (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/6e1L4cAZHKtG7AcbnkE6g4"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
         },
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 165176,
-      "name": "QueLoQue (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/1089I4FLizCRim8hc6eKST"
+      "duration_ms": 283187,
+      "name": "No Te Enamores - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
     }
   ],
   "unique_name": "Global Dance Crossover",

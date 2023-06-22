@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-152 songs - 7 hr 36 min
+153 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 | 2022-09-15 | 2022-09-30 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 |  |
 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 |  |
-| [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 |  |
+| [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 | 2023-06-22 |
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 |  |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-06-08 |  |
@@ -114,6 +114,7 @@
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2022-09-15 | 2022-09-30 |
 | [Nightcall](https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Nightcall](https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2) | 2:06 | 2022-09-15 |  |
 | [No One Hurries Time](https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Andrea Hamilton](https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs) | [No One Hurries Time](https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP) | 2:36 | 2022-09-15 | 2023-03-25 |
+| [Oasis de Gafsa](https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Oasis de Gafsa](https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf) | 2:22 | 2023-06-08 |  |
 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 | 2022-12-13 |
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 | 2023-01-21 |
 | [One More Night](https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [One More Night](https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y) | 2:12 | 2022-11-08 | 2022-11-24 |

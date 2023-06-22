@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-457 songs - 1 day 6 hr 35 min
+458 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-10-20 |  |
 | [Chopin: 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/6DuWsaou7UwyoQK2h6I9Fo) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works](https://open.spotify.com/album/0eHk94eZ5fUlGSjwEkkjFp) | 2:25 | 2022-10-20 | 2022-11-16 |
 | [Chopin: 前奏曲 第15番 変ニ長調 作品28の15《雨だれ》](https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 5:26 | 2022-10-20 | 2022-12-02 |
-| [City Song](https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 3:42 | 2023-06-13 |  |
+| [City Song](https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 3:42 | 2023-06-13 | 2023-06-22 |
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-05-09 |  |
 | [Clouds Over Bourbon Street](https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Clouds Over Bourbon Street](https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9) | 3:18 | 2023-03-23 | 2023-04-19 |
 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 |  |
@@ -186,6 +186,7 @@
 | [Ker al Loch \- Solo Piano](https://open.spotify.com/track/6HKVTiraMsZQkzfyv2DlV6) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f) | 5:59 | 2023-06-06 | 2023-06-08 |
 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 | 2023-06-14 |
 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 | 2022-10-20 |  |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-20 |  |
 | [koe](https://open.spotify.com/track/1BzU2vS7ve3Whi4a6z6zDw) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [koe](https://open.spotify.com/album/1Wk84xuIWUDWFX9ZD4xXmE) | 2:24 | 2023-06-01 | 2023-06-14 |
 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 | 2023-06-13 |  |
 | [Koto](https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Koto](https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv) | 2:48 | 2022-10-20 | 2022-12-14 |
@@ -303,7 +304,7 @@
 | [Rêverie, L\. 68](https://open.spotify.com/track/43BEvIoW4TPxPyVeGMutHn) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [France Romance](https://open.spotify.com/album/6zfAaRAoKeOf2QbnWzyAKW) | 4:30 | 2023-06-13 |  |
 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 | 2022-10-20 |  |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-23 |
-| [Sail on](https://open.spotify.com/track/02lSXyB3Bjx9r6r3fVEUDW) | [ZARUKAME](https://open.spotify.com/artist/4JniQUm8ku6Z1ReAvmMflB) | [Sail on](https://open.spotify.com/album/4rCdWr7PZttdclVMfWlRRj) | 4:02 | 2023-06-13 |  |
+| [Sail On](https://open.spotify.com/track/02lSXyB3Bjx9r6r3fVEUDW) | [ZARUKAME](https://open.spotify.com/artist/4JniQUm8ku6Z1ReAvmMflB) | [Sail On](https://open.spotify.com/album/4rCdWr7PZttdclVMfWlRRj) | 4:02 | 2023-06-13 |  |
 | [Saison \(Come Back Home\)](https://open.spotify.com/track/4CRtT1uur31HK6Gxiua20v) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Saison \(Come Back Home\)](https://open.spotify.com/album/7vVtMXdLT9bnwm9nQZEC0T) | 4:19 | 2023-01-10 | 2023-03-01 |
 | [Sakura](https://open.spotify.com/track/1jgIwjmw5e4JEEcE28XyHC) | [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Ron Korb](https://open.spotify.com/artist/4Xjxonsw8YU2tX5MR7n0r8), [Nadeem Majdalany](https://open.spotify.com/artist/7l7n59geWbproigFlsASth) | [Sakura](https://open.spotify.com/album/1xfycvj3UaVhykLZZBN0oY) | 4:14 | 2023-02-15 | 2023-05-05 |
 | [Sanson Yojo](https://open.spotify.com/track/7nZvrHlJNffOsqLQ7ePZn2) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [Landscape in Portrait](https://open.spotify.com/album/24uG3LnJjohdiMMRw2DLfw) | 3:46 | 2022-10-20 | 2022-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28631,
+  "num_followers": 28648,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTdkMDQ3NzZkODUwZDYyZGNlMzA1Yzc1M2JiZTM2OWE3YjRiMjhk",
+  "snapshot_id": "MCw1OGViOTlhYmVlMmNjNzUyZjBkODk5NTZjYWMxNjQzZjJjYjVlMjA1",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -387,6 +387,30 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sri Lanka",
+        "url": "https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "PGS Spence",
+          "url": "https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx"
+        },
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        }
+      ],
+      "duration_ms": 116280,
+      "name": "Sri Lanka",
+      "url": "https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 192949,
       "name": "Jersey Anniversary",
       "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Sri Lanka",
-        "url": "https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "PGS Spence",
-          "url": "https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx"
-        },
-        {
-          "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "Sri Lanka",
-      "url": "https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Turn On The Bass",
+      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On The Bass",
-      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Snack Time",
         "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
       },
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Zfrek",
-          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Shake My Ass",
-      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "clown shit",
         "url": "https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn"
       },
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "FIJI WATER",
         "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 136615,
       "name": "FIJI WATER",
       "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1199,22 +1199,6 @@
       "duration_ms": 143399,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 131391,
       "name": "Bitch We from Baltimore",
       "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
         }
       ],
-      "duration_ms": 151965,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
       },
       "artists": [
         {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 166060,
       "name": "Ride It - SBF17",
       "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
-        "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Thai Chi Ros\u00e8",
-          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
-        },
-        {
-          "name": "XL Mad",
-          "url": "https://open.spotify.com/artist/1A4YwQMDSQ8DnliFWNa4EK"
-        },
-        {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
-      "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1763,6 +1731,38 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
+        "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Thai Chi Ros\u00e8",
+          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
+        },
+        {
+          "name": "XL Mad",
+          "url": "https://open.spotify.com/artist/1A4YwQMDSQ8DnliFWNa4EK"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
+      "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Hector's Revenge",
+        "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
+      },
+      "artists": [
+        {
+          "name": "GIDE\u00d6N",
+          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
+        }
+      ],
+      "duration_ms": 452475,
+      "name": "Hector's Revenge",
+      "url": "https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
@@ -1979,18 +1995,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hector's Revenge",
-        "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
+        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
       },
       "artists": [
         {
-          "name": "GIDE\u00d6N",
-          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
         }
       ],
-      "duration_ms": 452475,
-      "name": "Hector's Revenge",
-      "url": "https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c"
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2011,26 +2031,6 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
     }
   ],
   "unique_name": "Global Club Music",

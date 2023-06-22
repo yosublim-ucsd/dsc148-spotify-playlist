@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 20350,
+  "num_followers": 20393,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDA0M2ZjZjE1ODhhODMyYmFlMTNjOWYyYzMzODY0MmEyZGVlMzk2",
+  "snapshot_id": "MCxiYjEyOWJmODMwM2M1Y2ZmMTVjZjBiODk3ZDg1ZWZiZmZhZDQ2NjA4",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Salsa Sensual, Vol. 1",
+        "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De New York",
+          "url": "https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu"
+        }
+      ],
+      "duration_ms": 292853,
+      "name": "Qui\u00e9reme Tal Como Soy",
+      "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Salsa Sensual, Vol. 1",
-        "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De New York",
-          "url": "https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu"
-        }
-      ],
-      "duration_ms": 292853,
-      "name": "Qui\u00e9reme Tal Como Soy",
-      "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
     },
     {
       "added_at": "2023-03-17 00:52:56",

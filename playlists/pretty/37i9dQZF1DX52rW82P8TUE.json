@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 54566,
+  "num_followers": 54627,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDExNmFiNWM3NDA2YTJiZjBiOTc4NjJiZWMzMGZjZTk1YWE3NDRj",
+  "snapshot_id": "MCw3Njk3MDExNmE2ODFhZGJmODAwMDBkYjAwMTIyNDdjY2MwZmFmYjMx",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Destino ao C\u00e9u",
+        "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 226628,
+      "name": "Destino ao C\u00e9u",
+      "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Caminho no Deserto (Vers\u00e3o Kids)",
         "url": "https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 333113,
       "name": "Caminho no Deserto - Vers\u00e3o Kids",
       "url": "https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Destino ao C\u00e9u",
-        "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 226628,
-      "name": "Destino ao C\u00e9u",
-      "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
     },
     {
       "added_at": "2023-06-02 03:00:00",

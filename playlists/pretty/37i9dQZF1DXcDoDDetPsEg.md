@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,089 likes - 62 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,175 likes - 62 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 17 | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/track/1cjBX23hWC5jHmsUXuJ1KP) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/album/6vPWjEGgjxkemGzOKa1pAQ) | 2:55 |
 | 18 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
 | 19 | [Drip Drip \(feat\. Nines, MIST, MoStack & Mastermind\)](https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [The Playlist](https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz) | 3:40 |
-| 20 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
+| 20 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 21 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 22 | [Single Player](https://open.spotify.com/track/3eKIv8Unt9jWpDYgVbVYIx) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Single Player](https://open.spotify.com/album/1GneUvQfEE0xn4z2UCNjQr) | 2:55 |
 | 23 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 61 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 |
 | 62 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 
-Snapshot ID: `MCwyZDhiZjM0NzVkZWNhYTQyNzU0OTE1MTRkMmEyNzAwOTZkZDZlOTNl`
+Snapshot ID: `MCw3YzBlMTIyNzE5OTM3MjFjODA1NmU1M2RhOWVmM2E1NjhlYWUyNzdi`

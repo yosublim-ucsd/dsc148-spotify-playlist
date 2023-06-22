@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,855 likes - 154 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,939 likes - 154 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 63 | [Rotorua City](https://open.spotify.com/track/6zWvcIrTdwy8MjeiboMOqN) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rotorua City](https://open.spotify.com/album/7fg11HFr4yqGo57XzAO1F5) | 3:11 |
 | 64 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 |
 | 65 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 |
-| 66 | [Blame It On My Youth](https://open.spotify.com/track/1SxdVPyuUquWVcrxjHhQED) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth](https://open.spotify.com/album/4IGwxuImizLowHXCeZGke4) | 4:58 |
-| 67 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 |
-| 68 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 |
-| 69 | [Effortless Directions](https://open.spotify.com/track/1dcNIZLxbuD82G4kteimY5) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Effortless Directions](https://open.spotify.com/album/0I31GQwscZUsGHQv653JHa) | 3:32 |
-| 70 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 |
-| 71 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 |
+| 66 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 |
+| 67 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 |
+| 68 | [Effortless Directions](https://open.spotify.com/track/1dcNIZLxbuD82G4kteimY5) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Effortless Directions](https://open.spotify.com/album/0I31GQwscZUsGHQv653JHa) | 3:32 |
+| 69 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 |
+| 70 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 |
+| 71 | [Blame It On My Youth](https://open.spotify.com/track/1SxdVPyuUquWVcrxjHhQED) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth](https://open.spotify.com/album/4IGwxuImizLowHXCeZGke4) | 4:58 |
 | 72 | [The Sun Descending](https://open.spotify.com/track/2Z40l10k74qcQAP88F5KEY) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [The Sun Descending](https://open.spotify.com/album/25kaAnpI8CH5ARKQQrdfPp) | 2:18 |
 | 73 | [Trav'lin' Light](https://open.spotify.com/track/1qC105p6vhT7k9zP4pKHcU) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Joe Zawinul](https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G) | [Soulmates](https://open.spotify.com/album/0PsjPYsAPEyLg8DAUaUVcG) | 6:10 |
 | 74 | [Sleeted Streets](https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Sleeted Streets](https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK) | 3:44 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 153 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 |
 | 154 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 
-Snapshot ID: `MCxiYzg0MWJhZmNkMTI5M2Y2YjA3YWI5ZjQ5ZGUyMzcyNGMyNDg2YzNj`
+Snapshot ID: `MCwxYWNhZTc3NWNkZGI0MDRkY2VjMjZlMzM1NzQ0NzU0NTI0YzhkMDUw`

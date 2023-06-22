@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 35893,
+  "num_followers": 35917,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDczMzIyMTEzNzRiNGY2Yjc0ZWM5ZGJiMmZiNGI3ZmI2MDQ5YTFm",
+  "snapshot_id": "MCxlODRjNmQ3ODlhYTFkMjkxOWFkYjI1M2E3NGQ5OWViNDQwNzExNmY4",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 164826,
       "name": "Whole Lotta Shakin' Goin' On",
       "url": "https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Blues, Candy & Big Maybelle",
-        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
       "artists": [
         {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 155706,
-      "name": "That's A Pretty Good Love",
-      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 146226,
       "name": "Runaway Blues",
       "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+        "name": "Territory Singers Vol. 1 (1922-1928)",
+        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
       "artists": [
         {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+          "name": "Ada Brown",
+          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+      "duration_ms": 184111,
+      "name": "Evil Mama Blues",
+      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 179644,
       "name": "New That Ain't Right",
       "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "Territory Singers Vol. 1 (1922-1928)",
-        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
-      },
-      "artists": [
-        {
-          "name": "Ada Brown",
-          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Evil Mama Blues",
-      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Mozelle Alderson",
-          "url": "https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Tight in Chicago",
-      "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Downhearted Blues",
         "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 151262,
       "name": "My Castle's Rocking",
       "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Mozelle Alderson",
+          "url": "https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Tight in Chicago",
+      "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Presenting Trixie Smith",
         "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 165573,
       "name": "Jack I'm Mellow (Alternate Take 2)",
       "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
     },
     {
       "added_at": "2023-03-03 18:11:20",

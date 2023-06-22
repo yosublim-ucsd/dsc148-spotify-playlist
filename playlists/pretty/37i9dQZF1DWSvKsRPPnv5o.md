@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,346 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,420 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 64 | [Scarface](https://open.spotify.com/track/41SlxBsxeBBBGcXP2Nvdjg) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Scarface](https://open.spotify.com/album/2P5n2dXWJqVBWO2ZFgSUOV) | 1:55 |
 | 65 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 
-Snapshot ID: `MCwxYjUzYjU1NWY4MWM1M2YxMjdhZDk2NTgzYWNmZjIxYjFmNDM5NzE3`
+Snapshot ID: `MCwxODRhM2UzYzZkM2FjNWRiYjAxNjVkMmY5OWRhNzllZWQxNzg3ODdi`
