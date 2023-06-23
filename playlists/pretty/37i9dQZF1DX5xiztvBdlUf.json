@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 580089,
+  "num_followers": 580272,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTI4NjQ0NDQwYjg5YzBlMTNjNjUxM2FmOTM2MTZiOTZjOWNmOTM3",
+  "snapshot_id": "MCw5YWIwOTVjMmJjM2Y0MDA1YWM2Yzg0YjQ0MDFhZDMwMjExMGI0NGMz",
   "tracks": [
     {
       "added_at": "2023-05-26 09:41:56",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "R U 4REAL (feat. Marina Maximilian)",
-        "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Marina Maximilian",
-          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "R U 4REAL (feat. Marina Maximilian)",
-      "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 276157,
       "name": "Nation",
       "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "R U 4REAL (feat. Marina Maximilian)",
+        "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "R U 4REAL (feat. Marina Maximilian)",
+      "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
-      },
-      "artists": [
-        {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
         }
       ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -831,6 +811,26 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Far Behind",
         "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 234685,
       "name": "Far Behind",
       "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Cold Shoulder (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
-      },
-      "artists": [
-        {
-          "name": "Words of Ni\u014d",
-          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Cold Shoulder - Helsloot Remix",
-      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Future Memories",
         "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 383250,
       "name": "Teleport - Future Mix",
       "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Cold Shoulder (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+      },
+      "artists": [
+        {
+          "name": "Words of Ni\u014d",
+          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Cold Shoulder - Helsloot Remix",
+      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
     },
     {
       "added_at": "2023-05-26 09:41:56",

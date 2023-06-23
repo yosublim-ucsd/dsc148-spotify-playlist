@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
+    },
+    {
+      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/4WwvhF9b5WtWhUS3mjAVve"
       },
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 347963,
       "name": "I Was Not There",
       "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
@@ -7049,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "sanctuary",
+        "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "sanctuary",
+      "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
+    },
+    {
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO"
       },
@@ -8902,7 +8938,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 273864,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,584 songs - 3 day 11 hr 36 min
+1,585 songs - 3 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [DEATH](https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 5:06 | 2023-03-24 |  |
 | [Death Wish](https://open.spotify.com/track/4A11c7LR0Nr2ENq2v6cXri) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Death Wish](https://open.spotify.com/album/7b7ry1Asg4hDM5yAsg64UH) | 3:08 | 2022-02-25 | 2022-07-03 |
 | [decide to be happy](https://open.spotify.com/track/4npip0lZeQAbj1epad3oCu) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [decide to be happy](https://open.spotify.com/album/1PO9x34QK39yLrs0zZtOk4) | 3:27 | 2020-10-20 | 2021-06-03 |
-| [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 |  |
+| [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 | 2023-06-23 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-10-13 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 | 2022-12-10 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
@@ -413,6 +413,7 @@
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-12-10 |
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |
+| [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2023-06-09 |  |
 | [Dream Girl \- Home Made](https://open.spotify.com/track/4dxl0rlIMku4Y0gJ1C4nWc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl \(Home Made\)](https://open.spotify.com/album/292NmEgOydXAimN1fL9ESt) | 3:00 | 2020-10-20 | 2021-05-28 |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2023-06-17 |
 | [Dream House](https://open.spotify.com/track/60lvIOvMGnA99LuSofbcyw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 3:04 | 2021-05-03 | 2022-04-16 |
@@ -705,7 +706,7 @@
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-25 | 2022-08-06 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-06-14 |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-28 | 2022-04-16 |
-| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 | 2023-04-19 |
+| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 |  |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-05-06 | 2021-05-27 |
 | [i wanna kiss boys cos i'm bored](https://open.spotify.com/track/5BGk9BV2Bar129ZNJFqgWA) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [i wanna kiss boys cos i'm bored](https://open.spotify.com/album/6Q3hFKUM6miEc14p6y9nCl) | 2:56 | 2020-12-12 | 2021-01-15 |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-30 |
@@ -969,7 +970,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-02-28 | 2021-05-28 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
-| [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 |  |
+| [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 | 2023-06-23 |
 | [Narcissist](https://open.spotify.com/track/3FLJNWLmA54aWQj6FAtFXg) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:07 | 2021-10-14 | 2021-10-16 |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [Nervous](https://open.spotify.com/track/3aWGQY8YwqHg4rerrAT1yl) | [The Natural Synthetic](https://open.spotify.com/artist/6tXQnD9aL1g2ugKMGlNcG5), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [Nervous](https://open.spotify.com/album/49htQCsyElGJH9N70Nw5JQ) | 2:27 | 2020-10-13\* | 2020-11-13 |

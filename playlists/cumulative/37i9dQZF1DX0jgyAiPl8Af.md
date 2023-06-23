@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-630 songs - 1 day 3 hr 14 min
+632 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A prima vista](https://open.spotify.com/track/26Hqojdj2i0hwaZNlpb2t5) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [A prima vista](https://open.spotify.com/album/44ua5J4fZK8cZ43etFdbSY) | 1:58 | 2022-10-28 |  |
 | [A primeira vez](https://open.spotify.com/track/5dPjY3uVSuqscIdj71O3GR) | [Mélissa Blakesley](https://open.spotify.com/artist/6t8jy1xk9kQQOX5UIqy4sC) | [A primeira vez](https://open.spotify.com/album/3VSlAYGBf4pvTUAAhYXb6v) | 1:56 | 2023-01-06 |  |
 | [A Sarabande](https://open.spotify.com/track/2BV3vnBo51Er5uO5xDxPk0) | [Douglas Ferdi](https://open.spotify.com/artist/6N5M807WEPYUZNYo40qhPw) | [A Sarabande](https://open.spotify.com/album/1ZktLifDStzFBtykjoFzHb) | 1:50 | 2023-04-21 |  |
-| [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS) | 2:54 | 2022-04-22 |  |
+| [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS) | 2:54 | 2022-04-22 | 2023-06-23 |
 | [A Sign of Solace](https://open.spotify.com/track/6IUMwWcgrdKyK58XBFWwGC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Sign of Solace](https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F) | 2:49 | 2021-12-08 | 2022-04-06 |
 | [A Stranger In Love](https://open.spotify.com/track/4HTm7WPkq24oFXqGliyMif) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [A Stranger In Love](https://open.spotify.com/album/18gBpQ8j0JTFBASiMiEZjD) | 2:58 | 2023-04-21 |  |
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 | 2022-07-15 |
@@ -84,7 +84,7 @@
 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2022-09-09 |  |
 | [Bruges](https://open.spotify.com/track/47lCvHZru5N4raYpfdlXLx) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Bruges](https://open.spotify.com/album/3lvqn1jtS9pERcfFOZh9n6) | 3:20 | 2022-07-01 | 2022-07-22 |
 | [By Myself but Not Alone](https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [By Myself but Not Alone](https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2) | 4:05 | 2021-12-08 | 2022-05-11 |
-| [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-21 |  |
+| [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-21 | 2023-06-23 |
 | [Cadaqués](https://open.spotify.com/track/5jg06BQ7aNRWBArYMDlw77) | [Jacques Walter](https://open.spotify.com/artist/3Ag2nPTVyDtgYpbAIe8xHn) | [Cadaqués](https://open.spotify.com/album/3LGKDNlZXmrJNo8iDFjD9s) | 2:23 | 2021-12-08 | 2022-06-17 |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2021-12-08 |  |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-05-26 |  |
@@ -262,6 +262,7 @@
 | [im Schatten](https://open.spotify.com/track/7MdRyEmNfE5pvhw2LFZtmJ) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [im Schatten](https://open.spotify.com/album/77lQJQETCjlb36RzguOdSV) | 2:34 | 2021-12-08 | 2023-02-11 |
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-02-10 |  |
 | [Impermanence](https://open.spotify.com/track/0TzhOFlRohunMWFyBotAe7) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol.4](https://open.spotify.com/album/0cJUIhaY9bkUsCfVnWsH1W) | 3:13 | 2021-12-08 | 2022-04-06 |
+| [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
 | [in den Bergen](https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI) | [Mikkel Adler](https://open.spotify.com/artist/5m5x5QR8woru1deGCXghUD) | [Batur](https://open.spotify.com/album/7cHyo7vC3GRSFJHgCWs4Gw) | 3:59 | 2021-12-08 | 2022-02-02 |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-05-26 |  |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-03-25 |  |
@@ -274,6 +275,7 @@
 | [Into The Sunset](https://open.spotify.com/track/0rofwovUOSYwNl5aNPwMma) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 2:44 | 2021-12-08 | 2022-06-17 |
 | [Introspection](https://open.spotify.com/track/2cZJIUh0N1GkzZr3YjL5zN) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Introspection](https://open.spotify.com/album/2y68AHyHcrTlqtbsAINzbo) | 2:42 | 2023-02-10 |  |
 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 | 2022-11-18 |  |
+| [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-05-12 |  |
 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/4tqkpRteqESTAzgwHTTpCS) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [It Came Upon A Midnight Clear](https://open.spotify.com/album/0qMzfJ2VMZ1gZRGPivb32M) | 2:09 | 2022-11-18 | 2022-11-26 |
 | [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2021-12-08 | 2022-04-06 |

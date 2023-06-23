@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Sithara Krishnakumar",
-  "num_followers": 19342,
+  "num_followers": 19402,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQyNTE3NDM4MDI1OWE1ZjA1YmFkOWRjNzc5ODFiMTI3NGUxYzBh",
+  "snapshot_id": "MCw0MDVhMTY3MTUyYmNkOTg5YWEwN2E4M2UxODM0MDllYTY4MjUyMGE5",
   "tracks": [
     {
       "added_at": "2022-11-21 07:35:23",
@@ -127,6 +127,26 @@
       "duration_ms": 290125,
       "name": "Padayatra - Live",
       "url": "https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo"
+    },
+    {
+      "added_at": "2023-06-22 11:11:46",
+      "album": {
+        "name": "Maarane Thedum",
+        "url": "https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7"
+      },
+      "artists": [
+        {
+          "name": "Prakash Alex",
+          "url": "https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz"
+        },
+        {
+          "name": "Abhijith Damodaran",
+          "url": "https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd"
+        }
+      ],
+      "duration_ms": 174260,
+      "name": "Maarane Thedum",
+      "url": "https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs"
     },
     {
       "added_at": "2023-06-19 13:41:37",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee & Dave",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D",
   "name": "Rap UK",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 193846,
       "name": "1 on 1",
       "url": "https://open.spotify.com/track/7kYuzu1icGDszMFXewYNAG"
@@ -248,6 +248,24 @@
       "duration_ms": 181412,
       "name": "100K",
       "url": "https://open.spotify.com/track/6zraJ7egJPtQpimvrX4ise"
+    },
+    {
+      "album": {
+        "name": "100mph Freestyle x3",
+        "url": "https://open.spotify.com/album/5uPURVNEKaJaQosZlGOnrA"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341896,
+      "name": "100mph Freestyle x3",
+      "url": "https://open.spotify.com/track/3oNREEStm4dUTV5dSIbmIZ"
     },
     {
       "album": {
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 160313,
       "name": "Air Force",
       "url": "https://open.spotify.com/track/2k9RFuhZTNLyWGu6sMkxEY"
@@ -5351,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Call Her",
+        "url": "https://open.spotify.com/album/5ZZ8NPHqdaCDCIkS6SRGsH"
+      },
+      "artists": [
+        {
+          "name": "Tremz",
+          "url": "https://open.spotify.com/artist/56nAEdUNpeO3eC5fZvJajY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Call Her",
+      "url": "https://open.spotify.com/track/4bH6l2rtVZSrS1BITl8AtZ"
+    },
+    {
+      "album": {
         "name": "Call Me A Spartan",
         "url": "https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN"
       },
@@ -5504,7 +5540,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 149534,
       "name": "Can't Borrow Time",
       "url": "https://open.spotify.com/track/4JL9SzKXVbmC9GILP8ZQz3"
@@ -5950,6 +5986,24 @@
       "duration_ms": 153600,
       "name": "Check (You Know)",
       "url": "https://open.spotify.com/track/16lr2rA1j2hdDDhb7dDWYm"
+    },
+    {
+      "album": {
+        "name": "Check Da Paper",
+        "url": "https://open.spotify.com/album/0xHOcX2JjKd3mHKErANPrN"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110937,
+      "name": "Check Da Paper",
+      "url": "https://open.spotify.com/track/7MaQClG856HBdywmH2aCon"
     },
     {
       "album": {
@@ -15668,7 +15722,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150334,
       "name": "Love Or Lust",
       "url": "https://open.spotify.com/track/246fXCzdDcJRFqPWZP05CQ"
@@ -17351,6 +17405,24 @@
     },
     {
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM"
+    },
+    {
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/6iK8L12jUPkQKezm3df3UR"
       },
@@ -17780,6 +17852,24 @@
       "duration_ms": 98181,
       "name": "Need Money",
       "url": "https://open.spotify.com/track/5yzqwhduwDnh0aqZVHBJqa"
+    },
+    {
+      "album": {
+        "name": "Neighbourhood Hero",
+        "url": "https://open.spotify.com/album/1oquYifDek9GGLnd6XrhBP"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "Neighbourhood Hero",
+      "url": "https://open.spotify.com/track/03QtKGgldQkz00VPHiZtg1"
     },
     {
       "album": {
@@ -18694,7 +18784,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 137602,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/0y5ychpMHo8cdpKks8qhag"
@@ -20618,7 +20708,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 156000,
       "name": "Played Out",
       "url": "https://open.spotify.com/track/41SmUxy0G0fkHueWeoBDmE"
@@ -22449,6 +22539,28 @@
     },
     {
       "album": {
+        "name": "Rock Climbing (feat. M Huncho)",
+        "url": "https://open.spotify.com/album/61QZyI28o1QJs14AQAMRz6"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Rock Climbing (feat. M Huncho)",
+      "url": "https://open.spotify.com/track/2JXcBRbr4jXx08ANlQSNro"
+    },
+    {
+      "album": {
         "name": "Rocket Science (feat. D-Block Europe)",
         "url": "https://open.spotify.com/album/2mBUGGJbJMNLlTc7YVxzos"
       },
@@ -22744,7 +22856,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 140666,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc"
@@ -23307,6 +23419,24 @@
     },
     {
       "album": {
+        "name": "See Me Now",
+        "url": "https://open.spotify.com/album/0mkWV01iRg2jFmf0P6I6Nq"
+      },
+      "artists": [
+        {
+          "name": "Mowgs",
+          "url": "https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/4kfws6ypNQbCLZfaGjEV3S"
+    },
+    {
+      "album": {
         "name": "Product of My Environment",
         "url": "https://open.spotify.com/album/6WuTbQyWtwt8pacwwJZorq"
       },
@@ -23668,7 +23798,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150000,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/56icWYK58EFvIarTZ8MBDP"
@@ -25714,7 +25844,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 177360,
       "name": "Sydney",
       "url": "https://open.spotify.com/track/5hts2Az7bkqMZLaMWgMkoW"
@@ -27235,6 +27365,28 @@
     },
     {
       "album": {
+        "name": "Toxic Trait",
+        "url": "https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194089,
+      "name": "Toxic Trait",
+      "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
+    },
+    {
+      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs"
       },
@@ -27904,6 +28056,24 @@
       "duration_ms": 174965,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1VbGUYuEvzViXO8JJ3Ag6w"
+    },
+    {
+      "album": {
+        "name": "Community Service",
+        "url": "https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3"
+      },
+      "artists": [
+        {
+          "name": "PS Hitsquad",
+          "url": "https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202580,
+      "name": "Up It",
+      "url": "https://open.spotify.com/track/3zjsQW2D3HrKvUeCIk2MPT"
     },
     {
       "album": {
@@ -28708,7 +28878,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 108936,
       "name": "Welcome To The Strip",
       "url": "https://open.spotify.com/track/3qXvl17Lw4dgUiBbry2Krk"

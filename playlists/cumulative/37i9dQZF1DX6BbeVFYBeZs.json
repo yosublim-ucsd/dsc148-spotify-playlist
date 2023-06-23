@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4EsEmffVs8EQszN8sqyucH"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp"
+    },
+    {
+      "album": {
         "name": "Coming home to you",
         "url": "https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk"
       },
@@ -2281,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Ischia",
+        "url": "https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6"
+      },
+      "artists": [
+        {
+          "name": "Neve Baker",
+          "url": "https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154119,
+      "name": "Ischia",
+      "url": "https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4"
+    },
+    {
+      "album": {
         "name": "Isle of Skye",
         "url": "https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6"
       },
@@ -2328,7 +2364,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 168426,
       "name": "It Started With A Simple Hello",
       "url": "https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe"
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 207493,
       "name": "Montevideo",
       "url": "https://open.spotify.com/track/275koCzLil06PwQOAuRGvI"
@@ -4244,7 +4280,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 140033,
       "name": "Strange Encounter",
       "url": "https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2"

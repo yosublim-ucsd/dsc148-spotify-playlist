@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 112138,
+  "num_followers": 112186,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTRkMmE2NWFlNDQyYjFmNGJkY2Q1MmQzNzY2NWEzNTQ3MmU1NGI3",
+  "snapshot_id": "MCxhZGZmMjQxNWZmNjg2NDYzMTYyZjgzZmIyMWZiMDMzMjlhZTMxMzY5",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -363,22 +363,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+          "name": "Raza For Christ",
+          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
         }
       ],
-      "duration_ms": 170614,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
+      "duration_ms": 194018,
+      "name": "Fue Por Ti",
+      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -399,18 +395,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
       "artists": [
         {
-          "name": "Raza For Christ",
-          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
         }
       ],
-      "duration_ms": 194018,
-      "name": "Fue Por Ti",
-      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+      "duration_ms": 170614,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Favor y Gracia",
-        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 221544,
-      "name": "El Barrio Lo Sabe",
-      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Los \u00c9xitos De Marcos Witt En Bachata",
         "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 222458,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Favor y Gracia",
+        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 221544,
+      "name": "El Barrio Lo Sabe",
+      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Le Llaman Jesus",
-      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 210964,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Le Llaman Jesus",
+      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
     },
     {
       "added_at": "2020-09-18 05:02:00",

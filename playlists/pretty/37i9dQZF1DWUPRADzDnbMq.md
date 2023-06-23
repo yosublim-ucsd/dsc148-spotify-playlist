@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,464 likes - 84 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,506 likes - 84 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 83 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 84 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCw2MzcwM2UzMjRkMWMzNTFhYzBjYmE1MzBjNDhiYTRiY2VhNDFhNTI5`
+Snapshot ID: `MCwyOGE5ZmQ3NGQ0YWU1NzA0YjhhM2NmN2NhNGE2ZDEyYjdmMTg2MmIz`

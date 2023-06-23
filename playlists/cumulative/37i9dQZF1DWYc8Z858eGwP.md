@@ -2,9 +2,9 @@
 
 ### [RADAR Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=QAhp5hzXS5Oa7NerqckO0w">Bloody Civilian </a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=aTq65UEUTQOcsNZbdk8qaw">Baaba J </a>
 
-222 songs - 11 hr 55 min
+223 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Kilometer \- Remix](https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilometer \(Remix\)](https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k) | 3:26 | 2022-05-05 | 2023-05-05 |
 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-11-25 | 2023-05-05 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-05 | 2022-12-19 |
-| [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-05-04 |  |
+| [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-05-04 | 2023-06-23 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 | 2023-05-05 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-05-05 | 2023-05-05 |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2021-10-08 | 2022-05-06 |
@@ -146,6 +146,7 @@
 | [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 | 2022-10-01 |
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-05-04 |  |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-05-04 |  |
+| [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 |  |
 | [Nairobi](https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/5dvUS7NVMJPAMyzEcPWMPp) | 3:16 | 2022-05-05 | 2022-05-20 |
 | [Necessary](https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Necessary](https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix) | 3:02 | 2023-05-04 | 2023-05-20 |
 | [No Love in Lagos](https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [1DA SHALL NEVER END](https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT) | 3:14 | 2023-05-19 |  |

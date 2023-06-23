@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=R5F2Z7QUQLCahiHPgAoBXw\">Prince Kaybee</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=Fslo-zpIRbqRp9LLIho_sw\">The Joy</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 138737,
       "name": "11:11 Makukhanye",
       "url": "https://open.spotify.com/track/3W8XdI8x69oaLRnsaRAx3h"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/0GUvPSLjrBgVOU0jn5BxXf"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253651,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/6s1k8Ry40znPtEb9ijOlnw"
     },
     {
       "album": {
@@ -292,7 +310,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 223669,
       "name": "Amagents",
       "url": "https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD"
@@ -598,6 +616,36 @@
       "duration_ms": 218192,
       "name": "Aware",
       "url": "https://open.spotify.com/track/4cG8G1cMBrh45ZtqWHPQvt"
+    },
+    {
+      "album": {
+        "name": "Awung'Fanele",
+        "url": "https://open.spotify.com/album/1OvjGlC9fJoo6zoraXjxTP"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Deep Ink",
+          "url": "https://open.spotify.com/artist/5TB7EVQY8uWXxpMN3QVJcw"
+        },
+        {
+          "name": "Khani",
+          "url": "https://open.spotify.com/artist/3KGUOtD9oq3FCwkoMfHcDn"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473965,
+      "name": "Awung'Fanele",
+      "url": "https://open.spotify.com/track/78eFaunhRYXJL6Y8BQBR8D"
     },
     {
       "album": {
@@ -1350,7 +1398,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 200000,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5"
@@ -1604,7 +1652,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 280975,
       "name": "Esfubeni",
       "url": "https://open.spotify.com/track/7eIGgeSfeC3FHd2xiZ6cks"
@@ -1630,7 +1678,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 175568,
       "name": "Ewallet",
       "url": "https://open.spotify.com/track/3dnalT0K3cynUUcxLGT6gZ"
@@ -1682,6 +1730,28 @@
       "duration_ms": 420000,
       "name": "Ezangakini",
       "url": "https://open.spotify.com/track/1DjHmwyqCVOU9H0tXKnmF0"
+    },
+    {
+      "album": {
+        "name": "Ezantsi",
+        "url": "https://open.spotify.com/album/6FGA35pFhYHTx90lN2IK5D"
+      },
+      "artists": [
+        {
+          "name": "HiddenXhosa",
+          "url": "https://open.spotify.com/artist/5Ltyo4sH1oXOn0WJnqapwd"
+        },
+        {
+          "name": "Betusile Mcinga",
+          "url": "https://open.spotify.com/artist/75BZvMQ0SQYzoMAqxG3gcb"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277048,
+      "name": "Ezantsi",
+      "url": "https://open.spotify.com/track/31hEwgmv5Mqn7djV4b7hfk"
     },
     {
       "album": {
@@ -1952,7 +2022,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 217959,
       "name": "Gibela",
       "url": "https://open.spotify.com/track/7h7Ygv9SuMXcuYZYNaghvj"
@@ -2090,6 +2160,24 @@
       "duration_ms": 304878,
       "name": "Hata",
       "url": "https://open.spotify.com/track/21eZ994ibKY0RcTB6rnnXS"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208561,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP"
     },
     {
       "album": {
@@ -3722,7 +3810,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 227460,
       "name": "Let Me Love You Now",
       "url": "https://open.spotify.com/track/1RDtcptsGUwhOgL58GYtTC"
@@ -4246,6 +4334,28 @@
       "duration_ms": 209146,
       "name": "Mina Nawe",
       "url": "https://open.spotify.com/track/6MnRKzhzMG0tv1qq1tSPu9"
+    },
+    {
+      "album": {
+        "name": "Sin Season",
+        "url": "https://open.spotify.com/album/6amQ0eVNt7brAtHA8Fry36"
+      },
+      "artists": [
+        {
+          "name": "Shuga Cane",
+          "url": "https://open.spotify.com/artist/7sGQ4ofwoOfiwtDCZJY7tV"
+        },
+        {
+          "name": "Sboniso Mbhele",
+          "url": "https://open.spotify.com/artist/490sSM3ksaDrCJWRvQ7jzX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471199,
+      "name": "Mina NGithanda Wena",
+      "url": "https://open.spotify.com/track/6DnOiFUlq40KLwsD8qfMkB"
     },
     {
       "album": {
@@ -6099,6 +6209,32 @@
     },
     {
       "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
+    },
+    {
+      "album": {
         "name": "Shiluba",
         "url": "https://open.spotify.com/album/1K1iYTf9I7vQwVaplgJgay"
       },
@@ -6614,7 +6750,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 229819,
       "name": "Sondela My Love",
       "url": "https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf"
@@ -6944,6 +7080,36 @@
       "duration_ms": 252000,
       "name": "Thixo",
       "url": "https://open.spotify.com/track/0oNkR5J4qmQxNVwLeA55y7"
+    },
+    {
+      "album": {
+        "name": "Thixo Wami",
+        "url": "https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG"
+      },
+      "artists": [
+        {
+          "name": "Zakwe",
+          "url": "https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        },
+        {
+          "name": "Riot",
+          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Thixo Wami",
+      "url": "https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O"
     },
     {
       "album": {
@@ -7948,7 +8114,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 278049,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE"
@@ -8348,6 +8514,28 @@
       "duration_ms": 222786,
       "name": "Yelele",
       "url": "https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa"
+    },
+    {
+      "album": {
+        "name": "You're Special",
+        "url": "https://open.spotify.com/album/1GUG1uN3ohEAJqL1H9VYE5"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205512,
+      "name": "You're Special - Ralf Gum Radio Edit",
+      "url": "https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ"
     },
     {
       "album": {

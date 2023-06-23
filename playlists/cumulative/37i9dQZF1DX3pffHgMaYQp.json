@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 232000,
       "name": "Donde Est\u00e1 el Placer",
       "url": "https://open.spotify.com/track/4Y40q8tySl0cDdphb3aiYG"
@@ -396,6 +396,24 @@
       "duration_ms": 273068,
       "name": "Dron",
       "url": "https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM"
+    },
+    {
+      "album": {
+        "name": "Animal del Demonio",
+        "url": "https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7"
+      },
+      "artists": [
+        {
+          "name": "The Americonojones Experience",
+          "url": "https://open.spotify.com/artist/42r78qjvZCPn60kETf6jNe"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "D\u00f3nde Est\u00e1 El Placer",
+      "url": "https://open.spotify.com/track/4tacrYRq0mfv2jlD2ZQ63c"
     },
     {
       "album": {

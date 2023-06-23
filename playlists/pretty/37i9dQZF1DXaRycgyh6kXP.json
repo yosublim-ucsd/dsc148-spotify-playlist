@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 180826,
+  "num_followers": 180964,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2VjYjRiZjA4MDE3MTNiNmVmYWNhYjdhMDkzMDIyMWQ1NzY2Y2E3",
+  "snapshot_id": "MCwzOWY2YjRmZWE5YTBiZjkyNWRmODUyMjJkYjAwYjc5ZTIzYWI0N2Ux",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Insides",
-        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 100946,
-      "name": "Small Memory",
-      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -491,6 +475,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 100946,
+      "name": "Small Memory",
+      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 596772,
       "name": "Immunity - Remaster 2023",
       "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 252735,
-      "name": "Inspirit",
-      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "ANTH01",
-        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 403080,
-      "name": "Another Girl",
-      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "ANTH01",
+        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 403080,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2022-02-03 02:43:26",

@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-356 songs - 18 hr 56 min
+361 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 | 2023-05-12 |
+| [Dancing on the ceiling](https://open.spotify.com/track/1fn5QC6Cauel9hmwjb6Jjq) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Dancing on the ceiling](https://open.spotify.com/album/3JgJZaMMSUiIrfvtTADQN6) | 2:20 | 2023-06-22 |  |
 | [Darn That Dream](https://open.spotify.com/track/3X0hhcf3nhupCCq2rFaTZP) | [Ethan Iverson](https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Nasheet Waits](https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46) | [The Purity of the Turf](https://open.spotify.com/album/4KliiTRJlcaMNqsZA15iOF) | 4:44 | 2021-12-14 | 2022-09-30 |
 | [Darn That Dream](https://open.spotify.com/track/1AcCTJs6fc8WdPQynuN19O) | [Vincent Barbosa](https://open.spotify.com/artist/2LlrCHJ3PafnvzBTlptQk7) | [Darn That Dream](https://open.spotify.com/album/2YzHv6XqC69ZX0anl5hrDH) | 2:28 | 2023-04-14 |  |
 | [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-04-27 |  |
@@ -103,6 +104,7 @@
 | [February Brings The Rain](https://open.spotify.com/track/4gR8q8utqVSpwz5Vv8gMys) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [February Brings The Rain](https://open.spotify.com/album/2EEMlPkIAUOtxLs4ADIW3w) | 2:47 | 2023-04-14 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
 | [Fine and Dandy](https://open.spotify.com/track/4hmLx52hi0gKTYvUtGfNXw) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Fine and Dandy](https://open.spotify.com/album/5OfXKS9dghdpoTOQ0vZ9DC) | 2:15 | 2023-02-09 |  |
+| [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/5hoCPpH764j3z2HxAEq4rz) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Fly Me to the Moon](https://open.spotify.com/album/0Y3EIbfN2deyLbofAv1ZUJ) | 3:05 | 2022-03-10 | 2022-11-25 |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
@@ -167,6 +169,7 @@
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-01-13 | 2022-11-25 |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-14 |  |
 | [Insomnia Again](https://open.spotify.com/track/1hLwDHkHZ6agcA71glq6n9) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Insomnia Again](https://open.spotify.com/album/6Fqe3GrR3uYgZtdUATXTP1) | 3:21 | 2023-05-25 |  |
+| [Is that happened?](https://open.spotify.com/track/5SGkGXLO0vVwWsD94GE4wH) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Is that happened?](https://open.spotify.com/album/3gZqqXn69wrOmMGANIVzg5) | 2:59 | 2023-06-22 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2021-12-14 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2022-01-05 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [It Never Entered My Mind](https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC) | 4:02 | 2021-12-14 | 2022-11-25 |
@@ -176,6 +179,7 @@
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2022-08-17 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-29 |  |
 | [Just Friends](https://open.spotify.com/track/2YsdjtklZEjBXgovsaKFpm) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Just Friends](https://open.spotify.com/album/6zcCzNrc6e9NDKLMvMgKUm) | 3:45 | 2022-08-31 |  |
+| [La Luna](https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [La Luna](https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext) | 2:26 | 2023-06-22 |  |
 | [Lady Bird](https://open.spotify.com/track/4HbWMOjpKwELFft5e0010n) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 1:53 | 2022-10-06 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
@@ -302,6 +306,7 @@
 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 | 2021-12-14 | 2023-05-05 |
 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 | 2022-08-18 |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2022-08-11 |  |
+| [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 | 2023-06-22 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2023-03-16 |  |
 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-04 |  |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2023-06-01 |  |

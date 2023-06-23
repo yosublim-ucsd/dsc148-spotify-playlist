@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: zeyne
 
-483 songs - 1 day 4 hr 13 min
+484 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Bklleshy W Clashy](https://open.spotify.com/track/2kET259hGJdOqIzCYBefPM) | [Azhar Al3asali](https://open.spotify.com/artist/7J6S9ZLG7jSrKpN12yztVI) | [Bklleshy W Clashy](https://open.spotify.com/album/4JyJ3taLjeqDArFyp50MSe) | 3:29 | 2021-12-23 | 2022-03-02 |
 | [Bleil 3eonak](https://open.spotify.com/track/3isvdEPSWHT0qBVjm6KVcu) | [Rahaf Guitara](https://open.spotify.com/artist/3rW9BObnEUJbADBj8oFF4N) | [Bleil 3eonak](https://open.spotify.com/album/5a6aRVjnXVSSH1K1DHDF3c) | 3:16 | 2021-12-23 | 2022-03-02 |
-| [BOCCA](https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [BOCCA](https://open.spotify.com/album/34dzNc340Motb5uIZVI1WJ) | 2:52 | 2023-06-13 |  |
+| [BOCCA](https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [BOCCA](https://open.spotify.com/album/34dzNc340Motb5uIZVI1WJ) | 2:52 | 2023-06-13 | 2023-06-23 |
 | [Bosla](https://open.spotify.com/track/1dMT7045TklwUsIml5Ivyb) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf) | [Bosla](https://open.spotify.com/album/3WBZ2arYR33VIpN11m640S) | 3:12 | 2022-06-23 | 2023-04-12 |
 | [Bterjaa](https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Turki \- Tarek Mohammed](https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL) | 3:40 | 2023-01-25 | 2023-02-01 |
 | [Bumble](https://open.spotify.com/track/6SY8dp9yl9YWdh8rErTsEW) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O) | [Bumble](https://open.spotify.com/album/0TW5DtLhLZXYyngRsSqSRW) | 3:10 | 2023-05-04 | 2023-05-17 |
@@ -254,7 +254,7 @@
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-11-01 | 2023-05-13 |
 | [Makhntny](https://open.spotify.com/track/7lddnpLYUOXG1P1pGbMlxQ) | [Meme](https://open.spotify.com/artist/3VebAr9PRCkjBiOeeK2Xr3) | [Makhntny](https://open.spotify.com/album/0zR7KLmcF1FrxJhTjxfJ7l) | 3:21 | 2021-12-23 | 2022-03-02 |
-| [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 | 2023-03-23 |  |
+| [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 | 2023-03-23 | 2023-06-23 |
 | [Malleit](https://open.spotify.com/track/42HtsxHN4t1b8yt8txdrYz) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Malleit](https://open.spotify.com/album/6QDfpW7qmf4Y4byMwmVlGW) | 4:00 | 2022-12-02 | 2023-01-26 |
 | [Malnash Naseeb](https://open.spotify.com/track/5BTkrgvHrlwrzQuKTXMuyd) | [Enas Ezz Eldeen](https://open.spotify.com/artist/4ZZsLsV3oBkkQ2i1INk0ts) | [Malnash Naseeb](https://open.spotify.com/album/7iG0WHzIp4kJSmJyzSvwXg) | 3:04 | 2021-12-23 | 2022-03-02 |
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-03-01 | 2022-03-04 |
@@ -288,6 +288,7 @@
 | [Na'albet Lehkayi](https://open.spotify.com/track/4mZOR5fNx4zAMkEWIyMJin) | [Angi](https://open.spotify.com/artist/4sCkRNGvfn7dtQYu3sH4Gl) | [Na'albet Lehkayi](https://open.spotify.com/album/0KeYtVEVBxEhMeXY9pGqa5) | 3:01 | 2021-12-23 | 2022-03-02 |
 | [Nafseti Sefr](https://open.spotify.com/track/6qfJt7LV8Lf4KTQnFqegFD) | [Riham](https://open.spotify.com/artist/2kkNaWuc56oKJAP77MRRHh) | [Nafseti Sefr](https://open.spotify.com/album/5TYkLU1YSF8zAUJuflIOOO) | 2:51 | 2021-12-30 | 2022-02-18 |
 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 | 2021-12-23 | 2022-03-01 |
+| [Nasskha Menni](https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Nasskha Menni](https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T) | 3:29 | 2023-06-22 |  |
 | [Nazele Big Champagne](https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Nazele Big Champagne](https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb) | 2:30 | 2023-02-23 | 2023-03-25 |
 | [Nefodaha Seera](https://open.spotify.com/track/1MPi1UhG5kOwuuBtuhGWwj) | [Hla Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Nefodaha Seera](https://open.spotify.com/album/5zfS9qNEixg0dE4s8Wsfa3) | 3:10 | 2022-03-09 | 2022-07-27 |
 | [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 | 2023-06-16 |

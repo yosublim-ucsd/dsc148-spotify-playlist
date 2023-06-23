@@ -4,11 +4,12 @@
 
 > Slow down with these late night jams.
 
-90 songs - 6 hr 10 min
+93 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 | 2022-07-29 |  |
+| [1998](https://open.spotify.com/track/7JiCI5vmAgEjIZoMFn7jkU) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 6:05 | 2023-06-23 |  |
+| [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 | 2022-07-29 | 2023-06-23 |
 | [1998](https://open.spotify.com/track/7JCgI5ahfb83lreqUu0d16) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/68ax7q14w23UTJGKnqXvO0) | 6:07 | 2015-02-23 | 2022-07-29 |
 | [808 PM At the Beach](https://open.spotify.com/track/4Hb4nttqTI6Nc1IG2hvgyB) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4oFfkA1jWf6hoWGRxcBDMn) | 6:24 | 2015-02-23 | 2022-07-29 |
 | [808 PM At The Beach \- Original Mix](https://open.spotify.com/track/332axSkCygFiO7rlQ9TYiC) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4zgA8bqaYJLSrMOn3MkxyU) | 6:24 | 2022-07-29 |  |
@@ -35,7 +36,8 @@
 | [Fifteen](https://open.spotify.com/track/4p52YEYBTklpEwx9w1QHBo) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Trax 7 The Slow Wave](https://open.spotify.com/album/2qNMNlwlXYpmuY4tKSlplO) | 5:00 | 2022-11-11 | 2022-11-13 |
 | [Fifteen](https://open.spotify.com/track/5nUedhPTdQT1F1tunbMHQj) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Trax 7 \- The Slow Wave](https://open.spotify.com/album/5av3f0kW78Pm3gQoQ1Uz1z) | 5:00 | 2015-02-23 | 2022-07-29 |
 | [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/0UhvIPiieSHufcul1eUSw9) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Embrace](https://open.spotify.com/album/04TT3EIMPbSXgulCp8aXcL) | 5:00 | 2023-04-04 |  |
-| [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2022-07-29 |  |
+| [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 | 2023-06-23 |  |
+| [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2022-07-29 | 2023-06-23 |
 | [Gold](https://open.spotify.com/track/1oPenAfTz9oa1RWNBGy0tO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/4TqioMediFf2UaseMoxGgK) | 4:45 | 2015-02-23 | 2022-07-29 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2015-02-23 |  |
 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 | 2015-02-23 |  |
@@ -57,7 +59,8 @@
 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 | 2015-02-23 |  |
 | [Next to You](https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4) | 4:22 | 2015-02-23 | 2022-07-29 |
 | [Next To You](https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 4:22 | 2022-07-29 |  |
-| [No Diggity](https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L) | 3:41 | 2022-07-29 |  |
+| [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 | 2023-06-23 |  |
+| [No Diggity](https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L) | 3:41 | 2022-07-29 | 2023-06-23 |
 | [No Diggity](https://open.spotify.com/track/4URU1lRXhWwZIXuxKI1SuH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking in textures](https://open.spotify.com/album/1zW59tdlltJgHOlqLbR1lN) | 3:41 | 2015-02-23 | 2022-07-29 |
 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 | 2015-02-23 |  |
 | [Pendulum](https://open.spotify.com/track/06d5qOLownLafrcQ8CvZU2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK) | 4:58 | 2015-02-23 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44528,
+  "num_followers": 44566,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTg0MDdkYTEzODlhYjlhMmUxOTVmYzRlNDMxMjI0YjcyNGNkMDQ2",
+  "snapshot_id": "MCwzNjc5YTVkMTIzZDUwNTZjMmZkYjk5NWZiMjI1YTg4Y2ZiOWFkYjRh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
     },
     {
       "added_at": "2022-08-12 16:34:51",

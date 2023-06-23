@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Julais.",
-  "num_followers": 15859,
+  "num_followers": 15867,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGEwMDEzNDIyOGUyYWE3MDU0OTQzYzJhNTVkNTBmMTM1NDk2NmJi",
+  "snapshot_id": "MCwxMWIwYTEyMTMzMDM4NTg3ZDAyZGNiOWRkZjVkNDU4NjI4NjZiODdk",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Qu\u00e9 piensas hacer sin mi amor?",
-        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 248121,
-      "name": "Qu\u00e9 piensas hacer sin mi amor?",
-      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 255217,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 piensas hacer sin mi amor?",
+        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "Qu\u00e9 piensas hacer sin mi amor?",
+      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "aquiles </3",
-        "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
+        "name": "Provoqu\u00e9",
+        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
       "artists": [
         {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
         },
         {
-          "name": "doppel gangs",
-          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
         }
       ],
-      "duration_ms": 195053,
-      "name": "aquiles </3",
-      "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+      "duration_ms": 218500,
+      "name": "Provoqu\u00e9",
+      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "aquiles </3",
+        "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "aquiles </3",
+      "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "El d\u00eda libre de Polux",
         "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 229010,
       "name": "Venenos",
       "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Provoqu\u00e9",
-        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        },
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Provoqu\u00e9",
-      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Good Fortune",
-        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 164815,
-      "name": "Good Fortune",
-      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 164815,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Guazatumba",
         "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 229726,
       "name": "Circular",
       "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Si s\u00f3lo",
+        "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
+      },
+      "artists": [
+        {
+          "name": "Caro Conzonno",
+          "url": "https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC"
+        }
+      ],
+      "duration_ms": 222090,
+      "name": "Si S\u00f3lo",
+      "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 197810,
       "name": "Caracoles - Remix",
       "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Si s\u00f3lo",
-        "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
-      },
-      "artists": [
-        {
-          "name": "Caro Conzonno",
-          "url": "https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC"
-        }
-      ],
-      "duration_ms": 222090,
-      "name": "Si S\u00f3lo",
-      "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
         "name": "Dime Algo (bonito)",
         "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Debilidad",
-        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Debilidad",
+        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        }
+      ],
+      "duration_ms": 263546,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "FRONTERAS",
         "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "mondomamba",
-        "url": "https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS"
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
       },
       "artists": [
         {
-          "name": "Mondomamba",
-          "url": "https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 212474,
-      "name": "hambre",
-      "url": "https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4"
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1711,6 +1691,26 @@
       "duration_ms": 200875,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "mondomamba",
+        "url": "https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS"
+      },
+      "artists": [
+        {
+          "name": "Mondomamba",
+          "url": "https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 212474,
+      "name": "hambre",
+      "url": "https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4"
     },
     {
       "added_at": "2023-06-16 03:00:00",

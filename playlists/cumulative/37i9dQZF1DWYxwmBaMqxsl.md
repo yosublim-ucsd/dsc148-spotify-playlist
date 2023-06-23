@@ -4,13 +4,13 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-277 songs - 17 hr 40 min
+278 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 | 2023-05-25 |  |
 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 | 2023-03-23 |  |
-| [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 |  |
+| [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 | 2023-06-23 |
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2021-12-14 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 |  |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2021-12-14 | 2023-02-24 |
@@ -81,7 +81,7 @@
 | [Follow Slowly](https://open.spotify.com/track/1eF3VkcOnhmZleDhrIOYfk) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 2:51 | 2023-02-23 |  |
 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 | 2022-06-14 | 2023-05-12 |
 | [Gone With The Wind](https://open.spotify.com/track/328DcmekpxrhOL4SYI6t9V) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:18 | 2021-12-14 | 2022-10-07 |
-| [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 |  |
+| [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 | 2023-06-23 |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-22 |  |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-06 |  |
@@ -103,6 +103,7 @@
 | [I Thought About You](https://open.spotify.com/track/7gwRRcboL8ludi56u8hdg8) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [I Thought About You](https://open.spotify.com/album/2nMHAH4ro0WgnEDNNifllY) | 4:38 | 2022-04-26 | 2022-11-18 |
 | [I Will Never Forget You](https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [I Will Never Forget You](https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX) | 3:14 | 2023-04-13 |  |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 |  |
+| [I wish I did](https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [I wish I did](https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA) | 3:23 | 2023-06-22 |  |
 | [I ́ll Be Seing You](https://open.spotify.com/track/35SoLqjrrABm1zZOOQ4f0n) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:08 | 2021-12-14 | 2022-04-27 |
 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 | 2021-12-14 | 2022-08-31 |
 | [I'm Coming Home](https://open.spotify.com/track/0XWvXNhiaDIS3nRZEsIbL4) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [I'm Coming Home](https://open.spotify.com/album/7JChLRyvbnM4WIT2qlDE1o) | 3:06 | 2023-02-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New music from Gunna, Gucci Mane and Doja Cat.",
-  "num_followers": 15381304,
+  "num_followers": 15384983,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODAxMjNkY2E3NDU3ZTNjYjBjMTM0YzJjMjJiZWRhNjY4OTg3Yzk5",
+  "snapshot_id": "MCwzOTI1MWE4MDRmOTlkYWVkMDlhY2ZlMGRiYzRhMWQ1YmRhYzViMDk2",
   "tracks": [
     {
       "added_at": "2023-06-19 22:06:25",
@@ -179,6 +179,26 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-06-22 04:00:00",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "Memphis Bleek",
+          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/1SKhE8yTMuGrTLte0os673"
     },
     {
       "added_at": "2023-06-19 22:06:25",

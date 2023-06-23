@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Game Awards and Summer Game Fest creator Geoff Keighley highlights his favorite songs to game to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,234 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,207 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 39 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 |
 | 40 | [Sight Of You](https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Sight Of You](https://open.spotify.com/album/1yOhJSW1qqd1X1tvzKKsZn) | 4:11 |
 
-Snapshot ID: `MCxmZDZjYjgxNzNjYjk4NDJhZDQ2ZjUwNGNlOWY4ODg5Mzg0ODY5YTY5`
+Snapshot ID: `MCxlZjRkMzg2MDcyZTkzYjJiMzhmZmI3MmUxMTljNmVhZDkzMjJmYmVh`

@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene \u2600\ufe0f",
-  "num_followers": 15736,
+  "num_followers": 15763,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBiMDQ4OTJhYTA3NmI2NzdmNzBmY2RjNDYyMWJmMGNjZmJlMTY1",
+  "snapshot_id": "MCw0MDc3OTY1ZjQ1NTgxZTc1MGJmYzY4YWE0YmFkNDY2OWExMGY4NGM2",
   "tracks": [
     {
       "added_at": "2023-06-13 12:48:17",
@@ -603,38 +603,6 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-06-13 12:48:17",
-      "album": {
-        "name": "KIDNAP ME PLS",
-        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
-      },
-      "artists": [
-        {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "SnOWfLAkE",
-      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
-    },
-    {
-      "added_at": "2023-06-13 12:48:17",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2023-06-13 12:48:17",
+      "album": {
+        "name": "KIDNAP ME PLS",
+        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "SnOWfLAkE",
+      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
+    },
+    {
+      "added_at": "2023-06-13 12:48:17",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-06-13 12:48:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2023-06-13 12:48:17",
-      "album": {
         "name": "Where The Shadow Ends",
         "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 219801,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
+    },
+    {
+      "added_at": "2023-06-13 12:48:17",
+      "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2023-06-13 12:48:17",

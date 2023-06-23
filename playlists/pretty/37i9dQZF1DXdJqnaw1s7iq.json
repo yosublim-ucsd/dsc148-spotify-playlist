@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 7364,
+  "num_followers": 7556,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzljNTQ2ZTM4ODg5MTBhNTRlNmU5YTM5ZDc2ZjAwYmQ0NzY5ZWQ0",
+  "snapshot_id": "MCxiNmU1YzlhMTk2OTM3MDViMDc3NmNmNDY3NzI3NmMxYTFjYzg2NmNl",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Life Round Here",
-      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -867,6 +851,38 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Life Round Here",
+      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -891,34 +907,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
         }
       ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
       "artists": [
         {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "TAPE TWO",
         "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 222792,
       "name": "I Heard",
       "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 172252,
       "name": "Babe",
       "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 152931,
+      "name": "SP12 Beat",
+      "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
         }
       ],
-      "duration_ms": 152931,
-      "name": "SP12 Beat",
-      "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "BTSTU (Edit)",
-        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "BTSTU - Edit",
-      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "2012 - 2017",
-        "url": "https://open.spotify.com/album/39yo3iwdoasNOm2fLq1DHg"
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
       "artists": [
         {
-          "name": "Against All Logic",
-          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 351019,
-      "name": "Now U Got Me Hooked",
-      "url": "https://open.spotify.com/track/2GqB00l5xLCpkcKaF2zwFn"
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1603,6 +1587,22 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "2012 - 2017",
+        "url": "https://open.spotify.com/album/39yo3iwdoasNOm2fLq1DHg"
+      },
+      "artists": [
+        {
+          "name": "Against All Logic",
+          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+        }
+      ],
+      "duration_ms": 351019,
+      "name": "Now U Got Me Hooked",
+      "url": "https://open.spotify.com/track/2GqB00l5xLCpkcKaF2zwFn"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Glass Animals",
         "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 282124,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Other People",
-      "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
     }
   ],
   "unique_name": "voltage",

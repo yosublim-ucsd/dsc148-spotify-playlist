@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-619 songs - 1 day 2 hr 57 min
+620 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-09 | 2023-01-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-04-21 | 2022-09-24 |
 | [die zeit läuft ab](https://open.spotify.com/track/3SbBK3NdAK2t1DdoAz9XkH) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 3:03 | 2022-04-21 | 2022-09-24 |
-| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 |  |
+| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-04-21 | 2023-06-23 |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-21 |  |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-21 |  |
@@ -257,7 +257,7 @@
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-04-21 | 2023-05-15 |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-04-21 | 2022-10-21 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-21 | 2023-01-21 |
-| [Julien's Sonata](https://open.spotify.com/track/7EYrMGo39r2fqmpItkJiqu) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Julien's Sonata](https://open.spotify.com/album/5IcPJbZ9yn8yi09vJJioGA) | 1:56 | 2022-04-21 | 2023-06-22 |
+| [Julien's Sonata](https://open.spotify.com/track/7EYrMGo39r2fqmpItkJiqu) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [Julien's Sonata](https://open.spotify.com/album/5IcPJbZ9yn8yi09vJJioGA) | 1:56 | 2022-04-21 |  |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-21 | 2022-09-30 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-04-21 |  |
 | [Just Wait For The Sun](https://open.spotify.com/track/2M7xfBZfOQGFXTl2seuqsm) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Just Wait For The Sun](https://open.spotify.com/album/6dOACKlGY3VXfRpZy2rQVJ) | 2:09 | 2022-04-21 | 2022-09-24 |
@@ -308,7 +308,7 @@
 | [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-03 |  |
 | [Lullaby](https://open.spotify.com/track/1qfyGqDF1vypYOvglIkIM4) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Lullaby](https://open.spotify.com/album/5eMa53RcT7kpDo5T9LYD1d) | 2:33 | 2022-04-21 | 2022-09-24 |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-21 |  |
-| [Lumières du Nord](https://open.spotify.com/track/45wHhJpwqz7yMgckPTLv5s) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Lumières du Nord](https://open.spotify.com/album/3qNA8Xkc8oj9Pcvo563YlP) | 1:45 | 2023-05-03 |  |
+| [Lumières du Nord](https://open.spotify.com/track/45wHhJpwqz7yMgckPTLv5s) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Lumières du Nord](https://open.spotify.com/album/3qNA8Xkc8oj9Pcvo563YlP) | 1:45 | 2023-05-03 | 2023-06-23 |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2022-04-21 | 2022-07-21 |
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-01-20 |  |
 | [Ma igatsen sind](https://open.spotify.com/track/3tZcp9CA8rJTTHLWhPI2MQ) | [Jelena Sepp](https://open.spotify.com/artist/5HzGoVBpzJaPxpRbhBC6FC) | [Ma igatsen sind](https://open.spotify.com/album/6pbSRvQJbhPSoCrgWtSQaC) | 2:15 | 2022-04-21 | 2022-09-24 |
@@ -521,6 +521,7 @@
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-04-21 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-21 |  |
 | [Swan Dip](https://open.spotify.com/track/3BreWDRhcZRI9stPke1ydd) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Words Mean More From You](https://open.spotify.com/album/6yZdgPQG2n5I9EsjHtwc9u) | 2:43 | 2022-04-21 | 2022-09-24 |
+| [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 | 2023-06-19 |  |
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-04-21 |  |
 | [Take One Deep Breath](https://open.spotify.com/track/3IvshJQQfn2hGuwnMoUTUI) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Take One Deep Breath](https://open.spotify.com/album/1iMcNpnCMSH4NUAIaYq016) | 2:32 | 2022-08-09 | 2023-01-21 |
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-04-21 |  |

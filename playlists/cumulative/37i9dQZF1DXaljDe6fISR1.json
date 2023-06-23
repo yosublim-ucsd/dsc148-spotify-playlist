@@ -356,6 +356,28 @@
     {
       "album": {
         "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
+    },
+    {
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
       "artists": [
@@ -370,7 +392,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 249490,
       "name": "Castelos & Ru\u00ednas",
       "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"

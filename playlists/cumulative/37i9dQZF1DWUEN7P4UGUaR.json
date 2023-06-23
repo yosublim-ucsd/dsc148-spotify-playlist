@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 408235,
       "name": "Amenuveve (Grace) - Live",
       "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+    },
+    {
+      "album": {
         "name": "Lord Have Your Way",
         "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 176500,
       "name": "Perfect Love (Romans 8:38-39)",
       "url": "https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA"
@@ -1010,6 +1028,28 @@
       "duration_ms": 219824,
       "name": "Testimony - Acoustic",
       "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
+    },
+    {
+      "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545506,
+      "name": "The Kadosh (Live)",
+      "url": "https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb"
     },
     {
       "album": {

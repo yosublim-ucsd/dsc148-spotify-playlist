@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. En portada: Dilon Baby",
+  "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Rochy RD",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -348,6 +348,32 @@
       "duration_ms": 155693,
       "name": "AZAFATA",
       "url": "https://open.spotify.com/track/6BL62CM2gSoKD4ZGr3HRbz"
+    },
+    {
+      "album": {
+        "name": "Baddu",
+        "url": "https://open.spotify.com/album/6jU2huoNSRXf4CmU61iXzd"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "La Demente",
+          "url": "https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167068,
+      "name": "Baddu",
+      "url": "https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8"
     },
     {
       "album": {
@@ -1911,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Lo Tres Pasos",
+        "url": "https://open.spotify.com/album/4jAyVWddC3MhVWINaeyPb1"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118983,
+      "name": "Lo Tres Pasos",
+      "url": "https://open.spotify.com/track/4e8L3fVKpmHQLRXzcokMol"
+    },
+    {
+      "album": {
         "name": "Uno x Ellas",
         "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
       },
@@ -2568,7 +2616,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 142862,
       "name": "Mueve Eso",
       "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
@@ -3259,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Talco",
+        "url": "https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136271,
+      "name": "Talco",
+      "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
+    },
+    {
+      "album": {
         "name": "Tan Bajando",
         "url": "https://open.spotify.com/album/6k2PVJduVsYe9pzkhm51I1"
       },
@@ -3456,7 +3522,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 167628,
       "name": "To Frio",
       "url": "https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ"
@@ -3544,7 +3610,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150000,
       "name": "Tu Me La Sube",
       "url": "https://open.spotify.com/track/6Vu4jijYXztmr7uHoDzG7t"

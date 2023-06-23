@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Tedua",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171775,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "album": {
         "name": "Andrea",
         "url": "https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 154000,
       "name": "Aspettative (feat. Medy)",
       "url": "https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV"
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150731,
       "name": "Avanti",
       "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
@@ -742,6 +760,28 @@
       "duration_ms": 166120,
       "name": "BEBE (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
+    },
+    {
+      "album": {
+        "name": "BELLA",
+        "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181386,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
     },
     {
       "album": {
@@ -968,6 +1008,40 @@
       "duration_ms": 191422,
       "name": "BLUE CHEESE (feat. Lazza)",
       "url": "https://open.spotify.com/track/6JNadLbisqWzZk0E1MSopn"
+    },
+    {
+      "album": {
+        "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
+        "url": "https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
+      "url": "https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz"
     },
     {
       "album": {
@@ -2456,7 +2530,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 174605,
       "name": "Giochi",
       "url": "https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp"
@@ -2882,7 +2956,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 142608,
       "name": "Il mio dawg",
       "url": "https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa"
@@ -4080,7 +4154,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 155133,
       "name": "Mollami Pt.2",
       "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
@@ -5687,6 +5761,28 @@
     },
     {
       "album": {
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "ROOFTOP (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
+    },
+    {
+      "album": {
         "name": "Rozzi",
         "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
       },
@@ -6216,6 +6312,24 @@
       "duration_ms": 159101,
       "name": "Sole Di Fine Estate",
       "url": "https://open.spotify.com/track/7LnmTuGOt6jO9u4fGtk7KY"
+    },
+    {
+      "album": {
+        "name": "JONES",
+        "url": "https://open.spotify.com/album/4hFntmcak16iqTZ8KaBdnh"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Sole nel blocco",
+      "url": "https://open.spotify.com/track/5lD27Apjkk7ywgklSgqA2R"
     },
     {
       "album": {

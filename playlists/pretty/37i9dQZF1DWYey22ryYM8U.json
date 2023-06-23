@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Maluma",
-  "num_followers": 595594,
+  "num_followers": 595690,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzAyMDNlMWZkMGVmN2E5YzUzYTYwMGI1ZTU1MTg4NDk2MjI5MTlm",
+  "snapshot_id": "MCxhZGZmNmU0YTZiZjVjNDAyMzU5OGE4MTk1ZTAwYjVmMTY0MjNjZDkw",
   "tracks": [
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Veterana",
         "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 194599,
       "name": "Veterana",
       "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 218865,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Vallenato Apretao",
         "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
       },
@@ -1411,30 +1435,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 218865,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1467,42 +1467,6 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Leandro D\u00edaz Special Edition",
-        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 227900,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1587,6 +1551,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "Leandro D\u00edaz Special Edition",
+        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 227900,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "FOREVER KING",
         "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
       },
@@ -1603,6 +1583,42 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1615,46 +1631,6 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Sopita",
-        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "Sopita",
-      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1679,22 +1655,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Boogaloo Supreme",
-        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+        "name": "Sopita",
+        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
         },
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 208152,
-      "name": "Boogaloo Supreme",
-      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+      "duration_ms": 206442,
+      "name": "Sopita",
+      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1719,6 +1695,46 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Llego El Real Remix",
         "url": "https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8"
       },
@@ -1771,30 +1771,6 @@
       "duration_ms": 221231,
       "name": "Llego El Real Remix",
       "url": "https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 184089,
-      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1891,6 +1867,30 @@
       "duration_ms": 298906,
       "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
       "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 184089,
+      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
     }
   ],
   "unique_name": "Tropical Hits",

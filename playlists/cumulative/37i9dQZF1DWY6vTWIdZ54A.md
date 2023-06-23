@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Royal Blood
 
-284 songs - 16 hr 41 min
+285 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Used to the Darkness](https://open.spotify.com/track/2MjQGWAFsFRTZtKA6THCaM) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Used to the Darkness](https://open.spotify.com/album/4CYGAZsEydjZh4peJPnNVK) | 4:16 | 2020-12-11 | 2022-07-29 |
 | [Used to the Darkness](https://open.spotify.com/track/6fLKwF2FLBtPNvtrVjYDVz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 4:16 | 2022-06-17 | 2022-09-20 |
 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 | 2022-09-23 |  |
-| [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 | 2022-06-17 |  |
+| [Wannabe in L.A](https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT) | 2:15 | 2023-06-09 |  |
+| [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 | 2022-06-17 | 2023-06-23 |
 | [Wannabe in LA](https://open.spotify.com/track/5udAfExLZ6ZsB0vxV7JirF) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/3nXL7ztiJzIscpBCIXKM7o) | 2:15 | 2020-12-11 | 2022-07-29 |
 | [Waterfall](https://open.spotify.com/track/0qT9ecolVnmtI3RyuCQ5qy) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise over Run](https://open.spotify.com/album/1hK7IEatzxrFQPviKTR5Cs) | 3:01 | 2020-12-11 | 2022-06-14 |
 | [Wayne](https://open.spotify.com/track/3MDZ9jGIlOElt3hfHVOOAa) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Wayne](https://open.spotify.com/album/7u7IYGxioBUt8DTBh4eQWe) | 3:20 | 2022-09-16 | 2023-06-10 |

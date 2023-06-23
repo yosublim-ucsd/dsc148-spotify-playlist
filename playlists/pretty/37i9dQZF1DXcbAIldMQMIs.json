@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 493553,
+  "num_followers": 493633,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWZhYzUyNjYxYjQwY2VjNWEzNjQ0YTgzNTEwODJkZGRhZWJlZTNh",
+  "snapshot_id": "MCxiN2UyMDA5ODE3ZmVjNGIwZjkxYmE2ZjY0OGRmODIyZDExODMxMmMw",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
     },
     {
       "added_at": "2023-02-21 22:48:01",

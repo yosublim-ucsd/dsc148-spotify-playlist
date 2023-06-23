@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-495 songs - 1 day 3 hr 42 min
+496 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,8 @@
 | [Take Me Back](https://open.spotify.com/track/0r6ccEU9IVpXTUG6CLdDNX) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Take Me Back](https://open.spotify.com/album/0JtLCcaCSa1hdUOq8FUexO) | 3:20 | 2020-06-05 | 2021-04-24 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2023-02-24 |
 | [Tender](https://open.spotify.com/track/304rr8hAtvm1ftlgn4OuXp) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Tender](https://open.spotify.com/album/0jqcvX1CUsGqtrD7NR2IR4) | 3:16 | 2020-01-10 | 2020-06-29 |
-| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-08 |  |
+| [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-06-15 |  |
+| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-08 | 2023-06-23 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-08-20 | 2021-09-14 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-09-14 | 2023-02-24 |
 | [The Archer](https://open.spotify.com/track/3Y7MHz19qCg1Pkxridtu1k) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Archer](https://open.spotify.com/album/2mmpvWHLrUjSu5PN763rUu) | 3:31 | 2019-08-02 | 2019-09-27 |

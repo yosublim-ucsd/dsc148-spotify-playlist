@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,709 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,817 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 64 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 |
 | 65 | [Deja Vu](https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Ziggy Bonafide](https://open.spotify.com/artist/776GUqSRgbmdcDvpnmtfdr) | [Deja Vu](https://open.spotify.com/album/58DxQJGOJI8GLWqLNOVswH) | 2:50 |
 
-Snapshot ID: `MCwyODUzMWVhYTViOTU2OTUxZWY3YTg2YWFmNTAwOWUyZDM2MzFkNjYx`
+Snapshot ID: `MCw4OTk3MjNhZDE5MWFjMGQzMTA4MTU0NzcyMjQxMTU0ZDQ2MTIzZDRm`

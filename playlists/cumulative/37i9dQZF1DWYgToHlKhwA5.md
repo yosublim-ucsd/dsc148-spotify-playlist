@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-426 songs - 19 hr 21 min
+427 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Thunder and Storm](https://open.spotify.com/track/7ouWjcWsBbsKn9jx6oPAbG) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Åska](https://open.spotify.com/album/26Lnz2ggmNLq4ykOOtl3QA) | 3:28 | 2022-07-19 | 2023-06-11 |
 | [Thunder And Storm](https://open.spotify.com/track/3W1bHskcJ8bcJdwpD2HCBE) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm All Night](https://open.spotify.com/album/0PmO749OkakgoafumE8e7H) | 2:47 | 2022-07-19 |  |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2023-04-07 |  |
-| [Thunder by the Cabin](https://open.spotify.com/track/6iCBpDuVmglbu9plJK4te5) | [Weather Experience](https://open.spotify.com/artist/6Qg8anoDrLGeVLBhEdbp55) | [Thunder & Lightning](https://open.spotify.com/album/69xOVLNyb5CJaDhmFJDrLp) | 3:04 | 2022-07-19 |  |
+| [Thunder by the Cabin](https://open.spotify.com/track/6iCBpDuVmglbu9plJK4te5) | [Weather Experience](https://open.spotify.com/artist/6Qg8anoDrLGeVLBhEdbp55) | [Thunder & Lightning](https://open.spotify.com/album/69xOVLNyb5CJaDhmFJDrLp) | 3:04 | 2022-07-19 | 2023-06-23 |
 | [Thunder Flow](https://open.spotify.com/track/1r5Ep4NrQFWD6mrGmW9jzB) | [Skyscration](https://open.spotify.com/artist/2uliIyMyLnG5zT7gV095uG) | [Storm Of The Sea](https://open.spotify.com/album/7DXWehfNqqbfXEYWnzt1z9) | 2:27 | 2022-07-19 |  |
 | [Thunder In Motion](https://open.spotify.com/track/66PaJAfv8IGEjBj0cggYnZ) | [Weathererse](https://open.spotify.com/artist/6Pt0aqNLG6v5g0caOTgcll) | [Swim In The Storm](https://open.spotify.com/album/3TMBIvmt6YUTC0gh1O1Kax) | 1:55 | 2022-07-19 | 2023-06-16 |
 | [Thunder In Spring](https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz) | [Peal Of Thunder](https://open.spotify.com/artist/4JNb7YkGnc92m2gIqgeM0F) | [Thunder In Spring](https://open.spotify.com/album/19W4kCGzbmSQBfNmdmkUE8) | 2:33 | 2022-07-19 |  |
@@ -410,6 +410,7 @@
 | [Tormenta De Lluvia](https://open.spotify.com/track/5sIj5SGyT0k2CsZYGoue5n) | [Siente El Clima](https://open.spotify.com/artist/3FGa3dQAwHwZI8MvIM1SLq) | [Tormenta De Lluvia](https://open.spotify.com/album/0I40IaVOc2YHvx6k5iPuYi) | 2:06 | 2022-07-19 |  |
 | [Tormenta de lluvia de la selva](https://open.spotify.com/track/0SUfn82ZIm9n0CEkWzBXH0) | [Las Vientas](https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT) | [Aguacero](https://open.spotify.com/album/5rPxVBDjzqXfl3OEGCFH0r) | 2:26 | 2023-06-15 |  |
 | [Tormenta Del Bosque](https://open.spotify.com/track/5iZmYfTncJKyX97m4cGZ8p) | [Tormenta Jamaicana](https://open.spotify.com/artist/7Fod6Ykml8hrQjL3p9vxgx) | [Tormenta Secreta](https://open.spotify.com/album/38ClULiKoCQaNZPgImivZf) | 2:18 | 2022-07-19 |  |
+| [Tormenta lejana](https://open.spotify.com/track/4H26XrehY3uGaYjMSQ9ZIY) | [Ciclo del Agua](https://open.spotify.com/artist/7jvfAbf9xdkVSlJx8XBbpJ) | [Precipitación](https://open.spotify.com/album/6m0K7pr7P5o7yB4aLCxYj3) | 2:33 | 2023-06-15 |  |
 | [Tormenta ligera](https://open.spotify.com/track/0O87UiGy34Kn82mdNkbZp3) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Tormenta](https://open.spotify.com/album/1Yuzz0fCr1NHtDfejBwyK6) | 2:19 | 2022-07-19 |  |
 | [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2023-06-15 |  |
 | [Trueno distante](https://open.spotify.com/track/3KSWMixsyBC6J4jjrZ3oMu) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:21 | 2023-06-15 |  |

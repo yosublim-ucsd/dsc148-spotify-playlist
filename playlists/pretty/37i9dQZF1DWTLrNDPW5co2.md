@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Interview Magazine co\-curates this week's selection of LGBTQ+ artists and allies at the centre of electronic music\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,977 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,002 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 64 | [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 |
 | 65 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 |
 
-Snapshot ID: `MCxjNjE5MDhiZGYxMTA4MzhhOTllZmEyOTNiZjA4MDBiNGZlZjc3YjUz`
+Snapshot ID: `MCwyZTc1MTQ3OWI2MmU3NzQ0M2E5ZWZhZWY5MWUxNWI2NGQzOTM3MGZm`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-639 songs - 1 day 12 hr 21 min
+640 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-04 | 2022-12-09 |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-27 | 2022-07-31 |
 | [SWLGN](https://open.spotify.com/track/4I4l381Nz6wjjcphptEFMj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [SWLGN](https://open.spotify.com/album/6IZQTVy9JL7uPxYHJhAYqX) | 2:52 | 2021-08-28 | 2021-08-29 |
-| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-01-04 |  |
+| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-01-04 | 2023-06-23 |
 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-11 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
@@ -536,6 +536,7 @@
 | [إتنين بليل](https://open.spotify.com/track/6kG0pgi6lc00GzIB7OKX2j) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [إتنين بليل](https://open.spotify.com/album/0gGUtdHa4pi5L6ieJJ1VEd) | 3:21 | 2021-09-22 | 2021-11-23 |
 | [إيديكوا فوق](https://open.spotify.com/track/7F6FcUvgtu8xJnmr7mmJMr) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8) | [إيديكوا فوق](https://open.spotify.com/album/4monZo4ZELSoz3BtNLMDqK) | 2:52 | 2022-02-10 | 2022-02-19 |
 | [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/track/4NczU8gkpsFofsxD5yNIRj) | [torwada](https://open.spotify.com/artist/0jNcgSHVa94YUnrEDleh93) | [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/album/2GkSbe5ieRAQfkFqJhQ80o) | 2:40 | 2022-12-23 | 2022-12-28 |
+| [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-22 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-10 | 2022-09-25 |
 | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/track/69IfkCa5H3J1xRCQjKIaqt) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/album/5tV4NltIJVQSKVNXZeF3Hg) | 3:08 | 2022-02-03 | 2022-02-05 |
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |

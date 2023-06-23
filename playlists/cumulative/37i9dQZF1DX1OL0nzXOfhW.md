@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover:  LilithQueenB
 
-129 songs - 7 hr 27 min
+130 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 | 2023-05-11 |  |
 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 |  |
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 |  |
+| [深山女妖](https://open.spotify.com/track/7ug5EOPE3Wql5P1uw4gBM3) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [深山女妖](https://open.spotify.com/album/6kk0062rrDQoskoXG34PqX) | 4:28 | 2023-06-22 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 | 2023-04-14 |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-04-13 |  |
 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2022-05-26 | 2023-03-30 |

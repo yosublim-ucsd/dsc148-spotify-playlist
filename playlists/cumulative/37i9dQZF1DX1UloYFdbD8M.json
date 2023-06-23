@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Maarane Thedum",
+        "url": "https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7"
+      },
+      "artists": [
+        {
+          "name": "Prakash Alex",
+          "url": "https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz"
+        },
+        {
+          "name": "Abhijith Damodaran",
+          "url": "https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174260,
+      "name": "Maarane Thedum",
+      "url": "https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs"
+    },
+    {
+      "album": {
         "name": "Malhaar",
         "url": "https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI"
       },

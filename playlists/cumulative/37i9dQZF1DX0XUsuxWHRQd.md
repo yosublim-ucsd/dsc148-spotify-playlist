@@ -4,7 +4,7 @@
 
 > New music from Gunna, Gucci Mane and Doja Cat.
 
-1,663 songs - 3 day 13 hr 48 min
+1,664 songs - 3 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Isis](https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Isis](https://open.spotify.com/album/361T1uXWyuak02E2W6tBs8) | 3:56 | 2019-05-26\* | 2019-08-13 |
 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 | 2022-11-17 | 2022-11-19 |
 | [It's All About the Benjamins \(feat\. The Notorious B.I.G., Lil' Kim & The Lox\) \- Remix](https://open.spotify.com/track/3GMR3hyv8BccozoebVMve3) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Stevie J](https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 4:38 | 2022-11-03 | 2022-11-05 |
+| [It's Alright](https://open.spotify.com/track/1SKhE8yTMuGrTLte0os673) | [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 4:01 | 2023-06-22 |  |
 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 | 2023-05-26 | 2023-06-10 |
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-11-04 | 2022-11-19 |
 | [IYKYK](https://open.spotify.com/track/1pzr9UTpg11XWHs7Q0O8wQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [My Everything](https://open.spotify.com/album/7wJSmCMFqVmKgy4pWxuPhx) | 2:14 | 2022-02-11 | 2022-02-19 |

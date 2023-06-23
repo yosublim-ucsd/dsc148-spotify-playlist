@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,180 likes - 70 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,263 likes - 70 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 25 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 |
 | 26 | [FAST LAND](https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 3:39 |
 | 27 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 |
-| 28 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
-| 29 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 |
+| 28 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 |
+| 29 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 30 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 |
 | 31 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 |
 | 32 | [Killing Time](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH) | 5:32 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 66 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 67 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
 | 68 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
-| 69 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
-| 70 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 |
+| 69 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 |
+| 70 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
 
-Snapshot ID: `MCxiMTVhYjdjNmQwNDkxNzkxNzYwZDhmNDUwZWQ0OTM1OWVkMmYyZDJm`
+Snapshot ID: `MCw4ZjBhNjNhNjI5NjExNzU0NWNiZWYyM2E3YTllM2I0NjQyYWQzZDY0`

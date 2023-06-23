@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-403 songs - 23 hr 51 min
+404 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 | 2023-03-10 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
-| [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 |  |
+| [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 | 2023-06-23 |
 | [Girouette](https://open.spotify.com/track/7fBzPwiKk8GvRKiCwQ3NFr) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 3:19 | 2021-01-03\* | 2022-07-29 |
 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 |  |
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-01-14 |  |
@@ -142,6 +142,7 @@
 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 |  |
 | [Insensible](https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Insensible](https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH) | 3:27 | 2021-01-03\* | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
+| [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 |  |
 | [J'ai demandé à la lune](https://open.spotify.com/track/7ALLe4yro3cKzvMndHc5kX) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [Louis\-Étienne Santais](https://open.spotify.com/artist/0ZAl5PmCoUqY1PIuTYAghz) | [J'ai demandé à la lune](https://open.spotify.com/album/00oVQCf6moCjdGGiU2pIAg) | 3:25 | 2021-02-26 | 2021-05-03 |
 | [J'ai tout oublié](https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO) | 3:54 | 2022-07-08 | 2022-08-01 |
 | [J'ai tout oublié](https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [J'ai tout oublié \- Single](https://open.spotify.com/album/2JqB5rOeHapD0TdnReqeTo) | 3:55 | 2021-01-15 | 2022-07-28 |

@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Th\u1eb1ng \u0110i\u00ean",
+        "url": "https://open.spotify.com/album/0t2YXNqz7bv7n6mPorj8HC"
+      },
+      "artists": [
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        },
+        {
+          "name": "Phuong Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Th\u1eb1ng \u0110i\u00ean",
+      "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
+    },
+    {
+      "album": {
         "name": "Th\u1ecb M\u1ea7u",
         "url": "https://open.spotify.com/album/4cS8GtTlS8Q5SKrITbIvVB"
       },
@@ -2922,6 +2944,24 @@
       "duration_ms": 201507,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
+    },
+    {
+      "album": {
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194182,
+      "name": "Tr\u01b0\u1edbc Khi Em T\u1ed3n T\u1ea1i",
+      "url": "https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY"
     },
     {
       "album": {
@@ -3320,7 +3360,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 127114,
       "name": "Xin L\u1ed7i",
       "url": "https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX"

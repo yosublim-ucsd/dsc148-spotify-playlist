@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-128 songs - 8 hr 0 min
+129 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [เธอทั้งนั้น](https://open.spotify.com/track/0B8jGlEYFOQT3USwSr5yX3) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/6AgMabCa4vNDjFytw7XbsO) | 4:04 | 2023-02-10 | 2023-04-30 |
 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 | 2023-02-21 |  |
 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 | 2023-02-10 |  |
-| [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 | 2023-02-10 |  |
+| [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 | 2023-02-10 | 2023-06-23 |
 | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff) | 3:23 | 2023-02-10 |  |
 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 | 2023-02-10 |  |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2023-02-10 |  |
@@ -130,6 +130,7 @@
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:57 | 2023-02-10 |  |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2023-02-10 |  |
 | [โรแมนติก \(Romantic\)](https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [โรแมนติก \(Romantic\)](https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84) | 4:00 | 2023-04-03 | 2023-05-16 |
+| [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 | 2023-06-09 |  |
 | [โลกอีกใบ](https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [โอ๊ต ปราโมทย์](https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw) | [LA LUNE](https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg) | 3:14 | 2023-02-21 | 2023-05-01 |
 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 | 2023-06-09 |  |
 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 | 2023-02-10 |  |

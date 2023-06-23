@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-276 songs - 15 hr 7 min
+279 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/4BC8rzvaaPoimewdFeOxcB) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [Covers](https://open.spotify.com/album/3LFPV69y8dm2843r0V7kyw) | 3:28 | 2022-08-26 |  |
 | [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 | 2023-02-03 |  |
 | [I Want You Back](https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:46 | 2022-08-26 | 2023-02-15 |
+| [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 | 2023-06-22 |  |
 | [I Will Wait \- Acoustic](https://open.spotify.com/track/1U5kTWnwhj1zrgOCRaU73X) | [Caj Morgan](https://open.spotify.com/artist/6Xvy1uxkv35sodFf8FfpNw) | [Unplugged Vol\. 1](https://open.spotify.com/album/02wUNMk1N7hU4lYzlHB5L6) | 2:41 | 2022-08-26 | 2022-10-29 |
 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 | 2022-08-26 | 2023-03-18 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/6uE9ndEGjQPQzqWTZz8HLU) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/5lf90LPVi2T8ZyCSJHdyIy) | 3:23 | 2023-03-31 |  |
@@ -159,6 +160,7 @@
 | [Landslide](https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK) | 3:38 | 2023-02-03 |  |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-08-26 | 2023-02-15 |
 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-10-28 | 2022-11-13 |
+| [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-04 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-08-26 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/0U8jEPi2k3UZqHK0jvzEe0) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Let Me Down Slowly](https://open.spotify.com/album/13m8lRDEDFZt7uoCqeCbZq) | 2:40 | 2022-08-26 | 2023-01-05 |
@@ -166,6 +168,7 @@
 | [Let Me Go](https://open.spotify.com/track/3lPtqlfDC01vQg8ceLfYRi) | [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Let Me Go](https://open.spotify.com/album/70oL3Ba6SMappFHoaje6ni) | 2:30 | 2022-08-26 | 2023-03-31 |
 | [Let Me Love You](https://open.spotify.com/track/7D1eleriDUxiD9BoxnGBV9) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 2:48 | 2022-08-26 | 2023-02-03 |
 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 | 2022-08-26 | 2023-03-31 |
+| [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 | 2023-06-22 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-04 |  |
 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 | 2022-08-26 | 2023-01-20 |
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2022-08-26 | 2023-05-12 |
@@ -182,7 +185,7 @@
 | [Make You Feel My Love](https://open.spotify.com/track/1NqYdUGNJXl4kgH3ucvo4D) | [Redah](https://open.spotify.com/artist/5IBFJ0Td2NQq2CHUQENsi6), [Eva Nomikou](https://open.spotify.com/artist/0oXZ5BcOpZwezSlgplCRJt) | [Make You Feel My Love](https://open.spotify.com/album/7c1D4N6yGZFpNAbDLUtxbo) | 3:05 | 2022-08-26 |  |
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-26 |  |
 | [Midnight City](https://open.spotify.com/track/2SyCP2ikpNid6yC01Yw4Ul) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Midnight City](https://open.spotify.com/album/6Mt6Fw8XIbuB1GkDT1CSdI) | 3:16 | 2022-10-14 | 2023-01-20 |
-| [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-04-14 |  |
+| [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-04-14 | 2023-06-23 |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-08-26 | 2023-03-31 |
 | [Most Girls \- Acoustic](https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Most Girls](https://open.spotify.com/album/2FymLjpzDVWD3BYrf33UHg) | 3:57 | 2022-08-26 | 2023-01-20 |
 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-09-29 |  |

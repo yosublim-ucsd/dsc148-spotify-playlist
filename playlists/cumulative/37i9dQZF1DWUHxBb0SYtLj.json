@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Cura\u00e7ao",
+        "url": "https://open.spotify.com/album/0bjDOlhbfuz2MLwz5rpmYe"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161007,
+      "name": "Cura\u00e7ao",
+      "url": "https://open.spotify.com/track/0zbO6cDFBa0JJblfyiTxgc"
+    },
+    {
+      "album": {
         "name": "Da soli mai",
         "url": "https://open.spotify.com/album/1xvV2WxxUBcVKHStzGQwLT"
       },

@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Yura Yunita
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Melly Goeslaw
 
-69 songs - 4 hr 23 min
+70 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Intermezzo](https://open.spotify.com/track/1g9CyyZFbFd2wl6hOXNrEN) | [Bleach](https://open.spotify.com/artist/18Bd4tKfIWvuvbn5PxeeML), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [INTERMEZZO \(THE BLEACH CLUB\)](https://open.spotify.com/album/3CY6wVLwyEXRIgHAbiZQuA) | 1:32 | 2023-03-16 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-16 |  |
 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 | 2023-03-16 |  |
+| [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 | 2023-06-22 |  |
 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 | 2023-03-16 |  |
 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 | 2023-03-16 |  |
 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 | 2023-03-16 |  |

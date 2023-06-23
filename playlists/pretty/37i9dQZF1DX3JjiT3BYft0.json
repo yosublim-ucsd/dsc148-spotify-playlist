@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 57635,
+  "num_followers": 57667,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjk2ZTU2ZGQ3NjM1ODVkMjIxMTEzMmUyOWQ4NGMwYWUwNzM4MDM1",
+  "snapshot_id": "MCxhMDMxOGI0NGM2ZGIwZDhiYjYyNTg2MGE1MjVmYzIxODE5OGQwNTU1",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+      },
+      "artists": [
+        {
+          "name": "\u6e4a \u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
+        }
+      ],
+      "duration_ms": 175233,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
+      "url": "https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 238835,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
-      },
-      "artists": [
-        {
-          "name": "\u6e4a \u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
-        }
-      ],
-      "duration_ms": 175233,
-      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
-      "url": "https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6"
     },
     {
       "added_at": "2023-05-30 15:00:00",

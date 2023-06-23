@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121 likes - 25 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159 likes - 25 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 11 | [Come Sunday](https://open.spotify.com/track/7yHcLHOC6PeYvNf3DUgtCu) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Come Sunday](https://open.spotify.com/album/229mvjpr3IdMq3cZBrXpWM) | 2:54 |
 | 12 | [Unforgettable](https://open.spotify.com/track/54ssz8UwxkRTcwR1GkE1O9) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Unforgettable](https://open.spotify.com/album/60GvB1LpuZEejTw6HrC7kf) | 2:33 |
 | 13 | [Midnight Fairytale](https://open.spotify.com/track/6g2fHliXA6b8FXcMZziFOs) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/4BZhnPU2Qwz1WynSyH2iyc) | 2:10 |
-| 14 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
-| 15 | [I fall in love too easily](https://open.spotify.com/track/0CpQmQGlTmL9uR3oCc4Hhu) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [I fall in love too easily](https://open.spotify.com/album/5xBUXURTU9aTX4VWBoOghb) | 3:26 |
-| 16 | [In the Shadows of the City](https://open.spotify.com/track/767rFkDccEdmm51rwJSTWB) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [In the Shadows of the City](https://open.spotify.com/album/4kppzpEv6Hp70ZUanL11v0) | 2:54 |
-| 17 | [Night and Day](https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Night and Day](https://open.spotify.com/album/0Iv5W5Lm7ibsmueeklTsMQ) | 2:21 |
-| 18 | [Closing Time](https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Closing Time](https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd) | 3:05 |
+| 14 | [I fall in love too easily](https://open.spotify.com/track/0CpQmQGlTmL9uR3oCc4Hhu) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [I fall in love too easily](https://open.spotify.com/album/5xBUXURTU9aTX4VWBoOghb) | 3:26 |
+| 15 | [In the Shadows of the City](https://open.spotify.com/track/767rFkDccEdmm51rwJSTWB) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [In the Shadows of the City](https://open.spotify.com/album/4kppzpEv6Hp70ZUanL11v0) | 2:54 |
+| 16 | [Night and Day](https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Night and Day](https://open.spotify.com/album/0Iv5W5Lm7ibsmueeklTsMQ) | 2:21 |
+| 17 | [Closing Time](https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Closing Time](https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd) | 3:05 |
+| 18 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
 | 19 | [Sleep Next To Me Darling](https://open.spotify.com/track/0HsgwgxchAtdnxs1jwHHzn) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Sleep Next To Me Darling](https://open.spotify.com/album/4ic3hlnkS8PAlXZqBk2JsI) | 2:32 |
 | 20 | [Don't Know Why](https://open.spotify.com/track/6uPE44mlFld6sOFlgbgj72) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/3nwZXqBNuBerpH4F5tMswC) | 3:10 |
 | 21 | [Still](https://open.spotify.com/track/1coxapf3dtylD5wl43ww8A) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Still](https://open.spotify.com/album/3ZEE7nBAnMYh8ipXXITrxu) | 2:55 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 24 | [In the Blue Of The Evening](https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3) | [Kerrie Walton](https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR) | [In the Blue Of The Evening](https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4) | 2:36 |
 | 25 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCw4ODJhOGUyNmIxMDM3NTRiY2JkZDU5MGIyY2E2M2E3MzcxMDk1ODRj`
+Snapshot ID: `MCw2OTBiZTVjOTk3YjE1ZGIxNDEzZmJhMjdmNzg0ZGMwOWU3ZTk2NGZl`

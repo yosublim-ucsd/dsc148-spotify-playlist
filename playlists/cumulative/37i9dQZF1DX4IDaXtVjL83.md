@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: KANG DANIEL\)
 
-127 songs - 6 hr 53 min
+129 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Good\-JP Ver.\-](https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [All Good\-JP Ver.\-](https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71) | 3:25 | 2021-12-20 | 2022-02-25 |
 | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI), [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP) | 3:32 | 2023-04-30 |  |
 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 | 2021-12-20 | 2022-04-20 |
+| [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-22 |  |
 | [Be Sweet \- Korean Version](https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Be Sweet \(Korean Version\)](https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x) | 3:15 | 2022-07-22 | 2023-02-17 |
 | [Before 4:30 \(She Said…\)](https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Before 4:30 \(She Said…\)](https://open.spotify.com/album/6ngd5N828DSzfX5tLMMngM) | 3:51 | 2021-12-20 | 2022-12-06 |
 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 | 2022-03-04 |  |
@@ -130,6 +131,7 @@
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-20 | 2022-09-06 |
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-06-01 |  |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-12-06 |
+| [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-06-22 |  |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-20 | 2022-09-06 |
 | [クネクネ \(Wiggle Wiggle\)](https://open.spotify.com/track/0OyEy0oKOszTW889A4RQwg) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [クネクネ \(Wiggle Wiggle\)](https://open.spotify.com/album/6V8gM3RmsezyJK2a7pavFd) | 3:16 | 2022-04-19 | 2023-02-17 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 85143,
+  "num_followers": 85212,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGEwY2VjYjkwNTY5YThmNDhhZDg1MmEzNmY0ZjkxMjVlMTc1N2Iz",
+  "snapshot_id": "MCxlOTRmMDI4ZDliODhiNzUwZDc4ZGVmNDMwMjc5NTFmZDQwOWYxMTA0",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -775,22 +775,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Coltrane '58: The Prestige Recordings",
-        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
         }
       ],
-      "duration_ms": 440083,
-      "name": "Freight Trane",
-      "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
+      "duration_ms": 182866,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -811,18 +807,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Bird 100",
-        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
+        "name": "Coltrane '58: The Prestige Recordings",
+        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
+      "duration_ms": 440083,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",

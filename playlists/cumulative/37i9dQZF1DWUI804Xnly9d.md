@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-105 songs - 5 hr 54 min
+106 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Khwab \- Reprise](https://open.spotify.com/track/1qPvV2Esdu9oenN7vXzlys) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab \(Reprise\)](https://open.spotify.com/album/7tuLM0Hbw6XZcMSeRACoMc) | 2:27 | 2023-06-02 |  |
 | [Khwaish](https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6) | [Arshit](https://open.spotify.com/artist/224EYKBELbeX1n7R5fxnjP), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs), [Sahil Randhawa](https://open.spotify.com/artist/47BLm9E1Q3mqdmzmqOvoU9) | [Khwaish](https://open.spotify.com/album/0QKrdsQcRuGXhqUIeIGfFs) | 3:46 | 2023-06-02 |  |
 | [Kuch Kam](https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Kuch Kam](https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb) | 2:32 | 2023-05-17 |  |
-| [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 |  |
+| [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |
 | [Kyon Alag Huye](https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY) | [Govinda Sarkar](https://open.spotify.com/artist/1hc9vww0TKHeWZOMkxC8kd) | [Kyon Alag Huye](https://open.spotify.com/album/7oPkwM4rULtTPoNIMHBAdT) | 1:21 | 2023-05-17 | 2023-05-27 |
 | [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 |  |
@@ -90,6 +90,7 @@
 | [Raaz](https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9) | [Yash Joshi](https://open.spotify.com/artist/6hP4cbviLwKKjoIe01qGNu), [Amogh Agarwal](https://open.spotify.com/artist/2MaX9AAWNy1TdrQQXOyqqY) | [Raaz](https://open.spotify.com/album/0yCdEgqwvcCQrhpPr7lVsT) | 3:49 | 2023-05-17 | 2023-05-24 |
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 |  |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
+| [Saadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Saadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 |  |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 |  |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 |  |

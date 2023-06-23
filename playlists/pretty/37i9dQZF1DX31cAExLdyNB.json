@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 61729,
+  "num_followers": 61760,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWI2MGIwZTBlYjk5NzhmZmE0MGJkOTUxNTFlOTQxOGY1MzJjZGYy",
+  "snapshot_id": "MCw3OTFlYjU3ZWRiNmUzMTMzNjg3ZjEzNjhhZDc2NDZjODNjNzcxMzdj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1099,26 +1099,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "THREE STRIKES (feat. Khalid)",
-        "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
+        "name": "Mirada Speed",
+        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Diana Flores",
+          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
         }
       ],
-      "duration_ms": 266811,
-      "name": "THREE STRIKES (feat. Khalid) - TSHA remix",
-      "url": "https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA"
+      "duration_ms": 227992,
+      "name": "Mirada Speed",
+      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1139,22 +1135,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Mirada Speed",
-        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
+        "name": "THREE STRIKES (feat. Khalid)",
+        "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
       "artists": [
         {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         },
         {
-          "name": "Diana Flores",
-          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 227992,
-      "name": "Mirada Speed",
-      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
+      "duration_ms": 266811,
+      "name": "THREE STRIKES (feat. Khalid) - TSHA remix",
+      "url": "https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA"
     },
     {
       "added_at": "2023-03-10 05:01:00",

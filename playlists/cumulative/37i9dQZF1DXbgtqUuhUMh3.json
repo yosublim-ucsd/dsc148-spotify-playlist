@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 172800,
       "name": "BOCCA",
       "url": "https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB"
@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 161298,
       "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a - From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631",
       "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
@@ -5194,6 +5194,24 @@
       "duration_ms": 224000,
       "name": "Nasi",
       "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
+    },
+    {
+      "album": {
+        "name": "Nasskha Menni",
+        "url": "https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "Nasskha Menni",
+      "url": "https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS"
     },
     {
       "album": {

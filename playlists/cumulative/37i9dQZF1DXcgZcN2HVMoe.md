@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-709 songs - 1 day 18 hr 19 min
+710 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [I'll Be Around](https://open.spotify.com/track/3ccDb4UqLC54IoFJ8LmFoy) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [I'll Be Around](https://open.spotify.com/album/1uQn196WK2ZYn9Ypyp9czZ) | 3:06 | 2022-07-22 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2021-12-17 |  |
 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 | 2021-12-17 |  |
-| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-18 |  |
+| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-18 | 2023-06-23 |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [In a Stranger's Arms](https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [In a Stranger's Arms](https://open.spotify.com/album/5fc9yi6CWLJltzalAhLOQg) | 3:20 | 2021-12-17 | 2022-07-29 |
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2022-07-22 |  |
@@ -664,6 +664,7 @@
 | [Waiting](https://open.spotify.com/track/6Hfm61e7tVpekos96WUa1T) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Hearts That Strain](https://open.spotify.com/album/0ym0XWkjGC3NpYMl0xD2NR) | 3:11 | 2022-01-24 | 2022-04-20 |
 | [Waiting \- Demo](https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Waiting \(Demo\)](https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP) | 1:41 | 2021-12-17 |  |
 | [Waking Up Slow \- Piano](https://open.spotify.com/track/7E9QA6hL8Ebk0yHXeV1UIB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking Up Slow \(Piano\)](https://open.spotify.com/album/2dYnQR7W5ptqvQRXCmcT59) | 3:41 | 2021-12-17 | 2022-04-21 |
+| [Waking up Slow \- Piano Version](https://open.spotify.com/track/3WnkK9068MrNVLzhh4XZ5g) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/5glcHbwAIUAJyJ2RxlTcUr) | 3:41 | 2023-04-28 |  |
 | [Waking up Slow \- Piano Version](https://open.spotify.com/track/4IRVhjtmLRLt6WR3ICNR6X) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/1BZl757T86An7GGdnE1WtN) | 3:41 | 2022-07-29 | 2023-06-07 |
 | [Waking up Slow \- Piano Version](https://open.spotify.com/track/4NkIYlfobkqS2hALHTIUV9) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/6qPtRqNuDGUgBVlU2AQFz1) | 3:41 | 2022-07-22 | 2022-10-13 |
 | [Walking Home to You](https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 3:59 | 2021-12-17 | 2022-04-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj?si=2mJTD8E_QZiw_cH4JxsRWA\">Jay</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=a9ZKh9dlS_GtA9X9UXPGCQ\">Ricus Nel</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 203000,
       "name": "Braaibroodjies",
       "url": "https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Khaki",
+        "url": "https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186495,
+      "name": "Khaki",
+      "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
+    },
+    {
+      "album": {
         "name": "Klaar Gesmeek",
         "url": "https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ"
       },
@@ -1414,6 +1432,24 @@
       "duration_ms": 216687,
       "name": "Laat Dit Goed Gaan",
       "url": "https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf"
+    },
+    {
+      "album": {
+        "name": "Lawaaiwater",
+        "url": "https://open.spotify.com/album/2Cnck7kTfhwxttOIVDw71f"
+      },
+      "artists": [
+        {
+          "name": "Anz\u00e9lle",
+          "url": "https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198152,
+      "name": "Lawaaiwater",
+      "url": "https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2"
     },
     {
       "album": {
@@ -1812,6 +1848,28 @@
       "duration_ms": 209891,
       "name": "O My Vy",
       "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
+    },
+    {
+      "album": {
+        "name": "Loufi Flippen Loufi",
+        "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Oh La La",
+      "url": "https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts"
     },
     {
       "album": {
@@ -2402,7 +2460,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 204067,
       "name": "S\u00eara S\u00ea Ja!",
       "url": "https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x"
@@ -2738,7 +2796,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 178861,
       "name": "Willemiena Van Gezina",
       "url": "https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9"

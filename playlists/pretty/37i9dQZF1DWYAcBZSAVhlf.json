@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 231938,
+  "num_followers": 232195,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDBhYjZlYjI5NzlmNjJhMDI5YmJjNDhmMWYyYzgxMGM2NWJmMmQw",
+  "snapshot_id": "MCwyMmI4Mzk0MDFmMzJlMWZhZGZmNjllZTIyMzM1MGU1MDFhYzNiZGVh",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
-      "added_at": "2023-05-23 07:22:54",
-      "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "You're the Voice",
-      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
-    },
-    {
       "added_at": "2023-01-03 15:06:17",
       "album": {
         "name": "Rhythm Of The Night",
@@ -1059,6 +1043,22 @@
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+    },
+    {
+      "added_at": "2023-05-23 07:22:54",
+      "album": {
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "You're the Voice",
+      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Hot In The City",
+      "url": "https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Hot In The City",
-      "url": "https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "'80s Pop Hits",
-        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
-      },
-      "artists": [
-        {
-          "name": "Matthew Wilder",
-          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Break My Stride",
-      "url": "https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 203226,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "'80s Pop Hits",
+        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
+      },
+      "artists": [
+        {
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU"
     },
     {
       "added_at": "2023-01-03 15:06:17",

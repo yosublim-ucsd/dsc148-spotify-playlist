@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-746 songs - 1 day 18 hr 38 min
+748 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
 | [gozennreiji、gatasunokutsuha](https://open.spotify.com/track/2O3MN7anJ1TeBOTztMJ2mV) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [soukutomaerchensanka](https://open.spotify.com/album/4uXZxB5lmd7cTTaECdLZ3l) | 4:18 | 2022-10-04 | 2022-10-12 |
 | [Grumpy](https://open.spotify.com/track/0PdzZmwowBtH83VnVP2Q3C) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif) | [Grumpy](https://open.spotify.com/album/3Ro8wDSqxyxEOluacB5ZyG) | 2:38 | 2022-06-09 | 2022-07-22 |
-| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-27 |  |
+| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-27 | 2023-06-23 |
 | [Haikei Kamisama Hotokesama](https://open.spotify.com/track/6RTveHUksJwYeVJTwgteeh) | [stellafia](https://open.spotify.com/artist/4SiWD9hBt7DwgaxAfdbIZi) | [Haikei Kamisama Hotokesama](https://open.spotify.com/album/4yg3Bc5M9zHqzTBkYeEQWy) | 2:58 | 2022-09-20 | 2022-09-28 |
 | [Hanabie Ressha](https://open.spotify.com/track/5uYMEDfnSCe3wQXaiZTyVC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [Hanabie Ressha](https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep) | 3:43 | 2022-06-09 | 2022-07-21 |
 | [Happiness](https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw) | [Nano](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Happiness](https://open.spotify.com/album/3JMDEQxkO3m9utSvlcn8hl) | 3:47 | 2022-06-09 | 2022-06-13 |
@@ -124,7 +124,7 @@
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-17 | 2023-06-21 |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-26 |
 | [ivy \- 案山子 Remix](https://open.spotify.com/track/054igXu6lULCOituDaKYtw) | [心悠](https://open.spotify.com/artist/3w2emKs367tVZRrVZzgqRZ), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [ivy \(Remixes\)](https://open.spotify.com/album/6wjbKxlxsTSaHnRxweDQUf) | 3:35 | 2022-06-14 | 2022-06-22 |
-| [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-21 |  |
+| [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-21 | 2023-06-23 |
 | [juice box](https://open.spotify.com/track/1dhNZf5E0qpgTEJ81HxzS6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [aruma](https://open.spotify.com/artist/007ymf6nTBbhE9f9zxTcJF), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [juice box](https://open.spotify.com/album/4Uvm3mUSpQCRTwyfLHsFip) | 3:58 | 2022-08-30 | 2022-10-19 |
 | [Kaidan \(feat\. m\)](https://open.spotify.com/track/5vkO73sy8jFxwI0s3qRSj4) | [Kakashi](https://open.spotify.com/artist/2qfMc1YTRsQv7y8djXdvTf), [m](https://open.spotify.com/artist/01pmHFmU0sMTM6HCCyEHB0) | [Kaidan \(feat\. m\)](https://open.spotify.com/album/4Qoy6FmiySgbupDdakzJyP) | 2:56 | 2022-09-08 | 2022-09-21 |
 | [Kakureinnkya](https://open.spotify.com/track/24cDuwLAerdswc0obvMw58) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Kakureinnkya](https://open.spotify.com/album/5Cq5KfoJnsISILpjQ09rwy) | 3:19 | 2022-08-25 | 2022-09-07 |
@@ -235,6 +235,7 @@
 | [TIME](https://open.spotify.com/track/0GTySo21x7dLGpap452q6p) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [TIME](https://open.spotify.com/album/5S7wZwPwCXWEFsSxQdhvFF) | 3:55 | 2022-09-14 | 2022-09-28 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |
 | [Travelers](https://open.spotify.com/track/174Nite6TiCK2GgiGlCXz9) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Travelers](https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc) | 5:22 | 2023-03-23 | 2023-03-31 |
+| [Trigger](https://open.spotify.com/track/03ES1FQGdmpTBYF2f96gPF) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Trigger](https://open.spotify.com/album/2MUpHK1HzSjVfwfjL5oW5h) | 3:32 | 2023-06-22 |  |
 | [TULPA](https://open.spotify.com/track/0TrhuD7Qp0rtWGbCD1gxNf) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [ROUND TRIP](https://open.spotify.com/album/2PGs0H46L4tluIjtFeVoTm) | 3:02 | 2023-03-29 | 2023-05-17 |
 | [Turning Over](https://open.spotify.com/track/5ROagMhjmuSek8uyW6bSya) | [來\-Ray\-](https://open.spotify.com/artist/2ZBJuQnv8Gmj0fIgvcgxhi) | [Turning Over](https://open.spotify.com/album/34hMSJ9loNfY2heYEDlfIx) | 3:53 | 2023-03-08 | 2023-03-18 |
 | [Undead](https://open.spotify.com/track/63ng1fu3aFiRjVVE16PgRr) | [Misenaikuseni](https://open.spotify.com/artist/3LT0QrcTVc7pzZ9WgoLwNS) | [Undead](https://open.spotify.com/album/02wdhJ2fbR7VBcYXdOcaqc) | 3:53 | 2022-09-08 | 2022-09-15 |
@@ -698,6 +699,7 @@
 | [舞 \- feat\. 理芽](https://open.spotify.com/track/7xWiq56KcBCQ5p88Y9IM8n) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [舞 \(feat\. 理芽\)](https://open.spotify.com/album/1knzO85IKeXVLSt8xLgcqc) | 3:12 | 2022-06-13 | 2022-07-28 |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-04 |  |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-08 |  |
+| [花水木](https://open.spotify.com/track/0tvRLEIfsZJPI8o9ZgVGEn) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [花水木](https://open.spotify.com/album/3DAydNVlnxCAT8NU8jsrQM) | 4:34 | 2023-06-22 |  |
 | [花火](https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:32 | 2022-06-09 | 2022-07-28 |
 | [苦多春](https://open.spotify.com/track/2xQ0hFTu17qAkNIruYAmD8) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [事後叙景](https://open.spotify.com/album/5pNIvJAkRup2UJb5CaRyoM) | 2:33 | 2022-06-09 | 2022-06-11 |
 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 | 2022-06-09 | 2022-07-12 |

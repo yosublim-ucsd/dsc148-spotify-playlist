@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-509 songs - 1 day 6 hr 42 min
+510 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2022-04-19 |
 | [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 | 2023-06-05 |  |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2022-06-08 |
-| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 |  |
+| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 | 2023-06-23 |
 | [Lesson Learnt](https://open.spotify.com/track/0ibr9W60zg3lSVIClr2tWG) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 2:18 | 2022-03-30 | 2022-04-19 |
 | [Lesson Learnt](https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 2:18 | 2022-07-26 | 2023-02-14 |
 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |
@@ -441,6 +441,7 @@
 | [The Next Time Around](https://open.spotify.com/track/6sT8KTifge2F0lcdtyDkDa) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy \(US Edition\)](https://open.spotify.com/album/6uoMTt6m0GlGFASfdfEIVE) | 2:36 | 2022-03-30 | 2022-04-19 |
 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-09-26 |  |
 | [The Rain Song](https://open.spotify.com/track/4cpEjk1FaYNiv5jrUMQuaH) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [Midnight Movement / The Rain Song](https://open.spotify.com/album/7BG7bh5EW2SwKOyBkKd7ho) | 3:52 | 2021-12-16 | 2022-07-29 |
+| [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2023-06-20 |  |
 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2021-12-16 |  |
 | [The Weight Is Gone](https://open.spotify.com/track/1wYlzUVWctxU8taZ5OjCzM) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Weight is Gone](https://open.spotify.com/album/6nrByBETfiav5wLAcUCybG) | 3:32 | 2022-03-30 | 2022-04-20 |
 | [Think I'm In Love](https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Information](https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF) | 3:19 | 2022-03-30 |  |

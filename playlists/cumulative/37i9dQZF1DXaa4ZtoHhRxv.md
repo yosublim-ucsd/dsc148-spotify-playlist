@@ -2,9 +2,9 @@
 
 ### [Country Club](https://open.spotify.com/playlist/37i9dQZF1DXaa4ZtoHhRxv)
 
-> Brandi Cyrus is taking over while she DJs on the Country Club rooftop at Spotify House at CMA Fest! 🎧
+> Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-153 songs - 8 hr 26 min
+154 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-10 |  |
 | [Lose You](https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Lose You](https://open.spotify.com/album/4zCPTx2ALPDPeOQ6p1ecIU) | 2:52 | 2022-11-01 |  |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-12-10 |  |
+| [Love The Way It Hurts \(So Good\)](https://open.spotify.com/track/1SmEMvjRkff8V9mORj25g3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:21 | 2023-06-22 |  |
 | [Make You Mine \- Bergie Remix](https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Bergie](https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9) | [The Bergie Remixes](https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb) | 3:25 | 2022-10-14 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:53 | 2021-12-10 |  |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2021-12-10 |  |

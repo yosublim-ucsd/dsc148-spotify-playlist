@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-212 songs - 13 hr 46 min
+213 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 | 2022-06-24 |  |
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-05-11 | 2022-06-04 |
 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2022-06-24 | 2023-06-04 |
+| [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 | 2023-03-13 |  |
 | [Scent](https://open.spotify.com/track/3fsSllNzpsBOiQZcrpICnL) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Search: WWW \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6YrDG16bMhL1SwLDhHR5Jq) | 3:58 | 2022-10-06 | 2023-03-14 |
 | [Shine Bright](https://open.spotify.com/track/4eBUVeGUelbA7hJKfo4z8n) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/38qslXFiGuokbX73CCHhew) | 4:25 | 2022-06-24 | 2022-08-03 |
 | [Shine Bright](https://open.spotify.com/track/6LSZSsmKBwZpoAEI2y3c9W) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4Os8itvdFggekD8x7SXAiF) | 4:25 | 2022-05-11 | 2022-07-29 |
@@ -204,7 +205,7 @@
 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2022-06-24 |  |
 | [You Are My Everything](https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [태양의 후예 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6hEeL5DGfL0fffPGGUDvqq) | 4:00 | 2022-05-11 | 2022-07-29 |
 | [You Are My World](https://open.spotify.com/track/3RYVWLRwdRaneGvLBcw4lH) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [The Legend Of The Blue Sea \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gcdtxj0SD33TZezuNRe6j) | 3:37 | 2022-05-11 | 2022-07-16 |
-| [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 | 2023-03-13 |  |
+| [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 | 2023-03-13 | 2023-06-23 |
 | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz) | 4:31 | 2022-06-24 | 2022-07-17 |
 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-06-09 |  |
 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 | 2022-06-24 | 2022-07-13 |

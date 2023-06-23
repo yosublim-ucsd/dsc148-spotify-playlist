@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 139363,
+  "num_followers": 139396,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWM1NDEzN2Y3MWFkOGJiZjRkMzljYzkyNTMwYWM1ZTVmMzg1OGU4",
+  "snapshot_id": "MCxhYjcyOTA3YzhlYzU4NGQ5YjA4NGMxYmZjMTVkYjMyMmRiMGE1NzBj",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Arroz Con Habichuela",
-        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 356640,
-      "name": "Arroz Con Habichuela",
-      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
+      "duration_ms": 280333,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Arroz Con Habichuela",
+        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Arroz Con Habichuela",
+      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
         "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
       },
@@ -791,8 +807,8 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+        "name": "Serie Millennium",
+        "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
       "artists": [
         {
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 280333,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
+      "duration_ms": 320466,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -835,26 +851,6 @@
       "duration_ms": 295666,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
     }
   ],
   "unique_name": "Salsa Boricua",

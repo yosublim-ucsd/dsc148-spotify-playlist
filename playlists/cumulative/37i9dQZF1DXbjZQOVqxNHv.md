@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-560 songs - 2 day 4 hr 47 min
+561 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Soft Power](https://open.spotify.com/track/5fPp9JTVrne1sEJDivDDcC) | [Bone Head](https://open.spotify.com/artist/6k2X5Q2HpaokIZSlPPTyZY) | [Soft Power](https://open.spotify.com/album/6w5CqfaTeDxkptpMCZFfJA) | 8:01 | 2022-04-13 | 2022-07-29 |
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |
 | [Soufie](https://open.spotify.com/track/4Lt4sGCDSiY7s6t3tKUg1V) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Now Is Good](https://open.spotify.com/album/1gBesXhMy03YFul1ALFnDc) | 8:23 | 2022-04-13 | 2022-07-27 |
-| [Soufie \- Ambient Dub Version](https://open.spotify.com/track/6yhF5nFmAUbtJdgB6f3OSz) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Rewritten Histories, Vol\. 1: 1992 \- 1995](https://open.spotify.com/album/3AiIZmdcqfOsKIrkumH5Z7) | 8:22 | 2022-04-13 |  |
+| [Soufie \- Ambient Dub Version](https://open.spotify.com/track/6yhF5nFmAUbtJdgB6f3OSz) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Rewritten Histories, Vol\. 1: 1992 \- 1995](https://open.spotify.com/album/3AiIZmdcqfOsKIrkumH5Z7) | 8:22 | 2022-04-13 | 2023-06-23 |
 | [Spangle](https://open.spotify.com/track/5MbpTudGJuCtQHdgY7OBqJ) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 7:21 | 2022-04-13 |  |
 | [Spangle](https://open.spotify.com/track/1zAIfD1D0huJCDHMl2Rm32) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/2mc5e0hJxfsVAwzqJWRnBL) | 7:23 | 2022-04-13 | 2022-07-26 |
 | [Sparrow](https://open.spotify.com/track/3MEmYQVHNS861MhgYfvUcq) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 6:03 | 2022-04-13 | 2023-02-02 |
@@ -561,6 +561,7 @@
 | [Yoaoshk](https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Brothomstates EP](https://open.spotify.com/album/1xIPlgbK5HoN41M8gMToSQ) | 5:02 | 2022-04-13 | 2023-05-03 |
 | [You Don't Need A Weatherman \(cult x zomby remix \(kollaps\)\)](https://open.spotify.com/track/1HiywvtKI9rCEhexb31U41) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [HD7](https://open.spotify.com/album/1u4ERGeuIwSnJTftMAxu01) | 3:51 | 2022-04-13 | 2022-07-28 |
 | [You Took Your Time \(Lee Gamble Remix\)](https://open.spotify.com/track/4MxUfnSAmKSzlnDLzWOh7F) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [CSFLY Remixes](https://open.spotify.com/album/2dnCDWsatb4A79qAKEtY5i) | 5:56 | 2022-04-13 | 2022-07-06 |
+| [You Took Your Time \- Lee Gamble Remix](https://open.spotify.com/track/0OMhdiDR1F9dd5ncB2tQFu) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [CSFLY Remixes](https://open.spotify.com/album/4pnYizdLGvIpspWqpo2Azh) | 5:56 | 2022-04-13 |  |
 | [You're Creeping Me Out](https://open.spotify.com/track/25YEqrn4jXiue47Q7vgWMB) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [ISDN](https://open.spotify.com/album/7zLPvAL1mv9ghRMGH8vj1H) | 6:31 | 2022-04-13 | 2023-02-08 |
 | [Zebra](https://open.spotify.com/track/7FuOcaB9j68bnE28zxOSoI) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 6:44 | 2022-04-13 |  |
 | [Zebra](https://open.spotify.com/track/7JyR9WAhTfrVMjBqUZt4Zq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 6:44 | 2022-04-13 | 2023-02-02 |

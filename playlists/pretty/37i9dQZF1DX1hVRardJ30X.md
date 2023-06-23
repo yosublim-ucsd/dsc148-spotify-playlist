@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,771 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,884 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [YO SOY ARTISTA, NO TU MAMÁ](https://open.spotify.com/track/0Zthk1jSf5vEGotWnrKegX) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [YO SOY ARTISTA, NO TU MAMÁ](https://open.spotify.com/album/4mKqpqHJpNb5mtfa056bIv) | 2:16 |
 | 54 | [AMIGA LOCA](https://open.spotify.com/track/4Dnxk39tj5MYt6W6W03LZX) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [AMIGA LOCA](https://open.spotify.com/album/6t42TIEktojl2OalssNHq0) | 2:57 |
 
-Snapshot ID: `MCxjOTUxOGUzMGJlZmNlYzVjYWJiY2Q2NTcwMDE4ZWIwNDc0MjU4YWFk`
+Snapshot ID: `MCw2MjlkNGRjMjUyNDAyNTM5MTFmZGUyZmQwZGYxMjZlM2Q2NTZmNTUx`

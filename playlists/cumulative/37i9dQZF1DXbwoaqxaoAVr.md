@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny summer vibe!
 
-149 songs - 9 hr 25 min
+150 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Outer Space](https://open.spotify.com/track/6gHyLryaRWe34ayc0cII0Z) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Outer Space](https://open.spotify.com/album/3Q9S5nLmS85OCvRyZmIPLT) | 5:44 | 2021-11-25 | 2022-03-11 |
 | [Over the Hills](https://open.spotify.com/track/3dFefrFmTwuvAe2W9Lb9BL) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Over the Hills](https://open.spotify.com/album/3wGJfdIjzHeFNcZPOMfT9u) | 2:29 | 2022-07-07 | 2022-10-29 |
 | [People](https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Victory Rock Riddim](https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu) | 3:27 | 2021-11-25 |  |
-| [Play My Games \(feat\. Hollie Cook\)](https://open.spotify.com/track/02Om6Pp8KdFEXvO4R9km2v) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [On A Mission](https://open.spotify.com/album/2F3DFkOdRbJB1x5wQp2ROk) | 4:39 | 2023-06-10 |  |
+| [Play My Games \(feat\. Hollie Cook\)](https://open.spotify.com/track/02Om6Pp8KdFEXvO4R9km2v) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [On A Mission](https://open.spotify.com/album/2F3DFkOdRbJB1x5wQp2ROk) | 4:39 | 2023-06-10 | 2023-06-23 |
 | [Positive Vibration](https://open.spotify.com/track/4UNm4SNzlMECtFnzX4Sfh0) | [Gramps Morgan](https://open.spotify.com/artist/7eA9Vth6x4I2V5kW7RlREX) | [Positive Vibration](https://open.spotify.com/album/2zKQG3ceOM1LzXdedDrAek) | 3:15 | 2021-11-25 | 2022-04-02 |
 | [Pressure](https://open.spotify.com/track/3b2IVvQUr7cIBGReeV9MYW) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pressure](https://open.spotify.com/album/4UpeLqJhQZJwiNWBvwpdAf) | 3:32 | 2021-11-25 | 2022-03-25 |
 | [Pressure Drop](https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as) | [Dukes Of Roots](https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Pressure Drop](https://open.spotify.com/album/5LoZVNyZUOPKxDFQdsosb2) | 3:37 | 2022-09-01 | 2023-01-17 |
@@ -126,6 +126,7 @@
 | [Smoke Marijuana](https://open.spotify.com/track/68474q3pSlRu6HimRHPlRf) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Overstanding](https://open.spotify.com/album/0lG2hSWRSQxfoNurAIoAh5) | 4:03 | 2022-07-07 | 2023-04-28 |
 | [Smoke Marijuana](https://open.spotify.com/track/7d9hxwSIVfxXDE0I3VlWBo) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Overstanding](https://open.spotify.com/album/5o3n0CijSmBbcNazD70WBv) | 4:03 | 2021-11-25 | 2022-07-29 |
 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 | 2021-11-25 |  |
+| [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 | 2023-06-22 |  |
 | [Soon Come](https://open.spotify.com/track/2FgAvIPnk7PEx8IGSpe3NF) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Soon Come](https://open.spotify.com/album/1GC2aGzdmi4kAtpSwo1p6r) | 3:05 | 2021-11-25 | 2022-03-11 |
 | [Soul of the World \(with Barrington Levy\)](https://open.spotify.com/track/7DpNYAQdvEg5vFD8U5UriV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Soul of the World \(with Barrington Levy\)](https://open.spotify.com/album/6hKPmRl1f24feTAsGt9Mai) | 3:29 | 2022-09-01 | 2023-02-01 |
 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 | 2021-11-25 |  |

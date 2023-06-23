@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1508856,
+  "num_followers": 1509176,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWUwNGNmZTc1NzhlOWJmZDM5ZTA1YTA1ZmVmYjdlMDA3OWRmNzIw",
+  "snapshot_id": "MCxmZGE0MjUxNTgyZDdkODE3NzZkYWExMDI2YzFlOTU2Zjc5MjI4ODAy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 638426,
-      "name": "Marquee Moon",
-      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 120333,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 638426,
+      "name": "Marquee Moon",
+      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -663,38 +679,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "City Baby Attacked By Rats (Expanded Version)",
-        "url": "https://open.spotify.com/album/6ZzIjYclPtkNk8JG29IU0t"
-      },
-      "artists": [
-        {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/2RL2ZwgPFppuWxX7nz2xm3"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Anthology: The Sounds Of Science",
         "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 120266,
       "name": "I Want Some",
       "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "City Baby Attacked By Rats (Expanded Version)",
+        "url": "https://open.spotify.com/album/6ZzIjYclPtkNk8JG29IU0t"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/2RL2ZwgPFppuWxX7nz2xm3"
     },
     {
       "added_at": "2022-11-28 15:26:19",

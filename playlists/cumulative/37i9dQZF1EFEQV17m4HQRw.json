@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Pesadona",
+        "url": "https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Castilhol",
+          "url": "https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136162,
+      "name": "Pesadona",
+      "url": "https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL"
+    },
+    {
+      "album": {
         "name": "Pessoa Certa",
         "url": "https://open.spotify.com/album/11P5Ts5KJTKuUJB2KHSvY6"
       },

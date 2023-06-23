@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Amindi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,996 likes - 111 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,980 likes - 111 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 110 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 111 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 
-Snapshot ID: `MCxmMzZjNDljOGFhMDk3ZjU3ZmQ0ZTdmOTU0MGE3MTQzYmQ0NTFiODZl`
+Snapshot ID: `MCw4NjJjMDZiYjdlZTRiOTRlNTQzNjk0YWM4NmQ5YTI1ZDUwYzk0MzJi`

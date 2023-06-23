@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> NO PAPÊ FAZ ASSÊ VENEVENEVENEME toma toma toma toma
+> eu so qria um quentao um curau e uma barraca do bjo
 
 284 songs - 13 hr 7 min
 

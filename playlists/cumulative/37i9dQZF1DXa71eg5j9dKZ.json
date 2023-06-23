@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: TIBASKO",
+  "description": "The home for alternative electronic music. Cover: Aphex Twin",
   "name": "Altar",
   "tracks": [
     {
@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
+    },
+    {
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 170685,
       "name": "Blush",
       "url": "https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 192000,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M"
@@ -10638,7 +10656,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 160434,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
@@ -12901,6 +12919,24 @@
     },
     {
       "album": {
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+    },
+    {
+      "album": {
         "name": "Tundra",
         "url": "https://open.spotify.com/album/7nds0PbTtOhcBjfky7FmDz"
       },
@@ -13442,6 +13478,24 @@
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+    },
+    {
+      "album": {
+        "name": "Love Disc",
+        "url": "https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205016,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd"
     },
     {
       "album": {

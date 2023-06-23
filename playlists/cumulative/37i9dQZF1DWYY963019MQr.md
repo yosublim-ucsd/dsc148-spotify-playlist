@@ -4,12 +4,13 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-85 songs - 4 hr 35 min
+87 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/3S2CLXMqZvrikqslQ0Zca2) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:22 | 2022-10-13 |  |
 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 | 2022-10-13 |  |
+| [Afternoon In Berlin](https://open.spotify.com/track/2kjYRFfJ5Cv2nmT2YZCano) | [The Cloud](https://open.spotify.com/artist/6FHaq9MU4DvYL3Fdy5UrFI) | [Afternoon In Berlin](https://open.spotify.com/album/3utbeoogeyZcYP90jozKRb) | 2:43 | 2023-06-22 |  |
 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 | 2023-03-02 |  |
 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-15 |  |
 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 | 2022-10-13 |  |
@@ -76,6 +77,7 @@
 | [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 | 2022-10-13 | 2023-03-03 |
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-10-13 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-10-13 |  |
+| [Smoke Gets in Your Eyes](https://open.spotify.com/track/36tUJgvDYEJtpgYs1roAVm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Smoke Gets in Your Eyes](https://open.spotify.com/album/17gnlKQo8B8l1FIMSMWt6q) | 2:30 | 2023-06-22 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 | 2022-10-27 |  |
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |

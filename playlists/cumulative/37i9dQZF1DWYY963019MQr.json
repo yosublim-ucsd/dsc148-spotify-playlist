@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Afternoon In Berlin",
+        "url": "https://open.spotify.com/album/3utbeoogeyZcYP90jozKRb"
+      },
+      "artists": [
+        {
+          "name": "The Cloud",
+          "url": "https://open.spotify.com/artist/6FHaq9MU4DvYL3Fdy5UrFI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163028,
+      "name": "Afternoon In Berlin",
+      "url": "https://open.spotify.com/track/2kjYRFfJ5Cv2nmT2YZCano"
+    },
+    {
+      "album": {
         "name": "Afternoon In Paris",
         "url": "https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD"
       },
@@ -1238,6 +1256,24 @@
       "duration_ms": 106266,
       "name": "Shenandoah",
       "url": "https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B"
+    },
+    {
+      "album": {
+        "name": "Smoke Gets in Your Eyes",
+        "url": "https://open.spotify.com/album/17gnlKQo8B8l1FIMSMWt6q"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6per & Lundgren",
+          "url": "https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150869,
+      "name": "Smoke Gets in Your Eyes",
+      "url": "https://open.spotify.com/track/36tUJgvDYEJtpgYs1roAVm"
     },
     {
       "album": {

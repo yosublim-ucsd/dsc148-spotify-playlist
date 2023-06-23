@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Los Aptos x Cuco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,786 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,797 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [MOCHILA](https://open.spotify.com/track/3gVj2X3AlTpWEZTrxHRh7N) | [Sr\. Chen](https://open.spotify.com/artist/6GqSICEGHY2MW8mgwYzz5Q), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [TERRIBLE](https://open.spotify.com/album/6o4irqTbhXUjEs1q43m5Jb) | 2:59 |
 | 103 | [Take It Easy](https://open.spotify.com/track/3W9aku7UEJPrVDzVQAG7yf) | [Nicaragua](https://open.spotify.com/artist/52xrPZ8EC64iktrGrmVa4B) | [Almost Home](https://open.spotify.com/album/523L2aobtB2ThLEzHpJLnb) | 3:13 |
 
-Snapshot ID: `MCxhNWJlMmE1NDAwNjNjMTRmYTkwODU2MWRiMDliZDczMzEyNDAyOWZl`
+Snapshot ID: `MCwyZjBjZGZhYjQ2MGZjZGU0MDNjNmY3N2NlYmZjNmVmMWUzMDcyMzQ4`

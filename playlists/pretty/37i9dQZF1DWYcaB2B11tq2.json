@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 367823,
+  "num_followers": 368011,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2M1NzgwMjc2NzYyNzdmOWVkNDQxOWQ3YjE5ZDU4MGMxOTM3ZWQ1",
+  "snapshot_id": "MCwzY2U4NmM5YTQ3NzY2ODE0ODk2NmYyMGM0MDBkMTQxN2VhNWM1NmJk",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 212523,
+      "name": "Cerca Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "GOZO",
         "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 237367,
       "name": "GOZO",
       "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 212523,
-      "name": "Cerca Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 189035,
+      "name": "No Hay Distancia",
+      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Speak Revival",
         "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 213159,
       "name": "En El Mar De Tu Gracia",
       "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 189035,
-      "name": "No Hay Distancia",
-      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 409217,
-      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 409217,
+      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+        "name": "Viene De Ti",
+        "url": "https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy"
       },
       "artists": [
         {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+      "duration_ms": 255537,
+      "name": "Viene De Ti",
+      "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Viene De Ti",
-        "url": "https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy"
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
         }
       ],
-      "duration_ms": 255537,
-      "name": "Viene De Ti",
-      "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         }
       ],
-      "duration_ms": 308253,
-      "name": "Abre hoy los cielos (feat. Evan Craft)",
-      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
     },
     {
       "added_at": "2021-05-21 19:19:27",

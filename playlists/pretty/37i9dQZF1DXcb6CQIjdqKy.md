@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=OAuYXYgLQl2x413WoI1onQ">Blessing Offor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,046 likes - 102 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,327 likes - 102 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 | 2 | [Holy](https://open.spotify.com/track/3QONaYEuKjD3IvYNIrMJud) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Holy](https://open.spotify.com/album/2SYm9yFCPu2K01oh1IBsZf) | 6:56 |
 | 3 | [Praise You Anywhere](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Praise You Anywhere](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 |
-| 4 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
+| 4 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 |
 | 5 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 6 | [Any More](https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More](https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp) | 3:08 |
 | 7 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 48 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 |
 | 49 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 |
 | 50 | [TENT REVIVAL \(feat\. D'Nar\)](https://open.spotify.com/track/5d90SkHPZcxWyr0EQzW9ki) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [D'Nar](https://open.spotify.com/artist/6WRb0UlH4FZ3Hpt2YlMKbA) | [Tent Revival](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 8:00 |
-| 51 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
+| 51 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
 | 52 | [Come In](https://open.spotify.com/track/7gXPEZH5f13ER9tYujntDa) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Four Walls](https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69) | 4:11 |
 | 53 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
 | 54 | [Authority \(In The Name Of Jesus\)](https://open.spotify.com/track/79KtTcgsfz4g4iPTUBpbRY) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Authority \(In The Name Of Jesus\)](https://open.spotify.com/album/1Jou40DQeSfLtqn9n5WMkW) | 3:02 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [Never Walk Alone \- Live At Team Night](https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Team Night \(Live\)](https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO) | 4:33 |
 | 102 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCxiZjg5NmMzMWU1ZTNmNjc0ZjUwYzUzNjY4MjdmMGUzZGE3YmUzMGIz`
+Snapshot ID: `MCxkZjc5NmQ5OTg1OTY2ZmU5MGFkZjIxZTc5YzgwYjQ2ZGQ3ZTg0OWE2`

@@ -4,7 +4,7 @@
 
 > La bande\-son de votre apéro\. Santé !
 
-136 songs - 8 hr 10 min
+137 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 | 2022-12-08 | 2023-04-29 |
 | [The Sun \- Yuksek Remix](https://open.spotify.com/track/1zaBd35OYaifEfAYFbJ2MP) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Sun \(Yuksek Remix\)](https://open.spotify.com/album/7HA3KBBhVLypwm1JtuGX2h) | 5:22 | 2023-06-09 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2022-12-08 |  |
-| [This Head I Hold](https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al) | 2:55 | 2023-02-24 |  |
+| [This Head I Hold](https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al) | 2:55 | 2023-02-24 | 2023-06-23 |
+| [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 | 2023-03-24 |  |
 | [To Let Myself Go](https://open.spotify.com/track/5ngEoEew3XmBNQO1cD9x2O) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:14 | 2023-01-04 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-12-08 |  |
 | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/track/6w8cza3O4lfQksOP94V2Qw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/album/7hFlZmAmRd64a8sh7MfQmv) | 3:21 | 2022-12-08 | 2023-02-25 |

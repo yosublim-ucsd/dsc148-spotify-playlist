@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Alice et Moi",
+  "description": "The best French indie tracks right now. Cover: Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 207946,
       "name": "Encore (with P\u00e1ula from PPJ)",
       "url": "https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 173183,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0PvDUG18CCUqrVTyK2aGkw"
@@ -2168,6 +2168,28 @@
       "duration_ms": 229067,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/28goX2uKr53LeijjP2waQV"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup"
     },
     {
       "album": {
@@ -2865,6 +2887,28 @@
     },
     {
       "album": {
+        "name": "L'an prochain",
+        "url": "https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Jules Jaconelli",
+          "url": "https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200097,
+      "name": "L'an prochain",
+      "url": "https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV"
+    },
+    {
+      "album": {
         "name": "L'Extase",
         "url": "https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy"
       },
@@ -3328,6 +3372,24 @@
       "duration_ms": 203893,
       "name": "Le soleil revient sans toi",
       "url": "https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu"
+    },
+    {
+      "album": {
+        "name": "Le Summerlove",
+        "url": "https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Le Summerlove",
+      "url": "https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6"
     },
     {
       "album": {
@@ -4301,6 +4363,28 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9"
+    },
+    {
+      "album": {
         "name": "Oiseau de Paradis",
         "url": "https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b"
       },
@@ -4330,7 +4414,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 185733,
       "name": "One Night",
       "url": "https://open.spotify.com/track/5cQrwTC10CgNEQAhxpNiKS"
@@ -4861,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Ready Baby",
+        "url": "https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Added",
+          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "Ready Baby",
+      "url": "https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -4894,7 +4996,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 167010,
       "name": "Reconnection",
       "url": "https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY"
@@ -5495,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0bfoUIARISlCk2tGnJFRhd"
+      },
+      "artists": [
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/7mJeABldzfdo4aBmTLYqPq"
+    },
+    {
+      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr"
       },
@@ -5712,7 +5832,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 158990,
       "name": "Teenage Dreamer",
       "url": "https://open.spotify.com/track/58bVQLGvGhWDzZSsqZtwtA"

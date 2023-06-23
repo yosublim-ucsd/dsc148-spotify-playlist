@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "Vlinders (Collignon Remix)",
+        "url": "https://open.spotify.com/album/0DONJ6LO4vFjtijjjnGXGM"
+      },
+      "artists": [
+        {
+          "name": "KOFFIE",
+          "url": "https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA"
+        },
+        {
+          "name": "COLLIGNON",
+          "url": "https://open.spotify.com/artist/48OTFVKJ0VEviIC2leEbXp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207292,
+      "name": "Vlinders - Collignon Remix",
+      "url": "https://open.spotify.com/track/49ST6EAK525PBdMXkzVa7m"
+    },
+    {
+      "album": {
         "name": "40 Buddha Lounge Essentials",
         "url": "https://open.spotify.com/album/6EDCQ5DKRNwkPpGnPmoTQK"
       },

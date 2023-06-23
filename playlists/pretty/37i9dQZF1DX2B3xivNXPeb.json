@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 32390,
+  "num_followers": 32401,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTg5M2M5ZTM0YjE4MTcwMjY3MGU5MTU0MDhjYmI5ZWMxNTQ3ZWVj",
+  "snapshot_id": "MCw4YWNmNzAzNjZhMzVkNDg1Zjg1ZmEwYjAxZjVjYTJiYWVkZjEzZWRk",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Got To Be Good",
         "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -943,38 +943,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
       },
@@ -991,6 +959,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "The Sweetest Peaches [Part One (1940-1966)]",
         "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 167426,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
     },
     {
       "added_at": "2023-06-16 14:02:21",

@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
+    },
+    {
+      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
       },
@@ -634,6 +652,32 @@
       "duration_ms": 209400,
       "name": "All of Your Love",
       "url": "https://open.spotify.com/track/5Uu64WdkSnJeQPatMwDEZy"
+    },
+    {
+      "album": {
+        "name": "All That She Wants (Axel Boman X Off The Meds Remix)",
+        "url": "https://open.spotify.com/album/3Au6S3ZAxiIZX9SpFhK8sX"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        },
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "Off The Meds",
+          "url": "https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "All That She Wants - Axel Boman X Off The Meds Remix",
+      "url": "https://open.spotify.com/track/4tmkNreV0nlayzaEOBwLJf"
     },
     {
       "album": {
@@ -804,6 +848,32 @@
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "album": {
+        "name": "Another Half",
+        "url": "https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Another Half",
+      "url": "https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW"
     },
     {
       "album": {
@@ -1079,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/5Z2G3UyMU3gboZgTpe0BGL"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/7o0gLCj1uAIkxPtmFx4oFt"
+    },
+    {
+      "album": {
         "name": "Beep",
         "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
       },
@@ -1148,6 +1236,28 @@
       "duration_ms": 183445,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4qzFpBw5XFOcy2a76DDwQK"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "FENGSEL",
+          "url": "https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153204,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp"
     },
     {
       "album": {
@@ -1596,7 +1706,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 201640,
       "name": "Boy In Blue",
       "url": "https://open.spotify.com/track/0VPUjs1EFo32DmV81Bu3Rq"
@@ -1800,7 +1910,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 168180,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/2XBRSeF884jyJw4jOf6eK4"
@@ -1876,7 +1986,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 144279,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/7GtZ2ht8C9DsSaliEEHyQL"
@@ -1974,7 +2084,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
@@ -2984,7 +3094,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
@@ -3744,7 +3854,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 184055,
       "name": "EVERYTHING - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3YHWHbD0sa31BmwdjNNtwH"
@@ -4054,7 +4164,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 106960,
       "name": "FIGHT!",
       "url": "https://open.spotify.com/track/5fxUkaEFs05qXwvimmPh7i"
@@ -4290,6 +4400,28 @@
       "duration_ms": 198000,
       "name": "Freedom - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4aFMIWocPMavFvaZsMZOgj"
+    },
+    {
+      "album": {
+        "name": "frenemy (with friends)",
+        "url": "https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "frenemy - Jacana People Remix",
+      "url": "https://open.spotify.com/track/2GbzMKA9Qnx2gCRqx3IcdE"
     },
     {
       "album": {
@@ -4574,6 +4706,28 @@
       "duration_ms": 140576,
       "name": "Give It All You Can",
       "url": "https://open.spotify.com/track/3NP1dSJQ9xZJ0VYBMlu3AE"
+    },
+    {
+      "album": {
+        "name": "give it back (feat. sir Was)",
+        "url": "https://open.spotify.com/album/4u7hAdEyd7mNczAsfjVBYP"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209284,
+      "name": "give it back (feat. sir Was)",
+      "url": "https://open.spotify.com/track/2xUhfHj289gLmDn41JhSpB"
     },
     {
       "album": {
@@ -5506,6 +5660,28 @@
       "duration_ms": 200375,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/4QZ4TuOBORzBr7dPuTaXkX"
+    },
+    {
+      "album": {
+        "name": "I've Been In Love",
+        "url": "https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169472,
+      "name": "I've Been In Love",
+      "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
     },
     {
       "album": {
@@ -6749,6 +6925,42 @@
     },
     {
       "album": {
+        "name": "Lucky Luke",
+        "url": "https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384425,
+      "name": "Lucky Luke",
+      "url": "https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
+    },
+    {
+      "album": {
         "name": "Lupins In Blue",
         "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
       },
@@ -7232,7 +7444,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 123680,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M"
@@ -7352,6 +7564,28 @@
       "duration_ms": 154000,
       "name": "Mystery Boy - Vegyn Remix",
       "url": "https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc"
+    },
+    {
+      "album": {
+        "name": "Need 4 Speed",
+        "url": "https://open.spotify.com/album/0cK3MaoFjVRkGk8Ej8WxVh"
+      },
+      "artists": [
+        {
+          "name": "jahanam",
+          "url": "https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa"
+        },
+        {
+          "name": "DJ HAYDN",
+          "url": "https://open.spotify.com/artist/4XC4oNp1V0YjK1Z4ryzaf2"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294123,
+      "name": "Need 4 Speed",
+      "url": "https://open.spotify.com/track/01F51oF3JauljiAek7Dp8O"
     },
     {
       "album": {
@@ -8501,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "Le Fruit Disco II",
+        "url": "https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "pomelo",
+      "url": "https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG"
+    },
+    {
+      "album": {
         "name": "Possibility",
         "url": "https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP"
       },
@@ -8910,7 +9162,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 322307,
       "name": "Retina Show - Unreleased Demo",
       "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
@@ -9074,6 +9326,28 @@
       "duration_ms": 269760,
       "name": "Robin",
       "url": "https://open.spotify.com/track/7e2mC2KBL71WFrYPjImfdg"
+    },
+    {
+      "album": {
+        "name": "Rose Thorn",
+        "url": "https://open.spotify.com/album/4k9kPwq3deQGYBScAmQ8xX"
+      },
+      "artists": [
+        {
+          "name": "Quartermaster",
+          "url": "https://open.spotify.com/artist/1MUakDk1Xh3bfow45GJR1o"
+        },
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Rose Thorn",
+      "url": "https://open.spotify.com/track/0rWC4m3Qd77v5vzkz9cAeN"
     },
     {
       "album": {
@@ -11610,7 +11884,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 285714,
       "name": "Voyage (feat. Amadou & Mariam)",
       "url": "https://open.spotify.com/track/7ochILP42boyfaJITMUMGF"
@@ -12126,7 +12400,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 211056,
       "name": "Work Hard Play Hard",
       "url": "https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL"

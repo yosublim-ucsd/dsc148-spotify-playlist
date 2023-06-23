@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4nkDUiMktkK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4nkDUiMktkK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nkDUiMktkK)
 
-### [Juice](https://open.spotify.com/playlist/37i9dQZF1DX4nkDUiMktkK)
+### [juice](https://open.spotify.com/playlist/37i9dQZF1DX4nkDUiMktkK)
 
 > Salute's got the juice
 
-58 songs - 3 hr 55 min
+63 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,16 +25,20 @@
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-06-08 |  |
 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 | 2023-06-08 |  |
 | [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 | 2023-06-08 |  |
+| [find my way](https://open.spotify.com/track/7HdAJwRrXTLx19MbX7qBWZ) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [find my way](https://open.spotify.com/album/2o80JchL9fhhi7CKGUJaoy) | 2:13 | 2023-06-22 |  |
 | [Find My Way Home](https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Find My Way Home](https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY) | 4:18 | 2023-06-08 |  |
 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 | 2023-06-08 |  |
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 |  |
 | [Foundation](https://open.spotify.com/track/5RWVwqbnqaddD5832YgTtr) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Blue Breeze](https://open.spotify.com/album/6V0vITSPGYans9CoyHkkVi) | 3:56 | 2023-06-08 |  |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-06-08 |  |
+| [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-06-22 |  |
 | [Get Loose \(On & On\)](https://open.spotify.com/track/62gS2FlhsVWjfqlc4L6RDD) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Get Up and Get Loose EP](https://open.spotify.com/album/2vnl795kZURRExbuFbJVRv) | 4:03 | 2023-06-08 |  |
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2023-06-08 |  |
+| [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-06-22 |  |
 | [IN2 THE SUCC / 30TH CENTURY STUNTMAN](https://open.spotify.com/track/1PStj2IgVh8PjKWUKKL3vR) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [IN2 THE SUCC / 30TH CENTURY STUNTMAN](https://open.spotify.com/album/59QiCCjSDmHpO6HRYegjfg) | 6:47 | 2023-06-08 |  |
 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 | 2023-06-08 |  |
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-06-08 |  |
+| [LIVE\-O \- Haai Remix](https://open.spotify.com/track/1KWoVLw43OxWMNuA7gS7WS) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [LIVE\-O \(HAAi remix\)](https://open.spotify.com/album/0CyDae0WkQmAu3LN6BrnLi) | 3:12 | 2023-06-22 |  |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2023-06-08 |  |
 | [Must Be Love \(feat\. Electric Fields\) \- jamesjamesjames Remix](https://open.spotify.com/track/5sjzYhFFK90kjuFFZxSUHn) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Must Be Love \(feat\. Electric Fields\) \[jamesjamesjames Remix\]](https://open.spotify.com/album/4AEC1lieDBlS4vBvY6EQT0) | 3:54 | 2023-06-08 |  |
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2023-06-08 |  |
@@ -62,6 +66,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-06-08 |  |
 | [Used To This \- ATRIP Remix](https://open.spotify.com/track/1kgYlYUXj9ZlyJt331ZmOE) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Used To This \(ATRIP Remix\)](https://open.spotify.com/album/65Gqz7HIqUVCMYTfRfqdAK) | 4:58 | 2023-06-08 |  |
 | [Wait For It](https://open.spotify.com/track/2jglQfaRM7oRHVj5uW18Pt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:59 | 2023-06-08 |  |
+| [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-06-22 |  |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2023-06-08 |  |
 | [When I'm With You feat\. Jasper Tygner](https://open.spotify.com/track/5Pw4s0mZgN1gzBrme5kdsB) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 6:22 | 2023-06-15 |  |
 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 | 2023-06-08 |  |

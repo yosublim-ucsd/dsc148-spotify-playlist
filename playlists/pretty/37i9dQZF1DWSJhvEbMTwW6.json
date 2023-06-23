@@ -1,12 +1,12 @@
 {
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "num_followers": 267798,
+  "num_followers": 268076,
   "original_name": "Cumbias de Microb\u00fas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTQ5ODY3ZWYwZjM0NWIwOGY5OWNiNWZjY2IyMzJlNDhjZWNkY2Rl",
+  "snapshot_id": "MCxmZjYyYzU5NDY3ODg3OWIwYzYwMWRjMGE3NGI4ZjNiNGY3NmMxOTZj",
   "tracks": [
     {
       "added_at": "2022-12-30 17:32:46",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
       },
       "artists": [
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 276559,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn"
+      "duration_ms": 239693,
+      "name": "Deja Una Rosa En Tu Balc\u00f3n",
+      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 276559,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
-        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Deja Una Rosa En Tu Balc\u00f3n",
-      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
         "name": "De Mil Maneras",
         "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 246733,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
         "name": "Los Mejores Hits del Ano",
         "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Mama Cumbia",
-      "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 249773,
       "name": "Nunca Pense Llorar",
       "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Mama Cumbia",
+      "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
         "name": "Grito En Silencio",
         "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
       },
@@ -1265,42 +1281,6 @@
       "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2023-01-10 20:32:03",
-      "album": {
-        "name": "Coraz\u00f3n Enamorado",
-        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
       "added_at": "2023-01-10 20:32:03",
       "album": {
         "name": "Nuestra Historia Termino",
@@ -1325,6 +1305,26 @@
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
+      "added_at": "2023-01-10 20:32:03",
+      "album": {
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+    },
+    {
       "added_at": "2022-12-30 17:32:46",
       "album": {
         "name": "Super Grupo Colombia - Aut\u00e9nticos Embajadores De La Cumbia",
@@ -1339,6 +1339,22 @@
       "duration_ms": 241083,
       "name": "Cumbia De Los Estados",
       "url": "https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
+        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mijez",
+          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
+        }
+      ],
+      "duration_ms": 229016,
+      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -1363,22 +1379,6 @@
       "duration_ms": 234706,
       "name": "Mi Cucu",
       "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
-        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mijez",
-          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
-        }
-      ],
-      "duration_ms": 229016,
-      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-30 17:32:46",
       "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Negrita",
+      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
+    },
+    {
+      "added_at": "2022-12-30 17:32:46",
+      "album": {
         "name": "Juntos Por La Sonora",
         "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 278120,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
-    },
-    {
-      "added_at": "2022-12-30 17:32:46",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Negrita",
-      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
     },
     {
       "added_at": "2022-12-30 17:32:46",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2023-01-10 20:32:03",
       "album": {
-        "name": "Versiones Unicas de los Reyes",
-        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
+        "name": "Eres Mi Angel",
+        "url": "https://open.spotify.com/album/2Pfa51z5BdtZQspttP9F2n"
       },
       "artists": [
         {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+          "name": "Los Piratas de Tony Mey",
+          "url": "https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl"
         }
       ],
-      "duration_ms": 279050,
-      "name": "Contigo Tengo Todo",
-      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
+      "duration_ms": 320211,
+      "name": "Eres Mi Angel",
+      "url": "https://open.spotify.com/track/7fROU4nxswpG1lJn0fwGTn"
     }
   ],
   "unique_name": "Cumbias de Microb\u00fas",

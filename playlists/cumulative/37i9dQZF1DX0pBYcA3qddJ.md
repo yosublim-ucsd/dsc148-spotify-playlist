@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-458 songs - 1 day 6 hr 39 min
+459 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [atoms:arpeggi](https://open.spotify.com/track/3bWs6s31PD86lrCnqCzIXg) | [カムパネルラ](https://open.spotify.com/artist/18SAolJ2AN8sWD4phnpUip) | [good night atoms](https://open.spotify.com/album/1NRIaCnYcCSEQVQeAW6pnv) | 5:15 | 2022-10-20 | 2022-11-30 |
 | [Babylonia](https://open.spotify.com/track/2A7oXmM3Xmiick54UNgtmB) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99) | [Babylonia](https://open.spotify.com/album/1De6SSZ08u82FIBspPG68M) | 2:46 | 2022-12-13 | 2023-02-15 |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-10 | 2023-04-10 |
-| [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 |  |
+| [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 | 2023-06-23 |
 | [Belief](https://open.spotify.com/track/4NEQrLQUbGX5XZtJzlXkgP) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:32 | 2023-02-28 | 2023-03-25 |
 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 | 2022-12-01 | 2023-02-01 |
 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 | 2022-12-01 | 2023-04-21 |
@@ -138,6 +138,7 @@
 | [Gnossiennes No.1](https://open.spotify.com/track/21xgZ4HM2fPswMVvVahr2D) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love](https://open.spotify.com/album/2Ape8tfPX4BpDqFyy2OGyU) | 3:26 | 2023-05-16 |  |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-10-20 | 2023-04-19 |
+| [Golden Hour \- Lo\-Fi Version](https://open.spotify.com/track/4xh1mfJdyqK1RQLQs7WlfP) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Golden Hour \(Lo\-Fi Version\)](https://open.spotify.com/album/2mpallq37vOil7hokhNpRT) | 3:27 | 2023-06-22 |  |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-26 |
 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 | 2022-10-20 |  |
 | [G線上のアリア\(Air\)](https://open.spotify.com/track/32aXWDVLpSqOnIEvBftq0Z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ikuko Kawai](https://open.spotify.com/artist/3Mn8t5WvKxtpW1vjxDjphD) | [The Melody \~100年の音楽\~](https://open.spotify.com/album/6qlcoQ2M33fJ9Y2Y7VW3kY) | 2:27 | 2022-10-20 | 2022-12-02 |

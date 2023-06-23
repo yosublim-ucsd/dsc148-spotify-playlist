@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-144 songs - 7 hr 59 min
+145 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |
 | [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |
-| [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 |  |
+| [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 | 2023-06-23 |
 | [GO STUPID](https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [GO STUPID](https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q) | 3:37 | 2022-12-08 | 2023-02-10 |
 | [Goodbye \(feat\. Xillions\) \- Crude Intentions & Dr\. Rude Remix](https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Goodbye \(feat\. Xillions\) \[Crude Intentions & Dr\. Rude Remix\]](https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq) | 2:55 | 2022-12-08 |  |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-03-30 |  |
@@ -101,6 +101,7 @@
 | [Out Of The Shadows](https://open.spotify.com/track/0wM5xMaTddQjAXkNcFBcrR) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Legends Of The Elite](https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3) | 3:42 | 2022-12-08 |  |
 | [Oxygen](https://open.spotify.com/track/4Zv3k5y4zJoxHGigSBH9wD) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Oxygen](https://open.spotify.com/album/2aphQrkNiXchNi9ian7Fj2) | 3:39 | 2022-12-08 | 2023-04-07 |
 | [Radar](https://open.spotify.com/track/1uDVbdOu9U824RnW5G1sON) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Radar](https://open.spotify.com/album/6zNZlpEXGGoLgkh8MfXZ89) | 2:43 | 2022-12-08 | 2022-12-16 |
+| [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-06-22 |  |
 | [Respawn](https://open.spotify.com/track/0fFwgoY1RTsZyC2lhKbzaZ) | [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp), [Voidax](https://open.spotify.com/artist/2JqPH5sGxBA5lDMUmO5uAE), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Respawn \(feat\. Robin Vane\)](https://open.spotify.com/album/3EJnAee0ffhaYemzufVDKv) | 3:38 | 2022-12-08 | 2023-04-14 |
 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 | 2023-06-01 |  |
 | [Rock Tha Party](https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Rock Tha Party](https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is) | 2:51 | 2022-12-22 |  |

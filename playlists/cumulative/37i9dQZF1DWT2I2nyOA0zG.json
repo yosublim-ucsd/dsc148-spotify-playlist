@@ -603,6 +603,32 @@
     },
     {
       "album": {
+        "name": "Beast Of Our Nation",
+        "url": "https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Tuzi",
+          "url": "https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198472,
+      "name": "Beast Of Our Nation",
+      "url": "https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH"
+    },
+    {
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu"
       },

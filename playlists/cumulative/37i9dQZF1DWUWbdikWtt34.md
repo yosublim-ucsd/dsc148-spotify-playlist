@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Sule
+> Dendang Dangdut teratas\. Cover: Iis Dahlia
 
-101 songs - 7 hr 44 min
+102 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Indah Pada Waktunya](https://open.spotify.com/track/2EPSzjMwz0sCVwx0GUYjYa) | [Dewi Perssik](https://open.spotify.com/artist/1mX7WgTa4SubvAy0uxThYp) | [Indah Pada Waktunya](https://open.spotify.com/album/3aVuf3v7nr5qlcrNpFJ6D2) | 4:41 | 2021-08-23 |  |
 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 | 2023-03-16 |  |
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
+| [Karena Cinta](https://open.spotify.com/track/7AaUPhQLNiEnWQyewSQKXy) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [Karena Cinta](https://open.spotify.com/album/7jcUXWfAU8Epw4051E8PZC) | 5:19 | 2023-06-22 |  |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2021-08-23 |  |
 | [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 |  |
 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 | 2021-08-23 |  |

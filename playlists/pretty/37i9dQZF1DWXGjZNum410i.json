@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de canciones pop para toda la familia.",
-  "num_followers": 46713,
+  "num_followers": 46730,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQ0NjgxNDI1ZDE1MTM1MjYwZmUwNzJjMThjMDAwZGE1ZTllZDM5",
+  "snapshot_id": "MCw1ZTMxZDhjNWJmYmYyZjZjMmU1NTFkYjM2YzJiYjI3NzMwMjIwMTE3",
   "tracks": [
     {
       "added_at": "2023-03-22 18:34:31",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-03-22 18:34:31",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+      "duration_ms": 227693,
+      "name": "Desde Esa Noche (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
     },
     {
       "added_at": "2023-03-22 18:34:31",
@@ -907,22 +911,18 @@
     {
       "added_at": "2023-03-22 18:34:31",
       "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Desde Esa Noche (feat. Maluma)",
-      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     }
   ],
   "unique_name": "Pop para Ni\u00f1os",

@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 119269,
+  "num_followers": 119347,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDVlYzc3MjdmZGQzOTkxMzU4YjdhMTVhNmEzYzUwYmU2MzllMjc5",
+  "snapshot_id": "MCw3ODUxMTIxM2MyMGQzYzIyOWY0MTc2Y2Y5ZThmZWFhZjJkMjZlNzU2",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Da' Take Over",
-        "url": "https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "Ayer La Vi",
-      "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "El Amor Manda",
         "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Da' Take Over",
+        "url": "https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "Ayer La Vi",
+      "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 274906,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Sue\u00f1os de Juventud",
         "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 335751,
       "name": "\u00c1mame Como Soy (En Vivo)",
       "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
     },
     {
       "added_at": "2022-05-06 18:32:26",

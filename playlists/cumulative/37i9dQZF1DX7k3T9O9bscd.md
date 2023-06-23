@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-283 songs - 22 hr 53 min
+284 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 | 2021-11-12 |  |
 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 | 2023-03-16 |  |
 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-03-23 |  |
-| [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 |  |
+| [At Night in Dreams](https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj) | 4:04 | 2021-11-12 |  |
+| [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 | 2023-06-23 |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
 | [Back to Land](https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/1VyWvAkunNZTJ0PCUv81dj) | 5:17 | 2021-11-12 | 2022-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 34474,
+  "num_followers": 34507,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFiNWYxMDIwMzM5NTg3YTVkYjAxMDFjYzZhZDEyZDNmYWZjMjVh",
+  "snapshot_id": "MCwyOWIxOTRlYjEzYjI1OTMyNzg3OWE4MDZmYzQwZGJkMDQzNDFiNjdk",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 102200,
-      "name": "Palmera",
-      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Bossa Nova Is Not A Crime",
         "url": "https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 441933,
       "name": "Kind Of Latin Rhythm",
       "url": "https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 102200,
+      "name": "Palmera",
+      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
-        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9z",
-          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
-        },
-        {
-          "name": "Tintan",
-          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Endangered Species Remixed",
         "url": "https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 260000,
       "name": "Mi Swing es Tropical - Zeb Remix",
       "url": "https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
+        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9z",
+          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
+        },
+        {
+          "name": "Tintan",
+          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
       "added_at": "2022-09-30 03:45:40",
       "album": {
         "name": "Formose\u00f1a",
@@ -963,22 +979,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Banda de los Muertos",
         "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 187440,
       "name": "Ay Mexicanita",
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1023,6 +1007,22 @@
       "duration_ms": 270066,
       "name": "Chicharrones",
       "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "The Power of the Latin Music",
-        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+        "name": "Echu Mingua",
+        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+          "name": "Ang\u00e1 Diaz",
+          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Mambo Los Quantic",
-      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+      "duration_ms": 349973,
+      "name": "A Love Supreme",
+      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1495,18 +1491,38 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Echu Mingua",
-        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
+        "name": "The Power of the Latin Music",
+        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
       },
       "artists": [
         {
-          "name": "Ang\u00e1 Diaz",
-          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
         }
       ],
-      "duration_ms": 349973,
-      "name": "A Love Supreme",
-      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
+      "duration_ms": 283973,
+      "name": "Mambo Los Quantic",
+      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 \u00c9xitos de los Zafiros",
+        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
+      },
+      "artists": [
+        {
+          "name": "Los Zafiros",
+          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Bossa Cubana",
+      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1539,22 +1555,6 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "15 \u00c9xitos de los Zafiros",
-        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
-      },
-      "artists": [
-        {
-          "name": "Los Zafiros",
-          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
-        }
-      ],
-      "duration_ms": 152027,
-      "name": "Bossa Cubana",
-      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
       "added_at": "2020-05-28 20:45:13",

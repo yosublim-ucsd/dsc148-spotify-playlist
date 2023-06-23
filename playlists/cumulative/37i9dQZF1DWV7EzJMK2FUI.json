@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 228628,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3"
@@ -2583,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "Confusion",
+        "url": "https://open.spotify.com/album/4sejLrOmf7ooG9OK3y9sHm"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189835,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be"
+    },
+    {
+      "album": {
         "name": "Constantly Changing",
         "url": "https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ"
       },
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 139566,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0"
@@ -3794,7 +3812,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 205261,
       "name": "Fields of Home",
       "url": "https://open.spotify.com/track/79XZYbexRnaHO7cf5nJZZw"
@@ -5074,6 +5092,24 @@
       "duration_ms": 210292,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
+    },
+    {
+      "album": {
+        "name": "I Miss Springtime",
+        "url": "https://open.spotify.com/album/2bNLsRn94jng7xhCLcQbni"
+      },
+      "artists": [
+        {
+          "name": "The Vanguard Trio",
+          "url": "https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304874,
+      "name": "I Miss Springtime",
+      "url": "https://open.spotify.com/track/2kUFwoDR0TidKgLBZE2JLo"
     },
     {
       "album": {
@@ -7045,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "Linda\u00b4s Dream",
+        "url": "https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ"
+      },
+      "artists": [
+        {
+          "name": "Nordic Light Trio",
+          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Linda\u00b4s Dream",
+      "url": "https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp"
+    },
+    {
+      "album": {
         "name": "Litania",
         "url": "https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR"
       },
@@ -7240,6 +7294,24 @@
       "duration_ms": 205377,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5"
+    },
+    {
+      "album": {
+        "name": "Flying Over a River",
+        "url": "https://open.spotify.com/album/7a9VUoUDCJcXaaNun1zYOw"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304961,
+      "name": "Long Time No See",
+      "url": "https://open.spotify.com/track/5A3TO8M1uLEyT2IIn9vnbY"
     },
     {
       "album": {
@@ -7860,6 +7932,24 @@
       "duration_ms": 285694,
       "name": "Memories Of You",
       "url": "https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se"
+    },
+    {
+      "album": {
+        "name": "Merlin",
+        "url": "https://open.spotify.com/album/3o9MpniO7oWOTkqG7flZcv"
+      },
+      "artists": [
+        {
+          "name": "The City of Birches",
+          "url": "https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229088,
+      "name": "Merlin",
+      "url": "https://open.spotify.com/track/144JSdyWRjhqf0FpJjm6sf"
     },
     {
       "album": {
@@ -12088,7 +12178,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 203030,
       "name": "The Beat Of A Different Drum",
       "url": "https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ"
@@ -13698,7 +13788,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 223724,
       "name": "What Could've Been",
       "url": "https://open.spotify.com/track/2bfmkWvP7dKxPMPqQR628T"

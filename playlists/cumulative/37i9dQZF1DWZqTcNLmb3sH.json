@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 221680,
       "name": "All The Ladies",
       "url": "https://open.spotify.com/track/5LvEjsGOEfwvI007GyFd9i"
@@ -3539,6 +3539,28 @@
     },
     {
       "album": {
+        "name": "Dhaga Dhaga (from \"Baang\")",
+        "url": "https://open.spotify.com/album/5RfWt52snyaPdKN6WFa0lu"
+      },
+      "artists": [
+        {
+          "name": "Chethan Gandharva",
+          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
+        },
+        {
+          "name": "Charvi Muralidha",
+          "url": "https://open.spotify.com/artist/3VbASnHNP1NkxYaIN52rDL"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204819,
+      "name": "Dhaga Dhaga (from \"Baang\")",
+      "url": "https://open.spotify.com/track/1owLlr4yO68aumRNQ2gMwp"
+    },
+    {
+      "album": {
         "name": "Dhage Uriva Hagalinali (From \"Bisilu Kudure\")",
         "url": "https://open.spotify.com/album/4ZkIyPzYu680mfrN5XPs2g"
       },
@@ -3754,6 +3776,24 @@
       "duration_ms": 242019,
       "name": "Dhoom Dhaam (From \"Dasara\")",
       "url": "https://open.spotify.com/track/3HVIR7cjV6d3H33s5U1D10"
+    },
+    {
+      "album": {
+        "name": "Dhoomam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289939,
+      "name": "Dhoomam Title Song (Kannada)",
+      "url": "https://open.spotify.com/track/0I1PahoPc90Isp0wSUHSec"
     },
     {
       "album": {
@@ -4476,6 +4516,28 @@
       "duration_ms": 316001,
       "name": "Enthaha Mysore (From \"Barisu Kannada Dindimava\")",
       "url": "https://open.spotify.com/track/6xKriaoqsLOY6CWFxkBOam"
+    },
+    {
+      "album": {
+        "name": "Dhoomam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262143,
+      "name": "Enu Maadide",
+      "url": "https://open.spotify.com/track/7oMXEQ4k3eKJzX8DJUZbTr"
     },
     {
       "album": {
@@ -13238,7 +13300,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 288913,
       "name": "Poovonji Porlu",
       "url": "https://open.spotify.com/track/3XTg8t9CukGsZjhTfdDNcH"
@@ -16356,7 +16418,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 283500,
       "name": "Yaare Yaare Ninna Hettolu",
       "url": "https://open.spotify.com/track/773Jl3MXHN57zm07DZSOmG"

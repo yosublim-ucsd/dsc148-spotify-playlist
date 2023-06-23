@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring DROELOE",
-  "num_followers": 754626,
+  "num_followers": 754733,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjE4MjdmNjQxZmMzNGIzMTkzN2JmODE2NzdlN2EwMGU1OWU2YmY5",
+  "snapshot_id": "MCw3OWU0Mjc2ZDUxZjIzMzNjMjM5YzAyM2Q1MjJmOWI3ZmJkYTI1OTIz",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         }
       ],
-      "duration_ms": 169050,
-      "name": "Feelings Plain",
-      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1055,18 +1055,38 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
       "artists": [
         {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+      "duration_ms": 169050,
+      "name": "Feelings Plain",
+      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "IDFLU",
+        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "IDFLU",
+      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1095,22 +1115,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "IDFLU",
-        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
       },
       "artists": [
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         },
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
         }
       ],
-      "duration_ms": 172235,
-      "name": "IDFLU",
-      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
+      "duration_ms": 167619,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1151,26 +1171,6 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Torture Me (feat. Skrillex)",
-      "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -1263,18 +1243,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 287546,
-      "name": "No Other 1.2.2 [2021 Export Wav]",
-      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
+      "duration_ms": 113493,
+      "name": "Torture Me (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Loner (Remixes)",
-        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "Forever - Pauline Herr Rework",
-      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 190285,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Forever - Pauline Herr Rework",
+      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Run Away!",
+        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Run Away!",
+      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "A Mere Blip In Your Timeline",
         "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 200759,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/0UyMWzjPTnEaEEIkDtKKBW"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Run Away!",
-        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Run Away!",
-      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
       },
@@ -1763,18 +1779,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+        "name": "TALK2MUCH",
+        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
       },
       "artists": [
         {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
         }
       ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+      "duration_ms": 133846,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1823,22 +1839,6 @@
       "duration_ms": 207619,
       "name": "DOWN TO EARTH",
       "url": "https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "TALK2MUCH",
-        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "JIYO",
-        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Chitralekha Sen",
-          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
-        }
-      ],
-      "duration_ms": 247619,
-      "name": "JIYO",
-      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Ironheart (Polar Youth Remix)",
         "url": "https://open.spotify.com/album/19cjBBZTh2IX7yBnhRDcqB"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 159769,
       "name": "Ironheart - Polar Youth Remix",
       "url": "https://open.spotify.com/track/4rBYV0MKhwAag98L13goF0"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "JIYO",
+        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Chitralekha Sen",
+          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
+        }
+      ],
+      "duration_ms": 247619,
+      "name": "JIYO",
+      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 284444,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/2gsTzLveD0urryDTcY1Lto"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 111473,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 284444,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "UNI(*)N",
         "url": "https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X"
       },
@@ -2327,6 +2311,38 @@
       "duration_ms": 169032,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/3OuOeSwZvd51cx78yuUXJA"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "LOVELY2*",
+        "url": "https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 155806,
+      "name": "lovely2*",
+      "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2399,22 +2415,6 @@
       "duration_ms": 212533,
       "name": "Exmachina",
       "url": "https://open.spotify.com/track/1EMXFlcch8mGEX8nziVx1R"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "LOVELY2*",
-        "url": "https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 155806,
-      "name": "lovely2*",
-      "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
     },
     {
       "added_at": "2023-06-16 04:01:00",

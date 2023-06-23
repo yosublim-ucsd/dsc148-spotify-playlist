@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Sprints",
-  "num_followers": 49198,
+  "num_followers": 49208,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmVhMDIyMGRiNGI2Yzg0Nzc4YmNlOWI0NTJkMzcyODQ4OWMxZWYy",
+  "snapshot_id": "MCxlOWY0YzUyMmVjMmY2MmFlMGM2NzM0MDFmMWRjOGM4OWQ0OGUyM2Ix",
   "tracks": [
     {
       "added_at": "2023-06-20 22:15:09",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
-        "name": "Cry To Heaven",
-        "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 269260,
-      "name": "Cry To Heaven",
-      "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
         "name": "How To Live With Yourself / Smoke Screen",
         "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165173,
       "name": "How To Live With Yourself",
       "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
+        "name": "Cry To Heaven",
+        "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 269260,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 219133,
       "name": "Knees Deep",
       "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 232058,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
-        "name": "Here's What You Could Have Won",
-        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -815,34 +815,18 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -859,6 +843,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
-        "name": "Girl God Gun",
-        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "Girl God Gun",
-      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
-        "name": "Cry Your Eyes Out",
-        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+        "name": "All The Problems",
+        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
       "artists": [
         {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
         }
       ],
-      "duration_ms": 147475,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
+      "duration_ms": 176907,
+      "name": "All The Problems",
+      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2023-06-20 22:15:09",
       "album": {
-        "name": "All The Problems",
-        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
+        "name": "Cry Your Eyes Out",
+        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
       },
       "artists": [
         {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
         }
       ],
-      "duration_ms": 176907,
-      "name": "All The Problems",
-      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
-    },
-    {
-      "added_at": "2023-06-20 22:15:09",
-      "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 177510,
-      "name": "I HATE ME TOO",
-      "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
+      "duration_ms": 147475,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
     },
     {
       "added_at": "2023-06-20 22:15:09",
@@ -1263,6 +1247,22 @@
       "duration_ms": 160185,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2023-06-20 22:15:09",
+      "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 177510,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
     },
     {
       "added_at": "2023-06-20 22:15:09",

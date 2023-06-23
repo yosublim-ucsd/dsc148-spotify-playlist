@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-1,615 songs - 3 day 16 hr 22 min
+1,616 songs - 3 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [8th & 84th](https://open.spotify.com/track/47hxf1MdjagjBgSn5ZzCrD) | [Coolhand Jax](https://open.spotify.com/artist/3mBQ1OduOz1oBNlwzGucll) | [8th & 84th](https://open.spotify.com/album/1rcqNK8L8VghcLGq0dLK1x) | 2:59 | 2023-05-03 | 2023-06-08 |
 | [9/10](https://open.spotify.com/track/3oVJlt8KOIh6soEBp0DSuR) | [Keyboard Dog](https://open.spotify.com/artist/2nF1Bu7mDkYoeEYt02OU8z) | [9/10](https://open.spotify.com/album/6s5QGDRXgsjaEAcQsaEJh6) | 3:23 | 2022-03-30 | 2022-04-27 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-10 |  |
+| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-22 |  |
 | [A Fragile Bond](https://open.spotify.com/track/6UAgS6EGeKPFSRYEpA2Pxs) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [A Fragile Bond](https://open.spotify.com/album/0KwSDitducdOakCI4gGxy5) | 2:51 | 2023-06-21 |  |
 | [A Good Thing](https://open.spotify.com/track/5dfk2VE5UZmTozX8QeClYf) | [Kyle Stibbs](https://open.spotify.com/artist/6vcLlcsPltiXegQJUnoNob) | [A Good Thing](https://open.spotify.com/album/4e64s6OyiTrQ9Zzd8itH0D) | 1:59 | 2022-04-12 | 2022-04-27 |
 | [A Heart Beating](https://open.spotify.com/track/03dDrBv8W6NyPI1XTMkVe9) | [Mother Tongues](https://open.spotify.com/artist/5hSQzNi3OjFwQmAfkrYTdz) | [A Heart Beating](https://open.spotify.com/album/0Sya0ufUWUYAfuBPEi1bkb) | 2:30 | 2023-04-19 | 2023-05-18 |
@@ -971,7 +972,7 @@
 | [Nation Under Creep](https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm) | [NGHTCRWLR](https://open.spotify.com/artist/1bQ9FRvrR3XQSppwJiQCMl) | [Let The Children Scream](https://open.spotify.com/album/14H2rmBLU6VxXpNfdpRh1z) | 3:43 | 2023-02-08 | 2023-03-05 |
 | [Navy](https://open.spotify.com/track/0p78PlvKfZtcNuFoGI00Eo) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 3:34 | 2021-12-01 | 2022-01-13 |
 | [Need](https://open.spotify.com/track/1qIEg864PzqjaMrkbYHBUL) | [Jake Harrison](https://open.spotify.com/artist/6OWw1Xd2V0N7Uz06R1XYzZ) | [Need](https://open.spotify.com/album/1OMUBawCXmptaSx0WILwpG) | 4:24 | 2023-02-15 | 2023-03-23 |
-| [Need to Know](https://open.spotify.com/track/6Vty4QyVDWmO5xraSbdb9i) | [Jonny Channels](https://open.spotify.com/artist/6tm9f2abcM0liY1mZGeTVX) | [Need to Know](https://open.spotify.com/album/24g7N7cApVwd0XRffVa6to) | 2:36 | 2023-06-02 |  |
+| [Need to Know](https://open.spotify.com/track/6Vty4QyVDWmO5xraSbdb9i) | [Jonny Channels](https://open.spotify.com/artist/6tm9f2abcM0liY1mZGeTVX) | [Need to Know](https://open.spotify.com/album/24g7N7cApVwd0XRffVa6to) | 2:36 | 2023-06-02 | 2023-06-23 |
 | [Need You Like](https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Need You Like](https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47) | 2:02 | 2023-03-08 | 2023-03-29 |
 | [Nepotism Babies](https://open.spotify.com/track/4vOc0Hyamm6HUDNOLKssiQ) | [daphne ellen](https://open.spotify.com/artist/3AZJM8w3NwroIyzN99KyPI) | [Nepotism Babies](https://open.spotify.com/album/31GopirZ5kskQFQHhDvY5e) | 2:56 | 2023-01-25 | 2023-02-09 |
 | [Never Been so Fine](https://open.spotify.com/track/6DHOd5WttU8RvcHfqoUZhl) | [King Ibis](https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb) | [Never Been so Fine](https://open.spotify.com/album/2VLOseHIDCAT6X77ElkODy) | 4:03 | 2022-08-10 | 2022-09-29 |

@@ -2,7 +2,7 @@
 
 ### [90s ALTERNATIVE ROCK \| TOP 100 SONGS](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
-> The ultimate 90s alt rock playlist featuring Foo Fighters, Pearl Jam, Rage Against the Machine &amp; more!
+> 1990s alt rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus \| system of a down \| wheatus
 
 100 songs - 6 hr 35 min
 

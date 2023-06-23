@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 43942,
+  "num_followers": 43973,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWM2NjNkODQ5MDhlYjNhNGEwMzJlZThmNzJlMjZmZjNjN2YwYTZi",
+  "snapshot_id": "MCxjMzFmNGM2MjUzNDk3N2Y2ZjgxODg0ZjFlZjk1MjcxYzc1NTM2MGNk",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+      },
+      "artists": [
+        {
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+        }
+      ],
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
-      },
-      "artists": [
-        {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
-        }
-      ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Languid Gongue",
         "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Probe 6-8",
         "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "St / Fr / Sp",
         "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 304093,
       "name": "Starethrough - Transition Mix",
       "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
-      },
-      "artists": [
-        {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
+      },
+      "artists": [
+        {
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Sleep to Dream",
         "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Scene Memory 2",
-        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
       "artists": [
         {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 186774,
-      "name": "Alternations",
-      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 442500,
       "name": "Raum - Single Edit",
       "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Scene Memory 2",
+        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+      },
+      "artists": [
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "duration_ms": 186774,
+      "name": "Alternations",
+      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
     }
   ],
   "unique_name": "Modular Synths",

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. alt blk era
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. scarlxrd
 
-561 songs - 1 day 2 hr 31 min
+562 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [arsonists](https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [arsonists](https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw) | 2:30 | 2022-10-13 | 2023-01-22 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 | 2022-09-09 |
 | [ATTENTION!](https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 | 2022-12-16 | 2023-03-10 |
+| [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 | 2023-06-22 |  |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-04-19 | 2022-09-23 |
 | [bad luck](https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [bad luck](https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub) | 2:49 | 2022-01-05 | 2022-02-13 |
 | [bad things](https://open.spotify.com/track/51DVbtD1BziDPKP0kbHcQN) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things](https://open.spotify.com/album/5P2ahNLmrGy9JHJEJgkjon) | 2:01 | 2022-04-28 | 2022-08-05 |
@@ -316,7 +317,7 @@
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
 | [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 | 2023-02-10 |  |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
-| [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 | 2023-04-27 |  |
+| [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 | 2023-04-27 | 2023-06-23 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 |  |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 | 2022-12-01 |
 | [LOTTO BOY](https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI), [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt) | [LOTTO BOY](https://open.spotify.com/album/3a7bN2cMrozuYGKdVJI20V) | 3:07 | 2023-02-10 | 2023-03-10 |

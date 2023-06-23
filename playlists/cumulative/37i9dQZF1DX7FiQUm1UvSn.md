@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-120 songs - 6 hr 24 min
+122 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,16 +72,18 @@
 | [In My Feelings](https://open.spotify.com/track/2G9F7BdGv3bx8gcqTz1gOx) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [In My Feelings](https://open.spotify.com/album/7cx8CApFaL6tWwntWVP46g) | 2:50 | 2023-01-13 |  |
 | [Intentions](https://open.spotify.com/track/62rdJywT2r3EAi1KHtw1DA) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions](https://open.spotify.com/album/1wPfFwfubrduYPOBeLefN0) | 2:52 | 2023-01-13 |  |
 | [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2023-01-13 | 2023-04-01 |
-| [Iris](https://open.spotify.com/track/6E6OwPVfP85uS119yFg1WZ) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Iris](https://open.spotify.com/album/63WqFGONvmwiJATGOZHrK2) | 2:30 | 2023-01-13 |  |
+| [Iris](https://open.spotify.com/track/6E6OwPVfP85uS119yFg1WZ) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Iris](https://open.spotify.com/album/63WqFGONvmwiJATGOZHrK2) | 2:30 | 2023-01-13 | 2023-06-23 |
 | [Iris](https://open.spotify.com/track/7hGfipTkKQBlNGkkPcDP0S) | [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Iris](https://open.spotify.com/album/0lasBOc231LE9dk715ccdS) | 2:47 | 2023-01-13 |  |
 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 | 2023-01-13 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2023-01-13 |  |
 | [Kiss Me](https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Kiss Me](https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2) | 2:43 | 2023-01-13 |  |
 | [Landslide](https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK) | 3:38 | 2023-01-13 |  |
+| [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-13 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2023-01-13 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/0U8jEPi2k3UZqHK0jvzEe0) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Let Me Down Slowly](https://open.spotify.com/album/13m8lRDEDFZt7uoCqeCbZq) | 2:40 | 2023-01-13 |  |
 | [Let Me Love You](https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Let Me Love You](https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd) | 3:11 | 2023-05-12 |  |
+| [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 | 2023-06-22 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-13 |  |
 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 | 2023-01-13 |  |
 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 | 2023-01-13 |  |

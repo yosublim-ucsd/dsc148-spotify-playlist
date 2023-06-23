@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-176 songs - 11 hr 23 min
+178 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,10 +148,12 @@
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2022-05-27 |  |
 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 | 2022-05-27 | 2023-02-01 |
 | [Thấy Chưa](https://open.spotify.com/track/4CjJf5bzvv5ZuLf2FJqlWY) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Thấy Chưa](https://open.spotify.com/album/3QTBFsCemkGKAHoYrqbhUZ) | 3:54 | 2022-09-06 | 2022-09-15 |
+| [Thằng Điên](https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Thằng Điên](https://open.spotify.com/album/0t2YXNqz7bv7n6mPorj8HC) | 3:54 | 2023-06-22 |  |
 | [Thị Mầu](https://open.spotify.com/track/2Nwi8X3bmgKU1zMQUsDTah) | [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thị Mầu](https://open.spotify.com/album/4cS8GtTlS8Q5SKrITbIvVB) | 3:25 | 2023-03-17 | 2023-03-30 |
 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 | 2022-05-27 |  |
 | [tiny love](https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [tiny things](https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA) | 2:38 | 2022-05-27 |  |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-05-27 | 2022-06-21 |
+| [Trước Khi Em Tồn Tại](https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 3:14 | 2023-06-22 |  |
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 |  |
 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2022-12-14 |  |
 | [Tình Yêu Đến Sau](https://open.spotify.com/track/1ISenZ6rcvWJHsBlW5kymp) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tình Yêu Đến Sau](https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A) | 4:31 | 2022-11-26 | 2023-02-13 |
@@ -170,7 +172,7 @@
 | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC) | [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op) | 4:21 | 2022-06-15 | 2022-08-01 |
 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 | 2023-05-02 | 2023-05-30 |
 | [Waiting For You](https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 4:25 | 2022-09-11 | 2023-03-09 |
-| [Xin Lỗi](https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:07 | 2023-05-04 |  |
+| [Xin Lỗi](https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:07 | 2023-05-04 | 2023-06-23 |
 | [Yêu Một Người Có Lẽ](https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Yêu Một Người Có Lẽ](https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb) | 4:13 | 2022-06-07 | 2023-02-09 |
 | [Yêu Người Có Ước Mơ](https://open.spotify.com/track/2VHXCihhlSC2lUFoCaemRN) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 6\)](https://open.spotify.com/album/21hdhN4ANjq7TpqIr4UZmw) | 4:43 | 2022-11-20 | 2023-01-12 |
 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-27 |  |

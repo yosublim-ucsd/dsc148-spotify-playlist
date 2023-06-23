@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 419680,
+  "num_followers": 419827,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmY0MTZlZGQ3MTdhNjI3OWIwNzc4NzdjOTZiMzE2MjIwOGEzMjgz",
+  "snapshot_id": "MCxhZTExMGQzMmJlYWVlMmYyZjhlY2EyY2JlY2Y1MjQ4NDExOGUyZjlk",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -419,8 +419,8 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Um Erro (Malifoo, Voltech Remix)",
+        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Um Erro (Malifoo, Voltech Remix)",
+      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Telegrama (Double MZK Remix)",
         "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 228661,
       "name": "Toda Forma De Amor - Remix",
       "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Um Erro (Malifoo, Voltech Remix)",
-        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Um Erro (Malifoo, Voltech Remix)",
-      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "A Dois Passos do Para\u00edso",
-        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
-      },
-      "artists": [
-        {
-          "name": "SoFly",
-          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
-        },
-        {
-          "name": "Duckhandz",
-          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "A Dois Passos do Para\u00edso",
-      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 199895,
       "name": "Lay Your Head On Me (feat. Marcus Mumford)",
       "url": "https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "A Dois Passos do Para\u00edso",
+        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
+      },
+      "artists": [
+        {
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+        },
+        {
+          "name": "Duckhandz",
+          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "A Dois Passos do Para\u00edso",
+      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -2,7 +2,7 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New Indie driving the current, every week.
+> New indie driving the current\. Cover: hemlocke springs
 
 341 songs - 17 hr 58 min
 

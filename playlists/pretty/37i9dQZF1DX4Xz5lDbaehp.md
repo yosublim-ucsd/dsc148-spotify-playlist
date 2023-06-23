@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,177 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,175 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 47 | [murder party](https://open.spotify.com/track/3pDmOyJZqUPrlnarAZQzaf) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [murder party](https://open.spotify.com/album/4Vp5yxgEgdMR3hkboUyRIs) | 2:17 |
 | 48 | [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 |
 | 49 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
-| 50 | [Superstar](https://open.spotify.com/track/5Vh9t1vLFVmsITgWQxBQB7) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [We're all gonna die, but here's my contribution](https://open.spotify.com/album/77tLO7JjvrESbaB1jkjwlS) | 2:52 |
+| 50 | [Superstar](https://open.spotify.com/track/3q0BojRZZviq6cWhP9yXFL) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4tnE7sBNoUsw7C3n4DZdlA) | 2:52 |
 | 51 | [Pink Slips](https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Pink Slips](https://open.spotify.com/album/0HSukgQ6gAyNJmTfXJAeVW) | 3:12 |
 | 52 | [Butterfly](https://open.spotify.com/track/4BeYJ0wIwouR1RgEWqkOwB) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/2YO1qD5UtT9U5FDDeesuWE) | 3:48 |
 | 53 | [soda stain](https://open.spotify.com/track/77GEf9fKSwqfxM26VJs7UK) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [soda stain](https://open.spotify.com/album/1Gn1TB1BRQC0UI5nfCdWKB) | 1:56 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCw1YWNkOTZkNDVmYzUwZDM5NDhlNGE4YzZlZmM2YTk4YTU3YjU2NTc0`
+Snapshot ID: `MCwyODIxN2M5ZDBmMGI3YjM5ODU0OTA0N2UwNjFjMTc4NTVjOWE0N2Q2`

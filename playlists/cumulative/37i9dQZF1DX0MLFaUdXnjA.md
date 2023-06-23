@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Laufey
 
-1,288 songs - 2 day 20 hr 54 min
+1,290 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,7 +1073,8 @@
 | [Summer Love](https://open.spotify.com/track/1gM0zfV5YSx18ubUMwC3U7) | [Kylie Dailey](https://open.spotify.com/artist/0lC97iGj9XViueKd9WERw4) | [Summer Love](https://open.spotify.com/album/0Ic4Ta0FGfXr39Yq23zGN5) | 3:36 | 2022-08-19 | 2022-10-15 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-19 | 2022-07-09 |
 | [Summer Nights](https://open.spotify.com/track/2BGNgzaQhHvYQI6ScIDZrr) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Summer Nights](https://open.spotify.com/album/4VLeSnqSMrRCUP8glsJHab) | 2:21 | 2021-05-22 | 2021-12-11 |
-| [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 |  |
+| [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 | 2023-06-23 |
+| [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 | 2023-06-16 |  |
 | [Sunday](https://open.spotify.com/track/3TuT7FEUpGsgSWdol7LXPA) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Breathing into Bloom](https://open.spotify.com/album/5eockBcRNJDpmFtuLdzVDg) | 2:47 | 2022-05-06 | 2022-06-11 |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-19 | 2023-04-01 |
 | [Sundress](https://open.spotify.com/track/5nSmkSelscJ012AJIO7YJQ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Sundress](https://open.spotify.com/album/4DzOBTCX4jZT1vyqIft11k) | 2:43 | 2021-03-19 | 2021-06-26 |
@@ -1107,7 +1108,8 @@
 | [Temporary](https://open.spotify.com/track/2XvjJCTvgmV9rd4ZHImBfc) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0) | [Temporary](https://open.spotify.com/album/4Qghl3DP17dDl14pvXCrJ9) | 3:13 | 2021-04-03 | 2021-05-15 |
 | [tendency to be a loner](https://open.spotify.com/track/0PzwDnvMKSBmAw8zrZhf11) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [tendency to be a loner](https://open.spotify.com/album/3LOgsvdQ5sXeAFLYxvYiov) | 3:16 | 2021-05-15 | 2021-07-04 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2023-02-17 |  |
-| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
+| [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-06-16 |  |
+| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 | 2023-06-23 |
 | [Thank You \- Spotify Singles](https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:21 | 2022-08-26 | 2023-03-18 |
 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 | 2023-04-14 |  |
 | [that friend](https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [that friend](https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh) | 3:00 | 2021-07-04 | 2021-10-02 |

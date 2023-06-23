@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 195762,
+  "num_followers": 195810,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzRhZTM4M2Y2YjlkZDJlZTFlZDI3YTQ1MjczOTZkMDQyMWQxYzQ0",
+  "snapshot_id": "MCwxN2QwOTg4MjE0YWUwNzZhZjlkMzkyZDNkNDEyNGZkYTZmNWU4ZWVi",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 226155,
-      "name": "Beautiful (feat. India.Arie)",
-      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
       },
@@ -515,6 +495,22 @@
       "duration_ms": 210372,
       "name": "Dancing in the Minefields",
       "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Will Have the Final Word",
+        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "With Every Act of Love",
+      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Will Have the Final Word",
-        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
         }
       ],
-      "duration_ms": 216453,
-      "name": "With Every Act of Love",
-      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+      "duration_ms": 226155,
+      "name": "Beautiful (feat. India.Arie)",
+      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Your Love Is Strong",
-      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love in the West",
         "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Your Love Is Strong",
+      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "It's Our Time",
         "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 221979,
       "name": "It's Our Time",
       "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -687,22 +703,6 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Going Together",
-      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 191794,
       "name": "Another Song About Love",
       "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Going Together",
+      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "No Far Away",
-        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Loving You Is Easy",
-      "url": "https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Oh How I Love You",
-        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+        "name": "No Far Away",
+        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
       },
       "artists": [
         {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
         }
       ],
-      "duration_ms": 233050,
-      "name": "Oh How I Love You (R&B Version)",
-      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+      "duration_ms": 188613,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1327,6 +1311,22 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Oh How I Love You",
+        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 233050,
+      "name": "Oh How I Love You (R&B Version)",
+      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2023-01-31 10:01:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Mikush e Niky Savage in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Zefe e N\u00e9za in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -318,6 +318,28 @@
       "duration_ms": 204753,
       "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
       "url": "https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG"
+    },
+    {
+      "album": {
+        "name": "TERANGA",
+        "url": "https://open.spotify.com/album/1nlndcx46poggHwuxi6Duf"
+      },
+      "artists": [
+        {
+          "name": "WadeLeVrai",
+          "url": "https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW"
+        },
+        {
+          "name": "Parker Wave",
+          "url": "https://open.spotify.com/artist/5nCRzdYzQAE059xUATEuXF"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "44",
+      "url": "https://open.spotify.com/track/1n7ihTuG2hh7sjDVfkBXdt"
     },
     {
       "album": {
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 167786,
       "name": "Block notes",
       "url": "https://open.spotify.com/track/6mZoe1LCCaons3BDtGCw7U"
@@ -2998,7 +3020,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 173125,
       "name": "Cos\u00ec Ghiacciato Tony",
       "url": "https://open.spotify.com/track/72GnOgY8IYhPJD2PBSNcUL"
@@ -3951,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1eDAdSLjrY1hX9r8HkW269"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/7CxRXdumn7xcDKoCD1gmYk"
+    },
+    {
+      "album": {
         "name": "EURO",
         "url": "https://open.spotify.com/album/5n6v2WO3aJLR8s7WJBeEru"
       },
@@ -4230,7 +4270,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 101647,
       "name": "FIGLIO DI PAPI",
       "url": "https://open.spotify.com/track/72YluxGFurbKqbplTgWFBp"
@@ -4752,7 +4792,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 160975,
       "name": "GANGSTA\u2019S LIFE",
       "url": "https://open.spotify.com/track/4CbAoO80W2qL6pu6t9OYBh"
@@ -5066,7 +5106,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 166384,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv"
@@ -6117,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "FDM",
+        "url": "https://open.spotify.com/album/0qHddNYOjjjhbwMdSCj95m"
+      },
+      "artists": [
+        {
+          "name": "Rame",
+          "url": "https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192708,
+      "name": "L'Anziano",
+      "url": "https://open.spotify.com/track/3NCRqWAMQf4WCOExuTlcCq"
+    },
+    {
+      "album": {
         "name": "L'ho fatto per la fam",
         "url": "https://open.spotify.com/album/0zgvHyWpuwQgax4nXJXEVh"
       },
@@ -6832,7 +6890,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 181138,
       "name": "Mademoiselle (Oh la la la)",
       "url": "https://open.spotify.com/track/5HOr82mREsf5YRLlYy8bXr"
@@ -8681,6 +8739,40 @@
     },
     {
       "album": {
+        "name": "PAGA (feat. Kerim Levrai, Orfedi, MadPrince, Marsiglia)",
+        "url": "https://open.spotify.com/album/5Iraf9HVMcQTvkPBsyHslU"
+      },
+      "artists": [
+        {
+          "name": "GROUP5",
+          "url": "https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu"
+        },
+        {
+          "name": "Kerim Levrai",
+          "url": "https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta"
+        },
+        {
+          "name": "MadPrince",
+          "url": "https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI"
+        },
+        {
+          "name": "Marsiglia",
+          "url": "https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD"
+        },
+        {
+          "name": "Orfedi",
+          "url": "https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "PAGA (feat. Kerim Levrai, Orfedi, MadPrince, Marsiglia)",
+      "url": "https://open.spotify.com/track/5twuziyJFCD8Z47wkgKB3M"
+    },
+    {
+      "album": {
         "name": "Panama",
         "url": "https://open.spotify.com/album/3iUGHThARKVQzRTwajJ7RC"
       },
@@ -9254,7 +9346,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 160000,
       "name": "Porto Milano",
       "url": "https://open.spotify.com/track/1vat8RefP5Zr4fFNpWflnV"
@@ -12169,6 +12261,24 @@
     },
     {
       "album": {
+        "name": "Tuo padre",
+        "url": "https://open.spotify.com/album/7EiBhzMnXmUKhGVZJB9CVN"
+      },
+      "artists": [
+        {
+          "name": "Baby Kirua",
+          "url": "https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141454,
+      "name": "Tuo padre",
+      "url": "https://open.spotify.com/track/5aM2VSnHiCpOavR0GjfxRj"
+    },
+    {
+      "album": {
         "name": "Turn Up #4",
         "url": "https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya"
       },
@@ -12352,7 +12462,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 147500,
       "name": "Vada come vada",
       "url": "https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O"
@@ -12726,6 +12836,40 @@
       "duration_ms": 153986,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe"
+    },
+    {
+      "album": {
+        "name": "4 The Island",
+        "url": "https://open.spotify.com/album/74P6rmPp2GlxAgD4qAMeb6"
+      },
+      "artists": [
+        {
+          "name": "NUOVA SARDEGNA",
+          "url": "https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG"
+        },
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        },
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "Enomoney",
+          "url": "https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8"
+        },
+        {
+          "name": "Prisoner",
+          "url": "https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140465,
+      "name": "Where U At (feat. PRACI, Luchetto, Enomoney & Prisoner)",
+      "url": "https://open.spotify.com/track/7lq6dnZdi45tafw1XSDgwl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 271410,
+  "num_followers": 271734,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTM3ZDExYWYzMGRiYmNlM2JiOGNkNTg3ZWI4OGQxMGJjNzg4Y2U2",
+  "snapshot_id": "MCxjNDA2MTM1YzQ1ZDIzYTI4YTg0YTk5ZmE4ODA0NmNhNTQzZjZkOTYx",
   "tracks": [
     {
       "added_at": "2023-06-22 01:44:05",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 319266,
-      "name": "Tornado Of Souls - 2004 Remix",
-      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Doom (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 257734,
       "name": "Rip & Tear",
       "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 319266,
+      "name": "Tornado Of Souls - 2004 Remix",
+      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 294866,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
+        "name": "Upon Loss Singles",
+        "url": "https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Deep in the Willow",
+      "url": "https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Upon Loss Singles",
-        "url": "https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Deep in the Willow",
-      "url": "https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "From Hell With Love",
-        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 206563,
-      "name": "Sweet True Lies",
-      "url": "https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "MASSIVE ADDICTIVE",
         "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 197866,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 206563,
+      "name": "Sweet True Lies",
+      "url": "https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Somewhere in Time (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Wasted Years - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 167509,
       "name": "Mama Said Knock You Out",
       "url": "https://open.spotify.com/track/5tGGvBpnjKJosBAmsb9eHX"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Somewhere in Time (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1355,22 +1355,6 @@
       "duration_ms": 196053,
       "name": "The Nexus",
       "url": "https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
-        "name": "Fear of the Dark (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
+        "name": "Fear of the Dark (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1471,18 +1471,34 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Tales from the Kingdom of Fife",
-        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
+        "name": "Fence",
+        "url": "https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD"
       },
       "artists": [
         {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Angus Mcfife",
-      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
+      "duration_ms": 217856,
+      "name": "Fence",
+      "url": "https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Shadows Inside",
-        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+        "name": "Tales from the Kingdom of Fife",
+        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
         }
       ],
-      "duration_ms": 236549,
-      "name": "Shadows Inside",
-      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+      "duration_ms": 208226,
+      "name": "Angus Mcfife",
+      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1583,38 +1599,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Fence",
-        "url": "https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 217856,
-      "name": "Fence",
-      "url": "https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     }
   ],
   "unique_name": "Energy Booster: Metal",

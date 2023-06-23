@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-555 songs - 16 hr 35 min
+556 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [At Sunset](https://open.spotify.com/track/6eS8IjJt4sHn6YTHaeLqvk) | [Lilian Calloway](https://open.spotify.com/artist/0VPHCYIMH42KbGySN6m6iY) | [At Sunset](https://open.spotify.com/album/5VPhlUvxaaYeEqPPSnDyHE) | 1:18 | 2022-09-02 |  |
 | [Au claire de la lune](https://open.spotify.com/track/18VIgz03DYxcqfwNe0VdWd) | [Valérian Rose](https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7) | [Au claire de la lune](https://open.spotify.com/album/4nh6yo1abEz9XVYEdlxghj) | 1:25 | 2023-03-17 |  |
 | [Awake Asleep](https://open.spotify.com/track/6yR7TwjmKMAUViwMkoleix) | [Engla Widström](https://open.spotify.com/artist/0SXbDqBEPUBXZ7IC9s7vlD) | [Awake Asleep](https://open.spotify.com/album/5pRs7QYPSOv6I8oxyFQDru) | 1:25 | 2022-02-10 | 2023-01-13 |
-| [Baa Baa Black Sheep \(Piano Version\)](https://open.spotify.com/track/0bpjxY26JlwuDJXgX9NlSN) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Baa Baa Black Sheep](https://open.spotify.com/album/0ZaSWfBxHuklNlYoFCzgoR) | 1:37 | 2022-02-10 |  |
+| [Baa Baa Black Sheep \(Piano Version\)](https://open.spotify.com/track/0bpjxY26JlwuDJXgX9NlSN) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Baa Baa Black Sheep](https://open.spotify.com/album/0ZaSWfBxHuklNlYoFCzgoR) | 1:37 | 2022-02-10 | 2023-06-23 |
 | [Baby Bestie](https://open.spotify.com/track/1CFCdx1MLQHorIyRpPGsiO) | [Yuri Lemon](https://open.spotify.com/artist/0k3NApRzdv5gXahVvFFNhC) | [Sweet Birdie](https://open.spotify.com/album/1V2v2IxBtL8XJdgOXtdulf) | 2:05 | 2022-02-10 | 2022-11-26 |
 | [Baby Paint](https://open.spotify.com/track/6oIeSpgh2j8XBoyaVk38PE) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Baby Paint](https://open.spotify.com/album/1DXqCMnGcgP6da7Romzt6t) | 2:05 | 2022-12-23 |  |
 | [Baby Runway](https://open.spotify.com/track/622MUzx4doeLxvukoJsSRb) | [Rebecca Harland](https://open.spotify.com/artist/3ZmFjCJlv8hWPhq0Rl9d7k) | [Teddy and Turtle](https://open.spotify.com/album/5z88ANBJ5TLUfalIBe4hlm) | 1:38 | 2022-02-10 |  |
@@ -98,7 +98,7 @@
 | [Calm Sleep](https://open.spotify.com/track/2qgahPCEqNBdm5NbwkDAOg) | [Poppy Penguin](https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3) | [Calm Sleep](https://open.spotify.com/album/0fo0yoW8CMrleEuMmhDrCw) | 1:32 | 2023-05-12 |  |
 | [Can I Tell You A Secret?](https://open.spotify.com/track/3rGQCq9JFcEHsYkOExmt5R) | [Margeret Lester](https://open.spotify.com/artist/0Sq9dQ0aNHxORRb8uJiwrW) | [Can I Tell You A Secret?](https://open.spotify.com/album/3txpHDpFOgl7jHFMWkEjQm) | 2:59 | 2022-02-10 | 2022-09-23 |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6cqW515aoleN8m91ciwZ5S) | [Wallis Lucian](https://open.spotify.com/artist/1Or9KeOiV1t9RBflmBEJKY) | [Can You Feel The Love Tonight](https://open.spotify.com/album/60ce9m4ExUhmNMzrjObe9A) | 2:19 | 2022-02-10 |  |
-| [Carousel Song](https://open.spotify.com/track/7Dj72t41W0iwmIBccjmuij) | [Lullaby Panda](https://open.spotify.com/artist/4snCdKvo0v65k09GXhOO9R) | [Carousel Song](https://open.spotify.com/album/6HJOfS5AslTswPheCLFm4r) | 2:29 | 2022-07-29 |  |
+| [Carousel Song](https://open.spotify.com/track/7Dj72t41W0iwmIBccjmuij) | [Lullaby Panda](https://open.spotify.com/artist/4snCdKvo0v65k09GXhOO9R) | [Carousel Song](https://open.spotify.com/album/6HJOfS5AslTswPheCLFm4r) | 2:29 | 2022-07-29 | 2023-06-23 |
 | [Caterpillar](https://open.spotify.com/track/07vy6BJFMk6PBBG9Nap8Xd) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Bumblebee](https://open.spotify.com/album/1TfjkMXApV7f5j2yYJtM5B) | 2:28 | 2022-09-22 |  |
 | [Children's song](https://open.spotify.com/track/1pnAa2nKBeG005ypwBGGb7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Children's song](https://open.spotify.com/album/2tPEtXxHqmX54mPlpaDyQI) | 1:20 | 2022-02-10 | 2022-10-29 |
 | [Chill Rattle](https://open.spotify.com/track/4Fy3q8NMw7WDveKOZ4yiY8) | [Sylvia Silver](https://open.spotify.com/artist/5zdyuZ1kZRsT4f3Urzu9tl) | [Chill Rattle](https://open.spotify.com/album/07bsmeR6JQa7sCgEkEGBKm) | 1:40 | 2022-04-25 |  |
@@ -312,7 +312,7 @@
 | [Maple Meadows](https://open.spotify.com/track/7gsCsx5j7z3oytf2Q3kdXG) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Pot Of Gold](https://open.spotify.com/album/0KyRhlIGDIp6YiY9i2V8g2) | 3:20 | 2023-02-10 |  |
 | [Mariposita](https://open.spotify.com/track/22mH2PfSIOHKBICycTD9Dc) | [Vanessa Acin](https://open.spotify.com/artist/4STKN0PPPmsqSziBVaT0Rm) | [Mariposita](https://open.spotify.com/album/3M0dI7m7MVgmIvn84w89Wt) | 1:52 | 2022-02-10 | 2022-09-03 |
 | [Marvellous](https://open.spotify.com/track/3OeANF8YM8Qj5Q3JZQxLhp) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Heartfelt](https://open.spotify.com/album/7vR1GVH6SWSt7o4kpcppCA) | 2:39 | 2022-12-23 |  |
-| [Mary Had a Little Lamb](https://open.spotify.com/track/2q9xrd99wsoIskmSRrWA2J) | [Macey Clark](https://open.spotify.com/artist/0n5zpFOM2xi6mg5pxjfdSV) | [Mary Had a Little Lamb](https://open.spotify.com/album/1xT6ZMW6kCyWblSPmkGBjY) | 1:50 | 2022-02-10 |  |
+| [Mary Had a Little Lamb](https://open.spotify.com/track/2q9xrd99wsoIskmSRrWA2J) | [Macey Clark](https://open.spotify.com/artist/0n5zpFOM2xi6mg5pxjfdSV) | [Mary Had a Little Lamb](https://open.spotify.com/album/1xT6ZMW6kCyWblSPmkGBjY) | 1:50 | 2022-02-10 | 2023-06-23 |
 | [Memory](https://open.spotify.com/track/0QYKiEyJptH4BP5XxiWPRF) | [Children's Play](https://open.spotify.com/artist/2hgReaMsiGzW9icq4YOhX5) | [Lullabies On The Piano](https://open.spotify.com/album/1an8W7i5Z1ETC6LPZcMRLp) | 2:56 | 2022-04-25 | 2023-04-07 |
 | [Merrily we march](https://open.spotify.com/track/35EJ5Ifb9AN5xUogT87y8F) | [Amina Barnes](https://open.spotify.com/artist/29qIZoNWKuYY82fF9EjB3P) | [Merrily we march](https://open.spotify.com/album/4OdJxP9v6mpnwxmlpNRKXo) | 1:59 | 2023-06-02 |  |
 | [Merry\-go\-round](https://open.spotify.com/track/60YHkVjJTe9yOuk2gYWqKk) | [Mary Willowfeather](https://open.spotify.com/artist/0mtgBfJTZfPCuMZ08HxCtS) | [Merry\-go\-round](https://open.spotify.com/album/1YWo5wJHBuJX9FFBLPHHhY) | 1:43 | 2022-02-10 | 2022-09-03 |
@@ -340,6 +340,7 @@
 | [My Dolly and Me](https://open.spotify.com/track/6OWya70yLaThea5fDuQINP) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [My Dolly and Me](https://open.spotify.com/album/7eL1oomj56CxC23VsjeYf4) | 1:43 | 2022-02-10 |  |
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Favorite Toy](https://open.spotify.com/track/6tBmkK8y3EvMPz5g01V8Hi) | [Snugglesnooze](https://open.spotify.com/artist/53tyuFj1nXxKIBJLoExGVB) | [Just A Little Nap](https://open.spotify.com/album/0Q44FIZxx8dDtYlesKZUCY) | 1:34 | 2023-04-07 |  |
+| [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-06-22 |  |
 | [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2022-02-10 |  |
 | [My Little Love](https://open.spotify.com/track/6vhjJAHpk2e8Czv2WCubVT) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [My Little Love](https://open.spotify.com/album/4V4eMPAb6Rlx4SwgMco0cV) | 1:24 | 2022-04-25 |  |
 | [My Little Secret](https://open.spotify.com/track/3IQIDrVXrhw1SaVIDvbA7G) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [To The Moon And Back](https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz) | 1:43 | 2023-05-12 |  |

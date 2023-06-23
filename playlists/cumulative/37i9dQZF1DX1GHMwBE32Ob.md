@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibes
+> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Mohbad & Bella Shmurda
 
 124 songs - 5 hr 55 min
 

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-168 songs - 8 hr 42 min
+169 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2021-12-01 | 2023-02-15 |
 | [Superstar](https://open.spotify.com/track/1dtxr4bhyFnGxEt4bwPEeH) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/0eaPjnExG9lTC62awP82AJ) | 2:52 | 2021-12-01 | 2023-06-22 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-12-01 | 2023-03-12 |
-| [Superstar](https://open.spotify.com/track/5Vh9t1vLFVmsITgWQxBQB7) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [We're all gonna die, but here's my contribution](https://open.spotify.com/album/77tLO7JjvrESbaB1jkjwlS) | 2:52 | 2021-12-01 |  |
+| [Superstar](https://open.spotify.com/track/3q0BojRZZviq6cWhP9yXFL) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4tnE7sBNoUsw7C3n4DZdlA) | 2:52 | 2021-12-01 |  |
+| [Superstar](https://open.spotify.com/track/5Vh9t1vLFVmsITgWQxBQB7) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [We're all gonna die, but here's my contribution](https://open.spotify.com/album/77tLO7JjvrESbaB1jkjwlS) | 2:52 | 2021-12-01 | 2023-06-23 |
 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 | 2021-12-01 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-01 |  |
 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-12-01 |  |

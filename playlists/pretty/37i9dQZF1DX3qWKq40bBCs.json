@@ -1,12 +1,12 @@
 {
   "description": "The premios official playlist. Y el ganador es...",
-  "num_followers": 530,
+  "num_followers": 540,
   "original_name": "Premios Tu M\u00fasica Urbano - Ganadores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWM1ZDJlYzYwMmMwZDk3MmM2NWIwZmVmZWU1NDZlZjJmMjIwOWNh",
+  "snapshot_id": "MCwwMTgzNDEzODU1NWIzYzExYTBlMDM3NzZjY2ViMTcyZWRhNzc4ZTE5",
   "tracks": [
     {
       "added_at": "2023-06-16 18:34:03",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-16 18:34:03",
       "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
-    },
-    {
-      "added_at": "2023-06-16 18:34:03",
-      "album": {
         "name": "PLEBADA",
         "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
+    },
+    {
+      "added_at": "2023-06-16 18:34:03",
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-06-16 18:34:03",

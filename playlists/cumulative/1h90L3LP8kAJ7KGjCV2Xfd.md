@@ -2,7 +2,7 @@
 
 ### [HAPPY SONGS 🤩 FEEL GOOD VIBES](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
-> Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
+> happy vibes \| feel good mix \| mood booster \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| songs to smile to \| laugh
 
 233 songs - 12 hr 58 min
 

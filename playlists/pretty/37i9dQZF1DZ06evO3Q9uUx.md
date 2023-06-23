@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,540 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
 | 50 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 |
 
-Snapshot ID: `MjgxMjI1NDMsMDAwMDAwMDA0MDQ5YmMyODE2OTc0MjMxNDA0NzRkNDM3MzEyNDRkYg==`
+Snapshot ID: `MjgxMjM5NDYsMDAwMDAwMDA1NjRjMjBiYzlkM2RjYWE1MmYyNTAxMzAxNzkzMGJmZg==`

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-120 songs - 6 hr 24 min
+121 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [How You Been](https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C) | 2:37 | 2023-01-31 |  |
 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 | 2022-10-11 |  |
 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
-| [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 |  |
+| [I'll Come Find You](https://open.spotify.com/track/3V1nJumPZoo10X5ngak4nz) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated](https://open.spotify.com/album/5xLRDCKx8oG8UwRejXGxpF) | 3:34 | 2023-06-06 |  |
+| [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 | 2023-06-23 |
 | [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 | 2022-10-11 |  |
 | [In Your Arms](https://open.spotify.com/track/24tlBs7UEBwNIPB3hFwkjH) | [Mattheus Fedorova](https://open.spotify.com/artist/5fynz3YRv7vghPyLm3gTTE) | [In Your Arms](https://open.spotify.com/album/393FqXTdXkw5pQwpnOuhfo) | 4:40 | 2023-03-07 | 2023-05-06 |
 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 | 2022-10-11 | 2022-11-13 |

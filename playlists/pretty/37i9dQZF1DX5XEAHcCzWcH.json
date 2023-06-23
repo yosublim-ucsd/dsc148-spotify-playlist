@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 25556,
+  "num_followers": 25589,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmJiMDdmMjNlYjIzNWIwMTcxYzliZjU1NzY4OTY4OGQwYjAwOWM4",
+  "snapshot_id": "MCw3YjAxNGE3YjY1ODNhMWVlYmJjMjAwYjRiZDZjMDY0ZWQ5OTgzMWRm",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blue Horizon Story (1965-1970)",
-        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Empty Arms",
-      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Empty Arms",
+      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blues Singer",
-        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Some Nerve",
-      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The Bach of Rock",
         "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 344440,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Blues Singer",
+        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Some Nerve",
+      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
     },
     {
       "added_at": "2022-05-13 10:49:08",

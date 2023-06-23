@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-291 songs - 12 hr 27 min
+293 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-02 |  |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-05-09 |  |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-03-04 | 2022-11-18 |
-| [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 |  |
+| [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 | 2023-06-23 |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 | 2022-07-22 |
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-05-10 |
 | [As The Day Breaks](https://open.spotify.com/track/4Hg2XDxHhPq9eKzcSeL0cD) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [As The Day Breaks](https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC) | 3:11 | 2022-08-05 | 2022-12-10 |
@@ -177,6 +177,7 @@
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-04-22 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2022-11-18 |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-03-04 |  |
+| [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 | 2022-11-18 | 2023-02-25 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-04-21 |  |
 | [Mná Na H'Eireann](https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/0INDZxABsPxB7JxTjYjmEy) | 2:33 | 2022-10-14 |  |
@@ -206,6 +207,7 @@
 | [Pipes Canyon](https://open.spotify.com/track/10QnuxhWxXnQfDIFfpTTra) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Pipes Canyon](https://open.spotify.com/album/0b4jMAmrxMk9MxLsKvB4ko) | 2:47 | 2023-01-13 |  |
 | [Primavera](https://open.spotify.com/track/3rcoy7zeug8RSQpkhIAaxy) | [Giuseppina Tolda](https://open.spotify.com/artist/6VAysUntvNkdLFWbH9Cf3D) | [Primavera](https://open.spotify.com/album/420EyG44UX8z6gH8OLEfa7) | 2:12 | 2022-03-04 |  |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-04 | 2022-03-19 |
+| [Promise](https://open.spotify.com/track/7a26pDubE6apyx3BucvKKt) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Promise](https://open.spotify.com/album/2CZN9ANjx4cG4L9EywcLmM) | 1:44 | 2023-06-22 |  |
 | [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 | 2022-09-23 |  |
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-03-04 | 2022-03-19 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 |  |

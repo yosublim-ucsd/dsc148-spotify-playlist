@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-520 songs - 1 day 8 hr 44 min
+523 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-13 | 2023-02-22 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 |  |
+| [Break Together](https://open.spotify.com/track/1tOZqH9t898tBOOyDG695t) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Break Together](https://open.spotify.com/album/6cdmaCwRThLtqquRCLfESu) | 3:49 | 2023-06-22 |  |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 |  |
 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2023-04-07 |
 | [calcium](https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH) | 3:35 | 2023-06-08 |  |
@@ -173,6 +174,7 @@
 | [My Generation](https://open.spotify.com/track/67OMQfexlfcP6JQfxDmFzY) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [My Generation](https://open.spotify.com/album/3OMCNHJJAbgNJcJmYKFqYi) | 3:40 | 2023-04-04 | 2023-06-07 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2023-01-13 | 2023-01-18 |
 | [My Vision](https://open.spotify.com/track/1WF8IC6CN7DjOZ0KL4BU2J) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 3:57 | 2023-02-01 | 2023-04-28 |
+| [My World \- New Version \-](https://open.spotify.com/track/1Vnupt0iRBVZOYzl8BBgcc) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [My World \- New Version \-](https://open.spotify.com/album/5I4Z2hQIgSHnosN16DXXU5) | 3:25 | 2023-06-22 |  |
 | [MYSTERY JOURNEY](https://open.spotify.com/track/5Hpr1UAIwR9DXKudyFKmMY) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [MYSTERY JOURNEY](https://open.spotify.com/album/23hWarmVJpm5VwfUVXhsSS) | 3:18 | 2023-01-13 | 2023-01-18 |
 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 | 2023-05-09 | 2023-06-21 |
 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 | 2023-02-21 | 2023-03-08 |
@@ -347,7 +349,7 @@
 | [ゴールデン・ドロップ](https://open.spotify.com/track/6dCSP1euHcwNrmGuxKAEXW) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [ゴールデン・ドロップ](https://open.spotify.com/album/7Mf5V55mBkz67HsUMZ9hwf) | 1:24 | 2023-02-28 | 2023-03-02 |
 | [サイダー](https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [サイダー](https://open.spotify.com/album/0GM5iHC2vIGJ5lLT9aweY1) | 3:46 | 2023-05-30 |  |
 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 | 2023-02-28 | 2023-06-14 |
-| [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-08 |  |
+| [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-08 | 2023-06-23 |
 | [サラバ](https://open.spotify.com/track/6uvfHyztTfI1JxIx8OWkhI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [サラバ](https://open.spotify.com/album/3AqGPcYJrfaY6o8niCnztG) | 3:49 | 2023-04-18 | 2023-05-17 |
 | [ジグソーパズル](https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [ジグソーパズル](https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz) | 4:06 | 2023-05-02 | 2023-05-31 |
 | [スクールボーイ](https://open.spotify.com/track/1Eb9z5jcDZnRfNiMraPHfk) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 4:00 | 2023-02-14 | 2023-03-08 |
@@ -405,6 +407,7 @@
 | [リビド](https://open.spotify.com/track/2DPqDCOLt5u9vgPsBeeZHu) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [感情](https://open.spotify.com/album/5wVKcfeOtX715KlsMQkw8C) | 2:41 | 2023-01-13 | 2023-03-22 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-13 | 2023-04-25 |
 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 | 2023-02-21 | 2023-03-22 |
+| [ルージュ](https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ルージュ](https://open.spotify.com/album/7fH4NYbcCV994KVTuv520x) | 3:10 | 2023-06-22 |  |
 | [レイジーモーニング](https://open.spotify.com/track/2Xtz1YnZm5skeyZnG9OrOj) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [レイジーモーニング](https://open.spotify.com/album/74j966Zm6XGHewP3AgGcun) | 2:53 | 2023-03-14 | 2023-04-12 |
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2023-01-13 | 2023-02-15 |
 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-20 | 2023-06-07 |
@@ -484,7 +487,7 @@
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2023-01-13 | 2023-01-18 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 | 2023-04-26 |
 | [油](https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [油](https://open.spotify.com/album/04KuLUg49thH8DEsSkelsB) | 3:11 | 2023-01-17 | 2023-02-01 |
-| [洒落](https://open.spotify.com/track/2seyDmK7gssRroUPX6KIUR) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [洒落](https://open.spotify.com/album/0uhn0TZQCg0VJxTbcl0Paw) | 2:15 | 2023-05-23 |  |
+| [洒落](https://open.spotify.com/track/2seyDmK7gssRroUPX6KIUR) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [洒落](https://open.spotify.com/album/0uhn0TZQCg0VJxTbcl0Paw) | 2:15 | 2023-05-23 | 2023-06-23 |
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-01 |
 | [浮世パスポート](https://open.spotify.com/track/1OnHUaVxsS67pgXEd9CIXT) | [sumika\[camp session\]](https://open.spotify.com/artist/51BvoK9JjSLdx7JD03flZs) | [Sugar Salt Pepper Green](https://open.spotify.com/album/30lpt4mHSgih8j3eigamS2) | 4:06 | 2023-03-14 | 2023-03-29 |
 | [煙](https://open.spotify.com/track/7ePUIMn58JPBBO4GgZ5ws1) | [ペルシカリア](https://open.spotify.com/artist/4FdJpSAmMOX4yoYTAzjLKB) | [煙](https://open.spotify.com/album/4vsVm3kF6hvG6bLISAOEGX) | 4:29 | 2023-02-21 | 2023-03-01 |

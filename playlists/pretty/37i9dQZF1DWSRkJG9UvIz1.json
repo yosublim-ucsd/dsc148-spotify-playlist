@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 127566,
+  "num_followers": 127599,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU0ZDA3ZjM5MjhlZjZmNDk5YzMyOGQ2ZjlkYzFhZTBiYWRjZDUx",
+  "snapshot_id": "MCxmZDY5MTdjNTI0ZTNlOGZhMWRmMDI2YzU4YmQ1ODBhMDk1ZDZhMTNi",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 208279,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 208279,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/1SYDXvP1rahganh8t5plez"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Rio de Janeiro",
-        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
-      },
-      "artists": [
-        {
-          "name": "josefe",
-          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Rio de Janeiro",
-      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
+      },
+      "artists": [
+        {
+          "name": "josefe",
+          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
     }
   ],
   "unique_name": "Sol de Domingo",

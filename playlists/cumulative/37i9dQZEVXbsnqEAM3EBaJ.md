@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-496 songs - 1 day 9 hr 50 min
+497 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,8 @@
 | [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 | 2023-05-05 | 2023-05-28 |
 | [Somos el presente](https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Somos el presente](https://open.spotify.com/album/7pKC2QqGYbj6DskPv4wyE2) | 5:29 | 2023-05-26 |  |
 | [Sostenibile](https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Giulio Wilson](https://open.spotify.com/artist/33aEMBHiyvhAdzcUZ3Nflz) | [Sostenibile](https://open.spotify.com/album/57jIf6qF9vJN29QvoiaJFu) | 3:48 | 2023-03-10 | 2023-03-18 |
-| [Space Age Love Song \(Re\-Recorded\) \[Sped Up\]](https://open.spotify.com/track/1PGbSZhAeh25BhUZjsVbVT) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 2:56 | 2023-06-16 |  |
+| [Space Age Love Song \(Re\-Recorded\) \[Slowed + Reverb\]](https://open.spotify.com/track/76MVyYDPhbaLhsNwGtXUkq) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 4:48 | 2023-06-16 |  |
+| [Space Age Love Song \(Re\-Recorded\) \[Sped Up\]](https://open.spotify.com/track/1PGbSZhAeh25BhUZjsVbVT) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 2:56 | 2023-06-16 | 2023-06-23 |
 | [Space Age Love Song \- Single Edit](https://open.spotify.com/track/5UqeauynRpmSGVn3q9N9dq) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls \(Deluxe\)](https://open.spotify.com/album/4PBrFxguHrtne9aVbwWTh1) | 3:21 | 2023-03-03 | 2023-03-19 |
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-03-31 | 2023-04-15 |
 | [Spice](https://open.spotify.com/track/2rFIck6yWsOWrIMQWBS4Lg) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Spice](https://open.spotify.com/album/50OhzBiF2Xai5SAJIHubj8) | 2:59 | 2023-05-19 | 2023-05-24 |

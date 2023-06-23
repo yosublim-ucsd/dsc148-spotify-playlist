@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=Lg6L9VDjQOGTTCeDLNATNw"> Baaba J</a>
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g"> Lady Donli </a>
 
-129 songs - 7 hr 53 min
+131 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 |  |
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 | 2023-03-10 |
 | [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 | 2023-02-27 |
-| [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 |  |
+| [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 | 2023-06-23 |
+| [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 | 2023-06-22 |  |
 | [Luci](https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:45 | 2023-04-14 |  |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 | 2023-06-03 |
 | [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 | 2022-11-04 |
@@ -70,6 +71,7 @@
 | [Mmuan Daan](https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [Mmuan Daan](https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL) | 3:37 | 2023-03-17 |  |
 | [Money](https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk) | [Senkulive](https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac) | [Money](https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG) | 4:54 | 2022-12-02 | 2023-06-09 |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 | 2023-01-13 |
+| [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 |  |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 |  |
 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 | 2022-08-05 | 2023-04-15 |
@@ -115,7 +117,7 @@
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-10 | 2023-05-05 |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-11-26 |
 | [Tiger](https://open.spotify.com/track/5YkCm6xWVVDOujVNkjK8Vg) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Tiger](https://open.spotify.com/album/5LWDDwfXxb0ggIKeElCiF1) | 2:26 | 2023-06-02 | 2023-06-09 |
-| [Time Heals](https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [For You Knew Me](https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8) | 3:44 | 2023-05-11 |  |
+| [Time Heals](https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [For You Knew Me](https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8) | 3:44 | 2023-05-11 | 2023-06-23 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-31 |  |
 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 | 2021-12-09 | 2023-06-09 |
 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 | 2021-09-30 |  |

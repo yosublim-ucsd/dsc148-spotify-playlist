@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Zeina, Smeels",
-  "num_followers": 36976,
+  "num_followers": 36980,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTY2MzNjNzg3MjI4MmMzZDMzZGRmNzA2ZWYyMzQ2ODA3MjQ3MTY5",
+  "snapshot_id": "MCwyMWY0ODQwODlhN2UyZjFlZTU3ZTJmMmI0NmE3M2VlZThkNGFlNzM5",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 148717,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Mon BB",
         "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
       },
@@ -443,6 +427,38 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Sign\u00e9",
+        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 180968,
+      "name": "Sign\u00e9",
+      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 193381,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Sign\u00e9",
-        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 180968,
-      "name": "Sign\u00e9",
-      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Ouvert tout l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Mbapp\u00e9",
-        "url": "https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        }
-      ],
-      "duration_ms": 186231,
-      "name": "Mbapp\u00e9",
-      "url": "https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "BORZ",
         "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 136635,
       "name": "BORZ",
       "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Mbapp\u00e9",
+        "url": "https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 186231,
+      "name": "Mbapp\u00e9",
+      "url": "https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "J'avais besoin d'un p\u00e8re (Bonus Track)",
-        "url": "https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
-      "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Je partirai",
         "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
       },
@@ -803,6 +787,42 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "J'avais besoin d'un p\u00e8re (Bonus Track)",
+        "url": "https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
+      "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Alabama",
+        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 214605,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Ann\u00e9es Sauvages",
         "url": "https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Alabama",
-        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 214605,
-      "name": "Alabama",
-      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
     },
     {
       "added_at": "2023-06-16 04:00:00",

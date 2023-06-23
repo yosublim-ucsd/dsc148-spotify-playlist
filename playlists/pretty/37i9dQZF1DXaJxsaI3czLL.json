@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 125115,
+  "num_followers": 125152,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTIxNWY5MDhmYzljYzA5N2IwNTc5YjZlODliNzM1MzllZTUxYWY4",
+  "snapshot_id": "MCwyOTM2YThmMWEwOWZmMWY2YzU1ODQwMTViNjAzMTIxNzg0YmE2MWQw",
   "tracks": [
     {
       "added_at": "2023-06-20 15:00:00",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 344749,
+      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 344749,
-      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u3057\u304b",
-        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 240532,
-      "name": "\u3044\u3064\u3057\u304b",
-      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "\u3044\u3064\u3057\u304b",
+        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 240532,
+      "name": "\u3044\u3064\u3057\u304b",
+      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -847,8 +847,8 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Days With Uncertainty",
-        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 239160,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "9.",
-        "url": "https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "Sweet dream",
-      "url": "https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Soil",
-        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+        "name": "9.",
+        "url": "https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7"
       },
       "artists": [
         {
-          "name": "naomi paris tokyo",
-          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
         }
       ],
-      "duration_ms": 357073,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+      "duration_ms": 176222,
+      "name": "Sweet dream",
+      "url": "https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "Soil",
+        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "duration_ms": 357073,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "After the chaos",
         "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 264786,
       "name": "Stay in the light - reprise",
       "url": "https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2023-06-20 15:00:00",

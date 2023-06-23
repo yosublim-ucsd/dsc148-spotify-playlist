@@ -4,7 +4,7 @@
 
 > The beautiful sound of guitar to help you wind down.
 
-281 songs - 12 hr 25 min
+283 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Chuchoter](https://open.spotify.com/track/2gwfVy0NLfkWMZVgSBl8GW) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Chuchoter](https://open.spotify.com/album/3r3hAhtrnxK1mWtIlyaqPY) | 1:45 | 2023-05-12 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-06-17 |  |
 | [Closer](https://open.spotify.com/track/4qUIaxxEtetvqZ9CdnUDwj) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Closer](https://open.spotify.com/album/4qrSM02InSMtRouW2fHfVP) | 1:59 | 2022-08-12 |  |
+| [Closure](https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Closure](https://open.spotify.com/album/4EsEmffVs8EQszN8sqyucH) | 2:41 | 2023-06-22 |  |
 | [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-06-24 |  |
 | [Como Fue](https://open.spotify.com/track/4sqW8VHxYBVdEftuQYF0Tz) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Como Fue](https://open.spotify.com/album/3YNVNcF8L4GZDfdA2l5Vos) | 1:58 | 2022-06-17 |  |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 |  |
@@ -132,9 +133,10 @@
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-03-31 |  |
 | [Indian Glass](https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Indian Glass](https://open.spotify.com/album/69QJ0fQcw6T6kRNKpLYxM9) | 3:27 | 2022-06-17 | 2022-11-18 |
 | [Into My Abditory](https://open.spotify.com/track/11BgBQw2Pmn0ojmpr8fLZK) | [Bobby Dean](https://open.spotify.com/artist/0odJINAJzMqpe7EzD7cO2g) | [Into My Abditory](https://open.spotify.com/album/2pojOokS5oHdSYDUlaO4AR) | 1:52 | 2022-06-17 |  |
+| [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-05-12 |  |
 | [Isola Bella](https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Isola Bella](https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx) | 1:49 | 2022-09-09 |  |
-| [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2022-06-17 |  |
+| [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2022-06-17 | 2023-06-23 |
 | [Klanger](https://open.spotify.com/track/4GhRwIQ7dR1o5gisbuae6b) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Klanger](https://open.spotify.com/album/4xdpRT9D8bXTjou3wyGKuF) | 1:42 | 2023-05-12 |  |
 | [La Rumba D'el Jefe](https://open.spotify.com/track/5zZEP23ceNvvA9IT6CnqoY) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Rumba Foundation](https://open.spotify.com/album/4PIZLP5JDoSFwyBNJMm9BA) | 3:37 | 2022-06-17 | 2022-07-29 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-12 |  |
@@ -177,7 +179,7 @@
 | [Mist](https://open.spotify.com/track/4H9EiDGFwfih6XnnSaObLo) | [Sven Nordberg](https://open.spotify.com/artist/7p15Zunic1ShfO2hBA7QOD) | [Timbre](https://open.spotify.com/album/6NtSxBeGJ67uWeCOGP3YJW) | 2:09 | 2022-11-18 |  |
 | [Mollification](https://open.spotify.com/track/7lPmCMnHc9EqaI6J824B9J) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Mollification](https://open.spotify.com/album/40o4fe8ElKwZf0MZEsJYQr) | 2:23 | 2023-03-10 |  |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 |  |
-| [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 | 2022-06-17 |  |
+| [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 | 2022-06-17 | 2023-06-23 |
 | [Moonlight and Grace Reimagined](https://open.spotify.com/track/6YLhil5rBjNBGQ5wCIsIgH) | [Phil Klein](https://open.spotify.com/artist/7D4v9W10LK3ftu5UBRuNow) | [Moonlight and Grace Reimagined](https://open.spotify.com/album/5VypWMT7ShaGTFMhDjrUge) | 3:01 | 2022-09-02 | 2023-02-25 |
 | [Musica del Cielo](https://open.spotify.com/track/0vUQoSxox7kR5MPjhWKmtg) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Musica del Cielo](https://open.spotify.com/album/5GmnBunhlJ5TKlYqSqcPs0) | 1:53 | 2023-02-24 |  |
 | [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
@@ -238,7 +240,7 @@
 | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/track/2rARKDKGUhZshI910DTnZJ) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/album/2q5ZGA1ohBaWg4kNVbMAvt) | 3:58 | 2022-06-17 | 2023-04-22 |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 |  |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
-| [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-31 |  |
+| [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-31 | 2023-06-23 |
 | [Sua Flor](https://open.spotify.com/track/0392xui5zL1nRux90JIPuv) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Sua Flor](https://open.spotify.com/album/0HYEHpNnG4gvnH7JchXalD) | 1:45 | 2022-07-08 | 2023-01-20 |
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 |  |
 | [Sweetest Taste](https://open.spotify.com/track/2qWK9B6pNDJ4faJrowzhi3) | [Jordan Martin](https://open.spotify.com/artist/25q9hUYb1Gy4NtGXtR0h98) | [Acoustic Paintings](https://open.spotify.com/album/1gZ8bv5PeLEYfAr5trteiT) | 4:05 | 2022-10-14 | 2023-03-10 |

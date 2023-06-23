@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,012 songs - 2 day 6 hr 32 min
+1,014 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2023-03-13 | 2023-03-30 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-05-31 |  |
 | [Everyone Can See](https://open.spotify.com/track/7tKkR4FtdgbZeB7XHnFboe) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:20 | 2022-11-28 | 2022-12-12 |
+| [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 | 2023-06-22 |  |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-08-12 | 2022-11-02 |
 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 | 2022-08-10 | 2022-08-30 |
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2023-06-16 |  |
@@ -485,7 +486,8 @@
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-11 | 2023-01-14 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-01-13 | 2023-06-06 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-01-21 | 2022-02-14 |
-| [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/5fLwJEG6J7V6MS2gE833Le) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/68IgfE4Q34VLSDrv8MhqqD) | 1:52 | 2023-06-21 |  |
+| [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/5fLwJEG6J7V6MS2gE833Le) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/68IgfE4Q34VLSDrv8MhqqD) | 1:52 | 2023-06-21 | 2023-06-23 |
+| [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 | 2023-06-21 |  |
 | [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-07-21 | 2022-11-11 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-03-07 | 2023-03-22 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-28 | 2023-04-22 |
@@ -685,7 +687,7 @@
 | [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-08-01 | 2022-09-20 |
 | [Party Monster](https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:09 | 2022-12-07 |  |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-31 | 2022-09-03 |
-| [Past Lives](https://open.spotify.com/track/1quZPMgqZJzGQDK7FY1glD) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [Past Lives](https://open.spotify.com/album/1DQ9acidJCz0NZf9ehDE0o) | 2:33 | 2023-06-09 |  |
+| [Past Lives](https://open.spotify.com/track/1quZPMgqZJzGQDK7FY1glD) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [Past Lives](https://open.spotify.com/album/1DQ9acidJCz0NZf9ehDE0o) | 2:33 | 2023-06-09 | 2023-06-23 |
 | [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 | 2023-06-02 | 2023-06-22 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-04-10 |  |
 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 | 2023-05-16 |  |

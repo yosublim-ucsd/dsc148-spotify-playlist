@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, anni 70 e anni 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,423 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,497 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
-| 2 | [Non sono una signora](https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Traslocando](https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z) | 3:29 |
-| 3 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
+| 2 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
+| 3 | [Non sono una signora](https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Traslocando](https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z) | 3:29 |
 | 4 | [Boys \(Summertime Love\)](https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Boys \(Summertime Love\)](https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E) | 3:48 |
 | 5 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 |
 | 6 | [Quando, Quando, Quando \- 2004 Remaster](https://open.spotify.com/track/5NVKrGAZjusEqZJ7onT9gO) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Made In Italy](https://open.spotify.com/album/5Gvvs4hFQKLZO1pzDbEfYo) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 | 50 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 
-Snapshot ID: `MCxiZTUwZDM5YjZiZDBiNWMxYzhjYzAxZDdhZmJmN2YyNDQ4MTE5YTI4`
+Snapshot ID: `MCw1ZjNhY2FjYzRkZDZlYjhhOGQxOTg5ZjI2MDVkZDUyMjAyMmZhZmU3`

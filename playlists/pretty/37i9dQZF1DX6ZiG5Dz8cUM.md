@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,697 likes - 174 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,766 likes - 174 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 173 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 |
 | 174 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 |
 
-Snapshot ID: `MCw3OWJiMWVkMzlmMTZjNjI2NjJlMGI4YzBjODYzZjRjNDQ5NGRlN2Rj`
+Snapshot ID: `MCxhNDQwMWJlM2IxMWU4OGViNTcxZmNkMmZjM2FkMzYwMjliMzAzMTJh`

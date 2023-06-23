@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-298 songs - 13 hr 51 min
+299 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |
 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 | 2022-06-09 |  |
 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 | 2021-12-16 | 2023-04-09 |
+| [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2023-06-22 |  |
 | [Mango IPA \- Remix](https://open.spotify.com/track/6TUkYXRUzsB9i5fBK0BJ30) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Mango IPA \(Remix\)](https://open.spotify.com/album/4ykZO8NjS3qSnvg5H1JTQM) | 3:22 | 2021-12-16 | 2022-10-16 |
 | [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-10-15 | 2023-06-17 |
 | [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 | 2023-05-10 |
@@ -302,7 +303,7 @@
 | [Zetor'n](https://open.spotify.com/track/5xU3QasHudpR6QFBHvFLc6) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Zetor'n](https://open.spotify.com/album/6V6o7asFD4RVyx3PzwQaOA) | 3:40 | 2022-03-24 | 2022-04-18 |
 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 | 2022-10-15 | 2023-03-07 |
 | [Åka med mig](https://open.spotify.com/track/0c5MF7xJwdnOtSCK4EG4Q3) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Åka med mig](https://open.spotify.com/album/2V72zf3EccLjABO9Nop8le) | 2:03 | 2022-11-17 | 2023-03-27 |
-| [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 | 2021-12-16 |  |
+| [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 | 2021-12-16 | 2023-06-23 |
 | [Ærmen i kærmen](https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærmen i kærmen](https://open.spotify.com/album/1USwG4JXrWi6NYZoiskH4S) | 2:16 | 2021-12-16 | 2022-11-16 |
 | [Ærmen i kærmen \- Remix](https://open.spotify.com/track/6U1SykqBrf8ogs548afPUW) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærmen i kærmen \(Remix\)](https://open.spotify.com/album/2zSfoNFUTIFuT5CaH9C8zY) | 2:43 | 2023-05-18 |  |
 | [Øl&Jæger](https://open.spotify.com/track/2BMGGXsF4CPVJK5vWj4Lc0) | [Holmsve](https://open.spotify.com/artist/4XkDTdhLAkoEzRDohLoT1o) | [Øl&Jæger](https://open.spotify.com/album/3Z17RskjniNcxXnfimW0Cm) | 3:06 | 2021-12-16 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-194 songs - 12 hr 20 min
+195 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Coming Undone](https://open.spotify.com/track/6p2liQLGoDaLXgND68bfVt) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/61IAfZngW0BgATiyHJPijP) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [Countdown](https://open.spotify.com/track/5I1qo8eE4UmF0O2CcptoZh) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Countdown](https://open.spotify.com/album/5JKQCSPrq2GqbUVBDUv9BO) | 3:00 | 2022-04-01 | 2022-04-21 |
 | [Cross Off](https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Cross Off](https://open.spotify.com/album/4ePpOl2GPiJuZ75RSdN1FB) | 4:13 | 2021-12-15 | 2022-11-13 |
+| [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 | 2023-06-22 |  |
 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 | 2022-04-01 |  |
 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 | 2021-12-15 |  |
 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 | 2022-07-05 |  |
@@ -92,7 +93,7 @@
 | [Immortalized](https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:17 | 2022-04-01 | 2022-04-21 |
 | [Indestructible](https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:38 | 2021-12-15 |  |
 | [Inferno](https://open.spotify.com/track/6bXie9wd4w6z9Nr4I9lPne) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Inferno](https://open.spotify.com/album/4VZJNmgbFU1ZfGmFT5LmDF) | 3:12 | 2022-02-17 | 2022-04-20 |
-| [Inferno](https://open.spotify.com/track/0xzjNhWlrQ6aFDoUOAaaK2) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [HELIX](https://open.spotify.com/album/1ahaJDVWamBPImLRWpqWiX) | 3:12 | 2023-04-28 |  |
+| [Inferno](https://open.spotify.com/track/0xzjNhWlrQ6aFDoUOAaaK2) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [HELIX](https://open.spotify.com/album/1ahaJDVWamBPImLRWpqWiX) | 3:12 | 2023-04-28 | 2023-06-23 |
 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 | 2021-12-15 |  |
 | [Is There Anybody out There?](https://open.spotify.com/track/3KWW3wKaQviTplvq6cFYFR) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody out There?](https://open.spotify.com/album/6kNCcyVUU39nbjSImUK8V5) | 4:32 | 2021-12-15 | 2022-07-29 |
 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 | 2022-07-05 |  |

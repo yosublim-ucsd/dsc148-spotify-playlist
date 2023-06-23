@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 52076,
+  "num_followers": 52122,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmM4YTI4MjA2OWZhODhkYmI5MzYyZTRlYzZmNjFiMWRhNjRjNTU1",
+  "snapshot_id": "MCw4MDE1OWQ3ODg5ZjE5MzZiYTI4NjAzYTU2YmY1MjMwMzFlMTdmYTk1",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Louis Vuitton",
         "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 270241,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2021-11-12 16:22:17",

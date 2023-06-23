@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: CHO & Emms",
+  "description": "Motion en good vibes! Cover: Ashafar, Josylvio & Dopebwoy",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 162777,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/4v7jRO3iw5Wcy8IVPF4JNy"
@@ -1257,6 +1257,32 @@
     },
     {
       "album": {
+        "name": "Ban Pami",
+        "url": "https://open.spotify.com/album/3YQwlzf40HSktZ8hMSw2DF"
+      },
+      "artists": [
+        {
+          "name": "Ori",
+          "url": "https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1"
+        },
+        {
+          "name": "Boykii",
+          "url": "https://open.spotify.com/artist/3j62Is7UouiuIWT5c3ykmH"
+        },
+        {
+          "name": "Kevin Key",
+          "url": "https://open.spotify.com/artist/0Icgh2uA5f0EBzvGZWSeUU"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ban Pami",
+      "url": "https://open.spotify.com/track/36T2XdhpmLFocIvJT7CafN"
+    },
+    {
+      "album": {
         "name": "Banana",
         "url": "https://open.spotify.com/album/0CidSPfyHc1IogMn39b8fv"
       },
@@ -1430,6 +1456,28 @@
       "duration_ms": 200000,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp"
+    },
+    {
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/0Fhl0V0CU8WRvAH8U34ML8"
+      },
+      "artists": [
+        {
+          "name": "Limitless",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138687,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4oYsDGK6eFXB1zg6pWb1Hj"
     },
     {
       "album": {
@@ -1724,7 +1772,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 146138,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/5YgZVsSkcpoLXTpjT61xxA"
@@ -5517,6 +5565,28 @@
     },
     {
       "album": {
+        "name": "Jhalak",
+        "url": "https://open.spotify.com/album/48m2dHU0kszrZiNZwwlzcN"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153521,
+      "name": "Jhalak",
+      "url": "https://open.spotify.com/track/4jySosSV8hElpCyfZ2mV6K"
+    },
+    {
+      "album": {
         "name": "Jini",
         "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
       },
@@ -6816,6 +6886,24 @@
       "duration_ms": 159130,
       "name": "MALO",
       "url": "https://open.spotify.com/track/6rrvp92Tq5z4BgZp7fCyA2"
+    },
+    {
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/11kWdWt8YL8h7nKcNKB9p3"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138051,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/7mrhc9jiOHMuP10wZGKHoA"
     },
     {
       "album": {
@@ -8279,6 +8367,32 @@
     },
     {
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/3FLk672mgtjHER0ziPmlJs"
+      },
+      "artists": [
+        {
+          "name": "IND!GO",
+          "url": "https://open.spotify.com/artist/2goNbhRi08m34aSQPf3hXc"
+        },
+        {
+          "name": "Syllaa",
+          "url": "https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52"
+        },
+        {
+          "name": "Djeckman",
+          "url": "https://open.spotify.com/artist/0sOfQJh2Cgr8Uak5F6dO0F"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/2iuRmiKpi7kirX5KWGA9XK"
+    },
+    {
+      "album": {
         "name": "Moscato",
         "url": "https://open.spotify.com/album/5KAfXsur99a2zCDVublp40"
       },
@@ -8940,7 +9054,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 214280,
       "name": "PASSA PASSA PASSA",
       "url": "https://open.spotify.com/track/6x7LwtkzFYwcCKJgvNt7Io"
@@ -9434,10 +9548,36 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 190786,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/1DL1Guxy1nD4dIOMqlf0yO"
+      },
+      "artists": [
+        {
+          "name": "Ovano",
+          "url": "https://open.spotify.com/artist/25H0faXHYciO3kWOCfdn03"
+        },
+        {
+          "name": "Jones Suave",
+          "url": "https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo"
+        },
+        {
+          "name": "Peso El Connect",
+          "url": "https://open.spotify.com/artist/3DHIq4oCIITJXI82lGv4IC"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148580,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/4HZTi3UCEeT2EW9JjgYCTO"
     },
     {
       "album": {
@@ -9526,6 +9666,24 @@
       "duration_ms": 171411,
       "name": "Reach For The Starz",
       "url": "https://open.spotify.com/track/5y3atT6B6HpEFs21oWKkfL"
+    },
+    {
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "album": {
@@ -12161,6 +12319,32 @@
     },
     {
       "album": {
+        "name": "We Moeten Door",
+        "url": "https://open.spotify.com/album/5U4W8g2lf3AjxnGZdvQjTI"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "FeestDJRuud",
+          "url": "https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132478,
+      "name": "We Moeten Door",
+      "url": "https://open.spotify.com/track/3LsdhPYQqoAbuDo2sEAzGz"
+    },
+    {
+      "album": {
         "name": "Beweging",
         "url": "https://open.spotify.com/album/0SftZtLQQhK0Tv3FcHNN3Z"
       },
@@ -12422,6 +12606,50 @@
       "duration_ms": 193723,
       "name": "Yaad Meri",
       "url": "https://open.spotify.com/track/5oNCkHYZugVdtHOtKDvKxc"
+    },
+    {
+      "album": {
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "album": {

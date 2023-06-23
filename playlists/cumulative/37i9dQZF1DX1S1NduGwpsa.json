@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Norah Jones",
+  "description": "The best jazz new releases. Cover: Meshell Ndegeocello",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 319379,
       "name": "A Lullaby for Constance",
       "url": "https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 310900,
       "name": "Back on the beat",
       "url": "https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX"
@@ -1101,6 +1101,36 @@
     },
     {
       "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Deantoni Parks",
+          "url": "https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "Sanford Biggers",
+          "url": "https://open.spotify.com/artist/3gZXyYaWIgjAYpx8XdokiR"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275295,
+      "name": "Clear Water (feat. Deantoni Parks, Jeff Parker, Sanford Biggers)",
+      "url": "https://open.spotify.com/track/3aeFAZzP1MrbbJTLzG9VI9"
+    },
+    {
+      "album": {
         "name": "Coltrane Plays The Blues",
         "url": "https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO"
       },
@@ -1386,6 +1416,28 @@
       "duration_ms": 460333,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/07GkA3KuDuE1aCSdT260Fh"
+    },
+    {
+      "album": {
+        "name": "Entre eux deux (The Paris Sessions)",
+        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "Darling Fare Thee Well - The Paris Sessions",
+      "url": "https://open.spotify.com/track/3KAeMur76miJyksT51VP9x"
     },
     {
       "album": {
@@ -1930,7 +1982,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
@@ -2850,7 +2902,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 187005,
       "name": "Just Me This Year",
       "url": "https://open.spotify.com/track/0pVUyPxZk9qYINtd0nsWhG"
@@ -2884,6 +2936,24 @@
       "duration_ms": 322413,
       "name": "Just One of Those Things",
       "url": "https://open.spotify.com/track/5lXB6VECoq3guxWmuCmBOL"
+    },
+    {
+      "album": {
+        "name": "Just the Beginning",
+        "url": "https://open.spotify.com/album/2UJs0fSUEiBDy9MKcugiQF"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206606,
+      "name": "Just the Beginning",
+      "url": "https://open.spotify.com/track/5Kah2gopowr7IVS1ZBEOlo"
     },
     {
       "album": {
@@ -3358,6 +3428,36 @@
       "duration_ms": 225368,
       "name": "Matter",
       "url": "https://open.spotify.com/track/0u3Zx4Id7vUw1JaTOmCx9v"
+    },
+    {
+      "album": {
+        "name": "Means The World",
+        "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Gareth Lockrane",
+          "url": "https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "Means The World",
+      "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
       "album": {

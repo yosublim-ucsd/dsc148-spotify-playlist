@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。6月20日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,940 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,032 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/2ruHYPN3a77Ra8WvvPyfwb) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [WHITE](https://open.spotify.com/album/5pLjsnW9X7xn7cZCpMQnQd) | 4:57 |
 | 50 | [Sparkler](https://open.spotify.com/track/1iEBG7ora2itzVtN1h20n2) | [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [S](https://open.spotify.com/album/02BVA1M0IgtIWBxc9CBulB) | 3:24 |
 
-Snapshot ID: `MCxhNGU2YWI3NGZmYjk2N2IyMWQyNTQ3OTg5NTI5MDIyZDBkZDRhMzg5`
+Snapshot ID: `MCw0YjdkMzg1YmRjZWVlMTk3YWQ2Y2NhNTg1NjE0ZjY0ZDk5MjBlZGUx`

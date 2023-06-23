@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 45931,
+  "num_followers": 45930,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGIwYTdhZDlkMTQ5NDg2Mjc4NWUyNDk1M2NjYzRiZWRjMzQ3Yzg2",
+  "snapshot_id": "MCxlMzQyZmU1ZjY5YTcwODg4YzBjMTBjYzg4MzJjYTUzZGEyMzdhZDBl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/0RR7qfOCOOHXbPAO1P3G5b"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/7sxr5Pvovng4ECTiCqeSWm"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I Only See the Moon",
-        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "I Only See the Moon",
-      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1131,6 +1099,22 @@
       "duration_ms": 93360,
       "name": "Lisbon, OH",
       "url": "https://open.spotify.com/track/4mm2qeRlk8Y6IuiXPEPrkK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "I Only See the Moon",
+        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "I Only See the Moon",
+      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 275144,
       "name": "What It Means to Be Human",
       "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
     }
   ],
   "unique_name": "night light ",

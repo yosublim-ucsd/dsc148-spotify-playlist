@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 147323,
+  "num_followers": 147325,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzdkZTU3YTUzYzZmYjk1MDM1NjQzZWUxYTI2ZDhiYTBjYjkwN2I3",
+  "snapshot_id": "MCxhZGJlMTQzNWZlZDgxNzAzZjQ3MmYzM2E5ODgzNGM5YmM5YzY1YTll",
   "tracks": [
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "[\u03b2]",
         "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1183,6 +1183,22 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1327,22 +1343,6 @@
       "duration_ms": 280533,
       "name": "How Would You Feel (Paean)",
       "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Still the Same (feat. Boy In Space)",
         "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1687,22 +1703,6 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Why Her Not Me - EP",
-        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 219012,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 240866,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Why Her Not Me - EP",
+        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 219012,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
     },
     {
       "added_at": "2023-05-03 09:50:55",

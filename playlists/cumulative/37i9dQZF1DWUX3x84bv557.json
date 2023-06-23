@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Pjotr & Melissa Lopes",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Bilal Wahib",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 137164,
       "name": "Ben Je Wakker?",
       "url": "https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 165354,
       "name": "Blijf Nog Even Hier",
       "url": "https://open.spotify.com/track/0cv8BexgGcfJE8TZcdmqpW"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 176782,
       "name": "Blijf Weg",
       "url": "https://open.spotify.com/track/4R6NnKwNseYYWtBXaMW6WX"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 173142,
       "name": "Bliksem & Donder",
       "url": "https://open.spotify.com/track/5yLofVcRARtVdO6Ja3YXsB"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 212091,
       "name": "De Helft Van Je Hart",
       "url": "https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN"
@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Dinsdagdip",
+        "url": "https://open.spotify.com/album/2jS8qOn7cSDcLyVnGd0VA0"
+      },
+      "artists": [
+        {
+          "name": "Naduah",
+          "url": "https://open.spotify.com/artist/1xGYbvUJwSKAkszVQJDzAd"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162457,
+      "name": "Dinsdagdip",
+      "url": "https://open.spotify.com/track/0lWnMTPojFUbHAXSEqXvj5"
+    },
+    {
+      "album": {
         "name": "Dit Moet Verliefd Zijn",
         "url": "https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq"
       },
@@ -1232,6 +1250,28 @@
       "duration_ms": 164916,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/52idFfxIoylObbiWLQvpMq"
+    },
+    {
+      "album": {
+        "name": "Per Ongeluk",
+        "url": "https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        },
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Droom Het Donker Weg (feat. MEAU)",
+      "url": "https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l"
     },
     {
       "album": {
@@ -1594,7 +1634,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 223028,
       "name": "Goed Nieuws",
       "url": "https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 190458,
       "name": "Hopeloze Dromenloosheid",
       "url": "https://open.spotify.com/track/2CrfkhNaUXD9BVedDjYylH"
@@ -2441,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Lakens",
+        "url": "https://open.spotify.com/album/33KaHeTCTvQBlOaJy98Pxm"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171024,
+      "name": "Lakens",
+      "url": "https://open.spotify.com/track/2O4rUniWWA1K1vrUwCFQok"
+    },
+    {
+      "album": {
         "name": "Later Als Ik Groot Ben",
         "url": "https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4"
       },
@@ -2958,7 +3016,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 163000,
       "name": "Net Zo Gek Als Ik (feat. Diggy Dex)",
       "url": "https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163"
@@ -3128,7 +3186,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 187777,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM"
@@ -3363,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Rotterdam",
+        "url": "https://open.spotify.com/album/5RIOlXdqpsDkJNl2WLdgPC"
+      },
+      "artists": [
+        {
+          "name": "Huize Lucas",
+          "url": "https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187056,
+      "name": "Rotterdam",
+      "url": "https://open.spotify.com/track/156a5itNldVPstH3WoFnFq"
+    },
+    {
+      "album": {
         "name": "Ruggengraat",
         "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
@@ -3418,6 +3494,24 @@
       "duration_ms": 199562,
       "name": "Signalen",
       "url": "https://open.spotify.com/track/3sXuzqUTUbLQqAcCYvNu1B"
+    },
+    {
+      "album": {
+        "name": "Simone",
+        "url": "https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150999,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/233KjtSp13hed57BJgRjul"
     },
     {
       "album": {
@@ -3544,6 +3638,28 @@
       "duration_ms": 127392,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk"
+    },
+    {
+      "album": {
+        "name": "Sterallures",
+        "url": "https://open.spotify.com/album/5FkeEs40WayZ59XSWX6YcW"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Toney",
+          "url": "https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8"
+        },
+        {
+          "name": "The Boy Next Door",
+          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145422,
+      "name": "Sterallures",
+      "url": "https://open.spotify.com/track/2ZnJgOaJKJWgWfQ5YmlsRg"
     },
     {
       "album": {
@@ -3995,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Verslaafd Aan Jou",
+        "url": "https://open.spotify.com/album/0pCCSLbQb8Z2g5G6UcKXxa"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142727,
+      "name": "Verslaafd Aan Jou",
+      "url": "https://open.spotify.com/track/4UrxaR3dIMlaViWp34W7nL"
+    },
+    {
+      "album": {
         "name": "Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen",
         "url": "https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS"
       },
@@ -4412,6 +4546,42 @@
       "duration_ms": 132500,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/7vi24RDlbTnQOqDBrWt2K6"
+    },
+    {
+      "album": {
+        "name": "Zoveel Mooie Dagen",
+        "url": "https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149045,
+      "name": "Zoveel Mooie Dagen",
+      "url": "https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr"
+    },
+    {
+      "album": {
+        "name": "Mella",
+        "url": "https://open.spotify.com/album/4xXNRMUoZ63lFC8zb0bV86"
+      },
+      "artists": [
+        {
+          "name": "Glen Faria",
+          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "Zwaaien Naar Het Verleden",
+      "url": "https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l"
     },
     {
       "album": {

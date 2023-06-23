@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
@@ -2431,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "Flores de esti\u00e9rcol",
+        "url": "https://open.spotify.com/album/37jmp40ij97t8aN6TCCFR4"
+      },
+      "artists": [
+        {
+          "name": "Casas y la Pistola",
+          "url": "https://open.spotify.com/artist/0XRRf4mGKSrqxda5MXavdp"
+        },
+        {
+          "name": "Chencho Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/47amZWlp7EeHxiEOeP6zM1"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Flores de esti\u00e9rcol",
+      "url": "https://open.spotify.com/track/4C7NxBIpbsLUNZy0lWpGjw"
+    },
+    {
+      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 210333,
       "name": "Fuegos",
       "url": "https://open.spotify.com/track/2CbDi0mlBlZs8H6n7qNuI9"
@@ -2794,7 +2816,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
@@ -3039,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "La Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4InjzjFfbLyH0dBWim1ZOR"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206328,
+      "name": "La Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3OKTOH1focfykpfG8qhwIS"
+    },
+    {
+      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -3274,7 +3314,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 199226,
       "name": "Lucha de Gigantes",
       "url": "https://open.spotify.com/track/5afAcSipBblWpFBxU93khB"
@@ -3864,7 +3904,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
@@ -4191,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19sp4hLVnkYnD0T4GgtvHt"
+      },
+      "artists": [
+        {
+          "name": "Javier Ojeda",
+          "url": "https://open.spotify.com/artist/7qyL6M8Rib3S7jLWOYUjaI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "Por amor viviremos",
+      "url": "https://open.spotify.com/track/6UlDs030fd8vjzjne7OKwR"
+    },
+    {
+      "album": {
         "name": "Fitograf\u00eda",
         "url": "https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug"
       },
@@ -4274,10 +4332,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 197955,
       "name": "Puntos Cardinales",
       "url": "https://open.spotify.com/track/0aT7bu51VYDV4GcO4zUCod"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro Herido",
+        "url": "https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78"
+      },
+      "artists": [
+        {
+          "name": "Pancho Varona",
+          "url": "https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245348,
+      "name": "P\u00e1jaro Herido",
+      "url": "https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI"
     },
     {
       "album": {
@@ -4944,7 +5020,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 232306,
       "name": "Soy Un Truhan, Soy Un Se\u00f1or",
       "url": "https://open.spotify.com/track/3I2GDUdv7y5GblX2dV2DIG"
@@ -4966,6 +5042,24 @@
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Que Recuerdo",
+        "url": "https://open.spotify.com/album/2ehuT4TReCHojk66FeSUUF"
+      },
+      "artists": [
+        {
+          "name": "Kike Jambalaya",
+          "url": "https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230791,
+      "name": "Sue\u00f1o Que Recuerdo",
+      "url": "https://open.spotify.com/track/6lbawxyvWMsOr2vZNaLwvL"
     },
     {
       "album": {
@@ -5009,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Tenemos Algo Que Solucionar",
+        "url": "https://open.spotify.com/album/1z141GDxf23yAs43ORmjLs"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277193,
+      "name": "Tenemos Algo Que Solucionar",
+      "url": "https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69"
+    },
+    {
+      "album": {
         "name": "Love and Oz, Vol. 2",
         "url": "https://open.spotify.com/album/0oNrwS3eNmjchGEpNzK7Ds"
       },
@@ -5024,6 +5136,24 @@
       "duration_ms": 257127,
       "name": "Todo lo que soy",
       "url": "https://open.spotify.com/track/1RNa9QJIxFvr0QJZ4zmXCq"
+    },
+    {
+      "album": {
+        "name": "Todo por la ciencia",
+        "url": "https://open.spotify.com/album/0CWpZSsqcp83cR5YhijS1T"
+      },
+      "artists": [
+        {
+          "name": "Playa Cuberris",
+          "url": "https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218650,
+      "name": "Todo por la ciencia",
+      "url": "https://open.spotify.com/track/1cWmYqDXczTGKiNF0vvdD9"
     },
     {
       "album": {
@@ -5146,10 +5276,32 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 192573,
       "name": "Tu mejor versi\u00f3n",
       "url": "https://open.spotify.com/track/4jcJAVg8tLaAI6bGZkQHCW"
+    },
+    {
+      "album": {
+        "name": "T\u00f3malo",
+        "url": "https://open.spotify.com/album/60us7zkHW1FYUCy0ppS1Gz"
+      },
+      "artists": [
+        {
+          "name": "O'Funk'illo",
+          "url": "https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8"
+        },
+        {
+          "name": "Cristian de Moret",
+          "url": "https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "T\u00f3malo",
+      "url": "https://open.spotify.com/track/2iNJLWve5nchk4PJZQMevq"
     },
     {
       "album": {

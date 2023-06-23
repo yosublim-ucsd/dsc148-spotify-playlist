@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-172 songs - 12 hr 19 min
+173 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/6qri41E9NdJ9DxNdNSnCVX) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 5:47 | 2021-12-01 | 2022-12-01 |
 | [Sons and Daughters](https://open.spotify.com/track/3U2vadNjmZQ7KXvqZCagyD) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [My Hope Has Come](https://open.spotify.com/album/3qKpm6dTek64O98xFgY38R) | 6:47 | 2021-12-01 | 2022-12-01 |
 | [Sound Mind \- Live](https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y) | [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [The Land I'm Livin' In \(Live\)](https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V) | 8:23 | 2022-12-01 |  |
-| [Soy Deudor](https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3) | 5:35 | 2022-12-01 |  |
+| [Soy Deudor](https://open.spotify.com/track/1IbnT6mgBG3ep85VjO5Idz) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/1RCfhnNcvUcgzeIKsJI7x1) | 5:35 | 2022-12-01 |  |
+| [Soy Deudor](https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3) | 5:35 | 2022-12-01 | 2023-06-23 |
 | [Spread The Opps](https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:01 | 2022-12-01 |  |
 | [Stayed On Him \(Isaiah 26:3\)](https://open.spotify.com/track/3n6Y6eZ1PIq8DOBcQJHVkK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:59 | 2021-12-01 | 2022-12-01 |
 | [Sunday Sermons](https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:20 | 2022-12-01 |  |

@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150000,
       "name": "Kya Pata",
       "url": "https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G"
@@ -1690,6 +1690,24 @@
       "duration_ms": 190531,
       "name": "Reh Gayi Yaadein (Feat. Akanksha Bhandari)",
       "url": "https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l"
+    },
+    {
+      "album": {
+        "name": "Saadgi",
+        "url": "https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR"
+      },
+      "artists": [
+        {
+          "name": "Rahul Jain",
+          "url": "https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249677,
+      "name": "Saadgi",
+      "url": "https://open.spotify.com/track/0w891ljZDidc50QRARZxL6"
     },
     {
       "album": {

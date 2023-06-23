@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: Tauren Wells
+> The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-399 songs - 1 day 0 hr 37 min
+401 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Frontin' \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PXs5P69Ab5cSxWaE6Y6wd) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 4:18 | 2021-09-24 | 2022-07-24 |
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 | 2021-09-24 |  |
 | [Get You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:46 | 2022-03-24 |  |
-| [Gimme More \- Spotify Singles](https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:52 | 2023-05-31 |  |
+| [Gimme More \- Spotify Singles](https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:52 | 2023-05-31 | 2023-06-23 |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-09-24 |  |
 | [Girls Just Wanna Have Fun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:43 | 2021-09-24 |  |
 | [Give Yourself a Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4LEkamb9xfjXN2WccLZzgb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/7c99hQVIhlC7u9zWo1O3SS) | 4:05 | 2021-09-24 | 2022-07-28 |
@@ -324,7 +324,7 @@
 | [Stolen Car \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3HpVHymskHasjzZ13OdNPo) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/032NDbaKcxfTZK6iz7wwPu) | 3:43 | 2021-09-24 | 2022-04-20 |
 | [Strange Fruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3RTDAzlEemeaQTGGLWCqZV) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Spotify Singles](https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00) | 2:37 | 2022-03-09 | 2022-05-10 |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 | 2021-09-24 | 2022-07-29 |
-| [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2022-06-07 |  |
+| [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2022-06-07 | 2023-06-23 |
 | [Suburbia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 4:04 | 2022-03-24 | 2022-04-20 |
 | [Sugar Man \- Spotify Singles](https://open.spotify.com/track/1CQNof97BOKANyheEifHiQ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Spotify Singles](https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV) | 4:21 | 2021-09-24 | 2022-07-29 |
 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY) | 3:34 | 2022-10-03 |  |
@@ -349,10 +349,12 @@
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-03 |  |
 | [Thirteen \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:17 | 2021-09-24 | 2022-07-29 |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-09-24 |  |
+| [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-06-22 |  |
 | [Time Fades Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4k8gS9jSq9707NumLSkssT) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 6:17 | 2022-03-24 | 2022-04-21 |
 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0CLtsfTgbVXORxfwqUbcVc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 3:35 | 2021-09-24 | 2022-07-28 |
 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 | 2021-09-24 |  |
 | [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 | 2023-05-16 |  |
+| [True Colors](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 | 2023-06-22 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-06-07 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 | 2021-09-24 | 2022-07-29 |
 | [Try Again \- Jim Eno Sessions](https://open.spotify.com/track/7uHEDuhRWJQGSOWz9hlx9K) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:33 | 2022-03-24 | 2022-04-20 |

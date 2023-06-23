@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Alan Gomez & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,999 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,119 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 82 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
 | 83 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 |
 | 84 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
-| 85 | [Tacones Rojos](https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r) | 3:04 |
+| 85 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
 | 86 | [Me Duele Tu Nombre](https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre](https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY) | 4:56 |
 | 87 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 | 88 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 91 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 | 92 | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm) | 3:12 |
 | 93 | [Todo Me Recuerda a Ti / Después de Ti / Dale Mami](https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [El 22](https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF) | 8:00 |
-| 94 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
+| 94 | [Tacones Rojos](https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r) | 3:04 |
 | 95 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
 | 96 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
 | 97 | [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
 | 100 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 
-Snapshot ID: `MCw0ZGU1YTdjY2IyMmExOGEyNzAwNWVlYzUxNjk4ZWM4OWEwNTRhNmNm`
+Snapshot ID: `MCw4ZDY2ZGIxZjU1Mzc4ZmU5OGNiMDAzYTJjOWIxZmE2ZGY3N2EyZjNl`

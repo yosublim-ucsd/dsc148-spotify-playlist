@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,154 songs - 2 day 14 hr 52 min
+1,155 songs - 2 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-06 |  |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-07-13 | 2022-07-18 |
 | [Querer Querernos](https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect) | [Fritrs rei](https://open.spotify.com/artist/59znsfjXjaGujWu9CyYOOV), [Canserberr1](https://open.spotify.com/artist/6K4qNicoWGe1LzpUjPt3Bt) | [Querer Querernos](https://open.spotify.com/album/4wSzIa7QnZ6s6SBdvKc6oU) | 3:51 | 2022-05-26 | 2023-05-31 |
+| [Querer Querernos](https://open.spotify.com/track/1EZGCkexrlADoOmlRJlGBR) | [yeifin](https://open.spotify.com/artist/0D5iW5yV5Sb0DYRvKZjNeW) | [Querer Querernos](https://open.spotify.com/album/606D5VLGNo08D63X3p8dfN) | 3:57 | 2023-06-22 |  |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-02 | 2022-10-25 |
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-11-27 | 2023-01-06 |
 | [Quiero Parecerme a Mi Papá](https://open.spotify.com/track/1yVhsdkHVUStr2nbRpJrky) | [Topo Gigio](https://open.spotify.com/artist/4VRf73oEPQ4kniW6RuuypG) | [Topo Gigio](https://open.spotify.com/album/4lJP4EdigfZqtboEhJz8Mf) | 2:29 | 2023-06-20 |  |
@@ -919,7 +920,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-30 | 2022-09-12 |
 | [Si Tú Quieres](https://open.spotify.com/track/51LfO8PLG7Qi0sUwA74tCw) | [Elefante](https://open.spotify.com/artist/0TUSaw9zt3qaFwQr4Z9e2j) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 5:24 | 2023-01-04 | 2023-01-13 |
 | [Si Tú Te Vas](https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Si Tú Te Vas](https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV) | 3:29 | 2022-08-30 | 2022-09-15 |
-| [Si, Si Eres Tu](https://open.spotify.com/track/5vdbHnYhtraFF6vM9ZmenK) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Si, Si Eres Tu](https://open.spotify.com/album/7B270x2EC9NcKZxl8XXCAW) | 2:54 | 2023-06-06 |  |
+| [Si, Si Eres Tu](https://open.spotify.com/track/5vdbHnYhtraFF6vM9ZmenK) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Si, Si Eres Tu](https://open.spotify.com/album/7B270x2EC9NcKZxl8XXCAW) | 2:54 | 2023-06-06 | 2023-06-23 |
 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-09-08 | 2022-10-31 |
 | [Sigo Brillando](https://open.spotify.com/track/7jBt3v6vrPtiZoFMTYmeVa) | [Natanael Kong](https://open.spotify.com/artist/2a7qOWwPHcWQ46GNh4ixmg) | [Sigo Brillando](https://open.spotify.com/album/6B8dNxJ4LpBQDDG5MnsXLr) | 2:19 | 2022-04-05 | 2022-04-13 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-02-25 | 2023-03-12 |

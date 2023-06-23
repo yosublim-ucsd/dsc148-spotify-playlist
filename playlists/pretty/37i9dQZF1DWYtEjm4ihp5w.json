@@ -1,15 +1,111 @@
 {
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Stormy",
-  "num_followers": 106698,
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Shobee",
+  "num_followers": 106766,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmRjNmE3NzFkZjg5NGY1YmJmOTU1ZjA1Njc2M2U0OWQ4ZWQ0M2Fi",
+  "snapshot_id": "MCw2ZDIyOGVmZWZiMzAxYTI4NTRmOWNjMDA1ZDY1ZjI2NmFiZTE2NzQ5",
   "tracks": [
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "HOWLS",
+        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Work (feat. Madd)",
+      "url": "https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Lmektoub",
+        "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 199215,
+      "name": "R.I.P",
+      "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "POUFA",
+        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 151575,
+      "name": "POUFA",
+      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "HOWLS",
+        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Lmektoub",
+        "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Nichane",
+      "url": "https://open.spotify.com/track/18mE2O1ogNq2OFW71jfyS0"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Before Iceberg",
         "url": "https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW"
@@ -25,7 +121,27 @@
       "url": "https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Plainte",
+        "url": "https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        },
+        {
+          "name": "Moro",
+          "url": "https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Plainte",
+      "url": "https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "GHETTO STAR",
         "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
@@ -45,7 +161,7 @@
       "url": "https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
@@ -61,7 +177,7 @@
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "7bss Tmout",
         "url": "https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2"
@@ -77,23 +193,27 @@
       "url": "https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "POUFA",
-        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
+        "name": "HOWLS",
+        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
       },
       "artists": [
         {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
         }
       ],
-      "duration_ms": 151575,
-      "name": "POUFA",
-      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
+      "duration_ms": 121293,
+      "name": "Committed (feat. Snor)",
+      "url": "https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Fly Emirates",
         "url": "https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM"
@@ -109,7 +229,7 @@
       "url": "https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "WILI",
         "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
@@ -125,31 +245,39 @@
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG"
       },
       "artists": [
         {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
-        },
-        {
-          "name": "Wegz",
-          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
-        },
-        {
-          "name": "Soufiane Az",
-          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+          "name": "El Ayo",
+          "url": "https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+      "duration_ms": 151547,
+      "name": "Bin o Bin",
+      "url": "https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "ALLO A!",
+        "url": "https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "duration_ms": 211612,
+      "name": "ALLO A!",
+      "url": "https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -169,39 +297,7 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG"
-      },
-      "artists": [
-        {
-          "name": "El Ayo",
-          "url": "https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW"
-        }
-      ],
-      "duration_ms": 151547,
-      "name": "Bin o Bin",
-      "url": "https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "ALLO A!",
-        "url": "https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 211612,
-      "name": "ALLO A!",
-      "url": "https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "GHETTO STAR",
         "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
@@ -225,23 +321,63 @@
       "url": "https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Helma",
-        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+        "name": "Bondagani",
+        "url": "https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb"
       },
       "artists": [
         {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+          "name": "Loun",
+          "url": "https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB"
         }
       ],
-      "duration_ms": 163527,
-      "name": "Helma",
-      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
+      "duration_ms": 134693,
+      "name": "Bondagani",
+      "url": "https://open.spotify.com/track/0f442OjFSbQ5gpbBlvaJTI"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "RAMSES",
+        "url": "https://open.spotify.com/album/3ilhA0ugGZ9UYckz529fUw"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 186537,
+      "name": "RAMSES",
+      "url": "https://open.spotify.com/track/7hjueI3R4N765QrBuChXgg"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -257,7 +393,7 @@
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG"
@@ -273,7 +409,7 @@
       "url": "https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Iori 5",
         "url": "https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb"
@@ -289,23 +425,23 @@
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "UNICEF",
-        "url": "https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1"
+        "name": "FORSSA",
+        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
       },
       "artists": [
         {
-          "name": "Furelise",
-          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
-      "duration_ms": 150379,
-      "name": "UNICEF",
-      "url": "https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE"
+      "duration_ms": 197785,
+      "name": "FORSSA",
+      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "LILA",
         "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
@@ -321,23 +457,7 @@
       "url": "https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "POWER - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS"
-      },
-      "artists": [
-        {
-          "name": "Shobee",
-          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "POWER - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Dexter",
         "url": "https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI"
@@ -353,7 +473,7 @@
       "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "FTA",
         "url": "https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO"
@@ -373,39 +493,7 @@
       "url": "https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Alam",
-        "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
-      },
-      "artists": [
-        {
-          "name": "OUENZA",
-          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
-        }
-      ],
-      "duration_ms": 104310,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1Q4NoELNdh14jm48P4HdsR"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "M3a L3echrane",
-        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "M3a L3echrane",
-      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
@@ -421,23 +509,7 @@
       "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "FORSSA",
-        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 197785,
-      "name": "FORSSA",
-      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -453,7 +525,23 @@
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "SME3NI",
         "url": "https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb"
@@ -469,7 +557,7 @@
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -485,7 +573,7 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "trap roumi v4",
         "url": "https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "MIXDEEP",
         "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Sur la selle",
         "url": "https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY"
@@ -537,71 +625,7 @@
       "url": "https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Gueule tap\u00e9e",
-        "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gueule tap\u00e9e",
-      "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Taline",
-        "url": "https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Taline",
-      "url": "https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 148188,
-      "name": "El barrio",
-      "url": "https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Nadi Canadi",
-        "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 221379,
-      "name": "Nadi Canadi",
-      "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Wayli",
         "url": "https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE"
@@ -617,7 +641,7 @@
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx"
@@ -653,103 +677,7 @@
       "url": "https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Haram (Pablo II)",
-        "url": "https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Haram (Pablo II)",
-      "url": "https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Denbi",
-        "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
-      },
-      "artists": [
-        {
-          "name": "OUENZA",
-          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Denbi",
-      "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "ZORRO$",
-        "url": "https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry"
-      },
-      "artists": [
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 164883,
-      "name": "\u00d8KH\u00d8WA Pt. 2",
-      "url": "https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Alatif",
-        "url": "https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx"
-      },
-      "artists": [
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Alatif",
-      "url": "https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Faux D\u00e9part",
-        "url": "https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM"
-      },
-      "artists": [
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        }
-      ],
-      "duration_ms": 165194,
-      "name": "Faux D\u00e9part",
-      "url": "https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Badi 7efyan",
-        "url": "https://open.spotify.com/album/3t1nl0L9oxhZwm12EQijip"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 159456,
-      "name": "Badi 7efyan",
-      "url": "https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX"
@@ -769,7 +697,87 @@
       "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Denbi",
+        "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Denbi",
+      "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "ZORRO$",
+        "url": "https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 164883,
+      "name": "\u00d8KH\u00d8WA Pt. 2",
+      "url": "https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Badi 7efyan",
+        "url": "https://open.spotify.com/album/3t1nl0L9oxhZwm12EQijip"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 159456,
+      "name": "Badi 7efyan",
+      "url": "https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Haram (Pablo II)",
+        "url": "https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Haram (Pablo II)",
+      "url": "https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "INARA",
         "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
@@ -785,23 +793,7 @@
       "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Numero Uno (V2)",
-        "url": "https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 217335,
-      "name": "Numero Uno - V2",
-      "url": "https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt"
@@ -817,7 +809,7 @@
       "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Sucr\u00e9 Sal\u00e9",
         "url": "https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT"
@@ -833,7 +825,31 @@
       "url": "https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "IMPOLIS",
+        "url": "https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "X7kira",
+          "url": "https://open.spotify.com/artist/2DpWLjgk0DpATSJeWPWL3i"
+        },
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        }
+      ],
+      "duration_ms": 236901,
+      "name": "IMPOLIS",
+      "url": "https://open.spotify.com/track/2zJCocfV6VTMDQScL4XUVN"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Cagoul\u00e9",
         "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
@@ -847,6 +863,22 @@
       "duration_ms": 190781,
       "name": "La Weed",
       "url": "https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Numero Uno (V2)",
+        "url": "https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 217335,
+      "name": "Numero Uno - V2",
+      "url": "https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b"
     }
   ],
   "unique_name": "ABAT\u2211RA",

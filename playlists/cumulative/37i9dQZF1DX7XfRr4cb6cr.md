@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-218 songs - 19 hr 4 min
+219 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |
+| [Northern Light](https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM) | 2:32 | 2023-04-21 |  |
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 |  |
 | [notes of a crocodile](https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 1:29 | 2022-01-21 |  |
 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 | 2022-01-21 | 2022-10-08 |
@@ -215,7 +216,7 @@
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
-| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
+| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2023-06-23 |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-04-06 |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 | 2023-04-22 |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |

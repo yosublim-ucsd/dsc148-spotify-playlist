@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-104 songs - 8 hr 9 min
+105 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Canão Foi Tão Bom](https://open.spotify.com/track/2XdblGYWcBnelh5Xq6yK3j) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Lakers](https://open.spotify.com/artist/7xBPUbBNVmZ35PyE1HkQQH), [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Ganjaman](https://open.spotify.com/artist/79mxlrrJVr1pRtuTfHIgQK) | [Sabotage](https://open.spotify.com/album/54fqpmy2k6wjUGdPSxN8Me) | 5:30 | 2022-03-11 | 2022-07-29 |
 | [Canão Foi Tão Bom](https://open.spotify.com/track/0bqNG1CGfhfE7iy6Fk5wG8) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Lakers](https://open.spotify.com/artist/7xBPUbBNVmZ35PyE1HkQQH), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Ganjaman](https://open.spotify.com/artist/79mxlrrJVr1pRtuTfHIgQK) | [Sabotage](https://open.spotify.com/album/78FGMj1ZqjV8J8AgKcej93) | 5:30 | 2022-04-22 |  |
 | [Capítulo 4, Versículo 3](https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 8:06 | 2022-03-11 |  |
-| [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 | 2022-03-11 |  |
+| [Castelos & Ruínas](https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 4:09 | 2023-03-10 |  |
+| [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 | 2022-03-11 | 2023-06-23 |
 | [Chama os mulekes](https://open.spotify.com/track/133wW6rNFytP7XKIsDhHza) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os neurônios evoluidos](https://open.spotify.com/album/2CGsS0dv6lplvO5KDkooIm) | 5:53 | 2022-03-11 | 2022-07-29 |
 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 | 2022-04-22 |  |
 | [Com Us Amigo No Peão](https://open.spotify.com/track/6l3UcM13VGBdlEmQHjG760) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Hip Hop Machine \#20](https://open.spotify.com/album/5SLh58mVPRk2MUz3jTKVd2) | 4:07 | 2023-01-20 |  |

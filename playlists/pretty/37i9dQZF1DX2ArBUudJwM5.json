@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30308,
+  "num_followers": 30315,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3",
+  "snapshot_id": "MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 257989,
+      "name": "Pensamientos intrusivos",
+      "url": "https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 257989,
-      "name": "Pensamientos intrusivos",
-      "url": "https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Otro Vals",
-        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
+        "name": "En vivo en El Xirgu",
+        "url": "https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Otro Vals",
-      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
+      "duration_ms": 95166,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "En vivo en El Xirgu",
-        "url": "https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ"
+        "name": "Otro Vals",
+        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
       },
       "artists": [
         {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
         }
       ],
-      "duration_ms": 95166,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX"
+      "duration_ms": 222000,
+      "name": "Otro Vals",
+      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "P\u00e1nico y Distorsi\u00f3n",
+        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 240528,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "M\u00e1scara de miel",
         "url": "https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 182717,
       "name": "M\u00e1scara de miel",
       "url": "https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "P\u00e1nico y Distorsi\u00f3n",
-        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 240528,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Papaia",
+        "url": "https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny"
+      },
+      "artists": [
+        {
+          "name": "Susi Pireli",
+          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
+        }
+      ],
+      "duration_ms": 160793,
+      "name": "Papaia",
+      "url": "https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "Atada",
         "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Papaia",
-        "url": "https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny"
-      },
-      "artists": [
-        {
-          "name": "Susi Pireli",
-          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
-        }
-      ],
-      "duration_ms": 160793,
-      "name": "Papaia",
-      "url": "https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 192500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Plaza de Mayo",
-        "url": "https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ"
-      },
-      "artists": [
-        {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        }
-      ],
-      "duration_ms": 212039,
-      "name": "Plaza de Mayo",
-      "url": "https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Enciendo",
-        "url": "https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI"
+        "name": "Plaza de Mayo",
+        "url": "https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ"
       },
       "artists": [
         {
-          "name": "Luz Pereyra",
-          "url": "https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA"
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
         }
       ],
-      "duration_ms": 166277,
-      "name": "Enciendo",
-      "url": "https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1"
+      "duration_ms": 212039,
+      "name": "Plaza de Mayo",
+      "url": "https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Enciendo",
+        "url": "https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI"
+      },
+      "artists": [
+        {
+          "name": "Luz Pereyra",
+          "url": "https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA"
+        }
+      ],
+      "duration_ms": 166277,
+      "name": "Enciendo",
+      "url": "https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "\u0112gida",
         "url": "https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 234598,
       "name": "KRONOS",
       "url": "https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Regi\u00f3n Central",
+        "url": "https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Bl\u00e9fari",
+          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
+        }
+      ],
+      "duration_ms": 247439,
+      "name": "Regi\u00f3n Central",
+      "url": "https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -699,34 +715,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Regi\u00f3n Central",
-        "url": "https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q"
+        "name": "Labios perdidos",
+        "url": "https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT"
       },
       "artists": [
         {
-          "name": "Rosario Bl\u00e9fari",
-          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
+          "name": "Hija de Tigre",
+          "url": "https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK"
         }
       ],
-      "duration_ms": 247439,
-      "name": "Regi\u00f3n Central",
-      "url": "https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Transparente",
-        "url": "https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc"
-      },
-      "artists": [
-        {
-          "name": "Lux Raptor",
-          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
-        }
-      ],
-      "duration_ms": 143969,
-      "name": "Indefinido",
-      "url": "https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO"
+      "duration_ms": 186228,
+      "name": "Labios Perdidos",
+      "url": "https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -747,6 +747,22 @@
       "duration_ms": 128798,
       "name": "A Cara de Perr4",
       "url": "https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc"
+      },
+      "artists": [
+        {
+          "name": "Lux Raptor",
+          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
+        }
+      ],
+      "duration_ms": 143969,
+      "name": "Indefinido",
+      "url": "https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Labios perdidos",
-        "url": "https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT"
+        "name": "Manantyal",
+        "url": "https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK"
       },
       "artists": [
         {
-          "name": "Hija de Tigre",
-          "url": "https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK"
+          "name": "La Fresca",
+          "url": "https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E"
         }
       ],
-      "duration_ms": 186228,
-      "name": "Labios Perdidos",
-      "url": "https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn"
+      "duration_ms": 195877,
+      "name": "Manantyal",
+      "url": "https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 220111,
       "name": "Aplaudan",
       "url": "https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Manantyal",
-        "url": "https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK"
-      },
-      "artists": [
-        {
-          "name": "La Fresca",
-          "url": "https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E"
-        }
-      ],
-      "duration_ms": 195877,
-      "name": "Manantyal",
-      "url": "https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx"
     }
   ],
   "unique_name": "EQUAL Argentina",

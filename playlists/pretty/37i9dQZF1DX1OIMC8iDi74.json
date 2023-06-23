@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 885366,
+  "num_followers": 885362,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWVjODMwZmJjOTIyNmI2OGFiZWZiMzM1MTk1MWVmODIxMjYzNTk2",
+  "snapshot_id": "MCwwMjdhN2UwM2U0YzljZGQ4ODZjY2Q2MDE1OWM1MzQyMDY4Mjc1Y2Jh",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "You Do You",
-        "url": "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
         }
       ],
-      "duration_ms": 177658,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+        "name": "You Do You",
+        "url": "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
         }
       ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+      "duration_ms": 177658,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Radical Dude!",
         "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 212631,
       "name": "Forget It (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Redo",
-        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Redo",
-      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Animal Vegetable Mineral Pt. 1",
         "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Redo",
+        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Redo",
+      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -1447,6 +1431,42 @@
       "duration_ms": 216428,
       "name": "People I Know",
       "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Stinger",
         "url": "https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 230204,
       "name": "Stinger",
       "url": "https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 314840,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "SIDE2SIDE",
-        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 118522,
       "name": "Chicken Wang",
       "url": "https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "SIDE2SIDE",
+        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
     },
     {
       "added_at": "2023-06-09 04:01:00",

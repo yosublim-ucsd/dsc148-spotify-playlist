@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 70521,
+  "num_followers": 70527,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTEwNTRjMzUwOTJkZDUwNTIzOTgyNGJmYWQ4MDllZDZhZDhhMTkw",
+  "snapshot_id": "MCxiZDEyMzIzOWU4NDhlYjkwNGJjMTBiNTIzZjRlMmY1NjZmNmQ4Yzg5",
   "tracks": [
     {
       "added_at": "2023-06-05 21:45:32",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Raro",
         "url": "https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx"
-      },
-      "artists": [
-        {
-          "name": "Reto\u00f1os Del Rio",
-          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "No Quiero Llorar",
         "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Locamente Enamorado",
-        "url": "https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
         }
       ],
-      "duration_ms": 217495,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl"
+      "duration_ms": 182229,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
     },
     {
       "added_at": "2023-04-21 21:43:27",

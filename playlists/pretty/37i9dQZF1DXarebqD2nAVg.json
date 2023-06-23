@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 427042,
+  "num_followers": 427247,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmIwY2YzNzIyNDU1YWQ5YWExZTkwYTVkNjBmODJkMmQ1NDNmYThj",
+  "snapshot_id": "MCxmNTk0MWQ3M2RjMDMzMGFhYzM1NTg2YTVmYWQ2ODAyMThkNDk4Mjc0",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "I Don't Sleep",
-        "url": "https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE"
+        "name": "I Can't Tell You How Much It Hurts",
+        "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
       },
       "artists": [
         {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+          "name": "moow",
+          "url": "https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d"
+        },
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
         }
       ],
-      "duration_ms": 105142,
-      "name": "I Don't Sleep",
-      "url": "https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr"
+      "duration_ms": 97050,
+      "name": "You're in My Head",
+      "url": "https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "I Can't Tell You How Much It Hurts",
-        "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
+        "name": "I Don't Sleep",
+        "url": "https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE"
       },
       "artists": [
         {
-          "name": "moow",
-          "url": "https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d"
-        },
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
         }
       ],
-      "duration_ms": 97050,
-      "name": "You're in My Head",
-      "url": "https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2"
+      "duration_ms": 105142,
+      "name": "I Don't Sleep",
+      "url": "https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 96092,
+      "name": "memories of you",
+      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "With Somebody Else",
         "url": "https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 161406,
       "name": "With Somebody Else",
       "url": "https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
-      },
-      "artists": [
-        {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
-        }
-      ],
-      "duration_ms": 96092,
-      "name": "memories of you",
-      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
     },
     {
       "added_at": "2023-02-16 22:50:07",

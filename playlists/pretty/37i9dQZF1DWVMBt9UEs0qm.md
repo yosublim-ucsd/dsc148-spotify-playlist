@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 
 > Classic pop, rock and folk for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,774 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,833 likes - 69 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 49 | [Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [On the Waters](https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7) | 3:12 |
 | 50 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
 | 51 | [It Might Be You](https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Best of Bish](https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj) | 4:18 |
-| 52 | [The Weight \- Remastered 2000](https://open.spotify.com/track/68QVDfkzKCNiWNyZo3rUKz) | [The Band](https://open.spotify.com/artist/5T2TDZjKDtNNziMnRWsBwV) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 4:35 |
+| 52 | [The Weight \- Remastered 2000](https://open.spotify.com/track/68QVDfkzKCNiWNyZo3rUKz) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 4:35 |
 | 53 | [We May Never Pass This Way \(Again\)](https://open.spotify.com/track/7H25ehG6xvB8K2ltLhbRJP) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Seals & Crofts' Greatest Hits](https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj) | 4:14 |
 | 54 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
 | 55 | [Keep Me in Your Heart](https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3) | 3:28 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 68 | [Somewhere U.S.A.](https://open.spotify.com/track/3ayP2t2qMgIqj8Yy1xHtaa) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 2:53 |
 | 69 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 |
 
-Snapshot ID: `MCxmZGEwOGMyNDM1MzRiNGM0ZWJjNmJkY2MxOWYxM2IxNzRhOTY2ODc4`
+Snapshot ID: `MCw4YzgzNzY3Mjk3NTc3OGIxYmNiMzhlY2Q4Mzg3YzVjZWJiM2NiNWE0`

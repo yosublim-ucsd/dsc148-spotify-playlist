@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,692 likes - 150 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,083 likes - 150 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 59 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 60 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
 | 61 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
-| 62 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
-| 63 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 62 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 63 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 64 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
 | 65 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 66 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 90 | [Fall On Me \- 2011 Remaster](https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Lifes Rich Pageant \(Deluxe Edition\)](https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi) | 2:49 |
 | 91 | [In A Big Country](https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/1E4YQWCiaIuRG7ih78thrE) | 4:43 |
 | 92 | [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 |
-| 93 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
-| 94 | [Wishful Thinking](https://open.spotify.com/track/11HLyzoCyx8hXKXVmrg1Sy) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Diary: A Collection](https://open.spotify.com/album/1mWJIJbT09FgNhOr4xiPoL) | 4:10 |
+| 93 | [Wishful Thinking](https://open.spotify.com/track/11HLyzoCyx8hXKXVmrg1Sy) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Diary: A Collection](https://open.spotify.com/album/1mWJIJbT09FgNhOr4xiPoL) | 4:10 |
+| 94 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
 | 95 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 |
 | 96 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 97 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 3:52 |
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 107 | [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 |
 | 108 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
 | 109 | [Skin Deep](https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Aural Sculpture](https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt) | 3:53 |
-| 110 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 |
+| 110 | [Turning Japanese \- Non Stop Edit](https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr) | [The Vapors](https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2) | [New Clear Days](https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA) | 3:44 |
 | 111 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 |
-| 112 | [Turning Japanese \- Non Stop Edit](https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr) | [The Vapors](https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2) | [New Clear Days](https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA) | 3:44 |
+| 112 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 |
 | 113 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
 | 114 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 | 115 | [I Won't Let You Down](https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0) | [Ph.D.](https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO) | [I Won't Let You Down](https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95) | 4:02 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 129 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
 | 130 | [Isolation \- 2007 Remaster](https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 2:55 |
 | 131 | [Waiting For A Train](https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM) | [Flash and the Pan](https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U) | [Collection](https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK) | 3:44 |
-| 132 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
-| 133 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
+| 132 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
+| 133 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
 | 134 | [Somewhere Down The Crazy River](https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Robbie Robertson](https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J) | 4:55 |
 | 135 | [Living On The Ceiling](https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG), [Dennis Weinrich with John O.Williams](https://open.spotify.com/artist/38DOQYh2wbuhXYM2MSDvBb) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 4:10 |
 | 136 | [The More You Live, The More You Love](https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [We Are The '80s](https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV) | 4:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:38 |
 | 150 | [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 |
 
-Snapshot ID: `MCw0YjRjMGJjYjg2ZDcwZDM3MGUyMDI1MDMyN2RmMWNjOTk5OGFmZTJk`
+Snapshot ID: `MCwxZTBiYTE5N2RjYzZjMzI5NjAxYTVhMTQxY2UzZGZmYjhkZDk1Mzc4`

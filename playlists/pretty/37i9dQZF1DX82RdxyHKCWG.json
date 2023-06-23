@@ -1,12 +1,12 @@
 {
   "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Doja Cat\n",
-  "num_followers": 117073,
+  "num_followers": 117087,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWExNjBmMGJkNWNhYzA4Y2U5YmE0NmQ0MTEzZjJlYWEzYWVjYjZl",
+  "snapshot_id": "MCxlNTUxZjNjMTdkNDJkMzFiMGVkNGYxODFhM2JkMDY2YjI3MDdjZTBi",
   "tracks": [
     {
       "added_at": "2023-06-16 15:05:07",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "Never Ending Song",
-        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Never Ending Song",
-      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
+        "name": "Never Ending Song",
+        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
         "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 166882,
       "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Haven't You Ever Been In Love Before?",
-      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -563,6 +547,22 @@
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Haven't You Ever Been In Love Before?",
+      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "End Of Time",
-        "url": "https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "End Of Time",
-      "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215448,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "End Of Time",
+        "url": "https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "End Of Time",
+      "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "Only Love Can Save Us Now",
-        "url": "https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 154586,
-      "name": "Only Love Can Save Us Now",
-      "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "Stars Are Blind (Paris' Version) [feat. Kim Petras]",
         "url": "https://open.spotify.com/album/5dEiXfnGyPT4FhM7eJ4I1H"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 259594,
       "name": "Stars Are Blind (Paris' Version) [feat. Kim Petras]",
       "url": "https://open.spotify.com/track/5GUZiPY2HnJMk6ZMpevpMS"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "Only Love Can Save Us Now",
+        "url": "https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 154586,
+      "name": "Only Love Can Save Us Now",
+      "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
     },
     {
       "added_at": "2023-06-16 15:05:07",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-16 15:05:07",
       "album": {
-        "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
-        "url": "https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200099,
-      "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
-      "url": "https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy"
-    },
-    {
-      "added_at": "2023-06-16 15:05:07",
-      "album": {
         "name": "HER MIND",
         "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 131050,
       "name": "Cuntelectual",
       "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
+    },
+    {
+      "added_at": "2023-06-16 15:05:07",
+      "album": {
+        "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
+        "url": "https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200099,
+      "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
+      "url": "https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy"
     },
     {
       "added_at": "2023-06-16 15:05:07",

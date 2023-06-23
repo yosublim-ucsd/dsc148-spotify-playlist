@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-818 songs - 2 day 5 hr 33 min
+819 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Meet You in the Dark](https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Meet You in the Dark](https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln) | 2:55 | 2021-04-02 | 2022-07-07 |
 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 | 2023-03-16 |  |
 | [Message to Belial](https://open.spotify.com/track/10UowVLIvh4tRKl5fyyxEf) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Message to Belial](https://open.spotify.com/album/5SkWuKri1hKZj18j33maZ3) | 3:15 | 2022-03-08 | 2022-07-02 |
-| [Meteor Shower](https://open.spotify.com/track/2xWnX3wmodlJgoEgLnyeMG) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Meteor Shower](https://open.spotify.com/album/0mJGb5oXHgyLX5DlJLnt8D) | 3:51 | 2023-04-28 |  |
+| [Meteor Shower](https://open.spotify.com/track/2xWnX3wmodlJgoEgLnyeMG) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Meteor Shower](https://open.spotify.com/album/0mJGb5oXHgyLX5DlJLnt8D) | 3:51 | 2023-04-28 | 2023-06-23 |
 | [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 | 2022-07-22 | 2023-01-14 |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2021-06-04 | 2022-07-09 |
 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 | 2021-08-20 | 2022-04-21 |
@@ -745,6 +745,7 @@
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2021-07-02 | 2022-07-22 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 | 2022-09-03 |
 | [Turning Into Water](https://open.spotify.com/track/65HmMmSpSTBnn7lwfEt9kC) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Turning Into Water](https://open.spotify.com/album/0CQqmftSoTl9QMiyIW9bGa) | 3:21 | 2021-04-02 | 2022-04-18 |
+| [Twin](https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Twin](https://open.spotify.com/album/4isUn6sML2OYlUq8tFxU9S) | 6:00 | 2023-06-22 |  |
 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 | 2022-04-20 | 2022-07-12 |
 | [Two Face](https://open.spotify.com/track/6bgNDCH3ybqlyzCXaJcsrO) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/2dFXtpw7b5PTKHo5kN17bG) | 4:06 | 2022-07-22 | 2022-07-30 |
 | [Two Face](https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Two Face](https://open.spotify.com/album/52G5UzGDFImfKKpMiYzn1W) | 4:07 | 2021-06-04 | 2022-07-29 |

@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 178013,
       "name": "23 Pt.2",
       "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
@@ -1136,6 +1136,52 @@
       "duration_ms": 330480,
       "name": "Ape Freestyle - Spotify Singles",
       "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
+    },
+    {
+      "album": {
+        "name": "Arcrobat2",
+        "url": "https://open.spotify.com/album/34AjGiZFVd1BKbCuKop7gA"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        },
+        {
+          "name": "Sikboy",
+          "url": "https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        },
+        {
+          "name": "2FAITH",
+          "url": "https://open.spotify.com/artist/2Bp4ppu4YwE9BW1KnMLCA3"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410217,
+      "name": "Arcrobat2 (feat. Mc Sniper, Sikboy, Hash Swan, Mommy Son, TAKEWON, Koonta & 2FAITH) - Remix Version",
+      "url": "https://open.spotify.com/track/7vQMB6rcpFYIDwVTa7OOs9"
     },
     {
       "album": {
@@ -13889,6 +13935,24 @@
     },
     {
       "album": {
+        "name": "Out the Mud",
+        "url": "https://open.spotify.com/album/7fX1wbSxdV5GCPYUlboVlg"
+      },
+      "artists": [
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137517,
+      "name": "Out the Mud",
+      "url": "https://open.spotify.com/track/6V1V7I3MTepUpaRAazUD4z"
+    },
+    {
+      "album": {
         "name": "Abbotsford",
         "url": "https://open.spotify.com/album/5kSemw15EKzzRDLVNlqeue"
       },
@@ -15612,6 +15676,24 @@
       "duration_ms": 205767,
       "name": "ROB",
       "url": "https://open.spotify.com/track/6keGLa1EdSAA5G0p2RFmVg"
+    },
+    {
+      "album": {
+        "name": "ROC Drill",
+        "url": "https://open.spotify.com/album/7jzSSlUldr3aC3TcIERgXa"
+      },
+      "artists": [
+        {
+          "name": "Olltii",
+          "url": "https://open.spotify.com/artist/1l1VfoWjli9N3MJH2tAWCA"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157423,
+      "name": "ROC Drill (Prod. BUM)",
+      "url": "https://open.spotify.com/track/0fPpBzt5FY7Q9grPIYKMm2"
     },
     {
       "album": {

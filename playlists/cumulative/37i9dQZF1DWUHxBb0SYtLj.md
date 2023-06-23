@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Raffaella Carrà
 
-642 songs - 1 day 8 hr 26 min
+643 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Cuore sporco](https://open.spotify.com/track/1wI92huW17RYbTePnBVwV5) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Cuore sporco](https://open.spotify.com/album/4bwmxgnWdU2vUt6KtPGE0d) | 2:48 | 2022-08-02 | 2022-11-02 |
 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 | 2022-10-06 | 2022-12-01 |
 | [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-04-04 | 2023-05-03 |
+| [Curaçao](https://open.spotify.com/track/0zbO6cDFBa0JJblfyiTxgc) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Curaçao](https://open.spotify.com/album/0bjDOlhbfuz2MLwz5rpmYe) | 2:41 | 2023-06-07 |  |
 | [Da soli mai](https://open.spotify.com/track/6fLoZWRu4NN6TiDI6Mhy0Q) | [Lamine](https://open.spotify.com/artist/41L4VW3jwnrGr7hGwokkvh) | [Da soli mai](https://open.spotify.com/album/1xvV2WxxUBcVKHStzGQwLT) | 3:32 | 2021-12-07 | 2022-02-03 |
 | [Dalla parte di chi](https://open.spotify.com/track/1BcdcCrlBVvrRy7qCozKJM) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Questa Fragile Bellezza](https://open.spotify.com/album/7dZyON07BaLqqXcXhEb0F3) | 3:26 | 2022-11-01 | 2022-12-01 |
 | [dalle guance in giù](https://open.spotify.com/track/31SVLcPV7oaDD6z6xbuAFY) | [MVR](https://open.spotify.com/artist/76UyJVzkGi3b124vOPrD0u) | [dalle guance in giù](https://open.spotify.com/album/0eNkwHDCGZ0XyiRaWzF2TH) | 2:23 | 2023-01-03 | 2023-02-09 |

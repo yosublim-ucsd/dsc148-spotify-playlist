@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 121520,
+  "num_followers": 121547,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODRiMmIzMDcwM2E2ZDg3YmUxY2UxNDg2ZWM5YjEzM2U0ZDdjNDE5",
+  "snapshot_id": "MCwyYmVmZGQzNDM3NzRiZTJlZjljZGVjYjE2YjgwMGMyMmE5MDc1Mjc4",
   "tracks": [
     {
       "added_at": "2023-03-27 18:16:56",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
     },
     {
+      "added_at": "2023-06-07 16:19:54",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+    },
+    {
       "added_at": "2023-03-20 20:23:15",
       "album": {
         "name": "Luv Is Not Enough (Remixes)",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "MOVEMENTS",
-      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "MOVEMENTS",
+      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
     },
     {
-      "added_at": "2023-06-07 16:19:54",
+      "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -779,6 +779,22 @@
       "duration_ms": 179417,
       "name": "Flash",
       "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan - Original Mix",
+      "url": "https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -819,18 +835,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 401695,
-      "name": "Han Pan - Original Mix",
-      "url": "https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT"
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -915,26 +935,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1003,22 +1019,6 @@
       "duration_ms": 304654,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "I Won't Fade Away",
-        "url": "https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 228234,
-      "name": "I Won't Fade Away",
-      "url": "https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "I Won't Fade Away",
+        "url": "https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Alice Russell",
+          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+        }
+      ],
+      "duration_ms": 228234,
+      "name": "I Won't Fade Away",
+      "url": "https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
       },
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
+        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 186245,
-      "name": "BSOS",
-      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
+      "duration_ms": 262019,
+      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
+      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1655,26 +1659,6 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
-        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
-      },
-      "artists": [
-        {
-          "name": "Cola Boyy",
-          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 262019,
-      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
-      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1707,6 +1691,22 @@
       "duration_ms": 216213,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4trtuxyoMRBjS8wY6PB7OR"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "BSOS",
+      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
     },
     {
       "added_at": "2023-03-20 20:23:15",

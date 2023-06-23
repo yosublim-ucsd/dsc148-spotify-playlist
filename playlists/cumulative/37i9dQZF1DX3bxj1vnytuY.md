@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-210 songs - 21 hr 7 min
+211 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 | 2023-03-10 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
+| [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 |  |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 | 2022-09-09 |
 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 | 2023-01-17 |  |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-06 |  |
@@ -167,7 +168,7 @@
 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 | 2023-03-03 |  |
 | [Sajanna](https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Nizami](https://open.spotify.com/album/5dHAWAY4CJ1MWYWjB25rVW) | 7:34 | 2022-04-13 | 2022-07-29 |
 | [Sajanna](https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Ethno World 2](https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC) | 7:34 | 2022-07-21 | 2023-04-21 |
-| [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 | 2022-04-13 |  |
+| [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 | 2022-04-13 | 2023-06-23 |
 | [Sante](https://open.spotify.com/track/3GPDlvNptw7BwkpHP68DiJ) | [Ravestronauts](https://open.spotify.com/artist/2rfebeaV7VQdlnKrNbqtQu), [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sante](https://open.spotify.com/album/3SxOdl5kq6RpdLsu4ufChm) | 4:08 | 2022-04-13 | 2023-04-21 |
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-04-13 | 2023-04-21 |
 | [Season](https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Cadillac Red](https://open.spotify.com/album/3MqLUGCgQADNvWCnsamcVS) | 7:07 | 2022-04-13 | 2023-06-20 |

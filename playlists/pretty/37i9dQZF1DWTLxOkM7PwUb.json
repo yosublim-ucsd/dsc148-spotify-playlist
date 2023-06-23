@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 21276,
+  "num_followers": 21425,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWYzZDIwYjFiZmZmMWQzN2QzOGM1MzdhOWM0Zjg5YTliOGE5MzQ5",
+  "snapshot_id": "MCw5ODMwZTRlM2E3NmYyOWQ0ZjAyNWZmYTJhYzI2NjNlMjgwMmNhMDU5",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Estrellas",
-        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Estrellas",
-      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Estrellas",
+        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Estrellas",
+      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 174335,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 209513,
       "name": "HISTORIA",
       "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1935,6 +1935,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "La Nueva Ola",
+        "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Vuelva a Ver",
+      "url": "https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
       },
@@ -1947,6 +1971,26 @@
       "duration_ms": 225000,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Debo Cambiar",
+        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 172803,
+      "name": "Debo Cambiar",
+      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1975,50 +2019,6 @@
       "duration_ms": 255080,
       "name": "Mi Llamada",
       "url": "https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Debo Cambiar",
-        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
-      },
-      "artists": [
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 172803,
-      "name": "Debo Cambiar",
-      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "La Nueva Ola",
-        "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Vuelva a Ver",
-      "url": "https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s"
     }
   ],
   "unique_name": "Trap Luv",

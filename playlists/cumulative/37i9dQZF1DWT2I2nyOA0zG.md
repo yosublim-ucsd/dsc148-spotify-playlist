@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-222 songs - 12 hr 45 min
+223 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 | 2021-10-11 | 2022-11-14 |
 | [Bank On It](https://open.spotify.com/track/7862flGk6U3tiWs2m2aUzH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 4:36 | 2021-10-11 |  |
 | [Be a Man](https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Klem](https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t) | [Man](https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO) | 3:16 | 2022-01-14 | 2022-03-11 |
+| [Beast Of Our Nation](https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Tuzi](https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ) | [Beast Of Our Nation](https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB) | 3:18 | 2023-06-22 |  |
 | [Bebe](https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Bebe](https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu) | 4:48 | 2023-02-10 |  |
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 | 2023-03-31 |
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2021-10-11 | 2022-12-09 |

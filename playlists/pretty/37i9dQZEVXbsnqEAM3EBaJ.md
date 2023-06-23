@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 62 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 62 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [En un mundo sin sentido \- Tekniska Remix](https://open.spotify.com/track/6yePmGkWJIfh0oGixLRBCg) | [Soul Kai](https://open.spotify.com/artist/2fcKnkoPGJ9UPvSnkUCVnN), [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV), [Das Qualle](https://open.spotify.com/artist/67mxbCXeD4LwqOjmrnFIUY), [J\. Paçuk](https://open.spotify.com/artist/5d7hMRRf2OcaUW9Z62WeT2), [Tekniska](https://open.spotify.com/artist/0MCvZixYyAQm9WtJICxSar) | [En un mundo sin sentido \(Tekniska Remix\)](https://open.spotify.com/album/01d8tDFwJS2G0iXDVCQIcC) | 4:16 |
 | 2 | [No Embrace \- Live from Housing Works 2009](https://open.spotify.com/track/1AzyW4lH5y6U9rn69Gr91u) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:02 |
-| 3 | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\]](https://open.spotify.com/track/1PGbSZhAeh25BhUZjsVbVT) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 2:56 |
+| 3 | [Space Age Love Song \(Re\-Recorded\) \[Slowed + Reverb\]](https://open.spotify.com/track/76MVyYDPhbaLhsNwGtXUkq) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 4:48 |
 | 4 | [Heart \- 2023 Remaster](https://open.spotify.com/track/3YmGt2OQYUIcVMAmHbdkIV) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [SMASH – The Singles 1985 – 2020 \(2023 Remaster\)](https://open.spotify.com/album/4FCjoPQe3bP2RmBE1SRCJj) | 4:19 |
 | 5 | [My Cosmos Is Mine \- ANNA Remix](https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [My Cosmos Is Mine \(ANNA Remix\)](https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7) | 8:01 |
 | 6 | [Numb \- Live at Metal Church](https://open.spotify.com/track/2bgx3oEAX3rrxDa0wjkn9e) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Numb \(Live at Metal Church\)](https://open.spotify.com/album/3Lv5A69YzleV4pQ4uACOLr) | 3:26 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 61 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/71koLb7kowtfrjvJF00tTb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/19O46pvAPG1Xg6fxAuSU5F) | 3:21 |
 | 62 | [Somos el presente](https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Somos el presente](https://open.spotify.com/album/7pKC2QqGYbj6DskPv4wyE2) | 5:29 |
 
-Snapshot ID: `MjgxMTQ4MDAsMDAwMDAwMDA2NDA5MWY0OTMyZGNmZjU1MzA2ZjI4MDdjMTk2NTBhZg==`
+Snapshot ID: `MjgxMTQ4MDAsMDAwMDAwMDBjOGI4ZGUzZmJlYTZlZmYxZTczODU2MmZhM2NkODgyMg==`

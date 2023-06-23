@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother\. \(JTBC 드라마 나쁜엄마의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-29 songs - 1 hr 51 min
+31 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,12 @@
 | [A song to my daughter \(Vocal Sung Si Kyung\)](https://open.spotify.com/track/0l2h78X4npYJFrIAgqKw0w) | [Toy](https://open.spotify.com/artist/2HyoXCqcYBSzVibRweDeX8), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Thank You](https://open.spotify.com/album/77PGmdoeRH2FhCB9VJtkHN) | 5:29 | 2023-06-06 |  |
 | [About You](https://open.spotify.com/track/6ja6MFMMXJqNgTj1059D8C) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/5vgLtCaNQFormvvIyGB9oX) | 3:18 | 2023-06-06 |  |
 | [About You \- Instrumental](https://open.spotify.com/track/3sSQKE7Zj5FigyzJACF863) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/5vgLtCaNQFormvvIyGB9oX) | 3:18 | 2023-06-06 |  |
+| [Break into My Heart \(From "The Good Bad Mother" Original Television Soundtrack, Bonus Track\)](https://open.spotify.com/track/5uvJnz956f6R4X9zTaa9Uw) | [박태원](https://open.spotify.com/artist/6sHWnCG3W5vUyBbEuUerkk) | [Break into My Heart \(From "The Good Bad Mother" Original Television Soundtrack, Bonus Track\)](https://open.spotify.com/album/3iAXz9cfOTTNGfHpQ5vOBP) | 2:58 | 2023-06-22 |  |
 | [Don't Cry](https://open.spotify.com/track/1CK3AXEftHvx26jG8a7vFa) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [Graduation](https://open.spotify.com/album/0lVWUc9umG4kW4ZdClfj5l) | 4:29 | 2023-06-06 |  |
 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 | 2023-06-06 |  |
 | [Good Night](https://open.spotify.com/track/1UBKXAzmO6NlBINXjTTYS4) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ) | 3:40 | 2023-06-06 |  |
 | [Good Night \- Instrumental](https://open.spotify.com/track/3n9v0SjlbJVHbIa99mmSJX) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ) | 3:40 | 2023-06-06 |  |
+| [Home And Dry](https://open.spotify.com/track/43DT5iknCE6QOoY048ylui) | [Andy Love](https://open.spotify.com/artist/1or82agbJU2mMGz3QAFUXL) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/5o499KkVYTXYJPJfIwW0Ae) | 3:43 | 2023-06-22 |  |
 | [Love you again](https://open.spotify.com/track/3tt4jUdcPx7ZRNrXcP58x2) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0MTztT8DDv1Mqkv8cbZgwu) | 3:49 | 2023-06-06 |  |
 | [Love you again \- Instrumental](https://open.spotify.com/track/3sz5gn0SzxPMTIIhzK6zf2) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0MTztT8DDv1Mqkv8cbZgwu) | 3:49 | 2023-06-06 |  |
 | [Mama](https://open.spotify.com/track/6fr0IxOEP30oSL0xHdzm4K) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [DESTINY](https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1) | 4:42 | 2023-06-06 |  |

@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Janelle Monae
+> R&Bの最新話題曲をまとめてお届けします。cover: Chris Brown
 
-172 songs - 9 hr 21 min
+174 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [I'm free](https://open.spotify.com/track/4dolgjnfj6gJgTqw8FyalQ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:18 | 2023-03-16 | 2023-04-21 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-03-16 | 2023-06-16 |
 | [In The Mood](https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In The Mood](https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS) | 4:02 | 2023-03-16 | 2023-03-25 |
-| [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:48 | 2023-03-16 |  |
+| [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:48 | 2023-03-16 | 2023-06-23 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 |  |
 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 | 2023-06-15 |  |
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2023-03-16 | 2023-05-05 |
@@ -92,8 +92,9 @@
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-16 |  |
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 | 2023-04-21 |
-| [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 | 2023-04-06 |  |
+| [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 | 2023-04-06 | 2023-06-23 |
 | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb) | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/album/4mhIfyutZJgYcmtKG0la1q) | 3:58 | 2023-03-16 | 2023-05-05 |
+| [MIRROR](https://open.spotify.com/track/6BH26KLvdWAgWyh5ITG3Li) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 2:00 | 2023-06-22 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-16 | 2023-05-05 |
 | [Moonview hwy \(mario kart\)](https://open.spotify.com/track/0elAmtArWqoAEdWtMZPl8H) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G), [Housefly](https://open.spotify.com/artist/1qJ3SP6DvSi5R2wIQALBvN) | [Moonview hwy \(mario kart\)](https://open.spotify.com/album/5LRxddzcSprwxCvsS0C0LW) | 1:58 | 2023-04-20 | 2023-05-19 |
 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 | 2023-06-01 |  |
@@ -146,6 +147,7 @@
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 |  |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-03-16 | 2023-05-05 |
 | [Suitable](https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Suitable](https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n) | 3:04 | 2023-03-16 | 2023-04-07 |
+| [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-22 |  |
 | [Sunshine](https://open.spotify.com/track/60VGUSDVni8Qvbng1brQIQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Julisa](https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744) | [Sunshine](https://open.spotify.com/album/4nx0MICtzlbMeruCNSnIPO) | 3:38 | 2023-03-16 |  |
 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 | 2023-05-11 |  |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2023-03-16 | 2023-04-21 |

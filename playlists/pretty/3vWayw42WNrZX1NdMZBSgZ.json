@@ -1,28 +1,32 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Emilia",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Marshmello, Tiago PZK",
   "num_followers": 56428,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDAzMyw0YjFlNDM5NTdmN2ZmZTMwNjNhNmM2MTJkYzNjN2I5NDEwMGRmMjQ4",
+  "snapshot_id": "NDA0OCw4M2M2NWI2N2U0YTUzYzhmNGZhYmRhYmU5MDI2MWJkN2ZhOGU0ZTVl",
   "tracks": [
     {
-      "added_at": "2023-06-16 04:23:15",
+      "added_at": "2023-06-23 00:02:51",
       "album": {
-        "name": "Guerrero.mp3",
-        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+        "name": "Como Yo :(",
+        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 238665,
-      "name": "Guerrero.mp3",
-      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
+      "duration_ms": 141865,
+      "name": "Como Yo :(",
+      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
     },
     {
       "added_at": "2023-06-09 00:12:51",
@@ -85,62 +89,6 @@
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
     },
     {
-      "added_at": "2023-06-09 00:16:23",
-      "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
-    },
-    {
-      "added_at": "2023-06-16 04:27:39",
-      "album": {
-        "name": "Man\u00edaca",
-        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "Man\u00edaca",
-      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
-    },
-    {
-      "added_at": "2023-06-07 04:51:32",
-      "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
-    },
-    {
       "added_at": "2023-06-07 04:51:32",
       "album": {
         "name": "8 AM",
@@ -159,6 +107,26 @@
       "duration_ms": 147603,
       "name": "8 AM",
       "url": "https://open.spotify.com/track/7CSmXJNeArnwDfUmtP4Gve"
+    },
+    {
+      "added_at": "2023-06-09 00:16:23",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -197,6 +165,22 @@
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
+      "added_at": "2023-06-16 04:23:15",
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
+    },
+    {
       "added_at": "2023-06-07 04:51:32",
       "album": {
         "name": "OzuTochi",
@@ -219,22 +203,6 @@
     {
       "added_at": "2023-06-07 04:51:32",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU"
-      },
-      "artists": [
-        {
-          "name": "Poloo",
-          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
-        }
-      ],
-      "duration_ms": 170681,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs"
-    },
-    {
-      "added_at": "2023-06-07 04:51:32",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -251,22 +219,6 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-06-07 04:51:32",
-      "album": {
-        "name": "mE vALe maDRE :)",
-        "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "mE vALe maDRE :)",
-      "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -327,6 +279,26 @@
     {
       "added_at": "2023-06-07 04:51:32",
       "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2023-06-07 04:51:32",
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -359,6 +331,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2023-06-16 04:27:39",
+      "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -403,6 +391,22 @@
     {
       "added_at": "2023-06-07 04:51:32",
       "album": {
+        "name": "mE vALe maDRE :)",
+        "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "mE vALe maDRE :)",
+      "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
+    },
+    {
+      "added_at": "2023-06-07 04:51:32",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -423,26 +427,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2023-06-08 20:13:54",
-      "album": {
-        "name": "Tu Me Elevas",
-        "url": "https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b"
-      },
-      "artists": [
-        {
-          "name": "Aron Luix",
-          "url": "https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv"
-        },
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 207103,
-      "name": "Tu Me Elevas",
-      "url": "https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb"
     },
     {
       "added_at": "2023-06-07 04:51:32",

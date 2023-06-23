@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,020 likes - 105 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,028 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [最初的夢想 \(第53屆全國技能競賽主題曲\)](https://open.spotify.com/track/13f2ID8nUBPTjoAArozQBK) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [最初的夢想](https://open.spotify.com/album/2aJDZXIMmmcDacKyY0vZ7o) | 4:13 |
 | 105 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
 
-Snapshot ID: `MCxjOGM1ZmNjZmMzZTBkYzRkOTA2ZTg3ZTA4NDFkNWY1OTY4OWEyMTRi`
+Snapshot ID: `MCxlNDY5YmY5ZjlhNjliZjc3OTcyOTQxNmZjODQ0MDVhNmExZjFlNjEy`

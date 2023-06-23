@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: ADOY",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: HYBS",
   "name": ".ORG",
   "tracks": [
     {
@@ -768,10 +768,32 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 233222,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I"
+    },
+    {
+      "album": {
+        "name": "APPLE PIE",
+        "url": "https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "Darren Ashley",
+          "url": "https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "APPLE PIE",
+      "url": "https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG"
     },
     {
       "album": {
@@ -2047,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Capa City",
+        "url": "https://open.spotify.com/album/44F56fsc1H14KG1CvRM4N3"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Capa City",
+      "url": "https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r"
+    },
+    {
+      "album": {
         "name": "Posture and Attitude",
         "url": "https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe"
       },
@@ -2637,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Connexion",
+        "url": "https://open.spotify.com/album/0S5beypcqHwWtF322aflYg"
+      },
+      "artists": [
+        {
+          "name": "Rimba",
+          "url": "https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Connexion",
+      "url": "https://open.spotify.com/track/4Zz89rmZGSEKOiJ8UmFjuM"
+    },
+    {
+      "album": {
         "name": "Cooking For One",
         "url": "https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK"
       },
@@ -2778,7 +2836,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 255365,
       "name": "Dalam Nirvana",
       "url": "https://open.spotify.com/track/5bE7ej5pcyP2QBuKGLbHpp"
@@ -2908,7 +2966,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 267341,
       "name": "Dancing In The Breeze Alone",
       "url": "https://open.spotify.com/track/4C8GsOcCM1oynQgIj5GNBf"
@@ -3485,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Don't Get to Know Me Too Well",
+        "url": "https://open.spotify.com/album/2ZzxZAjV1ZFSoZZdfbMkha"
+      },
+      "artists": [
+        {
+          "name": "Sunwich",
+          "url": "https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Don't Get to Know Me Too Well",
+      "url": "https://open.spotify.com/track/3JiVNWhn88wYQOPODo2dQq"
+    },
+    {
+      "album": {
         "name": "Don't Get Yourself Dry",
         "url": "https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6"
       },
@@ -3782,7 +3858,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 165976,
       "name": "Em Trang Tr\u00ed",
       "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO"
@@ -4245,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217650,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE"
+    },
+    {
+      "album": {
         "name": "Live at Wedding Concert",
         "url": "https://open.spotify.com/album/65wUHq01WHP7qO0ZRTvrpA"
       },
@@ -4480,7 +4574,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 196797,
       "name": "Fool",
       "url": "https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB"
@@ -5142,7 +5236,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 248760,
       "name": "Have A Nice Dream",
       "url": "https://open.spotify.com/track/3HoTfxGkM33NJW7u9xezXK"
@@ -6154,7 +6248,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 198857,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/7KP3Yq0q2mPQEHA5CC3iTU"
@@ -7570,7 +7664,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 291147,
       "name": "Little Old Man feat. Ariel NOAH",
       "url": "https://open.spotify.com/track/0OePFhUgaA0CitYatErXuR"
@@ -9309,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5USrjEUj41FZx9GVXzDMjY"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141090,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3QtOxdT6TkCOtgW7LWN3ES"
+    },
+    {
+      "album": {
         "name": "One Day I Might Have A Say",
         "url": "https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI"
       },
@@ -10083,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "Avesta",
+        "url": "https://open.spotify.com/album/1c1doYUYLQ5Te2GTqhBFgN"
+      },
+      "artists": [
+        {
+          "name": "Iris Bevy",
+          "url": "https://open.spotify.com/artist/4WiEIQx1pF4W5loEW1On8u"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Prosaic",
+      "url": "https://open.spotify.com/track/3xmF7jSbM183W3T3hwlViH"
+    },
+    {
+      "album": {
         "name": "Plot",
         "url": "https://open.spotify.com/album/0TiMKoEsNScrCGAsdQBlfo"
       },
@@ -10495,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "sanctuary",
+        "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "sanctuary",
+      "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
+    },
+    {
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
       },
@@ -10730,7 +10878,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 180860,
       "name": "Segar",
       "url": "https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr"
@@ -11446,7 +11594,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 130173,
       "name": "Spunky!",
       "url": "https://open.spotify.com/track/2qyBRnUVfj227PJqLiynkg"
@@ -12452,7 +12600,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 184350,
       "name": "THIS IS THE INTERNET",
       "url": "https://open.spotify.com/track/5c9pk3Vijagvi5gvUM0iLm"
@@ -12492,6 +12640,24 @@
       "duration_ms": 288240,
       "name": "Through the Tunnel",
       "url": "https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3"
+    },
+    {
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "album": {
@@ -12734,6 +12900,24 @@
       "duration_ms": 258206,
       "name": "TV Show",
       "url": "https://open.spotify.com/track/64AjwbV9owK5mv0IMwYpQo"
+    },
+    {
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/63iaoGDbIVMUjfec3hyBgP"
+      },
+      "artists": [
+        {
+          "name": "Merakki",
+          "url": "https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266625,
+      "name": "Twenty-Nine",
+      "url": "https://open.spotify.com/track/2Z6WalGqMj3dU81BH9EEkN"
     },
     {
       "album": {
@@ -15624,6 +15808,24 @@
       "duration_ms": 285418,
       "name": "\u9580",
       "url": "https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE"
+    },
+    {
+      "album": {
+        "name": "\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309348,
+      "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"
     },
     {
       "album": {

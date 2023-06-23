@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Sarah Kinsley",
-  "num_followers": 1701780,
+  "num_followers": 1701815,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQ5NjlhOGMwMWY2YTE2ZjRkYTA2ZTBmNTQ1YTYxZDI2NDhlZTcx",
+  "snapshot_id": "MCwxMGU0MGUwYzM2M2RhYjVkMmI0OTczMjcwZjFiOTYwNTBhY2JiNTQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "F2F",
-      "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "F2F",
+      "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+      "duration_ms": 178617,
+      "name": "Looking For Somebody (To Love)",
+      "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 178617,
-      "name": "Looking For Somebody (To Love)",
-      "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Cognitive Dissonance",
-        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
-      },
-      "artists": [
-        {
-          "name": "Sophie Holohan",
-          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cognitive Dissonance",
-      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bloom",
@@ -711,6 +695,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Cognitive Dissonance",
+        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cognitive Dissonance",
+      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
     },
     {
-      "added_at": "2023-04-18 18:49:21",
-      "album": {
-        "name": "Til U Hate Me",
-        "url": "https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 199042,
-      "name": "Til U Hate Me",
-      "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "HATELOVE",
@@ -1207,6 +1191,22 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2023-04-18 18:49:21",
+      "album": {
+        "name": "Til U Hate Me",
+        "url": "https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 199042,
+      "name": "Til U Hate Me",
+      "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "She's Just the Type of Girl",
         "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 161652,
       "name": "She's Just the Type of Girl",
       "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1413,20 +1413,20 @@
       "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Don't Say That",
-        "url": "https://open.spotify.com/album/7sW98APvoZheutXl6AlOlP"
+        "name": "Femininomenon",
+        "url": "https://open.spotify.com/album/6oBWAavlOmmymAZvQ8PzDX"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 222756,
-      "name": "Don't Say That",
-      "url": "https://open.spotify.com/track/2JAZdnv9oWBOZKIwlH3xVN"
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/6kGoO1dbhARH8x60VlXg2B"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1445,20 +1445,20 @@
       "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Femininomenon",
-        "url": "https://open.spotify.com/album/6oBWAavlOmmymAZvQ8PzDX"
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/7sW98APvoZheutXl6AlOlP"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 219710,
-      "name": "Femininomenon",
-      "url": "https://open.spotify.com/track/6kGoO1dbhARH8x60VlXg2B"
+      "duration_ms": 222756,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/2JAZdnv9oWBOZKIwlH3xVN"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1509,20 +1509,36 @@
       "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Eraser",
-        "url": "https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64"
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 183114,
-      "name": "Eraser",
-      "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -1573,20 +1573,20 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+        "name": "Eraser",
+        "url": "https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+      "duration_ms": 183114,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1605,36 +1605,36 @@
       "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "name everywhere",
-        "url": "https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "name everywhere",
-      "url": "https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf"
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
     }
   ],
   "unique_name": "Indie Pop",

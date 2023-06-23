@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 2162,
+  "num_followers": 2179,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDA3NTk5NTc0MGQ0YmIzZmUxNWQ0MzQ3ODk5ODY4MjAxOTI1OGY5",
+  "snapshot_id": "MCwyODFlYmFkMjU1Njc4ZTQxYmQzNjRiNGExMDZjM2NhMWZkM2YwNTI4",
   "tracks": [
     {
       "added_at": "2023-06-08 20:55:44",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2023-06-08 20:55:44",
@@ -195,18 +191,22 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": "2023-06-08 20:55:44",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 174303,
-      "name": "Billie Max",
-      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
-    },
-    {
-      "added_at": "2023-06-08 20:55:44",
-      "album": {
         "name": "Laguna",
         "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
+    },
+    {
+      "added_at": "2023-06-08 20:55:44",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Billie Max",
+      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
     },
     {
       "added_at": "2023-06-08 20:55:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-08 20:55:44",
       "album": {
-        "name": "Los A\u00f1os Maravillosos",
-        "url": "https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Los A\u00f1os Maravillosos",
-      "url": "https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py"
-    },
-    {
-      "added_at": "2023-06-08 20:55:44",
-      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 196588,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+    },
+    {
+      "added_at": "2023-06-08 20:55:44",
+      "album": {
+        "name": "Los A\u00f1os Maravillosos",
+        "url": "https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Los A\u00f1os Maravillosos",
+      "url": "https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py"
     }
   ],
   "unique_name": "canciones para ver atardeceres",

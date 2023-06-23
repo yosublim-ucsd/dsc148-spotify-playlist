@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,804 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,827 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [1435](https://open.spotify.com/track/5sRK4Zas7CxB068eUsOoVw) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/26QCxRGHrn6G0UCqA8ST7m) | 4:52 |
 | 100 | [I Must Be In Love](https://open.spotify.com/track/5tR3wlziO3VNbnzGpsM8B8) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/3g4y98yM5gl2PjctkZtWVg) | 2:46 |
 
-Snapshot ID: `MCw1N2U4NmE1NjBjZTJhMGEyMmY1M2Y3ODk4NjU0ODliMzEyYzFmN2U3`
+Snapshot ID: `MCxiNDRhMjg0ZWI2NDZjOTJhZjlmMzk1OTlkZTgyYzM2ZjA0M2Y1YmM2`

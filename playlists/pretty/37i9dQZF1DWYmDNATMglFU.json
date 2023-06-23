@@ -1,15 +1,15 @@
 {
   "description": "it's a generation \u26d3 ft. meet me @ the altar",
-  "num_followers": 342985,
+  "num_followers": 342984,
   "original_name": "The Locker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTNjOGU4YTYyNWE2Y2Y3ZDBiMGM3ZDdhM2M2MzE2Mjc4MGExMjNh",
+  "snapshot_id": "MCxmOWVjZTZiNTA3YjkxOTkxYWYyODk2ZmFkNmY1YjhmZDdkMjc5ZTFk",
   "tracks": [
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Lowlife",
         "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "SABOTAGE//",
         "url": "https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e"
@@ -45,39 +45,7 @@
       "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Piggie",
-        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 178789,
-      "name": "Piggie",
-      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
@@ -93,7 +61,39 @@
       "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "I KNOW BETTER",
         "url": "https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S"
@@ -109,7 +109,27 @@
       "url": "https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Crybaby (with phem)",
+        "url": "https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 137735,
+      "name": "Crybaby (with phem)",
+      "url": "https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "IDC AT ALL",
         "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "RAT TRAP 1: the blueprint",
         "url": "https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "omg",
         "url": "https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "everybody hates me",
         "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Brat",
         "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "PARTY ON MY DEATHBED",
         "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "POS",
         "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo"
@@ -285,23 +305,7 @@
       "url": "https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "THAT SUCKS!",
-        "url": "https://open.spotify.com/album/2CZCt0OJnQXrwFcWRRrje4"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "THAT SUCKS!",
-      "url": "https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Maneater",
         "url": "https://open.spotify.com/album/5IuSLB6OUadbVd2FwKyhJS"
@@ -317,7 +321,23 @@
       "url": "https://open.spotify.com/track/602AsE59y3nshLIJlnn4EF"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "God give me a car",
         "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "nobody's favorite person, not even my own",
         "url": "https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Bathroom Floor",
         "url": "https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "you were good to me (deluxe)",
         "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "have u got a light?",
         "url": "https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "i love my dog",
         "url": "https://open.spotify.com/album/50IiyPghwNtbBAds4Qkdr8"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/4phL2G8BkO2jiksWSgQjms"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Certified Depressant",
         "url": "https://open.spotify.com/album/4sI51hGGXuzZYCBnSC7LMs"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/69kWNJKHnRH73WkKPT3QU4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Crumbled",
         "url": "https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Daydrinker",
         "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/4yOAahwdVrCD5Rap8bzQQ3"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/7g4KHyPt8FZigEgVD3AYvT"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "to me",
         "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "girls just wanna have sex",
         "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Don't Date The Devil",
         "url": "https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi"
@@ -593,7 +613,23 @@
       "url": "https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 196086,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
@@ -609,7 +645,7 @@
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "i hope KARMA",
         "url": "https://open.spotify.com/album/42MNxi6wrqYQxvTCU8CW58"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/35ZzmdIfPCZWfmlkR5zgA4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "That Time Of Year Always",
         "url": "https://open.spotify.com/album/5nSVcLP93ZvIIIylPPJNRZ"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/67ys14tG3JWU0X4ia2FKOM"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Sucka",
         "url": "https://open.spotify.com/album/2PRPlRX26hrpKwO36jD3Nw"
@@ -657,7 +693,23 @@
       "url": "https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Hated You All Along",
+        "url": "https://open.spotify.com/album/7IomHV35OObK4R3JU6Fh6T"
+      },
+      "artists": [
+        {
+          "name": "august brodie",
+          "url": "https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui"
+        }
+      ],
+      "duration_ms": 183248,
+      "name": "Hated You All Along",
+      "url": "https://open.spotify.com/track/1MgnyE2M6l2dikyRoiqcTG"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "East End Boys",
         "url": "https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a"
@@ -673,7 +725,7 @@
       "url": "https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "follow:noise",
         "url": "https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN"
@@ -689,7 +741,7 @@
       "url": "https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
@@ -705,7 +757,7 @@
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "cherry cigarettes",
         "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Everybody Just Wants To",
         "url": "https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU"
@@ -737,7 +789,7 @@
       "url": "https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "I'm Done",
         "url": "https://open.spotify.com/album/1ekt1n1bweW302dZONnH5R"
@@ -753,7 +805,7 @@
       "url": "https://open.spotify.com/track/5orscSJxQSOKAa76mp9xOJ"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "bLeSs uR hEaRt",
         "url": "https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO"
@@ -769,7 +821,7 @@
       "url": "https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Heaven Without You",
         "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
@@ -785,7 +837,7 @@
       "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "CRUSHED!",
         "url": "https://open.spotify.com/album/5DIlFNiikrzx0l70tiJh75"
@@ -801,7 +853,7 @@
       "url": "https://open.spotify.com/track/2Io9qBI9Ke9zY0xoxKNoY2"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
@@ -821,7 +873,7 @@
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Airhead",
         "url": "https://open.spotify.com/album/3FIv6ePul9uNwJ8Qs6iY45"
@@ -853,7 +905,7 @@
       "url": "https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Hell Is A Teenage Girl",
         "url": "https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ"
@@ -869,7 +921,7 @@
       "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
@@ -885,7 +937,7 @@
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "No Point Pretending (Song For Tour)",
         "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
@@ -905,7 +957,7 @@
       "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Endless Nightmare",
         "url": "https://open.spotify.com/album/2NSJ6GGgSSHtZfsMjwhWqI"
@@ -925,7 +977,7 @@
       "url": "https://open.spotify.com/track/0CTho16ngRNbpEFgWdxXR5"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
@@ -941,7 +993,7 @@
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "cut my hair",
         "url": "https://open.spotify.com/album/41BWjJwCPI8Hg0h3A14flj"
@@ -957,7 +1009,7 @@
       "url": "https://open.spotify.com/track/26vtFc2QpDI4yZ69B3qC1i"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "BUMMER!",
         "url": "https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL"
@@ -973,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "slippery slope",
         "url": "https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0"
@@ -989,7 +1041,7 @@
       "url": "https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
@@ -1005,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "I EXIST",
         "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
@@ -1021,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Hand Grenade",
         "url": "https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG"
@@ -1037,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
@@ -1053,7 +1105,7 @@
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "(NOT A) LOVE SONG",
         "url": "https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN"
@@ -1073,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
@@ -1093,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Happiness is an Inside Job",
         "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
@@ -1109,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "bubble boi",
         "url": "https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8"
@@ -1125,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
@@ -1141,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
@@ -1157,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "I Love Myself",
         "url": "https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo"
@@ -1173,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "DOWN BAD",
         "url": "https://open.spotify.com/album/14tgVsMWL28HnQBxmqV6Io"
@@ -1189,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0tvKYDs3fTQeBKMLYhSElW"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "(Full Free) Radical",
         "url": "https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6"
@@ -1205,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "BEDTIME STORIES / BLOOD",
         "url": "https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou"
@@ -1221,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
@@ -1237,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS"
@@ -1253,7 +1305,7 @@
       "url": "https://open.spotify.com/track/6p2CaYsLkNeXpqFhA1RJRA"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Tripping Over Air",
         "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
@@ -1269,7 +1321,7 @@
       "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Sick Of This",
         "url": "https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ"
@@ -1285,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Your Love Was My Drug Too",
         "url": "https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5"
@@ -1301,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "Backtrack",
         "url": "https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7"
@@ -1317,7 +1369,7 @@
       "url": "https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
@@ -1333,7 +1385,7 @@
       "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
     },
     {
-      "added_at": "2023-06-15 23:00:00",
+      "added_at": "2023-06-22 23:00:00",
       "album": {
         "name": "ARRIVED",
         "url": "https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa"
@@ -1347,22 +1399,6 @@
       "duration_ms": 155205,
       "name": "MY HEAD",
       "url": "https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi"
-    },
-    {
-      "added_at": "2023-06-15 23:00:00",
-      "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 203375,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/6OBDJYuAucuCcBLhMmf1m9"
     }
   ],
   "unique_name": "The Locker",

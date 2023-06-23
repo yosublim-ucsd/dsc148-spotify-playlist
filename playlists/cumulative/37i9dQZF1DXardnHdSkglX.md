@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-226 songs - 13 hr 28 min
+227 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/63FXIXULZiV2y8bMm0iDie) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Ain't No Mountain High Enough](https://open.spotify.com/album/2Z8t4UNYuRhbkMlHGPFJlE) | 3:05 | 2021-12-09 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/70im7N6meAYoKT60tHvpq4) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Ain't No Sunshine](https://open.spotify.com/album/1Ad7CT2VSQzEcifgglWrJP) | 2:17 | 2021-12-09 | 2023-04-21 |
 | [All Night Long](https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [All Night Long](https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ) | 4:53 | 2021-12-09 |  |
-| [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 | 2021-12-09 |  |
+| [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 | 2021-12-09 | 2023-06-23 |
 | [Always on My Mind](https://open.spotify.com/track/3rzMh3yRuC9OuAU3IepUkQ) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Always on My Mind](https://open.spotify.com/album/6rE8fgd7vzwTyAKbHLHyjF) | 3:15 | 2023-03-23 | 2023-05-13 |
 | [Angel, Won't You Call Me](https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Angel, Won't You Call Me](https://open.spotify.com/album/2JIG5AP8msXqmGskJ6qHQD) | 2:50 | 2022-11-24 |  |
 | [As It Was](https://open.spotify.com/track/6IZnzJPUfIUaOiNx8sVgRg) | [Pablo Cepeda](https://open.spotify.com/artist/1uj8EOCKAXn4w2TR7CVnQb) | [As It Was](https://open.spotify.com/album/4s3v5S7Oy3CWdEBUWMStuy) | 3:40 | 2023-03-23 | 2023-05-13 |
@@ -123,6 +123,7 @@
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2023-05-12 |  |
 | [Kill Bill](https://open.spotify.com/track/6oleu6zrZSXg3mQQFaigPX) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3), [Van Bascom](https://open.spotify.com/artist/3Ry7WgygpzaSknLfqsOMUB) | [Kill Bill](https://open.spotify.com/album/5vmB6UEH3e1kjnW5zQZ7Si) | 2:35 | 2023-06-01 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1gmfA9UeAKWEgS9qQx8OSZ) | [Bossa Nova Project](https://open.spotify.com/artist/7GQVeFa14DLGmqM3KsABNq) | [Killing Me Softly With His Song](https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM) | 4:14 | 2021-12-09 |  |
+| [Kiss Me](https://open.spotify.com/track/6CGo6W8AMX9AIQ2lAgQFeN) | [Duane Katz](https://open.spotify.com/artist/2wNsnKopOU7W1Q73oiOEw1) | [Kiss Me](https://open.spotify.com/album/122kp3WDqMCSDyMAZQNKBG) | 2:32 | 2023-06-22 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/6auWMxgWWn4BYFyYwTq4ih) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Stereo Dub](https://open.spotify.com/artist/0qaq7Wbz8frkQzqBCops0p), [Nova Bossa Ltd.](https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu) | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/album/3Qo98M0DzmiLHY90dSHyvT) | 3:30 | 2022-05-18 | 2023-05-13 |
 | [Lá Vem o Brasil Descendo a Ladeira](https://open.spotify.com/track/6s1ctvxbpVBvazIrdOCO7l) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Lá Vem o Brasil Descendo a Ladeira](https://open.spotify.com/album/1GWeorh1seabsvYkqXE6lD) | 3:18 | 2021-12-09 | 2023-05-13 |
 | [Let Her Go](https://open.spotify.com/track/10oVGvuMkDEwm21sQ6gt19) | [Alana Marie](https://open.spotify.com/artist/0TJqjUyiiT1yckuKKASNMa), [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Naked Bossa](https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP) | 3:40 | 2021-12-09 |  |

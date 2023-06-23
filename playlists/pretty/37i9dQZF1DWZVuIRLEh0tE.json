@@ -1,13 +1,33 @@
 {
-  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. En portada: Dilon Baby",
-  "num_followers": 212328,
+  "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Rochy RD",
+  "num_followers": 212487,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDhkYjczZjJhOWQxNTA1ZTk1N2JiNTlmMzJkMzBjMTFiYjZiYmYx",
+  "snapshot_id": "MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz",
   "tracks": [
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Po Po Po",
+        "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Po Po Po",
+      "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
+    },
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
@@ -35,26 +55,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Se Comenta",
         "url": "https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ"
       },
@@ -77,24 +77,20 @@
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-06-22 22:38:28",
       "album": {
-        "name": "Po Po Po",
-        "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
+        "name": "Talco",
+        "url": "https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO"
       },
       "artists": [
         {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Po Po Po",
-      "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
+      "duration_ms": 136271,
+      "name": "Talco",
+      "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -157,6 +153,30 @@
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
     },
     {
+      "added_at": "2023-06-22 22:38:28",
+      "album": {
+        "name": "Baddu",
+        "url": "https://open.spotify.com/album/6jU2huoNSRXf4CmU61iXzd"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "La Demente",
+          "url": "https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o"
+        }
+      ],
+      "duration_ms": 167068,
+      "name": "Baddu",
+      "url": "https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Mi Flaca",
@@ -179,6 +199,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Tan Quedao",
         "url": "https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q"
       },
@@ -195,6 +235,26 @@
       "duration_ms": 142372,
       "name": "Tan Quedao",
       "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
+    },
+    {
+      "added_at": "2023-06-22 22:38:28",
+      "album": {
+        "name": "Lo Tres Pasos",
+        "url": "https://open.spotify.com/album/4jAyVWddC3MhVWINaeyPb1"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 118983,
+      "name": "Lo Tres Pasos",
+      "url": "https://open.spotify.com/track/4e8L3fVKpmHQLRXzcokMol"
     },
     {
       "added_at": "2023-05-26 15:40:36",
@@ -967,30 +1027,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Tu Me La Sube",
-        "url": "https://open.spotify.com/album/1EfTn21JqligNVES38Vfaz"
-      },
-      "artists": [
-        {
-          "name": "Aleica",
-          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
-        },
-        {
-          "name": "Zunna",
-          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
-        },
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tu Me La Sube",
-      "url": "https://open.spotify.com/track/6Vu4jijYXztmr7uHoDzG7t"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Bocina Bom",
         "url": "https://open.spotify.com/album/4ofxfex3ConEDY1WyrB0GI"
       },
@@ -1171,6 +1207,26 @@
       "duration_ms": 163373,
       "name": "Mango Pi\u00f1a",
       "url": "https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a"
+    },
+    {
+      "added_at": "2023-05-19 19:34:42",
+      "album": {
+        "name": "Uno x Ellas",
+        "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 204695,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1523,26 +1579,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Mueve Eso",
-        "url": "https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 142862,
-      "name": "Mueve Eso",
-      "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "El Anillo el Reloj",
         "url": "https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X"
       },
@@ -1571,42 +1607,6 @@
       "duration_ms": 180705,
       "name": "Un Poco De Amor",
       "url": "https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb"
-    },
-    {
-      "added_at": "2023-04-28 05:20:25",
-      "album": {
-        "name": "To Frio",
-        "url": "https://open.spotify.com/album/0Z2eoDZTdBH3Ei9PYfU2Ho"
-      },
-      "artists": [
-        {
-          "name": "El Shick",
-          "url": "https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae"
-        }
-      ],
-      "duration_ms": 167628,
-      "name": "To Frio",
-      "url": "https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ"
-    },
-    {
-      "added_at": "2023-05-19 19:34:42",
-      "album": {
-        "name": "Uno x Ellas",
-        "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 204695,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV"
     }
   ],
   "unique_name": "Flow Dominicano",

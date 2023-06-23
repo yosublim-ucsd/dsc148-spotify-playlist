@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj?si=2mJTD8E\_QZiw\_cH4JxsRWA">Jay</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=a9ZKh9dlS\_GtA9X9UXPGCQ">Ricus Nel</a>
 
-149 songs - 8 hr 20 min
+152 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bou Aan 'n Vrou](https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Bou Aan 'n Vrou](https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W) | 3:43 | 2023-03-16 | 2023-04-07 |
 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 | 2023-01-26 | 2023-06-04 |
 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-22 | 2022-11-26 |
-| [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 | 2022-09-22 |  |
+| [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 | 2022-09-22 | 2023-06-23 |
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 |  |
@@ -73,6 +73,7 @@
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 |  |
 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 | 2021-12-02 | 2022-12-24 |
 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 | 2023-03-09 |  |
+| [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 | 2023-06-22 |  |
 | [Klaar Gesmeek](https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Klaar Gesmeek](https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ) | 2:28 | 2023-03-16 | 2023-04-21 |
 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 | 2023-03-23 |  |
 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 | 2023-04-13 |  |
@@ -84,6 +85,7 @@
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 |  |
 | [Kyk Na My Hart](https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 2:47 | 2023-03-09 |  |
 | [Laat Dit Goed Gaan](https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Laat Dit Goed Gaan](https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf) | 3:36 | 2023-06-15 |  |
+| [Lawaaiwater](https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Lawaaiwater](https://open.spotify.com/album/2Cnck7kTfhwxttOIVDw71f) | 3:18 | 2023-06-22 |  |
 | [Lemoene](https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:26 | 2023-03-09 |  |
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
@@ -105,6 +107,7 @@
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 |  |
+| [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 |  |
 | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG) | 4:02 | 2023-03-16 | 2023-05-05 |
 | [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 |  |
 | [Oor te Begin](https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Opsoek Na Liefde](https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX) | 3:16 | 2022-06-09 |  |
@@ -135,7 +138,7 @@
 | [Sweef](https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [Sweef](https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk) | 2:52 | 2022-11-03 | 2022-12-09 |
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-02-23 |  |
 | [SySoen](https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [SySoen](https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI) | 3:33 | 2023-04-06 |  |
-| [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 |  |
+| [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 | 2023-06-23 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-06-15 |  |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 |  |
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
@@ -153,7 +156,7 @@
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-28 | 2022-12-02 |
-| [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 | 2023-03-23 |  |
+| [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 | 2023-03-23 | 2023-06-23 |
 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 | 2022-07-07 | 2023-03-25 |
 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 | 2023-03-09 |  |
 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 | 2023-06-03 |  |

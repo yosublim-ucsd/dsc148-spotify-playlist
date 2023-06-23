@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
+  "description": "The best new music from the wide world of punk. Cover: Corinne Bailey Rae",
   "name": "All New Punk",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 182343,
       "name": "Abscessed - Baz Mix",
       "url": "https://open.spotify.com/track/4WbACsZHhUdWQP7TtCHINq"
@@ -1148,6 +1148,24 @@
       "duration_ms": 189950,
       "name": "Another Kill For The Highlight Reel - Barber Shop Studios Session",
       "url": "https://open.spotify.com/track/7MQ3noQQEXxe8BzkvAwpeS"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
     },
     {
       "album": {
@@ -2871,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
       },
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 227345,
       "name": "Children",
       "url": "https://open.spotify.com/track/46trsAdZqXxxxUlorxDyQH"
@@ -3698,7 +3734,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 208586,
       "name": "Coma",
       "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
@@ -4004,7 +4040,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 163278,
       "name": "crybaby",
       "url": "https://open.spotify.com/track/6hculJA3dWJyUuiTcNPsdr"
@@ -4026,6 +4062,28 @@
       "duration_ms": 143597,
       "name": "Crybaby (On the Phone)",
       "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+    },
+    {
+      "album": {
+        "name": "Crybaby (with phem)",
+        "url": "https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137735,
+      "name": "Crybaby (with phem)",
+      "url": "https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz"
     },
     {
       "album": {
@@ -4492,7 +4550,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 136374,
       "name": "Dear Ed'",
       "url": "https://open.spotify.com/track/3RCk7FgOq6L01y39tHgxfF"
@@ -4590,6 +4648,24 @@
       "duration_ms": 200500,
       "name": "DEEMED ! - b-side",
       "url": "https://open.spotify.com/track/6gtV2v5PmYeC3onBwwWe4t"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196086,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
     },
     {
       "album": {
@@ -4998,6 +5074,24 @@
       "duration_ms": 164430,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv"
+    },
+    {
+      "album": {
+        "name": "DMFE",
+        "url": "https://open.spotify.com/album/51GkSotm39cqKXiNRZb61i"
+      },
+      "artists": [
+        {
+          "name": "Kids Don't Float",
+          "url": "https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "DMFE",
+      "url": "https://open.spotify.com/track/16NcyaTVaHx1jtXQ1DwL08"
     },
     {
       "album": {
@@ -5612,7 +5706,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 184904,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/45poRdshttXq3rVcRcjTIx"
@@ -7247,6 +7341,24 @@
     },
     {
       "album": {
+        "name": "Good Days Again",
+        "url": "https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB"
+      },
+      "artists": [
+        {
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "Good Days Again",
+      "url": "https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O"
+    },
+    {
+      "album": {
         "name": "Good Good Things",
         "url": "https://open.spotify.com/album/2kaF0AbiP6zYunMH3Gf7e2"
       },
@@ -8176,7 +8288,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 190434,
       "name": "Highlight Reel",
       "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
@@ -9771,6 +9883,24 @@
     },
     {
       "album": {
+        "name": "Kilayear",
+        "url": "https://open.spotify.com/album/1yq9qP5pVU1j7XPKsJgqI8"
+      },
+      "artists": [
+        {
+          "name": "Locket",
+          "url": "https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186807,
+      "name": "Kilayear",
+      "url": "https://open.spotify.com/track/126canhgsCDhZur9dJhN5S"
+    },
+    {
+      "album": {
         "name": "Kill to Be Heard",
         "url": "https://open.spotify.com/album/5U6WPf9eTW0ImDXqzDNNWJ"
       },
@@ -9944,7 +10074,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 191755,
       "name": "Lads Lads Lads",
       "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
@@ -10557,6 +10687,28 @@
     },
     {
       "album": {
+        "name": "Live And Let Die",
+        "url": "https://open.spotify.com/album/4DRGzy7QdhAo23YXJCNQnR"
+      },
+      "artists": [
+        {
+          "name": "Roseview",
+          "url": "https://open.spotify.com/artist/0oLsYVo4HsQqqY93I3j4B6"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202012,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/6PELKvhot3S1VnOHvKdhVe"
+    },
+    {
+      "album": {
         "name": "Live Like This",
         "url": "https://open.spotify.com/album/7w6qO7IK9y49S15hmxDiFq"
       },
@@ -10904,7 +11056,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th"
@@ -10944,6 +11096,24 @@
       "duration_ms": 146490,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx"
+    },
+    {
+      "album": {
+        "name": "Lovebomb",
+        "url": "https://open.spotify.com/album/1ohEIoxB2ntWvlx5M2tTnR"
+      },
+      "artists": [
+        {
+          "name": "LOBSTERBOMB",
+          "url": "https://open.spotify.com/artist/2zBxQyNS9Ja2Y9YUbYiOOS"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/3B037XLJ5FfraZlMe7NkF5"
     },
     {
       "album": {
@@ -12251,6 +12421,24 @@
     },
     {
       "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140027,
+      "name": "Never Fucked Up Once",
+      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+    },
+    {
+      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/7yC3vYl7WtAju5E4lCwLPQ"
       },
@@ -12346,6 +12534,24 @@
       "duration_ms": 164744,
       "name": "New Vegas Bomb",
       "url": "https://open.spotify.com/track/7LeJL3mcZPkUlx9lpgWRL5"
+    },
+    {
+      "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
     },
     {
       "album": {
@@ -12480,6 +12686,24 @@
       "duration_ms": 161331,
       "name": "No One to Judge Me",
       "url": "https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe"
+    },
+    {
+      "album": {
+        "name": "No one's listening",
+        "url": "https://open.spotify.com/album/6Bqwod52xZi6XtSA3dCpDC"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "No one's listening",
+      "url": "https://open.spotify.com/track/5JLdzhZoRDbsw3UEBqSpzX"
     },
     {
       "album": {
@@ -13324,7 +13548,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
@@ -13721,6 +13945,24 @@
     },
     {
       "album": {
+        "name": "Suicide and Sunshine",
+        "url": "https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "People Like You",
+      "url": "https://open.spotify.com/track/2cdMiPipXvXHIoiBZ6dtgK"
+    },
+    {
+      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -13956,7 +14198,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 153269,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX"
@@ -14653,6 +14895,24 @@
     },
     {
       "album": {
+        "name": "READY 2 DIE",
+        "url": "https://open.spotify.com/album/1QV2yQne7QCyCvmqBlmoqm"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Body",
+          "url": "https://open.spotify.com/artist/1aGQDk1aXhdetaelpGCq5V"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143263,
+      "name": "READY 2 DIE",
+      "url": "https://open.spotify.com/track/2vPKtH0xIj9k8AKO0mVUyX"
+    },
+    {
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
       },
@@ -14754,7 +15014,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 198473,
       "name": "Red Is My Favorite Color",
       "url": "https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i"
@@ -14928,6 +15188,24 @@
       "duration_ms": 234760,
       "name": "Reverse the Curse",
       "url": "https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0"
+    },
+    {
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137380,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU"
     },
     {
       "album": {
@@ -17160,7 +17438,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 129500,
       "name": "Stuck AF",
       "url": "https://open.spotify.com/track/1phV5AYt4s2zI9Ea3M9gF8"
@@ -19728,7 +20006,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 114872,
       "name": "Very High",
       "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
@@ -20990,7 +21268,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 156866,
       "name": "You're Gonna Realise",
       "url": "https://open.spotify.com/track/7r9xmkpp6bsnu3u3RKfvgR"

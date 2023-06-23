@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-91 songs - 4 hr 34 min
+92 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/album/3QOb81DKEDB0HFPQR8tkwE) | 2:51 | 2023-06-08 |  |
 | [i just want you](https://open.spotify.com/track/08UEjr8Y5oRSyHf3krYiNM) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [i just want you](https://open.spotify.com/album/44Ut5MnUWlRUVt9J6Vbg00) | 2:36 | 2023-04-27 | 2023-05-06 |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-03-30 |  |
-| [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 |  |
+| [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 | 2023-06-23 |
 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 | 2023-05-26 |
 | [Joy](https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:34 | 2023-03-30 | 2023-06-09 |
@@ -52,6 +52,7 @@
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-03-30 | 2023-04-28 |
 | [Like the Clouds](https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e) | [Tai Murape](https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG) | [Like the Clouds](https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt) | 5:52 | 2023-06-08 |  |
 | [Long Live Anna](https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa) | [Gabila](https://open.spotify.com/artist/6N55yMrcfCYw8d7D4f86EE) | [XXXPRESSIONS](https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0) | 1:37 | 2023-03-30 |  |
+| [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 | 2023-06-22 |  |
 | [LUV HRTS](https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [FLOWERBOI4000](https://open.spotify.com/album/0WBMyDzPknlx70r15Cnsse) | 2:50 | 2023-03-30 |  |
 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 | 2023-03-30 |  |
 | [Mask On \[Feat\. Natasha Chansa\] \- Live From Lusaka](https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Natasha Chansa](https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw) | [As Above, So Below \(Deluxe\)](https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm) | 3:07 | 2023-05-11 |  |

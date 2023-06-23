@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-119 songs - 11 hr 17 min
+120 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Pacifica](https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Asphyx](https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE) | 7:53 | 2022-09-16 |  |
 | [Pamoja \- Jay Fase's Minor Mix](https://open.spotify.com/track/1UydBSdiDDTgFlGskKByR4) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Jay Fase](https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd) | [Pamoja / Can Soleil / Nestor](https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG) | 6:40 | 2023-03-09 |  |
 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 | 2022-12-22 | 2023-06-10 |
-| [Pardon My French](https://open.spotify.com/track/7kuwu9F9HLIqnaYY4gBKp5) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Pardon My French](https://open.spotify.com/album/1hkeHIJVh1YuD9wIUohraY) | 5:30 | 2023-04-28 |  |
+| [Pardon My French](https://open.spotify.com/track/0Tg7u8EcqvXTNfv8X8CiMT) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Resort Island](https://open.spotify.com/album/5Wo4dlvUMAsTVLL86Ud3iA) | 5:30 | 2023-06-09 |  |
+| [Pardon My French](https://open.spotify.com/track/7kuwu9F9HLIqnaYY4gBKp5) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Pardon My French](https://open.spotify.com/album/1hkeHIJVh1YuD9wIUohraY) | 5:30 | 2023-04-28 | 2023-06-23 |
 | [Paris \- Bella Boo Remix](https://open.spotify.com/track/33BsBa3qejh42jx6D2f0d1) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Send Return Remixes Pt\. 3](https://open.spotify.com/album/3ZQbpIeRGGO4rnOXpc8gYT) | 5:41 | 2023-04-28 | 2023-06-10 |
 | [Pay To Play \- Reznik & Mikesh Remix](https://open.spotify.com/track/1iEXJZOZot7pKzNcavfutN) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Bell Towers](https://open.spotify.com/artist/3F3cotbIlLpnz40GObI8QM), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [Send Return Remixes Pt\. 3](https://open.spotify.com/album/3ZQbpIeRGGO4rnOXpc8gYT) | 6:18 | 2023-04-28 | 2023-06-10 |
 | [Prana \(Version\)](https://open.spotify.com/track/2cg3Rm8sqokFYlSlr9SnjR) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Versions](https://open.spotify.com/album/2v9S7HKTANxwpTudKRYQyv) | 5:01 | 2022-12-22 |  |

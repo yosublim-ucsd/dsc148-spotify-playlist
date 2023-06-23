@@ -1,13 +1,41 @@
 {
   "description": "The biggest festival music of 2023. | Energetic and emotional festival music. | best progressive house - progressive house music - best festival music - best rave music - best EDM music - best progressive house playlist",
-  "num_followers": 85240,
+  "num_followers": 85236,
   "original_name": "Festival Songs \ud83d\udca8 EDM Anthems - EDM Songs",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "MjIzMSw4YzdhZDZjNmIyMjgzMWMzMDJkMjJlYWRiN2ZjMjcxYzY2ZTNkODlk",
+  "snapshot_id": "MjIzMyxmZjEzNzJkNmNkMjlhNjkzMzAzZTBjMDM2MjA0Y2YwODFhZjE4ZmQz",
   "tracks": [
+    {
+      "added_at": "2023-06-22 14:00:56",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/0nPa1B3Ku03qpdAQd8NSYD"
+      },
+      "artists": [
+        {
+          "name": "Waxel",
+          "url": "https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087"
+        },
+        {
+          "name": "Codex (SE)",
+          "url": "https://open.spotify.com/artist/0ed869ffeQUBRGOzY4X6R1"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/5R0QdEiFEB5pvQ8Rm5X90O"
+    },
     {
       "added_at": "2023-06-16 14:12:45",
       "album": {
@@ -1735,30 +1763,6 @@
       "duration_ms": 195000,
       "name": "Brighter Than The Sun",
       "url": "https://open.spotify.com/track/2BWuBXsrpgh46npuN9JAEJ"
-    },
-    {
-      "added_at": "2023-06-16 14:12:45",
-      "album": {
-        "name": "Take Off",
-        "url": "https://open.spotify.com/album/2MS0WDP9ydUtoQkEPokkmr"
-      },
-      "artists": [
-        {
-          "name": "Riley James",
-          "url": "https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg"
-        },
-        {
-          "name": "Kamish",
-          "url": "https://open.spotify.com/artist/0ug6E8PwKNjLAm4QNABTJF"
-        },
-        {
-          "name": "Revealed Recordings",
-          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Take Off",
-      "url": "https://open.spotify.com/track/2wzwONRFtlmZRphlK9izyC"
     },
     {
       "added_at": "2023-06-16 14:12:45",

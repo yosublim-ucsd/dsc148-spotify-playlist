@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-240 songs - 13 hr 42 min
+241 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 | 2022-04-08 | 2022-12-10 |
 | [Chiquilla Cariñosa](https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG) | [Los Rancheritos Del Topo Chico](https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv) | [15 Exitos](https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08) | 2:26 | 2022-04-08 |  |
 | [Con Zapatos de Tacón](https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:54 | 2022-04-08 | 2022-07-29 |
-| [Con Zapatos De Tacón](https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:54 | 2022-04-08 |  |
+| [Con Zapatos De Tacón](https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs) | [Bronco](https://open.spotify.com/artist/6nte0u7VUdEGSNJHOOLtRm) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:54 | 2022-04-08 |  |
 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 | 2022-04-08 |  |
 | [Cuando Los Frijoles Bailan](https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 1](https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr) | 2:59 | 2022-04-08 |  |
 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2022-12-09 |  |
@@ -90,7 +90,7 @@
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 |  |
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2022-04-08 |  |
 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2022-04-08 |  |
-| [Eva maria](https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Eva maria](https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr) | 2:59 | 2022-04-08 |  |
+| [Eva maria](https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Eva maria](https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr) | 2:59 | 2022-04-08 | 2023-06-23 |
 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 | 2022-04-08 | 2022-07-29 |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-04-08 |  |
 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 | 2022-04-08 | 2022-07-29 |
@@ -167,6 +167,7 @@
 | [Le Quito Lo Fresa](https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:52 | 2022-04-08 | 2022-12-10 |
 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 | 2022-12-16 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 | 2022-12-09 | 2023-06-20 |
+| [Locamente Enamorado](https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q) | 3:37 | 2023-04-21 |  |
 | [Los Males De Micaela](https://open.spotify.com/track/29MBOL7DgVi8iJvKbraaPY) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Dominando](https://open.spotify.com/album/6diTSPCsoezkD8cSHuCOSA) | 2:46 | 2022-04-08 | 2023-02-25 |
 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 | 2022-04-08 |  |
 | [Los Viejitos](https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea) | 3:48 | 2022-04-08 | 2022-07-28 |

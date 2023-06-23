@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Royel Otis are our new RADAR artist to watch!",
+  "description": "PANIA is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 165666,
       "name": "10's & 8's (no 4's or 5's)",
       "url": "https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7"
@@ -74,6 +74,24 @@
       "duration_ms": 271742,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
+    },
+    {
+      "album": {
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
     },
     {
       "album": {
@@ -146,6 +164,24 @@
       "duration_ms": 177554,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5"
+    },
+    {
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
     },
     {
       "album": {
@@ -552,7 +588,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 185393,
       "name": "Candy",
       "url": "https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy"
@@ -776,7 +812,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 178458,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
@@ -801,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Diss and Disappoint",
+        "url": "https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk"
+      },
+      "artists": [
+        {
+          "name": "flowerkid",
+          "url": "https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177867,
+      "name": "Diss and Disappoint",
+      "url": "https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu"
+    },
+    {
+      "album": {
         "name": "You'll Get It When You're Older",
         "url": "https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu"
       },
@@ -812,7 +866,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 159777,
       "name": "Don't Stop the Car",
       "url": "https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk"
@@ -866,7 +920,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 135593,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2EDGTV01iqpjgZrVG6IcJ4"
@@ -1007,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/5EqDIpC3xKRUEzxqBqKHwB"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/3wSbCJYFzsfajYhO5RNCwE"
+    },
+    {
+      "album": {
         "name": "untied shoes",
         "url": "https://open.spotify.com/album/1uh3IWRijeFQAFMXwD1Lfn"
       },
@@ -1054,7 +1126,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 208960,
       "name": "Freeloader",
       "url": "https://open.spotify.com/track/0ETmDfpRKtQIC45COn64V9"
@@ -1274,7 +1346,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 182179,
       "name": "Gone Without a Trace",
       "url": "https://open.spotify.com/track/4fFFpyXVskyIZYV7zi0eoc"
@@ -1581,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes"
+    },
+    {
+      "album": {
         "name": "How I'd Kill",
         "url": "https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b"
       },
@@ -1708,7 +1798,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 137725,
       "name": "I GUESS IT'S LOVE?",
       "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
@@ -1834,7 +1924,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 168266,
       "name": "Into You",
       "url": "https://open.spotify.com/track/3Zux11namsFgz7LIGeNuLU"
@@ -1946,6 +2036,24 @@
       "duration_ms": 145735,
       "name": "kill[h]er",
       "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "album": {
+        "name": "King of Disappointment",
+        "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251265,
+      "name": "King of Disappointment",
+      "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
     },
     {
       "album": {
@@ -2235,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "Mess Around (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230557,
+      "name": "Mess Around (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
+    },
+    {
+      "album": {
         "name": "MEXICO",
         "url": "https://open.spotify.com/album/285ln9j6Hny71rTh3rV65n"
       },
@@ -2315,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Minivan",
+        "url": "https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252663,
+      "name": "Minivan",
+      "url": "https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/7tZNUkPLh4bj1iDphlnDkV"
       },
@@ -2369,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Monster Brain",
+        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217737,
+      "name": "Monster Brain",
+      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
+    },
+    {
+      "album": {
         "name": "Bar & Grill",
         "url": "https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE"
       },
@@ -2405,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "album": {
         "name": "Never Forget",
         "url": "https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q"
       },
@@ -2428,10 +2612,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 217520,
       "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
+    },
+    {
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "album": {
@@ -2812,7 +3014,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 194864,
       "name": "Right Now (Used in the motion picture SCREAM VI)",
       "url": "https://open.spotify.com/track/7an15q8ChuA2zKrTidBXxW"
@@ -3324,6 +3526,42 @@
       "duration_ms": 192120,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/6d7kUzdgmoUARPNpR0vim0"
+    },
+    {
+      "album": {
+        "name": "Stop & Stare",
+        "url": "https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj"
+      },
+      "artists": [
+        {
+          "name": "Logan",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Stop & Stare",
+      "url": "https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj"
+    },
+    {
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "album": {

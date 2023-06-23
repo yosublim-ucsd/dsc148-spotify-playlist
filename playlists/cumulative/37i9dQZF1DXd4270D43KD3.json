@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 99692,
       "name": "Barista With An Umbrella",
       "url": "https://open.spotify.com/track/7Dw9GTCCCFPn5qAFkT066N"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 118285,
       "name": "Boba & Chill",
       "url": "https://open.spotify.com/track/311P1ZcyuvC6WOMKiSTxzI"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103384,
       "name": "Cappuccino & Rain",
       "url": "https://open.spotify.com/track/56ah5USpzhWdOw8Q2TwzJw"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 93107,
       "name": "Coffee and Friends",
       "url": "https://open.spotify.com/track/0DbiWnvHtAyNzBdenanaQk"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Ye Olde Coffee Shoppe",
+        "url": "https://open.spotify.com/album/7uwYVZSChB3nLXx8pBdFdz"
+      },
+      "artists": [
+        {
+          "name": "Doug Carrlas",
+          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Coffee Break Time - Seamless",
+      "url": "https://open.spotify.com/track/0VShnrpz2LtqtG3TmGe3qn"
+    },
+    {
+      "album": {
         "name": "Le Cafe In The Rain",
         "url": "https://open.spotify.com/album/4TdaYnPo5yEHuR9cUq77rj"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 112615,
       "name": "Coffee House Rain",
       "url": "https://open.spotify.com/track/4bg8GKgI6p3gE0tdG59Y0q"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 112889,
       "name": "Coffee In the Rain",
       "url": "https://open.spotify.com/track/1Fz5lI8VFdo1BEeKcHAHDz"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 96000,
       "name": "Coffee While It Rains",
       "url": "https://open.spotify.com/track/48ISdBkLhgK6Z1ufc7Rswk"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 115176,
       "name": "Grey Days At The Cafe",
       "url": "https://open.spotify.com/track/7sgwyyKSGCN0dZv5I4bLxE"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 112615,
       "name": "Hiding From The Rain",
       "url": "https://open.spotify.com/track/1v2etwwKbYqbc26SSXcwyx"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103973,
       "name": "I'll Wait At The Cafe",
       "url": "https://open.spotify.com/track/7K0umM6p5s0NLHN87VxaML"
@@ -700,7 +718,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 99692,
       "name": "Latte In The Rain",
       "url": "https://open.spotify.com/track/114uViIeBJGEGalqKAxFcw"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103384,
       "name": "Le Cafe In The Rain",
       "url": "https://open.spotify.com/track/2HzmDBzs4j3XnVsHUxCYSL"
@@ -740,6 +758,24 @@
       "duration_ms": 136000,
       "name": "Old Diner Rain Outside",
       "url": "https://open.spotify.com/track/1Tm7Jr5oojerZQkz38LkxG"
+    },
+    {
+      "album": {
+        "name": "Seaside Converstations",
+        "url": "https://open.spotify.com/album/7Knp4t4p6vXr4DyS7VMAni"
+      },
+      "artists": [
+        {
+          "name": "Explorador Anonimo",
+          "url": "https://open.spotify.com/artist/3BsviYzyAI7IKvDu9rcXvX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "Playa La Ropa",
+      "url": "https://open.spotify.com/track/3YVoUQOMYfsNw1Z5EqzYrG"
     },
     {
       "album": {
@@ -808,7 +844,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103384,
       "name": "Raining Outside",
       "url": "https://open.spotify.com/track/0BBCwoVoj6lxLEn2ZrwWAu"
@@ -851,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Rainy Diners And Coffee Shops",
+        "url": "https://open.spotify.com/album/2Rcn0iwdfAQUqHMqDRIEpg"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Rainy Coffee Shop Ambience - Seamless",
+      "url": "https://open.spotify.com/track/47UJw8fEpjoDH0OyECYJ7C"
+    },
+    {
+      "album": {
         "name": "Rainy Day At French Restaurant",
         "url": "https://open.spotify.com/album/74QlExk0vpatGl54BHs8gy"
       },
@@ -880,7 +934,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103815,
       "name": "Rainy Days At The Cafe",
       "url": "https://open.spotify.com/track/4F81JZEcewTX46UYQg7Xsy"
@@ -916,7 +970,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Rainy Night Caf\u00e9",
       "url": "https://open.spotify.com/track/4alMTEWVMeaKjTapObWVz7"
@@ -956,6 +1010,24 @@
       "duration_ms": 179539,
       "name": "Rainy Tokyo Caf\u00e9 Vibes",
       "url": "https://open.spotify.com/track/0MAWLc566ff97ItqiqJgwz"
+    },
+    {
+      "album": {
+        "name": "Tokyo Caf\u00e9 Vibes",
+        "url": "https://open.spotify.com/album/4M3gOaUVKaKd5SgvP5LhRD"
+      },
+      "artists": [
+        {
+          "name": "Ueno",
+          "url": "https://open.spotify.com/artist/7MkZ8iO3uIZ3rf8G8QGLQw"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Rainy Tokyo Caf\u00e9 Vibes - Seamless",
+      "url": "https://open.spotify.com/track/3DwamRf2Flacuo37K1mZMA"
     },
     {
       "album": {
@@ -1096,7 +1168,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 87467,
       "name": "Shelter At The Caf\u00e9",
       "url": "https://open.spotify.com/track/5uyMrhYH0RuaEnHkGbOWAc"
@@ -1132,7 +1204,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 103384,
       "name": "Taking Cover From The Rain",
       "url": "https://open.spotify.com/track/2V5apmp1ZMLhp4VCZf9VNm"
@@ -1229,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "A Rainy Day At The Caf\u00e9",
+        "url": "https://open.spotify.com/album/4TmPPUnD2MJk1w4S7aRKaF"
+      },
+      "artists": [
+        {
+          "name": "Cup'a",
+          "url": "https://open.spotify.com/artist/0eqyrqiKaCzdtiCDbAHeh1"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Thundering Cup Of Java - Seamless",
+      "url": "https://open.spotify.com/track/79iyT9mAfkVzFr3LxiUqjr"
+    },
+    {
+      "album": {
         "name": "Rainy Caf\u00e9",
         "url": "https://open.spotify.com/album/2NeX3Y6EXSMVU0rsq8yAR3"
       },
@@ -1258,7 +1348,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 88615,
       "name": "Warm Inside, Cold Outside",
       "url": "https://open.spotify.com/track/434i2VvmUIi1nE9uW90cq7"

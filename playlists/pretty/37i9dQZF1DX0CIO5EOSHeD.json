@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 436241,
+  "num_followers": 436465,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGI3YWJlYjViNWNkZmQ2MjE1YjRkNzg4MWI1YWE4MzE4YWRiNGRi",
+  "snapshot_id": "MCw0YjllY2U3NTdkODcyNTY3ZTBiYjI4ZmNkMWM5Nzc2OWQ4YjM1MjBi",
   "tracks": [
     {
       "added_at": "2023-05-18 14:29:48",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 239195,
-      "name": "u dont kno me",
-      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
       "artists": [
         {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 167126,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "Sun Outside My Window",
         "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "I Don't Recognise You",
-      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 118521,
       "name": "Blue Sheen",
       "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 275013,
+      "name": "I Don't Recognise You",
+      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 191684,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Pastlife (Deluxe)",
-        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 182203,
-      "name": "Cold Like Me",
-      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "at least, I tried",
         "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 96363,
       "name": "heat waves - lofi version",
       "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
       },
       "artists": [
         {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
+      "duration_ms": 297567,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
     }
   ],
   "unique_name": "Lo-fi Indie",

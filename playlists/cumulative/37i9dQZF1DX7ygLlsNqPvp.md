@@ -2,7 +2,7 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=\_yq64HH\-R5uDFrPq3m3jsg"> Gyakie</a>  and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=\_gT\-LkngTamHWqTBycfODQ"> JBee</a>
+> The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG\-F3cnSCubrrFrRWIHhw"> Jay Bahd</a>
 
 108 songs - 5 hr 32 min
 

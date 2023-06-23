@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Manuel Turizo, Sebastián Yatra, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,566 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,717 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 75 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 |
 | 76 | [Vivo En Un Mundo \(El Ladrón De Mi Sueño\)](https://open.spotify.com/track/4hwq7PosX7h6qNCXJTPyJz) | [Beatriz Sanchez](https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Vivo En Un Mundo \(El Ladrón De Mi Sueño\)](https://open.spotify.com/album/7zaMAAwjlrwyVyhcaLMfBe) | 2:35 |
 
-Snapshot ID: `MCw2MTMzNTdlZWFkZjQxODA1YTczMjljODAwMzFhODVkM2YyMTAwNDU3`
+Snapshot ID: `MCw3YmE0NTYwMWFiOGI1Y2M5ZGFlZWY4NDcxNmZlMjVkNDljNDA5N2Qy`

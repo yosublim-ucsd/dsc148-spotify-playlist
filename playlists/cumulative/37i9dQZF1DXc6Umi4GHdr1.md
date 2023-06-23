@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-224 songs - 10 hr 6 min
+226 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 | 2023-03-10 |
 | [Cascading Gracefully](https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Cascading Gracefully](https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM) | 2:12 | 2023-05-26 | 2023-06-16 |
-| [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 | 2022-11-25 |  |
+| [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 | 2022-11-25 | 2023-06-23 |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |
 | [Chameleon’s tuning](https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Chameleon’s tuning](https://open.spotify.com/album/0n8hKnSnZPGPm1i7LblWdm) | 2:21 | 2023-01-06 |  |
 | [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:31 | 2022-09-02 | 2023-05-27 |
@@ -124,6 +124,7 @@
 | [Lute](https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Odoacer](https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3) | 2:57 | 2022-03-03 | 2023-03-10 |
 | [Mailand](https://open.spotify.com/track/01OhsWPqUqCAU9fOhfNvyc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:25 | 2022-05-27 | 2022-07-22 |
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 | 2023-06-10 |
+| [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-09 |  |
 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 | 2022-05-27 | 2022-07-22 |
 | [Midsommarblomster](https://open.spotify.com/track/1m5RLwW0Bkmkb5yeCn33du) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Midsommarblomster](https://open.spotify.com/album/61xdS2VlEuTV5Qy0VvoPCv) | 3:07 | 2022-06-10 | 2022-07-29 |
@@ -152,6 +153,7 @@
 | [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 | 2022-11-25 | 2023-05-27 |
 | [Preludio Saudade: La Catedral](https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Georg Gulyás](https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC) | [Georg Gulyás Plays Barrios](https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V) | 2:23 | 2022-11-25 | 2023-03-10 |
 | [Primrose](https://open.spotify.com/track/0LQs4d7gVIBlqKCbWuF2R1) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [Primrose](https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT) | 2:48 | 2021-12-10 |  |
+| [Promise](https://open.spotify.com/track/7a26pDubE6apyx3BucvKKt) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Promise](https://open.spotify.com/album/2CZN9ANjx4cG4L9EywcLmM) | 1:44 | 2023-06-22 |  |
 | [Pure](https://open.spotify.com/track/30ewiyV6LGLIZGTnc7Qp6x) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure](https://open.spotify.com/album/0Jmejo26ly5NAcFf65B8Kj) | 2:38 | 2023-05-26 | 2023-06-16 |
 | [Purungeo](https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [El Potrero](https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E) | 2:29 | 2021-12-10 | 2023-05-27 |
 | [Quadratus](https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Quadratus](https://open.spotify.com/album/3grqGdMjTua4nwiGXKc7GB) | 2:43 | 2021-12-10 | 2022-07-29 |

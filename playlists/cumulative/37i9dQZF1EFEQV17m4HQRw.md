@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2AwZEdm5C3ZwyVr3E1j91g">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 3 hr 19 min
+45 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Más Veloz](https://open.spotify.com/track/7h6wsQoTMVmtR0BgZADere) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 3:52 | 2022-06-04 |  |
 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 | 2023-02-16 |  |
 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 | 2022-06-04 |  |
+| [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 | 2023-06-22 |  |
 | [Pessoa Certa](https://open.spotify.com/track/3WeDX4xrTjr22Rua1f94A9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Pessoa Certa](https://open.spotify.com/album/11P5Ts5KJTKuUJB2KHSvY6) | 3:08 | 2022-06-04 |  |
 | [Professor Da Fé](https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Professor Da Fé](https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr) | 5:20 | 2022-06-04 |  |
 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 | 2022-06-04 |  |

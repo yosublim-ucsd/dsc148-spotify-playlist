@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-611 songs - 1 day 7 hr 22 min
+612 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Hollow](https://open.spotify.com/track/6yp7ooyd0KPQXgzJ554sNs) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Hollow](https://open.spotify.com/album/0fKCOsCD9l9iCrEqkGJLuD) | 1:52 | 2022-11-18 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/2PSuPIS5db6eBesTbRuikh) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Kerin Maguire](https://open.spotify.com/artist/3sKkXqemxQk1VktbNyiyxF) | [Hollow](https://open.spotify.com/album/3uzNox4LBHyKCyN65VQdcX) | 2:46 | 2022-05-06 |  |
 | [Hollywood](https://open.spotify.com/track/3NdGXW1CUaFZ6QldSNEu2k) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/2Z4CTN7XOXD68CcNfXLAxd) | 2:30 | 2022-11-18 | 2023-03-26 |
+| [Hollywood](https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/4N5yjyIlqPNmX2Ik6L7xqE) | 2:30 | 2023-06-16 |  |
 | [Home](https://open.spotify.com/track/3zE7oYotxr3EUTSSje7Ube) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/5nNwjyGbAdUzY9QKiEciBH) | 3:16 | 2022-01-14 | 2023-05-13 |
 | [Home](https://open.spotify.com/track/0T26riswexwPY9w3UCMwYE) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Home](https://open.spotify.com/album/4R8nylnqxlRvNO564YLyHx) | 3:10 | 2022-10-07 |  |
 | [Home \(feat\. Nico Santos\) \- Marcapasos Radio Remix](https://open.spotify.com/track/2NsWGd3UslepVF25pKw1sp) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Marcapasos](https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB) | [Home \(feat\. Nico Santos\) \[The Remixes\]](https://open.spotify.com/album/3iCS2u4nW6aQ0eycQXTuFk) | 3:34 | 2022-01-14 | 2022-05-21 |
@@ -591,7 +592,7 @@
 | [What I'm Looking For](https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg) | [seatime](https://open.spotify.com/artist/6hBlKREKLZnMsNIWqujJNz), [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [What I'm Looking For](https://open.spotify.com/album/7yIkwEL6vac9LYVS5GLH6z) | 2:04 | 2022-04-22 | 2023-05-24 |
 | [What You Know \(feat\. Levka Rey\)](https://open.spotify.com/track/5nh2uDBGukTzGo1vanSpaK) | [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [What You Know](https://open.spotify.com/album/2tohUWi1yiCdaDnoziBWqd) | 2:45 | 2022-10-14 |  |
 | [Whatever You Like \- Radio Edit](https://open.spotify.com/track/200UDgTJl6xvSejJzMP6Ne) | [Dasco](https://open.spotify.com/artist/4Zv4yFnzY2v8IE2Fo0pqY8), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Whatever You Like](https://open.spotify.com/album/6ZdIp3hlkuZvNceiXKMFqg) | 2:45 | 2022-01-14 | 2022-06-05 |
-| [When The World Was Happy](https://open.spotify.com/track/5zdaPzJUDG41l91POOT55L) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Inyang Bassey](https://open.spotify.com/artist/2hv0L18ihMvjk0dPrWM1WR) | [When The World Was Happy](https://open.spotify.com/album/7uQ3Evk7tYb0Jwzao9Me8d) | 3:25 | 2022-01-14 |  |
+| [When The World Was Happy](https://open.spotify.com/track/5zdaPzJUDG41l91POOT55L) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Inyang Bassey](https://open.spotify.com/artist/2hv0L18ihMvjk0dPrWM1WR) | [When The World Was Happy](https://open.spotify.com/album/7uQ3Evk7tYb0Jwzao9Me8d) | 3:25 | 2022-01-14 | 2023-06-23 |
 | [Where Do We Go](https://open.spotify.com/track/3TVxzS4m8nvrnZIguQ03Kd) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Where Do We Go](https://open.spotify.com/album/3EyctMUkiux38KnbHby3nK) | 2:51 | 2022-11-18 |  |
 | [Where Do We Go](https://open.spotify.com/track/6zxiTzRSFDIpbp0jlMqBXp) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Where Do We Go](https://open.spotify.com/album/6UMjZsJi9t1lECqgDe1fEB) | 2:51 | 2022-01-14 | 2022-11-24 |
 | [Where the Rivers Flow \- Radio Mix](https://open.spotify.com/track/179wSw6TBxrM4aiEJ6SIyH) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Where the Rivers Flow](https://open.spotify.com/album/7yfa1gDDeXE3klycaaU9zu) | 3:03 | 2022-01-14 | 2022-04-21 |

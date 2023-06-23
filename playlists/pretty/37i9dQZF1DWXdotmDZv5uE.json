@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 126877,
+  "num_followers": 126906,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWMyYTYxNDNjMjY3NTI2NGQyNDMxNDcxYjU5NWU1ZTA2ZWM5ZWMw",
+  "snapshot_id": "MCxlOTA0ODZmMzJhMWZiNWRmMjc1Y2ZmZmU5ZGEzODk1OTM4NTdjYmFk",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Gr\u00edtenme Piedras Del Campo (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
-        "url": "https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Gr\u00edtenme Piedras Del Campo - En Vivo Desde La Ciudad De M\u00e9xico, 2017",
-      "url": "https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "El Tilingo Lingo",
         "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 175972,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Gr\u00edtenme Piedras Del Campo (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
+        "url": "https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Gr\u00edtenme Piedras Del Campo - En Vivo Desde La Ciudad De M\u00e9xico, 2017",
+      "url": "https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Antologia Musical 30 Exitos",
-        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
-      },
-      "artists": [
-        {
-          "name": "Los Montanes Del Alamo",
-          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Barrilito",
-      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Estampas De Mexico: Traditional Music From Mexico",
         "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Antologia Musical 30 Exitos",
+        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
+      },
+      "artists": [
+        {
+          "name": "Los Montanes Del Alamo",
+          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Barrilito",
+      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
-        }
-      ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 152093,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
+        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco Y Stone Lips",
+          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "El chuchumbe",
+      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Mariachi from Mexico",
         "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 227600,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
-        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco Y Stone Lips",
-          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "El chuchumbe",
-      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Ra Bacheeza",
-      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "M\u00e9xico a Trav\u00e9s de Su M\u00fasica, Vol. 2",
         "url": "https://open.spotify.com/album/3n1tF3hpO0VckyHjALFjKf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 210520,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Ra Bacheeza",
+      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Pasi\u00f3n Huasteca",
+        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
+      },
+      "artists": [
+        {
+          "name": "Macuilxochitl",
+          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "De la mera mata",
         "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Pasi\u00f3n Huasteca",
-        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
       "artists": [
         {
-          "name": "Macuilxochitl",
-          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
         }
       ],
-      "duration_ms": 170493,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
+      "duration_ms": 345320,
+      "name": "El Siquisir\u00ed",
+      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1251,22 +1267,6 @@
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 345320,
-      "name": "El Siquisir\u00ed",
-      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "La bikina (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Antolog\u00eda de la M\u00fasica P'urhepecha Vol. VIII",
         "url": "https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL"
       },
@@ -1363,6 +1347,38 @@
       "duration_ms": 194680,
       "name": "Los Once Pueblos (Eraxamani)",
       "url": "https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "La bikina (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
         "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "LA BELLA EPOCA CON SALTERIO",
-        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
-      },
-      "artists": [
-        {
-          "name": "LA BELLA EPOCA CON SALTERIO",
-          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "LAS ALTE\u00d1ITAS",
-      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "San Pedro Hermoso",
         "url": "https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 239675,
       "name": "San Pedro Hermoso",
       "url": "https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "LA BELLA EPOCA CON SALTERIO",
+        "url": "https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p"
+      },
+      "artists": [
+        {
+          "name": "LA BELLA EPOCA CON SALTERIO",
+          "url": "https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "LAS ALTE\u00d1ITAS",
+      "url": "https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW"
     },
     {
       "added_at": "2023-05-09 18:01:28",

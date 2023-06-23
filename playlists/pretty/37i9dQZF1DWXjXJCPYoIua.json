@@ -1,12 +1,12 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 83721,
+  "num_followers": 83897,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjZhZGYxYmIyZTU2MGJlNzgzY2NkY2FmOGQwNDQzMWM1ZjJkOTYx",
+  "snapshot_id": "MCw1ZThjYjMxZGRjYTlkMjcxNDY0NTZhYTBkM2VlNWU5OWE0MmI4NWIz",
   "tracks": [
     {
       "added_at": "2022-11-17 22:11:15",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
     },
     {
+      "added_at": "2022-09-23 18:51:42",
+      "album": {
+        "name": "El Cuadro del Terror",
+        "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 273294,
+      "name": "Equipado Pa la Guerra",
+      "url": "https://open.spotify.com/track/6VYLUQk2KoQew6sLJkRqXH"
+    },
+    {
       "added_at": "2023-01-05 00:38:49",
       "album": {
         "name": "Par de Dosis",
@@ -1303,22 +1319,6 @@
       "duration_ms": 231304,
       "name": "Par de Dosis",
       "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
-    },
-    {
-      "added_at": "2022-09-23 18:51:42",
-      "album": {
-        "name": "El Cuadro del Terror",
-        "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        }
-      ],
-      "duration_ms": 273294,
-      "name": "Equipado Pa la Guerra",
-      "url": "https://open.spotify.com/track/6VYLUQk2KoQew6sLJkRqXH"
     },
     {
       "added_at": "2022-09-23 18:51:42",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-09-23 18:51:42",
       "album": {
+        "name": "Inksanidad",
+        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
+      },
+      "artists": [
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "duration_ms": 219158,
+      "name": "Suena",
+      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
+    },
+    {
+      "added_at": "2022-09-23 18:51:42",
+      "album": {
         "name": "Suena En Mi Barrio",
         "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": "2022-09-23 18:51:42",
-      "album": {
-        "name": "Inksanidad",
-        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
-      },
-      "artists": [
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 219158,
-      "name": "Suena",
-      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
     },
     {
       "added_at": "2022-09-23 18:51:42",

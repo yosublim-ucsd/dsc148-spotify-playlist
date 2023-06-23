@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=LMyz910ATeW2-vfCbmM0OA\">Anke Richards</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB?si=T5gwpdDoS6CXedMMets1sQ\">Nasrene</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Day (Acoustic Cover)",
+        "url": "https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF"
+      },
+      "artists": [
+        {
+          "name": "Cloud Illusions",
+          "url": "https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245698,
+      "name": "Beautiful Day (Acoustic Cover)",
+      "url": "https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL"
+    },
+    {
+      "album": {
         "name": "Suite Nites",
         "url": "https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 151275,
       "name": "Best One",
       "url": "https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI"
@@ -948,6 +966,24 @@
       "duration_ms": 191560,
       "name": "Can I Go Away",
       "url": "https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB"
+    },
+    {
+      "album": {
+        "name": "Can I Talk My Shit?",
+        "url": "https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205173,
+      "name": "Can I Talk My Shit?",
+      "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
     },
     {
       "album": {
@@ -1335,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Dear Host",
+        "url": "https://open.spotify.com/album/4fJoL5EoBnMXnJNLVozZgM"
+      },
+      "artists": [
+        {
+          "name": "Carla Malrowe",
+          "url": "https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242643,
+      "name": "Dear Host",
+      "url": "https://open.spotify.com/track/7A7gXMYV7cqEYZjPzwwn90"
+    },
+    {
+      "album": {
         "name": "Desert Boy",
         "url": "https://open.spotify.com/album/2N3osDQPHUwz2okZCd2jPp"
       },
@@ -1422,7 +1476,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 215919,
       "name": "Director in the Dark",
       "url": "https://open.spotify.com/track/55yCGBhMJPzyCxWHwJJcWd"
@@ -1462,6 +1516,24 @@
       "duration_ms": 200270,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
+    },
+    {
+      "album": {
+        "name": "do you remember",
+        "url": "https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "do you remember",
+      "url": "https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT"
     },
     {
       "album": {
@@ -1934,6 +2006,24 @@
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "album": {
+        "name": "Find You There",
+        "url": "https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Find You There",
+      "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
     },
     {
       "album": {
@@ -2532,7 +2622,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 208800,
       "name": "Home",
       "url": "https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M"
@@ -2554,6 +2644,24 @@
       "duration_ms": 219461,
       "name": "Home Grown Flowers",
       "url": "https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu"
+    },
+    {
+      "album": {
+        "name": "Home has never been good to us",
+        "url": "https://open.spotify.com/album/2fXqcG7ZRuVjm2ypxB4gds"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140966,
+      "name": "Home has never been good to us",
+      "url": "https://open.spotify.com/track/0VGw53FeCBukGIvYm7SiWH"
     },
     {
       "album": {
@@ -2586,7 +2694,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 161504,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6CR9ZGHjJOdvXtiEvR7qLS"
@@ -3020,7 +3128,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 163090,
       "name": "Jitterbug",
       "url": "https://open.spotify.com/track/19vOqAbUEc0VGfFsahoTT4"
@@ -3060,6 +3168,24 @@
       "duration_ms": 180000,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF"
+    },
+    {
+      "album": {
+        "name": "Aidan Fraser",
+        "url": "https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt"
+      },
+      "artists": [
+        {
+          "name": "Aidan Fraser",
+          "url": "https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227215,
+      "name": "Jupiter's Rings",
+      "url": "https://open.spotify.com/track/4R1DPf8Xx8vEcdpwcQlIB0"
     },
     {
       "album": {
@@ -3544,7 +3670,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
@@ -3692,6 +3818,24 @@
       "duration_ms": 108027,
       "name": "must be dumb",
       "url": "https://open.spotify.com/track/7KfPJGrYjRZIRt2P3aMxK9"
+    },
+    {
+      "album": {
+        "name": "My Best Friend Hates Me",
+        "url": "https://open.spotify.com/album/6GiRp1ojCbWrWrSXiEnxYq"
+      },
+      "artists": [
+        {
+          "name": "Nasrene",
+          "url": "https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "My Best Friend Hates Me",
+      "url": "https://open.spotify.com/track/3BAHkbnoHNQi4EkvbOWmbT"
     },
     {
       "album": {
@@ -4242,7 +4386,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 202372,
       "name": "Otherlife",
       "url": "https://open.spotify.com/track/5T8w9j0O1F2uwxUde65PC3"
@@ -4300,7 +4444,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 257910,
       "name": "Over It",
       "url": "https://open.spotify.com/track/6xhxc0Z25bPsFX6TReNtOc"
@@ -4336,7 +4480,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 244358,
       "name": "Picasso's Concept",
       "url": "https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G"
@@ -4722,7 +4866,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 266451,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
@@ -5112,7 +5256,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 226741,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2lqeImzOzJY8Z3K4cptJqe"
@@ -5228,6 +5372,24 @@
       "duration_ms": 173853,
       "name": "Somewhere In The Hills",
       "url": "https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t"
+    },
+    {
+      "album": {
+        "name": "Sophie from Church",
+        "url": "https://open.spotify.com/album/4blZCIZnQH3ooTIUifv63b"
+      },
+      "artists": [
+        {
+          "name": "Gerry",
+          "url": "https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370820,
+      "name": "Sophie from Church",
+      "url": "https://open.spotify.com/track/44oUqrL76tNaMuvGqPbA5x"
     },
     {
       "album": {
@@ -6065,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Unknown / Nth",
+        "url": "https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
+    },
+    {
+      "album": {
         "name": "Vertical Desire",
         "url": "https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq"
       },
@@ -6560,7 +6740,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 180406,
       "name": "You're Not Here",
       "url": "https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB"
@@ -6618,6 +6798,24 @@
       "duration_ms": 168173,
       "name": "Young",
       "url": "https://open.spotify.com/track/3iO4pnQA5FQdRr7jSYxWU9"
+    },
+    {
+      "album": {
+        "name": "Your Darkest Hour",
+        "url": "https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252666,
+      "name": "Your Darkest Hour",
+      "url": "https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi"
     },
     {
       "album": {

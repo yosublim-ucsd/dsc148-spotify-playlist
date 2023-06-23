@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 212400,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP"
@@ -870,6 +870,24 @@
       "duration_ms": 97500,
       "name": "Long Live Anna",
       "url": "https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa"
+    },
+    {
+      "album": {
+        "name": "Love Me or Die",
+        "url": "https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219304,
+      "name": "Love Me or Die",
+      "url": "https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc"
     },
     {
       "album": {

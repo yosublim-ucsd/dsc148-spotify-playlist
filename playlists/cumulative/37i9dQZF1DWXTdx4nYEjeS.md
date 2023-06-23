@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-944 songs - 2 day 9 hr 38 min
+945 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [La Ciudad Encima](https://open.spotify.com/track/76I06bkp6Bt9pN3Dhp1Nla) | [Angie Foster](https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [La Ciudad Encima](https://open.spotify.com/album/32HSjVdSEYFJ1IxSteppj7) | 2:25 | 2022-04-01 | 2022-04-18 |
 | [La Complicidad](https://open.spotify.com/track/3Xs9f6PwDJME9eBW39LGHS) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5B7ar7OxiJy7gZtfSvWhPd) | 5:36 | 2022-04-01 | 2022-04-18 |
 | [La Crecida](https://open.spotify.com/track/7b7mBnDZyNUoRru0Ao97op) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Gratitud](https://open.spotify.com/album/6Xm6Vm8i0T5CFPsjZlKbU6) | 4:22 | 2022-04-08 | 2022-04-14 |
-| [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 | 2022-03-24 |  |
+| [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 | 2022-03-24 | 2023-06-23 |
 | [La del Avión](https://open.spotify.com/track/3k5X0JiBeNi2YXTyaPlBpl) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [La del Avión](https://open.spotify.com/album/5AGfsBjVqPeRmQkMFWK16y) | 3:26 | 2022-03-24 | 2022-04-20 |
 | [La Despedida](https://open.spotify.com/track/6MhFLmWkG5e6HgDmd7TmTD) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 3:40 | 2022-03-24 | 2022-04-17 |
 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 | 2022-04-01 | 2022-07-29 |
@@ -680,6 +680,7 @@
 | [Poco A Poco](https://open.spotify.com/track/1s2VGd7q3D3UA3vuaHI7rw) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:55 | 2022-04-01 | 2022-04-05 |
 | [Police Woman](https://open.spotify.com/track/24Bw8rtWFNDF9gdsycKoXd) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Dancing Groove](https://open.spotify.com/album/0lCstQiMFFAg35bv4DhvOa) | 4:57 | 2022-03-24 | 2022-04-19 |
 | [Por Amor al Arte](https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Por Amor al Arte](https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls) | 2:05 | 2022-01-07 | 2022-07-29 |
+| [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-22 |  |
 | [Por los Dos](https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe) | [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Por los Dos](https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns) | 3:01 | 2022-03-24 | 2022-04-09 |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2021-12-24 |  |
 | [Por Mis Días](https://open.spotify.com/track/0JxgUuHZOL2ojmZZgT6XFt) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Mi Bien](https://open.spotify.com/album/4oneqto6apNwisWnzbd4BW) | 3:15 | 2022-03-28 | 2022-04-03 |

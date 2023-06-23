@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-218 songs - 12 hr 55 min
+219 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fortuna, Fama y Poder](https://open.spotify.com/track/7EMyNkEiancyDIl5OBRbce) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Secretos de Familia](https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c) | 2:52 | 2021-07-23 | 2022-07-27 |
 | [Gato de mate](https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [Coplas del Violinero](https://open.spotify.com/album/2cv2sQMYxzLAFVxOGKuUCN) | 2:44 | 2022-02-21 | 2022-06-07 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2021-07-23 |  |
-| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 |  |
+| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 | 2023-06-23 |
 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 | 2021-07-23 | 2022-11-13 |
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 | 2022-02-21 |  |
@@ -192,6 +192,7 @@
 | [Si Se Calla el Cantor \- En Vivo](https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Sole y Horacio juntos por Única Vez \(Grabado en Vivo en el Luna Park\)](https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc) | 3:22 | 2021-07-23 | 2023-04-04 |
 | [Sol Nocturno](https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Sol Nocturno, Pt\. 1](https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR) | 3:53 | 2021-07-23 | 2022-07-29 |
 | [Sombra Enamorada](https://open.spotify.com/track/3Ea7tLiwF8LlgoUDvjhwWH) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 3:14 | 2021-07-23 | 2022-07-22 |
+| [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/track/3zMTlNMDjiTc4I9SWf2ZHI) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy) | 4:18 | 2023-06-22 |  |
 | [Soy Un Inconsciente](https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 3:01 | 2021-07-23 |  |
 | [Stefanie](https://open.spotify.com/track/4Zf24fYtIfoWdWK72aftCT) | [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Osvaldo Lagos](https://open.spotify.com/artist/0n2j3NnfkzHMoiSghxvNB6) | [Stefanie](https://open.spotify.com/album/5iDVkQFeQ2O1Zk3J4zSGzU) | 3:43 | 2021-07-23 | 2022-07-25 |
 | [Sube, Sube, Sube](https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Escondido En Mi País](https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj) | 4:08 | 2021-07-23 | 2022-11-13 |

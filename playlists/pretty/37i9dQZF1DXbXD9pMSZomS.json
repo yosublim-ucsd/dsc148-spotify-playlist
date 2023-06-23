@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 431283,
+  "num_followers": 431422,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTk5MmUyM2NkYjVhNDJkNjFlNmUwNDE4ZDk0NzNiNzkzMmNkYThm",
+  "snapshot_id": "MCwxMDBiZDU0NDE5YzUwMDRmOTk5NGFlMzYzMGQ0NTNjY2I4OGQyNWI2",
   "tracks": [
     {
       "added_at": "2023-06-09 09:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Longing For U",
         "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "SETRA",
         "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 128571,
       "name": "Setra",
       "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "I Knew It",
         "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 224390,
       "name": "I Knew It",
       "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
-      },
-      "artists": [
-        {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
     },
     {
       "added_at": "2023-06-09 09:00:00",

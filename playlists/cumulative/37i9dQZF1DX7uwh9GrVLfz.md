@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-571 songs - 1 day 6 hr 58 min
+572 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 | 2022-08-03 |
 | [ピーチ♡いちごアメ](https://open.spotify.com/track/14JarMQZIr1Lfsw6DeGef5) | [BAKUDAN JOHNNY](https://open.spotify.com/artist/5esUkhRmBCoNxNobiBrCkG) | [爆弾ジョニー](https://open.spotify.com/album/23RW1MVkvvv6iIPGsnpHeX) | 2:56 | 2022-05-17 | 2022-07-29 |
 | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/track/2GkhyE56m5OaP5YjKXpFmo) | [SHAKILAMO!](https://open.spotify.com/artist/3YLOZgsxlza27wQlWilcmT) | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/album/6oeSvxiZ9xQuNrJMq1I8b8) | 3:18 | 2022-05-12 | 2022-07-29 |
-| [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 | 2023-01-05 |  |
+| [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 | 2023-01-05 | 2023-06-23 |
 | [ボンドガールすぐ死ぬ](https://open.spotify.com/track/5DWHhJtfCA8IWdxIPmPPed) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [サードe.p](https://open.spotify.com/album/3QCsLRYFLKcEzD2k79coHC) | 2:38 | 2022-10-18 | 2022-10-20 |
 | [ミラコーナイト](https://open.spotify.com/track/1h9ej6dhMV84Jp6LK0Jwsj) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [ミラコーナイト](https://open.spotify.com/album/7tvjen8VzFAznvIghxkhQM) | 3:35 | 2022-05-12 | 2022-07-22 |
 | [ミリオンダラーベイビー](https://open.spotify.com/track/363cWR8pD54ZDtmd4Y59yO) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [millions of oblivion](https://open.spotify.com/album/3BUmcOp3vCAIO8FTIMcT68) | 3:16 | 2022-05-17 | 2022-07-29 |
@@ -547,6 +547,7 @@
 | [望まない名前](https://open.spotify.com/track/74aZoJYHaJuWOWnPNEA7sh) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [君滲む青](https://open.spotify.com/album/1nDJIuA3FN4p1F8k4jdguo) | 2:53 | 2022-05-24 | 2022-07-17 |
 | [未来へのスパイラル](https://open.spotify.com/track/4dKRC5OOcSnEa6G7utAzqd) | [Good Morning America](https://open.spotify.com/artist/7767FkTCOQF51TpFvLzNpl) | [未来へのスパイラル](https://open.spotify.com/album/3eCA7cMYlUfCQok5JhFbhs) | 3:33 | 2022-06-14 | 2022-07-26 |
 | [本当の事](https://open.spotify.com/track/2cFnGhDp62nvDtkNmLH4hW) | [KAKASHI](https://open.spotify.com/artist/1ucLKA9E6ZQmBYwb5q5S5P) | [ONE BY ONE](https://open.spotify.com/album/4F9pcS3Ci901j9t722YVLi) | 4:00 | 2022-05-19 | 2022-07-06 |
+| [東京下北沢、終わりなき青春](https://open.spotify.com/track/03WOV7zZvHP6aoMWZBUNrM) | [ザ ドーベルマンション](https://open.spotify.com/artist/2I7nU7xFKWqnDsmFGaWH8u) | [東京下北沢、終わりなき青春](https://open.spotify.com/album/5rcURW2e79Q3p7uQEULAvA) | 3:06 | 2023-06-22 |  |
 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 | 2022-05-12 | 2022-08-19 |
 | [欠けボタンの浜](https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [FOUR COLOR PROBLEM](https://open.spotify.com/album/6UPDZijSd4tsuTQnp1cvRh) | 3:15 | 2022-05-12 | 2022-07-27 |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |

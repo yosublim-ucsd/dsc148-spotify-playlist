@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=NydbujHxT7C\_NvkZWa43FQ">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,087 likes - 100 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,189 likes - 100 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 31 | [You Changed My Name](https://open.spotify.com/track/5DMb7E6IvIs1fdtgvaRqCL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [You Changed My Name](https://open.spotify.com/album/40vNN016TmNSzdjhl8UvWv) | 3:56 |
 | 32 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 33 | [As For Me \(Psalm 2\)](https://open.spotify.com/track/4Cp6WWcFtRWwDkvf8o5Fr0) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [This is the Hour](https://open.spotify.com/album/4OiQsMzlsHT0n8A4wv37ZE) | 5:06 |
-| 34 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
+| 34 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
 | 35 | [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 |
 | 36 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
 | 37 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 100 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MCw1ZjdjNGIwMjhhODRiM2I1YzdkMmNkNmUxYWExZDUyMWEwMzdlNWQ4`
+Snapshot ID: `MCw3YTNiMjIzOTBmZTk2ZGUyOTFlMTU4NGNlYjViNzAwYTU1NGUxNzJm`

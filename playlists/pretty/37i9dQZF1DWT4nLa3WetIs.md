@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 ### [Timeless Afro ](https://open.spotify.com/playlist/37i9dQZF1DWT4nLa3WetIs)
 
-> Timeless afrobeats celebrating the Journey of a million streams.
+> Timeless afrobeats celebrating the Journey of a billion streams\. Discover more  <a href="https://afrobeats.byspotify.com/">here </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,484 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,630 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 39 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 |
 | 40 | [Osinachi \- Remix](https://open.spotify.com/track/5lHClpRtKjSORyX6mkMYu7) | [HumbleSmith](https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Osinachi \(Remix\)](https://open.spotify.com/album/2GxMlKGjsB90G5ZuVOi70W) | 4:12 |
 
-Snapshot ID: `MCxhMWM4ZTk1ZmU3YzRkNWJmZDkxODczOTg5OWIwODRhODc3NWY5Zjc1`
+Snapshot ID: `MCxjNTkyOTkwYmI1MjUzNjE5YWIyOGE3ZWY0OGY4NDYwNWYyNzM3NTI3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=2RQQfnbdQy6PfmnM9el9Kw\"> Bloody Civilian</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g\"> Lady Donli </a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 140800,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/699RAgFdoNpI5o1TxAFjej"
@@ -1504,6 +1504,24 @@
       "duration_ms": 181368,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/6uc4JPPkkoRy0qMGA4XdXC"
+    },
+    {
+      "album": {
+        "name": "Chasing Wind",
+        "url": "https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218412,
+      "name": "Chasing Wind",
+      "url": "https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM"
     },
     {
       "album": {
@@ -4567,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Love Me or Die",
+        "url": "https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219304,
+      "name": "Love Me or Die",
+      "url": "https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc"
+    },
+    {
+      "album": {
         "name": "Angel On The Run",
         "url": "https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR"
       },
@@ -5148,6 +5184,24 @@
       "duration_ms": 203076,
       "name": "Murdershiro",
       "url": "https://open.spotify.com/track/1cahvfY79jaa4tHHfG4qn1"
+    },
+    {
+      "album": {
+        "name": "My Ability",
+        "url": "https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199029,
+      "name": "My Ability",
+      "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
     },
     {
       "album": {
@@ -6244,7 +6298,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 182448,
       "name": "RASTAMAN DREADS",
       "url": "https://open.spotify.com/track/1MSWJn48CNMSMShwUGC4xY"
@@ -8486,7 +8540,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 125806,
       "name": "WOOHOO! (ft. Moyoswrld)",
       "url": "https://open.spotify.com/track/7CEfJ4oDIUDY2BBVVQXMld"

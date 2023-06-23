@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits!",
-  "num_followers": 1045,
+  "num_followers": 1134,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGUwNWNkZmNkMTNmOTM2OGNjOTlhNmYyYzJlZDQ4NDcyMmVmMTZk",
+  "snapshot_id": "MCxjOGJiMjk3NDQ3YTAzNTI5ODAwNmEzNDQ2Y2Y2ZDU0YWVkODBmZjA2",
   "tracks": [
+    {
+      "added_at": "2023-06-23 01:33:00",
+      "album": {
+        "name": "Peaches (2023)",
+        "url": "https://open.spotify.com/album/0IFqCZgkdRI44XFLbFrd3v"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 94778,
+      "name": "Peaches - 2023",
+      "url": "https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl"
+    },
     {
       "added_at": "2023-06-09 07:00:00",
       "album": {

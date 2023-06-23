@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Gayatri Mantra",
+        "url": "https://open.spotify.com/album/06azPdWYhUcCLbgEyEeVdI"
+      },
+      "artists": [
+        {
+          "name": "Chetna Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LTxsVoN6Rkd0l5vw8QTYx"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2462769,
+      "name": "Gayatri Mantra",
+      "url": "https://open.spotify.com/track/6pgkNVyeOaCUXmzRbXFNSt"
+    },
+    {
+      "album": {
         "name": "Magical Mantras for Meditation - Volume Two",
         "url": "https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 2849920,
       "name": "Gayatri Mantra 108 Times",
       "url": "https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb"

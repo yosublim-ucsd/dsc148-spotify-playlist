@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 64888,
+  "num_followers": 64960,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjNjZTJmZjE3MDJkYjA5MTUyMTkwNWQ5MjllZjJiZTcwMzlhMjIw",
+  "snapshot_id": "MCwyNTNkNGZiMzczZmI0OGU5MWY1MzdlYmU3MTQ2MjIxZWNjMzQwM2Ix",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -719,30 +719,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Yahweh / Yeshua Hamashiach",
-        "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
-      },
-      "artists": [
-        {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "Cross Worship",
-          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
-        },
-        {
-          "name": "Osby Berry",
-          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
-        }
-      ],
-      "duration_ms": 345005,
-      "name": "Yahweh / Yeshua Hamashiach",
-      "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
         "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 422861,
       "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
       "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Yahweh / Yeshua Hamashiach",
+        "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        }
+      ],
+      "duration_ms": 345005,
+      "name": "Yahweh / Yeshua Hamashiach",
+      "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
     },
     {
       "added_at": "2023-02-18 05:28:04",

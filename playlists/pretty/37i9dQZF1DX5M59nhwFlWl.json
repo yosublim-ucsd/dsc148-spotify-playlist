@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 129747,
+  "num_followers": 129835,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWUxZTc5NWI0YWVhYmY3OGM0YmU5NDNmZDk2NTFjN2M2MDExYTQw",
+  "snapshot_id": "MCw3ZGRmMmM3MzViYTcxODMyOTQxZWJlY2RjYmQyNWU5NDc5MGY5MTY2",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Rubberneck",
-        "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
-      },
-      "artists": [
-        {
-          "name": "Toadies",
-          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Possum Kingdom",
-      "url": "https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Rubberneck",
+        "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
+      },
+      "artists": [
+        {
+          "name": "Toadies",
+          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Possum Kingdom",
+      "url": "https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s"
     },
     {
       "added_at": "2023-01-18 14:46:47",

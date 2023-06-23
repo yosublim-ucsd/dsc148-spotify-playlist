@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-350 songs - 18 hr 47 min
+354 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
+| [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
@@ -164,6 +165,7 @@
 | [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 | 2023-05-26 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2021-12-07 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-13 |  |
+| [Is that happened?](https://open.spotify.com/track/5SGkGXLO0vVwWsD94GE4wH) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Is that happened?](https://open.spotify.com/album/3gZqqXn69wrOmMGANIVzg5) | 2:59 | 2023-06-22 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2021-12-07 |  |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2022-10-06 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2022-01-04 | 2023-04-28 |
@@ -173,6 +175,7 @@
 | [Journeying](https://open.spotify.com/track/1DfdEGpdA0fELrmIsPAfuF) | [Lisa Rembrandt](https://open.spotify.com/artist/4jFvamolXB8GL2547RGGnm) | [Journeying](https://open.spotify.com/album/2wn9Ltw3roFXfB1c0XFkQe) | 3:06 | 2023-05-25 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2022-08-16 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 |  |
+| [La Luna](https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [La Luna](https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext) | 2:26 | 2023-06-22 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
@@ -296,6 +299,7 @@
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2021-12-07 |  |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2022-08-09 |  |
+| [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 | 2023-06-22 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2023-03-16 |  |
 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 | 2021-12-07 |  |
 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-04 |  |
@@ -313,9 +317,9 @@
 | [The Very Thought Of You](https://open.spotify.com/track/6WftZxUaexfjtZROMHVA3A) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Very Thought Of You](https://open.spotify.com/album/6U1S5nCoyqBTuHgdHpK71C) | 4:39 | 2022-11-10 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-07 |  |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-13 |  |
-| [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2021-12-07 |  |
+| [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2021-12-07 | 2023-06-23 |
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2021-12-07 |  |
-| [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2021-12-07 |  |
+| [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2021-12-07 | 2023-06-23 |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-03-01 |  |
 | [Thinking Of You](https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Thinking Of You](https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0) | 4:22 | 2022-10-06 |  |
 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 | 2021-12-07 |  |
@@ -346,7 +350,7 @@
 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 | 2021-12-07 |  |
 | [Who Could Have Known](https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:50 | 2023-03-16 |  |
 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 | 2021-12-07 |  |
-| [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-09 |  |
+| [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-09 | 2023-06-23 |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-07 |  |

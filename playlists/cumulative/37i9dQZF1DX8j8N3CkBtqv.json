@@ -700,10 +700,36 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 169591,
       "name": "Khamakha",
       "url": "https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH"
+    },
+    {
+      "album": {
+        "name": "Khamakha",
+        "url": "https://open.spotify.com/album/4zqR3MCe5cPyIbsIwf5yxp"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/0NKNtzhUO3OtwseGKr0O1b"
+        },
+        {
+          "name": "Akshayraje Shinde",
+          "url": "https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc"
+        },
+        {
+          "name": "Amritanshu Dutta",
+          "url": "https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Khamakha",
+      "url": "https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ"
     },
     {
       "album": {

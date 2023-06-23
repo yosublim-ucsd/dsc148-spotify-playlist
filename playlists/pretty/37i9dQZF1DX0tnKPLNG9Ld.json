@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 61557,
+  "num_followers": 61747,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRmYThjMzdiY2FiZjFiZjdmNDFmYmQ5MmEwZTY1NWUwNjM2YmQ2",
+  "snapshot_id": "MCw4OWZhZTc1M2EzNDZlMTA2ZWFmYTdkMzA2NzM1OWE0YWMzZGY5MDg4",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "May I Come In?",
+        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 124266,
+      "name": "Something Happens To Me",
+      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "May I Come In?",
-        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Something Happens To Me",
-      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 125946,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Shirley / Let's Face the Music",
-        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "If I Were a Bell - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "A Treasury Of Golden Hits",
         "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 176560,
       "name": "Hey There",
       "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Shirley / Let's Face the Music",
+        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "If I Were a Bell - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Jazz Abroad",
         "url": "https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 108826,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "It's a Blue World (2015 Remastered Version)",
-        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Till the Clouds Roll By - 2015 Remastered Version",
-      "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Dinah '62",
         "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 155000,
       "name": "Destination Moon - 1997 Remaster",
       "url": "https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Improvisations for the Human Voice",
+        "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
+      },
+      "artists": [
+        {
+          "name": "Annie Ross",
+          "url": "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Farmer's Market",
+      "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
     },
     {
       "added_at": "2023-06-21 08:03:15",

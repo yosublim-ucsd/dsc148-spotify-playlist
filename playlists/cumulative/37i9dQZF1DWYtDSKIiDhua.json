@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Victoria Monet",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: HYBS",
   "name": "mood.",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 200000,
       "name": "A Friend",
       "url": "https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 3 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298616,
+      "name": "A Lesser Man",
+      "url": "https://open.spotify.com/track/4bPsiRqWPFPgLiPQR7jNo4"
     },
     {
       "album": {
@@ -377,6 +395,24 @@
     },
     {
       "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc"
+      },
+      "artists": [
+        {
+          "name": "IZZY DANIYA",
+          "url": "https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "April",
+      "url": "https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01"
+    },
+    {
+      "album": {
         "name": "Ash (feat. KURO)",
         "url": "https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf"
       },
@@ -396,6 +432,24 @@
       "duration_ms": 137250,
       "name": "Ash (feat. KURO)",
       "url": "https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr"
+      },
+      "artists": [
+        {
+          "name": "Soong",
+          "url": "https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq"
     },
     {
       "album": {
@@ -954,7 +1008,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
@@ -1052,7 +1106,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 196880,
       "name": "Clumsy Dancer",
       "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 177931,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW"
@@ -1220,7 +1274,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 186534,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr"
@@ -1374,7 +1428,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 145219,
       "name": "CUTIE",
       "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
@@ -1706,6 +1760,24 @@
       "duration_ms": 157377,
       "name": "double tap",
       "url": "https://open.spotify.com/track/1ihLTwHjpxs2waSvf5yOrj"
+    },
+    {
+      "album": {
+        "name": "ECSTASY",
+        "url": "https://open.spotify.com/album/4mLel6Ahh3jU8tDhIS01FT"
+      },
+      "artists": [
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "ECSTASY",
+      "url": "https://open.spotify.com/track/0a5nzIXplliER47moyN6Wh"
     },
     {
       "album": {
@@ -2352,7 +2424,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 153200,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/3sJrI1gdELlrExukUqce4O"
@@ -3658,7 +3730,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
@@ -3956,6 +4028,24 @@
       "duration_ms": 235880,
       "name": "Like No One's Done",
       "url": "https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J"
+    },
+    {
+      "album": {
+        "name": "like this.",
+        "url": "https://open.spotify.com/album/3Ekhh7ssCTsnvLbAibEhXa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "like this.",
+      "url": "https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB"
     },
     {
       "album": {
@@ -4648,7 +4738,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 207466,
       "name": "My Soles Worn Out",
       "url": "https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ"
@@ -5538,7 +5628,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -5978,7 +6068,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 198095,
       "name": "sanctuary",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
@@ -6807,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "album": {
         "name": "HWY7",
         "url": "https://open.spotify.com/album/1pKMIAcku1t7GJPZxR5R4r"
       },
@@ -7409,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
         "name": "Ugly Duck",
         "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
       },
@@ -7958,7 +8084,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 232274,
       "name": "WANTITALL",
       "url": "https://open.spotify.com/track/20FtCKO56eHvkSdTOkDEMU"

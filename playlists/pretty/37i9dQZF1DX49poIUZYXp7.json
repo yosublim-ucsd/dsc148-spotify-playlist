@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Madeline Edwards",
-  "num_followers": 459880,
+  "num_followers": 460011,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQwOGU5NzQ0ZDE3YjZlYjkwMTUxMDQ1OGMwNTFkZmNhOGYwYTcz",
+  "snapshot_id": "MCxmOGNmY2FmMmExNDg0YTZmMmJjOWZiZjExYjQ1MTg1M2Q4ZjQ2NTA1",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "running back / dirt on \u2018em",
-        "url": "https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 187018,
-      "name": "running back",
-      "url": "https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193333,
       "name": "Church Bells",
       "url": "https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Suds in the Bucket",
+      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+        "name": "running back / dirt on \u2018em",
+        "url": "https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Suds in the Bucket",
-      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
+      "duration_ms": 187018,
+      "name": "running back",
+      "url": "https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "you don't deserve a country song",
-        "url": "https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "you don't deserve a country song",
-      "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "If I Die Young Pt. 2",
         "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 203765,
       "name": "If I Die Young Pt. 2",
       "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "you don't deserve a country song",
+        "url": "https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "you don't deserve a country song",
+      "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Unlocked",
-        "url": "https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 179811,
-      "name": "Thicc As Thieves (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 164677,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Stronger Than I Am",
-        "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
-      },
-      "artists": [
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 176087,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Waking Up Dreaming",
         "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 198802,
       "name": "Waking Up Dreaming",
       "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Stronger Than I Am",
+        "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 176087,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Come Get Your Wife",
-        "url": "https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Love Go By",
-      "url": "https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 217706,
       "name": "Martha Divine",
       "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Come Get Your Wife",
+        "url": "https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Love Go By",
+      "url": "https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6"
     },
     {
       "added_at": "2023-06-09 04:01:00",

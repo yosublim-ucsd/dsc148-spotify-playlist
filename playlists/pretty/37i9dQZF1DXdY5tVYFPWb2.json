@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 143411,
+  "num_followers": 143497,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JiNmU0NmMyNGQ0Mzc0MTA3ODYzYWY4OWVkZmMwZjlhODc2YTA1",
+  "snapshot_id": "MCw5YmM0NGExMWM1YjcyNTdhOTgzMjEzNmFhYTAzNDc1OTIzZjBhOTgz",
   "tracks": [
     {
       "added_at": "2023-06-20 15:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Talkin' Talkin'",
-        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+        "name": "Zurukunai?",
+        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 224366,
-      "name": "Talkin' Talkin'",
-      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
+      "duration_ms": 208981,
+      "name": "Zurukunai?",
+      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Zurukunai?",
-        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
       },
       "artists": [
         {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 208981,
-      "name": "Zurukunai?",
-      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -679,26 +679,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Watching Over You",
-        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "Peach & Apricot",
-          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
-        },
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        },
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 297444,
-      "name": "Watching Over You",
-      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -731,18 +723,26 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+        "name": "Watching Over You",
+        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Peach & Apricot",
+          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
+        },
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+      "duration_ms": 297444,
+      "name": "Watching Over You",
+      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "DOCUMENT (2023)",
-        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 278403,
-      "name": "DOCUMENT - 2023",
-      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
       },
       "artists": [
         {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
         }
       ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "New Romantic (feat. Maki Nomiya)",
         "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 193017,
       "name": "New Romantic (feat. Maki Nomiya)",
       "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 (English Version)",
-        "url": "https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 - English Version",
-      "url": "https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 (English Version)",
+        "url": "https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 - English Version",
+      "url": "https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1331,6 +1331,26 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1367,46 +1387,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 243600,
       "name": "Change My Life",
       "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
+        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
+      },
+      "artists": [
+        {
+          "name": "\u4f36",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
         "name": "FANCITY",
         "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
-      },
-      "artists": [
-        {
-          "name": "\u4f36",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
-        },
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u604b\u306f\u3053\u308c\u304b\u3089 / \u541b\u306e\u7b11\u9854\u306b\u3064\u3089\u308c\u3066",
-        "url": "https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1"
-      },
-      "artists": [
-        {
-          "name": "20th Century",
-          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
-      "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b"
       },
@@ -1683,22 +1667,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "MAGIC WAYS",
-        "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 269569,
-      "name": "MAGIC WAYS",
-      "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 272657,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "\u604b\u306f\u3053\u308c\u304b\u3089 / \u541b\u306e\u7b11\u9854\u306b\u3064\u3089\u308c\u3066",
+        "url": "https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1"
+      },
+      "artists": [
+        {
+          "name": "20th Century",
+          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
+      "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "MAGIC WAYS",
+        "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "duration_ms": 269569,
+      "name": "MAGIC WAYS",
+      "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
     },
     {
       "added_at": "2023-06-20 15:00:00",

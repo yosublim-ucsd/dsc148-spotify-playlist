@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1232,
+  "num_followers": 1249,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIyOTg2MDA5NzkyODViNzM1ZGYyNWZiZmU5NDFhMTMwN2FlMDcx",
+  "snapshot_id": "MCw5MDAyODMxMTI1NzY5YjYyYTVjZjg5MGZlYzM3NzRiOWE1NGU1NTIz",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 304680,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Narudisha",
         "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 269688,
       "name": "Narudisha",
       "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+        "name": "Na Gode (Swahili)",
+        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
       },
       "artists": [
         {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 283469,
-      "name": "Yatupasa Kushukuru",
-      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
+      "duration_ms": 206500,
+      "name": "Na Gode - Swahili",
+      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Na Gode (Swahili)",
-        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Na Gode - Swahili",
-      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
+      "duration_ms": 283469,
+      "name": "Yatupasa Kushukuru",
+      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
     },
     {
       "added_at": "2023-04-06 20:59:00",

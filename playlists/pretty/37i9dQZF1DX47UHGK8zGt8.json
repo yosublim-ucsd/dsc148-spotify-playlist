@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 453825,
+  "num_followers": 454299,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzAzNDdhN2Y5Yzk5NWRhMWE5NDVkZjY0OTFlYzc4MzhiMWU5ZWNi",
+  "snapshot_id": "MCw0Njc0MTJjZjYxZjY2MzFkYjVlZTIxNDZjNGZiZDI5ZWFiNDJiMGNh",
   "tracks": [
     {
       "added_at": "2023-06-20 03:38:53",
@@ -723,22 +723,18 @@
     {
       "added_at": "2023-06-20 03:38:53",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+        "name": "Transforma(dor)",
+        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+      "duration_ms": 143461,
+      "name": "Transforma(dor)",
+      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
     },
     {
       "added_at": "2023-06-20 03:38:53",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-06-20 03:38:53",
       "album": {
-        "name": "Transforma(dor)",
-        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 143461,
-      "name": "Transforma(dor)",
-      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
       "added_at": "2023-06-20 03:38:53",

@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-166 songs - 9 hr 10 min
+168 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,11 +106,13 @@
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 | 2023-02-15 |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2022-03-10 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-09-30 | 2022-11-13 |
+| [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-04-14 | 2023-06-10 |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-03-10 |  |
 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 | 2022-08-02 |  |
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2022-03-10 |  |
 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 | 2022-03-10 | 2022-06-04 |
+| [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 | 2023-06-22 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-04-14 | 2023-06-10 |
 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 | 2022-03-10 | 2022-07-02 |
 | [Like a Prayer](https://open.spotify.com/track/0T4FWsx9iUYpd1y8mJQwdf) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Like a Prayer](https://open.spotify.com/album/1yzUOsibq34YhCxuhsypCo) | 3:53 | 2022-03-10 |  |

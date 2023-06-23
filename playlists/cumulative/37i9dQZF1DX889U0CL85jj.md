@@ -4,7 +4,7 @@
 
 > Just chill.
 
-523 songs - 1 day 6 hr 6 min
+525 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-07-31 | 2022-01-22 |
 | [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 | 2022-11-11 | 2023-03-07 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2020-03-19 | 2022-01-22 |
+| [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-06-22 |  |
 | [Bad Company](https://open.spotify.com/track/324lDigyaxTDd7UG2PGisD) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Bad Company](https://open.spotify.com/album/4WwvhF9b5WtWhUS3mjAVve) | 3:39 | 2020-03-26 | 2022-01-22 |
 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-05-25 |  |
 | [Bamboo](https://open.spotify.com/track/1r5KciSPXmBoyipN2UvCGk) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [elizatwinkies](https://open.spotify.com/artist/7i2E2RkfMP2y8HMKkcD16P) | [Bamboo](https://open.spotify.com/album/3SabVlWz5Xkwcf2tWtrAfo) | 2:56 | 2020-05-22 | 2022-01-22 |
@@ -225,7 +226,7 @@
 | [I Never Stay In Love](https://open.spotify.com/track/7cgrzmkoIn4t0bMQ5NoatW) | [Stephen](https://open.spotify.com/artist/64N1HzkQEXvjlJBQinWeu2) | [I Never Stay In Love](https://open.spotify.com/album/7kramHTbDhB8FADYJCv2fa) | 4:04 | 2020-05-08 | 2022-01-22 |
 | [I Should Be Alone Right Now](https://open.spotify.com/track/0h05w1cUux37nKKZX66vNZ) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Dessauer](https://open.spotify.com/artist/13bGI7bd5hv6Rj41L6sqLT), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [New Religion](https://open.spotify.com/album/7ws0ViqrDgUcZA4zrGnDud) | 3:40 | 2022-11-11 |  |
 | [I Want You Back](https://open.spotify.com/track/45IhSIsQkvmCZ2V0yxEazY) | [wwoman](https://open.spotify.com/artist/3bvaVxy4LIPalRkLXBkYrX) | [I Want You Back](https://open.spotify.com/album/4kgjrn6CksCpzkEhweIR51) | 4:07 | 2020-11-20 | 2023-03-21 |
-| [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 | 2023-03-09 |  |
+| [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 | 2023-03-09 | 2023-06-23 |
 | [I'll Be Around](https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [I'll Be Around](https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt) | 2:40 | 2022-10-08 | 2023-03-10 |
 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2022-11-25 |  |
 | [I'll Wait for You](https://open.spotify.com/track/7aubsiy3BNL0umbXaHtPro) | [Tsuwavii](https://open.spotify.com/artist/0D9qyJ0MxZf1QhrtbK0By7), [Abi Bernadoth](https://open.spotify.com/artist/0kqNd43r9g26Rn23EsSxCW), [rayo](https://open.spotify.com/artist/0tf8gcppeW1Essa4WXbMsX) | [I'll Wait for You](https://open.spotify.com/album/1NBQeDOqJ1TushojX4Jw4A) | 3:00 | 2023-06-02 |  |
@@ -376,6 +377,7 @@
 | [Running](https://open.spotify.com/track/32ehY1sbKp8U3wGkV6SkOq) | [Varju](https://open.spotify.com/artist/5uCNbWBRebH8Si8AzJ5gIT) | [Running](https://open.spotify.com/album/39PTtOlBG3eP8mD50m1SUV) | 2:56 | 2023-05-22 |  |
 | [Sad Disco \(Pine Studios\)](https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sad Disco \(Pine Studios\)](https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X) | 3:47 | 2023-02-16 |  |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-05 |  |
+| [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 |  |
 | [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 |  |
@@ -471,7 +473,7 @@
 | [Till It Happens To You](https://open.spotify.com/track/4Eq60oypgAxlX6Kp7MFQl6) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:38 | 2020-09-21 | 2022-05-21 |
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-22 |  |
 | [Time Moves Slow](https://open.spotify.com/track/1I40L32fTSSkBkPeArX9Ul) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 4:33 | 2021-06-09 | 2022-07-29 |
-| [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2022-06-10 |  |
+| [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2022-06-10 | 2023-06-23 |
 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 | 2023-04-18 |  |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-07 |  |
 | [Toking, Dozing](https://open.spotify.com/track/25uVLrUrzXnqjDHoyX3bCY) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Toking, Dozing](https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL) | 3:46 | 2020-02-28 | 2022-01-22 |

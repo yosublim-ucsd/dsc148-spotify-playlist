@@ -2,7 +2,7 @@
 
 ### [Timeless Afro ](https://open.spotify.com/playlist/37i9dQZF1DWT4nLa3WetIs)
 
-> Timeless afrobeats celebrating the Journey of a million streams.
+> Timeless afrobeats celebrating the Journey of a billion streams\. Discover more  <a href="https://afrobeats.byspotify.com/">here </a>
 
 180 songs - 12 hr 30 min
 

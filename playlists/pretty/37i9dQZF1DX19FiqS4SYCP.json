@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142356,
+  "num_followers": 142363,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmY4YTlkNGJjNmQzMDY0MTEyMDZhOTkxNDhiMmUzMDBlYTBhMTgz",
+  "snapshot_id": "MCwwYjE0MzY4ZDUxNDM2YzVlYjNlZDA1ZTY1ZDg0Mjk3MGVjODBiNzcz",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 228032,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Necesito Odiarte",
         "url": "https://open.spotify.com/album/0uOxC2cwv3qXrTbhKYhAuX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 217429,
       "name": "Necesito Odiarte",
       "url": "https://open.spotify.com/track/78tcL0l8FArWXckn4vKlpw"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 228032,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Porque T\u00fa",
-        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
-      },
-      "artists": [
-        {
-          "name": "Stevie D",
-          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Porque T\u00fa",
-      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Te Llevo En Mi Alma",
         "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "El Error M\u00e1s Bello",
-        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
+        "name": "Porque T\u00fa",
+        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
       "artists": [
         {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+          "name": "Stevie D",
+          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
         }
       ],
-      "duration_ms": 205258,
-      "name": "El Error M\u00e1s Bello",
-      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
+      "duration_ms": 234186,
+      "name": "Porque T\u00fa",
+      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -471,6 +455,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "El Error M\u00e1s Bello",
+        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 205258,
+      "name": "El Error M\u00e1s Bello",
+      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Estoy Encari\u00f1ado",
         "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Amigo Fiel",
-        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Amigo Fiel",
-      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Una Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 196875,
       "name": "Una Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Amigo Fiel",
+        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Amigo Fiel",
+      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Soy Mas Fuerte (Deluxe)",
         "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 229536,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
       },
       "artists": [
         {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
         }
       ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
       },
       "artists": [
         {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
         }
       ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Quebrando Cadenas",
+        "url": "https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm"
+      },
+      "artists": [
+        {
+          "name": "Lupe Saenz Jr",
+          "url": "https://open.spotify.com/artist/4RWevluXFUV07zMC2nCBiI"
+        },
+        {
+          "name": "Margarita Fender",
+          "url": "https://open.spotify.com/artist/0QPwRlpG3rvMfqIwRNuoJb"
+        }
+      ],
+      "duration_ms": 240383,
+      "name": "Quebrando Cadenas",
+      "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "No Me Busques",
         "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 185179,
       "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
       "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Quebrando Cadenas",
-        "url": "https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm"
-      },
-      "artists": [
-        {
-          "name": "Lupe Saenz Jr",
-          "url": "https://open.spotify.com/artist/4RWevluXFUV07zMC2nCBiI"
-        },
-        {
-          "name": "Margarita Fender",
-          "url": "https://open.spotify.com/artist/0QPwRlpG3rvMfqIwRNuoJb"
-        }
-      ],
-      "duration_ms": 240383,
-      "name": "Quebrando Cadenas",
-      "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Buena Vida",
-        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
+        "name": "Simplemente Por Quererte a Ti",
+        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
       "artists": [
         {
-          "name": "Rose Elva & the Crew",
-          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
         }
       ],
-      "duration_ms": 222041,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
+      "duration_ms": 198400,
+      "name": "Simplemente Por Quererte a Ti",
+      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Simplemente Por Quererte a Ti",
-        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
+        "name": "La Buena Vida",
+        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
       },
       "artists": [
         {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+          "name": "Rose Elva & the Crew",
+          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Simplemente Por Quererte a Ti",
-      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+      "duration_ms": 222041,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1275,6 +1259,22 @@
       "duration_ms": 202346,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
     },
     {
       "added_at": "2023-03-10 18:43:28",

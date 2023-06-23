@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54027,
+  "num_followers": 54024,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDc4ZWQ0MzEyMzg2MGI3OGU1ZDhiMDlkNWY5NGU5NzI3ZjAxYTZh",
+  "snapshot_id": "MCxjYzQ1M2Y2NmFlNTQxMTEzNmRiY2Q2MWY2ZTVjNzQ2ZDAyMGIzM2Fi",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Risen Powerful Gospel Resurrection Songs",
         "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
       },
       "artists": [
         {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
         }
       ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1007,22 +1023,6 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter (feat. Todd Dulaney)",
-        "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 427640,
-      "name": "Easter (feat. Todd Dulaney)",
-      "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter (feat. Todd Dulaney)",
+        "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 427640,
+      "name": "Easter (feat. Todd Dulaney)",
+      "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
     },
     {
       "added_at": "2023-04-09 08:49:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 83,634 likes - 185 songs - 12 hr 19 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 83,697 likes - 187 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,5 +193,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 183 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 184 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 | 185 | [COLLEGE](https://open.spotify.com/track/6hsI1ar1EIyXU28ZHWlNW6) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [COLLEGE](https://open.spotify.com/album/2iKyerlQ2TbGMUhMUuaH2D) | 2:36 |
+| 186 | [Only Love Can Save Us Now \- KC Lights Remix](https://open.spotify.com/track/6TFvY0ZUAG3RMFsoXu5JMx) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Only Love Can Save Us Now \(Remixes\)](https://open.spotify.com/album/4ETSuFiVuUSga7g9Tb4Vu1) | 3:33 |
+| 187 | [818](https://open.spotify.com/track/03KI9skAfLitNzANOWhZJi) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:56 |
 
-Snapshot ID: `ODQ0LDc5YmZjYWZjNzgzMzhhZDVmMTRjNTJmNmNiYTQ0YWQyNzM1MzRlNmQ=`
+Snapshot ID: `ODQ2LGNhZGQ5YWQxZjQ3MmNhOGExZTUyZjczODIxZTNhZTJmNmIyYWM1NGI=`

@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-129 songs - 9 hr 21 min
+130 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2022-09-15 |  |
 | [Someday](https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O) | [Aydin Genchsoy](https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK) | [Someday](https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1) | 4:24 | 2022-10-13 |  |
 | [Somewhere In Nirvana](https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9) | [LONO](https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP), [AVY X](https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [Somewhere In Nirvana](https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr) | 2:18 | 2022-09-15 | 2023-04-14 |
+| [Stained Teeth](https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Stained Teeth](https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA) | 2:45 | 2023-06-22 |  |
 | [Suburban Sunrise](https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:35 | 2022-09-15 |  |
 | [Such It Goes](https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Such It Goes](https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn) | 8:02 | 2022-09-15 |  |
 | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo) | [Sun Goes Down \(feat\. KILLUA\)](https://open.spotify.com/album/5HXrynH3tTOYgjB0twZ2J1) | 3:37 | 2022-09-15 | 2023-03-21 |

@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-191 songs - 11 hr 57 min
+192 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Little Rain](https://open.spotify.com/track/1w4pCNSU7FTmDXY8j0nYzx) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/1GedbzrnJWEdLnySwqEAzr) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 | 2022-05-16 |  |
 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-11-19 |  |
-| [Love Is The King](https://open.spotify.com/track/46ewtMKwdS4EUNm5YsGwjD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/3cuftKYEWJF8MT8sqAv6ov) | 4:46 | 2021-11-19 |  |
+| [Love Is The King](https://open.spotify.com/track/271mzPl1RdTmUIwC9pAhUI) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 4:46 | 2023-06-09 |  |
+| [Love Is The King](https://open.spotify.com/track/46ewtMKwdS4EUNm5YsGwjD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/3cuftKYEWJF8MT8sqAv6ov) | 4:46 | 2021-11-19 | 2023-06-23 |
 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 | 2023-02-17 |  |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2021-11-19 | 2023-04-11 |
 | [Love You True](https://open.spotify.com/track/0XSynffntpPmWwutFaT4MP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/7m6ucG298JCN5miztXky1g) | 3:53 | 2023-04-07 |  |

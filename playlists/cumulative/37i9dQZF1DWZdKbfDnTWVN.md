@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover KayCyy
+> The best of bars, beats & rhymes from the 254\. Cover: Vallerie Muthoni
 
-129 songs - 6 hr 34 min
+130 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [S.I.T.T.S \(Ka Eliud\)](https://open.spotify.com/track/4krV1xjRQAnwukaWPDvcgn) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Shrappin' Rage](https://open.spotify.com/album/4ChS3ntxn25hcVpyDm9K1c) | 3:14 | 2022-10-27 | 2023-05-06 |
 | [Sawa](https://open.spotify.com/track/0wJmCGVg0JTGE3iyHUqyWK) | [KABUGA](https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa) | [Sawa](https://open.spotify.com/album/6qzmfRbYjwYP4unvKH9BSV) | 2:25 | 2022-05-19 | 2023-05-19 |
 | [Senseless](https://open.spotify.com/track/2CxK2sMoIkMgFzH91SngMI) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM) | [Senseless](https://open.spotify.com/album/5mt4ZmtZH0dV0YmKJyiY6S) | 2:50 | 2022-08-04 | 2023-05-12 |
+| [Sexy](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Sexy](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 | 2023-06-22 |  |
 | [Shetani 1](https://open.spotify.com/track/7cLVeJHt6Liw5HRfDSma5Q) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [Shetani 1](https://open.spotify.com/album/5vuN0k9yJlWiiqFh3Mbgo3) | 2:31 | 2022-08-18 | 2022-10-14 |
 | [Shmoke](https://open.spotify.com/track/3pgVqyZNW3PXilNUdXV9q8) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Shmoke](https://open.spotify.com/album/1m8EVbDpkDLABR2ojleMPg) | 1:42 | 2022-12-09 |  |
 | [Shots \(feat\. Nyashinski\)](https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 2:49 | 2022-09-09 |  |
@@ -113,7 +114,7 @@
 | [Super Vlone](https://open.spotify.com/track/3miQtVjY8EzasTE1BoKJrh) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [StewItUp](https://open.spotify.com/artist/5Q0VdhxLmQ5U7hVMJE52iP), [Dark War](https://open.spotify.com/artist/4F3FcVXU6fJ5nUCiKo2LNM) | [Super Vlone](https://open.spotify.com/album/6opfFkWE4RMyDrO675V23X) | 4:09 | 2022-07-07 | 2022-11-11 |
 | [Talk 1](https://open.spotify.com/track/2IEMb0weVldFdaFNKk3S2e) | [Zische](https://open.spotify.com/artist/0JB6umTJU4N8s89kqt63yZ) | [Talk 1](https://open.spotify.com/album/1fyB2EcRkCsLybJBhdDKRz) | 2:37 | 2022-08-04 |  |
 | [Talk Ni Cheap](https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Talk Ni Cheap](https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW) | 3:11 | 2023-05-18 |  |
-| [tha feelin](https://open.spotify.com/track/3GM4jz8GuMkVUvCODSZ1i0) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [tha feelin](https://open.spotify.com/album/2pQ8DLVKqm5YYIseTwjnhZ) | 1:54 | 2022-07-21 |  |
+| [tha feelin](https://open.spotify.com/track/3GM4jz8GuMkVUvCODSZ1i0) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [tha feelin](https://open.spotify.com/album/2pQ8DLVKqm5YYIseTwjnhZ) | 1:54 | 2022-07-21 | 2023-06-23 |
 | [Thao Moja](https://open.spotify.com/track/1PO7W6fuOlFqM7bdNhzN1q) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [DEZ](https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv) | [Thao Moja](https://open.spotify.com/album/0BJkuk75Yj4gVz11P8ckuM) | 2:39 | 2022-07-21 | 2022-12-10 |
 | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/track/7B8ihSTZ2vUmZKhcO4L4Lo) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/album/3RDYhpl3VUBVrLnMX1yM63) | 4:46 | 2023-01-19 |  |
 | [The Point](https://open.spotify.com/track/0USVFLxsAauRkpVaFprj8s) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [The Point](https://open.spotify.com/album/7MkNwTMI6DfxnAnbvn1RsP) | 2:22 | 2023-02-03 |  |

@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-510 songs - 1 day 5 hr 15 min
+511 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Algo de Mi Canción](https://open.spotify.com/track/0aS0PniXL2T1lGOALsrWRh) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Algo de Mi Canción](https://open.spotify.com/album/5tuHB7wXoQGjeCokaSfyil) | 3:53 | 2022-03-18 | 2022-06-29 |
 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 | 2022-01-21 | 2022-07-27 |
+| [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-22 |  |
 | [Amigos Vampiros](https://open.spotify.com/track/5pzF43YryBiAIyaohrfnUK) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai) | [El Nuevo Planeta](https://open.spotify.com/album/7DaY5rgnwZ6BPzUdhzVEfw) | 4:01 | 2022-04-01 | 2022-06-15 |
 | [Amistad](https://open.spotify.com/track/7DEyv9Bi68StRGmgj88UMo) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mito](https://open.spotify.com/album/4sXHOot4KCgIyj4Nwu5Rmm) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-05-20 | 2022-06-04 |
@@ -193,7 +194,7 @@
 | [Guerra](https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Juano Loyola](https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 2:52 | 2022-07-15 | 2022-07-24 |
 | [Haikus](https://open.spotify.com/track/5F0wz82HpYta58t2sAMwR0) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Haikus](https://open.spotify.com/album/1FOq8dtUXCt2bZlLPgw4WC) | 3:31 | 2022-03-04 | 2022-04-30 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/6tIOMUJ75caEiH47DhqDYe) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Reconstrucción](https://open.spotify.com/album/20NTZgsDfie7eJEHfhKnmh) | 3:36 | 2022-01-21 | 2022-07-06 |
-| [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 | 2023-06-17 |
+| [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 |  |
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2022-01-14 | 2022-07-28 |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2022-07-15 | 2023-06-10 |
 | [Hemofilia](https://open.spotify.com/track/7naNjlQMQ6Jdh5Rm4VOztG) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Hemofilia](https://open.spotify.com/album/0fmzl1XzDM1S5onWYZZeS8) | 4:20 | 2022-04-20 | 2022-07-28 |
@@ -407,7 +408,7 @@
 | [Roma](https://open.spotify.com/track/6x5GX0efAvoP7UPREJZ7JO) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Roma](https://open.spotify.com/album/4T10MaEXDPURJu82rNHHjp) | 3:25 | 2022-04-01 | 2022-06-17 |
 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-07-30 |
 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-05-26 |  |
-| [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 |  |
+| [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 | 2023-06-23 |
 | [Rush](https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/58vRiAOoBIOR091LSSvJau) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 | 2022-11-06 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-01 | 2022-04-28 |
@@ -463,7 +464,7 @@
 | [Tiempo Libre](https://open.spotify.com/track/1HF8TD9Q9SHKu2469cb1m8) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Tiempo Libre](https://open.spotify.com/album/1vWfmy02XiHhEXHPIMJ24E) | 4:30 | 2022-01-21 | 2022-06-24 |
 | [TIEMPOS SALVAJES](https://open.spotify.com/track/18HMqP4m9i0seXQ3LaJbBx) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Demos Realistas](https://open.spotify.com/album/5MUDuBUX4EaY0GJLX6R1G3) | 3:09 | 2022-01-21 | 2022-07-21 |
 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 | 2022-01-21 |  |
-| [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-06-09 |  |
+| [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-06-09 | 2023-06-23 |
 | [Todavía](https://open.spotify.com/track/4uV37LBd2UskSNl0Czc0M2) | [MOVEDIZA](https://open.spotify.com/artist/4EQQIISarbEz0jdNqgREYD), [Manul Nube](https://open.spotify.com/artist/3VIWRSR2eSBfCZ94nJoSag) | [Todavía](https://open.spotify.com/album/3VWK0L8HrLtaQmWEmy5u5m) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [Todo a la Vez](https://open.spotify.com/track/0KnCoTufyJ7yT42edb0zpW) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Todo a la Vez](https://open.spotify.com/album/1vxYvCBlmcrJLiisevXxqu) | 3:34 | 2022-01-21 | 2022-07-28 |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2022-01-21 | 2022-07-25 |

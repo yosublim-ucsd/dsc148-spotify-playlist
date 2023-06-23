@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,461 likes - 72 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,538 likes - 72 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 4 | [Jadi Kekasihku Saja](https://open.spotify.com/track/1lCv3fOI9bqBypLpgUfA4T) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Jadi Kekasihku Saja](https://open.spotify.com/album/2V8QU3LQZjb5yF3qq14KE7) | 2:50 |
 | 5 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 |
 | 6 | [Sampai Kita Tua](https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sampai Kita Tua](https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI) | 4:35 |
-| 7 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 |
+| 7 | [Sampai Kita Menua Bersama](https://open.spotify.com/track/0fFyhrV4pyOT4U9MfLwUoo) | [Kesya](https://open.spotify.com/artist/2a14N7fdgzTgPjXBIEctny) | [Sampai Kita Menua Bersama](https://open.spotify.com/album/7fXuF9sBouQmIFwy5rd33P) | 4:38 |
 | 8 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 |
 | 9 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 |
 | 10 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 71 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
 | 72 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 |
 
-Snapshot ID: `MCw4ODRlMzE2YTNhMTA2MTlmY2E2NDQyZjE3YzhkZGNlYjY5MTRhY2M3`
+Snapshot ID: `MCwwOTAzOWYzODliM2UwNGI3NzE4YWFjMTc2OGZiODA5Y2IwMTI1YTQ3`

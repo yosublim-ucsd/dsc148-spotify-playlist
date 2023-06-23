@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,996 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,292 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 39 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 |
 | 40 | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS) | 4:45 |
 
-Snapshot ID: `MjgxMjI1NDIsMDAwMDAwMDBkZmJjMTYxZmViZTc0ZjY5NjYxOGZlZGQxN2NlYjBlMA==`
+Snapshot ID: `MjgxMjM5NDUsMDAwMDAwMDAxYzBiNDU2Yjc1ZGQzNDM5MjNkZjBjMTZlMzlmYjcyNA==`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : MDNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,707 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,720 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paradis](https://open.spotify.com/track/4BKhhCdzdmCIhDd4g6u7GR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MDNS](https://open.spotify.com/album/6sYdShIBNJHvrgsuQOlNd0) | 2:21 |
+| 1 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 |
 | 2 | [Trop bonnes](https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx) | 2:32 |
 | 3 | [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 |
 | 4 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 34 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 35 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCw5ZjVlODJlOWIyNTkyOWFjNDkxZDJkMmUwZmI5NTQzNjc2YjczODNm`
+Snapshot ID: `MCwzYzZkODdiZWVjMjBjMTExOTFjMTNlNjg3YzAzYTg0OWVlNzgxZGE1`

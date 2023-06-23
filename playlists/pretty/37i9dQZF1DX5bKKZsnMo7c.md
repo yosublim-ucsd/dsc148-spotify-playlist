@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,452 likes - 64 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,641 likes - 64 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 63 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 |
 | 64 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 |
 
-Snapshot ID: `MCw5MDRiNjE0OTU2YjczZGM1OTMwN2EzNjg4OGZiYmZjYWNhM2ZlYzk2`
+Snapshot ID: `MCxiNzM5YTlkZDgzODI2ZGFiYTRjZjc0MzkxYWFmM2M4N2U5ZDkzNjY2`

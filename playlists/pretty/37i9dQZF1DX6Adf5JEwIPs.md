@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz & Lalo Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,242 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,616 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 13 | [Prendo Un Gallo](https://open.spotify.com/track/272dYrwFE76Io6riUpLugS) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Prendo Un Gallo](https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L) | 2:22 |
 | 14 | [GELATO](https://open.spotify.com/track/2I1yrOCSKBecgf2SCTk9Hy) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [GELATO](https://open.spotify.com/album/6ZRcIwQIgH7Kf6MzAvYrb3) | 3:14 |
 | 15 | [Modo Bélico](https://open.spotify.com/track/2GL8PLvJV5DcHYCghqHOVZ) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Modo Bélico](https://open.spotify.com/album/3B8WeSDGvszdjUNSgilNOt) | 2:55 |
-| 16 | [El Beisbolero](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
+| 16 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
 | 17 | [No Le Digan](https://open.spotify.com/track/4kjAkgFBzmDM0Qw6rHFhPx) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [No Le Digan](https://open.spotify.com/album/2Xg7pYegstWqLmsVMIDoz7) | 3:14 |
 | 18 | [Espejito, Espejito](https://open.spotify.com/track/2EwUNErhoTaJ2cKklOgok3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Espejito, Espejito](https://open.spotify.com/album/6TAv5J6D66aqU1bUTImcpE) | 2:40 |
 | 19 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 | 51 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 |
 
-Snapshot ID: `MCxhMGFmYTFhMjM4N2UyYjg3MTc0MjEzOTkyNjIxNzA5ZjczNTBmYjUw`
+Snapshot ID: `MCxiMDFlMGQ2YjdmNGE5ZDQwZTk1NTg1NTA4MzYxNjBkOGE5YTAzM2Vl`

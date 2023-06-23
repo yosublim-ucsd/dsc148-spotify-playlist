@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0\">Sammie Ekpoh</a>",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=xpOBqBfdSymt8WfxdxXF_A\">Oyije</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 552000,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
@@ -398,6 +398,50 @@
       "duration_ms": 657059,
       "name": "Fragrance to Fire",
       "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/6DMGM2y7j46To04if4jIam"
+      },
+      "artists": [
+        {
+          "name": "Romeo ThaGreatwhite",
+          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
+        },
+        {
+          "name": "Prifix",
+          "url": "https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304901,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
+    },
+    {
+      "album": {
+        "name": "Hallelujah (feat. Sini Dagana) [Gyration Version]",
+        "url": "https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Sini Dagana",
+          "url": "https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138383,
+      "name": "Hallelujah (feat. Sini Dagana) [Gyration Version]",
+      "url": "https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U"
     },
     {
       "album": {
@@ -580,7 +624,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 135800,
       "name": "Jesus (I'm Yours)",
       "url": "https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ"
@@ -678,7 +722,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 290530,
       "name": "Miracle Worker (feat. Nathaniel Bassey)",
       "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
@@ -768,7 +812,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 215876,
       "name": "My Trust Is in You",
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
@@ -881,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9"
       },
@@ -896,7 +958,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 191451,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
@@ -1126,7 +1188,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
@@ -1216,7 +1278,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
@@ -1238,7 +1300,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 176118,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq"
@@ -1386,7 +1448,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 697274,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7"

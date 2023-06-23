@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "As I Wake Up",
+        "url": "https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207941,
+      "name": "As I Wake Up",
+      "url": "https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm"
+    },
+    {
+      "album": {
         "name": "Asiwaju",
         "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
       },
@@ -784,7 +802,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 161118,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
@@ -1096,6 +1114,24 @@
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "album": {
+        "name": "Chasing Wind",
+        "url": "https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218412,
+      "name": "Chasing Wind",
+      "url": "https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM"
     },
     {
       "album": {
@@ -2496,7 +2532,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 138407,
       "name": "Hnd (Hope Never Dies)",
       "url": "https://open.spotify.com/track/5PQDXuDEElqqwcbNdDgXGh"
@@ -3260,7 +3296,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 186000,
       "name": "Mental",
       "url": "https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg"
@@ -3588,6 +3624,28 @@
       "duration_ms": 167499,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
+    },
+    {
+      "album": {
+        "name": "Milli",
+        "url": "https://open.spotify.com/album/54Oo6bmvV6PSgIkwy9QC68"
+      },
+      "artists": [
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128548,
+      "name": "Milli",
+      "url": "https://open.spotify.com/track/7BacjHUkoZ7clhKSwaVSEv"
     },
     {
       "album": {
@@ -3632,6 +3690,24 @@
       "duration_ms": 156634,
       "name": "Money Bag",
       "url": "https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ"
+    },
+    {
+      "album": {
+        "name": "My Ability",
+        "url": "https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199029,
+      "name": "My Ability",
+      "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
     },
     {
       "album": {
@@ -5924,6 +6000,24 @@
       "duration_ms": 189231,
       "name": "Yakubu",
       "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"
+    },
+    {
+      "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "album": {

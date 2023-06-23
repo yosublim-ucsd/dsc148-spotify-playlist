@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170541,
+  "num_followers": 170559,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh",
+  "snapshot_id": "MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw",
   "tracks": [
     {
       "added_at": "2023-06-21 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/0NbssHnaAya60F1ynwa0a0"
       },
       "artists": [
         {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Camino Dorado",
-      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
+      "duration_ms": 221586,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/2lcKU0ljWEiKeVo45KT4E5"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
       },
       "artists": [
         {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
         }
       ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+      "duration_ms": 191746,
+      "name": "Camino Dorado",
+      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/0NbssHnaAya60F1ynwa0a0"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
       "artists": [
         {
-          "name": "Lua Lacruz",
-          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
         }
       ],
-      "duration_ms": 221586,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/2lcKU0ljWEiKeVo45KT4E5"
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -375,38 +375,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/4FDFHXQo1pZc20K4SURGyw"
-      },
-      "artists": [
-        {
-          "name": "tais",
-          "url": "https://open.spotify.com/artist/0eBqEhLtBJIWAM3IprQ773"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/5K3pkjlNbjTyqKuPPKKaFo"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE"
-      },
-      "artists": [
-        {
-          "name": "Christian White",
-          "url": "https://open.spotify.com/artist/5Dmhq7JGEuDLiqA5cnutGq"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/2oSkKilmqbFvtU19bzMLcA"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Novio Intelectual",
         "url": "https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg"
       },
@@ -423,22 +391,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Cenizas",
-        "url": "https://open.spotify.com/album/6kYBHRqulDX38YUvBfTpUw"
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE"
       },
       "artists": [
         {
-          "name": "Rollo California",
-          "url": "https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp"
-        },
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+          "name": "Christian White",
+          "url": "https://open.spotify.com/artist/5Dmhq7JGEuDLiqA5cnutGq"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/688BEx0xZQmWtgxEtZk43H"
+      "duration_ms": 167586,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/2oSkKilmqbFvtU19bzMLcA"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -463,18 +427,38 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE"
+        "name": "Cenizas",
+        "url": "https://open.spotify.com/album/6kYBHRqulDX38YUvBfTpUw"
       },
       "artists": [
         {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+          "name": "Rollo California",
+          "url": "https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp"
+        },
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr"
+      "duration_ms": 167250,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/688BEx0xZQmWtgxEtZk43H"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/4FDFHXQo1pZc20K4SURGyw"
+      },
+      "artists": [
+        {
+          "name": "tais",
+          "url": "https://open.spotify.com/artist/0eBqEhLtBJIWAM3IprQ773"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/5K3pkjlNbjTyqKuPPKKaFo"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
         "name": "Gelato",
         "url": "https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 223928,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH"
-      },
-      "artists": [
-        {
-          "name": "Erick Oyarvide",
-          "url": "https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Deber\u00edamos",
-      "url": "https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH"
+      },
+      "artists": [
+        {
+          "name": "Erick Oyarvide",
+          "url": "https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Deber\u00edamos",
+      "url": "https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
         "name": "Dame M\u00e1s",
         "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 225299,
       "name": "Dame M\u00e1s",
       "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "La Vida, un Viaje",
-        "url": "https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d"
-      },
-      "artists": [
-        {
-          "name": "PASKURANA",
-          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
-        }
-      ],
-      "duration_ms": 247457,
-      "name": "Eufrasia en el Desierto",
-      "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -595,22 +579,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r"
-      },
-      "artists": [
-        {
-          "name": "Le Montro",
-          "url": "https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS"
-        }
-      ],
-      "duration_ms": 168083,
-      "name": "Magnetismo",
-      "url": "https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "MARIPOSAS",
         "url": "https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl"
       },
@@ -627,18 +595,50 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "qu\u00e9 pretendes hacer conmigo",
-        "url": "https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv"
+        "name": "La Vida, un Viaje",
+        "url": "https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d"
       },
       "artists": [
         {
-          "name": "Sara Ontaneda",
-          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
+          "name": "PASKURANA",
+          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
         }
       ],
-      "duration_ms": 170218,
-      "name": "qu\u00e9 pretendes hacer conmigo",
-      "url": "https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X"
+      "duration_ms": 247457,
+      "name": "Eufrasia en el Desierto",
+      "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r"
+      },
+      "artists": [
+        {
+          "name": "Le Montro",
+          "url": "https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS"
+        }
+      ],
+      "duration_ms": 168083,
+      "name": "Magnetismo",
+      "url": "https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Arrullo",
+        "url": "https://open.spotify.com/album/2JuyJjQyp5VnQPSsyH199J"
+      },
+      "artists": [
+        {
+          "name": "Yonna Lizzouli",
+          "url": "https://open.spotify.com/artist/5B4DxKuZaoR8FioGJnFHOb"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arrullo",
+      "url": "https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
+        "name": "qu\u00e9 pretendes hacer conmigo",
+        "url": "https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv"
+      },
+      "artists": [
+        {
+          "name": "Sara Ontaneda",
+          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
+        }
+      ],
+      "duration_ms": 170218,
+      "name": "qu\u00e9 pretendes hacer conmigo",
+      "url": "https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
         "name": "Coral",
         "url": "https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J"
       },
@@ -671,6 +687,26 @@
       "duration_ms": 227994,
       "name": "Coral",
       "url": "https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Siempre Fuiste Vos",
+        "url": "https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW"
+      },
+      "artists": [
+        {
+          "name": "Rudy",
+          "url": "https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW"
+        },
+        {
+          "name": "LvRod",
+          "url": "https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Siempre Fuiste Vos",
+      "url": "https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -759,22 +795,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Siempre Fuiste Vos",
-        "url": "https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW"
+        "name": "Dicen que la muerte muri\u00f3",
+        "url": "https://open.spotify.com/album/1UycczBEuaR6nYnIEbUOcp"
       },
       "artists": [
         {
-          "name": "Rudy",
-          "url": "https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW"
-        },
-        {
-          "name": "LvRod",
-          "url": "https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv"
+          "name": "Sonoras Mil",
+          "url": "https://open.spotify.com/artist/2pbfinO11kaKjnGcCxRQQn"
         }
       ],
-      "duration_ms": 196421,
-      "name": "Siempre Fuiste Vos",
-      "url": "https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe"
+      "duration_ms": 253253,
+      "name": "Dicen que la muerte muri\u00f3",
+      "url": "https://open.spotify.com/track/32zxhzuAWOWAetw13FOZqd"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -799,22 +831,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Dicen que la muerte muri\u00f3",
-        "url": "https://open.spotify.com/album/1UycczBEuaR6nYnIEbUOcp"
-      },
-      "artists": [
-        {
-          "name": "Sonoras Mil",
-          "url": "https://open.spotify.com/artist/2pbfinO11kaKjnGcCxRQQn"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Dicen que la muerte muri\u00f3",
-      "url": "https://open.spotify.com/track/32zxhzuAWOWAetw13FOZqd"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Rayo De Mayo",
         "url": "https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Arrullo",
-        "url": "https://open.spotify.com/album/2JuyJjQyp5VnQPSsyH199J"
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/33xuuFalm7xdz2hoicktib"
       },
       "artists": [
         {
-          "name": "Yonna Lizzouli",
-          "url": "https://open.spotify.com/artist/5B4DxKuZaoR8FioGJnFHOb"
+          "name": "Mauricio Vallejo",
+          "url": "https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Arrullo",
-      "url": "https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC"
+      "duration_ms": 236000,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 202779,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1pybgIZlvEZubQEHRB9CDb"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "Luces De Ne\u00f3n",
-        "url": "https://open.spotify.com/album/33xuuFalm7xdz2hoicktib"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Vallejo",
-          "url": "https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Luces De Ne\u00f3n",
-      "url": "https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK"
     }
   ],
   "unique_name": "Fresh Finds Latin",

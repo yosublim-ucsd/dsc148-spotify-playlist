@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,608 songs - 3 day 13 hr 27 min
+1,609 songs - 3 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-28 | 2022-01-24 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-04-12 | 2022-04-30 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-12-27 | 2021-12-29 |
+| [Paper Soldier](https://open.spotify.com/track/5RmPFKZcsV6bciHOQR3jli) | [d3puu](https://open.spotify.com/artist/6nbKrVj62KUGZgwvqfDXUa) | [Paper Soldier](https://open.spotify.com/album/5FMMsZ5LZsLT6dX53sAxSO) | 3:22 | 2023-06-22 |  |
 | [PARADISE](https://open.spotify.com/track/1fa4cA1z1a8Rksf8R6S1sl) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [PARADISE](https://open.spotify.com/album/6lLiiVhYLULssJM3SIt7VK) | 3:12 | 2022-06-29 | 2022-07-04 |
 | [PARADISE](https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc) | 3:12 | 2022-07-03 | 2022-07-30 |
 | [PARADISE](https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2) | 3:14 | 2022-06-21 | 2022-06-30 |
@@ -1539,7 +1540,7 @@
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-02-07 | 2023-02-26 |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2023-03-18 | 2023-03-25 |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2023-05-26 | 2023-06-03 |
-| [What's Up Danger \(with Black Caviar\)](https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:42 | 2023-06-08 |  |
+| [What's Up Danger \(with Black Caviar\)](https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:42 | 2023-06-08 | 2023-06-23 |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-17 | 2022-03-21 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-06-13 | 2023-06-22 |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-03-29 | 2023-04-05 |

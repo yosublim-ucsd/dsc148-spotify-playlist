@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 37378,
+  "num_followers": 37408,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDYyN2U2ZjUwYjU0Nzg0YThjMDQ1NDU4MGI1Y2RiZGNiYjMxNTQ1",
+  "snapshot_id": "MCwxZDJhNDQ2MTdlZWU4MTM5YzE5MWNiZGQzYmI3ODhiYTQ5ZjkyOWZk",
   "tracks": [
     {
       "added_at": "2023-06-16 00:58:32",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 137046,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
-      },
-      "artists": [
-        {
-          "name": "HALES",
-          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 230853,
       "name": "Naomi",
       "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
-      },
-      "artists": [
-        {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
-        }
-      ],
-      "duration_ms": 222203,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Side By Side",
         "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "duration_ms": 222203,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
     }
   ],
   "unique_name": "Soulful",

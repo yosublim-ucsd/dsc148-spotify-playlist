@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Khamari
 
-886 songs - 2 day 4 hr 7 min
+887 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Going Through](https://open.spotify.com/track/42BOdzpGLyJrVqtDozov4H) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Going Through](https://open.spotify.com/album/5IHzSqvCDBjCH4E2RkH20O) | 3:01 | 2020-06-12 | 2020-09-11 |
 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 | 2022-07-22 |  |
 | [Gold Plated](https://open.spotify.com/track/7pk2h8CZaVkXu5g43FChqX) | [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW), [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Gold Plated](https://open.spotify.com/album/3ICy60LNQtfL07SqlJkuTy) | 3:35 | 2020-05-01 | 2022-07-28 |
-| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 |  |
+| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 | 2023-06-23 |
 | [Gone](https://open.spotify.com/track/69BhPwanJ4VB5lin3lIQ2a) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Nerve](https://open.spotify.com/album/32vakhO6s5UJzCAAHJExLu) | 4:32 | 2020-10-16 | 2022-07-29 |
 | [Gone \[Feat\. YBN Cordae, Bilal, Herbie Hancock\]](https://open.spotify.com/track/5Dc2XqowT9KluHHGTA8nIN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fuck Yo Feelings](https://open.spotify.com/album/5SFtk75uqfjUGXEjLsgdMl) | 3:44 | 2019-10-15 | 2019-11-20 |
 | [Gonna Be Good](https://open.spotify.com/track/0F0sYdzTgagF5bc0W7n5OX) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Gonna Be Good](https://open.spotify.com/album/5LdXNTovL1G4H1XQyLE19o) | 3:32 | 2020-09-02 | 2020-10-02 |
@@ -444,6 +444,7 @@
 | [Life \- K, Le Maestro Remix](https://open.spotify.com/track/3Q3Wo8aQJojgDZT9U1lcdg) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [JuJu Rogers](https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA) | [Life \(K, Le Maestro Remix\)](https://open.spotify.com/album/598fj2BIkWHbV9Jdau9yxl) | 3:38 | 2020-02-11 | 2020-03-20 |
 | [Lifted](https://open.spotify.com/track/6SptLSH5KWZl9udqTyZUpy) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Lifted](https://open.spotify.com/album/581aq6GvhkGXJhpg6gBMoP) | 2:10 | 2020-05-08 | 2020-06-05 |
 | [Light It Again \- Radio Edit](https://open.spotify.com/track/2NZo2ZK5AgUgIuVGsraMq5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Light It Again](https://open.spotify.com/album/6AQOoaEhFa87OPWcTmqyX3) | 4:38 | 2020-10-30 | 2022-06-15 |
+| [Light Your Light](https://open.spotify.com/track/1nJvndyJtILLvRKC428rAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis](https://open.spotify.com/album/0EuclPLvAGjgMyVG9xkvoE) | 3:24 | 2023-06-16 |  |
 | [Like Some Dream](https://open.spotify.com/track/0ATT8gRJUtLO1Dj59A3dGg) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sol](https://open.spotify.com/album/6zzUVzCwLMH3eBIviBlLQH) | 5:14 | 2020-11-06 | 2023-02-03 |
 | [Like That](https://open.spotify.com/track/72x1nUOZuZultulUXrgQgT) | [Douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Like That](https://open.spotify.com/album/0ONPDMuuerUYfODv17AOvq) | 2:56 | 2019-09-29\* | 2019-10-25 |
 | [Like We Used To](https://open.spotify.com/track/5LkfkGOA5Iznx0IQrd6bd2) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl) | [Like We Used To](https://open.spotify.com/album/4YViBgQus5Vef68SOEasxa) | 3:44 | 2020-12-04 | 2021-01-15 |

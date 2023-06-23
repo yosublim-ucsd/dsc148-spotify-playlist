@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: MIRANI\(미란이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-331 songs - 18 hr 43 min
+332 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [End of the Story](https://open.spotify.com/track/6vSyVvWdfeynSlmBes22la) | [Kayy](https://open.spotify.com/artist/7dasGffT8yFvCbCvWofM2e) | [End of the Story](https://open.spotify.com/album/5qyGPeflfxlvPE7jZpPvrK) | 3:43 | 2021-11-21 | 2022-07-18 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-04-04 |  |
 | [Euphoria](https://open.spotify.com/track/3Ixsxq6c4AFcUH5JjQTgYj) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Euphoria](https://open.spotify.com/album/17szusBUg2KhiVYBxU4AOo) | 3:10 | 2021-11-21 | 2022-07-27 |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-06-22 |  |
 | [Even So](https://open.spotify.com/track/2iRrkHAH7JeDRK9oipHd3j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Even So](https://open.spotify.com/album/0Y6uM1oGRdVD4EazYhK8E9) | 3:48 | 2021-11-21 | 2022-05-22 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2021-11-21 | 2022-07-14 |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-28 | 2023-05-23 |
@@ -252,7 +253,7 @@
 | [Shiny Light](https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Shiny Light](https://open.spotify.com/album/1JcGAEZQGlg7DRkkFJzDyx) | 3:16 | 2021-11-21 | 2022-07-26 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-21 |  |
 | [Sigh](https://open.spotify.com/track/1ALdeY7yEfgcyu5Q6iNR33) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Sigh](https://open.spotify.com/album/1pM9nvMw4SU5wgEpTJOwiH) | 3:54 | 2022-03-22 | 2022-04-20 |
-| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 |  |
+| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 | 2023-06-23 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-01 |  |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-05-31 | 2022-07-20 |
 | [SOLO](https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR) | 2:49 | 2021-11-21 | 2022-07-29 |

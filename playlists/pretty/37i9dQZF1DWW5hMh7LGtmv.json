@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 33674,
+  "num_followers": 33727,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU4ZDVhNTRkNTdmNDE4ZDkxOWZiZmViZjJiZGRkNTNhMTQzNjc4",
+  "snapshot_id": "MCxhMTE2ZjNlMDYxZjVhODNlYmQ3MTE4ZjQ2MzA1ZDA5ODRmMzA5YzQ1",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "A Little Less Conversation: Elvis vs JXL",
-        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "A Little Less Conversation - JXL Radio Edit Remix",
-      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 155755,
       "name": "Stereo Love - UK Radio Edit",
       "url": "https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "A Little Less Conversation: Elvis vs JXL",
+        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
     },
     {
       "added_at": "2023-02-28 16:56:35",

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-469 songs - 1 day 5 hr 2 min
+470 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-17 |  |
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2021-12-17 | 2022-06-25 |
 | [Fall Apart World](https://open.spotify.com/track/4iT2uyC9Kw9BRPuixEqZxS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Dark Enough to See the Stars](https://open.spotify.com/album/0sYjIkRscDMGA8x663vWnZ) | 4:37 | 2022-06-03 | 2023-05-20 |
-| [Falling Apart \(Right Now\)](https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Falling Apart \(Right Now\)](https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI) | 3:16 | 2022-05-20 |  |
+| [Falling Apart \(Right Now\)](https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Falling Apart \(Right Now\)](https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI) | 3:16 | 2022-05-20 | 2023-06-23 |
+| [Falling Apart \(Right Now\)](https://open.spotify.com/track/7cT3T91Y4J92e4EopPEGjJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/5prfZewHLWnEMaWdDdgEb5) | 3:16 | 2023-06-16 |  |
 | [Father's Søn](https://open.spotify.com/track/54a1TosE0ROHGcySrTnRIM) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Father's Søn](https://open.spotify.com/album/0C81h5KFf8tfmuP7TwfqVJ) | 4:21 | 2023-06-16 |  |
 | [Fear](https://open.spotify.com/track/6BZ9Li2J6wJD5pDVv3K9PL) | [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 3:42 | 2021-12-17 | 2022-04-02 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-04-01 | 2022-08-27 |

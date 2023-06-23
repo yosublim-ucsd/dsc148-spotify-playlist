@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Siete in un paese meraviglioso... Giancane e Zerocalcare in cover di Rock Italia questa settimana!",
+  "description": "Siete in un paese meraviglioso! Giancane e Zerocalcare in cover di Rock Italia.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 149629,
       "name": "0 SENTIMENTO",
       "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
+    {
+      "album": {
+        "name": "080-565",
+        "url": "https://open.spotify.com/album/0qvZKO34bfiCPTl0hN2IgF"
+      },
+      "artists": [
+        {
+          "name": "Malad\u00e9",
+          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198930,
+      "name": "080-565",
+      "url": "https://open.spotify.com/track/2V0zhcD0j7JpylohELdalH"
     },
     {
       "album": {
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 117090,
       "name": "AIR 909",
       "url": "https://open.spotify.com/track/4AVqvJLUnVuZlAVFUyxt7T"
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 121764,
       "name": "Cado morbido",
       "url": "https://open.spotify.com/track/1CPgsTlayk4E5ibxp9xlRd"
@@ -1528,6 +1546,24 @@
       "duration_ms": 231532,
       "name": "Che benessere !? (con NASKA)",
       "url": "https://open.spotify.com/track/29wow7ReefY8giiopcBNGc"
+    },
+    {
+      "album": {
+        "name": "Che peccato",
+        "url": "https://open.spotify.com/album/6vbUAkhROYvAE5LFS0GoF3"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151904,
+      "name": "Che peccato",
+      "url": "https://open.spotify.com/track/47v7cCqDp0CDNQFEN8RU3W"
     },
     {
       "album": {
@@ -2845,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Fogli di carta",
+        "url": "https://open.spotify.com/album/2nBfdpY7om4mA2oJ5C9kZ0"
+      },
+      "artists": [
+        {
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162028,
+      "name": "Fogli di carta",
+      "url": "https://open.spotify.com/track/1wDrTbJ5lxJVmhtBRfVo7a"
+    },
+    {
+      "album": {
         "name": "Follow the Money",
         "url": "https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D"
       },
@@ -3342,6 +3396,24 @@
       "duration_ms": 159280,
       "name": "heavy-hearted",
       "url": "https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy"
+    },
+    {
+      "album": {
+        "name": "HEY NOI",
+        "url": "https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K"
+      },
+      "artists": [
+        {
+          "name": "ROS",
+          "url": "https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "HEY NOI",
+      "url": "https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ"
     },
     {
       "album": {
@@ -4083,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "L'ansia del casello",
+        "url": "https://open.spotify.com/album/44ybQSEjANBMQ3uyRosggp"
+      },
+      "artists": [
+        {
+          "name": "Samuele Stanco e i Gabbiani Malvagi",
+          "url": "https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221284,
+      "name": "L'ansia del casello",
+      "url": "https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy"
+    },
+    {
+      "album": {
         "name": "L'ultimo Saluto (feat. DIVI)",
         "url": "https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75"
       },
@@ -4630,7 +4720,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 250590,
       "name": "Magic Youth",
       "url": "https://open.spotify.com/track/2jx79Kt60S82dYqXs71CYg"
@@ -4742,6 +4832,24 @@
       "duration_ms": 171736,
       "name": "MATTO",
       "url": "https://open.spotify.com/track/1ESnQ3jsJ1AgmMBgjv3LSy"
+    },
+    {
+      "album": {
+        "name": "Time and Time / Memories Of Another Life",
+        "url": "https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Bee Sea",
+          "url": "https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Memories of Another Life",
+      "url": "https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA"
     },
     {
       "album": {
@@ -5167,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "New Try",
+        "url": "https://open.spotify.com/album/7uon7WkUzGHjOe48BxGgA1"
+      },
+      "artists": [
+        {
+          "name": "Kick",
+          "url": "https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247064,
+      "name": "New Try",
+      "url": "https://open.spotify.com/track/0IA7sXdG0wauaCV8Ckz1Hw"
+    },
+    {
+      "album": {
         "name": "Nofriends",
         "url": "https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob"
       },
@@ -5243,6 +5369,28 @@
     },
     {
       "album": {
+        "name": "Ansia Capitale (Deluxe)",
+        "url": "https://open.spotify.com/album/4oX0npmfoZDVSyTbvQec4h"
+      },
+      "artists": [
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        },
+        {
+          "name": "Lo Stato Sociale",
+          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230522,
+      "name": "NON LA VEDO BENE",
+      "url": "https://open.spotify.com/track/5eMoAisITn5iWhfZcSwDlc"
+    },
+    {
+      "album": {
         "name": "Non lasciarmi andare",
         "url": "https://open.spotify.com/album/7kBpgxXddJr60AJF1EP5A1"
       },
@@ -5276,6 +5424,28 @@
       "duration_ms": 203307,
       "name": "Non moriremo mai",
       "url": "https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF"
+    },
+    {
+      "album": {
+        "name": "Non piangere",
+        "url": "https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK"
+      },
+      "artists": [
+        {
+          "name": "Gegenhalt",
+          "url": "https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT"
+        },
+        {
+          "name": "AKA5HA",
+          "url": "https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213214,
+      "name": "Non piangere",
+      "url": "https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj"
     },
     {
       "album": {
@@ -6305,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o"
+      },
+      "artists": [
+        {
+          "name": "Lean\u00f2",
+          "url": "https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j"
+    },
+    {
+      "album": {
         "name": "Record",
         "url": "https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1"
       },
@@ -6504,7 +6692,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 226000,
       "name": "Samba",
       "url": "https://open.spotify.com/track/33n1cgTA8kmN1b9k1XTi7N"
@@ -6652,7 +6840,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 168544,
       "name": "SCEMO",
       "url": "https://open.spotify.com/track/4rSrdsnhPhdQtTDfiX2rwA"
@@ -6706,7 +6894,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 156576,
       "name": "Scomparire il rumore",
       "url": "https://open.spotify.com/track/640HPkDgsy0HXv9AkWPhrE"
@@ -7504,7 +7692,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 199226,
       "name": "Suono libero",
       "url": "https://open.spotify.com/track/4pFZOArgd3ofv7tuvljP9t"
@@ -8128,7 +8316,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 230093,
       "name": "Twenty Something",
       "url": "https://open.spotify.com/track/172v9IHQI0hCOjq8AI2cnC"
@@ -8445,6 +8633,24 @@
     },
     {
       "album": {
+        "name": "Vieni Fuori",
+        "url": "https://open.spotify.com/album/54tldlo1r1NBIEq1dORszl"
+      },
+      "artists": [
+        {
+          "name": "Monteluna",
+          "url": "https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232714,
+      "name": "Vieni Fuori",
+      "url": "https://open.spotify.com/track/5jVtJotYhxbdsLS8a2F0Kx"
+    },
+    {
+      "album": {
         "name": "Vita Sperduta",
         "url": "https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q"
       },
@@ -8752,7 +8958,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 161115,
       "name": "Zufall",
       "url": "https://open.spotify.com/track/4H8iyzUpeOr6QC3FqMU3Tv"

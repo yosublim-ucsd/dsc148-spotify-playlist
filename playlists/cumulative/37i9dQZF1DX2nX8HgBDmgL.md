@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-138 songs - 7 hr 16 min
+139 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2022-07-18 |  |
 | [French Exchange](https://open.spotify.com/track/1HBnI45a7E4WB8n5zRGnHE) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [French Exchange](https://open.spotify.com/album/0xbaedIMdZ8JiasTRHbJAc) | 2:46 | 2022-12-22 |  |
 | [Fuck Dita Ni](https://open.spotify.com/track/4Szwh7jMyJxvK9IlS5Wns4) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 2:59 | 2021-11-11 | 2022-07-19 |
-| [Gaah](https://open.spotify.com/track/63fa8l1URH9HmHADlsyd0D) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Gaah](https://open.spotify.com/album/0kvRleHz0jdcdYSGkEnKDX) | 2:58 | 2022-07-18 |  |
+| [Gaah](https://open.spotify.com/track/4vRU2zHOGTPDYfyZm6oerU) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Gaah](https://open.spotify.com/album/0EV3xGfzvDpw5UI9fN6Y9t) | 2:50 | 2023-06-06 |  |
+| [Gaah](https://open.spotify.com/track/63fa8l1URH9HmHADlsyd0D) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Gaah](https://open.spotify.com/album/0kvRleHz0jdcdYSGkEnKDX) | 2:58 | 2022-07-18 | 2023-06-23 |
 | [Galat Hogeya](https://open.spotify.com/track/2bsBbQPyslcH2BcIQ667xK) | [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [Galat Hogeya](https://open.spotify.com/album/3CqOBlEVakrdysJLwFhBUs) | 3:00 | 2021-11-11 | 2022-07-19 |
 | [Galtiyan](https://open.spotify.com/track/0IqNVZdY5Cc5WPH7lmfRdm) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Galtiyan](https://open.spotify.com/album/2q9F7wrUBVwTrrM1oLF7Xz) | 3:17 | 2021-11-11 | 2022-07-19 |
 | [General](https://open.spotify.com/track/1XcmeA4mhX5xxSWWbuHd1V) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [General](https://open.spotify.com/album/1DSlrzHuCgjryoBcMqaruc) | 3:16 | 2021-11-11 | 2022-07-19 |

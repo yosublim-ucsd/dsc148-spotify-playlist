@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-229 songs - 15 hr 2 min
+230 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 | 2022-05-11 |  |
 | [My wish](https://open.spotify.com/track/4D3PZzs3PTQhmvVEwu8QCq) | [sunwoojunga](https://open.spotify.com/artist/4tqfXHceBmi2Ql7GjSUeJt) | [House of Lies \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/3fs1A1y3pftwx7pzvzEXqV) | 4:20 | 2022-06-20 | 2022-07-25 |
 | [My World Is](https://open.spotify.com/track/2Daki1bJOM9Hc2fggCGwTR) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:14 | 2022-05-11 | 2022-06-08 |
-| [nevertheless](https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [nevertheless](https://open.spotify.com/album/0XrbFmbmsQlkegtGKqBQhA) | 3:24 | 2023-05-02 |  |
+| [nevertheless](https://open.spotify.com/track/5H42y5QbqTrnilrdBXCad2) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [nevertheless](https://open.spotify.com/album/0XrbFmbmsQlkegtGKqBQhA) | 3:24 | 2023-05-02 | 2023-06-23 |
 | [Night within you](https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you](https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL) | 4:14 | 2022-05-11 | 2022-07-29 |
 | [Nightmare](https://open.spotify.com/track/3KVIzUHVvF2VV7BCQEJRbA) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Nightmare](https://open.spotify.com/album/1UM1KgVO7hdfUdfeUowhN1) | 2:41 | 2022-05-11 | 2022-06-07 |
 | [No More Encore \(2022\)](https://open.spotify.com/track/1rxd7lTpmbteTeNRQ7Vdkm) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Shared Office Hookup \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/63dStIrfYAJtPoEVaOggBr) | 3:22 | 2022-05-11 | 2022-06-08 |
@@ -224,6 +224,7 @@
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |
+| [날 사랑한 처음의 너로 돌아와](https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90) | 3:36 | 2023-06-13 |  |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 | 2023-06-04 |
 | [마음의 말](https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야 OST Part.3](https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF) | 5:02 | 2023-05-31 |  |
 | [바람이 분다](https://open.spotify.com/track/0URtcP4yr2pZvyavbD1Q3z) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/53FfCS6jEme7TlE34dfh7U) | 3:56 | 2022-05-11 | 2022-07-29 |

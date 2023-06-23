@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Soseo(\uc18c\uc11c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Stella Jang(\uc2a4\ud154\ub77c\uc7a5)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -6616,7 +6616,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 151530,
       "name": "One and Only (Feat. KURO)",
       "url": "https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt"
@@ -6692,6 +6692,24 @@
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+    },
+    {
+      "album": {
+        "name": "Orange, You\u2019re Not a Joke to Me!",
+        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220069,
+      "name": "Orange, You\u2019re Not a Joke to Me!",
+      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
     },
     {
       "album": {

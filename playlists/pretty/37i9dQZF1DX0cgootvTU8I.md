@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,269 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,312 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 13 | [Bridging Mechanics](https://open.spotify.com/track/1HNBnJhWryX0mbQBDwOdka) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [gayphextwin/Pépe](https://open.spotify.com/album/5nF9wHwhNxfXtyYHtV4ueg) | 5:58 |
 | 14 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
 | 15 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
-| 16 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
-| 17 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
+| 16 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
+| 17 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 18 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 |
 | 19 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
 | 20 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCw1MWExNmYyYTliNThhODkyNDZlNDI2YzdlN2Y4NGJiYzcxMTdkMDI0`
+Snapshot ID: `MCxmNDQ2ODc3MTdiYmExMDNhNTZmMTg2OTA0MzA3NDNkNTZlOThkYmRm`

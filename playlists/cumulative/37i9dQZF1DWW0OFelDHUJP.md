@@ -4,11 +4,12 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-59 songs - 3 hr 55 min
+60 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 | 2023-05-09 |  |
+| [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 | 2023-06-22 |  |
 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 | 2023-05-09 |  |
 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 | 2023-05-09 |  |
 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 | 2023-05-09 |  |

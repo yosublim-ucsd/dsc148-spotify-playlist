@@ -1,0 +1,43 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain](/playlists/plain/37i9dQZF1DX1sMpq9Fic1i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1sMpq9Fic1i)
+
+### [BLUELOCK ブルーロック](https://open.spotify.com/playlist/37i9dQZF1DX1sMpq9Fic1i)
+
+> Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
+
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 31 songs - 1 hr 19 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 |
+| 2 | [WINNER](https://open.spotify.com/track/14mCnyDRVwIaBEzI4UKvt0) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/0ugax3s6E7k3ElIU0EMpuo) | 3:32 |
+| 3 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 |
+| 4 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 |
+| 5 | [The Last One](https://open.spotify.com/track/4tVWri4uMyt2s6AZboHP9k) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:42 |
+| 6 | [Beyond the Image](https://open.spotify.com/track/1D83RID6kfu6t2FJwXS0Oa) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:17 |
+| 7 | [Monsters](https://open.spotify.com/track/5W1vf2mP0x2fnEnbK7jydv) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:57 |
+| 8 | [暴風とプロメテウス](https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:09 |
+| 9 | [TriWAR GAME](https://open.spotify.com/track/0nUW5Wn9QfkrppsDytLYgG) | [潔 世一 \(CV.浦 和希\)](https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0), [蜂楽 廻 \(CV.海渡 翼\)](https://open.spotify.com/artist/6fnmf4FIORmnmc1DdDiI6F), [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:59 |
+| 10 | [TOP OF THE LOCK](https://open.spotify.com/track/1IzBaJeL29QR0ydI7S5gXb) | [糸師 凛 \(CV.内山昂輝\)](https://open.spotify.com/artist/0QoaRCbgKEviNjMegnAzMb), [蟻生十兵衛 \(CV.小西克幸\)](https://open.spotify.com/artist/5rvkRdSpUH0eOGfl9EyFcZ), [時光青志 \(CV.立花慎之介\)](https://open.spotify.com/artist/2nP6faLXMNsePrQJZRcb0c) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:31 |
+| 11 | [ゼロ](https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR) | [國神錬介 \(CV.小野友樹\)](https://open.spotify.com/artist/2DFbKMoyXH8iGUvrCoYS6s), [千切豹馬 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:38 |
+| 12 | [TriWAR GAME \- ReCollision](https://open.spotify.com/track/4sSnACioBjMQsuz5nDzsre) | [潔 世一 \(CV.浦 和希\)](https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0), [馬狼照英 \(CV.諏訪部順一\)](https://open.spotify.com/artist/6KkwcFMAfIMWhIzqVCSWC0), [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 4:02 |
+| 13 | [BLUELOCK](https://open.spotify.com/track/6o6BdgEE5mK8muWiRuMw4j) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:22 |
+| 14 | [BACHIRA](https://open.spotify.com/track/1dtQH4HvGUYo8iCOn7m5Ss) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:48 |
+| 15 | [CHIGIRI](https://open.spotify.com/track/2bbLUl984baOGtljQ6uPiR) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:39 |
+| 16 | [Formidable Enemy](https://open.spotify.com/track/2LAL45DNefNXxeacUKergK) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:36 |
+| 17 | [Back and Forth](https://open.spotify.com/track/4syuXGPoDB2Fo3jnW2vs7K) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:37 |
+| 18 | [Push Forward](https://open.spotify.com/track/5WFx45nWwYVR5vaNlKmOwd) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:50 |
+| 19 | [Struggle](https://open.spotify.com/track/5jp3XLGkRTIMfCQQUh4s9L) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:39 |
+| 20 | [Start Line](https://open.spotify.com/track/1qxwEvmgGfFBL3jIqRKtHX) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:41 |
+| 21 | [Turnaround](https://open.spotify.com/track/2on1qKATYdG1NyyJUEJbRO) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:35 |
+| 22 | [Puzzle](https://open.spotify.com/track/0hAOzO4MiON3OakQPmaQJ1) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:27 |
+| 23 | [Distorted Pleasure](https://open.spotify.com/track/7itXW9B5kOjtHAA2215uat) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:14 |
+| 24 | [Despair](https://open.spotify.com/track/0mdgTQt3wfchbTm7d34SsR) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:26 |
+| 25 | [Farewell to KAIBUTSU](https://open.spotify.com/track/3mdbsLzskY9n7njsvWAVeT) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:50 |
+| 26 | [Aggressive](https://open.spotify.com/track/7nCYiBOZ3zeTJ9kfW8RNDE) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:24 |
+| 27 | [Kick Off](https://open.spotify.com/track/0dpKc2wZhvWRtrUogyp06P) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:38 |
+| 28 | [Protrusion](https://open.spotify.com/track/4WZ9mk9TQCFoxdem6QZfHk) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:46 |
+| 29 | [Spatial Awareness](https://open.spotify.com/track/1igQeKnLlROweUAG7Jk9Y6) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:42 |
+| 30 | [Awakening of BAROU](https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:51 |
+| 31 | [RIN](https://open.spotify.com/track/1ab3xr1b3TMpAOZwhM0qwN) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:33 |
+
+Snapshot ID: `MCwxNjZlNGM0NzM1MDA3ZjE4NTNkMTJmZTEzNGNmYWNhYWE1NThhY2E2`

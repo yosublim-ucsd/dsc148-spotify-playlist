@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Somanshu
 
-78 songs - 4 hr 16 min
+79 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Kahaniyan](https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Kahaniyan](https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H) | 3:54 | 2023-05-05 |  |
 | [Kaisi Kahani Zindagi](https://open.spotify.com/track/1uRVChDH2w3hgqWfvDTolD) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Kaisi Kahani Zindagi](https://open.spotify.com/album/3EpcI39hsBco6PIgkM6xLL) | 4:05 | 2023-05-19 |  |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-04-14 |  |
-| [Khamakha](https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc) | [Khamakha](https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa) | 2:49 | 2023-04-14 |  |
+| [Khamakha](https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc) | [Khamakha](https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa) | 2:49 | 2023-04-14 | 2023-06-23 |
+| [Khamakha](https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ) | [Madhubanti Bagchi](https://open.spotify.com/artist/0NKNtzhUO3OtwseGKr0O1b), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Khamakha](https://open.spotify.com/album/4zqR3MCe5cPyIbsIwf5yxp) | 2:49 | 2023-05-19 |  |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-04-14 | 2023-05-20 |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-19 |  |
 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-09 |  |

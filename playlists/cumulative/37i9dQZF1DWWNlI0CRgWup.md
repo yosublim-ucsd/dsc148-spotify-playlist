@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : MDNS
 
-100 songs - 5 hr 17 min
+101 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2022-11-24 |  |
 | [Les gens qui doutent](https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les gens qui doutent](https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U) | 3:16 | 2022-04-14 | 2022-06-11 |
 | [Ma meilleure vie](https://open.spotify.com/track/1qKrfVLSMse9xdSqccbidX) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Ma meilleure vie](https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj) | 4:20 | 2021-12-02 | 2022-02-08 |
+| [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-06-22 |  |
 | [Ma Terre](https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Ma Terre](https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN) | 2:54 | 2023-03-10 |  |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-03-10 |  |
 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 | 2022-06-10 |  |
@@ -73,7 +74,7 @@
 | [On m'a dit](https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:28 | 2023-04-11 |  |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-29 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |
-| [Paradis](https://open.spotify.com/track/4BKhhCdzdmCIhDd4g6u7GR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MDNS](https://open.spotify.com/album/6sYdShIBNJHvrgsuQOlNd0) | 2:21 | 2023-04-11 |  |
+| [Paradis](https://open.spotify.com/track/4BKhhCdzdmCIhDd4g6u7GR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MDNS](https://open.spotify.com/album/6sYdShIBNJHvrgsuQOlNd0) | 2:21 | 2023-04-11 | 2023-06-23 |
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-10 | 2023-03-11 |
 | [postcard from Paris](https://open.spotify.com/track/08jQ7tWtdGYteyCmzFmv8r) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:04 | 2022-06-10 | 2022-06-18 |

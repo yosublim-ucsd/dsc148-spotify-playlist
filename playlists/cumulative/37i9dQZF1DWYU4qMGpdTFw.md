@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-66 songs - 3 hr 3 min
+67 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Todo Es Mierda](https://open.spotify.com/track/3l4lL0XCyjRf1eyOUHWX3v) | [Ardillas](https://open.spotify.com/artist/05zZr6xyHFX5GM0ecRvHRI) | [Ardillas](https://open.spotify.com/album/76ap6QQEF2P8r5KHn6fiNm) | 4:13 | 2023-04-28 |  |
 | [Tura Satana](https://open.spotify.com/track/7kjTHGEHAYjqIc4yfic2Qc) | [Ugly Miss Piggy](https://open.spotify.com/artist/6iPF6s7eWNkHrP5LyNrYbm) | [Ugly Miss Piggy](https://open.spotify.com/album/7pNMy1F1rwn87dSMGPAd6Z) | 2:09 | 2023-04-28 |  |
 | [Vacaciones del Terror](https://open.spotify.com/track/6UzpHsbWASCXPtK2w2M4hP) | [Los Frankys](https://open.spotify.com/artist/1LHFqnUtqbdoJRD9hgyyoU) | [El Terror](https://open.spotify.com/album/3DmXFXdrnslLFtprUF1ySq) | 3:34 | 2023-04-28 |  |
-| [Vete de Vago](https://open.spotify.com/track/32AUZcXyUEoeasi0Hu3Pk9) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 5:05 | 2023-04-28 |  |
+| [Vete de Vago](https://open.spotify.com/track/32AUZcXyUEoeasi0Hu3Pk9) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 5:05 | 2023-04-28 | 2023-06-23 |
+| [Vete de Vago](https://open.spotify.com/track/4OBySmzPwjX21laH1Hseks) | [The Americonojones Experience](https://open.spotify.com/artist/42r78qjvZCPn60kETf6jNe) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 5:05 | 2023-04-28 |  |
 | [Windows 98](https://open.spotify.com/track/7AXBjjN8lh8XaEaP7rYgAY) | [The Parrots](https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev) | [Los Niños Sin Miedo](https://open.spotify.com/album/5jjilNYvDbMh1KdhpouY7R) | 2:30 | 2023-04-28 |  |
 | [¡SAL\-VA\-JE!](https://open.spotify.com/track/4o75U7Fo06srZxgAVpbQkp) | [Salvaje Montoya](https://open.spotify.com/artist/3k7nHYi8Hh4zHlqcqnDJuj) | [Boda Rumana](https://open.spotify.com/album/1GDpRaPRrqLZTZZeNYnuyj) | 2:05 | 2023-04-28 |  |
 

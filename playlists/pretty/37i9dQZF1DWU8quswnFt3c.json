@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917263,
+  "num_followers": 917234,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTlhZWFjNjBjZDRiY2I3MjE4ODllNWY2YTZhNTg2OGI3M2VhMjA4",
+  "snapshot_id": "MCw2YzYxN2QwYjI2OTMzODVmM2NjOTU3ZWY5ZDVlY2E2ZWIzZDM1YmQ0",
   "tracks": [
     {
       "added_at": "2023-06-19 04:28:38",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "The Fate Of The One Not Chosen",
+        "url": "https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 215675,
+      "name": "The Fate Of The One Not Chosen",
+      "url": "https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "If I Weren't Me",
         "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "The Fate Of The One Not Chosen",
-        "url": "https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 215675,
-      "name": "The Fate Of The One Not Chosen",
-      "url": "https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
+        "url": "https://open.spotify.com/album/5sPJWFOx3rH3SXr7KCnQ8A"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
+      "url": "https://open.spotify.com/track/2pNtlK4DkAxwYpX0Sp2sgn"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Ni Main Jaana",
         "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 257771,
       "name": "Ni Main Jaana",
       "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
-        "url": "https://open.spotify.com/album/5sPJWFOx3rH3SXr7KCnQ8A"
-      },
-      "artists": [
-        {
-          "name": "MXFRUIT",
-          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e44\u0e2d\u0e28\u0e01\u0e23\u0e35\u0e21",
-      "url": "https://open.spotify.com/track/2pNtlK4DkAxwYpX0Sp2sgn"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Figlie della Luna",
-        "url": "https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg"
+        "name": "Ge\u00e7miyor Zaman",
+        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
       },
       "artists": [
         {
-          "name": "Assurdit\u00e8",
-          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
         }
       ],
-      "duration_ms": 168300,
-      "name": "Figlie della Luna",
-      "url": "https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn"
+      "duration_ms": 283718,
+      "name": "Ge\u00e7miyor Zaman",
+      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Ge\u00e7miyor Zaman",
-        "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
+        "name": "Figlie della Luna",
+        "url": "https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg"
       },
       "artists": [
         {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
         }
       ],
-      "duration_ms": 283718,
-      "name": "Ge\u00e7miyor Zaman",
-      "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
+      "duration_ms": 168300,
+      "name": "Figlie della Luna",
+      "url": "https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Ama Fygeis",
-        "url": "https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u"
-      },
-      "artists": [
-        {
-          "name": "Ellize",
-          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
-        }
-      ],
-      "duration_ms": 183815,
-      "name": "Ama Fygeis",
-      "url": "https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Ama Fygeis",
+        "url": "https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "Ama Fygeis",
+      "url": "https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Ya Gamalak",
         "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 209983,
       "name": "Ya Gamalak",
       "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 158032,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Whatever's Inconvenient",
         "url": "https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 267279,
       "name": "Whatever's Inconvenient",
       "url": "https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 158032,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+        "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
+      },
+      "artists": [
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
+      "url": "https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 204277,
       "name": "\u4e3a\u65f6\u5df2\u665a(\u300a\u9f99\u57ce\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
-        "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
-      },
-      "artists": [
-        {
-          "name": "sarah salola",
-          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
-      "url": "https://open.spotify.com/track/1MgeymN9Pgw5FzrqTJ1ryE"
     },
     {
       "added_at": "2023-06-19 04:28:38",

@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: Yusuf / Cat Stevens",
-  "num_followers": 653820,
+  "num_followers": 654283,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjFmMWIzZmQyMDllMWUyOGI2YWNmMTcwZTRkZWU3Y2Q2ZTcwN2Ix",
+  "snapshot_id": "MCxkMTQxMDY4MTYzNTkwNTRlMzkyYjg5M2E0ZTIzYTEwYTY4NWYyMDJm",
   "tracks": [
     {
       "added_at": "2023-05-31 04:00:00",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
-      "added_at": "2022-07-05 19:00:29",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
       "added_at": "2022-10-03 15:40:03",
       "album": {
         "name": "Guitar Man",
@@ -599,6 +583,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2022-07-05 19:00:29",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 170759,
-      "name": "Walkin' Back to Georgia",
-      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "The Best: Loggins & Messina Sittin' In Again",
         "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 254653,
       "name": "Danny's Song",
       "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 170759,
+      "name": "Walkin' Back to Georgia",
+      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
     },
     {
       "added_at": "2023-01-30 18:09:25",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
-    },
-    {
       "added_at": "2021-09-30 19:02:03",
       "album": {
         "name": "Born In The U.S.A.",
@@ -907,6 +891,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 211787,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
-    },
-    {
-      "added_at": "2022-06-29 17:37:06",
-      "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Sunshine On My Shoulders",
-      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -951,6 +935,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-06-29 17:37:06",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
     },
     {
       "added_at": "2021-09-30 18:53:37",

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/319483?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,910 songs - 4 day 20 hr 15 min
+1,911 songs - 4 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [Nande Yandenno?](https://open.spotify.com/track/0LHqnPgKUQAy9cSn1uHPCh) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5) | [MOTHER EARTH](https://open.spotify.com/album/6o3HnaDn28jCryAsKN1pBH) | 1:32 | 2023-03-07 | 2023-03-15 |
 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 | 2023-05-09 | 2023-05-17 |
 | [Nantonaku Haru](https://open.spotify.com/track/1OExZqhRRwlaiRtsg3RhhD) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Nantonaku Haru](https://open.spotify.com/album/6QD4Xc2JiVOuy4KBedARoY) | 4:49 | 2023-03-22 | 2023-03-29 |
+| [Natural](https://open.spotify.com/track/7z9TlbrDkEkwKAyScdDamy) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO) | 2:36 | 2023-06-21 |  |
 | [NEGATIVE STEP](https://open.spotify.com/track/5tioP8JeuconcwwcSH2zKp) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [NEGATIVE STEP](https://open.spotify.com/album/01qS6dKjIDBviDj4r6WNoS) | 3:55 | 2023-04-18 | 2023-04-26 |
 | [Neighbor](https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Neighbor](https://open.spotify.com/album/4SMsvmN93mpnD23tZXZikV) | 4:32 | 2023-02-21 | 2023-03-01 |
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-05 | 2023-04-12 |

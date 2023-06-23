@@ -4,7 +4,7 @@
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-155 songs - 7 hr 49 min
+156 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [I Do](https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [I Do](https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT) | 3:04 | 2019-02-28 | 2022-07-29 |
 | [I Do Me](https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [I Do Me](https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M) | 2:43 | 2019-02-28 | 2022-11-13 |
 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 | 2019-02-28 |  |
+| [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 | 2023-02-26 |  |
 | [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 | 2023-02-26 | 2023-06-18 |
 | [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 | 2019-02-28 | 2023-02-13 |
 | [In The Club](https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [In The Club](https://open.spotify.com/album/50ofW35oBO5mhrZTHnOBMt) | 2:46 | 2019-02-28 | 2022-11-13 |
@@ -117,7 +118,7 @@
 | [Lyssna till ditt hjärta](https://open.spotify.com/track/3G9HeRXCvEmn0KIjnbjWVO) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Best Of Friends](https://open.spotify.com/album/5Cdt8HUprN9C38pCaLHoEH) | 3:05 | 2019-02-28 | 2022-07-29 |
 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 | 2019-02-28 |  |
 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 | 2019-02-28 |  |
-| [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 | 2019-02-28 |  |
+| [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 | 2019-02-28 | 2023-06-23 |
 | [Min kärlek](https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den långsamma blomman](https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA) | 3:01 | 2019-02-28 | 2023-05-30 |
 | [Mina bränder \(feat\. Anis Don Demina\)](https://open.spotify.com/track/2JLp01p1NG7wg0vNqNpOC1) | [Zeana](https://open.spotify.com/artist/73GFzdRqBvOfiuJEjSeERB), [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Mina bränder \(feat\. Anis Don Demina\)](https://open.spotify.com/album/13S71NpNQh6rlQbHQlLHCg) | 3:03 | 2019-02-28 | 2022-05-21 |
 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 | 2019-02-28 |  |

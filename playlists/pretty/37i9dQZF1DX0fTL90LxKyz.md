@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,491 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,515 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 12 | [STFU](https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [STFU](https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl) | 2:47 |
 | 13 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
 | 14 | [TPL x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/2oW5T6viRcUuE6Ttk6TJ9B) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Sava](https://open.spotify.com/artist/25A5LqeSK0yH4ks5fGxbI2), [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI), [BM X MINI](https://open.spotify.com/artist/6xNUn9epduXbZmCgsxutSx) | [TPL x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/0qD48aseZrFjSw4E5x3Lbf) | 3:37 |
-| 15 | [London \(feat\. Tion Wayne\)](https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [London \(feat\. Tion Wayne\)](https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol) | 2:41 |
-| 16 | [Paper Cuts](https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI) | 2:59 |
+| 15 | [Paper Cuts](https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI) | 2:59 |
+| 16 | [London \(feat\. Tion Wayne\)](https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [London \(feat\. Tion Wayne\)](https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol) | 2:41 |
 | 17 | [Corn](https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn) | [2smokeyy](https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2) | [Corn](https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8) | 3:21 |
 | 18 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
 | 19 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
 | 50 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 
-Snapshot ID: `MCwyOWZiMGNlZjQwMDY0MzIwODgzZGQwM2JmOTE1NGMxYzk0ZWE3Mjg0`
+Snapshot ID: `MCxhNzBmYjU5ZDFkNjViMDFjMjc0OTBhZDFkZjY4NGQ2ZDdiYjJmZWVl`

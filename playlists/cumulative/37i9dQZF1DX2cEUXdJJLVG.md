@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-256 songs - 15 hr 26 min
+257 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [The Light \(feat\. Darren Fewins\)](https://open.spotify.com/track/3p16tfsbEW5JVwoVHlbWuD) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Darren Fewins](https://open.spotify.com/artist/5CLtyznkyb4Eh3dcKokAiD) | [The Light \(feat\. Darren Fewins\)](https://open.spotify.com/album/3sCbtWFjWgxiBo4IjmjR3e) | 4:01 | 2022-09-09 |  |
 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [Therapy](https://open.spotify.com/track/7rO5L6Eo85xO0fBJ6YKK27) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Therapy](https://open.spotify.com/album/0Rbs0JsOZzn5cbVVePLNpJ) | 4:36 | 2022-09-29 |  |
+| [Things You Don't Say](https://open.spotify.com/track/3KSFfg72bfirtdDTm7LJaT) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Things You Don't Say](https://open.spotify.com/album/1M0jZfqAcF8D514Y1NFXzh) | 3:47 | 2023-06-22 |  |
 | [This Ain't Loving Without You](https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 2:57 | 2022-10-14 |  |
 | [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 | 2023-03-23 |  |
 | [Together](https://open.spotify.com/track/2Ke0t5CgPSFbdJcRF2GzFr) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Reason to Smile](https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC) | 3:03 | 2022-12-12 |  |

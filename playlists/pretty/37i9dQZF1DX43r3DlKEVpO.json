@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63250,
+  "num_followers": 63265,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjdmYzlhMTU2NjE4MTM5ODcwMjA0MTkzMTRkMWVlZDk4Njc2YTFh",
+  "snapshot_id": "MCw2Y2EzY2I2NTI4MGE1ODY2NGY2M2Y4ZDA2OWQwMTYzNjI2NTE0MjRm",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Abbey Road (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 185706,
+      "name": "Here Comes The Sun - 2019 Mix",
+      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Abbey Road (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 185706,
-      "name": "Here Comes The Sun - 2019 Mix",
-      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Coisinha do Pai",
-      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Chico 50 Anos - O Trovador",
         "url": "https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
@@ -1231,6 +1231,70 @@
       "duration_ms": 270690,
       "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Chico Buarque de Hollanda Vol. 3",
+        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Roda-Viva",
+      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Sereia / De Repente Calif\u00f3rnia / Como uma Onda (Zen Surfismo)",
+      "url": "https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 184569,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1255,38 +1319,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Sereia / De Repente Calif\u00f3rnia / Como uma Onda (Zen Surfismo)",
-      "url": "https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Chico Buarque de Hollanda Vol. 3",
-        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Roda-Viva",
-      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -1299,38 +1331,6 @@
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 184569,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1379,22 +1379,6 @@
       "duration_ms": 182000,
       "name": "Bicycle Race",
       "url": "https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Bicho",
         "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 216412,
       "name": "Quem Sabe Isso Quer Dizer Amor",
       "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1653,6 +1637,38 @@
       "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
     },
     {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Personalidade",
+        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 256626,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
+    },
+    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1667,22 +1683,6 @@
       "duration_ms": 88954,
       "name": "Era Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     }
   ],
   "unique_name": "Pais e Filhos",

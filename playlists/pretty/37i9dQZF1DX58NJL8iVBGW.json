@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 562872,
+  "num_followers": 563059,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQyYjE4YjcwZDc2ZDQ2MDAzNTcxYzk0MTI1MmYxYTdlZDA2YzAw",
+  "snapshot_id": "MCxhYjJjMmU1YjYxZjZlZGM4YWQ0MTFiM2ExYzdlNmY0NzhiMWI5MTRh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 233873,
       "name": "Herd",
       "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 216840,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+      "duration_ms": 194570,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
       "artists": [
         {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
         }
       ],
-      "duration_ms": 194570,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 159101,
       "name": "I Am The Man Thomas",
       "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "A Mountain Is a Mouth",
-        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Crabapples",
-      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "A Mountain Is a Mouth",
+        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
       "added_at": "2023-04-28 04:00:00",

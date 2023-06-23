@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain]
 
 > <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,252 likes - 24 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,254 likes - 24 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain]
 | 23 | [Strangers \(with Mansionair\) \- Mixed](https://open.spotify.com/track/1kfsdKEJnvM8yYlmFAuDXL) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\) \[Mixed\]](https://open.spotify.com/album/6sXSX51hrOCLfKRnjq0A9v) | 5:20 |
 | 24 | [Koalack \- Mixed](https://open.spotify.com/track/23Dgwjz6JSw4zPIIzL8UGQ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Koalack \(Mixed\)](https://open.spotify.com/album/1moUNFDHaoFELrrycEkfpU) | 4:20 |
 
-Snapshot ID: `MCwyMzRmYzA4OThmZGIwYTE1NWFmNjk4NjEwMTJiMjEzN2RkMjFkMzZl`
+Snapshot ID: `MCw2OWJiOWZjMWU0ZjEzMzBkM2M4YjFlM2M2YzcxZWViNWFjNzk3ZjZl`

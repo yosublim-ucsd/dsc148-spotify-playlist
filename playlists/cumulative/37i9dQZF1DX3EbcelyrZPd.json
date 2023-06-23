@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Barnaba & Otile Brown",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Nandy",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 297345,
       "name": "Amawele",
       "url": "https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs"
@@ -394,6 +394,24 @@
       "duration_ms": 208195,
       "name": "Bestfriend remix",
       "url": "https://open.spotify.com/track/2Q5xL6g75mPeBOMSNjGP8l"
+    },
+    {
+      "album": {
+        "name": "Bobea",
+        "url": "https://open.spotify.com/album/6K66HalLnaJpXDAIUeZH4W"
+      },
+      "artists": [
+        {
+          "name": "Joh Makini",
+          "url": "https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203892,
+      "name": "Bobea",
+      "url": "https://open.spotify.com/track/0YcIY0C7NS6Yzngjdrnb3W"
     },
     {
       "album": {
@@ -1939,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Maajab",
+        "url": "https://open.spotify.com/album/5d1qznmP03spOwDdS60r57"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198368,
+      "name": "Maajab",
+      "url": "https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ"
+    },
+    {
+      "album": {
         "name": "Maan Meri Jaan (African Version)",
         "url": "https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9"
       },
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 298461,
       "name": "Mozzah",
       "url": "https://open.spotify.com/track/6h4uStxFbRaKFJW0aIlffl"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 150357,
       "name": "Nikilala",
       "url": "https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4"
@@ -4852,6 +4888,28 @@
       "duration_ms": 228000,
       "name": "Wena",
       "url": "https://open.spotify.com/track/6OjjYkAZfOYO77B2DBEvFV"
+    },
+    {
+      "album": {
+        "name": "Wenyewe",
+        "url": "https://open.spotify.com/album/4yCjoMMfoSmEPhLXbTXhux"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204415,
+      "name": "Wenyewe",
+      "url": "https://open.spotify.com/track/5dfPuFkAQinbzkzBGtOW57"
     },
     {
       "album": {

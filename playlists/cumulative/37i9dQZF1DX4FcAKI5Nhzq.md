@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: VAV
+> Future K\-Pop hits! Cover: JAY
 
-814 songs - 1 day 21 hr 5 min
+815 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-07 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 | 2023-03-07 |
-| [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 |  |
+| [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 | 2023-06-23 |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-14 |
 | [Hit The Bass](https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [WIN\-DOW](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) | 3:30 | 2022-07-25 | 2022-09-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 | 2022-09-09 |
@@ -535,6 +535,7 @@
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-17 | 2022-08-13 |
 | [Paradigm](https://open.spotify.com/track/1HJUvm2MJHytVJ4xPmNGPE) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [CYCLE](https://open.spotify.com/album/0bojHqmiLsD6ZQOxy3VfgQ) | 3:14 | 2021-07-01 | 2021-08-11 |
 | [Paradise](https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:26 | 2020-10-13\* | 2021-01-21 |
+| [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 | 2023-06-22 |  |
 | [PARANOIA](https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PARANOIA](https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv) | 3:15 | 2021-02-16 | 2021-05-18 |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-30 | 2022-11-19 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-01 | 2022-02-18 |

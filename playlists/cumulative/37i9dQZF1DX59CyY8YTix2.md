@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: QUBIT
 
-979 songs - 2 day 14 hr 0 min
+981 songs - 2 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [スプートニク\(2021\)](https://open.spotify.com/track/1hMNisqTEUv1l20bQcptVt) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 4:46 | 2022-06-16 | 2022-06-22 |
 | [スモーキン・ビリー](https://open.spotify.com/track/6JaF5T2956QWqa4bHfv9aM) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [スモーキン・ビリー](https://open.spotify.com/album/2hjfiA40BEOHHkCaOJiGFD) | 3:14 | 2022-06-07 | 2022-07-01 |
 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 | 2022-05-26 | 2022-07-29 |
+| [タイムリミット](https://open.spotify.com/track/1CYC0o7L61Ns3QBJqRWxvn) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [タイムリミット](https://open.spotify.com/album/16A2huHIO87s56t0LajnOU) | 2:50 | 2023-06-22 |  |
 | [タオルケットは穏やかな](https://open.spotify.com/track/51DmDYJpw2V9ORZUIyL2vD) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 4:11 | 2023-01-24 | 2023-06-21 |
 | [ダッキーちゃん](https://open.spotify.com/track/5zTom8wbfrL1CdEqJxBHbB) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [Ducky](https://open.spotify.com/album/46GDOYQ370pZAP39bZ9tuL) | 4:52 | 2022-06-30 | 2022-07-03 |
 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 | 2022-09-15 | 2022-09-30 |
@@ -746,6 +747,7 @@
 | [仏だけ徒歩](https://open.spotify.com/track/7MEMAyebsx7YiRYN4EOlpQ) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [仏だけ徒歩](https://open.spotify.com/album/4bs0xtr8DorVBNUHeQ2Kvp) | 3:33 | 2022-06-02 | 2022-07-12 |
 | [会いに来て](https://open.spotify.com/track/068tBNbcqxk7WGleGTlKCm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:12 | 2022-06-07 | 2022-07-07 |
 | [低い飛行機](https://open.spotify.com/track/2niGgKLYTEimwlApTnkMbG) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [低い飛行機](https://open.spotify.com/album/33Q6WSWC9Q8T22QeovLvXb) | 3:38 | 2022-05-31 | 2022-07-26 |
+| [何者](https://open.spotify.com/track/6Cch0QuiDATPpmpaIOKqlP) | [新山詩織](https://open.spotify.com/artist/23btfvRX7EGR4IjQZxWCQb) | [何者](https://open.spotify.com/album/3CrjTjiNunEQrV50D5uFt7) | 4:38 | 2023-06-22 |  |
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-02-01 |
 | [催眠療法](https://open.spotify.com/track/0qEiZAZaX9eHpgrXWeVSBz) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [三千世界](https://open.spotify.com/album/0W16rcuyNyyCvWbkGnplRL) | 3:24 | 2022-06-02 | 2022-07-05 |
 | [僕らじゃなきゃだめになって](https://open.spotify.com/track/6KIYsdABQFGyNOjYBLNvfJ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃだめになって](https://open.spotify.com/album/2CGM51cwVTnhPPtbgkr97p) | 4:50 | 2023-05-30 | 2023-06-21 |
@@ -850,7 +852,7 @@
 | [星屑ドライブ](https://open.spotify.com/track/4fgzgL0aDWPZLaldU4CMOm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:38 | 2022-06-07 | 2022-07-29 |
 | [映画になれない僕たちへ](https://open.spotify.com/track/6MPxDfO1tGaV2FPuaoUn7r) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [映画になれない僕たちへ](https://open.spotify.com/album/7BeL3KsX2dtrpF5z2Gj1rC) | 3:53 | 2022-06-21 | 2022-06-23 |
 | [春](https://open.spotify.com/track/1iTpNmlgZudYmuMXzecDhT) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [春](https://open.spotify.com/album/3mjWj8hExllnbdvnz498qe) | 3:35 | 2023-03-30 | 2023-04-05 |
-| [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 | 2022-06-07 |  |
+| [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 | 2022-06-07 | 2023-06-23 |
 | [春に迷い込んで](https://open.spotify.com/track/2l3caWJIq9PLMQkNrl98ZU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [春に迷い込んで](https://open.spotify.com/album/2n3vgzctnQifXRmJhRsCS8) | 5:10 | 2022-05-26 | 2022-07-27 |
 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-18 |  |
 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 | 2022-08-30 | 2022-09-07 |
@@ -949,7 +951,7 @@
 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 | 2022-07-07 | 2022-11-02 |
 | [赦](https://open.spotify.com/track/3Dl3lXWPbsRFciEvTefRO2) | [東京○X問題](https://open.spotify.com/artist/7a6opgruoQHR0qzCfFqph8) | [cupola](https://open.spotify.com/album/1R2Ejdw1qPA7rwB2kXLVrQ) | 3:45 | 2022-10-18 | 2022-11-02 |
 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-12 | 2022-10-26 |
-| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 |  |
+| [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 | 2023-06-23 |
 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 | 2022-05-31 | 2022-11-18 |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-07-28 | 2022-12-14 |
 | [蹂躙](https://open.spotify.com/track/7G3Fg3Pj4u8m3SNuN7XQse) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [蹂躙](https://open.spotify.com/album/7aa22u8l3G3ylwZBYMATux) | 3:50 | 2022-06-16 | 2022-06-19 |

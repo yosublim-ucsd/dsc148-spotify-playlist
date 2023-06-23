@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yannick Nézet\-Séguin
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,909 likes - 62 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,963 likes - 62 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 61 | [Messe h\-Moll, BWV 232, IV\. Sanctus: Osanna in excelsis \(Rep.\)](https://open.spotify.com/track/5pJzLD2lFGvolBFuuIw1KT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Thomanerchor Leipzig](https://open.spotify.com/artist/76HODsD07qiiAFoxCaMVIz), [Andreas Reize](https://open.spotify.com/artist/6JJ3YdGeWTFm8urEm6mq3w), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa) | [Johann Sebastian Bach: Messe h\-Moll, BWV 232, IV\. Sanctus: Osanna in excelsis \(Rep.\)](https://open.spotify.com/album/6JXgn94WPmibBcHvgjkL36) | 2:34 |
 | 62 | [Pièces de clavecin avec une méthode, Suite in E Minor, RCT 2: V\. Le rappel des oiseaux \- Arr\. by Edward Higginbottom for Organ](https://open.spotify.com/track/0srlso77esrw2HXztm14E9) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Edward Higginbottom](https://open.spotify.com/artist/6hJ1WCK5GxmaYzmWWK7UiJ) | [Pièces de clavecin avec une méthode, Suite in E Minor, RCT 2: V\. Le rappel des oiseaux \(Arr\. by Edward Higginbottom for Organ\)](https://open.spotify.com/album/2Z2OIJeClX3rXddvwQ9nF2) | 3:29 |
 
-Snapshot ID: `MCxhNzc2ZDA5NTc5NzM1NDk2MDAwNjhmZTZlYTA3ZGUwYWNkMzJjZTRl`
+Snapshot ID: `MCw2NzcwNmZmYzcyMTA0NjFkYTA5NjY3ZmJmOGJjNmMwOWE3YjIwMWRl`

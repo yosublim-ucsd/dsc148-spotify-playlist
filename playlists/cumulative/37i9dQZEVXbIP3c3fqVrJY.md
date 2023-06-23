@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,049 songs - 2 day 5 hr 53 min
+1,050 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Až Vylezou Kostlivci](https://open.spotify.com/track/30Yz1kmaMfhXaO3P7Mv1Z9) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW) | [J\. EDEN E\-G3N \(\#freekarlo edition\)](https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC) | 2:32 | 2022-09-03 | 2022-09-05 |
 | [Baby a Benzo](https://open.spotify.com/track/5MrXhJjBNjRUIPvzgLIe1E) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Baby a Benzo](https://open.spotify.com/album/2h6PQpPmXhhtv4XBdeILXu) | 4:07 | 2022-05-23 | 2022-05-31 |
 | [Baby a Benzo](https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TRAPPIN LONELY](https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn) | 4:08 | 2022-05-30 |  |
+| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-22 |  |
 | [Baby Shark](https://open.spotify.com/track/2SBGsZEVAa4gGFjthkq2pP) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:31 | 2021-11-20 | 2022-01-27 |
 | [Babylon](https://open.spotify.com/track/79N7LFHzdxCnidNm9iZw7Y) | [Jickson](https://open.spotify.com/artist/4JdXITm8I9qIaSbFlBoOKi), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Obsidian](https://open.spotify.com/album/0cRzc4f3ybQT5oDB96FMVO) | 3:20 | 2021-10-23 | 2021-10-24 |
 | [Back on the Map](https://open.spotify.com/track/6RzIzfpFdIHbObImtmYQeH) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Doktor](https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP), [TK27](https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv) | [58 tape vol.2](https://open.spotify.com/album/7HHLVMZhb65inJjT5tKmzq) | 2:00 | 2021-06-03 | 2021-06-05 |
@@ -923,7 +924,7 @@
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-21 | 2023-03-30 |
 | [Traphouse](https://open.spotify.com/track/0rc4QASgHGFMLzeOKOfYtH) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 2:07 | 2023-02-21 | 2023-03-21 |
 | [TRAPPIN LONELY](https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [TRAPPIN LONELY](https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn) | 2:26 | 2022-05-30 | 2022-06-13 |
-| [Tsunami](https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL) | [DIVOKEJ BILL](https://open.spotify.com/artist/2e3fdJ9ezTUu9Yj9f7XU08) | [Tsunami](https://open.spotify.com/album/0gXODlKiW9gHtf6WYfxn5h) | 3:18 | 2021-10-04 |  |
+| [Tsunami](https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL) | [DIVOKEJ BILL](https://open.spotify.com/artist/2e3fdJ9ezTUu9Yj9f7XU08) | [Tsunami](https://open.spotify.com/album/0gXODlKiW9gHtf6WYfxn5h) | 3:18 | 2021-10-04 | 2023-06-23 |
 | [Tututu](https://open.spotify.com/track/0aXEIb3F5lkFtBqa0pFLgM) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Robby Trouble](https://open.spotify.com/album/1Ne3BSmtzwo5Iw4IaXu4eO) | 2:42 | 2021-06-20 | 2021-07-05 |
 | [Tututu](https://open.spotify.com/track/2BNStVCi8BBatj7oq0iGXL) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Tututu](https://open.spotify.com/album/0k0CouH2EFyMPgAJoXpRMc) | 2:42 | 2021-06-05 | 2021-06-20 |
 | [Tututu \- Remix](https://open.spotify.com/track/3OJE0IjwYZcjqZvqHlLbrl) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2), [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N), [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [HAARP](https://open.spotify.com/artist/594EpZ7aQORhe5eW46X8GL) | [Robby Trouble \(Deluxe\)](https://open.spotify.com/album/6gqvYA8J1mgHElPVWBKBBE) | 3:11 | 2021-08-20 | 2021-08-23 |

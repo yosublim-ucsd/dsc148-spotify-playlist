@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Ghouljaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,974 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,984 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Quién Lo Diría?](https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD) | 3:38 |
 | 50 | [Nadie Duerma](https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc) | 4:46 |
 
-Snapshot ID: `MCxjOGVkYzQzOGExMzFhNGNlYjcxNGYxOTZkZWFjNjY1MmUwNjZhNDcz`
+Snapshot ID: `MCwxODI5ZjQ1OWQ4N2ZlMDQ3ZWNlZmEzYWU0ZmJlZWE3ODA0ZjM0NmUx`

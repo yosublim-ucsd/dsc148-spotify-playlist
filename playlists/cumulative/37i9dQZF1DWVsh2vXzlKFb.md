@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-411 songs - 23 hr 12 min
+412 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-06-10 | 2022-12-26 |
 | [Hideaway](https://open.spotify.com/track/4ntfQjg50AfQZvO5l3P78J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:38 | 2021-08-13 | 2022-04-20 |
 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2021-08-13 | 2022-07-29 |
+| [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-06-22 |  |
 | [Holiday](https://open.spotify.com/track/53wnscuzFnH8jaGymzqgfi) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 4:48 | 2022-08-18 | 2023-05-26 |
 | [Homegrown](https://open.spotify.com/track/7ejSwqZMZ2H9b8t315xwzt) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Homegrown](https://open.spotify.com/album/0QgirSoQnQQdkbDdPdhYSt) | 3:36 | 2021-08-13 | 2022-07-28 |
 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 | 2021-08-13 | 2022-06-02 |
@@ -355,7 +356,7 @@
 | [the angel of 8th ave.](https://open.spotify.com/track/1ZBAWvkQlpd87kCfHopEH4) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/128oVGwfkxHAthA6WTW4Hl) | 3:58 | 2021-08-13 | 2022-07-29 |
 | [the angel of 8th ave.](https://open.spotify.com/track/3Cxmy086Et74mojMN53BYZ) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 3:58 | 2022-03-24 | 2022-05-03 |
 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2023-03-11 | 2023-05-26 |
-| [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 | 2023-05-25 |  |
+| [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 | 2023-05-25 | 2023-06-23 |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2023-05-25 |  |
 | [The Fall](https://open.spotify.com/track/6bs2Q3d1EqZb7pUTfQaAth) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Fall](https://open.spotify.com/album/6UIJW1Dzene2situnL8YHw) | 2:45 | 2022-04-01 | 2022-04-21 |
 | [The First Day](https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The First Day](https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm) | 4:10 | 2021-08-13 | 2022-07-26 |

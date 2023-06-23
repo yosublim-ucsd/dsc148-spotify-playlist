@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=3io5w_NHTqaC0WSBoCiy-Q\"> Cassper Nyovest </a>",
-  "num_followers": 121018,
+  "num_followers": 121103,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDEzMTg3ZGNhMWE2NWNlNjliNmQxZmEyOTliYzU2NWRlMWY1ZWYx",
+  "snapshot_id": "MCw1MTM1NWM3NDFhMjYyZGE5ZDI4NGIzMTQyYjNlOTgyOGExYzY2NDM4",
   "tracks": [
     {
       "added_at": "2023-06-16 06:24:02",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -827,26 +827,22 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Bigger (feat. Olamide & Nas)",
-      "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -875,22 +871,26 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 202886,
+      "name": "Bigger (feat. Olamide & Nas)",
+      "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
     },
     {
       "added_at": "2023-06-16 06:24:02",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-16 06:24:02",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-06-16 06:24:02",
-      "album": {
         "name": "Speak N Vrostaan",
         "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 282857,
       "name": "Is'pantsula (feat. Papta Mancane)",
       "url": "https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB"
+    },
+    {
+      "added_at": "2023-06-16 06:24:02",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-06-16 06:24:02",

@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 354518,
+  "num_followers": 354674,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM3ZDljODNiZTg0Y2NiMDIyMjU0NWM4YWU5ZjQyZDU1MmQ1YTNk",
+  "snapshot_id": "MCw2OGJmOTg0NTY4MDRiMjczMGM4ZjY2ZjAzNmZhMWU3MzBkZTFkMTcx",
   "tracks": [
     {
       "added_at": "2023-06-01 16:22:38",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 152990,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 152990,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
     },
     {
       "added_at": "2023-06-01 16:22:38",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Gustavo Mioto, Mc Don Juan e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Luan Santana e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Original (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155767,
+      "name": "Elevador - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -2491,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Gol Bolinha, Gol Quadrado 2",
+        "url": "https://open.spotify.com/album/4TYCCK3qrAyMY5soBMCNyO"
+      },
+      "artists": [
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Gol Bolinha, Gol Quadrado 2",
+      "url": "https://open.spotify.com/track/0U9CZWq6umZsN432nh3WWT"
+    },
+    {
+      "album": {
         "name": "Gostosinha \u00e9 Ela",
         "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
       },
@@ -2844,6 +2884,32 @@
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
+    },
+    {
+      "album": {
+        "name": "Love, Love",
+        "url": "https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "Matheus Alves",
+          "url": "https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133385,
+      "name": "Love, Love",
+      "url": "https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA"
     },
     {
       "album": {
@@ -3274,7 +3340,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 160836,
       "name": "Metade De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU"
@@ -4314,7 +4380,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 130375,
       "name": "Preferida",
       "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"

@@ -2351,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Northern Light",
+      "url": "https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc"
+    },
+    {
+      "album": {
         "name": "Northern Spirit",
         "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
       },
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 236750,
       "name": "Vow",
       "url": "https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX"

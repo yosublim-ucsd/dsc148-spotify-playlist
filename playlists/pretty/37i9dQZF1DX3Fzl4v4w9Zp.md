@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,103 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,196 likes - 149 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 140 | [Broke Again](https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 2:31 |
 | 141 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
 | 142 | [Harness the Wind](https://open.spotify.com/track/3yCuPXH95r8oCucf2MRYXH) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV) | 2:54 |
-| 143 | [Falling Apart \(Right Now\)](https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Falling Apart \(Right Now\)](https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI) | 3:16 |
+| 143 | [Falling Apart \(Right Now\)](https://open.spotify.com/track/7cT3T91Y4J92e4EopPEGjJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/5prfZewHLWnEMaWdDdgEb5) | 3:16 |
 | 144 | [The Weight](https://open.spotify.com/track/2r0O6Cdu64Op0Hn0C1wddm) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 5:56 |
 | 145 | [Stealing Dark from the Night Sky](https://open.spotify.com/track/11srUJtGRAudXAKhnjeSRS) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [To Die For](https://open.spotify.com/album/06WmNWTuEwCWHQaP0XZaiV) | 4:47 |
 | 146 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 149 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 |
 
-Snapshot ID: `MCw4ZWI4ZjJhNDQ0YTU2YjgxNmYxOWJkYTM5NGYzOTQ4OTVmMjY4MTA3`
+Snapshot ID: `MCw0ZjZjMTI1OGNkOGZkZjgxODhlMmEzZWNmZmI0M2FiNmFmMmI4OTg3`

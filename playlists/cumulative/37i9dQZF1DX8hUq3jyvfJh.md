@@ -4,7 +4,7 @@
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-706 songs - 1 day 12 hr 12 min
+707 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 | 2023-02-01 | 2023-03-02 |
 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-07-06 | 2023-03-02 |
 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 | 2023-04-05 |  |
+| [Descontando Traição \- Ao Vivo](https://open.spotify.com/track/1YDk638sEUH4Q7MJNuz3EJ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua \(Ao Vivo\)](https://open.spotify.com/album/2Sf7a6rZKOj3Z7RXFQ1Dd2) | 2:35 | 2023-06-22 |  |
 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 | 2023-04-05 |  |
 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 | 2022-08-03 | 2022-09-02 |
 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 | 2022-11-02 | 2022-12-01 |
@@ -450,7 +451,7 @@
 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 | 2022-08-03 | 2023-01-05 |
 | [O CORRE](https://open.spotify.com/track/55C8DD0NSzGrULelBOKKJE) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [CORPO SEM JUÍZO](https://open.spotify.com/album/1iGbtqB3ULW5rB32fivm8e) | 3:32 | 2023-03-01 | 2023-04-06 |
 | [O Mar Serenou](https://open.spotify.com/track/5hemN5gGcBNdkUOIbs3RVe) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Claridade](https://open.spotify.com/album/1ednr8qDoki9yRssLmh3wj) | 3:02 | 2022-05-04 | 2022-06-01 |
-| [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 | 2023-05-31 |  |
+| [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 | 2023-05-31 | 2023-06-23 |
 | [O Que Me Cabe \(Acústico\)](https://open.spotify.com/track/5RpbjBuyxWN4NnL77FSB1s) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [O Que Me Cabe \(Acústico\)](https://open.spotify.com/album/1X1OPGSx5MNfngxQBakB4k) | 2:57 | 2022-05-04 | 2022-06-01 |
 | [O Que Me Cabe \- Acústico](https://open.spotify.com/track/4zT3n5isH5JpdnUYEEiIbC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [O Que Me Cabe](https://open.spotify.com/album/6hWBRxxH3zGGUVii6mEl3k) | 2:53 | 2023-01-04 | 2023-04-06 |
 | [O Que Você Sempre Negou](https://open.spotify.com/track/3EJxspU2R7r2TypgxIEQa3) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [O Que Você Sempre Negou](https://open.spotify.com/album/5HL49Yre66i5DcKhLi8wj2) | 3:24 | 2022-01-11 | 2022-02-04 |

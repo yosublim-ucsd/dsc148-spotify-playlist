@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: رضا البحراوي
 
-209 songs - 15 hr 54 min
+210 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,9 +104,10 @@
 | [Mashbe3tesh Khesam](https://open.spotify.com/track/7bv3lpA5IW0NA2yaOo4pI0) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Mashbe3tesh Khesam](https://open.spotify.com/album/2RpBN2u4EBNup7albuvnH3) | 3:35 | 2021-12-16 | 2022-07-25 |
 | [Mawal El Khasses](https://open.spotify.com/track/5oDyX6zBW6M19ggURAT7US) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Magareeh](https://open.spotify.com/album/6nVsp22oRsbX1BHzHfLAhM) | 3:52 | 2021-12-16 | 2022-10-25 |
 | [Mesaytara](https://open.spotify.com/track/0m9PqpTXUZl1ZFWIdciLXS) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7qeGAJr2N5GL0MGzlaipIK) | 2:50 | 2021-12-16 | 2023-04-01 |
-| [Mesaytara](https://open.spotify.com/track/4E5kAvLvcq2N3BE8qAcSkL) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7KkImA31LU2wBR8kAFaoBz) | 2:50 | 2023-02-16 |  |
+| [Mesaytara](https://open.spotify.com/track/4E5kAvLvcq2N3BE8qAcSkL) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7KkImA31LU2wBR8kAFaoBz) | 2:50 | 2023-02-16 | 2023-06-23 |
 | [Mganenany](https://open.spotify.com/track/4BdczslzGIu6MPYQzkCa2X) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [Mganenany](https://open.spotify.com/album/43CnQIq5C5ToUNDwrwNlVt) | 4:39 | 2021-12-16 | 2023-05-12 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 | 2022-12-21 |
+| [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 |  |
 | [Resala](https://open.spotify.com/track/522j2fXo5LMHuEMTw67aaF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Resala](https://open.spotify.com/album/72j6bXgAo4YFlgNM376Ukn) | 4:08 | 2021-12-16 | 2022-07-29 |
 | [Sabaho Sabaho](https://open.spotify.com/track/5kJGXixlduyoU7gvhEHyiR) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sabaho Sabaho](https://open.spotify.com/album/7eue5uvJOj9ov60xAZgAeR) | 3:22 | 2022-06-02 | 2022-12-21 |
 | [Salamtek Ya Demaghy](https://open.spotify.com/track/2mFJUSuJzpTmwn6TRK4cRB) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [Eldarb Fe Eleraq](https://open.spotify.com/album/0Wc6sOC2Sn496mXG4X0osq) | 4:38 | 2021-12-16 | 2023-05-12 |
@@ -118,7 +119,7 @@
 | [Shed Helak](https://open.spotify.com/track/3t8njPwPoFpOHKe4Lja4qp) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Shed Helak](https://open.spotify.com/album/3z0FBFJFUUyxlcVYUaBcGC) | 2:13 | 2022-11-24 | 2023-05-13 |
 | [Sohab Fashosh](https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sohab Fashosh](https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4) | 3:36 | 2021-12-16 | 2022-12-21 |
 | [Taalan Aleina](https://open.spotify.com/track/0bIdj84kcikKQMjltR9Hbc) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Taalan Aleina](https://open.spotify.com/album/4qNBlXf4jgPTD9xLpx3EuG) | 4:02 | 2021-12-16 | 2022-07-29 |
-| [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 |  |
+| [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 | 2023-06-23 |
 | [Tekhasemny Tesalehny](https://open.spotify.com/track/2ZNi4Z77qPdry0nSiopx2z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ), [Emy Samir Ghanem](https://open.spotify.com/artist/3aTtd4WaA8s5Vg55t6HM69), [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t) | [Tekhasemny Tesalehny](https://open.spotify.com/album/54nsVUYHDewXrGkVA5MDal) | 4:46 | 2021-12-16 | 2022-07-29 |
 | [Tetgawzeny Ya Amar](https://open.spotify.com/track/2komkcL0eobM6WKwGK7RNZ) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Negom El Asdekaa 1](https://open.spotify.com/album/72yUWiF3HQhpoHKrzusVTz) | 4:27 | 2022-04-23 | 2023-05-12 |
 | [Togar Saada](https://open.spotify.com/track/5VWGBXKbb8xrAjwcbmAxtv) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Togar Saada](https://open.spotify.com/album/0tp0RCyY4MU5KdmQsZSt0T) | 4:27 | 2021-12-16 | 2023-05-12 |

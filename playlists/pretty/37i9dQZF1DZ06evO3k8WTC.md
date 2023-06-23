@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,145 likes - 33 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,147 likes - 33 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 25 | [Initiation](https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:26 |
 | 26 | [Continuum](https://open.spotify.com/track/5z5DVvRd8Wkr9fWz8Pb64A) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 4:02 |
 | 27 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 |
-| 28 | [Amid Ethics](https://open.spotify.com/track/0J1ha7ikMV5lN3HvKq6iOk) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 3:29 |
+| 28 | [Point Of Demarkation](https://open.spotify.com/track/6v3MSw7N5mKTgKFjXtTwFo) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 4:21 |
 | 29 | [Communication Drive\-in](https://open.spotify.com/track/5zRFyfg5g32auwHudWKNca) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:44 |
-| 30 | [Point Of Demarkation](https://open.spotify.com/track/6v3MSw7N5mKTgKFjXtTwFo) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 4:21 |
+| 30 | [Amid Ethics](https://open.spotify.com/track/0J1ha7ikMV5lN3HvKq6iOk) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 3:29 |
 | 31 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 |
 | 32 | [Ebroglio](https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:47 |
 | 33 | [Ticklish](https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 4:35 |
 
-Snapshot ID: `MjgxMjI1NDMsMDAwMDAwMDA4MWE0YWE0MTJlMzc2YWRkYjBjNjkyYzU1NjMyOGFiZQ==`
+Snapshot ID: `MjgxMjM5NDYsMDAwMDAwMDA3YTE3NGE1YTk2NzIxNThlZDhjMzVjZDkyZDViYWQxYQ==`

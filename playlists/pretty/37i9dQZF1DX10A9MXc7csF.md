@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Diferente Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,501 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,511 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Los 4 De La Tacoma](https://open.spotify.com/track/06s50W6rddsAlUXh8wklLn) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [Los 4 De La Tacoma](https://open.spotify.com/album/7rOJrDlaiVbkQuix9r9nJo) | 2:42 |
 | 60 | [Al Mirar Su Rostro](https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Estoy Ilusionado](https://open.spotify.com/album/3rtTwDzziHswWKw0ozgEY7) | 2:27 |
 
-Snapshot ID: `MCxkYWNiNGM3NzhhMWU1YTA0ZThjNjhlZmFlNjMxNGExNmY5NTNkZDhj`
+Snapshot ID: `MCxjNmE0NzAyYTc0ZDBhNmQ3NTI1MWYxZjQ5ODUwODczZTkxNjNhNWFi`

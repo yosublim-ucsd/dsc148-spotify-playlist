@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 244060,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5nTjso2cw2TWW25Xe9xzfG"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 204387,
       "name": "CH\u1eaeC L\u00c0 SAY \u00d2I",
       "url": "https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 198058,
       "name": "Ch\u1edd",
       "url": "https://open.spotify.com/track/4fSCE4KsyubWKT2hvSXmcn"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 207428,
       "name": "Hennesy - Acoustic Version",
       "url": "https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 223500,
       "name": "H\u00e3y \u0110\u1ec3 Ch\u00fang Ta \u0110\u01b0\u1ee3c C\u00f3 Th\u00eam Th\u1eddi Gian",
       "url": "https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 148938,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT"
@@ -1108,6 +1108,28 @@
       "duration_ms": 216987,
       "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
       "url": "https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz"
+    },
+    {
+      "album": {
+        "name": "th\u1ebf sao?",
+        "url": "https://open.spotify.com/album/3fY5cRxp5rL2t6HjvYShhh"
+      },
+      "artists": [
+        {
+          "name": "nae & de'lay",
+          "url": "https://open.spotify.com/artist/1bweJ8ReP08akfsoW8jiP9"
+        },
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167582,
+      "name": "th\u1ebf sao?",
+      "url": "https://open.spotify.com/track/6eaezsSp9v9kBnOWUssqkC"
     },
     {
       "album": {
@@ -1300,6 +1322,32 @@
       "duration_ms": 182149,
       "name": "\u0110\u1ebfn \u0110\u00f3n Em \u0110i Ch\u01a1i \u0110i Anh",
       "url": "https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp"
+    },
+    {
+      "album": {
+        "name": "\u1ed0 1",
+        "url": "https://open.spotify.com/album/4pHnmegKPqoNpNstTgk5B6"
+      },
+      "artists": [
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        },
+        {
+          "name": "S\u01b0\u01a1ng S\u00e2m",
+          "url": "https://open.spotify.com/artist/1CaB0XOnPniIKLI8NjMMQL"
+        },
+        {
+          "name": "TE",
+          "url": "https://open.spotify.com/artist/2GIuF9XgNJthcp0oRA1q3G"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u1ed0 1",
+      "url": "https://open.spotify.com/track/3vFYKvXOHHFVD58Bxz98VL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM"

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-208 songs - 11 hr 16 min
+209 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Nirvana](https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 3:31 | 2022-12-15 | 2023-04-14 |
 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-01 | 2022-12-17 |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-22 |
-| [Nothing to Me](https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Nothing to Me](https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x) | 3:13 | 2022-04-14 |  |
+| [Nothing to Me](https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Nothing to Me](https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x) | 3:13 | 2022-04-14 | 2023-06-23 |
 | [offline](https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [offline](https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX) | 3:21 | 2022-09-29 | 2023-02-03 |
 | [Ohrwurm](https://open.spotify.com/track/6y0pXmJTB6cCuOX66SiJal) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Ohrwurm](https://open.spotify.com/album/7e6YnkuG9g1hJg8sOOroUI) | 3:18 | 2023-04-06 |  |
 | [Okay](https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Okay](https://open.spotify.com/album/4N1IM89g7pW1RuI6rJRe6N) | 3:04 | 2021-12-16 | 2022-04-08 |
@@ -200,6 +200,7 @@
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 | 2023-06-16 |
 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 |  |
 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 | 2021-12-16 | 2022-12-02 |
+| [Walls](https://open.spotify.com/track/4cMDIe5aH8h6B8MzF18xty) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Walls](https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1) | 2:59 | 2023-06-22 |  |
 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 | 2021-12-16 | 2023-03-18 |
 | [Wart mal](https://open.spotify.com/track/4J8FybA4DlfN5HAuC6VnQE) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE PRELUDE](https://open.spotify.com/album/6wWXureHWQxxFc3Q8oQ1Tk) | 2:21 | 2022-02-24 | 2022-05-27 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 | 2022-07-01 |

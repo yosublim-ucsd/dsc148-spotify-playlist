@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
         "name": "Tutor",
         "url": "https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e"
       },
@@ -508,6 +526,42 @@
       "duration_ms": 221052,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251365,
+      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19 (Lucid)",
+        "url": "https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256759,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH"
     },
     {
       "album": {
@@ -818,7 +872,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 185000,
       "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48 \u0e23\u0e39\u0e49\u0e22\u0e31\u0e07 (FYI)",
       "url": "https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN"
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 290005,
       "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a",
       "url": "https://open.spotify.com/track/34dOw4pfjiyTNOr4tSLf3Z"
@@ -1422,7 +1476,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 197286,
       "name": "\u0e2b\u0e34\u0e19\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/7a7J9igYwomlu1BPD0mrex"
@@ -1480,6 +1534,28 @@
       "duration_ms": 195157,
       "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 (BYE)",
+        "url": "https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA"
+      },
+      "artists": [
+        {
+          "name": "First Anuwat",
+          "url": "https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205434,
+      "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 - BYE",
+      "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
     },
     {
       "album": {
@@ -1606,7 +1682,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 195194,
       "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
       "url": "https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9"

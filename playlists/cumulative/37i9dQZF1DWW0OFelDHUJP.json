@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aisi Woh Baarish",
+        "url": "https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187553,
+      "name": "Aisi Woh Baarish",
+      "url": "https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF"
+    },
+    {
+      "album": {
         "name": "Akela Hoon",
         "url": "https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk"
       },

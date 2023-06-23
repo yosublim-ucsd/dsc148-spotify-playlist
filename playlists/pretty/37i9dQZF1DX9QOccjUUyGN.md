@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Vk Mac, Duzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,244 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,265 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 31 | [Joga Pra Raul](https://open.spotify.com/track/5zszt8qm4pW7udLUVfkKFq) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Joga Pra Raul](https://open.spotify.com/album/7BNjDAOTsySow0lwzEUD7F) | 2:40 |
 | 32 | [Califa](https://open.spotify.com/track/4jJVIrBLHSXciDkzLtVwpf) | [Felp The Plug](https://open.spotify.com/artist/6C9yerprxOvX43rPwH9Yi1), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Califa](https://open.spotify.com/album/0DSFv9zOkRS80KFib2czTp) | 2:13 |
 | 33 | [Hi, Tyler](https://open.spotify.com/track/6krNoD8etjeVs6kntrTrIK) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Hi, Tyler](https://open.spotify.com/album/1wdp6hfEjrDLjFFKzXth6s) | 2:48 |
-| 34 | [Plug \- De Criminoso](https://open.spotify.com/track/6jysxOHkqThPgvMMX4MNiY) | [Dj Menor K](https://open.spotify.com/artist/053rYe8P55VlRehmMe4veD), [Mc Vuiziki](https://open.spotify.com/artist/6CtoWMA5Zy7GxbL0c2d2jH) | [Plug \- De Criminoso](https://open.spotify.com/album/2puGeSKx4gKoxxfXvOgcvX) | 2:26 |
+| 34 | [Plug \- De Criminoso](https://open.spotify.com/track/6jysxOHkqThPgvMMX4MNiY) | [Dj Menor K](https://open.spotify.com/artist/053rYe8P55VlRehmMe4veD), [MC Vuiziki](https://open.spotify.com/artist/5tfC5vrAEtc6f8xvpI7mx4) | [Plug \- De Criminoso](https://open.spotify.com/album/2puGeSKx4gKoxxfXvOgcvX) | 2:26 |
 | 35 | [Invisto](https://open.spotify.com/track/4BQT37CbzTDHPm6yRAdp5z) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Invisto](https://open.spotify.com/album/2tlcSnDzE0JKPSzQoFdiVy) | 2:04 |
 | 36 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 37 | [Apê](https://open.spotify.com/track/3shrQ68tVGMkl1qOE2NaPV) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk) | [Apê](https://open.spotify.com/album/30fk3ql6LJIL0Y4v2RpAkR) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 69 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 70 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCw5NTk5NDUxNDI0ODU4OTkxNDVmNzllNWJlZWI5MjNmZTNjZmVlZGRh`
+Snapshot ID: `MCxiZjI1MmVkMjk4YTQzMDE5M2VjYjdhMTExZmJiOGQ0ODFjMjRhMDY2`

@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 41942,
+  "num_followers": 42084,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM4MTVhOTNlMzAyMjY0Y2U2ZDNmOTYwYTU5ZGQ0MWQ1MTJlZDEz",
+  "snapshot_id": "MCwyM2EzYzA0MWVlZmM3NmNkZTQ3NGNhMjFiMTM4YmIwYzdjM2FlYTQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 65000,
       "name": "Catalina Fight Song",
       "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "SICK OF IT*",
-      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 174313,
-      "name": "WHY?",
-      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 174313,
+      "name": "WHY?",
+      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
@@ -719,6 +719,30 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "call and i'll answer",
+        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        },
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "call and i'll answer",
+      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -783,30 +807,6 @@
       "duration_ms": 168320,
       "name": "Hunned Bandz",
       "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "call and i'll answer",
-        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
-      },
-      "artists": [
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        },
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "call and i'll answer",
-      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

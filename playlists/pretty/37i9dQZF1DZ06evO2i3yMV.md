@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,446 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,448 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 2 | [Rouge](https://open.spotify.com/track/1y4OnSCtttqYNLA1602LYh) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 2:13 |
 | 3 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
-| 4 | [Smoke & Mirrors](https://open.spotify.com/track/0Zb19M8DGaIEreIyyFTo5k) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 3:38 |
-| 5 | [Realla](https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:30 |
-| 6 | [Light It Up](https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [RINGOS DESERT](https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL) | 3:18 |
+| 4 | [Realla](https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:30 |
+| 5 | [Light It Up](https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [RINGOS DESERT](https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL) | 3:18 |
+| 6 | [Smoke & Mirrors](https://open.spotify.com/track/0Zb19M8DGaIEreIyyFTo5k) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 3:38 |
 | 7 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 8 | [Phases \- bad tuner Remix](https://open.spotify.com/track/5mLfDev8PWL1gIMGWZyRJq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP) | 3:25 |
 | 9 | [Gamble](https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 |
 | 50 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 |
 
-Snapshot ID: `MjgxMjI1NDIsMDAwMDAwMDBkZDcyOTI4MzllOTFiZDcyZTZhNDM5ZTYxYTYyYTI4NA==`
+Snapshot ID: `MjgxMjM5NDYsMDAwMDAwMDBjYmMzYmNhNGIyOTk0YmIwN2UyMjA4NTAzZjRkNDg2Mg==`

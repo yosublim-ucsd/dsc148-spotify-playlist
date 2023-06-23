@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 473077,
+  "num_followers": 473096,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2MyN2JhODU1MGM5OTViNTU2MjJkYjBmNDAwNjI5M2JmY2RiOTBm",
+  "snapshot_id": "MCwxYWEwZjFlNjBjMjc3ZTg1MGM0OWU3YWU5YTk3MmRhNDJmY2JhOTJm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Lose You (feat. Soccer Mommy)",
-        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Lose You (feat. Soccer Mommy)",
+        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hooves",
-        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Hooves",
-      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Amazing Things",
         "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 238783,
       "name": "One True Prince",
       "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Hooves",
+        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Hooves",
+      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Space Invader",
-        "url": "https://open.spotify.com/album/1Rg8aWg5i6nRQu7NzlgaoX"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 233312,
-      "name": "Space Invader",
-      "url": "https://open.spotify.com/track/43DIL3TsfKObMfMGVRNC8z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/2QGtEKawGRCMRIhbp3SbvB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177227,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/4o48EHVTIDb3PS0EIQ5l7A"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Space Invader",
+        "url": "https://open.spotify.com/album/1Rg8aWg5i6nRQu7NzlgaoX"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 233312,
+      "name": "Space Invader",
+      "url": "https://open.spotify.com/track/43DIL3TsfKObMfMGVRNC8z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "i heard they found you face down inside your living room",
         "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191548,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
-      },
-      "artists": [
-        {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
-        }
-      ],
-      "duration_ms": 212228,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
-      },
-      "artists": [
-        {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Sego Sucks",
         "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 200080,
       "name": "Shame",
       "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+      },
+      "artists": [
+        {
+          "name": "Little Hurt",
+          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Plus Ultra",
-        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "My Fall",
-      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "SAY IT",
         "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 161315,
       "name": "SAY IT",
       "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Next Curse",
-        "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
       },
       "artists": [
         {
-          "name": "Slothrust",
-          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 241638,
-      "name": "The Next Curse",
-      "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
+      "duration_ms": 204453,
+      "name": "Missile Command",
+      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

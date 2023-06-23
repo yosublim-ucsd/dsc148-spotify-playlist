@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Suspect 95
 
-136 songs - 7 hr 58 min
+137 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 | 2022-09-01 |  |
 | [Ma Place](https://open.spotify.com/track/3UMKpuoJeemcDHxZepnIH7) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Ma Place](https://open.spotify.com/album/3cevtx8WGwucUcmrP9toVk) | 3:55 | 2022-09-01 | 2022-12-02 |
 | [Mademoiselle](https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Mademoiselle](https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC) | 2:19 | 2022-12-28 |  |
+| [Makélélé](https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3) | [Salvador Plaisir](https://open.spotify.com/artist/3mnbwUuwXpWSisTrAkfmZa), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Makélélé](https://open.spotify.com/album/2Q6UrODqAI7BZQuXPoSnuW) | 3:02 | 2023-06-22 |  |
 | [Mami Wata](https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mami Wata](https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6) | 2:52 | 2022-05-26 | 2022-08-26 |
 | [Manger la vie](https://open.spotify.com/track/6DCVOdL5lk2FxHXZ54T5Eb) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Manger la Vie & Garçon Djandjou](https://open.spotify.com/album/7dcAf4da4ajOExJSD7N8Lr) | 3:13 | 2023-01-19 | 2023-05-05 |
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 | 2022-09-02 |
@@ -135,7 +136,7 @@
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |
-| [Winhou](https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Winhou](https://open.spotify.com/album/3atrSkpZpQT9fcFfYE3Ukg) | 3:08 | 2023-04-06 |  |
+| [Winhou](https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Winhou](https://open.spotify.com/album/3atrSkpZpQT9fcFfYE3Ukg) | 3:08 | 2023-04-06 | 2023-06-23 |
 | [X plus](https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Zagba Le Rekin](https://open.spotify.com/artist/5q0DkEt2KBiQhoEjBVFhwm) | [X plus](https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV) | 1:25 | 2023-06-15 |  |
 | [Yiri](https://open.spotify.com/track/4I3c9wYQoNJtihFna5yZes) | [Sly De Sly](https://open.spotify.com/artist/55hvy7lq6Kh8n67VmTXGKe) | [Yiri](https://open.spotify.com/album/6cgZiXODV7Mzj6URW2khZq) | 3:35 | 2023-04-06 | 2023-05-19 |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |

@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69465,
+  "num_followers": 69478,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQxMzU3ZDQ2ZmY4ZTVlOWI0N2YwYWNkZmRlMzA3OWUzMTUyODli",
+  "snapshot_id": "MCw1NWJmYTMzMzk2NGY0M2MyYzM1OGRhOWJmOTBiYjc1NWFlNDIwZjNk",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214323,
       "name": "6B (feat. Go Get Music)",
       "url": "https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 203508,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Tan Rico",
         "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gozo",
-        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 203508,
-      "name": "Gozo",
-      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 182857,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 223389,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -915,26 +935,6 @@
       "duration_ms": 249130,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Orgullo",
-        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
-      },
-      "artists": [
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 223389,
-      "name": "Orgullo",
-      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 219361,
+      "name": "Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Dejanos Pasar",
         "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 221428,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Soluci\u00f3n",
-        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 219361,
-      "name": "Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "ST\u00dcSSY",
         "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 144714,
       "name": "ST\u00dcSSY",
       "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Hedonismo",
+      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Twerk",
         "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 160128,
       "name": "Twerk",
       "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Hedonismo",
-      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "X Polis",
         "url": "https://open.spotify.com/album/4ZhSdJwBxMmO0p6BYdhSci"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1455,6 +1439,22 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
+      },
+      "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 216576,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 200362,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
-      },
-      "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        }
-      ],
-      "duration_ms": 216576,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Mundo Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Mundo Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 223399,
       "name": "Nube",
       "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Mundo Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Mundo Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
     },
     {
       "added_at": "2023-06-09 02:27:24",

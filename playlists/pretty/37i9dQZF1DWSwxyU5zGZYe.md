@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,150 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,236 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Sawan Aaya Hai \(Unplugged\)](https://open.spotify.com/track/0nqpxdqlz99uWN238dzJUH) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Creature 3D](https://open.spotify.com/album/2ySTppSfuVBNq2nNN6lEqg) | 4:11 |
 | 50 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 |
 
-Snapshot ID: `MCw1NzBiMGQ3ODBmMTViMjQ5N2FjODlkZWI0OWMxODQ4ZmM4NTkyODkw`
+Snapshot ID: `MCwxYzkwYzBjZDNjNTBjNWEyOTdlYzY0NDBmOTI4MzUzOGFhZDQwOTIz`

@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Kaka WRLD
 
-78 songs - 4 hr 23 min
+79 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 | 2023-04-23 |
 | [Meter Khench](https://open.spotify.com/track/0VonGBdBy7i4gEXUwp9WhX) | [Arun Taank](https://open.spotify.com/artist/0uoMDF5nGJGZqZt7ZybJ0u), [Akhri Sultaan](https://open.spotify.com/artist/0Mw3EnmkxQQyWu4mI8r8L2), [Bigdee](https://open.spotify.com/artist/2Y8HUZ2z19r7fog9SuDprK) | [Meter Khench](https://open.spotify.com/album/71s6jogrwwclqzxXTeYH6h) | 3:11 | 2023-06-05 | 2023-06-17 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 |  |
+| [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 |  |
 | [Naina Ki Talwar](https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24) | 2:42 | 2023-03-28 |  |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 |  |
 | [No Darling](https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [No Darling](https://open.spotify.com/album/2VJhRHyWaPX9U86xYxpUo1) | 3:29 | 2023-06-10 |  |
@@ -70,7 +71,7 @@
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 |  |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |
-| [Sajan Ji](https://open.spotify.com/track/5JmDKw06xkMXfS2HNqTFLg) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Sajan Ji](https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8) | 3:05 | 2023-04-28 |  |
+| [Sajan Ji](https://open.spotify.com/track/5JmDKw06xkMXfS2HNqTFLg) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Sajan Ji](https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8) | 3:05 | 2023-04-28 | 2023-06-23 |
 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 | 2023-03-28 |  |
 | [Shareef Bande](https://open.spotify.com/track/5NvY1yfoncIR6i1uhiUa02) | [Kd Desi Rock](https://open.spotify.com/artist/5FY4pKq1w3ro5eieFDxvij), [Namayoho Studio](https://open.spotify.com/artist/56wgaEDkjpz1i3Sr9AlJh8) | [Shareef Bande](https://open.spotify.com/album/3ZEUGpvxsAKyzikdO3TC3I) | 3:11 | 2023-05-15 |  |
 | [Sheesha](https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sheesha](https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT) | 3:37 | 2023-03-28 |  |

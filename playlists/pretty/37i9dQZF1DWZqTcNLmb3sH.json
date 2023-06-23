@@ -1,37 +1,13 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49780,
+  "num_followers": 49798,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTA1Y2E0YWRmMmYwODJiMzZhNmVkZmIxMDEwZDJhM2MyZTM5YTc1",
+  "snapshot_id": "MCxlNjE0YjEwMThjOTU3YjVkYzE5ZDdkYzZmOThiMDE1N2IyNTJlNjYw",
   "tracks": [
-    {
-      "added_at": "2023-05-29 08:32:58",
-      "album": {
-        "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
-        "url": "https://open.spotify.com/album/3ipzfd9gupic4LmoV8eCQQ"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        }
-      ],
-      "duration_ms": 230202,
-      "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
-      "url": "https://open.spotify.com/track/2gqLAvFuVOno5cYwEMEP6J"
-    },
     {
       "added_at": "2023-04-12 13:37:54",
       "album": {
@@ -55,6 +31,50 @@
       "duration_ms": 208291,
       "name": "Single Sundara (From \"Raghavendra Stores\")",
       "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"
+    },
+    {
+      "added_at": "2023-06-22 11:47:39",
+      "album": {
+        "name": "Dhaga Dhaga (from \"Baang\")",
+        "url": "https://open.spotify.com/album/5RfWt52snyaPdKN6WFa0lu"
+      },
+      "artists": [
+        {
+          "name": "Chethan Gandharva",
+          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
+        },
+        {
+          "name": "Charvi Muralidha",
+          "url": "https://open.spotify.com/artist/3VbASnHNP1NkxYaIN52rDL"
+        }
+      ],
+      "duration_ms": 204819,
+      "name": "Dhaga Dhaga (from \"Baang\")",
+      "url": "https://open.spotify.com/track/1owLlr4yO68aumRNQ2gMwp"
+    },
+    {
+      "added_at": "2023-05-29 08:32:58",
+      "album": {
+        "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
+        "url": "https://open.spotify.com/album/3ipzfd9gupic4LmoV8eCQQ"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "duration_ms": 230202,
+      "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
+      "url": "https://open.spotify.com/track/2gqLAvFuVOno5cYwEMEP6J"
     },
     {
       "added_at": "2023-05-20 08:05:14",
@@ -83,6 +103,22 @@
       "duration_ms": 238080,
       "name": "Preethisuve (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/7bWl4jcNOXNEniw8T61CqL"
+    },
+    {
+      "added_at": "2023-06-22 11:47:39",
+      "album": {
+        "name": "Dhoomam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        }
+      ],
+      "duration_ms": 289939,
+      "name": "Dhoomam Title Song (Kannada)",
+      "url": "https://open.spotify.com/track/0I1PahoPc90Isp0wSUHSec"
     },
     {
       "added_at": "2023-06-02 08:38:27",
@@ -179,6 +215,26 @@
       "duration_ms": 225048,
       "name": "Chadurida Baligondu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/1Rfawh8P5ICDU8EDttn8jb"
+    },
+    {
+      "added_at": "2023-06-22 11:47:39",
+      "album": {
+        "name": "Dhoomam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        }
+      ],
+      "duration_ms": 262143,
+      "name": "Enu Maadide",
+      "url": "https://open.spotify.com/track/7oMXEQ4k3eKJzX8DJUZbTr"
     },
     {
       "added_at": "2023-06-12 06:59:06",
@@ -577,26 +633,6 @@
       "url": "https://open.spotify.com/track/3OPIInoiNtSMqYQq7meDg6"
     },
     {
-      "added_at": "2023-05-29 10:08:54",
-      "album": {
-        "name": "Pirkilu (Tulu Movie)",
-        "url": "https://open.spotify.com/album/1reIefikAqwyTn70ZftVmQ"
-      },
-      "artists": [
-        {
-          "name": "Badri Prasad",
-          "url": "https://open.spotify.com/artist/1Q40wizO6hrVtooWsgSSbG"
-        },
-        {
-          "name": "Vaishnavi Kini",
-          "url": "https://open.spotify.com/artist/7sQmwyTVfA0TUsXFs4fdUV"
-        }
-      ],
-      "duration_ms": 288913,
-      "name": "Poovonji Porlu",
-      "url": "https://open.spotify.com/track/3XTg8t9CukGsZjhTfdDNcH"
-    },
-    {
       "added_at": "2023-06-02 08:33:58",
       "album": {
         "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
@@ -619,30 +655,6 @@
       "duration_ms": 174133,
       "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
       "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
-    },
-    {
-      "added_at": "2023-06-01 10:48:33",
-      "album": {
-        "name": "Yaare Yaare Ninna Hettolu",
-        "url": "https://open.spotify.com/album/0BIfqICBOzx2VQva5WYhs6"
-      },
-      "artists": [
-        {
-          "name": "Pavan Partha",
-          "url": "https://open.spotify.com/artist/20aQCSn1Q9O1oO8LwK6rd3"
-        },
-        {
-          "name": "Keshav Vega",
-          "url": "https://open.spotify.com/artist/3SIAsoG9RAPUI0PO64TzyF"
-        },
-        {
-          "name": "Sparsha RK",
-          "url": "https://open.spotify.com/artist/5DdODvvQLtxlIpoxdQND4L"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Yaare Yaare Ninna Hettolu",
-      "url": "https://open.spotify.com/track/773Jl3MXHN57zm07DZSOmG"
     },
     {
       "added_at": "2023-05-24 12:20:30",
@@ -963,22 +975,6 @@
       "duration_ms": 219600,
       "name": "Oh Baby Girl (From \"Circus\")",
       "url": "https://open.spotify.com/track/4xGKbrZU4wUX39KueA6gQo"
-    },
-    {
-      "added_at": "2023-05-22 10:15:03",
-      "album": {
-        "name": "Butterfly (Kannada)",
-        "url": "https://open.spotify.com/album/3JPHlyMAHGKfOmTNRqsEng"
-      },
-      "artists": [
-        {
-          "name": "Meghana",
-          "url": "https://open.spotify.com/artist/55iMNvfW6kzyjOkUnz2uEF"
-        }
-      ],
-      "duration_ms": 221680,
-      "name": "All The Ladies",
-      "url": "https://open.spotify.com/track/5LvEjsGOEfwvI007GyFd9i"
     },
     {
       "added_at": "2023-05-20 08:05:14",

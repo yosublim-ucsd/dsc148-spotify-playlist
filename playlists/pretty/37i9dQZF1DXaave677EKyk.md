@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,871 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,884 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 39 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 |
 | 40 | [So Tell Me…](https://open.spotify.com/track/38ACDBuAIyiezIvGRE6qyB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:47 |
 | 41 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 42 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
-| 43 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
+| 42 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
+| 43 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
 | 44 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
 | 45 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 46 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 65 | [Reflections](https://open.spotify.com/track/3fqwZhWW1bThvY01kFh5Kn) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Reflections](https://open.spotify.com/album/4aJD3e4tpG34qSDUxJ9YZT) | 3:18 |
 | 66 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 |
 | 67 | [Don't Need You](https://open.spotify.com/track/1hD8aKvuRTJjVFOwinCA97) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [Don't Need You](https://open.spotify.com/album/2NUXauIpeSJa6rHRgP21vY) | 2:43 |
-| 68 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 |
-| 69 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 |
+| 68 | [Unfold](https://open.spotify.com/track/6hj2GEXUPrHo86Ga9qfMkS) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Unfold](https://open.spotify.com/album/4R0zPK9sjAsr3rXqTTE7qV) | 4:10 |
+| 69 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 |
 | 70 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
-| 71 | [Unfold](https://open.spotify.com/track/6hj2GEXUPrHo86Ga9qfMkS) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Unfold](https://open.spotify.com/album/4R0zPK9sjAsr3rXqTTE7qV) | 4:10 |
+| 71 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 |
 | 72 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 |
 | 73 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 |
 | 74 | [Fall Into Place](https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Fall Into Place](https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCw0ODYxYzBkNDk2MDgzN2Y1ODgyZjZiZWJmOTJiNzAzZGNhZWNkNjJm`
+Snapshot ID: `MCxiMGViMjU1OTRmZWZmZDQyYTkyODU1NDBlNDAyZjg5ZmE1OWY0YWY2`

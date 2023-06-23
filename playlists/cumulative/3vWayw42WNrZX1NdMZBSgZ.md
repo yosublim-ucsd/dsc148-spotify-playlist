@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Emilia
+> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Marshmello, Tiago PZK
 
-619 songs - 1 day 9 hr 29 min
+620 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [COMO SABES](https://open.spotify.com/track/1K96L6WO5lkeC13HuJUZ1r) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [ANUBIS](https://open.spotify.com/album/5GTC36BIx9gEA8RTChT8mq) | 3:23 | 2023-03-08 | 2023-06-03 |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-02-02 | 2023-05-26 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2022-09-29 | 2023-05-26 |
+| [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-23 |  |
 | [Condenao](https://open.spotify.com/track/37qL6CKrmLqURQxkGUxURc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Condenao](https://open.spotify.com/album/0mXcfPWbOSFd6lBTUu8zmC) | 3:52 | 2023-03-20 | 2023-06-01 |
 | [Confieso](https://open.spotify.com/track/2ydzr3NKng0u0JZUm0DpKK) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Catarsis](https://open.spotify.com/album/6aliVhXmEKLUNe6SzwSJac) | 3:31 | 2022-11-04 | 2023-05-26 |
 | [Coquio Castro \- En Vivo](https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Coquio Castro \(En Vivo\)](https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH) | 3:11 | 2023-05-12 | 2023-05-31 |
@@ -428,7 +429,7 @@
 | [Pa' Dentro](https://open.spotify.com/track/7zzSLypkQ1GRiCBf2Xr6KO) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:31 | 2022-09-02 | 2023-05-26 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-02-02 | 2023-05-26 |
 | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/track/5mOwvA7MywQmmXwNjdyoc9) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Rayo Musica](https://open.spotify.com/artist/3zvFWdnryOC5aUkN0XDbwz) | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/album/4WwmlVmdZpJrOi4bVawujz) | 3:07 | 2023-02-17 | 2023-06-01 |
-| [Pain Killer](https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Pain Killer](https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU) | 2:50 | 2023-06-01 |  |
+| [Pain Killer](https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Pain Killer](https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU) | 2:50 | 2023-06-01 | 2023-06-23 |
 | [PAKATA](https://open.spotify.com/track/59rRvUjxSrKnimSsg678f9) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAKATA](https://open.spotify.com/album/1DJ8Ix9b7yJhtrqus02M3w) | 2:56 | 2022-02-02 | 2023-05-26 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-26 | 2023-06-01 |
 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 | 2023-03-02 | 2023-06-02 |
@@ -559,7 +560,7 @@
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-02-02 | 2023-05-26 |
 | [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2022-07-28 | 2023-05-26 |
 | [Tu Gato](https://open.spotify.com/track/1IxQee6XfyqJA3uvl9c0Hz) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Tu Gato](https://open.spotify.com/album/1mTzM08AUOMmq4qABh1YjL) | 2:15 | 2023-02-24 | 2023-06-01 |
-| [Tu Me Elevas](https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tu Me Elevas](https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b) | 3:27 | 2023-06-08 |  |
+| [Tu Me Elevas](https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tu Me Elevas](https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b) | 3:27 | 2023-06-08 | 2023-06-23 |
 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 | 2023-02-02 | 2023-06-01 |
 | [Tu Negro y Mi Algo](https://open.spotify.com/track/0bJgGAR17gjuYh3SqnXds7) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Tu Negro y Mi Algo](https://open.spotify.com/album/4Xn9KIV5EwrfRn61u930Aa) | 2:56 | 2022-08-19 | 2023-05-26 |
 | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/track/1x5tWPIw2UvLXSsPLmxlRU) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [The Ware](https://open.spotify.com/artist/4R0ek5XCkASrjFf0Q89Q0A), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/album/5lptf4EbojA7LkA1YwTZh1) | 3:33 | 2022-03-25 | 2023-05-26 |

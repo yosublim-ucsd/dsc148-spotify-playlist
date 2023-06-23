@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,029 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,121 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 37 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
 | 38 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 | 39 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
-| 40 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 |
+| 40 | [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 |
 | 41 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 | 42 | [Condenado Para El Millón](https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:42 |
-| 43 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
-| 44 | [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 |
+| 43 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 |
+| 44 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
 | 45 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
 | 46 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 47 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCw1NmY0NTkxZGY5ZjY4MGFkYWUyNmMwNTU1YjUwOTAxYTY2YWY0YTE2`
+Snapshot ID: `MCxjNDYwZjczNDIxNjY1ZGE1YTA2MGIwMThmMGZhODE2MzE5ZTIzNGI2`

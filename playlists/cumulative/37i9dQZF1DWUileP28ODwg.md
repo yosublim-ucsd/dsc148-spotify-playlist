@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-301 songs - 18 hr 35 min
+303 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-10-01 | 2023-03-11 |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2022-04-22 | 2022-06-11 |
 | [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-03-10 | 2023-05-02 |
+| [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 | 2023-03-10 |  |
 | [Every Hour](https://open.spotify.com/track/7D8ixDGuF86Y88HQcLNRiA) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Every Hour](https://open.spotify.com/album/3ZBM3rCqYXClqdJ24Gqbmu) | 4:21 | 2022-02-25 | 2022-05-29 |
 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 | 2022-02-25 | 2022-05-14 |
 | [Family Is Family](https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Family Is Family](https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx) | 2:53 | 2022-07-08 | 2023-03-11 |
@@ -254,7 +255,8 @@
 | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx) | 3:38 | 2022-03-05 |  |
 | [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 | 2022-03-25 | 2023-05-07 |
 | [Thank God For Sunday Morning](https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:28 | 2023-03-10 |  |
-| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
+| [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-03-10 |  |
+| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 | 2023-06-23 |
 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 | 2022-02-25 | 2022-06-11 |
 | [That's Enough](https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:36 | 2022-04-22 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [The Best Is Yet To Come](https://open.spotify.com/album/6NWTU6KMXWN0nc0LdJ3lMZ) | 4:18 | 2022-02-25 | 2022-03-21 |
@@ -300,7 +302,7 @@
 | [Wonderful Life](https://open.spotify.com/track/346GYD2oczDYEzUCVxd9zl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Wonderful Life](https://open.spotify.com/album/4iNhPj8ULyXqKAS13Zeuht) | 3:47 | 2022-04-22 | 2022-08-27 |
 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 | 2022-04-22 | 2023-03-11 |
 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 | 2022-02-25 | 2022-03-26 |
-| [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 | 2023-03-10 |  |
+| [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 | 2023-03-10 | 2023-06-23 |
 | [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-26 |  |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2022-04-22 | 2022-08-27 |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-08-26 |  |

@@ -2,9 +2,9 @@
 
 ### [SIGMA MALE TIKTOK MUSIC](https://open.spotify.com/playlist/3XDx4ZH82386rU1QKqWV2Q)
 
-> FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
+> Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-187 songs - 8 hr 23 min
+190 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,11 @@
 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 | 2023-06-12 |  |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-06-12 |  |
 | [Hennessy \- Radio Edit](https://open.spotify.com/track/4pmzYvV45hgQ55oyoidgtm) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Hennessy](https://open.spotify.com/album/5FDjV9dxURBdBbSre1yXZm) | 2:56 | 2023-06-12 |  |
+| [Highway to Hell](https://open.spotify.com/track/3VEnUgXE1igOKvfZSqeJUk) | [Charlie Ricch](https://open.spotify.com/artist/4425MkDqfYzCr225bLPSoa), [Nikko](https://open.spotify.com/artist/3PlgAYx18qrE4dXvHZEtTK) | [Highway to Hell](https://open.spotify.com/album/1KLwVakyfIzKafIX6gOPGx) | 2:56 | 2023-06-22 |  |
 | [Hit They Block](https://open.spotify.com/track/7fAzFEtjInkP8l2PZa4t2M) | [Onsight Deeda](https://open.spotify.com/artist/3T6NFoNsKDpm22Ve9YsdAO) | [Hit They Block](https://open.spotify.com/album/4iOnDGQpZLEx78o18yIkE2) | 4:04 | 2023-06-12 |  |
 | [i love techno](https://open.spotify.com/track/5QaUJb1TT12DtUWc7TyKq7) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [i love techno](https://open.spotify.com/album/62nDfCUYCcRXB0vZNlyJ1f) | 1:38 | 2023-06-18 |  |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2023-06-12 |  |
+| [in here but not of here \- Sped Up](https://open.spotify.com/track/0Xs8xtisJB1eUNiQ5anaLa) | [Alex Galli](https://open.spotify.com/artist/7E5VvoxYlaeHeEphQXtpHR) | [in here but not of here \(Sped Up\)](https://open.spotify.com/album/1MkHqIUkK4AohTCnSD1BJT) | 3:11 | 2023-06-22 |  |
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2023-06-12 |  |
 | [In The End](https://open.spotify.com/track/0ry62QA95mn0I47TcTsU1q) | [Celarity](https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [In The End](https://open.spotify.com/album/4Mktc8lsrYoveJ6hzsH4zT) | 2:04 | 2023-06-12 |  |
 | [INVALIDITY](https://open.spotify.com/track/7CCevZ237qeAtih8p7YgCI) | [Jolixwery](https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0) | [INVALIDITY](https://open.spotify.com/album/5xqTQR5XhagAdPjt9vOjBy) | 1:49 | 2023-06-12 |  |
@@ -191,6 +193,7 @@
 | [Words Die My Voice Has Gone](https://open.spotify.com/track/3tl1h29K60j2Lu4zdYfzWL) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Analog Tapes](https://open.spotify.com/album/0yHtaaDVLW9DOpzM9nWrs1) | 3:04 | 2023-06-12 |  |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2023-06-12 |  |
 | [WRAITH](https://open.spotify.com/track/5Q9ZeDggWs7WFsIHBYXW6U) | [speedthrax](https://open.spotify.com/artist/77zz0X3DIBTNDQucaVrula), [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [WRAITH](https://open.spotify.com/album/3ZQV6SBH4fycT2xoPVQTL6) | 2:08 | 2023-06-18 |  |
+| [YODAWGIHEARDYOULIKETRENCHCOATS \- $KILLHOLLOW REMIX](https://open.spotify.com/track/4DpnnjxMqwh6BFx5ZUP5fh) | [Killhollow](https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [YODAWGIHEARDYOULIKETRENCHCOATS \($KILLHOLLOW REMIX\)](https://open.spotify.com/album/0gA9Wh5Y65PuX5PCpoIlYL) | 1:51 | 2023-06-22 |  |
 | [Your Kiss Tastes Like Poison](https://open.spotify.com/track/1vNywMGtUHuU0WBpouyNO7) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Analog Tapes](https://open.spotify.com/album/0yHtaaDVLW9DOpzM9nWrs1) | 2:40 | 2023-06-12 |  |
 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 | 2023-06-12 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2023-06-12 |  |

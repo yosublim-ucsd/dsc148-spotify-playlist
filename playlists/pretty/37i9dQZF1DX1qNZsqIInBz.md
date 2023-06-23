@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,289 likes - 102 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,576 likes - 102 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 101 | [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 |
 | 102 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCxhOTJjM2JjN2MwNzhjNmY1YjA2ODZhZDA4MzkxZjM2NGVlMjE1YTQ3`
+Snapshot ID: `MCw0MzU1NzhhZGIwNWE1NTdmN2FiMzQwMmExZmQ4ODMxNTg0MGYyNGEw`

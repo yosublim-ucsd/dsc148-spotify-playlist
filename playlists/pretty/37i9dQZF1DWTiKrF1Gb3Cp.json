@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 154200,
+  "num_followers": 154258,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjVhZDM1MzAyZWQ1MmZjODFmOTAzM2ZjOWQyNDAxOGVhMmY1MzNk",
+  "snapshot_id": "MCw3ODAxYTNhMDM4MWU3NzRlYmRjODEzOTUxYmJlNWRmZDc1NjQxNWRi",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -299,30 +299,34 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "Grandes Ligas",
+        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
         }
       ],
-      "duration_ms": 217954,
-      "name": "Peso a Peso",
-      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
+      "duration_ms": 240000,
+      "name": "Grandes Ligas",
+      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -383,34 +387,30 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Grandes Ligas",
-        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Grandes Ligas",
-      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+      "duration_ms": 217954,
+      "name": "Peso a Peso",
+      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "No Te La Sabes",
-        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Te La Sabes",
-      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "MEXplico",
         "url": "https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 133899,
       "name": "MEXplico",
       "url": "https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "No Te La Sabes",
+        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Te La Sabes",
+      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Los Pizzas",
-        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 136520,
-      "name": "Los Pizzas",
-      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Al Mill\u00f3n",
         "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 138028,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Los Pizzas",
+        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 136520,
+      "name": "Los Pizzas",
+      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Acelerado",
+        "url": "https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Acelerado",
+      "url": "https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "FCK Love",
         "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 261186,
       "name": "FCK Love",
       "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Acelerado",
-        "url": "https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Acelerado",
-      "url": "https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel"
     },
     {
       "added_at": "2023-06-16 06:00:00",

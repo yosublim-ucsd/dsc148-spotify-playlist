@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,665 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,701 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 89 | [Lele](https://open.spotify.com/track/1GQlkH0MyMElCb4rB0Peop) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Blueboy](https://open.spotify.com/artist/49tPWZ7vQeE7VscuIHqrn6), [Rowena](https://open.spotify.com/artist/5Dh07xWsgUJJk1ftn8vBlY) | [WAHYAHSEY](https://open.spotify.com/album/6o0nQZblMP3YqRtJTIVkQo) | 2:44 |
 | 90 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 
-Snapshot ID: `MCwyNWQ3OTVjYzkwMmM4OTM5OTZhNGYxMzFlMzU2YTcxNTIzODc3M2E2`
+Snapshot ID: `MCw0ZjJiMmE1ZTBjNGMyM2M2NTgzYTkzODllYmUzOWVlMzMxNWI3Yzhh`

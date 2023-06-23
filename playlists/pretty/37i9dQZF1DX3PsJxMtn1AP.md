@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,301 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,363 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [H.B.Y.](https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6) | [Setwun](https://open.spotify.com/artist/2Qv1W2j1iK6SHjsDEsXST6) | [H.B.Y.](https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T) | 4:14 |
 | 50 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 |
 
-Snapshot ID: `MCwyZWE3YTg5NTBmNDNlYjJiODE2NWJiZDlhODI2MWM1MGU2ZDdlM2Jl`
+Snapshot ID: `MCw4MGJiMGU0MmE2YTc3MDJhOWYwM2YwMDdhODAwMzczNjU0YmExNjU4`

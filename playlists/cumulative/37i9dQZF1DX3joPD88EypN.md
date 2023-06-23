@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-129 songs - 11 hr 46 min
+130 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Kingdom of Coldness](https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Kingdom of Coldness](https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY) | 7:37 | 2023-01-26 |  |
 | [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2022-06-01 |  |
 | [Kun Lun](https://open.spotify.com/track/1klS4kVAikIo3w4AxKLBSl) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 5:30 | 2022-06-01 | 2022-09-17 |
+| [Landkjenning](https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Landkjenning](https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG) | 3:35 | 2023-06-22 |  |
 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 | 2022-06-01 |  |
 | [Leilani](https://open.spotify.com/track/1QVPEOqvQv6v7A5vyXI105) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [Leilani](https://open.spotify.com/album/1o11PJdSBoCZVQscZJe3DK) | 2:51 | 2022-06-01 | 2022-07-29 |
 | [Leilani](https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [A Fine Line](https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn) | 2:51 | 2022-06-01 |  |
@@ -87,7 +88,7 @@
 | [Polska efter Gil](https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj) | [Thomas Tidholm](https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Orsa by Night](https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg) | 3:32 | 2022-06-01 | 2023-04-03 |
 | [Polska Of Despair \(1\)](https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Serenity](https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO) | 6:51 | 2022-06-01 |  |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2022-06-01 |  |
-| [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 | 2022-06-01 |  |
+| [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 | 2022-06-01 | 2023-06-23 |
 | [Red Hook \- Live At The Jazz Standard, New York / 2017](https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Bay Of Rainbows \(Live At The Jazz Standard, New York / 2017\)](https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU) | 8:34 | 2022-06-01 |  |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-06-01 |  |
 | [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2022-06-01 |  |

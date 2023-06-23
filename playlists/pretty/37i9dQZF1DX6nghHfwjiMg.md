@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. Foto: Abril Olivera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,685 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,688 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 49 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 | 50 | [I Wanna Do](https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [I Wanna Do](https://open.spotify.com/album/5nUXsB6JlORX1kE77OAfy1) | 1:50 |
 
-Snapshot ID: `MCw4M2VjOGY4ODUzYjVkMWZkZGE4MjA4NmU4YWM1Y2EwZjU4YzQxNDM0`
+Snapshot ID: `MCxlYWU2YTBkNDA2MGY1ZmViOWY3M2FlOGQ4YTQ3YTFjMGNkMTU3Mjdl`

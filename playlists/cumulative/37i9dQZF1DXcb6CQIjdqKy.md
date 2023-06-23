@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=OAuYXYgLQl2x413WoI1onQ">Blessing Offor</a>
 
-545 songs - 1 day 14 hr 18 min
+546 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [One Thing](https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Glory Hour](https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4) | 7:01 | 2023-05-05 |  |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-01 | 2022-04-29 |
 | [Open](https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light](https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG) | 4:43 | 2022-08-12 | 2023-01-28 |
-| [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 | 2023-04-14 |  |
+| [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 | 2023-04-14 |  |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2022-02-11 | 2022-02-26 |
 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 | 2022-01-07 | 2022-06-18 |
 | [Our Jesus](https://open.spotify.com/track/16wE3WBFw9y60QxIinwDgy) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [State of the Union](https://open.spotify.com/album/0a7ipobqnBSVbusuv09BzZ) | 5:14 | 2022-05-20 | 2023-02-04 |
@@ -457,7 +457,8 @@
 | [Tell All My Friends](https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Tell All My Friends](https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ) | 3:36 | 2022-05-06 | 2022-10-01 |
 | [TENT REVIVAL \(feat\. D'Nar\)](https://open.spotify.com/track/5d90SkHPZcxWyr0EQzW9ki) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [D'Nar](https://open.spotify.com/artist/6WRb0UlH4FZ3Hpt2YlMKbA) | [Tent Revival](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 8:00 | 2023-03-10 |  |
 | [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 | 2022-03-25 | 2022-10-15 |
-| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
+| [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-06-16 |  |
+| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 | 2023-06-23 |
 | [Thank You](https://open.spotify.com/track/6r4jouSQy2Hl77pwMwChcM) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:59 | 2022-03-19 | 2022-08-20 |
 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 | 2023-05-12 |  |
 | [That's Enough](https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:36 | 2022-04-22 | 2022-06-18 |

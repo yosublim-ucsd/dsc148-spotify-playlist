@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vaathi
 
-100 songs - 6 hr 6 min
+101 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 |  |
 | [Meherezylaa](https://open.spotify.com/track/2HPVvTJ5BZGLOXTyrPH3wy) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 4:19 | 2021-11-27 | 2022-08-04 |
 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 | 2022-02-09 |  |
+| [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 | 2023-06-22 |  |
 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 | 2022-01-18 |  |
 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 | 2021-11-15 | 2022-09-20 |
 | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64) | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/album/7DbivwZgoK0AXocXHom4RV) | 3:34 | 2022-03-28 |  |

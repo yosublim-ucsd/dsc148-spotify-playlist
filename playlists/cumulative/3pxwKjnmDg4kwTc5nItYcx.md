@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-698 songs - 1 day 13 hr 36 min
+701 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Let’s Go Home Together](https://open.spotify.com/track/35VGAYKzC4YxjDQQ8zxBPw) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:28 | 2021-03-24 |  |
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2020-04-12 | 2021-05-12 |
 | [Lie](https://open.spotify.com/track/27NaNvlmvOHqTF0VPjuRSD) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lie](https://open.spotify.com/album/1qZDkipk2XWaJ6aoEvJwAm) | 2:59 | 2019-09-27 | 2021-05-12 |
+| [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-23 |  |
 | [Lie Lie Lie](https://open.spotify.com/track/1jOBlsvKhdqjZAlUAia4Qz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Lie Lie Lie](https://open.spotify.com/album/4lWcXvzLSYlHcBFtMVZ5RA) | 2:56 | 2021-01-15 |  |
 | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/track/6Vi7Fvc9ahL8IhjCmnYG2P) | [Josh Pineda](https://open.spotify.com/artist/62H6ZR7aXjipbCFoTFBLwE), [Kensington Moore](https://open.spotify.com/artist/2uxqs8ftwTdK4N5BBUvVyf) | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/album/52u6IwkAZjBb4EudGFXNBl) | 3:17 | 2021-08-14 |  |
 | [Life Goes On](https://open.spotify.com/track/7HbKIvZWeJPD6JmxQymOZ8) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Life Goes On](https://open.spotify.com/album/5XCwUCcCM9fw79tU9Ga1BV) | 3:21 | 2020-07-31 | 2021-05-12 |
@@ -375,6 +376,7 @@
 | [Lonely Hearts](https://open.spotify.com/track/0uQBTf6XWp27hSegB3zV92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [good to know](https://open.spotify.com/album/0W7KBrn4FQOvz5eWsGz8T8) | 3:23 | 2020-05-01 | 2021-05-12 |
 | [Lonely Hearts](https://open.spotify.com/track/63l4LmmYVH2KSWLmVOD8gA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Lonely Hearts](https://open.spotify.com/album/4P5b0d1PPIue25OfqE7Ffv) | 3:23 | 2020-04-24 | 2020-05-12 |
 | [Los Angeles](https://open.spotify.com/track/7gDXne51D4DEBHQSHHedYq) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [En\-Route: Los Angeles](https://open.spotify.com/album/6AS93NOEEpTJhayGi6hQZN) | 4:00 | 2019-10-25 | 2021-05-12 |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
 | [Loser](https://open.spotify.com/track/4wPIwZiEnvE7AWY3bBSz3H) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/7vUmuDAhBlmK3idI32knqA) | 3:48 | 2022-08-12 |  |
 | [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-12-16 |  |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-30 |  |
@@ -523,6 +525,7 @@
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-19 | 2022-07-30 |
 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 | 2020-02-07 | 2021-05-12 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-10 |  |
+| [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-23 |  |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-10-21 | 2022-11-14 |
 | [running in place](https://open.spotify.com/track/3bGJaTfUpcbSNeJgFdxI9s) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/5WohdQVT7eFimhNjlMeXt3) | 2:45 | 2021-04-28 |  |
 | [Running On My Mind](https://open.spotify.com/track/0xEW9gPv5wNuS84pXGG3lc) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Running On My Mind](https://open.spotify.com/album/117stOgbjnRoJjARCJjADm) | 2:36 | 2020-05-29 | 2021-05-12 |

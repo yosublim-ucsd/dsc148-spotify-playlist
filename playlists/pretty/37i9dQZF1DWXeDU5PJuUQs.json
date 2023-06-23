@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 120172,
+  "num_followers": 120216,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzZkODA1NjNlYjY4NGI4NWEzNGMyNGMzZDg0ZThlYzU0Y2IxYjVk",
+  "snapshot_id": "MCxmNWEyZmIxNTEyOTAwYTk3NmNjYTg4MjY5ZWIyMDk5ZWE3OThlZWM0",
   "tracks": [
     {
       "added_at": "2023-06-16 03:00:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Una Copa de M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
-      },
-      "artists": [
-        {
-          "name": "Sonido Caracol",
-          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 316182,
-      "name": "Una Copa de M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 158958,
       "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
       "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Una Copa de M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
+      },
+      "artists": [
+        {
+          "name": "Sonido Caracol",
+          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 316182,
+      "name": "Una Copa de M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Show En Parque Recondo",
         "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -915,8 +915,8 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 328000,
       "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
       "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 1189088,
       "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
       "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2023-06-16 03:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     }
   ],
   "unique_name": "Vivo de Cumbia",

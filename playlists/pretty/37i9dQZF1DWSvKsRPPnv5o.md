@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,420 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,496 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 26 | [My Skeleethe \(Remix\) \[feat\. Vinny West\]](https://open.spotify.com/track/4aAa4pF7vaB6KH8ykcl5zK) | [T\-Jxint](https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw), [Vinny West](https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA) | [My Skeleethe \(Remix\) \[feat\. Vinny West\]](https://open.spotify.com/album/5iXydPF3kdtww8uYs5DNsP) | 2:07 |
 | 27 | [Can't](https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Been Here, Still Here](https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj) | 1:37 |
 | 28 | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo) | 2:26 |
-| 29 | [Hoedown \(feat\. Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(feat\. Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 |
+| 29 | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 |
 | 30 | [AFN This! BSG That!](https://open.spotify.com/track/6RpMH79FjU6FjgwygoNNtW) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [AFN Peso](https://open.spotify.com/artist/1qPjeAlCU4Dr6aEv8o1w1t), [RONRONTHEPRODUCER](https://open.spotify.com/artist/13iHfCJycQVyCypXHeVMoU) | [AFN This! BSG That!](https://open.spotify.com/album/7pbL5RXXpYF2yGc7vmlTHo) | 2:47 |
 | 31 | [Best Friend](https://open.spotify.com/track/4ND4rIL6KQY7O7mtBu7pL8) | [Khalid Brooks](https://open.spotify.com/artist/0xyS0bQtcJRUsf6LVxHmqT), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [Best Friend](https://open.spotify.com/album/1rIyOSIOfwcasBuLsTNKZ6) | 2:15 |
 | 32 | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/track/1H8ZNpGyZybtxzK5JgeFGc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/album/64OP2SCE7jhZP9h8T4GYgW) | 3:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 64 | [Scarface](https://open.spotify.com/track/41SlxBsxeBBBGcXP2Nvdjg) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Scarface](https://open.spotify.com/album/2P5n2dXWJqVBWO2ZFgSUOV) | 1:55 |
 | 65 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 
-Snapshot ID: `MCwxODRhM2UzYzZkM2FjNWRiYjAxNjVkMmY5OWRhNzllZWQxNzg3ODdi`
+Snapshot ID: `MCwxYjUzYjU1NWY4MWM1M2YxMjdhZDk2NTgzYWNmZjIxYjFmNDM5NzE3`

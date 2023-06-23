@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,397 likes - 76 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,468 likes - 76 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 75 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 76 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MCw0MWVkZjRmN2QxMWQ4MDdlMzViYTc5ZTU4ZDA4MjAwNjQ3MjRkMjBk`
+Snapshot ID: `MCw1NjRkNTA1MjdkNzYxNjNkY2UyYzEzYjY1MzgxMmIyYjNiNTgwOTU0`

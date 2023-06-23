@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,100 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,141 likes - 86 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 85 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 |
 | 86 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 
-Snapshot ID: `MCw2YTJkODI2YjgyMzBlNWZkOGU3NTgzNDI5OGNhYjczOWJmMjI5MjVk`
+Snapshot ID: `MCw3ZWJiMjdhN2QyOWJjZWYxOTdhYzQ2ZTZkZTY1Y2VjODAwMzZlOGEz`

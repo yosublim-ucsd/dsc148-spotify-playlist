@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-85 songs - 5 hr 46 min
+86 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2023-02-03 |  |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2023-02-03 |  |
 | [Menepi Menetap](https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Deva Mahenra](https://open.spotify.com/artist/2R4MIJ7l2ZMXxhvXqzcC9J) | [Menepi Menetap](https://open.spotify.com/album/3zNCT8AVDWtkcmgbNxVhW3) | 3:46 | 2023-02-03 | 2023-05-04 |
-| [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 |  |
+| [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 | 2023-02-03 |  |
 | [Percaya.](https://open.spotify.com/track/0lTMtrca6Bx8PS1UgldD1r) | [Ivan Gojaya](https://open.spotify.com/artist/7FCcRddXD2jm7nTIEX5S4W), [Agustin Oendari](https://open.spotify.com/artist/1AoG8XhI0jjfx4buab3qqI) | [Percaya.](https://open.spotify.com/album/2Q2TaokFQqWAyCTcp25t4z) | 3:04 | 2023-02-03 |  |
@@ -76,6 +76,7 @@
 | [Rest of My Life](https://open.spotify.com/track/299xFG2FLCNNM6JVBTB2s7) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Rest of My Life](https://open.spotify.com/album/1C0qOGb1Yo9r57b150NAXT) | 4:26 | 2023-02-03 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2023-02-03 |  |
 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 | 2023-02-03 |  |
+| [Sampai Kita Menua Bersama](https://open.spotify.com/track/0fFyhrV4pyOT4U9MfLwUoo) | [Kesya](https://open.spotify.com/artist/2a14N7fdgzTgPjXBIEctny) | [Sampai Kita Menua Bersama](https://open.spotify.com/album/7fXuF9sBouQmIFwy5rd33P) | 4:38 | 2023-06-22 |  |
 | [Sampai Kita Tua](https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sampai Kita Tua](https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI) | 4:35 | 2023-06-20 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-02-03 |  |
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 |  |

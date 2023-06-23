@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,184 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,263 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 19 | [Psicótico](https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Levels](https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx) | 4:17 |
 | 20 | [Zaharan Oasis \(Pt 1\)](https://open.spotify.com/track/1D68PsHZ0VFpRAJMeF3it6) | [Davishmar](https://open.spotify.com/artist/3TlahIxLK7BPdGY0cpDZOe) | [Zaharan Oasis \(Pt 1\)](https://open.spotify.com/album/1xuNs1O767YUPh92HaYhkr) | 4:04 |
 | 21 | [The Girl In Blue](https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf) | [Sci\-Clone](https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs), [A Sides](https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [The Girl In Blue](https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E) | 6:03 |
-| 22 | [Sebat](https://open.spotify.com/track/2FA4IGSPKrF8y8j7HJmaNJ) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Ethio Meditations / Drama Al Dente](https://open.spotify.com/album/3aJ6WC88KrPsCyP4xfIRQq) | 2:03 |
+| 22 | [Sebat](https://open.spotify.com/track/2FA4IGSPKrF8y8j7HJmaNJ) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Ethio Meditations / Drama Al Dente](https://open.spotify.com/album/3aJ6WC88KrPsCyP4xfIRQq) | 2:02 |
 | 23 | [Venango](https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK) | [The Dam Jawn](https://open.spotify.com/artist/7dzbcGQjhmLwoPTOBeZDid), [Dick Oatts](https://open.spotify.com/artist/6HAwEMXs6wBDDAY3MDuo8i) | [Master St.](https://open.spotify.com/album/3kxUnjjRa5Jjr0G4C06Pqp) | 5:32 |
 | 24 | [Silver](https://open.spotify.com/track/5BkLPw2DqeNA3LhXwsTCZy) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits](https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf) | 4:58 |
 | 25 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 |
 | 75 | [Spunky](https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en) | [Conrad Schwenke Quartett](https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx) | [Spunky](https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh) | 5:51 |
 
-Snapshot ID: `MCwxMDE2YWQ0MWI3MzE4ZTQ5M2YzM2UyMWE0NDMwYjExZjAxMzE2MTk4`
+Snapshot ID: `MCwwODFiMGFhNjk2NzcxNmQyOWQ1MjllZGU0MDNkMWRhYmI0OGI0MDk1`

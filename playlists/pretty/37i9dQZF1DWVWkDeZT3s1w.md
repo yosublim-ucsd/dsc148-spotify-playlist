@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,215 likes - 71 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,367 likes - 71 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 70 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 71 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 
-Snapshot ID: `MCxjYzhlZmE3ZjJhZDA4M2FjZTg5NTc5ODhhN2U1NTczOGQ2ODljOTFk`
+Snapshot ID: `MCxhMTAzYWY0NzhhOGNmYjliYzFjNWY5NDQ3MmE3NWI4ZGU4YjM5NTMy`

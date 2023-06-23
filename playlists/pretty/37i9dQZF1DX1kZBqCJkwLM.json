@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 79227,
+  "num_followers": 79271,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQxNDU5Zjc3OGNkZmUwYjQ1MzNmNTUyM2RlZDM0ZjdiYzdhNWIy",
+  "snapshot_id": "MCw0OTYwNGNhZmRmOTIyN2Y4YjU3ZTAxOGNlZmJhMjVhZjU0ZTMzN2Zj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2023-05-26 04:00:00",

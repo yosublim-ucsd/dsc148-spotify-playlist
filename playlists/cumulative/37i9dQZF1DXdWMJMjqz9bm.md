@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nicky Youre
 
-535 songs - 1 day 0 hr 37 min
+536 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,8 @@
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 |  |
 | [summer&cigarettes](https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [summer&cigarettes](https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6) | 1:54 | 2022-04-04 | 2022-10-08 |
 | [Summertime 1, 2](https://open.spotify.com/track/61Oj3QP3xwxd1zs4EiHTAV) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:10 | 2021-12-16 | 2022-02-26 |
-| [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 |  |
+| [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 | 2023-06-23 |
+| [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 | 2022-09-09 |  |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 | 2022-08-13 |
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2021-11-16 | 2022-02-26 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-04-06 | 2022-06-11 |

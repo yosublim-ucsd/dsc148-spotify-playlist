@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 20895,
+  "num_followers": 20904,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTZhMjUyNGVhNWI2OTA5OTg1NjM5NDEzMjM0ZTZhYTA5NTRiODE3",
+  "snapshot_id": "MCxhNDA5ZmJjOWRkMjVjNjMwMWQ3YmI1NDdhZjFjZTJlMTIyMjcyOTE5",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -955,26 +955,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
+        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
       },
       "artists": [
         {
-          "name": "W",
-          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
-        },
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        },
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
+          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
         }
       ],
-      "duration_ms": 233146,
-      "name": "\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u30b8\u30ab",
-      "url": "https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe"
+      "duration_ms": 238000,
+      "name": "Cherish BOUQUET",
+      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1011,18 +1003,26 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
-        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
       "artists": [
         {
-          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
-          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
+          "name": "W",
+          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
+        },
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        },
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Cherish BOUQUET",
-      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
+      "duration_ms": 233146,
+      "name": "\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u30b8\u30ab",
+      "url": "https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
+          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
-        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
-      },
-      "artists": [
-        {
-          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
-          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
-      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
     },
     {
       "added_at": "2023-05-09 15:56:06",

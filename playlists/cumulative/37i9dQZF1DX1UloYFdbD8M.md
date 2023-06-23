@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-66 songs - 4 hr 23 min
+67 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-05-26 |  |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 |  |
+| [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 |  |
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 |  |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-06-23 |  |
 | [Mazhaye](https://open.spotify.com/track/7DM08BBcMukrAnxkuzDUwo) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Mazhaye](https://open.spotify.com/album/3J3R9cnHC96bApTpmsSKgh) | 1:05 | 2022-11-02 |  |

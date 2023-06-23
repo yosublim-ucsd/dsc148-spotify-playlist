@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 38403,
+  "num_followers": 38446,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Q3MDg5MTA5YmVmNTJhODQ1ZWFmZGYxMDY5ODZmNmYyYzk0ZGJj",
+  "snapshot_id": "MCw3M2M0MDg5NGQ0NmE3N2EyMDA0ZWViYjQxZGZiZjM3ZjlhZGE1YmU2",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
-      },
-      "artists": [
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Roll 'Em",
-      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+      },
+      "artists": [
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Roll 'Em",
+      "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -367,6 +367,30 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+      },
+      "artists": [
+        {
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 212453,
       "name": "E-Flat Flyer",
       "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
-      },
-      "artists": [
-        {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
         }
       ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
       "artists": [
         {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Hightower Boogie Woogie",
         "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 141415,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

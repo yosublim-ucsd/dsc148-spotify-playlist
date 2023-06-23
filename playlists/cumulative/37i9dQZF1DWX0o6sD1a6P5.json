@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Omah Lay",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Fireboy DML",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "album": {
         "name": "GINGER LOVE",
         "url": "https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96"
       },
@@ -1629,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "capture my soul (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
@@ -1666,6 +1706,28 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9 (feat. Fally Ipupa)",
+        "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
+      },
+      "artists": [
+        {
+          "name": "Mokob\u00e9",
+          "url": "https://open.spotify.com/artist/6B535quc1yWnDhnBMCvosY"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "Carr\u00e9 (feat. Fally Ipupa)",
+      "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
       "album": {
@@ -3092,7 +3154,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 146092,
       "name": "Elle est trop",
       "url": "https://open.spotify.com/track/45Kl4j0f9Qq1eyKtAUiucg"
@@ -3624,7 +3686,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
@@ -3686,7 +3748,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 145838,
       "name": "Hi hi hi",
       "url": "https://open.spotify.com/track/7ycOby0nlAhC7kj5RYxqOH"
@@ -4718,7 +4780,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 191827,
       "name": "Love - Nigeria Version",
       "url": "https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC"
@@ -5181,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/58caLgwj61i831LmHAu6kU"
       },
@@ -5392,7 +5472,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 183626,
       "name": "Noche",
       "url": "https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c"
@@ -6430,7 +6510,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 167428,
       "name": "Rappelle- Moi",
       "url": "https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v"
@@ -6662,6 +6742,28 @@
       "duration_ms": 159434,
       "name": "Sans moi",
       "url": "https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt"
+    },
+    {
+      "album": {
+        "name": "Sans moi",
+        "url": "https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174870,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
     },
     {
       "album": {
@@ -7480,7 +7582,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 142973,
       "name": "Tcheba",
       "url": "https://open.spotify.com/track/2J809vMntHAebkUfvRY7AK"
@@ -8413,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
       },
@@ -8446,6 +8566,24 @@
       "duration_ms": 136855,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9ro Limite",
+        "url": "https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Z\u00e9ro Limite",
+      "url": "https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv"
     },
     {
       "album": {

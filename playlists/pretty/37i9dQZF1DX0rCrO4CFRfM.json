@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 914894,
+  "num_followers": 915242,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjlmNDI3YzZlNTYyNzZlMDVmYmU2YWZmZDU5YTZlNDVhZWY0MjQ1",
+  "snapshot_id": "MCwxYTY2ZTg2MmVjNDNhODBjYzBkNDFlZjhiMWViMzQ2ZDYxOWQ5OTRj",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "12\" Masters - The Essential Mixes",
         "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 237533,
       "name": "When You're Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2023-01-11 17:00:00",

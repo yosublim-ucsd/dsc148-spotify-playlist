@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-167 songs - 7 hr 58 min
+168 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amble](https://open.spotify.com/track/1a2wz6t0zJ88TMZGuJ7SaN) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Amble](https://open.spotify.com/album/2PEi0DFcOMBQaEDsS7elKg) | 2:23 | 2023-05-19 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2023-03-10 |  |
 | [Any Day Now](https://open.spotify.com/track/4Ma1uiF9nGClYmNx7yuhEJ) | [Colateral Commons](https://open.spotify.com/artist/36BVUrJXBiHHzwASLjuscd) | [Any Day Now](https://open.spotify.com/album/0YWzasNPyT6tyoiMKI5RS9) | 2:48 | 2023-04-28 | 2023-06-16 |
+| [Astral Whispers](https://open.spotify.com/track/4dChQFplgw4AdwesKeyU4c) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Astral Whispers](https://open.spotify.com/album/2r7hBDnjROHcnZH7Fdlv1h) | 2:25 | 2023-06-22 |  |
 | [Be There](https://open.spotify.com/track/2qFsvgnQJ4bA4SqizPiXyV) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [You'll See](https://open.spotify.com/album/4ShmyDAGJSuuBWw3KvblFK) | 2:54 | 2023-05-19 |  |
 | [BLIND](https://open.spotify.com/track/5NlOyaEtji1DNwsWiOjmXP) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [BLIND](https://open.spotify.com/album/3N6aevLWDHClADfBe8MY0X) | 2:01 | 2023-02-25 |  |
 | [Blue Hour](https://open.spotify.com/track/2B8K5m8XwCz2MJvahACTjD) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Blue Hour](https://open.spotify.com/album/6nrN4FXdPFJBUk7QO8HJdk) | 2:20 | 2023-03-10 |  |
@@ -25,7 +26,7 @@
 | [Boy Meets World](https://open.spotify.com/track/0r049w4eKLL1dEdZ6xZJYZ) | [Ladderbreak](https://open.spotify.com/artist/0GxMDb96WYvDodwqMfeSwe) | [Cerro](https://open.spotify.com/album/0kXdiTfDJNzAqefh5NBFQy) | 3:41 | 2022-05-13 | 2023-06-10 |
 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 | 2022-05-13 |  |
 | [Breezy](https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf) | [Richie Kruz](https://open.spotify.com/artist/1ulbjpM1Xqulg1o3sIhIH5) | [Breezy](https://open.spotify.com/album/3IaLEX2CgHRSci1W90e0Pq) | 2:54 | 2022-05-13 |  |
-| [Bridges](https://open.spotify.com/track/4ojVtI82vjDG9gBEE29YBb) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Bridges](https://open.spotify.com/album/03LUEUMI3thF8Hqol2MAOE) | 2:45 | 2023-03-31 |  |
+| [Bridges](https://open.spotify.com/track/4ojVtI82vjDG9gBEE29YBb) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Bridges](https://open.spotify.com/album/03LUEUMI3thF8Hqol2MAOE) | 2:45 | 2023-03-31 | 2023-06-23 |
 | [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 |  |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-05-13 | 2023-06-10 |
 | [Celestial Nights](https://open.spotify.com/track/6eDxJgFXQwHuLim99j0yRM) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Celestial Nights](https://open.spotify.com/album/4SFQqPn6heGbwYvAhmATSx) | 2:36 | 2023-01-20 |  |
@@ -123,7 +124,7 @@
 | [remembrance](https://open.spotify.com/track/5NFybpngup7caMPSMiJ5ZO) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [remembrance](https://open.spotify.com/album/5CodeMIZq9ynQ0hSa4YHRw) | 3:15 | 2022-12-16 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-28 |  |
 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 | 2022-05-13 | 2023-01-20 |
-| [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 |  |
+| [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 | 2023-06-23 |
 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 | 2022-05-13 |  |
 | [Scenery](https://open.spotify.com/track/6ooK9Qn7LunBSMVonSXNQS) | [My Siblings](https://open.spotify.com/artist/5g8x3UdnBDez1akawsenMi) | [Scenery](https://open.spotify.com/album/7JWdlzlSdJVMrdx0yNN5ov) | 2:45 | 2023-04-28 |  |
 | [Second Chances](https://open.spotify.com/track/7IbbjapJhOwteSxyMjWOLB) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Second Chances](https://open.spotify.com/album/6jagxBtyd6IAKLIy9E0wwc) | 2:40 | 2022-12-23 | 2023-06-10 |
@@ -151,7 +152,7 @@
 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 | 2022-05-13 | 2023-01-20 |
 | [Sunset Blvd](https://open.spotify.com/track/7B6GIld7XdXdkOcziTsCHi) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:27 | 2022-05-13 | 2023-01-20 |
 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 | 2022-07-15 |  |
-| [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 | 2022-05-13 |  |
+| [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 | 2022-05-13 | 2023-06-23 |
 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 | 2022-05-13 |  |
 | [Tattersail](https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [There, Nearly](https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf) | 2:34 | 2023-01-13 |  |
 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 | 2022-05-13 |  |

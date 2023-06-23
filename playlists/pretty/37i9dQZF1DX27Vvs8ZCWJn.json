@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 64730,
+  "num_followers": 64818,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzZhYmZiYjUzNGVhZTYwMjY5ZDViOWQzZWJiMTc0YTIyNDEwMjZj",
+  "snapshot_id": "MCwwZGE4M2MyZjRlNzZlMDY2YTI5ZTJjMDA5NDViYzk0ZjYzYTI0MjBk",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Con Cierto Aire a Ti",
+        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Hoy Ten Miedo De Mi",
+      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Con Cierto Aire a Ti",
-        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Hoy Ten Miedo De Mi",
-      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
     },
     {
       "added_at": "2021-12-25 17:56:56",

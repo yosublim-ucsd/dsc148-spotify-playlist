@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Hot Mulligan",
-  "num_followers": 449956,
+  "num_followers": 450053,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWU5Y2YxNGU3NmJlNjdmNTkxYjQ4MTkwY2Q1YzgyMjgwMTgzZjYz",
+  "snapshot_id": "MCxkMjRhNDc5MDRlYWU2NThiNWI3NmIwYjUxZTZmOWM2NDRkNWVhODQz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+        "name": "blame / how to exit a room",
+        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Jackpot Juicer",
         "url": "https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 221282,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "blame / how to exit a room",
-        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
-        "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        }
-      ],
-      "duration_ms": 314594,
-      "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
-      "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "We Don't Get High Like We Used To",
         "url": "https://open.spotify.com/album/5VPRU8oDVSOsOR6T6OxaJE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 168176,
       "name": "We Don't Get High Like We Used To",
       "url": "https://open.spotify.com/track/0tQklkf8QBjP21FDcyXaDW"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
+        "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 314594,
+      "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
+      "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Outlook",
-        "url": "https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Outlook",
-      "url": "https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Fuck You",
         "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 201320,
       "name": "IDC AT ALL",
       "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Outlook",
+        "url": "https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Outlook",
+      "url": "https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 186910,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "DIRTY WHITE VANS//",
         "url": "https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Little Green House",
         "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 181915,
       "name": "Call From You",
       "url": "https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "People Are Vomit",
+        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "People Are Vomit",
+      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "People Are Vomit",
-        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "People Are Vomit",
-      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Lacerate",
+        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 210022,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
         "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Face Down (Symphonic Edition)",
-        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Face Down - Symphonic Edition",
-      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Why Would I Watch",
         "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Lacerate",
-        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+        "name": "Face Down (Symphonic Edition)",
+        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 210022,
-      "name": "Lacerate",
-      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
+      "duration_ms": 207272,
+      "name": "Face Down - Symphonic Edition",
+      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1763,22 +1763,6 @@
       "duration_ms": 188732,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Crawl II",
-        "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Crawl II",
-      "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Crawl II",
+        "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Crawl II",
+      "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1899,38 +1899,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Checking In",
-        "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Checking In",
-      "url": "https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Rest In Pieces (feat. Goody Grace)",
         "url": "https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg"
       },
@@ -1947,6 +1915,22 @@
       "duration_ms": 175186,
       "name": "Rest In Pieces (feat. Goody Grace)",
       "url": "https://open.spotify.com/track/5RR9EjI16LxwQFOX5fxpCW"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1979,6 +1963,22 @@
       "duration_ms": 205250,
       "name": "What Hurts the Most",
       "url": "https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Checking In",
+        "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Checking In",
+      "url": "https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
         "url": "https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 171432,
       "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
       "url": "https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     }
   ],
   "unique_name": "The Scene",

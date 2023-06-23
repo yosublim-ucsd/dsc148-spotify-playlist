@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
-176 songs - 9 hr 2 min
+177 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-10 | 2023-05-05 |
 | [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-23 |  |
 | [Codéine 19](https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:23 | 2023-03-09 |  |
-| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-23 |  |
+| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-22 |  |
+| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-23 | 2023-06-23 |
 | [Cramé](https://open.spotify.com/track/3Db0wui02C3y86PfDJg5aC) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Cramé](https://open.spotify.com/album/6XqY3jSiJKGAT6rEQ96eYA) | 3:05 | 2022-01-06 | 2022-01-14 |
 | [Daddy chocolat](https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Cartel : volume 1](https://open.spotify.com/album/3wro1GpN4PVPZIeg7ykUFk) | 3:11 | 2022-01-06 | 2022-03-11 |
 | [Dans le Réseau](https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans le Réseau](https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG) | 2:24 | 2022-01-06 | 2022-09-30 |

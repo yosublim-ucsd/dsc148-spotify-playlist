@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-132 songs - 6 hr 44 min
+133 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 | 2022-07-30 |  |
 | [Hosanna](https://open.spotify.com/track/6OLJqYcAfhqd91ZnvH8Sst) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:21 | 2022-07-30 | 2023-02-11 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-07-30 |  |
+| [I Know](https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0) | [Moses Onofeghara](https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT), [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [I Know](https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6) | 3:39 | 2023-05-19 |  |
 | [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 |  |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-05-19 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2022-07-30 |  |
@@ -138,7 +139,7 @@
 | [Your Love](https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Your Love](https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs) | 2:56 | 2022-12-16 |  |
 | [Your Love](https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Your Love](https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r) | 2:32 | 2022-12-16 |  |
 | [YOUR MIND](https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [YOUR MIND](https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4) | 2:55 | 2022-12-16 |  |
-| [Your Mind \- Special Version](https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Your Mind \(Special Version\)](https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0) | 2:54 | 2023-05-19 |  |
+| [Your Mind \- Special Version](https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Your Mind \(Special Version\)](https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0) | 2:54 | 2023-05-19 | 2023-06-23 |
 | [Zion \(Gbe\)](https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Zion \(Gbe\)](https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ) | 2:44 | 2023-05-19 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

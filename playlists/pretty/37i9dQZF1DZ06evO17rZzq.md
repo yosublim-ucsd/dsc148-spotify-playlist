@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kali\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297 likes - 32 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311 likes - 32 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 31 | [Dan Živih Mrtvaca](https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Djubre](https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Svetište Svinja](https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m) | 4:35 |
 | 32 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 
-Snapshot ID: `MjgxMjI1NDIsMDAwMDAwMDBkMTEzNmY3NDY4NmFiYzYwZDkxMGNhYjcwM2I5ZTJkNg==`
+Snapshot ID: `MjgxMjM5NDYsMDAwMDAwMDBmNzRkMzM3MjdhMzZjMWI0ZDVjMmEwNTMzMzgxMGI4NQ==`

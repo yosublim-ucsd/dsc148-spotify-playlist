@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 142568,
+  "num_followers": 142640,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODAxZWVlNzY2ZjFjNzAxZWJiOGVmZTdiOWIxYTdiNWMwZWM1MjEw",
+  "snapshot_id": "MCxmZjA1MjQwMmQxYTVlN2U1NzExNzUzMWU3MDc3NzE4YjJiZTBmMzk0",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 188208,
       "name": "Predicate",
       "url": "https://open.spotify.com/track/6aIjb1aiKJd1YHjR3apCpM"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Slangn KK",
-        "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
-      },
-      "artists": [
-        {
-          "name": "Hardo",
-          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 193295,
-      "name": "Slangn KK",
-      "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Slangn KK",
+        "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 193295,
+      "name": "Slangn KK",
+      "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "terms (feat. Dominic Fike & Denzel Curry)",
-      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "terms (feat. Dominic Fike & Denzel Curry)",
+      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
     },
     {
       "added_at": "2023-06-16 09:37:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Mc Luanna e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,712 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,794 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Pra Quem Chama o Meu Nome](https://open.spotify.com/track/3kNyAvvgG3yYYN06yJBayh) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC) | [Maré de Cheiro](https://open.spotify.com/album/5Pl4HgVzWV6AVg9hgQt87T) | 3:06 |
 | 50 | [Sal e Pimenta](https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Sal e Pimenta](https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf) | 3:26 |
 
-Snapshot ID: `MCxhY2VlYzEwZjZkYmUyODcxZDM0NDk3NDM4YTlkZjUxNDZkOThlYzA1`
+Snapshot ID: `MCw5MmFlZGE4Njk5NTIwMDU0YjkwZmNlYTczZjEzNTBkNGMyMjZkMDk3`

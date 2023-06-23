@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Hits](https://open.spotify.com/playlist/37i9dQZF1DWVP71DYelp29)
 
-> The hits you know like you’ve never heard before\.  Cover: Taylor Swift.
+> The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-194 songs - 11 hr 39 min
+196 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,8 +176,10 @@
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 | 2021-09-08 | 2022-10-13 |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-05-27 |  |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-09-08 |  |
+| [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-06-22 |  |
 | [Tipsy \- Spotify Singles](https://open.spotify.com/track/5SjcWE3c7dn0xQbrRLeczT) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:41 | 2021-09-08 | 2023-01-12 |
 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 | 2021-09-08 | 2023-01-12 |
+| [True Colors](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 | 2023-06-22 |  |
 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:27 | 2021-09-08 | 2022-10-13 |
 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG) | 3:27 | 2022-05-27 | 2023-01-12 |
 | [Uh Huh](https://open.spotify.com/track/3XyH9KaMqaWYYd7GSjiQc6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:09 | 2022-05-27 | 2022-09-09 |

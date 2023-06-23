@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,868 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Lone Driver](https://open.spotify.com/track/7xsLiXMWiLrV5mcogcQp2J) | [MonoSix](https://open.spotify.com/artist/11ADiebojWtI5VDayDKhRW), [Ankh Wave](https://open.spotify.com/artist/3qFz7nPxtOKGsOs6Tx8msI) | [Lone Driver](https://open.spotify.com/album/6DjqLLCF5ykP7HOD9YBZgu) | 4:09 |
 | 75 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 
-Snapshot ID: `MCwyMTNkZGFmNGEwZWMzNzk0ZGI5MWQ3ZmQ0NzU0YTY3ZGQ3NWM2Mzk0`
+Snapshot ID: `MCxkMTRkNTYxNTdjMTM5YzNkZmIwMDA4YzkzM2I5MDlhOTgwZWMyYmMw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Sule",
+  "description": "Dendang Dangdut teratas. Cover: Iis Dahlia",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -642,6 +642,24 @@
       "duration_ms": 230448,
       "name": "Jakarta Kalimantan",
       "url": "https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy"
+    },
+    {
+      "album": {
+        "name": "Karena Cinta",
+        "url": "https://open.spotify.com/album/7jcUXWfAU8Epw4051E8PZC"
+      },
+      "artists": [
+        {
+          "name": "Iis Dahlia",
+          "url": "https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319106,
+      "name": "Karena Cinta",
+      "url": "https://open.spotify.com/track/7AaUPhQLNiEnWQyewSQKXy"
     },
     {
       "album": {

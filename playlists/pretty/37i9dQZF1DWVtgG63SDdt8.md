@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0?si=3apIL9lHSOmSc0x99vwC5g">JOSHUA LAZER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,711 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,837 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [God & Prozac](https://open.spotify.com/track/18dFJE2Lol614AQadNfDNq) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [God & Prozac](https://open.spotify.com/album/5HNEPsjxdo9NpZaqWksFRI) | 4:03 |
 | 100 | [Rooms](https://open.spotify.com/track/1xPj2ZeSTBNZWGTnhEsHM0) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Rooms](https://open.spotify.com/album/36reTGdzFB3HUhYaR7MYu4) | 4:45 |
 
-Snapshot ID: `MCxmYjk2OWFlMjIzN2U2MGYwMmM0YmEzNjZhOTkwMTM2OGJhZjAxYzg4`
+Snapshot ID: `MCxjZTYwMTc2N2YwNDc0YTMxM2Q2Mjg4NDVjNWEzNmZlYjc0ZmQyMWNh`

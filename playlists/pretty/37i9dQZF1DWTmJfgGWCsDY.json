@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 1622,
+  "num_followers": 1629,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODUyZjIwNWEyNDEwZDAyY2Y1ZWMxMGFlYmI4ZTNhYjNkMzZiMjVj",
+  "snapshot_id": "MCxlYjYxNWM4ZTc5NjM5NTkyYmNkOGE2Yzk1OTM3ZjU3MDRiNDI1MWI0",
   "tracks": [
     {
       "added_at": "2023-06-01 21:59:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Kama Ujui Utajua",
-        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
-      },
-      "artists": [
-        {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 239046,
-      "name": "Kama Ujui Utajua",
-      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
         "name": "We Nani",
         "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 333975,
       "name": "Ujaulamba",
       "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "Kama Ujui Utajua",
+        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 239046,
+      "name": "Kama Ujui Utajua",
+      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 359026,
       "name": "Hujanikomoa",
       "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
         "name": "Umekopwa",
         "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 283884,
       "name": "Umekopwa",
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
-      },
-      "artists": [
-        {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
-        }
-      ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
         "name": "Sawa Nitaacha",
         "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 218197,
       "name": "Sawa Nitaacha",
       "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "Mr Dj",
+        "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 313074,
+      "name": "Mr Dj",
+      "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Mr Dj",
-        "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
       "artists": [
         {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
         }
       ],
-      "duration_ms": 313074,
-      "name": "Mr Dj",
-      "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -703,22 +719,6 @@
       "duration_ms": 291980,
       "name": "Kua Uone",
       "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2023-06-01 21:59:00",

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-180 songs - 10 hr 55 min
+181 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [My Home Is In the Delta](https://open.spotify.com/track/5Qg734lkKdaPeE8ZYA6EwA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [30 Delta Blues Classics](https://open.spotify.com/album/0iWDn4znn8wjK2prk2GBXR) | 4:01 | 2022-05-25 | 2022-07-29 |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-27 | 2023-06-10 |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-10-14 |  |
-| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 |  |
+| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 | 2023-06-23 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-10 |  |
 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 | 2022-05-25 |  |
@@ -157,6 +157,7 @@
 | [Six Blade Knife](https://open.spotify.com/track/7n13S0lBOEXLx6duwghCUM) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 4:12 | 2022-05-25 | 2022-07-29 |
 | [Six Blade Knife](https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:13 | 2022-07-08 | 2023-06-10 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2022-07-08 | 2022-09-21 |
+| [Star Angel](https://open.spotify.com/track/1jNYE53P47jFS3K7Ibg5yn) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 5:14 | 2023-06-16 |  |
 | [Still a Fool](https://open.spotify.com/track/0QG3p3FOCHCsBeDY7OBDdg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Robert 'Bilbo' Walker](https://open.spotify.com/artist/5MpJy0Z9bbPrgdSVN9TRMp) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:33 | 2023-01-20 | 2023-04-30 |
 | [Stockholm Blues](https://open.spotify.com/track/4cja0xX2ICFGLTm9T9m5BU) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 3:36 | 2022-07-08 | 2022-07-27 |
 | [Summertime](https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0) | [Doc & Merle Watson](https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU) | [Elementary Doctor Watson](https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS) | 3:27 | 2022-05-25 |  |

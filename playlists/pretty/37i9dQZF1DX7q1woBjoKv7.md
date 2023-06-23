@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Stunnaman02
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,001 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,021 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 49 | [crush](https://open.spotify.com/track/4oNP3Gua9u7JlEfji2iKIX) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [crush](https://open.spotify.com/album/7CI0uh5CBjo39z84JxXf84) | 1:55 |
 | 50 | [Nina's Blues \- GC PRESENTS: Flower Wall \- Live](https://open.spotify.com/track/72zxDIKABBOjVYplMfz5Qx) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Harry Simmons](https://open.spotify.com/artist/2z4mM9WzAX7WJhhJjBB0Op) | [Nina's Blues \- GC PRESENTS: Flower Wall \(Live\)](https://open.spotify.com/album/59aACM9X0hu2IeDarl4FqE) | 3:39 |
 
-Snapshot ID: `MCwyYjBkYjFhZmViMjZhZDE2YjE0MWExYzI2OTZhNDUzN2YyMzAzM2Yx`
+Snapshot ID: `MCw3NThlMTNjOTliYzZmNDg5NDNhOTUwOTI3YTI3MTUyNjIyNGMzYWRh`

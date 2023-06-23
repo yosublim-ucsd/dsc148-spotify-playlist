@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -8844,7 +8844,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 190737,
       "name": "Iori 5",
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
@@ -9300,7 +9300,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "JRO7I",
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
@@ -18200,6 +18200,24 @@
       "duration_ms": 216063,
       "name": "Stigma",
       "url": "https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235139,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
     },
     {
       "album": {

@@ -4,14 +4,15 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-314 songs - 20 hr 3 min
+315 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1988 \- Original Mix](https://open.spotify.com/track/68YRdMv167zby0ceobW8em) | [Youandewan](https://open.spotify.com/artist/4z6FshDl8yeHQSpFWdgN32) | [Luca Ricci Presents: Aenaria Chill Wmc '09 @ Night](https://open.spotify.com/album/6bzOtmrMzoXqkPa2WKj6yC) | 10:32 | 2022-04-12 |  |
 | [1989 \(feat\. Ludwig Kölsch\)](https://open.spotify.com/track/6rrwmDaDa3n7hgQruR3dc1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Ludwig Kölsch](https://open.spotify.com/artist/067CLGy5KVqspnGEvIWTp8) | [1989](https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop) | 0:59 | 2022-04-12 |  |
 | [1998](https://open.spotify.com/track/0iHwnccPp214om2eGT5gzm) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2ytxqdwQ0Hn9JeQmcIWHuh) | 6:05 | 2022-04-12 | 2022-07-29 |
-| [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 | 2022-04-12 |  |
+| [1998](https://open.spotify.com/track/7JiCI5vmAgEjIZoMFn7jkU) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 6:05 | 2023-03-27 |  |
+| [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 | 2022-04-12 | 2023-06-23 |
 | [1am in nyc](https://open.spotify.com/track/0e53hMy1c4e7bLZh5iRsFi) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:24 | 2022-04-12 | 2022-10-13 |
 | [1am in nyc](https://open.spotify.com/track/2g9j3O0YzzeqXqliKaqFZD) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:24 | 2022-09-09 |  |
 | [1am in nyc](https://open.spotify.com/track/5BIwDSCZB1DVt7CJJn6UAa) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [1am in nyc](https://open.spotify.com/album/3wImABsinR6BGpjMt9XUGn) | 2:24 | 2022-04-12 | 2022-07-29 |

@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "A Minha Rua",
+        "url": "https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ"
+      },
+      "artists": [
+        {
+          "name": "Bokor",
+          "url": "https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "A Minha Rua",
+      "url": "https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1"
+    },
+    {
+      "album": {
         "name": "Acabar mal",
         "url": "https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv"
       },
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 178443,
       "name": "Crime Scene",
       "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 231428,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
@@ -2082,7 +2100,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 179635,
       "name": "Envelope",
       "url": "https://open.spotify.com/track/4HgGRC7eBY1RZmu9vP0yLL"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 193282,
       "name": "Estic\u00e3o",
       "url": "https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 208163,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 217714,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
@@ -3685,6 +3703,32 @@
     },
     {
       "album": {
+        "name": "Mexeu Contigo (Remix)",
+        "url": "https://open.spotify.com/album/5pharZhhyldorgOlMpdtdk"
+      },
+      "artists": [
+        {
+          "name": "Lorena Pollock",
+          "url": "https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh"
+        },
+        {
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
+        },
+        {
+          "name": "Dream Studio",
+          "url": "https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Mexeu Contigo (Remix)",
+      "url": "https://open.spotify.com/track/2ZFBSjOAw8qMW31p51mCX0"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL"
       },
@@ -4059,6 +4103,32 @@
     },
     {
       "album": {
+        "name": "Negritude",
+        "url": "https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE"
+      },
+      "artists": [
+        {
+          "name": "Euryy",
+          "url": "https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197627,
+      "name": "Negritude",
+      "url": "https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2"
+    },
+    {
+      "album": {
         "name": "Nha Love",
         "url": "https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T"
       },
@@ -4208,6 +4278,28 @@
       "duration_ms": 174166,
       "name": "Nu Ta Txiga La",
       "url": "https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM"
+    },
+    {
+      "album": {
+        "name": "Nunca Vou Deixar",
+        "url": "https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Nunca Vou Deixar",
+      "url": "https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD"
     },
     {
       "album": {
@@ -4456,7 +4548,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 147600,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A"
@@ -4576,6 +4668,24 @@
       "duration_ms": 132961,
       "name": "Paralyzed.",
       "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
+    },
+    {
+      "album": {
+        "name": "Parque",
+        "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
+      },
+      "artists": [
+        {
+          "name": "Mike Flowers",
+          "url": "https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Parque",
+      "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
     },
     {
       "album": {
@@ -4920,7 +5030,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
@@ -5656,7 +5766,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 214641,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI"
@@ -6166,7 +6276,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 204000,
       "name": "T\u00e1 Doce",
       "url": "https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq"

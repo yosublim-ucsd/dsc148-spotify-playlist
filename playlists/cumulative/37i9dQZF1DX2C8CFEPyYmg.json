@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 143438,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/531IcNc66ybRrMuy9VheOE"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 125124,
       "name": "Fja\u0308riln vingad syns pa\u030a Haga",
       "url": "https://open.spotify.com/track/5UKxbAGp8ErziOmmEekmjA"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 115508,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/41gbj1zPSDVpYTV7xhM1Ki"
@@ -4487,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Mother Goose",
+        "url": "https://open.spotify.com/album/4QuURgbIIO6T3F2xmGlG9d"
+      },
+      "artists": [
+        {
+          "name": "Divine Dana",
+          "url": "https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87087,
+      "name": "Mother Goose",
+      "url": "https://open.spotify.com/track/7k3F1tSxvWlsnV5R2yh4Z6"
+    },
+    {
+      "album": {
         "name": "Mother's Boy",
         "url": "https://open.spotify.com/album/1RhoX0Ng7tGrjLsAm7PP7B"
       },
@@ -5218,7 +5236,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 98591,
       "name": "Puff the magic dragon",
       "url": "https://open.spotify.com/track/5RhFrMvsZ3YbylfWXwj8l8"
@@ -5308,7 +5326,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 96712,
       "name": "Rain Rain Go Away",
       "url": "https://open.spotify.com/track/6nzTVUelsg5FgwYC8e4dQq"
@@ -7025,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "Tippie Tippie Turnip",
+        "url": "https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH"
+      },
+      "artists": [
+        {
+          "name": "Suavidad unida",
+          "url": "https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90254,
+      "name": "Tippie Tippie Turnip",
+      "url": "https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9"
+    },
+    {
+      "album": {
         "name": "Two Rosy Cheeks",
         "url": "https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU"
       },
@@ -7216,7 +7252,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 93750,
       "name": "Tryggare kan ingen vara",
       "url": "https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h"

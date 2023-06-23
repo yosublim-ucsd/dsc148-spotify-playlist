@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 281455,
+  "num_followers": 281484,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjY1MjQ1Mjc0YTFlODM0YWVmMWM3OWViYzg1MTkyODJiMDVhOGY1",
+  "snapshot_id": "MCw4NGI3ZTczM2RiOTcxZTY3MGY0YjJjNzY2OTYyNDg0NmFjODk0MGRk",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -757,24 +741,20 @@
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -807,6 +787,26 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -905,26 +905,6 @@
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
-      },
-      "artists": [
-        {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Candid",
@@ -959,6 +939,26 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+      },
+      "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Life And Life Only (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Sweater Weather (Acoustic)",
         "url": "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 150517,
       "name": "Sweater Weather (Acoustic)",
       "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
         "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 209000,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "slow dancing in a burning room (stripped)",
-        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
-      },
-      "artists": [
-        {
-          "name": "ST LUNA",
-          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "slow dancing in a burning room - stripped",
-      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 187333,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "slow dancing in a burning room (stripped)",
+        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
+      },
+      "artists": [
+        {
+          "name": "ST LUNA",
+          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "slow dancing in a burning room - stripped",
+      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
+      "duration_ms": 205220,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     }
   ],
   "unique_name": "Indie Covers",

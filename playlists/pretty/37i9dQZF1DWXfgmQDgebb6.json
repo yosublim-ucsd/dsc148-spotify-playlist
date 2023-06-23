@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: YongYong(\uc6a9\uc6a9))",
-  "num_followers": 10276,
+  "num_followers": 10300,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM4YmJiYzBiYWZmNzM0Njk4NGVhMjM2MzgyMzMwYmFkMGQzNzhl",
+  "snapshot_id": "MCw0Y2M3M2ZiYzFmZWFiODgzNDBhZTQxYTYxM2FmODFlOGEyY2MzOTBi",
   "tracks": [
     {
       "added_at": "2023-06-13 08:44:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "PSYCHO LOVE",
-        "url": "https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "PSYCHO LOVE",
-      "url": "https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
         "name": "Strawberry Kisses",
         "url": "https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 181921,
       "name": "Strawberry Kisses",
       "url": "https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "PSYCHO LOVE",
+        "url": "https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "PSYCHO LOVE",
+      "url": "https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -515,38 +515,6 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "Raw Gems Vol.1",
-        "url": "https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC"
-      },
-      "artists": [
-        {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
-        }
-      ],
-      "duration_ms": 116643,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "SPACE MULAN",
-      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
         "name": "~",
         "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
       },
@@ -567,22 +535,18 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+        "name": "Raw Gems Vol.1",
+        "url": "https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
         }
       ],
-      "duration_ms": 254507,
-      "name": "Year to Year",
-      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+      "duration_ms": 116643,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -603,6 +567,42 @@
       "duration_ms": 188149,
       "name": "yayou hoi",
       "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "SPACE MULAN",
+      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
+        "name": "Emotional Train",
+        "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Hate List (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6"
+    },
+    {
+      "added_at": "2023-06-13 08:44:38",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 257258,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz"
-    },
-    {
-      "added_at": "2023-06-13 08:44:38",
-      "album": {
-        "name": "Emotional Train",
-        "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
-      },
-      "artists": [
-        {
-          "name": "Choi Jungyoon",
-          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Hate List (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "lil",
-        "url": "https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b"
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
       },
       "artists": [
         {
-          "name": "SFC.JGR",
-          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 170749,
-      "name": "lil",
-      "url": "https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS"
+      "duration_ms": 188718,
+      "name": "CLIONE (feat. Sion)",
+      "url": "https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh"
     },
     {
       "added_at": "2023-06-13 08:44:38",
@@ -807,22 +811,18 @@
     {
       "added_at": "2023-06-13 08:44:38",
       "album": {
-        "name": "~",
-        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+        "name": "lil",
+        "url": "https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b"
       },
       "artists": [
         {
-          "name": "MILLIC",
-          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
         }
       ],
-      "duration_ms": 188718,
-      "name": "CLIONE (feat. Sion)",
-      "url": "https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh"
+      "duration_ms": 170749,
+      "name": "lil",
+      "url": "https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS"
     },
     {
       "added_at": "2023-06-13 08:44:38",

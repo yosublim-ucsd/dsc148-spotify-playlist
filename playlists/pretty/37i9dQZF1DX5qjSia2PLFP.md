@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM?si=eENozeDUSaypJbFm0KOf1Q">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,595 likes - 82 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,604 likes - 82 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 81 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 82 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCw0ZTE1Y2EwNTg1NTdiZGY3YTY0ZTY0NzJkNTFiOWExYzA2MDA4NDZi`
+Snapshot ID: `MCxmZTQ1Mjc3MWIwMzUyNWZlOTgxMTY1OGEyOWY3NWU3YTVjNjU5MTY4`

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 108715,
+  "num_followers": 108835,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjExMDJlOGQ5MGFiZTJmNmIyNTc3MTMzM2M4OTNkOWEzM2ZmOGUy",
+  "snapshot_id": "MCw3ZDQzMDU4MjY2M2MzZTdkOWQxZTczMGVkZDVjN2JlOTVjM2IyM2Zm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 A\u00f1os Baladas \u00c9xitos",
-        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/12Z6WbrPi4RM6lF5ssEvVU"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 324573,
       "name": "Voy a Llenarte Toda",
       "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 A\u00f1os Baladas \u00c9xitos",
+        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/12Z6WbrPi4RM6lF5ssEvVU"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Jose Jose 25 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 243093,
       "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
       "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Jose Jose 25 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Que Sea Mi Condena",
-      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "15 Exitos De Oro",
         "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 213893,
       "name": "Lo Que No Fue No Ser\u00e1",
       "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Que Sea Mi Condena",
+      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Te Llegar\u00e1 Mi Olvido",
         "url": "https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 136360,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
-        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "Costumbres - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
-      "url": "https://open.spotify.com/track/2F7podTOpnJDZxU9KMZK9a"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 179000,
       "name": "Una Ma\u00f1ana (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
+        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "Costumbres - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
+      "url": "https://open.spotify.com/track/2F7podTOpnJDZxU9KMZK9a"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 A\u00f1os De Exitos Rancheros",
-        "url": "https://open.spotify.com/album/2Zygg5L4t4WscA9yL5OaQ0"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "L\u00e1grimas y Lluvia",
-      "url": "https://open.spotify.com/track/0r4wiv5M6vtqkcUiXWIYpU"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Musica Original De La Pelicula Gavilan O Paloma",
         "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 246893,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 A\u00f1os De Exitos Rancheros",
+        "url": "https://open.spotify.com/album/2Zygg5L4t4WscA9yL5OaQ0"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "L\u00e1grimas y Lluvia",
+      "url": "https://open.spotify.com/track/0r4wiv5M6vtqkcUiXWIYpU"
     },
     {
       "added_at": "2021-12-29 23:33:57",

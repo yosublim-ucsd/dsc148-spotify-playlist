@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 531571,
+  "num_followers": 531658,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGIzOWQ4MjNiN2I2ZjhkMDFmMDA0ZDRlMjljMWFhZjkzOTJkYjli",
+  "snapshot_id": "MCw4ZDcyY2NlMWZhN2RhODk3NjViM2RmNDlmNzdmYzk0NzQzZjAxM2Ez",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Sundressed & Nominee",
         "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 151631,
       "name": "Strange Love",
       "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Crisis Of Faith",
-        "url": "https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "Reckless Paradise",
-      "url": "https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "One Foot out the Door",
-        "url": "https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT"
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
       "artists": [
         {
-          "name": "SecondShot",
-          "url": "https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9"
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
         }
       ],
-      "duration_ms": 193560,
-      "name": "I Just Died in Your Arms",
-      "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     }
   ],
   "unique_name": "Punk Rock Workout",

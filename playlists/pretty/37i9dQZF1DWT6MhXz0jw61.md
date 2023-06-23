@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,142 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,703 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [ART OF SEDUCTION](https://open.spotify.com/track/40OcWS4cakpvJ4ZYfwHWSP) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:23 |
 | 100 | [Lost and Found](https://open.spotify.com/track/0H6VN4bvzy7mJ4Jx5T90vO) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 2:37 |
 
-Snapshot ID: `MCw2MGI0N2M1ZmZkMDBjYjQ5YjI5YzMxMzdiMjRhMzY2ZDE0Njk2NzM2`
+Snapshot ID: `MCxmMzdhNmE5MzYyODk2MWI1N2M4NGQ2YTBlZjY1YzYyNjc1YWZmNTE4`

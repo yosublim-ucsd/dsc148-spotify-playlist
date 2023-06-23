@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "Thapelo Yaka",
+        "url": "https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg"
+      },
+      "artists": [
+        {
+          "name": "Lejwe La Motheo Artists Development",
+          "url": "https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288902,
+      "name": "Ba Buwa Ka Wena",
+      "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
+    },
+    {
+      "album": {
         "name": "Bonk'abantu",
         "url": "https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui"
       },
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Could've Been Worse",
+        "url": "https://open.spotify.com/album/0C5tLT12nuIGtusVqIuIO0"
+      },
+      "artists": [
+        {
+          "name": "Shae'\\dy",
+          "url": "https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160747,
+      "name": "Could've Been Worse",
+      "url": "https://open.spotify.com/track/03BDnOYsdzivNPqIuBQMGh"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
         "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
       },
@@ -276,6 +312,24 @@
       "duration_ms": 173661,
       "name": "Dit Is Genade",
       "url": "https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx"
+    },
+    {
+      "album": {
+        "name": "Healing in His Presence",
+        "url": "https://open.spotify.com/album/0rgq2R2s3q3OPodw81TLol"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "Elshadai Adonaih",
+      "url": "https://open.spotify.com/track/4U2C51nMyJ5OvWIoX2RxuY"
     },
     {
       "album": {
@@ -352,7 +406,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 236779,
       "name": "Glad",
       "url": "https://open.spotify.com/track/5A0oGUmevPWPolAKjKgQFn"
@@ -370,7 +424,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 234453,
       "name": "Glory To God",
       "url": "https://open.spotify.com/track/2dlxT3RyasoHdc8i2IJUMv"
@@ -418,7 +472,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 412000,
       "name": "God Has Been Good",
       "url": "https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf"
@@ -454,7 +508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 227340,
       "name": "Gonna Be Alright - Radio Version",
       "url": "https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS"
@@ -578,6 +632,24 @@
       "duration_ms": 327386,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6CkaTdwbpVVeC6XHbhuzcF"
+    },
+    {
+      "album": {
+        "name": "He Can Handle",
+        "url": "https://open.spotify.com/album/5arNSE4tmtnYwKo8sKWzl1"
+      },
+      "artists": [
+        {
+          "name": "Panda Frost",
+          "url": "https://open.spotify.com/artist/0Shz7rqF6jTHHbIw78A9AI"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171270,
+      "name": "He Can Handle",
+      "url": "https://open.spotify.com/track/6P1nyNE7zBqyHA647dBDzH"
     },
     {
       "album": {
@@ -730,7 +802,7 @@
       ],
       "date_added": "2019-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 258892,
       "name": "In the Room (Edit)",
       "url": "https://open.spotify.com/track/6l0BLKt7DuLVdWcjwPFRC6"
@@ -770,6 +842,24 @@
       "duration_ms": 337943,
       "name": "It All Comes Down To Love",
       "url": "https://open.spotify.com/track/3jM9n1hUTESkuxEmLt9nAq"
+    },
+    {
+      "album": {
+        "name": "Live and up Close",
+        "url": "https://open.spotify.com/album/5rmJYUe9hsG3ToRghY02UA"
+      },
+      "artists": [
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337986,
+      "name": "It All Comes Down To Love",
+      "url": "https://open.spotify.com/track/1vBgAHDbKBkhMUYkBiCY1f"
     },
     {
       "album": {
@@ -1007,6 +1097,46 @@
     },
     {
       "album": {
+        "name": "Spirit of Praise, Vol. 7 (Live)",
+        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278886,
+      "name": "Make a Way - Live",
+      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
+    },
+    {
+      "album": {
+        "name": "New Dawn (Live)",
+        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
+      },
+      "artists": [
+        {
+          "name": "Kgotso",
+          "url": "https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246252,
+      "name": "Messiah - Live",
+      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
+    },
+    {
+      "album": {
         "name": "Mhlaba Wethu (Interlude)",
         "url": "https://open.spotify.com/album/0FxYNL8uDLAmctMsoGvuv1"
       },
@@ -1105,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646407,
+      "name": "Nang'Mthokozisi (Live)",
+      "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
+    },
+    {
+      "album": {
         "name": "Gospel",
         "url": "https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv"
       },
@@ -1116,7 +1268,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 250760,
       "name": "Nearer My God to Thee",
       "url": "https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3"
@@ -1134,7 +1286,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 221960,
       "name": "Net Een Naam",
       "url": "https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly"
@@ -1196,6 +1348,24 @@
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
+    },
+    {
+      "album": {
+        "name": "Nkosi Yethu Simakade",
+        "url": "https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471040,
+      "name": "Nkosi Yethu Simakade",
+      "url": "https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614"
     },
     {
       "album": {
@@ -1378,7 +1548,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 164179,
       "name": "Protect Me - Remix",
       "url": "https://open.spotify.com/track/20th9lVZbXyTiTDbZiSUFg"
@@ -1458,7 +1628,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 262626,
       "name": "Set Our Hearts On You",
       "url": "https://open.spotify.com/track/0p9ZAOl4zccCzLuG8Zu5Kq"
@@ -1484,6 +1654,24 @@
       "duration_ms": 230238,
       "name": "Settle for Less (Live)",
       "url": "https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
+      },
+      "artists": [
+        {
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282440,
+      "name": "Sewakhile",
+      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
     },
     {
       "album": {
@@ -1636,7 +1824,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 209986,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
@@ -1822,10 +2010,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 173753,
       "name": "Umona",
       "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
+    },
+    {
+      "album": {
+        "name": "Wasithethelela (Live)",
+        "url": "https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu"
+      },
+      "artists": [
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        },
+        {
+          "name": "Sound Of Goshen",
+          "url": "https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571053,
+      "name": "Wasithethelela (Live)",
+      "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
     },
     {
       "album": {
@@ -1967,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "New Sounds of Glory",
+        "url": "https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Matse",
+          "url": "https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "What A Faithful God",
+      "url": "https://open.spotify.com/track/0k28KRt7ZoMR7lAo3QYAqR"
+    },
+    {
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -2037,6 +2265,32 @@
     },
     {
       "album": {
+        "name": "Spirit of Praise, Vol. 5 (Live)",
+        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Tshepiso",
+          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406600,
+      "name": "Xa Ndiyekelelwa (Live)",
+      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
+    },
+    {
+      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -2048,7 +2302,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
@@ -2226,7 +2480,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 274244,
       "name": "Zilungiselen'",
       "url": "https://open.spotify.com/track/3mmfdTiC29CbKmoOnsxvER"

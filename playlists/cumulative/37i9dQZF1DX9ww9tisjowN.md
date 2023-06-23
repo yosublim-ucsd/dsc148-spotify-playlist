@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: YOASOBI
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ZUTOMAYO \(ずっと真夜中でいいのに。\)
 
-104 songs - 6 hr 3 min
+106 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,11 @@
 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 | 2023-05-30 |  |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2023-05-09 | 2023-06-14 |
 | [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 | 2023-05-09 | 2023-05-17 |
-| [Galnia](https://open.spotify.com/track/3eM90CEzFz0LqRoQI6IVMr) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Galnia](https://open.spotify.com/album/6WHM2nvsIWkeW7tMnsPoPw) | 5:07 | 2023-06-08 |  |
+| [Galnia](https://open.spotify.com/track/3eM90CEzFz0LqRoQI6IVMr) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Galnia](https://open.spotify.com/album/6WHM2nvsIWkeW7tMnsPoPw) | 5:07 | 2023-06-08 | 2023-06-23 |
 | [Girlfriend](https://open.spotify.com/track/3ysqNFNj4Qhyu8cwKD7pV0) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Girlfriend](https://open.spotify.com/album/4cY8JBsitqaJxGjIIu7eVQ) | 2:27 | 2023-05-09 | 2023-06-09 |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-05-16 | 2023-05-18 |
 | [GOLD](https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 3:39 | 2023-05-16 | 2023-05-31 |
-| [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 |  |
+| [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-06-23 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2023-05-09 |  |
 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 | 2023-05-09 |  |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2023-05-09 |  |
@@ -92,6 +92,7 @@
 | [わたし、フィクション](https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [光みたいにすすみたい](https://open.spotify.com/album/4cOihG8VXY5yZ9j48okN5q) | 3:02 | 2023-05-09 | 2023-06-09 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-05-09 |  |
 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 | 2023-05-09 |  |
+| [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-22 |  |
 | [ダーリン](https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 2:28 | 2023-06-08 |  |
 | [ポリゴンウェイヴ \- Original Mix](https://open.spotify.com/track/6HPIILGgNy0a4zGnMdmBgv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ポリゴンウェイヴ EP](https://open.spotify.com/album/2LuuZaVVX5Bp7eX3PIV6B7) | 4:33 | 2023-05-09 |  |
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-05-25 |  |
@@ -103,6 +104,7 @@
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-05-09 |  |
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-06-01 |  |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 |  |
+| [残機](https://open.spotify.com/track/2fJbss5uUmmBqn7qFkmyWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 3:50 | 2023-06-22 |  |
 | [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-05-09 |  |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2023-05-09 | 2023-06-09 |

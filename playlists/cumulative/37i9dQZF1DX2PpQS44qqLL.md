@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-420 songs - 1 day 3 hr 55 min
+421 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Ese Hombre](https://open.spotify.com/track/35kdPvpOeQXH3AD7Yo6vy1) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:10 | 2021-12-21 | 2022-07-29 |
 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 | 2021-12-21 | 2022-11-13 |
 | [Espejos Azules](https://open.spotify.com/track/1nJRvj8Swc438vHd4M2MpW) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Espejos Azules](https://open.spotify.com/album/4vguKAEOyMmlzz31GIQZef) | 2:52 | 2021-12-21 | 2022-07-28 |
+| [Espejos Azules](https://open.spotify.com/track/2ppHbhZtFJ9rlSmzIHQKt8) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Espejos Azules](https://open.spotify.com/album/4t6m62wnLZqs5bSqoMTMxR) | 2:52 | 2021-12-21 |  |
 | [Esta noche es mia](https://open.spotify.com/track/4G7iXmjaB1RuypvG0UsqyQ) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [El rey de los idolos vallenatos](https://open.spotify.com/album/6c3sKCTdhq7uKlMYrZ9K88) | 4:11 | 2021-12-21 | 2023-02-04 |
 | [Este Amor No Se Toca](https://open.spotify.com/track/4HsAHl6Vn3zen9qtMh22ez) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Maldita Primavera](https://open.spotify.com/album/5HgM6OJB4LUUs3pQubtmeu) | 4:01 | 2021-12-21 | 2022-06-18 |
 | [Este hombre no se toca](https://open.spotify.com/track/2kOvo9TkOMlasJ8ZoU89Pz) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/2cUyK6GaXJd9NGVNjQ3sqa) | 3:56 | 2021-12-21 | 2022-07-25 |
@@ -164,7 +165,7 @@
 | [Hasta Que Amanezca](https://open.spotify.com/track/67mC1sqidIwycByzWmT96o) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:00 | 2021-12-21 |  |
 | [Hasta Que Amanezca](https://open.spotify.com/track/6KZc7M03sbQHO1TVvOpHfn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antologia el Poeta del Pueblo Sus Primeros Exitos](https://open.spotify.com/album/3rZUfQkgyTPaJzFK1lbKxq) | 3:00 | 2021-12-21 | 2022-07-29 |
 | [Hay Millones Mejor Que Tú](https://open.spotify.com/track/1zglc9ER2eqm2nOL0jZ6sr) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucerito](https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I) | 3:10 | 2021-12-21 | 2022-07-20 |
-| [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 | 2021-12-21 |  |
+| [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 | 2021-12-21 | 2023-06-23 |
 | [He Venido a Pedirte Perdón \- Remasterizado 2012](https://open.spotify.com/track/58HCxOIln8pJ06Atf1F5pz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 5:01 | 2021-12-21 | 2022-07-26 |
 | [Herida \- Remastered 2004](https://open.spotify.com/track/4Mea588bA2OzvbCKIqcemt) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Serie Verde\- Myrian Hernandez](https://open.spotify.com/album/1T6m2wsmFrcL6j9ElQuOG2) | 4:01 | 2021-12-21 | 2022-07-29 |
 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 | 2021-12-21 |  |

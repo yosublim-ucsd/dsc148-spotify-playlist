@@ -4,7 +4,7 @@
 
 > Takeover by Defqon.1! Get ready for the festival!
 
-439 songs - 1 day 0 hr 3 min
+440 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Broken Halo](https://open.spotify.com/track/5sLngIxGJ5QFnYDnDzCYnT) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Broken Halo \(feat\. Nino Lucarelli\)](https://open.spotify.com/album/3PP07ls7AuqWr3aIJKjtmv) | 5:15 | 2022-12-08 | 2023-02-24 |
 | [Brothers by Blade](https://open.spotify.com/track/5tNPQ5KQPdE5ZJFOKK3ojR) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Brothers by Blade](https://open.spotify.com/album/1aIB9ydxgzx6NuBZi9GHLS) | 3:48 | 2022-12-08 | 2022-12-24 |
 | [Brothers In Crime](https://open.spotify.com/track/7lsGVMgnHW4FFy8fsQd87d) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH), [MC Synergy](https://open.spotify.com/artist/1FLdd3d0lSuFCmD2RSC2pH) | [Brothers In Crime](https://open.spotify.com/album/0EwxpHfRUzuyhis7HK2pXj) | 3:51 | 2023-06-18 |  |
+| [Brutal X](https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal X](https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq) | 4:28 | 2023-06-22 |  |
 | [Burn It Down](https://open.spotify.com/track/7Bh0sxD0BTkq0PtexKICB3) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Burn It Down](https://open.spotify.com/album/6vRb3xiVIvUN7VunCfQ3aQ) | 2:51 | 2023-01-12 | 2023-04-07 |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2022-12-08 | 2023-02-10 |
 | [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-01-12 | 2023-04-21 |
@@ -267,7 +268,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5jFahLzsbxvHJVgjktiDbY) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/2336S58pdv6vJP8WVjtFSG) | 2:41 | 2023-03-23 | 2023-05-12 |
 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 | 2023-05-25 | 2023-06-02 |
 | [OH SHIT](https://open.spotify.com/track/2SwZwthOSKcdsqBn2mfsur) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [OH SHIT](https://open.spotify.com/album/7gVEdgzeVxx3KGKxUC1sqm) | 2:47 | 2023-05-04 | 2023-05-12 |
-| [Olympus](https://open.spotify.com/track/4ITTSSQ5RTqLqF9ldhpQul) | [Undefiant](https://open.spotify.com/artist/0HHZoGGxhwl5My16mWggVP) | [Olympus](https://open.spotify.com/album/57I5rsbCdmmGcWctOImwNW) | 3:25 | 2023-06-18 |  |
+| [Olympus](https://open.spotify.com/track/4ITTSSQ5RTqLqF9ldhpQul) | [Undefiant](https://open.spotify.com/artist/0HHZoGGxhwl5My16mWggVP) | [Olympus](https://open.spotify.com/album/57I5rsbCdmmGcWctOImwNW) | 3:25 | 2023-06-18 | 2023-06-23 |
 | [On Fire](https://open.spotify.com/track/6KTEkElC6L57LWsG6i14B5) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Sedutchion](https://open.spotify.com/artist/3wXY3DwFG8BCDOHsAZrprD) | [On Fire](https://open.spotify.com/album/68zJzjpFXZmG0iz7QC46Pu) | 2:42 | 2022-12-08 | 2023-01-27 |
 | [on my mind](https://open.spotify.com/track/59QfpSzTdD8qlMDxSFvfga) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [on my mind](https://open.spotify.com/album/1vDdsadzhGtdQpJ350grEP) | 4:22 | 2022-12-08 | 2023-01-13 |
 | [One \- Edit](https://open.spotify.com/track/06PBVcGpQxaVhjQJ0OZXbi) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [One](https://open.spotify.com/album/4KnR7qoMm7rbKim6PkmsHC) | 3:05 | 2023-06-18 |  |

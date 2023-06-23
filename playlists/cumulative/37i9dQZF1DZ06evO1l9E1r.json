@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/7CKQqNXkS280sMhwLNl4Qm"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 181680,
       "name": "Rennur Upp",
       "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
@@ -1534,6 +1534,28 @@
       "duration_ms": 103283,
       "name": "Your Own Son",
       "url": "https://open.spotify.com/track/1WB6yIwkRXqZ6og4WzoJtE"
+    },
+    {
+      "album": {
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103283,
+      "name": "Your Own Son",
+      "url": "https://open.spotify.com/track/75AhOeR8xWBSeKLsgLGuRa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l9E1r"

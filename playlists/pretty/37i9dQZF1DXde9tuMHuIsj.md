@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,012 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,015 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 41 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
 | 42 | [QSY](https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:39 |
 | 43 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
-| 44 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 |
-| 45 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
+| 44 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
+| 45 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 |
 | 46 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 |
 | 47 | [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe) | 3:59 |
 | 48 | [Invicta](https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Invicta](https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH) | 4:00 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 73 | [Un Cuarto](https://open.spotify.com/track/3TRD0e7pUswSES6Ptua3WS) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Un Cuarto](https://open.spotify.com/album/1FFuDe1T15U91jWt1jsWSO) | 3:08 |
 | 74 | [X Ley \(feat\. Dei V\) \- Remix](https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [X Ley \(feat\. Dei V\) \[Remix\]](https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt) | 5:01 |
 | 75 | [Big Booty, Pretty Face](https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Big Booty, Pretty Face](https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl) | 3:47 |
-| 76 | [Billetes de 100](https://open.spotify.com/track/1yBg48PZwiER3mXSRJFEhe) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 2:57 |
-| 77 | [Demonios](https://open.spotify.com/track/5iIYO6gCVZOAdne3pYbooN) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Demonios](https://open.spotify.com/album/58HrGj3dXT14WOWWBAtcnm) | 2:22 |
+| 76 | [Demonios](https://open.spotify.com/track/5iIYO6gCVZOAdne3pYbooN) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Demonios](https://open.spotify.com/album/58HrGj3dXT14WOWWBAtcnm) | 2:22 |
+| 77 | [Billetes de 100](https://open.spotify.com/track/1yBg48PZwiER3mXSRJFEhe) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 2:57 |
 | 78 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
 | 79 | [El Fucking MVP](https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [El Fucking MVP](https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4) | 3:00 |
 | 80 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Loyalty Over Royalty \(Deluxe\)](https://open.spotify.com/album/3GFdE9ysfem0LtpevBXD0B) | 3:33 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 102 | [Par de Tenis](https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:01 |
 | 103 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 |
 
-Snapshot ID: `MCwxZjhmODBkYmRhODdmNmM4NTYxMDQyOTIxZWVhMTM0NmZmZGY3YjJj`
+Snapshot ID: `MCwzMjkyNzBlZjlmZDRiNDFiYWY1MGVkZTY2MDAzZmI3NDg2YmJkNDNl`

@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Speakers Corner Quartet
+> The best from Britain's vibrant scene\. Cover: Reuben James
 
-436 songs - 1 day 7 hr 27 min
+437 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 | 2023-06-01 | 2023-06-09 |
 | [PJFC](https://open.spotify.com/track/5WJFkmVH7DzzcSFl7l4xhH) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [PJFC](https://open.spotify.com/album/0eTuZF5sklHArepTZQkZdc) | 5:02 | 2021-12-17 | 2022-01-11 |
 | [Pluo](https://open.spotify.com/track/5E6LCQkcEuJW709HAyOUMn) | [Thallo](https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB) | [Pluo](https://open.spotify.com/album/68wWpQKiRDp2EtS6hbAPl4) | 2:57 | 2023-03-08 | 2023-03-09 |
+| [Portals](https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR) | 2:41 | 2023-06-22 |  |
 | [Powerful Lady](https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [Powerful Lady](https://open.spotify.com/album/5ij9621I1TcRmDvA89336G) | 4:20 | 2023-03-08 | 2023-03-09 |
 | [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 | 2022-11-13 |
 | [Prelude \(Jazz Drill\)](https://open.spotify.com/track/3fbbGDvD3tYaLJAELgLDCZ) | [Xvngo](https://open.spotify.com/artist/5NfAu0hQTsfoDiQajHsply), [Master Mac](https://open.spotify.com/artist/6FPkCzHPEN4Qr7AoAfoSNz) | [Prelude \(Jazz Drill\)](https://open.spotify.com/album/03VVPmXpdYnE0rWKOf2Ozy) | 3:39 | 2021-12-17 | 2022-04-20 |
@@ -351,7 +352,7 @@
 | [Still Connected](https://open.spotify.com/track/1NkqAtsFh8Kg3qWdoNrAwa) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD) | [Still Connected](https://open.spotify.com/album/2Pmt152kyA80qYUC9VYXvn) | 6:13 | 2022-05-19 | 2022-07-20 |
 | [Strong Enough](https://open.spotify.com/track/69S43cnKReeZSZLyg5hvDd) | [Jude the Obscure](https://open.spotify.com/artist/4S2TskYEqBIYO7zLXHOj2R) | [Strong Enough](https://open.spotify.com/album/3JfYXp5wutjZypKi0tUWll) | 4:08 | 2022-03-31 | 2022-04-20 |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-05-19 | 2022-07-29 |
-| [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-07-28 |  |
+| [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-07-28 | 2023-06-23 |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-12 |  |
 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 | 2023-01-27 | 2023-05-06 |
 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 | 2021-12-17 | 2023-02-03 |

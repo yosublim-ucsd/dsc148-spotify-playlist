@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=gfvliNlBRoWybM7hUyBJVw">Nomfundo Moh</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw">Inkabi Sizwe</a>.
 
-154 songs - 12 hr 19 min
+155 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-02-02 |  |
 | [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 | 2023-04-07 |  |
 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 | 2023-01-30 |  |
-| [Nguye Lo](https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Ngivunywe Usathane](https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN) | 4:11 | 2023-01-30 |  |
+| [Nguye Lo](https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Ngivunywe Usathane](https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN) | 4:11 | 2023-01-30 | 2023-06-23 |
 | [Njalo](https://open.spotify.com/track/7HKU5vab9h0HpPtYbRUS4X) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Ziyangiluma Izinja](https://open.spotify.com/album/1NEqGFT5ZfRJc5TwGffesn) | 4:17 | 2020-08-28 | 2023-03-10 |
 | [Nqola Yompilo](https://open.spotify.com/track/4EjSqywjAT6wszkZxXnPyj) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:47 | 2019-06-24 | 2023-02-01 |
 | [Onke Lamadoda](https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 | 2018-09-25 | 2023-03-10 |
@@ -121,6 +121,7 @@
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 |  |
 | [Sakhala Kamnandi](https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ) | [Umgqumeni](https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB) | [I Magic](https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN) | 4:19 | 2019-05-13 | 2023-06-16 |
 | [Sanibonani](https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Phendula](https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2) | 4:21 | 2023-01-30 | 2023-06-16 |
+| [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 | 2023-06-22 |  |
 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 | 2023-01-30 |  |
 | [Shintsh' Umshovo](https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9) | [Amageza Amahle](https://open.spotify.com/artist/3aQFd89lMBxu1RRBIrxPdv) | [Sishaya Kwasani](https://open.spotify.com/album/6obk82RMxEzugUBJJTRbhH) | 7:16 | 2019-06-11 | 2023-02-01 |
 | [Sigubha umtswarelo](https://open.spotify.com/track/0ISd317cewsI9VNU1GIaAv) | [Omaganga](https://open.spotify.com/artist/4pQoIvQXOr2HRQdOgwoJya) | [Sigubha umtswarelo](https://open.spotify.com/album/28Xfemnw5d0mRMuJShtvK1) | 6:19 | 2023-06-15 |  |

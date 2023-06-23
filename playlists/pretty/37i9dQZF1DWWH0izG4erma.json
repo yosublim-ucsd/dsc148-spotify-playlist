@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Pecos & the Rooftops",
-  "num_followers": 536594,
+  "num_followers": 536614,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGJlZWMyYTYwYWMyYTdlNzI5YzVmYmEyNTRmYzU0NTA2MDkzODVh",
+  "snapshot_id": "MCw4ZDQ4NDA1YTdlYzEwYjdiM2Y5YjAwMjFkYTJkNjE1NTk1OTRkMzE3",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Poets & Old Souls",
         "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 188482,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "South of Somewhere",
         "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Kinda Bar",
-        "url": "https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj"
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Kinda Bar",
-      "url": "https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo"
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 169813,
       "name": "There's Always Next Year",
       "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Kinda Bar",
+        "url": "https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Kinda Bar",
+      "url": "https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo"
     },
     {
       "added_at": "2023-06-16 04:00:00",

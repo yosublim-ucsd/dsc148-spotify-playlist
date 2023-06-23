@@ -1,15 +1,79 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Oliver Heldens",
-  "num_followers": 121240,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  KSHMR",
+  "num_followers": 121263,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjU2Nyw2M2RlNGRlNmMwMzBiMWM3ZTU0MDgxMzdhZDRkZTYyYzBlNzkxNGM4",
+  "snapshot_id": "NjU3MiwwYjA2ZWE3OTg4Nzc3MDNhOWFlMDY0ZjIyNjYyMDc5NGUzODc0MDY2",
   "tracks": [
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 216497,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "John Wick",
+        "url": "https://open.spotify.com/album/4xKh4YdPtAY6v5LImK5Bk1"
+      },
+      "artists": [
+        {
+          "name": "Ganger Baster",
+          "url": "https://open.spotify.com/artist/3oHuZSLugaHhIBgFN8GNWl"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "John Wick",
+      "url": "https://open.spotify.com/track/3OvP7mNTZpwzO6AiKHh3AQ"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Sound of Vondel",
         "url": "https://open.spotify.com/album/06lNrvNMoitW60zkzXPWPy"
@@ -25,7 +89,47 @@
       "url": "https://open.spotify.com/track/68JkVLJ3KC2sGvWe4cud1G"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Play The Beat",
+        "url": "https://open.spotify.com/album/1ZwrvRwgSdICrpGbcogvKc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sid",
+          "url": "https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu"
+        },
+        {
+          "name": "Monroe",
+          "url": "https://open.spotify.com/artist/070pjBhWWo9AT3KtkebV8c"
+        }
+      ],
+      "duration_ms": 124761,
+      "name": "Play The Beat",
+      "url": "https://open.spotify.com/track/02lNJz6huBFo6QrW9xXOmn"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Feeling (feat. Sonny Wilson)",
+        "url": "https://open.spotify.com/album/3ehH5DacmCLkYV9bdwYLLj"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Feeling (feat. Sonny Wilson)",
+      "url": "https://open.spotify.com/track/5TqSsKWidtjwjUgjbRwd9k"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
         "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
@@ -41,7 +145,23 @@
       "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Feel The Melody",
+        "url": "https://open.spotify.com/album/7hogMluuOpp0wZ3q2AXgDx"
+      },
+      "artists": [
+        {
+          "name": "Marvel Riot",
+          "url": "https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Feel The Melody",
+      "url": "https://open.spotify.com/track/0h3KozKnVu57iciuH3yz9x"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "ALARMA!",
         "url": "https://open.spotify.com/album/1Bn6cmrDtGRN2Tq6hhnkvF"
@@ -61,39 +181,183 @@
       "url": "https://open.spotify.com/track/1ZlSYhbijS0P7FpBJqaZRg"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
-        "name": "On A Roll",
-        "url": "https://open.spotify.com/album/1KCHakwZNrc0nRf4wMqJrc"
+        "name": "No Puede",
+        "url": "https://open.spotify.com/album/1796hFgfRWBsq8OCq4gU79"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "USAI",
+          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
         }
       ],
-      "duration_ms": 184218,
-      "name": "On A Roll",
-      "url": "https://open.spotify.com/track/3I3mFTXSkm1epZjxMux2R9"
+      "duration_ms": 158095,
+      "name": "No Puede",
+      "url": "https://open.spotify.com/track/4u8yZq5wDVLBefowfmgIoo"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
-        "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz",
-        "url": "https://open.spotify.com/album/5Lr5BH4c3ilG5JJ562zsRW"
+        "name": "Bottle of Bubbly",
+        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
       },
       "artists": [
         {
-          "name": "Vessbroz",
-          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz",
-      "url": "https://open.spotify.com/track/6C8xhn5SiPe7kDBM3rjawX"
+      "duration_ms": 143984,
+      "name": "Bottle of Bubbly",
+      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "1999 (Hass Remix)",
+        "url": "https://open.spotify.com/album/2av0COPh6r5zhzsFh1RNwR"
+      },
+      "artists": [
+        {
+          "name": "Adam Shaw",
+          "url": "https://open.spotify.com/artist/2ziMVipAZakfXL6Gv42d1b"
+        },
+        {
+          "name": "Hass",
+          "url": "https://open.spotify.com/artist/0xggQ7DwSHN5LNXTx1Ri9A"
+        }
+      ],
+      "duration_ms": 249460,
+      "name": "1999 (Hass Remix)",
+      "url": "https://open.spotify.com/track/4voTPLVUARrCitGk3mAYfC"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Burning Love",
+        "url": "https://open.spotify.com/album/720u2vp4YBJ5dal8ISbBJe"
+      },
+      "artists": [
+        {
+          "name": "Siks",
+          "url": "https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY"
+        }
+      ],
+      "duration_ms": 160952,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/4xA73KsvZqbN5utzRQRK3E"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "SLS (feat. Alex Price)",
+        "url": "https://open.spotify.com/album/2CbFv2dQOFra4nV6V2uTQI"
+      },
+      "artists": [
+        {
+          "name": "Doozie",
+          "url": "https://open.spotify.com/artist/094tZMLXkYiIpf6u2XAaX1"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Alex Price",
+          "url": "https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "SLS (feat. Alex Price)",
+      "url": "https://open.spotify.com/track/1wHd984Gz1MVNiBPRdutud"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/2gHDzVmxfudGDotNTVQewJ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "GISHIN",
+          "url": "https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l"
+        },
+        {
+          "name": "The Way",
+          "url": "https://open.spotify.com/artist/5rEB1vtWdLyP6nCr5obZk6"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/5qLvaafjUuEm35jMsDfAx2"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Living On Video (feat. DTale) [Festival Mix]",
+        "url": "https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "DTale",
+          "url": "https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Living On Video (feat. DTale) [Festival Mix]",
+      "url": "https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Kupalele",
+        "url": "https://open.spotify.com/album/3i4exGNWEl6vXaDfR281ae"
+      },
+      "artists": [
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Kupalele",
+      "url": "https://open.spotify.com/track/3VzOzoNoNKo9Dx7c7IllVR"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Relations",
+      "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "DIAMONDS (HOLY PHONK)",
         "url": "https://open.spotify.com/album/17Lck2oetoz0iCWRITODI9"
@@ -109,7 +373,23 @@
       "url": "https://open.spotify.com/track/1uwRAOoiPoasn5Mui1W7Nx"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
+      "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1KCHakwZNrc0nRf4wMqJrc"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "On A Roll",
+      "url": "https://open.spotify.com/track/3I3mFTXSkm1epZjxMux2R9"
+    },
+    {
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0iC1V2B07Zh0kYcfMt4kOL"
@@ -133,23 +413,7 @@
       "url": "https://open.spotify.com/track/3PkLAvSv3nznZe8ElHr6I8"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Party Schedule",
-        "url": "https://open.spotify.com/album/48bSJq72U6fOdtVGuhcHUZ"
-      },
-      "artists": [
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Party Schedule",
-      "url": "https://open.spotify.com/track/5qanaqRzPEoioP5LMdCAba"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/6Eufb8QzCMrBaiBfzKToKr"
@@ -169,7 +433,7 @@
       "url": "https://open.spotify.com/track/4i4b4qJZbv4XBcI1vzs7Mj"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Rules Of Love",
         "url": "https://open.spotify.com/album/3qEjZx7j0AXDVZC7Ce2cgm"
@@ -189,7 +453,7 @@
       "url": "https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/7JjwvCm8V9tk8WQQs76uzs"
@@ -209,7 +473,7 @@
       "url": "https://open.spotify.com/track/2t3BPeHvHRz6T0EEFfkJ9l"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Sweet Dreams (feat. Kaleena Zanders) [Lizzy Wang Remix]",
         "url": "https://open.spotify.com/album/2MBHCUStbUTCewJk4xJeM7"
@@ -237,7 +501,7 @@
       "url": "https://open.spotify.com/track/5hXNjRvqHo9nvudw593yJa"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/3AvXorP23SWjcLinU9FXVo"
@@ -253,7 +517,7 @@
       "url": "https://open.spotify.com/track/0gvdAVOxijkZgHV8Y2TjzF"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51"
@@ -269,7 +533,7 @@
       "url": "https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "If This Isn't Love",
         "url": "https://open.spotify.com/album/6N521iWkLt0nfmSAHP2arf"
@@ -293,7 +557,7 @@
       "url": "https://open.spotify.com/track/0AnkaoMhAyTLzQ7abrje15"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Daddy's Back",
         "url": "https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W"
@@ -309,7 +573,7 @@
       "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Love For Love (Klubbheads Remix)",
         "url": "https://open.spotify.com/album/0ybHbXflJjT2Nad7zxJ011"
@@ -333,7 +597,7 @@
       "url": "https://open.spotify.com/track/2GlTxE6juDqTe4AaVeo5p0"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Life\u2019s A Bitch",
         "url": "https://open.spotify.com/album/5PWXAxN3eiv0WTh1OJHJRP"
@@ -349,7 +613,7 @@
       "url": "https://open.spotify.com/track/0xIr3jg76a7aQUaTyonlMr"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Heat It Up Again",
         "url": "https://open.spotify.com/album/1Eap6gJSRg1HEvDgHkPJli"
@@ -365,7 +629,7 @@
       "url": "https://open.spotify.com/track/27hkSGOLI2mJHs1GGjNV28"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Sound Of A Beating Heart",
         "url": "https://open.spotify.com/album/2JauSYvYedz16WSBMR1saG"
@@ -385,7 +649,7 @@
       "url": "https://open.spotify.com/track/2GsoARwbEWTb4MQKlKmgAY"
     },
     {
-      "added_at": "2023-06-15 21:38:05",
+      "added_at": "2023-06-22 22:33:24",
       "album": {
         "name": "Cha Cha Cha Della Segretaria",
         "url": "https://open.spotify.com/album/5mEicP6FuwHHfaIVYsbG2t"
@@ -399,254 +663,6 @@
       "duration_ms": 125714,
       "name": "Cha Cha Cha Della Segretaria",
       "url": "https://open.spotify.com/track/7o0Jc9nGQgsnmPiISHiKhU"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Moving To The Beat",
-        "url": "https://open.spotify.com/album/5NAhai4rAUQiO669naTtbS"
-      },
-      "artists": [
-        {
-          "name": "DJ Kuba",
-          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
-        },
-        {
-          "name": "Neitan",
-          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Moving To The Beat",
-      "url": "https://open.spotify.com/track/5fuMwp29NvRokSFVn7HatV"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Touch Ground",
-        "url": "https://open.spotify.com/album/0CZAGGza2R5mrJzBnZVWWx"
-      },
-      "artists": [
-        {
-          "name": "Viiq",
-          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
-        },
-        {
-          "name": "Kiral",
-          "url": "https://open.spotify.com/artist/4OG7tTJTMgFkSIZBoRmQvQ"
-        },
-        {
-          "name": "Todd Stucky",
-          "url": "https://open.spotify.com/artist/2ESTFvdYPDHBC4cdf5CTl4"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Touch Ground",
-      "url": "https://open.spotify.com/track/4DWadTp7ItnelVsgmZcs41"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
-        "url": "https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 172545,
-      "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
-      "url": "https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "UNDRGRND",
-        "url": "https://open.spotify.com/album/1IEotoJ1Z3lmWdzDoCIsRV"
-      },
-      "artists": [
-        {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "UNDRGRND",
-      "url": "https://open.spotify.com/track/11OAHwNw3RtSEuWS5ez4ru"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "I Remember (Jakeshoredrive Remix)",
-        "url": "https://open.spotify.com/album/62e943dcAZDRyBIWGNyK10"
-      },
-      "artists": [
-        {
-          "name": "Deerock",
-          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
-        },
-        {
-          "name": "Taye",
-          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
-        },
-        {
-          "name": "Jakeshoredrive",
-          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "I Remember (Jakeshoredrive Remix)",
-      "url": "https://open.spotify.com/track/2XBA8sN1LKBgLEOW2ZRiPo"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Rave To The Grave",
-        "url": "https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7"
-      },
-      "artists": [
-        {
-          "name": "Bonka",
-          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Rave To The Grave",
-      "url": "https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/3XbOHTxY5Q4YReX6q6trlj"
-      },
-      "artists": [
-        {
-          "name": "DEUX SAINTS",
-          "url": "https://open.spotify.com/artist/44iewsGL35Do6lH81Isndl"
-        }
-      ],
-      "duration_ms": 170595,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/6zxHbSjyiKMmEuqP39FHd5"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Sentir Saudade (feat. Bia Caboz)",
-        "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
-      },
-      "artists": [
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        },
-        {
-          "name": "Bia Caboz",
-          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sentir Saudade (feat. Bia Caboz)",
-      "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/7IjAfvZpEb865xTsWmfvbo"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Mingue",
-          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
-        }
-      ],
-      "duration_ms": 115403,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/0unJKMlGI2EwbpOcd3ZoRO"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "Do It to Me (feat. Alimish)",
-        "url": "https://open.spotify.com/album/7vctrH8V6yANXBip9TQu33"
-      },
-      "artists": [
-        {
-          "name": "MorganJ",
-          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
-        },
-        {
-          "name": "Alimish",
-          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Do It to Me (feat. Alimish)",
-      "url": "https://open.spotify.com/track/0LXSMH60mxyzBz7uTbBTsr"
-    },
-    {
-      "added_at": "2023-06-15 21:38:05",
-      "album": {
-        "name": "2AM (feat. Brave Culture)",
-        "url": "https://open.spotify.com/album/0NKs73HOYT0oRPPGrSJwKF"
-      },
-      "artists": [
-        {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        },
-        {
-          "name": "Brave Culture",
-          "url": "https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "2AM (feat. Brave Culture)",
-      "url": "https://open.spotify.com/track/1HAFEezS72pmxFPy2UqBAl"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

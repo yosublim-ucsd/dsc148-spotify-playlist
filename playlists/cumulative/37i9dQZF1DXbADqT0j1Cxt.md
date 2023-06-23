@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-461 songs - 13 hr 49 min
+462 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Another Day Just Went By](https://open.spotify.com/track/6XBcvVAJZGhzSCR4Aot9H0) | [Liddy Hall](https://open.spotify.com/artist/6tV5JzvoZR29ZRF1JkF2VY) | [Another Day Just Went By](https://open.spotify.com/album/4IXByBPpvCVL5p2P5XXGQn) | 1:33 | 2021-10-07 |  |
 | [Apfelstrudel](https://open.spotify.com/track/2GdEApRyXRRrl9uTkNtvuo) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Dreams Come True](https://open.spotify.com/album/317T9IN2UhpFGIZEv1C47f) | 3:25 | 2023-03-17 |  |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13) | [Alexis George](https://open.spotify.com/artist/12vLFUjezGPpwKXHYkV3yP) | [Baa Baa Black Sheep](https://open.spotify.com/album/3Pki1suDGhOpHF0z6ifiuV) | 1:00 | 2021-10-07 | 2022-09-03 |
-| [Baa Baa Black Sheep](https://open.spotify.com/track/2PqiCiWnloBwbtRDopvSZU) | [Sophia's Piano](https://open.spotify.com/artist/4O76WaBpfNBk8l0Ly6Y12J) | [Baa Baa Black Sheep](https://open.spotify.com/album/5aea2HslOYnLvp6XKmo65o) | 1:54 | 2022-09-02 |  |
+| [Baa Baa Black Sheep](https://open.spotify.com/track/2PqiCiWnloBwbtRDopvSZU) | [Sophia's Piano](https://open.spotify.com/artist/4O76WaBpfNBk8l0Ly6Y12J) | [Baa Baa Black Sheep](https://open.spotify.com/album/5aea2HslOYnLvp6XKmo65o) | 1:54 | 2022-09-02 | 2023-06-23 |
 | [Babblarnas Vaggvisa](https://open.spotify.com/track/6o7a47Zzezp5CYXLsZUSip) | [Drömgänget](https://open.spotify.com/artist/5NtcguollUT5sy9Gxkhgq7) | [Babblarnas Vaggvisa](https://open.spotify.com/album/2eOy4C6JJ0FQ0VNI1UW9FB) | 2:56 | 2021-10-07 | 2023-03-18 |
 | [Baby Beluga](https://open.spotify.com/track/61LXY2gT1KAXDsxIwHx9bP) | [Walter Mitskoff](https://open.spotify.com/artist/7LWFCNVHTcrr19urHggIE9) | [Baby Beluga: A Raffi Tribute](https://open.spotify.com/album/6Txuu8Cax5HK8y7ZD7Pqx9) | 2:37 | 2021-10-07 | 2022-10-08 |
 | [Baby Bumblebee](https://open.spotify.com/track/7JXtHkQmBYNTgMdAozVUNw) | [Mariana Lucci](https://open.spotify.com/artist/5SW9s08EzZMZiYggrtl0Fm) | [Insects and Animals](https://open.spotify.com/album/1iyGnhz3pCDYDcUqNinE73) | 1:50 | 2021-10-07 | 2022-11-26 |
@@ -54,7 +54,7 @@
 | [Beneath a Summer Sky](https://open.spotify.com/track/3jqgSCeCfn179Gu9gVHFOL) | [Stan Curley](https://open.spotify.com/artist/2FjuSwXleCYb93E7k8NE2d) | [Beneath a Summer Sky](https://open.spotify.com/album/4qj5YJf1p4Qf0SA7Kxi5Jg) | 1:47 | 2021-10-07 |  |
 | [Big Fat Cat](https://open.spotify.com/track/4eiyPqAO6nQoRASqxcptL6) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [Big Fat Cat](https://open.spotify.com/album/2jbjXlL2adMy67cHvLzrlG) | 2:00 | 2021-10-07 | 2022-12-24 |
 | [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 | 2023-06-08 |  |
-| [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-07 |  |
+| [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-07 | 2023-06-23 |
 | [Blossom](https://open.spotify.com/track/55U4PGCJt22q75JPXiUfoj) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Blossom](https://open.spotify.com/album/3wln5OEsdxPWHVaFl9EhEz) | 1:37 | 2023-05-11 |  |
 | [Blott en dag](https://open.spotify.com/track/49XkXcSroi01dECBeMf1wJ) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
 | [Blueberry Muffins](https://open.spotify.com/track/5bbGsX1DgwUYjoQ9diFqVn) | [Rachel Birkes](https://open.spotify.com/artist/46dwJ4pRnNjShZqsj3wOaD) | [Blueberry Muffins](https://open.spotify.com/album/5Q0jjE7plhJ0uBeLTpggdG) | 1:09 | 2021-10-07 |  |
@@ -88,7 +88,7 @@
 | [Counting sheep](https://open.spotify.com/track/4P9XJCXmWR1Artyxij5Tit) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [Counting sheep](https://open.spotify.com/album/10U6aFzq0gVbyHKHz9OfS0) | 1:37 | 2021-10-07 | 2023-05-12 |
 | [Cozy Under the Blankets](https://open.spotify.com/track/2jnXvgJnEe7me32NitOdHk) | [Tristan Hertzog](https://open.spotify.com/artist/1Ht23O9cVMdYKdJFXZ6RDb) | [Creature Comforts](https://open.spotify.com/album/3w7vN69EdzTkpaKvvWYJ0l) | 2:48 | 2021-10-07 | 2022-02-11 |
 | [Cradled Coos](https://open.spotify.com/track/0cGEO98SoW7H7d1vFx3TOc) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Cradled Coos](https://open.spotify.com/album/2Qlnpyn04wR7R6BKZaXAdg) | 2:06 | 2023-02-10 | 2023-03-18 |
-| [Cradlesong](https://open.spotify.com/track/1SYnAA0aoUGTUO7fRYXu3l) | [Velvet Teddy](https://open.spotify.com/artist/0PdixtInYYRTmDZ8vqDZoW) | [Cradlesong](https://open.spotify.com/album/0tQpUia72g8wZDpQLbFy02) | 2:21 | 2023-05-11 |  |
+| [Cradlesong](https://open.spotify.com/track/1SYnAA0aoUGTUO7fRYXu3l) | [Velvet Teddy](https://open.spotify.com/artist/0PdixtInYYRTmDZ8vqDZoW) | [Cradlesong](https://open.spotify.com/album/0tQpUia72g8wZDpQLbFy02) | 2:21 | 2023-05-11 | 2023-06-23 |
 | [Creature Comforts](https://open.spotify.com/track/4YCnbgl9lcIb4OiP5n2Joe) | [Tristan Hertzog](https://open.spotify.com/artist/1Ht23O9cVMdYKdJFXZ6RDb) | [Creature Comforts](https://open.spotify.com/album/3w7vN69EdzTkpaKvvWYJ0l) | 2:03 | 2021-10-07 | 2023-05-12 |
 | [Curious James](https://open.spotify.com/track/2ugAWsrnj4ZGq5hXYnziTY) | [Isla Fischer](https://open.spotify.com/artist/1nIb5VYXlWMQBYdg1a5wWg) | [Curious James](https://open.spotify.com/album/5BQBFaL41FTNmZEc7gcOq6) | 2:13 | 2021-10-07 | 2023-01-13 |
 | [Dandelion](https://open.spotify.com/track/14QWQxtZH5y5KDKIRuD9Kj) | [Sima Russell](https://open.spotify.com/artist/7uGBgoIq1BWBjclQnnh5eN) | [Dandelion](https://open.spotify.com/album/2f2hHL1MCcaQLz82Iem4gJ) | 1:15 | 2021-10-07 | 2023-03-18 |
@@ -271,6 +271,7 @@
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-10-07 |  |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-11-25 |  |
 | [My Great\-Great\-Great Grandfather](https://open.spotify.com/track/0s5sRfIRGstws2SF4nEhSL) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [My Great\-Great\-Great Grandfather](https://open.spotify.com/album/7u69zaMN7vtMzebdVxP2QC) | 2:09 | 2022-04-19 | 2023-03-18 |
+| [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-06-22 |  |
 | [My Little Angel](https://open.spotify.com/track/7q2niOhFitCLwzgYM1arxn) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [My Little Angel](https://open.spotify.com/album/4uuolQ8meACNGcHA8l5QgM) | 3:02 | 2021-10-07 | 2022-10-29 |
 | [My Little Musketeer](https://open.spotify.com/track/63KsY0VHBe1b78GLFu66rE) | [Agnes Widell](https://open.spotify.com/artist/6HpjNjCZmdoljjATAMaGHH) | [My Little Musketeer](https://open.spotify.com/album/1FY781TMk7oKgWieSLToXF) | 1:09 | 2021-10-07 | 2022-10-29 |
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2023-06-09 |

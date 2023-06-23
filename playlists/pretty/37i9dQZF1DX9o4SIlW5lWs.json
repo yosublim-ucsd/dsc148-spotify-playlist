@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 169315,
+  "num_followers": 169464,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGY3NzI3OWRkYzEyNjcxYzk5NmE5NDdkMjUzYTIwODI0ZTMyNDAz",
+  "snapshot_id": "MCxmZDE2ZWE0MTYzOTI5NWQ4ZTVjZmMxNjk0YTY3NzI1N2JiYjEzNzE3",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -487,18 +487,34 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Muero por Ti",
-        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
         }
       ],
-      "duration_ms": 236840,
-      "name": "Muero por T\u00ed",
-      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -527,34 +543,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+        "name": "Muero por Ti",
+        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+      "duration_ms": 236840,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tambo Tambo",
-        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 264067,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 206629,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Tambo Tambo",
+        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 264067,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Grupo Play - Ahora juega en primera",
+        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Lloraras mas de diez veces",
+      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Grupo Play - Ahora juega en primera",
-        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Lloraras mas de diez veces",
-      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
     },
     {
       "added_at": "2023-06-09 03:00:00",

@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Love In Technicolor",
+        "url": "https://open.spotify.com/album/2xpFJF0GaCm0C3vf9bQVV7"
+      },
+      "artists": [
+        {
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140939,
+      "name": "Love In Technicolor",
+      "url": "https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A"
+    },
+    {
+      "album": {
         "name": "Love In Your Arms",
         "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 182995,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb"

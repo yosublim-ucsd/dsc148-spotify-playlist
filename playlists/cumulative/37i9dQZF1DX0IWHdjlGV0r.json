@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+    },
+    {
+      "album": {
         "name": "Bravo Ragazzo (Royal Edition)",
         "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
       },

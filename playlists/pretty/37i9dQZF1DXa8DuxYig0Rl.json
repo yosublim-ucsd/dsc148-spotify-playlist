@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 18820,
+  "num_followers": 18850,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgwZTFlNDIxZmUxOWVjODlmNzY4MmJjNzVmZDM1MGU1ZDVhZDgz",
+  "snapshot_id": "MCw1ZGNmNmMwZGE1YWQxNzMyZjQ3NTEyNGVkZDA1MzBjNjdhMjAzNGZl",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Coraz\u00f3n De Mel\u00f3n",
-        "url": "https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6"
-      },
-      "artists": [
-        {
-          "name": "Ramon Marquez",
-          "url": "https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Coraz\u00f3n De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "De Quen Chon",
         "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 149185,
       "name": "Macorina Pon Pon",
       "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Coraz\u00f3n De Mel\u00f3n",
+        "url": "https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6"
+      },
+      "artists": [
+        {
+          "name": "Ramon Marquez",
+          "url": "https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Coraz\u00f3n De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "El Danz\u00f3n Nunca Muere",
-        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones De Todos Los Tiempos",
-          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 187373,
       "name": "D\u00f3nde Est\u00e1s Yolanda",
       "url": "https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "El Danz\u00f3n Nunca Muere",
+        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones De Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda...Los Xochimilcas",
-        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Xochimilcas",
-          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Pulque para dos",
-      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Recordando a",
         "url": "https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 188840,
       "name": "Pagina Blanca",
       "url": "https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda...Los Xochimilcas",
+        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Xochimilcas",
+          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Pulque para dos",
+      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Chapultepec",
+      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Chapultepec",
-      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
     },
     {
       "added_at": "2023-01-23 22:42:50",

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-112 songs - 6 hr 15 min
+114 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 |  |
 | [Kanasella](https://open.spotify.com/track/4GfvMLzjCSbgS7NSofhAW3) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanasella](https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B) | 4:28 | 2023-05-25 | 2023-06-08 |
+| [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 | 2023-06-22 |  |
 | [Kanasina Lokadi](https://open.spotify.com/track/0i7L9gNz2EmHtFv9LrPGXD) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Kanasina Lokadi](https://open.spotify.com/album/3TluwCQVpKR7DBG5zFMdTr) | 2:11 | 2023-01-17 | 2023-06-08 |
 | [Kanchana](https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [shi om](https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX) | [Kanchana](https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7) | 4:20 | 2022-12-15 |  |
 | [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 |  |
@@ -67,6 +68,7 @@
 | [Mosagati](https://open.spotify.com/track/1XFZ03PP9CzIlcT1o7Mnt4) | [Sandip Kumar](https://open.spotify.com/artist/5vCQD1NwTjQS79Zo2dHJO3), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Mosagati](https://open.spotify.com/album/6efhiokKMRVMgxhIBy4sBZ) | 2:09 | 2023-03-17 |  |
 | [Mouna](https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI) | [Sanjay Purohit](https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Mouna](https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU) | 3:31 | 2023-03-13 | 2023-06-20 |
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 |  |
+| [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
 | [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |
 | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR) | 4:11 | 2023-03-06 |  |

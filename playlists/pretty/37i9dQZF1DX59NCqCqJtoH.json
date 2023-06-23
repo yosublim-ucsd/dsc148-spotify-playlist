@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1143760,
+  "num_followers": 1143812,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzNmMDdjZjZjNGRhMDUzYTE4MjQwN2VmMDhmZDg4MmMwODc4YmRj",
+  "snapshot_id": "MCwyNzQwM2MyZTZmODA3YjhlNmEyYzc0YzQ0Mjg5YjU0MTczZGQ2YmZj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "I'm Not Enough and I'm Sorry",
+        "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 120035,
+      "name": "I'm Not Enough and I'm Sorry",
+      "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -727,26 +747,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I'm Not Enough and I'm Sorry",
-        "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
-      },
-      "artists": [
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 120035,
-      "name": "I'm Not Enough and I'm Sorry",
-      "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "willow",
         "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Sick of Losing Soulmates",
+        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 267377,
+      "name": "Sick of Losing Soulmates",
+      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -827,34 +843,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sick of Losing Soulmates",
-        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 267377,
-      "name": "Sick of Losing Soulmates",
-      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -999,26 +983,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1051,6 +1015,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Don't Leave, Don't Go / Bleed",
         "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "infinity",
         "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174198,
       "name": "infinity",
       "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
+      },
+      "artists": [
+        {
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
+        }
+      ],
+      "duration_ms": 131146,
+      "name": "VERY ALONE",
+      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 110163,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
-      },
-      "artists": [
-        {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
-        }
-      ],
-      "duration_ms": 131146,
-      "name": "VERY ALONE",
-      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Stoner",
-        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 160900,
-      "name": "Stoner",
-      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "lost a friend",
         "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 165177,
       "name": "lost a friend",
       "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "CLOUDS (Music From The Disney+ Original Movie)",
+        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 175321,
+      "name": "afterthoughts",
+      "url": "https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "CLOUDS (Music From The Disney+ Original Movie)",
-        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
       },
       "artists": [
         {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
         }
       ],
-      "duration_ms": 175321,
-      "name": "afterthoughts",
-      "url": "https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc"
+      "duration_ms": 160900,
+      "name": "Stoner",
+      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
     },
     {
       "added_at": "2023-06-02 04:00:00",

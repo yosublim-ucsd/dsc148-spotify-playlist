@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. alt blk era",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. scarlxrd",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -560,6 +560,24 @@
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X"
+    },
+    {
+      "album": {
+        "name": "Atxmic-Bxmb.",
+        "url": "https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Atxmic-Bxmb.",
+      "url": "https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y"
     },
     {
       "album": {
@@ -5844,7 +5862,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 185098,
       "name": "Loser Deadbeat",
       "url": "https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09"

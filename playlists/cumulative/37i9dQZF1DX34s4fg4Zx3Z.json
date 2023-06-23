@@ -8617,6 +8617,24 @@
     },
     {
       "album": {
+        "name": "KHU R\u1eeaNG TAN V\u1ee0",
+        "url": "https://open.spotify.com/album/13gF8wj263EdyVi89xlVas"
+      },
+      "artists": [
+        {
+          "name": "Cassano",
+          "url": "https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204907,
+      "name": "KHU R\u1eeaNG TAN V\u1ee0",
+      "url": "https://open.spotify.com/track/09LikBYw6PYAAd8FI5UAbl"
+    },
+    {
+      "album": {
         "name": "Kh\u00f3 th\u1edf Cypher",
         "url": "https://open.spotify.com/album/1uw8EeMoTj8kuff5V613lt"
       },
@@ -10398,7 +10416,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 170021,
       "name": "mask",
       "url": "https://open.spotify.com/track/0Eh9wu6EpDod1ZPrq8w1Bt"
@@ -17417,6 +17435,28 @@
     },
     {
       "album": {
+        "name": "T\u00c0NG LONG",
+        "url": "https://open.spotify.com/album/4Ttz3ESfpbciiOCpzpxQc1"
+      },
+      "artists": [
+        {
+          "name": "Chiennhatlang",
+          "url": "https://open.spotify.com/artist/71LQEF4uo08r9RIB7eTEAE"
+        },
+        {
+          "name": "LOWRIDAZ",
+          "url": "https://open.spotify.com/artist/4cWLUniSxGXlVpPrp3Ntq2"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164495,
+      "name": "T\u00c0NG LONG",
+      "url": "https://open.spotify.com/track/5SbZn0axIjo8OJWejydlLM"
+    },
+    {
+      "album": {
         "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
         "url": "https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme"
       },
@@ -19334,7 +19374,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 181173,
       "name": "Why?",
       "url": "https://open.spotify.com/track/0mzQ5f3Vj2V76Tf6yYxXMm"
@@ -19352,10 +19392,32 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 201003,
       "name": "wish you had",
       "url": "https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD"
+    },
+    {
+      "album": {
+        "name": "MMXX",
+        "url": "https://open.spotify.com/album/7yNcQkaLf6mI4mnzI4bibP"
+      },
+      "artists": [
+        {
+          "name": "Trash Dee",
+          "url": "https://open.spotify.com/artist/4d4gNVfuHfIwndxSpUyk4e"
+        },
+        {
+          "name": "orei",
+          "url": "https://open.spotify.com/artist/57jlfYAkmb8Kijuihad9T3"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117941,
+      "name": "wo ai ni - orei Remix",
+      "url": "https://open.spotify.com/track/0qIXFTy61iT1Lqu6aA70H1"
     },
     {
       "album": {

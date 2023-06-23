@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
 
-154 songs - 9 hr 39 min
+157 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,12 +100,14 @@
 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 | 2023-06-01 |  |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 | 2022-03-25 |
 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 | 2023-06-16 |  |
+| [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-06-22 |  |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 |  |
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 | 2022-03-25 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2021-11-25 | 2022-03-25 |
 | [Pendengar Setiamu](https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn) | 4:19 | 2023-04-13 |  |
 | [Penghapus Pensil](https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Penghapus Pensil](https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK) | 3:54 | 2021-11-25 | 2022-03-25 |
+| [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-06-22 |  |
 | [Pergi](https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Pergi](https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu) | 4:37 | 2023-05-04 |  |
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-11-25 | 2022-03-25 |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2021-11-25 | 2022-03-25 |
@@ -141,6 +143,7 @@
 | [Terbuai Cinta Palsu](https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu](https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP) | 4:56 | 2023-04-13 |  |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-04-13 |  |
 | [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 | 2022-03-24 | 2023-04-14 |
+| [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2023-06-22 |  |
 | [Terpikat Senyummu \- Live](https://open.spotify.com/track/17iLvv3Vgnk7yLK9KDaqSx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Terpikat Senyummu \(Live\)](https://open.spotify.com/album/1rAF2vh0XuqxQQAM7UQ7ou) | 3:12 | 2023-02-23 | 2023-04-14 |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2023-04-13 |  |
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |

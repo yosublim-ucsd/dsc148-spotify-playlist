@@ -1,12 +1,12 @@
 {
   "description": "virus love te pegou n\u00e9 caio luccas",
-  "num_followers": 1176347,
+  "num_followers": 1177197,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjZiMjQwMzA0MWIzNzIzM2YzZjc0YmFlMzVjMzhmNGJhNzlhYjM2",
+  "snapshot_id": "MCxjM2MyZGQzMTVhZmU4MzljNzAwMjc0NWE4Mjc2YTI1ZjM3OTQ1MzU5",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Gucci, Prada",
         "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 184421,
       "name": "Gucci, Prada",
       "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2023-06-16 03:03:00",

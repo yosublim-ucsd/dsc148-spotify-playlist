@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,281 likes - 138 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,178 likes - 138 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 104 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 105 | [Nearing Home](https://open.spotify.com/track/2boSnGZWqD6efIo0e1rx1v) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 3:38 |
 | 106 | [We're All In This Together Now \(feat\. Rosanne Cash\)](https://open.spotify.com/track/4ncV3yQ55Kw7Gi4C4xxhMX) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All In This Together Now](https://open.spotify.com/album/0eZAwdZNdsuniGk7hkyFEB) | 4:02 |
-| 107 | [Love Is The King](https://open.spotify.com/track/46ewtMKwdS4EUNm5YsGwjD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/3cuftKYEWJF8MT8sqAv6ov) | 4:46 |
+| 107 | [Love Is The King](https://open.spotify.com/track/271mzPl1RdTmUIwC9pAhUI) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 4:46 |
 | 108 | [Peace In The Valley](https://open.spotify.com/track/3dY21TGWCgJWjInJyIVf10) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 3](https://open.spotify.com/album/2A3zdBNByKeHyD5ivtwuOV) | 2:49 |
 | 109 | [Stanley Park \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/1bFbUtdoecQddVMfSGoxsA) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 2:29 |
 | 110 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 137 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
 | 138 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 
-Snapshot ID: `MCw1MmM1MzU3YWI2NDE4NGY3OGVjN2IwYzEyYzhmMDA5NGI4ZDYwMGY4`
+Snapshot ID: `MCxlOGQxMDFkOGFmZmQ4MjBkNzdmY2QxYmEzNDIwMDU5ZmM4MDA1YTU5`

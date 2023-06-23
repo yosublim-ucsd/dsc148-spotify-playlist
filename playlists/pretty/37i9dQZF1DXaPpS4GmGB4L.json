@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 47298,
+  "num_followers": 47364,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWRlZTI1ZDA2M2RiNmVkM2I4NWUwOTAzNDIwNDIzZGFmYzlhOTBm",
+  "snapshot_id": "MCxhODJlYzlkZjdlODExZmVmMDY0MTYwZmY4ODI4ZGJiZTRjNmU5MzU4",
   "tracks": [
     {
       "added_at": "2023-06-16 14:16:03",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Bo Diddley",
-      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 211200,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Bo Diddley",
+      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
         "name": "Sho Been Worse",
         "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 174124,
       "name": "Sho Been Worse",
       "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "One Way Out - Mono Version",
+      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 245173,
       "name": "That's What Love Will Make You Do",
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "One Way Out - Mono Version",
-      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -815,22 +815,18 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        },
-        {
-          "name": "Roberto Luti",
-          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 216716,
-      "name": "Watch Me Change",
-      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     }
   ],
   "unique_name": "Upbeat Blues",

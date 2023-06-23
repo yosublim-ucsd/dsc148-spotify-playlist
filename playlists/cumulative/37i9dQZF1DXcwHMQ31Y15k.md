@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: NDX A.K.A.
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati, Miqbal GA
 
-171 songs - 13 hr 57 min
+172 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Ojo Di Bandingke](https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj) | 5:47 | 2022-07-28 | 2023-05-08 |
 | [Ojo Di Bandingke](https://open.spotify.com/track/6tpkCrZvH82EEZxTSacKQy) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3H9FfPSwJ739QV3nO7BhJ8) | 5:47 | 2023-05-04 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2022-08-02 |  |
-| [Ojo Dibandingke \- Live Ska Reggae](https://open.spotify.com/track/70q1PoJ9YqsBLsNPZV2rtE) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Ojo Dibandingke \(Live Ska Reggae\)](https://open.spotify.com/album/6Nbdj8qApRQv0gHvWSFYYF) | 5:20 | 2022-09-01 |  |
+| [Ojo Dibandingke \- Live Ska Reggae](https://open.spotify.com/track/70q1PoJ9YqsBLsNPZV2rtE) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Ojo Dibandingke \(Live Ska Reggae\)](https://open.spotify.com/album/6Nbdj8qApRQv0gHvWSFYYF) | 5:20 | 2022-09-01 | 2023-06-23 |
 | [Ojo Nangis](https://open.spotify.com/track/2yfVlejxMMg163nZWalBte) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Ojo Nangis](https://open.spotify.com/album/0mz1frKC3NxPhHL1E1v3gQ) | 5:13 | 2022-05-26 | 2022-08-19 |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2022-05-26 |  |
 | [Ojo Nangis \- Keroncong Version](https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis \(Keroncong Version\)](https://open.spotify.com/album/2vrslGgUCj5smWJEbJSib4) | 5:46 | 2022-05-26 | 2022-08-26 |
@@ -127,6 +127,7 @@
 | [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 | 2022-05-26 | 2022-12-09 |
 | [Raiso Dadi Siji](https://open.spotify.com/track/3gA9NVMBvhfztFQRYxCzx8) | [Difarina Indra Adella](https://open.spotify.com/artist/0ForVkf5ioNFzly6SjAzkC), [Fendik Adella](https://open.spotify.com/artist/6dNBjlIEj3aWcYBvH82XQq) | [Raiso Dadi Siji](https://open.spotify.com/album/3cfccXUASX1GMldjNhn3tV) | 5:26 | 2023-03-06 |  |
 | [Raiso Dadi Siji](https://open.spotify.com/track/2AmH9mOGhfr4I8el6dLaVO) | [Dike Sabrina](https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF) | [Raiso Dadi Siji](https://open.spotify.com/album/09OJPKUUSaxq43trhC0zsw) | 4:19 | 2023-03-15 |  |
+| [Raiso Dadi Siji](https://open.spotify.com/track/1uSQVGlf9Lhxz3DTJK38uT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Miqbal GA](https://open.spotify.com/artist/1yvEuFlNL5dza4DFeOialk) | [Raiso Dadi Siji](https://open.spotify.com/album/3RoCv0pb9FKyueED3DTToe) | 5:59 | 2023-06-22 |  |
 | [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 | 2023-04-14 |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-06-02 |  |
 | [RASAKNO](https://open.spotify.com/track/46nOLK8xQxwP5aL4YS3L30) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [RASAKNO](https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C) | 4:48 | 2023-06-15 |  |

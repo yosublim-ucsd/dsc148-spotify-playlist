@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Peaches (2023)",
+        "url": "https://open.spotify.com/album/0IFqCZgkdRI44XFLbFrd3v"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94778,
+      "name": "Peaches - 2023",
+      "url": "https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 2021",
         "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },

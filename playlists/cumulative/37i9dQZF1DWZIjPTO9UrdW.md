@@ -4,7 +4,7 @@
 
 > The perfect jazz backdrop to the cocktails.
 
-78 songs - 4 hr 38 min
+80 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Like Someone In Love](https://open.spotify.com/track/5aQgWuYF4U6N1XDuk0fcol) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Like Someone In Love](https://open.spotify.com/album/7r0miSdrDBxHOfzHCXPYBj) | 3:44 | 2023-05-25 |  |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2023-05-10 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2023-05-10 |  |
+| [Love In Technicolor](https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Love In Technicolor](https://open.spotify.com/album/2xpFJF0GaCm0C3vf9bQVV7) | 2:20 | 2023-06-22 |  |
 | [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 | 2023-05-10 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2023-05-10 |  |
 | [Morristown Blue](https://open.spotify.com/track/2yfDEMRiDN5lvCYJiRvefD) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Morristown Blue](https://open.spotify.com/album/3mvq8WFbWietlyrYBceJPw) | 3:49 | 2023-05-10 |  |
@@ -64,6 +65,7 @@
 | [Stick Around](https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Stick Around](https://open.spotify.com/album/3OGuwr110zyVOAtdPVUKqe) | 3:02 | 2023-05-10 |  |
 | [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 | 2023-05-10 |  |
 | [Sunset over Paris](https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 4:03 | 2023-05-10 |  |
+| [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [That Old Feeling](https://open.spotify.com/track/2j8nvcUdCDr3VWL2uMlyyn) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [That Old Feeling](https://open.spotify.com/album/0DSCDie1N9Xej8MtsijDBf) | 1:50 | 2023-05-10 |  |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2023-05-10 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-05-10 |  |

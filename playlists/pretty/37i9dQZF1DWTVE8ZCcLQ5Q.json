@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421636,
+  "num_followers": 421628,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTk2NWNlZDY0NmE1MGJmYzdlMWQxMGFiMGVjMzY5ZDRiZTFlNDg5",
+  "snapshot_id": "MCw1MmM2NDU2YWUwNDk4ODFjYTNiMzlhMmEwOTc1ODg2YjBjNjE3OGM1",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Deixar na B",
-        "url": "https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3"
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 129825,
-      "name": "Deixar na B",
-      "url": "https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9"
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+        "name": "Deixar na B",
+        "url": "https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3"
       },
       "artists": [
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+      "duration_ms": 129825,
+      "name": "Deixar na B",
+      "url": "https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9"
     },
     {
       "added_at": "2023-04-24 21:27:43",

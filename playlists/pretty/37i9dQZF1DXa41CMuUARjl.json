@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Kanii.",
-  "num_followers": 440539,
+  "num_followers": 440624,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODdlZTUyYmU4MzEzNTA4ZGQxZjJiZTQ0MzI0ZTE5OGEyMDc4MDA5",
+  "snapshot_id": "MCxmZThhMmQ3YjUwM2E3MDBjZDhjZGExNjdkMGI2OWQ1NWZlMDIyZTQ2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 285227,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Young And Wild",
         "url": "https://open.spotify.com/album/79A78osPcFVxlozaXDcQjO"
       },
@@ -599,18 +615,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2"
+        "name": "Let Me Know (feat. CLMD)",
+        "url": "https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
         }
       ],
-      "duration_ms": 285227,
-      "name": "Blow Your Mind",
-      "url": "https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z"
+      "duration_ms": 170582,
+      "name": "Let Me Know (feat.CLMD)",
+      "url": "https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -635,26 +655,6 @@
       "duration_ms": 131115,
       "name": "Wasting My Time (With You)",
       "url": "https://open.spotify.com/track/3gcIxK8Mv6pK2O2JbJUVfA"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Let Me Know (feat. CLMD)",
-        "url": "https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        },
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        }
-      ],
-      "duration_ms": 170582,
-      "name": "Let Me Know (feat.CLMD)",
-      "url": "https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 175909,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "In Sequence (Korolova Remix)",
-        "url": "https://open.spotify.com/album/5dvAgWBwSIhHUkkhjGjz0E"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 214439,
-      "name": "In Sequence - Korolova Remix",
-      "url": "https://open.spotify.com/track/6sx1wwK3ahJn1KEOvTLKQJ"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "If This Isn't Love",
         "url": "https://open.spotify.com/album/6N521iWkLt0nfmSAHP2arf"
       },
@@ -1071,26 +1051,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "City Planning (Remixes)",
-        "url": "https://open.spotify.com/album/6lHcUTzV8RMu3Y0NtcL34b"
+        "name": "In Sequence (Korolova Remix)",
+        "url": "https://open.spotify.com/album/5dvAgWBwSIhHUkkhjGjz0E"
       },
       "artists": [
         {
-          "name": "Kai Campos",
-          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         },
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Octo Octa",
-          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         }
       ],
-      "duration_ms": 608186,
-      "name": "Satellite - Q Zone - Octo Octa's Dream On And On Suite",
-      "url": "https://open.spotify.com/track/0UaK4voGqIozqg0BeZhY3C"
+      "duration_ms": 214439,
+      "name": "In Sequence - Korolova Remix",
+      "url": "https://open.spotify.com/track/6sx1wwK3ahJn1KEOvTLKQJ"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1127,6 +1103,46 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "City Planning (Remixes)",
+        "url": "https://open.spotify.com/album/6lHcUTzV8RMu3Y0NtcL34b"
+      },
+      "artists": [
+        {
+          "name": "Kai Campos",
+          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+        },
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "duration_ms": 608186,
+      "name": "Satellite - Q Zone - Octo Octa's Dream On And On Suite",
+      "url": "https://open.spotify.com/track/0UaK4voGqIozqg0BeZhY3C"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Afraid To Fail",
+        "url": "https://open.spotify.com/album/2eqwew8DVKa0XbTQJLDHNn"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 190804,
+      "name": "Afraid To Fail",
+      "url": "https://open.spotify.com/track/5lJvijQptYIcGJnPdGdbVZ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "So It Seems",
         "url": "https://open.spotify.com/album/6jWuqADWdgOURc1MHt0GR4"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 203999,
       "name": "So It Seems",
       "url": "https://open.spotify.com/track/02JtLq9HxIjrrE5f0ctt5J"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Afraid To Fail",
-        "url": "https://open.spotify.com/album/2eqwew8DVKa0XbTQJLDHNn"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 190804,
-      "name": "Afraid To Fail",
-      "url": "https://open.spotify.com/track/5lJvijQptYIcGJnPdGdbVZ"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Hide Sun",
-        "url": "https://open.spotify.com/album/0k5US190llPeUnYu2OAZ0x"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 176791,
-      "name": "Hide Sun",
-      "url": "https://open.spotify.com/track/3tu3QJxfsxH7CmWjMH4cF3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
       },
@@ -1255,58 +1235,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "See Your Face (feat. Electric Fields)",
-        "url": "https://open.spotify.com/album/2Ldc0NaOt4KCtMsaaCpwi9"
+        "name": "Hide Sun",
+        "url": "https://open.spotify.com/album/0k5US190llPeUnYu2OAZ0x"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         },
         {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
         }
       ],
-      "duration_ms": 221695,
-      "name": "See Your Face (feat. Electric Fields)",
-      "url": "https://open.spotify.com/track/4Pbmk0yGKoDJm3kdMg3JWI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Dean Mickoski",
-          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd"
-      },
-      "artists": [
-        {
-          "name": "Narciss",
-          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v"
+      "duration_ms": 176791,
+      "name": "Hide Sun",
+      "url": "https://open.spotify.com/track/3tu3QJxfsxH7CmWjMH4cF3"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1331,6 +1275,26 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "shy girl",
         "url": "https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac"
       },
@@ -1343,6 +1307,42 @@
       "duration_ms": 156551,
       "name": "shy girl",
       "url": "https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "See Your Face (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/2Ldc0NaOt4KCtMsaaCpwi9"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 221695,
+      "name": "See Your Face (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/4Pbmk0yGKoDJm3kdMg3JWI"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "BIGFOOT",
-        "url": "https://open.spotify.com/album/5KGJRvskk3W6UoKlPRAGvU"
-      },
-      "artists": [
-        {
-          "name": "BOX CAR",
-          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
-        },
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "BIGFOOT",
-      "url": "https://open.spotify.com/track/7oZX1uafVu9qNYSRzyYMqs"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Sleeves Touch My Elbows",
         "url": "https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 210109,
       "name": "Sleeves Touch My Elbows",
       "url": "https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "BIGFOOT",
+        "url": "https://open.spotify.com/album/5KGJRvskk3W6UoKlPRAGvU"
+      },
+      "artists": [
+        {
+          "name": "BOX CAR",
+          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "BIGFOOT",
+      "url": "https://open.spotify.com/track/7oZX1uafVu9qNYSRzyYMqs"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/68pHOJeCrgiD4umWDpLsoJ"
-      },
-      "artists": [
-        {
-          "name": "Justin Caruso",
-          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/1AFskkVgMfkhohizncFNWI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Rules Of Love",
         "url": "https://open.spotify.com/album/3qEjZx7j0AXDVZC7Ce2cgm"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/68pHOJeCrgiD4umWDpLsoJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/1AFskkVgMfkhohizncFNWI"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Stars - Remixes",
         "url": "https://open.spotify.com/album/0mrFOd6nPTKivZe5ReWZjm"
       },
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/0PCOK5eGhOPlkd1anJHO4y"
+      },
+      "artists": [
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Evokings",
+          "url": "https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/73beeHHQcDYkbUaSS02I9Y"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Ode Ireti (Amapiano Edit)",
         "url": "https://open.spotify.com/album/4TEtiOik72BodpnMHsv6Xn"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 207104,
       "name": "Ode Ireti - Amapiano Edit",
       "url": "https://open.spotify.com/track/1RgOf5ZeEIi1iDwQqueOMc"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/0PCOK5eGhOPlkd1anJHO4y"
-      },
-      "artists": [
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Evokings",
-          "url": "https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/73beeHHQcDYkbUaSS02I9Y"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Changing Channels / Hole Away",
-        "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
-      },
-      "artists": [
-        {
-          "name": "Pangaea",
-          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
-        }
-      ],
-      "duration_ms": 211701,
-      "name": "Hole Away",
-      "url": "https://open.spotify.com/track/6ex8YIQvhg4U41mU9pKJzV"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Holding Back",
         "url": "https://open.spotify.com/album/7ilSMI0ZbIVvDCOiydapQ7"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 166817,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2Px6ovf0vMZsH5SPPfgM1N"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Changing Channels / Hole Away",
+        "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "duration_ms": 211701,
+      "name": "Hole Away",
+      "url": "https://open.spotify.com/track/6ex8YIQvhg4U41mU9pKJzV"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "GATE",
-        "url": "https://open.spotify.com/album/70LwHwkgZR2K1krvS0j6lf"
-      },
-      "artists": [
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        }
-      ],
-      "duration_ms": 314032,
-      "name": "GATE",
-      "url": "https://open.spotify.com/track/56BNAJwFRfXe7qF64y8zu9"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Electric Drive",
         "url": "https://open.spotify.com/album/3MmNT2A0x42p2lkCB41VsE"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 283224,
       "name": "Mission",
       "url": "https://open.spotify.com/track/2tUTF4c90ZQKy25Ellez9M"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "GATE",
+        "url": "https://open.spotify.com/album/70LwHwkgZR2K1krvS0j6lf"
+      },
+      "artists": [
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "duration_ms": 314032,
+      "name": "GATE",
+      "url": "https://open.spotify.com/track/56BNAJwFRfXe7qF64y8zu9"
     },
     {
       "added_at": "2023-06-16 04:00:00",

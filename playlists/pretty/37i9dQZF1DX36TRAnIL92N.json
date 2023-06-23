@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 165710,
+  "num_followers": 166219,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQ1ZTU2NjY5NjY0NzExMDQ1MGNmYjQxMDAxMTkwZjU4ZTU0YTZh",
+  "snapshot_id": "MCxiMGZjMzI2MmY4OTljMTg3NzY2ZGNkMzQ5OTMwMjZkOGU3Mjc0NTc2",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Underground (Original Mix)",
-        "url": "https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric"
-      },
-      "artists": [
-        {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Underground - Original Mix",
-      "url": "https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Bells of Notre Dame",
         "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 251026,
       "name": "Bells of Notre Dame",
       "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Underground (Original Mix)",
+        "url": "https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Underground - Original Mix",
+      "url": "https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Injection (Original Mix)",
-        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
-      },
-      "artists": [
-        {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
-        },
-        {
-          "name": "A*S*Y*S",
-          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
-        }
-      ],
-      "duration_ms": 421846,
-      "name": "Injection - Original Mix",
-      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Injection (Original Mix)",
+        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        },
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "duration_ms": 421846,
+      "name": "Injection - Original Mix",
+      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
     },
     {
       "added_at": "2023-06-02 14:30:00",

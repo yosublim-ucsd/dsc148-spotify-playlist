@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,043 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,125 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
 | 50 | [Los Viejos Vinagres](https://open.spotify.com/track/3qGkFTw5nEDmBn8bgwFN1H) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Los Viejos Vinagres](https://open.spotify.com/album/0HPyIrvLK6bMIjA9q8HSFC) | 3:38 |
 
-Snapshot ID: `MjgxMjI1NDIsMDAwMDAwMDA3MDRmNDFlM2MyMTc2NjQwY2I0NzU0ZGEzNDAxMjllNQ==`
+Snapshot ID: `MjgxMjM5NDYsMDAwMDAwMDBkNjVlOWY5YzIxMzdmZjI1ZGQ3YjczMjdhYzA4NDczNw==`

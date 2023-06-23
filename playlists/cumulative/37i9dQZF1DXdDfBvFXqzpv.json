@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
+    },
+    {
+      "album": {
         "name": "Que Calor (feat. J Balvin & El Alfa)",
         "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 227493,
       "name": "Sell Out",
       "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"

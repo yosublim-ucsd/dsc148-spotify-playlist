@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=ulS3s1hHRSW6_d0-mS5SaQ\">Kelvyn Boy</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF_vS_eBk7x6VUGKkQ\">Stonebwoy</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 164000,
       "name": "Affairs",
       "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-23",
       "duration_ms": 148000,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4KRgjRnrfCrKNJMHdW13yM"
@@ -1654,6 +1654,24 @@
       "duration_ms": 131219,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7"
+    },
+    {
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Into The Future",
+      "url": "https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k"
     },
     {
       "album": {
@@ -2514,6 +2532,28 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "album": {
+        "name": "L.I.T.A (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236202,
+      "name": "Odo Dede",
+      "url": "https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw"
     },
     {
       "album": {

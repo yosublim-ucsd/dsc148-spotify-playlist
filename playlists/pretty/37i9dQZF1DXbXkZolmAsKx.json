@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4313,
+  "num_followers": 4328,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2IxM2ZhYzg2YzBlNzk4ODA4MmFjY2FhMzY3ZjJlMTdkOGJlYmQy",
+  "snapshot_id": "MCxjZmMzNmNhZWFkMjY0NTA1ZTEwNDI2NjA0MmM2N2U2MzIyODA4MGQ4",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO"
       },
       "artists": [
         {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+          "name": "Chequerboard",
+          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
         }
       ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
+      "duration_ms": 453700,
+      "name": "A Field of Night",
+      "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -571,6 +571,22 @@
       "duration_ms": 367933,
       "name": "Mary, On the Wall - Second Heart Tone",
       "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO"
-      },
-      "artists": [
-        {
-          "name": "Chequerboard",
-          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
-        }
-      ],
-      "duration_ms": 453700,
-      "name": "A Field of Night",
-      "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Talk To The Sea",
-        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "First Time Ruth Saw The Sea - Original Mix",
-      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Talk To The Sea",
+        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "First Time Ruth Saw The Sea - Original Mix",
+      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Virgins",
         "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 157369,
       "name": "Live Room Out",
       "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 310826,
+      "name": "Calamus",
+      "url": "https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -711,22 +727,6 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 310826,
-      "name": "Calamus",
-      "url": "https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -779,42 +779,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "From Sleep",
-        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Ben Russell",
-          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
-        },
-        {
-          "name": "Yuki Numata Resnick",
-          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
-        },
-        {
-          "name": "Caleb Burhans",
-          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
-        },
-        {
-          "name": "Brian Snow",
-          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        }
-      ],
-      "duration_ms": 287786,
-      "name": "Space 21 (petrichor)",
-      "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "For Those Of You Who Have Never (And Also Those Who Have)",
         "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
       },
@@ -863,6 +827,42 @@
       "duration_ms": 207993,
       "name": "Hanging Glass Structure",
       "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "duration_ms": 287786,
+      "name": "Space 21 (petrichor)",
+      "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 212839,
       "name": "LUX 1.4",
       "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Music For Installations",
+        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 483566,
+      "name": "Kites I",
+      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1303,26 +1319,6 @@
       "duration_ms": 205186,
       "name": "Second Lens",
       "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        },
-        {
-          "name": "Rocco DeLuca",
-          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
-        }
-      ],
-      "duration_ms": 201383,
-      "name": "Blue Diamond",
-      "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Music For Installations",
-        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        },
+        {
+          "name": "Rocco DeLuca",
+          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
         }
       ],
-      "duration_ms": 483566,
-      "name": "Kites I",
-      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+      "duration_ms": 201383,
+      "name": "Blue Diamond",
+      "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
     },
     {
       "added_at": "2023-06-07 15:21:34",

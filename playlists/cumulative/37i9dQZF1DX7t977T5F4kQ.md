@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=ulS3s1hHRSW6\_d0\-mS5SaQ">Kelvyn Boy</a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF\_vS\_eBk7x6VUGKkQ">Stonebwoy</a>
 
-192 songs - 10 hr 16 min
+194 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adidede](https://open.spotify.com/track/3Sm296EhmvG9AjlkUCWXdw) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Adidede](https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU) | 2:35 | 2022-11-04 | 2023-02-04 |
 | [Adoley](https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:17 | 2023-01-20 |  |
 | [Adomaa](https://open.spotify.com/track/3S4chGK4MIzbk65aWFdipz) | [Genna](https://open.spotify.com/artist/2ML4G2egB1izEQeNDbP24d) | [Adomaa](https://open.spotify.com/album/4HkLKbDS0CjcyyJnrDpKR5) | 3:22 | 2023-06-02 | 2023-06-10 |
-| [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 |  |
+| [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 | 2023-06-23 |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
@@ -47,7 +47,7 @@
 | [Come My Way](https://open.spotify.com/track/2jdSMlaKrW0lnMAqrHz4TU) | [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Come My Way](https://open.spotify.com/album/70htfJhneMnge2Po7Bwx6a) | 3:40 | 2023-04-20 | 2023-06-03 |
 | [Commando](https://open.spotify.com/track/7Ih9QFeuk543iGa2kl7OVS) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [Commando](https://open.spotify.com/album/3X1BdyHOtJLJWRUMo5bIaR) | 3:34 | 2023-03-17 | 2023-03-25 |
 | [Confam](https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:43 | 2022-11-15 |  |
-| [CONTROL](https://open.spotify.com/track/4KRgjRnrfCrKNJMHdW13yM) | [Fantana](https://open.spotify.com/artist/2y9TO2D5JBOaIT9qL3dtwS) | [CONTROL](https://open.spotify.com/album/77sYPdp1zsb6j2qBHr9Bx0) | 2:28 | 2023-06-16 |  |
+| [CONTROL](https://open.spotify.com/track/4KRgjRnrfCrKNJMHdW13yM) | [Fantana](https://open.spotify.com/artist/2y9TO2D5JBOaIT9qL3dtwS) | [CONTROL](https://open.spotify.com/album/77sYPdp1zsb6j2qBHr9Bx0) | 2:28 | 2023-06-16 | 2023-06-23 |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2023-01-13 |  |
 | [Criminal](https://open.spotify.com/track/7LRvsLwnoMZYJ5ZY0Xupv7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Criminal](https://open.spotify.com/album/7x4SAE0RVgcenFP89fj7Ix) | 2:15 | 2022-11-15 | 2023-01-20 |
 | [Cryptocurrency](https://open.spotify.com/track/4QdeLIxAqo8Dh5vUNpK0Vp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Cryptocurrency](https://open.spotify.com/album/03gi4AddTZUCQwJnsDnexz) | 2:59 | 2023-02-23 |  |
@@ -90,6 +90,7 @@
 | [How It Feels](https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [How It Feels](https://open.spotify.com/album/1KhzP6Qgliwr7oNZ4nBSUg) | 3:36 | 2023-03-17 | 2023-04-28 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 |  |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
+| [Into The Future](https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu) | 2:30 | 2023-06-22 |  |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-11-04 |  |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2022-12-05 |  |
 | [Jo 'Dance](https://open.spotify.com/track/4ja7B6pvvdV0GKXzsDZR2C) | [FBS](https://open.spotify.com/artist/1WyucEnZDSMkVAxdhgnlUx), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Jo 'Dance](https://open.spotify.com/album/5hVZsA0LOsty1GlQ1L0Oep) | 2:58 | 2022-11-04 |  |
@@ -130,6 +131,7 @@
 | [Obiaa](https://open.spotify.com/track/2mtP8qyPhspOExsNpPmHuQ) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 4:15 | 2023-01-13 | 2023-02-17 |
 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 | 2022-11-04 | 2023-02-16 |
 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 | 2022-11-04 |  |
+| [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-22 |  |
 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 | 2023-05-12 |  |
 | [Off My Mind](https://open.spotify.com/track/67UP0bBhejSEwTqBbkzDc3) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Off My Mind](https://open.spotify.com/album/6n2JT6VH6foqIR9hLJ9hwm) | 2:30 | 2023-06-09 |  |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 |  |

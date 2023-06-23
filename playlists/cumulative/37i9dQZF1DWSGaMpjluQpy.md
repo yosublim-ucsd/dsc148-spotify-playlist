@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-90 songs - 5 hr 4 min
+93 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [As Time Goes By \- Rainy Day](https://open.spotify.com/track/1Ynq0czY9jVcpiQrKHVaiE) | [Charlotte Benton](https://open.spotify.com/artist/3DKEEc4CKrikJN6wkLQtkn) | [As Time Goes By \(Rainy Day\)](https://open.spotify.com/album/0NyhOEDU3V9m3tXhIdIZtU) | 3:18 | 2023-06-01 |  |
 | [Between The Rain](https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Between The Rain](https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP) | 4:26 | 2023-05-11 |  |
 | [Blame It On My Youth \- Rain](https://open.spotify.com/track/1kcqIlIk0Tked5nm7sAQDW) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth \- Rain](https://open.spotify.com/album/1xHh3zVBbPvTMxxxZPl7Dx) | 4:58 | 2023-05-18 |  |
+| [Blue Café](https://open.spotify.com/track/0MgoRd7LaUL4VWwimX4fPw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Blue Café](https://open.spotify.com/album/0RzevXUMiwBxb8ulm1U7VZ) | 3:36 | 2023-06-22 |  |
 | [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 |  |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
@@ -34,6 +35,7 @@
 | [Elise](https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:42 | 2023-04-27 |  |
 | [Eternity](https://open.spotify.com/track/5EZQIWcPbstB9bGfZyMVP5) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:40 | 2023-04-27 |  |
 | [Evening Rain](https://open.spotify.com/track/4tfNLlpSHpFvBsVufocJKn) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Evening Rain](https://open.spotify.com/album/6dWDQjgAC5tLFm19J2YgFU) | 4:02 | 2023-04-27 |  |
+| [Farmland](https://open.spotify.com/track/1l5zTu0n5D0D1488z9QKvL) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Farmland](https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C) | 3:36 | 2023-06-22 |  |
 | [Feathers](https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:23 | 2023-04-27 |  |
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |
 | [Forgiving](https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:08 | 2023-04-27 |  |
@@ -54,6 +56,7 @@
 | [Kites](https://open.spotify.com/track/5GBFC6IMRifrXhGpvntHHj) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Kites](https://open.spotify.com/album/1xckIXwRecVrXSRxG7sWJR) | 3:26 | 2023-04-27 |  |
 | [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 | 2023-04-27 |  |
 | [Landing](https://open.spotify.com/track/5aWqkwh860xhalXLdDCEpM) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:04 | 2023-04-27 |  |
+| [Leaky Roofs](https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Leaky Roofs](https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA) | 4:29 | 2023-06-22 |  |
 | [Lilys Dream \- With Rain](https://open.spotify.com/track/3mmqVXFbshhfqNMyqY1xYi) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream \- With Rain](https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn) | 3:32 | 2023-04-27 |  |
 | [Litania](https://open.spotify.com/track/4wOhcTEZTZulzergbLOx5M) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:57 | 2023-04-27 |  |
 | [Longing](https://open.spotify.com/track/5juD6KBBmEyvSPFXwBvh9O) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:16 | 2023-04-27 |  |

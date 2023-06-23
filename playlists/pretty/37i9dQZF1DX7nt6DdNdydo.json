@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 41552,
+  "num_followers": 41581,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzYxODU1ZWRmNzEyNWE0ZTIxOGUwNjYxZjE4OWM3MmU4NjFjZjE1",
+  "snapshot_id": "MCxlY2JiNjMyZmMxNWQ3ODM0MTRiZDAxMzk4ZWJkNjM4Yzc0MzM2ODIx",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Walk That Mess!",
-        "url": "https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "I'm Going To Have Myself A Ball",
-      "url": "https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Rock And Roll - The Essential Collection",
         "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Information Blues",
-        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
+        "name": "Walk That Mess!",
+        "url": "https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3"
       },
       "artists": [
         {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
         }
       ],
-      "duration_ms": 150893,
-      "name": "Oh Babe",
-      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
+      "duration_ms": 164160,
+      "name": "I'm Going To Have Myself A Ball",
+      "url": "https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -775,6 +759,22 @@
       "duration_ms": 136546,
       "name": "Real Fine Daddy",
       "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Information Blues",
+        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
     },
     {
       "added_at": "2022-03-28 19:44:25",

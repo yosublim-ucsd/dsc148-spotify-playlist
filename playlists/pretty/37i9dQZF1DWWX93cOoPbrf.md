@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Oscar Ortíz & Polo González en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,738 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,877 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 23 | [Ismael](https://open.spotify.com/track/1jOixQntDqp404fVAkbW1j) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Seleccion De Corridos Belikos Vol.1](https://open.spotify.com/album/5ekfZrzwF3iXZnQhuEK0bS) | 2:18 |
 | 24 | [SOMOS MAYIZA](https://open.spotify.com/track/15owZZmQfaIUBNVU8ZzSQ1) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [SOMOS MAYIZA](https://open.spotify.com/album/7q167LUIDIEtan68AvwTi0) | 2:57 |
 | 25 | [Soy Mariguano \- En Vivo](https://open.spotify.com/track/7rGfGH1rbUednj2PuOHAbf) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Soy Mariguano \(En Vivo\)](https://open.spotify.com/album/7htszKIYR8rgjTtf1hs9Y4) | 2:55 |
-| 26 | [El Beisbolero](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
+| 26 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
 | 27 | [Prendo Un Gallo](https://open.spotify.com/track/272dYrwFE76Io6riUpLugS) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Prendo Un Gallo](https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L) | 2:22 |
 | 28 | [Don Chon \(En Vivo\)](https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Don Chon \(En Vivo\)](https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX) | 3:46 |
 | 29 | [La Vitoliza \- En Vivo](https://open.spotify.com/track/78XH3FhZuGedHP5vmH1z9K) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Vitoliza \(En Vivo\)](https://open.spotify.com/album/0yOUmmISiNvYFN79OA58Tz) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Sembrando El Terror \(LA FEA\)](https://open.spotify.com/track/4VsKiyPsh86UMjtYrO9lUv) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Sembrando El Terror \(LA FEA\)](https://open.spotify.com/album/6yNoui1q5w7kyZ3I9L1NRP) | 2:53 |
 | 75 | [East LA](https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [East LA](https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt) | 2:50 |
 
-Snapshot ID: `MCwxMmUyZTRmZDc1N2MzNDVlNjMwY2Q2MTUyMzVhNTg5YWMyMzYzOTQ2`
+Snapshot ID: `MCxiYzkyNDRlMzdlOGJmZGFmN2JiOWU2N2Y0NzE2M2IwOWFkZGMyZmMy`

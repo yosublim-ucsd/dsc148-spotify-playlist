@@ -1,12 +1,12 @@
 {
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=NSc5PqKLTKGtKxZlPDmBkg\">Cassper Nyovest</a>.",
-  "num_followers": 56179,
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=NSc5PqKLTKGtKxZlPDmBkg\">Cassper Nyovest</a>",
+  "num_followers": 56341,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjQ1MWZjOWZlNGMwZDFiMTFhMDZhYjYyZDExZTYwYzM0M2RmYzMy",
+  "snapshot_id": "MCw3NjkzZTBjMDZhMjdiOGU3YWFmYjEyNmUxMDYyOTkzNGI4YTA0ZDhj",
   "tracks": [
     {
       "added_at": "2023-06-15 21:59:00",
@@ -23,6 +23,62 @@
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
+    },
+    {
+      "added_at": "2023-06-23 00:00:00",
+      "album": {
+        "name": "Better Than This (feat. Tellaman)",
+        "url": "https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A"
+      },
+      "artists": [
+        {
+          "name": "Select Play",
+          "url": "https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "duration_ms": 234375,
+      "name": "Better Than This (feat. Tellaman)",
+      "url": "https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE"
+    },
+    {
+      "added_at": "2023-06-23 00:00:00",
+      "album": {
+        "name": "Thixo Wami",
+        "url": "https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG"
+      },
+      "artists": [
+        {
+          "name": "Zakwe",
+          "url": "https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        },
+        {
+          "name": "Riot",
+          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Thixo Wami",
+      "url": "https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O"
     },
     {
       "added_at": "2023-06-18 10:32:17",
@@ -145,6 +201,30 @@
       "url": "https://open.spotify.com/track/6szsPoJlK8bkp5UW8mvNHK"
     },
     {
+      "added_at": "2023-06-23 00:00:00",
+      "album": {
+        "name": "HAMBA HA",
+        "url": "https://open.spotify.com/album/6bIxmm59vfwazznB9xxoXM"
+      },
+      "artists": [
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "HAMBA HA",
+      "url": "https://open.spotify.com/track/6CPmGbuYQ6IJKGgDylKhW7"
+    },
+    {
       "added_at": "2023-06-09 09:02:34",
       "album": {
         "name": "Be Free",
@@ -219,6 +299,30 @@
     {
       "added_at": "2023-06-09 09:02:34",
       "album": {
+        "name": "Ya Costa",
+        "url": "https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5"
+      },
+      "artists": [
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Lizwi Wokuqala",
+          "url": "https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w"
+        }
+      ],
+      "duration_ms": 240359,
+      "name": "Ya Costa",
+      "url": "https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA"
+    },
+    {
+      "added_at": "2023-06-09 09:02:34",
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
       },
@@ -255,30 +359,6 @@
       "duration_ms": 146040,
       "name": "NEVER RIDE",
       "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "Ya Costa",
-        "url": "https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5"
-      },
-      "artists": [
-        {
-          "name": "Malome Vector",
-          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Lizwi Wokuqala",
-          "url": "https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w"
-        }
-      ],
-      "duration_ms": 240359,
-      "name": "Ya Costa",
-      "url": "https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -335,22 +415,18 @@
     {
       "added_at": "2023-06-09 09:02:34",
       "album": {
-        "name": "031 To The World 2.0",
-        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+        "name": "uMuthi (Voodoo)",
+        "url": "https://open.spotify.com/album/2EsVQTWJweTPwyaOMv3F3Z"
       },
       "artists": [
         {
           "name": "Lucasraps",
           "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 186240,
-      "name": "The Views",
-      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+      "duration_ms": 181333,
+      "name": "uMuthi (Voodoo)",
+      "url": "https://open.spotify.com/track/54n22WyyizzqQyXyKG2wkp"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -399,6 +475,62 @@
       "duration_ms": 201290,
       "name": "Ekhoneni",
       "url": "https://open.spotify.com/track/6Poyt13mWsJMIBC6o5dKz1"
+    },
+    {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "Umntu",
+        "url": "https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF"
+      },
+      "artists": [
+        {
+          "name": "Bravo Le Roux",
+          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 236170,
+      "name": "Umntu",
+      "url": "https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr"
+    },
+    {
+      "added_at": "2023-06-23 00:00:00",
+      "album": {
+        "name": "Hot Property",
+        "url": "https://open.spotify.com/album/5wfAoW7qoAQ6A62GjEC0vz"
+      },
+      "artists": [
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Hot Property",
+      "url": "https://open.spotify.com/track/0QV4hHHHYfhmhpf6estDFk"
+    },
+    {
+      "added_at": "2023-06-09 09:02:34",
+      "album": {
+        "name": "031 To The World 2.0",
+        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "The Views",
+      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -583,26 +715,6 @@
     {
       "added_at": "2023-06-15 21:59:00",
       "album": {
-        "name": "Umntu",
-        "url": "https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF"
-      },
-      "artists": [
-        {
-          "name": "Bravo Le Roux",
-          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
-        },
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        }
-      ],
-      "duration_ms": 236170,
-      "name": "Umntu",
-      "url": "https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
         "name": "Love or War",
         "url": "https://open.spotify.com/album/3WztbiPtqtyXowq6GLLSfx"
       },
@@ -643,26 +755,22 @@
     {
       "added_at": "2023-06-09 09:02:34",
       "album": {
-        "name": "MASS COUNTRY",
-        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
+        "name": "Remember the Name",
+        "url": "https://open.spotify.com/album/5KUDGLvBLDS0RroAmLi81i"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+          "name": "Linda Kim",
+          "url": "https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nadia Nakai",
-          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+          "name": "System the One",
+          "url": "https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8"
         }
       ],
-      "duration_ms": 223797,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J"
+      "duration_ms": 167035,
+      "name": "Remember the Name",
+      "url": "https://open.spotify.com/track/6dV0UWHemAcwcT4EzXhJrR"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -683,6 +791,30 @@
       "duration_ms": 118000,
       "name": "Pardon My Arrogance",
       "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
+    },
+    {
+      "added_at": "2023-06-09 09:02:34",
+      "album": {
+        "name": "MASS COUNTRY",
+        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        }
+      ],
+      "duration_ms": 223797,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -719,6 +851,26 @@
       "duration_ms": 228148,
       "name": "FREE",
       "url": "https://open.spotify.com/track/49orqCxD9gp8RToTROct26"
+    },
+    {
+      "added_at": "2023-06-19 08:31:42",
+      "album": {
+        "name": "The Return of Soshangane Skywalker, Vol. 2",
+        "url": "https://open.spotify.com/album/5T9MkoRRoBHsvKwK7zcaY7"
+      },
+      "artists": [
+        {
+          "name": "Carvo Cardo",
+          "url": "https://open.spotify.com/artist/3GzUUVmsUqlkaSfANSpKGF"
+        },
+        {
+          "name": "Kidd969",
+          "url": "https://open.spotify.com/artist/2bh1AfTffEwCiLrotYRhYF"
+        }
+      ],
+      "duration_ms": 223247,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1JJrt2Xrj1cyNWIG6p4VqK"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -765,42 +917,6 @@
       "url": "https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw"
     },
     {
-      "added_at": "2023-06-19 08:31:42",
-      "album": {
-        "name": "The Return of Soshangane Skywalker, Vol. 2",
-        "url": "https://open.spotify.com/album/5T9MkoRRoBHsvKwK7zcaY7"
-      },
-      "artists": [
-        {
-          "name": "Carvo Cardo",
-          "url": "https://open.spotify.com/artist/3GzUUVmsUqlkaSfANSpKGF"
-        },
-        {
-          "name": "Kidd969",
-          "url": "https://open.spotify.com/artist/2bh1AfTffEwCiLrotYRhYF"
-        }
-      ],
-      "duration_ms": 223247,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1JJrt2Xrj1cyNWIG6p4VqK"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "Stalling",
-        "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 232779,
-      "name": "Stalling",
-      "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
-    },
-    {
       "added_at": "2023-06-09 09:02:34",
       "album": {
         "name": "EMOYENI",
@@ -815,30 +931,6 @@
       "duration_ms": 195719,
       "name": "EMOYENI",
       "url": "https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "SETE (feat. Young Stunna & Blxckie)",
-        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "SETE (feat. Young Stunna & Blxckie)",
-      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -867,6 +959,30 @@
       "duration_ms": 311489,
       "name": "Mrholo Wayizolo (feat. Masterpiece YVK & Papta Mancane)",
       "url": "https://open.spotify.com/track/5TSTHmrwdbkcDHD0whBqiU"
+    },
+    {
+      "added_at": "2023-06-09 09:02:34",
+      "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -903,26 +1019,6 @@
     {
       "added_at": "2023-06-09 09:02:34",
       "album": {
-        "name": "Remember the Name",
-        "url": "https://open.spotify.com/album/5KUDGLvBLDS0RroAmLi81i"
-      },
-      "artists": [
-        {
-          "name": "Linda Kim",
-          "url": "https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul"
-        },
-        {
-          "name": "System the One",
-          "url": "https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8"
-        }
-      ],
-      "duration_ms": 167035,
-      "name": "Remember the Name",
-      "url": "https://open.spotify.com/track/6dV0UWHemAcwcT4EzXhJrR"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/5uHTc3G3hWLoOq93ju4G6X"
       },
@@ -939,22 +1035,6 @@
       "duration_ms": 235572,
       "name": "After All",
       "url": "https://open.spotify.com/track/6GM6JPHKo4GaBcgdG7XadT"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "uMuthi (Voodoo)",
-        "url": "https://open.spotify.com/album/2EsVQTWJweTPwyaOMv3F3Z"
-      },
-      "artists": [
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "uMuthi (Voodoo)",
-      "url": "https://open.spotify.com/track/54n22WyyizzqQyXyKG2wkp"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -1007,78 +1087,6 @@
       "duration_ms": 259406,
       "name": "Anazinto (feat. LeoPr3ttyAugust)",
       "url": "https://open.spotify.com/track/1Y9MEtW4dKReqmnj5h4wSV"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "Benni McCarthy",
-        "url": "https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY"
-      },
-      "artists": [
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Shaney Jay",
-          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Benni McCarthy",
-      "url": "https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "Diaspora",
-        "url": "https://open.spotify.com/album/3ka1FUfKS7x0Nw2YFd6Pdf"
-      },
-      "artists": [
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        },
-        {
-          "name": "Ason",
-          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
-        }
-      ],
-      "duration_ms": 251312,
-      "name": "Dor Do Povo",
-      "url": "https://open.spotify.com/track/4Oab51CLrmfgwXIDCcaQs1"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "THAT'S WASSUP",
-        "url": "https://open.spotify.com/album/0clJ4mBuh9cL5KnBW3R0cO"
-      },
-      "artists": [
-        {
-          "name": "The Big Hash",
-          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
-        },
-        {
-          "name": "ZRi.",
-          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
-        },
-        {
-          "name": "Tyson Sybateli",
-          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
-        },
-        {
-          "name": "Thato Saul",
-          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        }
-      ],
-      "duration_ms": 322746,
-      "name": "THAT'S WASSUP",
-      "url": "https://open.spotify.com/track/4suhCex4pekxVMgzpZ2sQj"
     },
     {
       "added_at": "2023-06-09 09:02:34",

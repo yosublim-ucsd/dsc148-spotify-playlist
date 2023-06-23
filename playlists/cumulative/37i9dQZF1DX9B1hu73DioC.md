@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-644 songs - 1 day 14 hr 49 min
+647 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-06-04 | 2022-06-15 |
 | [Go Around](https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Go Around](https://open.spotify.com/album/5gcrssl1Te9P9V0QGPRWZt) | 3:43 | 2021-05-08 | 2022-07-20 |
 | [Go Slow](https://open.spotify.com/track/4BllTeaRSd5OXUceYXwVV4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 3:32 | 2021-03-15 | 2022-04-11 |
-| [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2022-10-07 |  |
+| [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 | 2023-04-21 |  |
+| [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2022-10-07 | 2023-06-23 |
 | [Gold](https://open.spotify.com/track/1oPenAfTz9oa1RWNBGy0tO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/4TqioMediFf2UaseMoxGgK) | 4:45 | 2020-10-16 | 2022-04-17 |
 | [Golden \(The Wait\)](https://open.spotify.com/track/7rvFzUECVmST7Y2lVuw6g5) | [Don Lifted](https://open.spotify.com/artist/7FuyFZHywT85uyugfUkb1h), [MadameFraankie](https://open.spotify.com/artist/0OEXQAxCmFdHvymcyUn3qu) | [Golden \(The Wait\)](https://open.spotify.com/album/2STFHlGh4J3I79qd4mDyio) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [Golden Mirror](https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [It Was a Home](https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg) | 3:44 | 2022-03-07 | 2022-07-29 |
@@ -413,6 +414,7 @@
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2020-10-06 | 2022-04-14 |
 | [Next to You](https://open.spotify.com/track/2mKtxLxiekDg8kH64LtTHK) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [KAZU](https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo) | [Next to You](https://open.spotify.com/album/0ZPq4mLSF1UqIAMw360jtV) | 4:25 | 2020-10-05\* | 2022-04-21 |
 | [No Direction](https://open.spotify.com/track/5QF5sgCiM0kuPaJyvCgotq) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [No Direction](https://open.spotify.com/album/6FrNpyf9mTZi7uC6tG0uXc) | 3:10 | 2021-09-10 | 2022-04-21 |
+| [No Quit](https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N) | 3:13 | 2023-04-21 |  |
 | [No Quit](https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/3If5SivukLSxu4S7DCWbOd) | 3:13 | 2020-10-05\* | 2022-04-16 |
 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-06-04 | 2022-07-20 |
 | [No Stress](https://open.spotify.com/track/1TVqsu1lmZU7DodZiPKIe9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [No Stress](https://open.spotify.com/album/55dCvmQtu0fiK8GiTYvjUA) | 3:31 | 2022-03-29 | 2022-06-21 |
@@ -522,7 +524,7 @@
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2023-04-06 |  |
 | [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 | 2023-03-27 | 2023-04-06 |
-| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 |  |
+| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-06-23 |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-05\* | 2022-04-21 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-07-25 | 2022-09-30 |
 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2020-10-20 |  |
@@ -552,12 +554,13 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-10-07 |  |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-06-04 | 2022-07-29 |
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2020-10-20 | 2021-05-24 |
+| [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 | 2023-04-21 |  |
 | [Talk Is Cheap](https://open.spotify.com/track/7jJsme36M90Cn6aYYC2l3t) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 3:38 | 2020-10-16 | 2023-02-24 |
 | [Talk Words](https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Talk Words](https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ) | 3:33 | 2022-06-01 | 2022-07-28 |
 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2020-10-05\* | 2020-10-06 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-25 | 2023-04-15 |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2020-10-16 | 2022-07-29 |
-| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-08-27 |  |
+| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-08-27 | 2023-06-23 |
 | [That's Nice](https://open.spotify.com/track/5Wxus9Be7FAYrnIXrbK6Q1) | [FLING](https://open.spotify.com/artist/7CF3sdtLggXXGXrsCX8veH) | [That's Nice](https://open.spotify.com/album/0jwyzFHrCJzsl5DJ2JxSnU) | 3:11 | 2020-10-05\* | 2021-05-24 |
 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 | 2022-12-07 | 2023-04-07 |
 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2020-10-05\* | 2022-04-16 |

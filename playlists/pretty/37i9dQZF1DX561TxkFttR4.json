@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 332908,
+  "num_followers": 332947,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk",
+  "snapshot_id": "MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 335542,
-      "name": "Natural Light",
-      "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Quietly Quietly",
         "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 202500,
       "name": "Quietly Quietly",
       "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 335542,
+      "name": "Natural Light",
+      "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Starry Sky",
         "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 140000,
       "name": "Starry Sky",
       "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Night Solace",
+        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "Night Solace",
+      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Gdansk",
-        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 147314,
-      "name": "Gdansk",
-      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Gdansk",
+        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 147314,
+      "name": "Gdansk",
+      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
-      },
-      "artists": [
-        {
-          "name": "Otto A. Totland",
-          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Anona",
-      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Lost",
+        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+      },
+      "artists": [
+        {
+          "name": "Otto A. Totland",
+          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Anona",
+      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Song For Katie",
         "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 146960,
       "name": "Song For Katie",
       "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
-      },
-      "artists": [
-        {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+      },
+      "artists": [
+        {
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Some Other Place",
         "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 253169,
       "name": "Some Other Place",
       "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "added_at": "2022-09-20 13:39:53",

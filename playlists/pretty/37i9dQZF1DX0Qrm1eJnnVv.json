@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3747,
+  "num_followers": 3753,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODM0ZjY4YzkzZmNhMzkxMDBmNGY5M2JlZjI3MzZjOGIyNWU0NTA5",
+  "snapshot_id": "MCxiMjkxOTNiN2JkZWI1OWQ1NmI4ZjAyZmE1YTlkNzE0M2ExYWFjMDA3",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -159,6 +159,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "duration_ms": 112684,
+      "name": "Wall Street Rag",
+      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "World's Greatest Piano Rags",
         "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 122760,
       "name": "Pastime Rag No. 4",
       "url": "https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
-      },
-      "artists": [
-        {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
-        }
-      ],
-      "duration_ms": 112684,
-      "name": "Wall Street Rag",
-      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -263,38 +263,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
-        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
-      },
-      "artists": [
-        {
-          "name": "Claude Bolling",
-          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Gladiolus Rag",
-      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
-      },
-      "artists": [
-        {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
-        }
-      ],
-      "duration_ms": 397385,
-      "name": "Harmony Club Waltz",
-      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime",
         "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 215133,
       "name": "Ragtime Nightingale",
       "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
+        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
+      },
+      "artists": [
+        {
+          "name": "Claude Bolling",
+          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Gladiolus Rag",
+      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -339,6 +323,22 @@
       "duration_ms": 210253,
       "name": "Castle House Rag (James Reese Europe, 1914)",
       "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "duration_ms": 397385,
+      "name": "Harmony Club Waltz",
+      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "100 Years of Ragtime",
-        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
-      },
-      "artists": [
-        {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "American Beauty Rag",
-      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Grace And Beauty - Ragtime Classics",
         "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Complete Piano Works of Scott Joplin",
-        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
-      },
-      "artists": [
-        {
-          "name": "Knocky Parker",
-          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
-        }
-      ],
-      "duration_ms": 114194,
-      "name": "Fig Leaf Rag",
-      "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Revival",
         "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 210000,
       "name": "Ragtime Oriole",
       "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "100 Years of Ragtime",
+        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "American Beauty Rag",
+      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "duration_ms": 114194,
+      "name": "Fig Leaf Rag",
+      "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
-      },
-      "artists": [
-        {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
-        }
-      ],
-      "duration_ms": 148577,
-      "name": "Sensation Rag",
-      "url": "https://open.spotify.com/track/2PtZyMXdMvbimCmx9v6j8O"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Classics, 1901-1919",
         "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 165382,
       "name": "Paramount Rag",
       "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "duration_ms": 148577,
+      "name": "Sensation Rag",
+      "url": "https://open.spotify.com/track/2PtZyMXdMvbimCmx9v6j8O"
     },
     {
       "added_at": "2020-08-19 17:18:36",

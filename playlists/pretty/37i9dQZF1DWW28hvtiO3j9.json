@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 111855,
+  "num_followers": 111991,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTZmYTViM2FiNTg0OGQ0NTI5MWMyZTM5N2Y0YTRkYTM2ZTJiMGMz",
+  "snapshot_id": "MCxmNDNhZTRkMjdjNzBlZWVhNjQ5NTk0ZDJiY2MwZTAwMzE2NDg1MDNk",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo"
+        "name": "BEST COLLECTION \u301cMOON YEARS\u301c",
+        "url": "https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw"
       },
       "artists": [
         {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+          "name": "Kingo Hamada",
+          "url": "https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF"
         }
       ],
-      "duration_ms": 464066,
-      "name": "MIDNIGHT DRIVER",
-      "url": "https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU"
+      "duration_ms": 266760,
+      "name": "GATSBY WOMAN",
+      "url": "https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "BEST COLLECTION \u301cMOON YEARS\u301c",
-        "url": "https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw"
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo"
       },
       "artists": [
         {
-          "name": "Kingo Hamada",
-          "url": "https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF"
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
         }
       ],
-      "duration_ms": 266760,
-      "name": "GATSBY WOMAN",
-      "url": "https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es"
+      "duration_ms": 464066,
+      "name": "MIDNIGHT DRIVER",
+      "url": "https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -739,22 +739,6 @@
       "duration_ms": 278160,
       "name": "Ocean Side",
       "url": "https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "LIGHT'N UP",
-        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "LIGHT'N UP",
-      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 284333,
       "name": "Bewitched (Are You Leaving Soon)",
       "url": "https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "LIGHT'N UP",
+        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "LIGHT'N UP",
+      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
     }
   ],
   "unique_name": "City Pop '80s",

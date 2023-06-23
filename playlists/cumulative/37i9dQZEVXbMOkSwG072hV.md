@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,401 songs - 3 day 0 hr 36 min
+1,402 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-12 |  |
 | [Mal Caminho](https://open.spotify.com/track/0bvLxd9bUAYGKkpMYdR60F) | [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [Mal Caminho](https://open.spotify.com/album/4vMeyOudpM3C6aE0A2uZt8) | 2:35 | 2022-03-23 | 2022-05-11 |
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-02-08 | 2022-02-26 |
-| [Mal Nenhum](https://open.spotify.com/track/3xB2bbzkACM2p5DeND2H5R) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 3:44 | 2023-06-14 |  |
+| [Mal Nenhum](https://open.spotify.com/track/3xB2bbzkACM2p5DeND2H5R) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 3:44 | 2023-06-14 | 2023-06-23 |
 | [Mal Sei Falar de Amor](https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Mal Sei Falar de Amor](https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr) | 2:08 | 2022-10-25 | 2022-11-26 |
 | [MALDITA PERIGOSA](https://open.spotify.com/track/7MJiZazhXeWZoFZlBzC7sf) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0) | [MALDITA PERIGOSA](https://open.spotify.com/album/3i4p8zlN5C2TQaJBkFfTT4) | 3:13 | 2022-01-17 | 2022-01-24 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-02-22 | 2022-03-23 |
@@ -847,6 +847,7 @@
 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 | 2022-11-11 | 2022-11-18 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-17 | 2023-05-20 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-05-19 | 2023-06-05 |
+| [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 | 2023-06-22 |  |
 | [Negro Amor \(It's All Over Now, Baby Clue\)](https://open.spotify.com/track/3QAVjhDbh7Bv6kUbSNXmdy) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 6:19 | 2022-11-14 | 2022-11-18 |
 | [Nem Balancei](https://open.spotify.com/track/24NagNNYz5OrAdbVAiaZtU) | [Pedro Libe](https://open.spotify.com/artist/17BosX8iQj91SXOx7dsi5k), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pra Causar, Vol\. 1](https://open.spotify.com/album/2PIXNGrgExpvW4CFaBq1j6) | 2:58 | 2022-01-17 | 2022-02-02 |
 | [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 | 2022-06-21 | 2022-07-06 |
